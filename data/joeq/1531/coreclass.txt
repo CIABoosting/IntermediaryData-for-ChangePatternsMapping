@@ -1,0 +1,11 @@
+IterativeSolver:0.3466666666666667
+LivenessAnalysis:0.33666666666666667
+PriorityQueueSolver:0.3333333333333333
+SortedSetSolver:0.3333333333333333
+ReachingDefs:0.29333333333333333
+BitVectorFact:0.24
+UnionBitVectorFact:0.19
+WorklistSolver:0.17666666666666667
+GenKillTransferFunction:0.14333333333333334
+Solver:0.14333333333333334
+BBComparator:0.02

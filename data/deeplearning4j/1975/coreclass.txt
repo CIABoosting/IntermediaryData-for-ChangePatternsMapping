@@ -1,0 +1,17 @@
+SubsamplingLayer:0.3433333333333333
+ConvolutionLayer:0.3433333333333333
+CudnnConvolutionHelper:0.3333333333333333
+LocalResponseNormalizationHelper:0.32455555555555554
+SubsamplingHelper:0.32455555555555554
+BatchNormalizationHelper:0.32455555555555554
+CudnnBatchNormalizationHelper:0.32166666666666666
+BatchNormalization:0.31
+LocalResponseNormalization:0.2
+CenterLossOutputLayer:0.18333333333333332
+ConvolutionHelper:0.16333333333333333
+CudnnLocalResponseNormalizationHelper:0.16333333333333333
+CudnnSubsamplingHelper:0.12666666666666668
+CudnnConvolutionContext:0.016666666666666666
+CudnnLocalResponseNormalizationContext:0.0
+CudnnBatchNormalizationContext:0.0
+CudnnSubsamplingContext:0.0

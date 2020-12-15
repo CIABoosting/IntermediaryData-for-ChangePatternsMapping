@@ -1,0 +1,11 @@
+ReplicatedRecordStore:0.6266666666666667
+AbstractReplicatedRecordStore:0.47333333333333333
+VectorClock:0.27666666666666667
+HazelcastInstanceImpl:0.27
+ReplicatedMapService:0.24
+ReplicatedMapProxy:0.20333333333333334
+HazelcastInstanceProxy:0.19
+ReplicatedMapInitChunkOperation:0.18333333333333332
+ReplicatedMapPostJoinOperation:0.14333333333333334
+ReplicationListener:0.13333333333333333
+CleanerRegistrator:0.0

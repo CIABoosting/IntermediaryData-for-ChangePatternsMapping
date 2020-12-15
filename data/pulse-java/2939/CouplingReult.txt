@@ -1,0 +1,29 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.torweg.pulse.component.statistics.view.AbstractStatisticsController: 
+new Added class 1 : org.torweg.pulse.component.core.accesscontrol.admin.LoadPermissionsController: 
+new Added class 2 : org.torweg.pulse.component.core.accesscontrol.admin.LoadRolesController: 
+new Added class 3 : org.torweg.pulse.component.core.accesscontrol.admin.LoadUsersController: 
+new Added class 4 : org.torweg.pulse.component.core.LocaleAndBundleRemover: 
+new Added class 5 : org.torweg.pulse.util.json.PermissionJSONWrapper: 
+new Added class 6 : org.torweg.pulse.util.adminui.RightsCheckUtils: 
+new Added class 7 : org.torweg.pulse.accesscontrol.TestUser: 
+new Added class 8 : org.torweg.pulse.accesscontrol.User: 
+new Added class 9 : org.torweg.pulse.component.core.accesscontrol.admin.UserEditor: 
+new Added class 10 : org.torweg.pulse.util.json.UserJSONWrapper: 
+new Added class 11 : org.torweg.pulse.component.core.system.ViewportController: 
+new Added class 12 : org.torweg.pulse.vfs.VirtualFile: 
+new Added class 13 : org.torweg.pulse.component.statistics.view.WestPanelController: 
+testing relationship 
+class 0  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 4  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:3  r15:0  r16:1  r17:0  
+class 7  vs  class 8£º  r0:0  r1:0  r2:0  r3:4  r4:0  r5:0  r6:4  r7:0  r8:0  r9:0  r10:0  r11:40  r12:0  r13:28  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:9  r4:0  r5:0  r6:10  r7:0  r8:0  r9:0  r10:0  r11:27  r12:0  r13:6  r14:5  r15:0  r16:4  r17:0  
+class 10  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:2  r17:0  
+class 13  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  13   4 :  0   5 :  0   6 :  15   7 :  0   8 :  0   9 :  0   10 :  0   11 :  74   12 :  0   13 :  35   14 :  13   15 :  0   16 :  8   17 :  0   

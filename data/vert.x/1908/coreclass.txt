@@ -1,0 +1,12 @@
+TCPMetrics:0.38
+SocketMetric:0.3433333333333333
+FakeVertxMetrics:0.3233333333333333
+MetricsTest:0.2966666666666667
+ClientConnection:0.25
+DummyHttpServerMetrics:0.21666666666666667
+DummyHttpClientMetrics:0.21666666666666667
+FakeHttpServerMetrics:0.21333333333333335
+FakeHttpClientMetrics:0.21333333333333335
+ConnectionBase:0.20333333333333334
+DatagramSocketImpl:0.19
+DummyTCPMetrics:0.12333333333333334

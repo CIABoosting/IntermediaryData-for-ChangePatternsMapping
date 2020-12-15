@@ -1,0 +1,12 @@
+SimulatePipelineResponse:0.6433333333333333
+ConfigurationUtils:0.3233333333333333
+DataTests:0.2866666666666667
+ParsedSimulateRequest:0.26666666666666666
+SimulatePipelineRequest:0.26
+SimulateExecutionService:0.04
+SimulatePipelineRequestBuilder:0.03
+SimulateExecutionServiceTests:0.02
+IngestClientIT:0.013333333333333334
+SimulatePipelineTransportAction:0.0125
+ParsedSimulateRequestParserTests:0.01
+RestSimulatePipelineAction:0.005

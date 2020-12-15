@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.deeplearning4j.nn.conf.layers.ActivationLayer: 
+new Added class 1 : org.deeplearning4j.nn.conf.layers.AutoEncoder: 
+new Added class 2 : org.deeplearning4j.nn.conf.layers.BatchNormalization: 
+new Added class 3 : org.deeplearning4j.nn.conf.layers.ConvolutionLayer: 
+new Added class 4 : org.deeplearning4j.nn.conf.layers.DenseLayer: 
+new Added class 5 : org.deeplearning4j.nn.conf.layers.EmbeddingLayer: 
+new Added class 6 : org.deeplearning4j.nn.conf.layers.GravesBidirectionalLSTM: 
+new Added class 7 : org.deeplearning4j.nn.conf.layers.GravesLSTM: 
+new Added class 8 : org.deeplearning4j.nn.conf.layers.GRU: 
+new Added class 9 : org.deeplearning4j.nn.conf.layers.LocalResponseNormalization: 
+new Added class 10 : org.deeplearning4j.nn.conf.layers.OutputLayer: 
+new Added class 11 : org.deeplearning4j.nn.conf.layers.RBM: 
+new Added class 12 : org.deeplearning4j.nn.conf.layers.RnnOutputLayer: 
+new Added class 13 : org.deeplearning4j.nn.conf.layers.SubsamplingLayer: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

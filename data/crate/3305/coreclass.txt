@@ -1,0 +1,11 @@
+WriterProjection:0.52
+CopyToAnalyzedStatement:0.31
+CopyIntegrationTest:0.21333333333333335
+WriterProjectorTest:0.18
+CopyAnalyzerTest:0.16333333333333333
+ColumnRowWriter:0.16
+WriterProjector:0.13
+CopyStatementPlanner:0.12666666666666668
+ProjectionBuilder:0.12
+CopyStatementAnalyzer:0.11666666666666667
+ColumnRowObjectWriter:0.06

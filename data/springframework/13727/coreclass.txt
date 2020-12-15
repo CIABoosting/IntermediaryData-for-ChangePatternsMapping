@@ -1,0 +1,15 @@
+RetryPolicy:0.6166666666666667
+NeverRetryPolicy:0.49333333333333335
+SimpleRetryPolicy:0.39366666666666666
+RetryTemplate:0.22111111111111115
+CompositeRetryPolicyTests:0.19333333333333333
+CompositeRetryPolicy:0.18333333333333332
+StatefulRecoveryRetryTests:0.13
+RetryTemplateTests:0.12333333333333334
+ExceptionClassifierRetryPolicyTests:0.11
+ExceptionClassifierRetryContext:0.10666666666666667
+TimeoutRetryPolicy:0.10642857142857143
+AlwaysRetryPolicyTests:0.10333333333333333
+NeverRetryPolicyTests:0.08666666666666667
+TimeoutRetryPolicyTests:0.08666666666666667
+ExceptionClassifierRetryPolicy:0.07666666666666666

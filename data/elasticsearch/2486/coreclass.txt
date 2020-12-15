@@ -1,0 +1,12 @@
+Translog:0.7366666666666667
+IndexShard:0.5833333333333334
+TransportShardBulkAction:0.3433333333333333
+IndexShardTestCase:0.3233333333333333
+TextFieldMapperTests:0.30666666666666664
+TransportShardBulkActionTests:0.24666666666666667
+IndexShardTests:0.22666666666666666
+MappingUpdatedAction:0.19666666666666666
+PeerRecoveryTargetServiceTests:0.09666666666666666
+TranslogHandler:0.07777777777777778
+ThrowingMappingUpdatePerformer:0.016666666666666666
+ThrowingVerifyingMappingUpdatePerformer:0.016666666666666666

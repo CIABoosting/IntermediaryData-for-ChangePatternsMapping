@@ -1,0 +1,76 @@
+Compared Result of  two versions
+Number of New Class: 44
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.torweg.pulse.site.content.admin.AbstractBasicContentEditor: 
+new Added class 1 : org.torweg.pulse.site.content.admin.AbstractContentRegistryEditor: 
+new Added class 2 : org.torweg.pulse.component.core.accesscontrol.attributes.admin.AttributeRegistryEditor: 
+new Added class 3 : org.torweg.pulse.component.cms.admin.CMSContentEditor: 
+new Added class 4 : org.torweg.pulse.component.cms.admin.CMSContentRegistryEditor: 
+new Added class 5 : org.torweg.pulse.component.cms.admin.CMSPageEditor: 
+new Added class 6 : org.torweg.pulse.component.core.accesscontrol.admin.CommandMatcherEditor: 
+new Added class 7 : org.torweg.pulse.component.core.contentregistry.ContentGroupEditor: 
+new Added class 8 : org.torweg.pulse.component.core.contentregistry.CoreContentRegistryEditor: 
+new Added class 9 : org.torweg.pulse.component.core.adminui.FileBrowser: 
+new Added class 10 : org.torweg.pulse.component.core.contentregistry.FileContentEditor: 
+new Added class 11 : org.torweg.pulse.component.core.site.content.filter.FilterContentDisplayerResult: 
+new Added class 12 : org.torweg.pulse.component.core.site.content.filter.admin.FilterContentEditor: 
+new Added class 13 : org.torweg.pulse.component.core.site.content.filter.admin.FilterEditor: 
+new Added class 14 : org.torweg.pulse.component.core.site.content.filter.admin.FilterMatchesEditor: 
+new Added class 15 : org.torweg.pulse.component.core.site.content.filter.admin.FilterRulesEditor: 
+new Added class 16 : org.torweg.pulse.component.core.accesscontrol.admin.GroupEditor: 
+new Added class 17 : org.torweg.pulse.component.util.retailer.imports.ImportRetailer: 
+new Added class 18 : org.torweg.pulse.util.adminui.JSONCommunicationUtils: 
+new Added class 19 : org.torweg.pulse.component.shop.checkout.Order: 
+new Added class 20 : org.torweg.pulse.component.core.accesscontrol.admin.PermissionEditor: 
+new Added class 21 : org.torweg.pulse.component.statistics.model.aggregation.PIClientInfoAggregation: 
+new Added class 22 : org.torweg.pulse.component.statistics.model.aggregation.PIPathAggregation: 
+new Added class 23 : org.torweg.pulse.service.event.PlainTextOutputEvent: 
+new Added class 24 : org.torweg.pulse.component.util.representative.admin.RepresentativeEditor: 
+new Added class 25 : org.torweg.pulse.component.util.retailer.admin.RetailerEditor: 
+new Added class 26 : org.torweg.pulse.component.core.accesscontrol.admin.RoleEditor: 
+new Added class 27 : org.torweg.pulse.component.shop.admin.ShopContentEditor: 
+new Added class 28 : org.torweg.pulse.component.shop.admin.ShopContentRegistryEditor: 
+new Added class 29 : org.torweg.pulse.component.shop.admin.ShopOrderViewer: 
+new Added class 30 : org.torweg.pulse.component.shop.model.ShopSettings: 
+new Added class 31 : org.torweg.pulse.component.shop.admin.ShopSettingsEditor: 
+new Added class 32 : org.torweg.pulse.component.core.site.map.SitemapEditor: 
+new Added class 33 : org.torweg.pulse.component.store.admin.StoreContentEditor: 
+new Added class 34 : org.torweg.pulse.component.store.admin.StoreContentImageGroupEditor: 
+new Added class 35 : org.torweg.pulse.component.store.admin.StoreContentRegistryEditor: 
+new Added class 36 : org.torweg.pulse.component.core.site.view.StyleEditor: 
+new Added class 37 : org.torweg.pulse.component.shop.model.TaxGroup: 
+new Added class 38 : org.torweg.pulse.component.core.site.view.ThemesEditor: 
+new Added class 39 : org.torweg.pulse.component.core.UploadProgressCheck: 
+new Added class 40 : org.torweg.pulse.component.core.contentregistry.URLContentEditor: 
+new Added class 41 : org.torweg.pulse.component.core.accesscontrol.admin.UserEditor: 
+new Added class 42 : org.torweg.pulse.component.core.accesscontrol.vfs.admin.VFSPermissionEditor: 
+new Added class 43 : org.torweg.pulse.component.core.site.view.ViewEditor: 
+testing relationship 
+class 3  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:3  r17:0  
+class 20  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 30£º  r0:0  r1:0  r2:0  r3:4  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 27  vs  class 33£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 37£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:3  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 19£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 31  vs  class 30£º  r0:0  r1:0  r2:0  r3:4  r4:1  r5:0  r6:4  r7:0  r8:0  r9:0  r10:0  r11:14  r12:0  r13:2  r14:3  r15:0  r16:3  r17:0  
+class 31  vs  class 37£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:1  r14:6  r15:0  r16:2  r17:0  
+class 33  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  10   2 :  0   3 :  13   4 :  1   5 :  3   6 :  10   7 :  0   8 :  2   9 :  0   10 :  0   11 :  72   12 :  0   13 :  5   14 :  13   15 :  0   16 :  10   17 :  0   

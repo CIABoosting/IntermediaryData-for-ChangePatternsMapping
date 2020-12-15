@@ -1,0 +1,7 @@
+WriteBehindQueue:0.6933333333333334
+CoalescedWriteBehindQueue:0.4166666666666667
+BoundedCoalescedWriteBehindQueue:0.30333333333333334
+ArrayWriteBehindQueue:0.27
+SynchronizedWriteBehindQueue:0.27
+StoreWorker:0.25
+EmptyWriteBehindQueue:0.21333333333333335

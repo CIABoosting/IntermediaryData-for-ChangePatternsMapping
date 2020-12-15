@@ -1,0 +1,12 @@
+InternalAggregation:0.58
+ScriptMetaDataTests:0.3
+CollapseBuilderTests:0.28
+InternalMatrixStatsTests:0.23333333333333334
+AbstractWireSerializingTestCase:0.20666666666666667
+RepositoriesMetaDataSerializationTests:0.16
+SnapshotsInProgressSerializationTests:0.16
+FieldCapabilitiesTests:0.04666666666666667
+InternalFiltersTests:0.043333333333333335
+RefreshStatsTests:0.04
+InternalSingleBucketAggregationTestCase:0.03333333333333333
+StoredScriptSourceTests:0.02

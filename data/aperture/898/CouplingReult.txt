@@ -1,0 +1,67 @@
+Compared Result of  two versions
+Number of New Class: 44
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.semanticdesktop.aperture.ApertureTestBase: 
+new Added class 1 : org.semanticdesktop.aperture.addressbook.apple.AppleAddressbookDataSourceFactory: 
+new Added class 2 : org.semanticdesktop.aperture.datasource.config.ConfigurationUtil: 
+new Added class 3 : org.semanticdesktop.aperture.vocabulary.DATASOURCE: 
+new Added class 4 : org.semanticdesktop.aperture.datasource.base.DataSourceBase: 
+new Added class 5 : org.semanticdesktop.aperture.vocabulary.DATASOURCE_GEN: 
+new Added class 6 : org.semanticdesktop.aperture.crawler.filesystem.FileSystemCrawlerFactory: 
+new Added class 7 : org.semanticdesktop.aperture.datasource.filesystem.FileSystemDataSource: 
+new Added class 8 : org.semanticdesktop.aperture.datasource.filesystem.FileSystemDataSourceFactory: 
+new Added class 9 : org.semanticdesktop.aperture.vocabulary.FRESNEL: 
+new Added class 10 : org.semanticdesktop.aperture.vocabulary.FRESNEL_GEN: 
+new Added class 11 : org.semanticdesktop.aperture.util.HttpClientUtil: 
+new Added class 12 : org.semanticdesktop.aperture.crawler.ical.IcalCrawler: 
+new Added class 13 : org.semanticdesktop.aperture.crawler.ical.IcalCrawlerFactory: 
+new Added class 14 : org.semanticdesktop.aperture.datasource.ical.IcalDataSource: 
+new Added class 15 : org.semanticdesktop.aperture.datasource.ical.IcalDataSourceFactory: 
+new Added class 16 : org.semanticdesktop.aperture.crawler.imap.ImapCrawlerFactory: 
+new Added class 17 : org.semanticdesktop.aperture.datasource.imap.ImapDataSource: 
+new Added class 18 : org.semanticdesktop.aperture.datasource.imap.ImapDataSourceFactory: 
+new Added class 19 : org.semanticdesktop.aperture.util.IOUtil: 
+new Added class 20 : org.semanticdesktop.aperture.vocabulary.NCAL: 
+new Added class 21 : org.semanticdesktop.aperture.vocabulary.NCO: 
+new Added class 22 : org.semanticdesktop.aperture.vocabulary.NEXIF: 
+new Added class 23 : org.semanticdesktop.aperture.vocabulary.NFO: 
+new Added class 24 : org.semanticdesktop.aperture.vocabulary.NID3: 
+new Added class 25 : org.semanticdesktop.aperture.vocabulary.NIE: 
+new Added class 26 : org.semanticdesktop.aperture.vocabulary.NMO: 
+new Added class 27 : org.semanticdesktop.aperture.util.ontology.OntologyUtil: 
+new Added class 28 : org.semanticdesktop.aperture.outlook.OutlookCrawlerFactory: 
+new Added class 29 : org.semanticdesktop.aperture.outlook.OutlookDataSource: 
+new Added class 30 : org.semanticdesktop.aperture.outlook.OutlookDataSourceFactory: 
+new Added class 31 : org.semanticdesktop.aperture.datasource.config.RegExpPattern: 
+new Added class 32 : org.semanticdesktop.aperture.vocabulary.SOURCEFORMAT: 
+new Added class 33 : org.semanticdesktop.aperture.vocabulary.SOURCEFORMAT_GEN: 
+new Added class 34 : org.semanticdesktop.aperture.datasource.config.SubstringPattern: 
+new Added class 35 : org.semanticdesktop.aperture.vocabulary.TAGGING: 
+new Added class 36 : org.semanticdesktop.aperture.crawler.impl.TestDefaultCrawlerRegistry: 
+new Added class 37 : org.semanticdesktop.aperture.datasource.impl.TestDefaultDataSourceRegistry: 
+new Added class 38 : org.semanticdesktop.aperture.crawler.ical.TestIcalCrawler: 
+new Added class 39 : org.semanticdesktop.aperture.addressbook.thunderbird.ThunderbirdAddressbookDataSourceFactory: 
+new Added class 40 : org.semanticdesktop.aperture.util.VocabularyWriter: 
+new Added class 41 : org.semanticdesktop.aperture.crawler.web.WebCrawlerFactory: 
+new Added class 42 : org.semanticdesktop.aperture.datasource.web.WebDataSource: 
+new Added class 43 : org.semanticdesktop.aperture.datasource.web.WebDataSourceFactory: 
+testing relationship 
+class 3  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 14£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:4  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 33£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 42  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  8   2 :  3   3 :  1   4 :  0   5 :  0   6 :  6   7 :  0   8 :  0   9 :  0   10 :  0   11 :  14   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

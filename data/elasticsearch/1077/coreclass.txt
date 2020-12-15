@@ -1,0 +1,11 @@
+Request:0.51
+Alias:0.34
+CreateIndexRequest:0.34
+Params:0.27666666666666667
+CreateIndexResponse:0.26555555555555554
+AcknowledgedResponse:0.20666666666666667
+RequestTests:0.19666666666666666
+IndicesClient:0.16166666666666665
+CreateIndexRequestTests:0.08
+IndicesClientDocumentationIT:0.06666666666666667
+IndicesClientIT:0.02

@@ -1,0 +1,16 @@
+PlanPrinter:0.5033333333333333
+BaseAnalyzerTest:0.29333333333333333
+Formatter:0.29
+AnalyzedStatementVisitor:0.29
+PlannerTest:0.28
+Analyzer:0.27
+PlanVisitor:0.25333333333333335
+AnalyzedRelationVisitor:0.25333333333333335
+AnalyzerDispatcher:0.22666666666666666
+Planner:0.21333333333333335
+TransportBaseSQLAction:0.18666666666666668
+TaskCollectingVisitor:0.17333333333333334
+ExecutionPhase2MapVisitor:0.14666666666666667
+Plan2MapVisitor:0.12333333333333334
+SysClusterTest:0.02
+Projection2MapVisitor:0.0

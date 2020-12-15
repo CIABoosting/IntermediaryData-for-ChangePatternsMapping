@@ -1,0 +1,9 @@
+ClientConnectionManagerImpl:0.49
+AuthenticationFuture:0.44601190476190483
+InitConnectionTask:0.2773333333333333
+TimeoutAuthenticationTask:0.11333333333333333
+AuthCallback:0.09666666666666666
+CustomCredentials_retried:0.08333333333333333
+CustomCredentials_takesLong:0.08333333333333333
+CustomCredentials:0.08
+ClientReconnectTest:0.02666666666666667

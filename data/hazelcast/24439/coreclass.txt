@@ -1,0 +1,15 @@
+Address:0.4
+AddressMatcher:0.38666666666666666
+MemberImpl:0.32666666666666666
+Node:0.31166666666666665
+TcpIpJoiner:0.24
+PartitionStateGeneratorTest:0.20666666666666667
+AddressUtil:0.17333333333333334
+GroupProperties:0.15
+AddressPicker:0.13
+AddressUtilTest:0.12666666666666668
+ClientAuthenticateHandler:0.08333333333333333
+Ip4AddressMatcher:0.06
+Ip6AddressMatcher:0.03333333333333333
+AddressHolder:0.023333333333333334
+InvalidAddressException:0.0033333333333333335

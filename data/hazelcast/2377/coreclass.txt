@@ -1,0 +1,13 @@
+LocalMapStatsImpl:0.54
+MapProxySupport:0.27
+MultiMapProxySupport:0.24666666666666667
+EntryOperator:0.23666666666666666
+MapServiceContextImpl:0.23
+MapRemoveMessageTask:0.20666666666666667
+MapGetMessageTask:0.20666666666666667
+TxnRemoveOperation:0.19
+TxnRemoveAllOperation:0.19
+TxnPutOperation:0.19
+LocalMultiMapStatsImplTest:0.17333333333333334
+LocalMapStatsImplTest:0.12666666666666668
+AbstractMapPutMessageTask:0.08333333333333333

@@ -1,0 +1,14 @@
+BlobIndicesService:0.45
+BlobShard:0.41
+LifecycleListener:0.40972222222222227
+SysShardsTest:0.2966666666666667
+SQLPlugin:0.20333333333333334
+BlobModule:0.18444444444444444
+BlobPlugin:0.15
+StartRecoveryRequestHandler:0.1318888888888889
+InternalBlobTableInfoFactory:0.07333333333333333
+ShardCollectService:0.06
+BlobIndex:0.06
+BlobShardReferenceResolver:0.02666666666666667
+BlobRecoveryTarget:0.02666666666666667
+BlobIntegrationTestBase:0.01

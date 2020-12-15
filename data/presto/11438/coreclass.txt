@@ -1,0 +1,8 @@
+HiveClientConfig:0.82
+CachingHiveMetastore:0.52
+TestHiveClientConfig:0.26
+TestCachingHiveMetastore:0.22666666666666666
+TestHiveClientSplitIteratorBackPressure:0.10666666666666667
+TestHiveClient:0.10666666666666667
+BackgroundCacheLoader:0.04416666666666667
+HiveClientModule:0.04

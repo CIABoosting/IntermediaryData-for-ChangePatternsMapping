@@ -1,0 +1,14 @@
+ClassInjector:0.33
+ByteBuddy:0.29
+UsingReflection:0.2833333333333333
+InjectionDispatcher:0.27
+ClassLoadingStrategy:0.2633333333333333
+UsingInstrumentation:0.24333333333333335
+WrappingDispatcher:0.21666666666666667
+Enabled:0.19333333333333333
+ForBootstrapInjection:0.15
+ExecutingTransformer:0.14666666666666667
+ByteArrayClassLoader:0.14333333333333334
+Configurable:0.11
+ClassLoadingStrategyDefaultTest:0.08666666666666667
+AbstractMethodCallProxyTest:0.07666666666666666

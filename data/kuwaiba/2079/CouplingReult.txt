@@ -1,0 +1,316 @@
+Compared Result of  two versions
+Number of New Class: 116
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.kuwaiba.web.misc.AccessFilter: 
+new Added class 1 : org.kuwaiba.apis.persistence.application.ActivityLogEntry: 
+new Added class 2 : org.kuwaiba.apis.persistence.business.AnnotatedRemoteBusinessObjectLight: 
+new Added class 3 : org.kuwaiba.services.persistence.impl.neo4j.ApplicationEntityManagerImpl: 
+new Added class 4 : org.kuwaiba.ws.toserialize.application.ApplicationLogEntry: 
+new Added class 5 : org.kuwaiba.apis.persistence.exceptions.ApplicationObjectNotFoundException: 
+new Added class 6 : org.kuwaiba.apis.persistence.exceptions.ArraySizeMismatchException: 
+new Added class 7 : org.kuwaiba.ws.toserialize.metadata.AttributeInfo: 
+new Added class 8 : org.kuwaiba.apis.persistence.business.BusinessEntityManager: 
+new Added class 9 : org.kuwaiba.services.persistence.cache.CacheManager: 
+new Added class 10 : org.kuwaiba.services.persistence.cache.CacheStrategy: 
+new Added class 11 : org.kuwaiba.ws.toserialize.metadata.CategoryInfo: 
+new Added class 12 : org.kuwaiba.util.ChangeDescriptor: 
+new Added class 13 : org.kuwaiba.ws.toserialize.metadata.ClassInfoLight: 
+new Added class 14 : org.kuwaiba.apis.persistence.metadata.ClassMetadataLight: 
+new Added class 15 : org.kuwaiba.apis.persistence.application.CompactQuery: 
+new Added class 16 : org.kuwaiba.apis.persistence.exceptions.ConnectionException: 
+new Added class 17 : org.kuwaiba.apis.persistence.ConnectionManager: 
+new Added class 18 : org.kuwaiba.services.persistence.impl.neo4j.ConnectionManagerImpl: 
+new Added class 19 : org.kuwaiba.util.Constants: 
+new Added class 20 : org.kuwaiba.services.persistence.impl.neo4j.CypherParser: 
+new Added class 21 : org.kuwaiba.services.persistence.impl.neo4j.CypherQueryBuilder: 
+new Added class 22 : org.kuwaiba.apis.persistence.exceptions.DatabaseException: 
+new Added class 23 : org.kuwaiba.apis.persistence.integrity.DataIntegrityService: 
+new Added class 24 : org.kuwaiba.apis.persistence.integrity.DataModelLoader: 
+new Added class 25 : com.neotropic.kuwaiba.modules.reporting.defaults.DefaultReports: 
+new Added class 26 : org.kuwaiba.apis.persistence.application.ExtendedQuery: 
+new Added class 27 : org.kuwaiba.web.misc.FileSizeValidator: 
+new Added class 28 : com.neotropic.kuwaiba.modules.GenericCommercialModule: 
+new Added class 29 : org.kuwaiba.apis.persistence.metadata.GenericObjectList: 
+new Added class 30 : org.kuwaiba.ws.toserialize.application.GroupInfo: 
+new Added class 31 : org.kuwaiba.ws.toserialize.application.GroupInfoLight: 
+new Added class 32 : org.kuwaiba.apis.persistence.application.GroupProfile: 
+new Added class 33 : org.kuwaiba.apis.persistence.application.GroupProfileLight: 
+new Added class 34 : org.kuwaiba.apis.persistence.application.HistorycEntry: 
+new Added class 35 : com.neotropic.kuwaiba.modules.reporting.html.HTMLColumn: 
+new Added class 36 : com.neotropic.kuwaiba.modules.reporting.html.HTMLComponent: 
+new Added class 37 : com.neotropic.kuwaiba.modules.reporting.html.HTMLHx: 
+new Added class 38 : com.neotropic.kuwaiba.modules.reporting.html.HTMLImage: 
+new Added class 39 : com.neotropic.kuwaiba.modules.reporting.html.HTMLMessage: 
+new Added class 40 : com.neotropic.kuwaiba.modules.reporting.html.HTMLReport: 
+new Added class 41 : com.neotropic.kuwaiba.modules.reporting.html.HTMLRow: 
+new Added class 42 : com.neotropic.kuwaiba.modules.reporting.html.HTMLTable: 
+new Added class 43 : org.kuwaiba.apis.persistence.metadata.InterfaceMetadata: 
+new Added class 44 : org.kuwaiba.apis.persistence.exceptions.InvalidArgumentException: 
+new Added class 45 : org.kuwaiba.apis.persistence.exceptions.InventoryException: 
+new Added class 46 : com.neotropic.kuwaiba.modules.reporting.InventoryReport: 
+new Added class 47 : org.kuwaiba.sync.LoadDataFromFile: 
+new Added class 48 : org.kuwaiba.apis.persistence.integrity.LocalAttributeWrapper: 
+new Added class 49 : org.kuwaiba.apis.persistence.integrity.LocalClassWrapper: 
+new Added class 50 : org.kuwaiba.apis.persistence.metadata.MetadataEntityManager: 
+new Added class 51 : org.kuwaiba.apis.persistence.exceptions.MetadataObjectNotFoundException: 
+new Added class 52 : org.kuwaiba.apis.persistence.application.MethodsGroup: 
+new Added class 53 : org.kuwaiba.apis.persistence.exceptions.NotAuthorizedException: 
+new Added class 54 : org.kuwaiba.ws.toserialize.application.ObjectList: 
+new Added class 55 : org.kuwaiba.apis.persistence.exceptions.ObjectNotFoundException: 
+new Added class 56 : org.kuwaiba.apis.persistence.exceptions.OperationNotPermittedException: 
+new Added class 57 : org.kuwaiba.apis.persistence.application.Pool: 
+new Added class 58 : org.kuwaiba.apis.persistence.application.Privilege: 
+new Added class 59 : org.kuwaiba.ws.toserialize.application.PrivilegeInfo: 
+new Added class 60 : org.kuwaiba.apis.persistence.integrity.PrivilegesReader: 
+new Added class 61 : com.neotropic.kuwaiba.modules.projects.ProjectsModule: 
+new Added class 62 : org.kuwaiba.ws.toserialize.application.Query: 
+new Added class 63 : com.neotropic.kuwaiba.modules.reporting.defaults.RawReport: 
+new Added class 64 : org.kuwaiba.apis.persistence.business.RemoteBusinessObject: 
+new Added class 65 : org.kuwaiba.apis.persistence.business.RemoteBusinessObjectLight: 
+new Added class 66 : org.kuwaiba.apis.persistence.business.RemoteBusinessObjectLightList: 
+new Added class 67 : org.kuwaiba.apis.persistence.business.RemoteBusinessObjectList: 
+new Added class 68 : org.kuwaiba.ws.toserialize.business.RemoteObject: 
+new Added class 69 : org.kuwaiba.ws.toserialize.business.RemoteObjectLight: 
+new Added class 70 : org.kuwaiba.ws.toserialize.business.RemoteObjectSpecialRelationships: 
+new Added class 71 : org.kuwaiba.ws.toserialize.application.RemotePool: 
+new Added class 72 : org.kuwaiba.ws.toserialize.application.RemoteQuery: 
+new Added class 73 : org.kuwaiba.ws.toserialize.application.RemoteQueryLight: 
+new Added class 74 : com.neotropic.kuwaiba.modules.reporting.model.RemoteReport: 
+new Added class 75 : com.neotropic.kuwaiba.modules.reporting.model.RemoteReportLight: 
+new Added class 76 : org.kuwaiba.ws.toserialize.application.RemoteResultMessage: 
+new Added class 77 : org.kuwaiba.ws.toserialize.application.RemoteSession: 
+new Added class 78 : org.kuwaiba.ws.toserialize.application.RemoteTask: 
+new Added class 79 : org.kuwaiba.ws.toserialize.application.RemoteTaskResult: 
+new Added class 80 : org.kuwaiba.apis.persistence.application.ResultMessage: 
+new Added class 81 : org.kuwaiba.ws.toserialize.application.ResultRecord: 
+new Added class 82 : com.neotropic.kuwaiba.modules.sdh.SDHContainerLinkDefinition: 
+new Added class 83 : com.neotropic.kuwaiba.modules.sdh.SDHModule: 
+new Added class 84 : com.neotropic.kuwaiba.modules.sdh.SDHPosition: 
+new Added class 85 : com.neotropic.kuwaiba.modules.sdh.SDHTributaryLinkDefinition: 
+new Added class 86 : org.kuwaiba.exceptions.ServerSideException: 
+new Added class 87 : org.kuwaiba.ws.toserialize.application.ServerStatus: 
+new Added class 88 : org.kuwaiba.apis.persistence.application.Session: 
+new Added class 89 : org.kuwaiba.beans.ShutdownBean: 
+new Added class 90 : org.kuwaiba.ws.todeserialize.StringPair: 
+new Added class 91 : org.kuwaiba.sync.SyncManager: 
+new Added class 92 : org.kuwaiba.apis.persistence.application.Task: 
+new Added class 93 : org.kuwaiba.ws.toserialize.application.TaskNotificationDescriptor: 
+new Added class 94 : org.kuwaiba.apis.persistence.application.TaskResult: 
+new Added class 95 : org.kuwaiba.ws.toserialize.application.TaskScheduleDescriptor: 
+new Added class 96 : org.kuwaiba.util.bre.TempBusinessRulesEngine: 
+new Added class 97 : org.kuwaiba.beans.ToolsBean: 
+new Added class 98 : org.kuwaiba.beans.ToolsBeanRemote: 
+new Added class 99 : org.kuwaiba.web.ToolsController: 
+new Added class 100 : org.kuwaiba.ws.todeserialize.TransientQuery: 
+new Added class 101 : org.kuwaiba.apis.persistence.exceptions.UnsupportedPropertyException: 
+new Added class 102 : org.kuwaiba.ws.toserialize.application.UserInfo: 
+new Added class 103 : org.kuwaiba.ws.toserialize.application.UserInfoLight: 
+new Added class 104 : org.kuwaiba.apis.persistence.application.UserProfile: 
+new Added class 105 : org.kuwaiba.apis.persistence.application.UserProfileLight: 
+new Added class 106 : org.kuwaiba.services.persistence.util.Util: 
+new Added class 107 : org.kuwaiba.ws.toserialize.application.Validator: 
+new Added class 108 : org.kuwaiba.ws.toserialize.application.ViewInfo: 
+new Added class 109 : org.kuwaiba.ws.toserialize.application.ViewInfoLight: 
+new Added class 110 : org.kuwaiba.apis.persistence.application.ViewObject: 
+new Added class 111 : org.kuwaiba.apis.persistence.application.ViewObjectLight: 
+new Added class 112 : org.kuwaiba.beans.WebserviceBean: 
+new Added class 113 : org.kuwaiba.beans.WebserviceBeanRemote: 
+new Added class 114 : org.kuwaiba.apis.persistence.exceptions.WrongMappingException: 
+new Added class 115 : org.kuwaiba.apis.persistence.integrity.XMLBackupReader: 
+testing relationship 
+class 2  vs  class 65£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 3  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:59  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 3  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:2  r17:0  
+class 3  vs  class 28£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 3  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:31  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:26  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:10  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:100  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 56£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:8  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 57£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 64£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 88£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 94£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 104£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 110£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:9  r17:0  
+class 5  vs  class 45£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 45£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 9  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 9  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 104£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:11  r17:0  
+class 16  vs  class 45£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 17£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:10  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:40  r17:0  
+class 22  vs  class 45£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 23  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:5  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 115£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:11  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:16  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 25  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:9  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 25  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:11  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:11  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:33  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 63£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:10  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 64£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:17  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 65£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-1  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 107£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:2  r17:0  
+class 31  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:4  r17:0  
+class 32  vs  class 33£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 36£º  r0:0  r1:1  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 36£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 36£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 39  vs  class 36£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 46£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 36£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 42  vs  class 36£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 14£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 44  vs  class 45£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 56£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 112£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 114£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 45£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 45£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 54  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 55  vs  class 45£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 45£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 59  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:2  r17:0  
+class 60  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:9  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 61  vs  class 28£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:9  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 61  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:12  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:25  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 56£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:6  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 71£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 86£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:7  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 62  vs  class 102£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 63  vs  class 46£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 64  vs  class 65£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 66  vs  class 65£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 67  vs  class 64£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 68  vs  class 64£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 69  vs  class 65£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 71  vs  class 57£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:5  r17:0  
+class 72  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:2  r17:0  
+class 72  vs  class 73£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 73  vs  class 62£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 74  vs  class 75£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 77  vs  class 104£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 78  vs  class 93£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 78  vs  class 95£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 81  vs  class 69£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 82  vs  class 65£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 83  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 83  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:9  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 83  vs  class 28£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 83  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:4  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 83  vs  class 45£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 83  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:20  r9:0  r10:0  r11:0  r12:0  r13:0  r14:10  r15:0  r16:0  r17:0  
+class 83  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 83  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:5  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 83  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:6  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 83  vs  class 86£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:6  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 85  vs  class 65£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 88  vs  class 104£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 91  vs  class 47£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:1  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 92  vs  class 93£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 92  vs  class 95£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 94  vs  class 80£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 97  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 97  vs  class 86£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 97  vs  class 98£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 99  vs  class 98£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 101  vs  class 45£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 102  vs  class 103£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 103  vs  class 105£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:-1  r15:0  r16:7  r17:0  
+class 104  vs  class 105£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:10  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 56£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 57£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 64£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 65£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 71£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 101£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 104£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 105£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 108  vs  class 109£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 108  vs  class 110£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 109  vs  class 111£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:4  r17:0  
+class 110  vs  class 111£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:40  r17:0  
+class 112  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:64  r9:0  r10:55  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:24  r9:0  r10:32  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 61£º  r0:0  r1:0  r2:0  r3:13  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:13  r12:0  r13:13  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 68£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:5  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 69£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 70£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 71£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 72£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 74£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 77£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 78£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 79£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 83£º  r0:0  r1:0  r2:0  r3:10  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:10  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 86£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:208  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 88£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 91£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 93£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 112  vs  class 94£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 95£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 112  vs  class 96£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 100£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 112  vs  class 108£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 110£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 113£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 114  vs  class 45£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 115  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 115  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 115  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 115  vs  class 49£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 115  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 115  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 115  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  29   2 :  6   3 :  23   4 :  1   5 :  78   6 :  1   7 :  655   8 :  165   9 :  0   10 :  138   11 :  86   12 :  1   13 :  60   14 :  59   15 :  0   16 :  141   17 :  0   

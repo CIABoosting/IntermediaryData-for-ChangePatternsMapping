@@ -1,0 +1,16 @@
+Get:0.5
+Translog:0.3233333333333333
+InternalEngine:0.23
+ShardGetService:0.22
+InternalEngineTests:0.22
+IndexShardTests:0.20666666666666667
+BaseTranslogReader:0.1980952380952381
+UpdateHelper:0.19666666666666666
+IndexShardTestCase:0.18666666666666668
+TermVectorsService:0.18666666666666668
+EngineTestCase:0.18333333333333332
+TranslogTests:0.17
+TranslogThread:0.15
+TransportExplainAction:0.13666666666666666
+VersionValue:0.10111111111111111
+DocIdAndVersion:0.08333333333333333

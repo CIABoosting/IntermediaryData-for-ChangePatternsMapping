@@ -1,0 +1,16 @@
+InternalSettingsPreparer:0.6733333333333333
+Builder:0.6066666666666667
+CliTool:0.24666666666666667
+ExternalTestCluster:0.21666666666666667
+SettingsTests:0.20666666666666667
+PluginManager:0.20333333333333334
+Bootstrap:0.2
+ElasticsearchSingleNodeTest:0.18666666666666668
+TribeUnitTests:0.14
+IndexingMemoryControllerTests:0.13666666666666666
+CliToolTests:0.12
+TribeService:0.11
+TransportClientTests:0.10333333333333333
+TransportClientRetryTests:0.08333333333333333
+TransportClientFactory:0.07666666666666666
+InternalSettingsPreparerTests:0.04

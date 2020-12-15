@@ -1,0 +1,9 @@
+SecurityExpressionRoot:0.42
+ExpressionUtils:0.3980952380952381
+SecurityEvaluationContext:0.33666666666666667
+MethodExpressionVoter:0.29
+MethodExpressionAfterInvocationProvider:0.23333333333333334
+PreInvocationExpressionAttribute:0.23
+ExpressionAnnotationMethodDefinitionSource:0.16666666666666666
+PostInvocationExpressionAttribute:0.08333333333333333
+MethodInvocationSecurityExpressionRoot:0.02666666666666667

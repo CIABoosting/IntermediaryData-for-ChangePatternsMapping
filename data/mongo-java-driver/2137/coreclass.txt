@@ -1,0 +1,9 @@
+ServerDescription:0.6
+LatencyMinimizingServerSelector:0.34
+Builder:0.2866666666666667
+ServerMonitor:0.2188888888888889
+ServerDescriptionTest:0.21333333333333335
+ReadPreferenceTest:0.15666666666666668
+MongosHAServerSelector:0.15222222222222223
+LatencyMinimizingServerSelectorTest:0.14666666666666667
+CompositeServerSelectorTest:0.14666666666666667

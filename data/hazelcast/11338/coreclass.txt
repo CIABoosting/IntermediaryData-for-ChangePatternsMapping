@@ -1,0 +1,15 @@
+SlowEntryProcessor:0.44333333333333336
+SlowOperationDetectorAbstractTest:0.26666666666666666
+SlowOperationDetectorBasicTest:0.24666666666666667
+SlowOperation:0.24
+SlowRecursiveOperation:0.19666666666666666
+SlowOperationDetector_JsonTest:0.16333333333333333
+SlowOperationDetector_EntryProcessorTest:0.14666666666666667
+NestedSlowEntryProcessor:0.125
+SlowOperationDetector_purgeTest:0.12333333333333334
+NestedSlowOperationOnPartitionAndGenericOperationThreads:0.07666666666666666
+NestedSlowOperationOnSamePartition:0.07666666666666666
+SlowEntryProcessorChild:0.06444444444444446
+SlowRunnable:0.023333333333333334
+CountDownLatchHolder:0.0
+CountDownLatchOperation:0.0

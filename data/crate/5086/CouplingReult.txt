@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.crate.integrationtests.CountStarIntegrationTest: 
+new Added class 1 : io.crate.metadata.doc.DocTableInfo: 
+new Added class 2 : io.crate.planner.node.dql.ESCountNode: 
+new Added class 3 : io.crate.executor.transport.task.elasticsearch.ESCountTask: 
+new Added class 4 : io.crate.executor.transport.task.elasticsearch.ESDeleteByQueryTask: 
+new Added class 5 : io.crate.integrationtests.PartitionedTableIntegrationTest: 
+new Added class 6 : io.crate.planner.Planner: 
+new Added class 7 : io.crate.planner.PlannerTest: 
+new Added class 8 : io.crate.analyze.PrimaryKeyVisitor: 
+new Added class 9 : io.crate.analyze.SelectAnalyzerTest: 
+new Added class 10 : io.crate.plugin.SQLPlugin: 
+new Added class 11 : io.crate.executor.transport.TransportActionProvider: 
+new Added class 12 : io.crate.executor.transport.TransportExecutorTest: 
+new Added class 13 : io.crate.integrationtests.WherePKIntegrationTest: 
+testing relationship 
+class 7  vs  class 2£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  2   4 :  0   5 :  0   6 :  3   7 :  0   8 :  1   9 :  0   10 :  2   11 :  9   12 :  0   13 :  7   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,17 @@
+Flyway:0.7
+FlywayConfiguration:0.6491666666666667
+ConfigUtils:0.31666666666666665
+SqlScriptFlywayCallback:0.24333333333333335
+Main:0.2
+ClassPathScanner:0.19333333333333333
+AbstractFlywayMojo:0.18333333333333332
+MigrationInfoHelper:0.17666666666666667
+AbstractFlywayTask:0.17
+FileSystemScanner:0.12333333333333334
+SqlMigrationResolver:0.11333333333333333
+JdbcMigrationResolver:0.11
+SpringJdbcMigrationResolver:0.11
+ResourceAndClassScanner:0.08444444444444445
+Scanner:0.08333333333333333
+FlywayExtension:0.07
+AndroidScanner:0.04

@@ -1,0 +1,13 @@
+MapReduceService:0.41
+MapReduceUtil:0.4033333333333333
+JobSupervisor:0.32
+JobProcessInformationImpl:0.255
+MapCombineTask:0.24
+KeyValueJobOperation:0.19
+ClientMapReduceRequest:0.18333333333333332
+KeysAssignmentOperation:0.17333333333333334
+AbstractMapReduceTask:0.15
+KeyValueJob:0.14333333333333334
+GetResultsRunnable:0.050444444444444445
+NonPartitionBasedProcessor:0.016666666666666666
+PartitionBasedProcessor:0.0033333333333333335

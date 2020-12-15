@@ -1,0 +1,45 @@
+Compared Result of  two versions
+Number of New Class: 39
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.semanticdesktop.aperture.accessor.AccessorServiceActivator: 
+new Added class 1 : org.semanticdesktop.aperture.addressbook.AddressBookActivator: 
+new Added class 2 : org.semanticdesktop.aperture.crawler.CrawlerServiceActivator: 
+new Added class 3 : org.semanticdesktop.aperture.opener.DataOpenerServiceActivator: 
+new Added class 4 : org.semanticdesktop.aperture.datasource.DataSourceServiceActivator: 
+new Added class 5 : org.semanticdesktop.aperture.extractor.excel.ExcelExtractorActivator: 
+new Added class 6 : org.semanticdesktop.aperture.extractor.ExtractorServiceActivator: 
+new Added class 7 : org.semanticdesktop.aperture.accessor.file.FileAccessorActivator: 
+new Added class 8 : org.semanticdesktop.aperture.opener.file.FileOpenerActivator: 
+new Added class 9 : org.semanticdesktop.aperture.crawler.filesystem.FilesystemCrawlerActivator: 
+new Added class 10 : org.semanticdesktop.aperture.extractor.html.HtmlExtractorActivator: 
+new Added class 11 : org.semanticdesktop.aperture.hypertext.linkextractor.html.HtmlLinkExtractorActivator: 
+new Added class 12 : org.semanticdesktop.aperture.accessor.http.HttpAccessorActivator: 
+new Added class 13 : org.semanticdesktop.aperture.opener.http.HttpOpenerActivator: 
+new Added class 14 : org.semanticdesktop.aperture.crawler.ical.IcalCrawlerActivator: 
+new Added class 15 : org.semanticdesktop.aperture.crawler.imap.ImapCrawlerActivator: 
+new Added class 16 : org.semanticdesktop.aperture.hypertext.linkextractor.LinkextractorServiceActivator: 
+new Added class 17 : org.semanticdesktop.aperture.mime.identifier.magic.MagicMimeIdentifierActivator: 
+new Added class 18 : org.semanticdesktop.aperture.extractor.mime.MimeExtractorActivator: 
+new Added class 19 : org.semanticdesktop.aperture.mime.identifier.MimeIdentifierServiceActivator: 
+new Added class 20 : org.semanticdesktop.aperture.extractor.office.OfficeExtractorActivator: 
+new Added class 21 : org.semanticdesktop.aperture.extractor.opendocument.OpenDocumentExtractorActivator: 
+new Added class 22 : org.semanticdesktop.aperture.extractor.openxml.OpenxmlExtractorActivator: 
+new Added class 23 : org.semanticdesktop.aperture.outlook.OutlookActivator: 
+new Added class 24 : org.semanticdesktop.aperture.extractor.pdf.PdfExtractorActivator: 
+new Added class 25 : org.semanticdesktop.aperture.extractor.plaintext.PlaintextExtractorActivator: 
+new Added class 26 : org.semanticdesktop.aperture.extractor.powerpoint.PowerpointExtractorActivator: 
+new Added class 27 : org.semanticdesktop.aperture.extractor.presentations.PresentationsExtractorActivator: 
+new Added class 28 : org.semanticdesktop.aperture.extractor.publisher.PublisherExtractorActivator: 
+new Added class 29 : org.semanticdesktop.aperture.extractor.quattro.QuattroExtractorActivator: 
+new Added class 30 : org.semanticdesktop.aperture.extractor.rtf.RtfExtractorActivator: 
+new Added class 31 : org.semanticdesktop.aperture.security.trustdecider.TrustDeciderServiceActivator: 
+new Added class 32 : org.semanticdesktop.aperture.security.trustmanager.TrustManagerServiceActivator: 
+new Added class 33 : org.semanticdesktop.aperture.extractor.visio.VisioExtractorActivator: 
+new Added class 34 : org.semanticdesktop.aperture.crawler.web.WebCrawlerActivator: 
+new Added class 35 : org.semanticdesktop.aperture.extractor.word.WordExtractorActivator: 
+new Added class 36 : org.semanticdesktop.aperture.extractor.wordperfect.WordPerfectExtractorActivator: 
+new Added class 37 : org.semanticdesktop.aperture.extractor.works.WorksExtractorActivator: 
+new Added class 38 : org.semanticdesktop.aperture.extractor.xml.XmlExtractorActivator: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

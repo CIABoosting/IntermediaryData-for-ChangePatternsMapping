@@ -1,0 +1,50 @@
+Compared Result of  two versions
+Number of New Class: 25
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : toxTree.tree.AbstractTree: 
+new Added class 1 : toxTree.tree.TreeSelector: 
+new Added class 2 : mutant.BB_CarcMutRules: 
+new Added class 3 : com.molecularnetworks.start.BiodgeradationRules: 
+new Added class 4 : toxtree.plugins.search.CompoundLookup: 
+new Added class 5 : toxTree.tree.cramer.CramerRules: 
+new Added class 6 : cramer2.CramerRulesWithExtensions: 
+new Added class 7 : eye.EyeIrritationRules: 
+new Added class 8 : toxtree.plugins.func.FuncRules: 
+new Added class 9 : toxtree.plugins.kroes.Kroes1Tree: 
+new Added class 10 : toxtree.plugins.lewis.LewisTree: 
+new Added class 11 : michaelacceptors.MichaelAcceptorRules: 
+new Added class 12 : mic.MICRules: 
+new Added class 13 : mutant.test.rules.RuleDACancerogenicityAromaticAminesTest: 
+new Added class 14 : toxtree.ui.tree.SelectListDialog: 
+new Added class 15 : toxtree.ui.tree.SelectAction: 
+new Added class 16 : toxtree.ui.tree.CancelAction: 
+new Added class 17 : toxtree.ui.tree.OptionPaneActionListener: 
+new Added class 18 : toxtree.ui.tree.DetailsTextPane: 
+new Added class 19 : sicret.SicretRules: 
+new Added class 20 : toxtree.plugins.skinsensitisation.SkinSensitisationPlugin: 
+new Added class 21 : toxtree.plugins.smartcyp.SMARTCYPPlugin: 
+new Added class 22 : toxTree.tree.UserDefinedTree: 
+new Added class 23 : verhaar.VerhaarScheme: 
+new Added class 24 : toxtree.plugins.verhaar2.VerhaarScheme2: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 23£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  17   2 :  0   3 :  1   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  5   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

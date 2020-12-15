@@ -1,0 +1,16 @@
+ClientCall:0.47711904761904766
+NettyServerHandler:0.42333333333333334
+NettyServer:0.38333333333333336
+ManagedChannelImpl:0.31666666666666665
+AbstractManagedChannelImplBuilder:0.25
+NettyServerBuilder:0.24666666666666667
+ManagedChannelBuilder:0.24666666666666667
+AbstractServerImplBuilder:0.24666666666666667
+ClientCallImpl:0.23
+NettyServerHandlerTest:0.21333333333333335
+ServerBuilder:0.2105952380952381
+NettyClientTransportTest:0.19
+ManagedChannelImplTest:0.17666666666666667
+ForwardingClientCall:0.17333333333333334
+ManagedChannelImplTransportManagerTest:0.13
+NettyServerTransport:0.12666666666666668

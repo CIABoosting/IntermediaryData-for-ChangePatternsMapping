@@ -1,0 +1,11 @@
+Compared Result of  two versions
+Number of New Class: 5
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : net.bytebuddy.instrumentation.method.bytecode.bind.annotation.AnnotationVisibilityTest: 
+new Added class 1 : net.bytebuddy.instrumentation.method.bytecode.bind.annotation.Getter: 
+new Added class 2 : net.bytebuddy.instrumentation.method.bytecode.bind.annotation.Setter: 
+new Added class 3 : net.bytebuddy.instrumentation.MethodDelegation: 
+new Added class 4 : net.bytebuddy.instrumentation.MethodDelegationByteCodeAppender: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

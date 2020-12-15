@@ -1,0 +1,11 @@
+AccessControl:0.6544444444444445
+NoAccessControl:0.2633333333333333
+AllowAllAccessControl:0.2633333333333333
+FileBasedAccessControl:0.26
+ConnectorAccessControl:0.24
+DenyAllAccessControl:0.24
+DenyConnectorAccessControl:0.24
+LegacyConnectorAccessControl:0.24
+ReadOnlyAccessControl:0.24
+AccessControlManager:0.2025
+SqlStandardAccessControl:0.18333333333333332

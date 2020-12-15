@@ -1,0 +1,83 @@
+Compared Result of  two versions
+Number of New Class: 76
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.itracker.web.actions.project.AddIssueRelationAction: 
+new Added class 1 : org.itracker.web.actions.admin.AdminHomeAction: 
+new Added class 2 : org.itracker.web.actions.project.AssignIssueAction: 
+new Added class 3 : org.itracker.web.actions.project.CreateIssueAction: 
+new Added class 4 : org.itracker.web.actions.project.CreateIssueFormAction: 
+new Added class 5 : org.itracker.web.actions.admin.language.CreateLanguageKeyAction: 
+new Added class 6 : org.itracker.web.actions.admin.language.CreateLanguageKeyFormAction: 
+new Added class 7 : org.itracker.web.actions.report.DisplayReportAction: 
+new Added class 8 : org.itracker.web.actions.admin.report.DownloadReportAction: 
+new Added class 9 : org.itracker.web.actions.admin.project.EditComponentAction: 
+new Added class 10 : org.itracker.web.actions.admin.project.EditComponentFormAction: 
+new Added class 11 : org.itracker.web.actions.admin.configuration.EditConfigurationAction: 
+new Added class 12 : org.itracker.web.actions.admin.configuration.EditConfigurationFormAction: 
+new Added class 13 : org.itracker.web.actions.admin.configuration.EditCustomFieldAction: 
+new Added class 14 : org.itracker.web.actions.admin.configuration.EditCustomFieldFormAction: 
+new Added class 15 : org.itracker.web.actions.admin.configuration.EditCustomFieldValueAction: 
+new Added class 16 : org.itracker.web.actions.admin.configuration.EditCustomFieldValueFormAction: 
+new Added class 17 : org.itracker.web.actions.project.EditIssueAction: 
+new Added class 18 : org.itracker.web.actions.project.EditIssueFormAction: 
+new Added class 19 : org.itracker.web.actions.admin.language.EditLanguageAction: 
+new Added class 20 : org.itracker.web.actions.admin.language.EditLanguageFormAction: 
+new Added class 21 : org.itracker.web.actions.preferences.EditPreferencesAction: 
+new Added class 22 : org.itracker.web.actions.preferences.EditPreferencesFormAction: 
+new Added class 23 : org.itracker.web.actions.admin.project.EditProjectAction: 
+new Added class 24 : org.itracker.web.actions.admin.project.EditProjectFormAction: 
+new Added class 25 : org.itracker.web.actions.admin.project.EditProjectScriptAction: 
+new Added class 26 : org.itracker.web.actions.admin.project.EditProjectScriptFormAction: 
+new Added class 27 : org.itracker.web.actions.admin.report.EditReportAction: 
+new Added class 28 : org.itracker.web.actions.admin.report.EditReportFormAction: 
+new Added class 29 : org.itracker.web.actions.admin.user.EditUserAction: 
+new Added class 30 : org.itracker.web.actions.admin.user.EditUserFormAction: 
+new Added class 31 : org.itracker.web.actions.admin.project.EditVersionAction: 
+new Added class 32 : org.itracker.web.actions.admin.project.EditVersionFormAction: 
+new Added class 33 : org.itracker.web.actions.admin.workflow.EditWorkflowScriptAction: 
+new Added class 34 : org.itracker.web.actions.admin.workflow.EditWorkflowScriptFormAction: 
+new Added class 35 : org.itracker.web.actions.admin.attachment.ExportAttachmentsAction: 
+new Added class 36 : org.itracker.web.actions.admin.language.ExportLanguageAction: 
+new Added class 37 : org.itracker.web.actions.admin.report.ExportReportAction: 
+new Added class 38 : org.itracker.web.actions.user.ForgotPasswordAction: 
+new Added class 39 : org.itracker.web.actions.admin.configuration.ImportDataFormAction: 
+new Added class 40 : org.itracker.web.actions.admin.configuration.ImportDataProcessAction: 
+new Added class 41 : org.itracker.web.actions.admin.configuration.ImportDataVerifyAction: 
+new Added class 42 : org.itracker.web.actions.admin.language.InitializeLanguagesAction: 
+new Added class 43 : org.itracker.web.actions.admin.attachment.ListAttachmentsAction: 
+new Added class 44 : org.itracker.web.actions.admin.configuration.ListConfigurationAction: 
+new Added class 45 : org.itracker.web.actions.project.ListIssuesAction: 
+new Added class 46 : org.itracker.web.actions.admin.language.ListLanguagesAction: 
+new Added class 47 : org.itracker.web.actions.project.ListProjectsAction: 
+new Added class 48 : org.itracker.web.actions.admin.project.ListProjectsAdminAction: 
+new Added class 49 : org.itracker.web.actions.admin.report.ListReportsAction: 
+new Added class 50 : org.itracker.web.actions.admin.scheduler.ListTasksAction: 
+new Added class 51 : org.itracker.web.actions.admin.user.ListUsersAction: 
+new Added class 52 : org.itracker.web.actions.admin.workflow.ListWorkflowScriptAction: 
+new Added class 53 : org.itracker.web.actions.admin.user.LockUserAction: 
+new Added class 54 : org.itracker.web.actions.user.LoginAction: 
+new Added class 55 : org.itracker.web.actions.user.LogoffAction: 
+new Added class 56 : org.itracker.web.actions.project.MoveIssueAction: 
+new Added class 57 : org.itracker.web.actions.project.MoveIssueFormAction: 
+new Added class 58 : org.itracker.web.actions.admin.configuration.OrderConfigurationItemAction: 
+new Added class 59 : org.itracker.web.actions.admin.configuration.OrderCustomFieldValueAction: 
+new Added class 60 : org.itracker.web.actions.admin.configuration.RemoveConfigurationItemAction: 
+new Added class 61 : org.itracker.web.actions.admin.configuration.RemoveCustomFieldAction: 
+new Added class 62 : org.itracker.web.actions.admin.configuration.RemoveCustomFieldValueAction: 
+new Added class 63 : org.itracker.web.actions.project.RemoveHistoryEntryAction: 
+new Added class 64 : org.itracker.web.actions.project.RemoveIssueAttachmentAction: 
+new Added class 65 : org.itracker.web.actions.admin.project.RemoveProjectScriptAction: 
+new Added class 66 : org.itracker.web.actions.admin.report.RemoveReportAction: 
+new Added class 67 : org.itracker.web.actions.admin.workflow.RemoveWorkflowScriptAction: 
+new Added class 68 : org.itracker.web.actions.issuesearch.SearchIssuesAction: 
+new Added class 69 : org.itracker.web.actions.issuesearch.SearchIssuesFormAction: 
+new Added class 70 : org.itracker.web.actions.user.SelfRegisterAction: 
+new Added class 71 : org.itracker.web.actions.user.SelfRegisterFormAction: 
+new Added class 72 : org.itracker.web.actions.admin.user.UnlockUserAction: 
+new Added class 73 : org.itracker.web.actions.project.ViewIssueAction: 
+new Added class 74 : org.itracker.web.actions.project.ViewIssueActivityAction: 
+new Added class 75 : org.itracker.web.actions.project.WatchIssueAction: 
+testing relationship 
+class 54  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  1   12 :  0   13 :  1   14 :  0   15 :  0   16 :  0   17 :  0   

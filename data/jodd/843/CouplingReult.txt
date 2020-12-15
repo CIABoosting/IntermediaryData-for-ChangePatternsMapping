@@ -1,0 +1,23 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : jodd.madvoc.meta.ActionAnnotationTest: 
+new Added class 1 : jodd.madvoc.ActionMethodParserTest: 
+new Added class 2 : jodd.madvoc.ActionRequestRecursionTest: 
+new Added class 3 : jodd.madvoc.ActionResultTest: 
+new Added class 4 : jodd.madvoc.component.ActionsManagerTest: 
+new Added class 5 : jodd.madvoc.AnnArgTest: 
+new Added class 6 : jodd.madvoc.component.InterceptorsManagerTest: 
+new Added class 7 : jodd.JoddMadvocTest: 
+new Added class 8 : jodd.madvoc.injector.MadvocParamsInjectorTest: 
+new Added class 9 : jodd.madvoc.MadvocUtilTest: 
+new Added class 10 : jodd.madvoc.ManualRegistrationTest: 
+new Added class 11 : jodd.madvoc.macro.PathMacroTest: 
+new Added class 12 : jodd.madvoc.path.RestResourcePathTest: 
+new Added class 13 : jodd.madvoc.component.ResultsManagerTest: 
+new Added class 14 : jodd.madvoc.RootPackagesTest: 
+new Added class 15 : jodd.madvoc.injector.ScopeDataResolverTest: 
+new Added class 16 : jodd.madvoc.result.ServletDispatcherResultTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

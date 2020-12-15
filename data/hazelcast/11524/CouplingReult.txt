@@ -1,0 +1,19 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.hazelcast.instance.BuildInfoProvider: 
+new Added class 1 : com.hazelcast.console.Echo: 
+new Added class 2 : com.hazelcast.internal.management.request.GetSystemWarningsRequest: 
+new Added class 3 : com.hazelcast.instance.HazelcastThreadGroup: 
+new Added class 4 : com.hazelcast.query.impl.IdentityConverter: 
+new Added class 5 : com.hazelcast.logging.Log4j2Factory: 
+new Added class 6 : com.hazelcast.jmx.ManagedExecutorServiceMBean: 
+new Added class 7 : com.hazelcast.collection.impl.queue.operations.RemainingCapacityOperation: 
+new Added class 8 : com.hazelcast.executor.impl.client.ShutdownRequest: 
+new Added class 9 : com.hazelcast.console.SimulateLoadTask: 
+new Added class 10 : com.hazelcast.query.TruePredicate: 
+new Added class 11 : com.hazelcast.collection.impl.txnqueue.operations.TxnReserveOfferBackupOperation: 
+new Added class 12 : com.hazelcast.collection.impl.txnqueue.operations.TxnReservePollBackupOperation: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

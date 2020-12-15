@@ -1,0 +1,10 @@
+IndexRequest:0.61
+ReplicationRequest:0.39
+DeleteRequest:0.3377777777777778
+GetRequest:0.23666666666666666
+SearchRequest:0.22333333333333333
+TransportBulkAction:0.17333333333333334
+TransportPercolateAction:0.1625
+TransportMultiSearchAction:0.14
+TransportUpdateAction:0.14
+BasicReplicationRequest:0.11333333333333333

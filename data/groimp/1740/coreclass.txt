@@ -1,0 +1,11 @@
+Kernel:0.5
+SunshineBidirPathtracer:0.38333333333333336
+SunshinePathtracerOld:0.21666666666666667
+CombineKernel:0.20666666666666667
+GenLightRayKernel:0.20666666666666667
+InterruptableIsVisiblelKernel:0.2
+ComplementKernel:0.19333333333333333
+TraceLightRayKernel:0.16
+TraceEyeRayKernel:0.16
+OctreeKernel:0.13666666666666666
+IsVisibleInitKernel:0.02

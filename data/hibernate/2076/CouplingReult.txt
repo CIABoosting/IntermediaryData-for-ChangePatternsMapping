@@ -1,0 +1,40 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.hibernate.jpa.event.spi.jpa.Callback: 
+new Added class 1 : org.hibernate.jpa.event.spi.jpa.CallbackRegistry: 
+new Added class 2 : org.hibernate.jpa.event.internal.jpa.CallbackRegistryImpl: 
+new Added class 3 : org.hibernate.jpa.event.internal.jpa.EntityCallback: 
+new Added class 4 : org.hibernate.jpa.event.internal.core.JpaDeleteEventListener: 
+new Added class 5 : org.hibernate.jpa.event.internal.core.JpaFlushEntityEventListener: 
+new Added class 6 : org.hibernate.jpa.event.spi.JpaIntegrator: 
+new Added class 7 : org.hibernate.jpa.event.internal.core.JpaMergeEventListener: 
+new Added class 8 : org.hibernate.jpa.event.internal.core.JpaPersistEventListener: 
+new Added class 9 : org.hibernate.jpa.event.internal.core.JpaPostDeleteEventListener: 
+new Added class 10 : org.hibernate.jpa.event.internal.core.JpaPostInsertEventListener: 
+new Added class 11 : org.hibernate.jpa.event.internal.core.JpaPostLoadEventListener: 
+new Added class 12 : org.hibernate.jpa.event.internal.core.JpaPostUpdateEventListener: 
+new Added class 13 : org.hibernate.jpa.event.internal.core.JpaSaveEventListener: 
+new Added class 14 : org.hibernate.jpa.event.internal.core.JpaSaveOrUpdateEventListener: 
+new Added class 15 : org.hibernate.jpa.event.internal.jpa.ListenerCallback: 
+new Added class 16 : org.hibernate.jpa.event.spi.jpa.ListenerFactory: 
+new Added class 17 : org.hibernate.test.schemaupdate.foreignkeys.Person: 
+new Added class 18 : org.hibernate.test.schemaupdate.foreignkeys.crossschema.SchemaTwoEntity: 
+testing relationship 
+class 2  vs  class 1£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 5  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 6  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 16£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 8  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 9  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 10  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 11  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 12  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 13  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 14  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 15  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  3   3 :  1   4 :  0   5 :  1   6 :  0   7 :  0   8 :  25   9 :  0   10 :  19   11 :  0   12 :  0   13 :  0   14 :  20   15 :  0   16 :  0   17 :  0   

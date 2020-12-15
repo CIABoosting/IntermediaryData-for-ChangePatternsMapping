@@ -1,0 +1,14 @@
+VocabCache:0.6
+SequenceElement:0.48333333333333334
+Huffman:0.36333333333333334
+VocabWord:0.3333333333333333
+WordVectorSerializer:0.31333333333333335
+AbstractCache:0.22666666666666666
+InMemoryLookupCache:0.19666666666666666
+SparkSequenceVectors:0.19333333333333333
+CountFunction:0.16333333333333333
+Blogger:0.14
+SparkSequenceVectorsTest:0.14
+TokenizerFunction:0.06666666666666667
+TrainingFunction:0.05
+SparkWord2Vec:0.023333333333333334

@@ -1,0 +1,15 @@
+AfterLoadAction:0.9466666666666667
+Dialect:0.45666666666666667
+CoreMessageLogger:0.3466666666666667
+Loader:0.33
+Oracle8iDialect:0.29
+SQLQueryImpl:0.25333333333333335
+QueryImpl:0.25
+QueryLoader:0.22333333333333333
+CriteriaLoader:0.21333333333333335
+CustomLoader:0.18222222222222223
+QueryTranslatorImpl:0.17833333333333334
+DynamicEntityLoader:0.12333333333333334
+DynamicBatchingCollectionLoader:0.12
+CustomLoaderExtension:0.08333333333333333
+QueryLockingTest:0.016666666666666666

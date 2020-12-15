@@ -1,0 +1,12 @@
+LoadQueryAliasResolutionContext:0.8333333333333334
+JoinableAssociation:0.7733333333333333
+LoadQueryBuilder:0.5183333333333333
+LoadQueryAliasResolutionContextImpl:0.5166666666666667
+EntityLoadQueryBuilderImpl:0.30666666666666664
+LocalVisitationStrategy:0.2402777777777778
+AbstractLoadQueryImpl:0.21
+AbstractEntityLoadQueryImpl:0.21
+EntityWithCollectionResultSetProcessorTest:0.13888888888888887
+EntityAssociationResultSetProcessorTest:0.12666666666666668
+SimpleResultSetProcessorTest:0.12
+EntityLoadQueryImpl:0.05

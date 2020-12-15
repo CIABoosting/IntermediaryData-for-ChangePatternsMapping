@@ -1,0 +1,17 @@
+MapReduceService:0.4166666666666667
+AbstractJob:0.4
+JobSupervisor:0.38666666666666666
+MapKeyValueSource:0.2658333333333333
+MappingJobImpl:0.24333333333333335
+ClientMapReduceRequest:0.23333333333333334
+MultiMapKeyValueSource:0.22666666666666666
+ReducingJobImpl:0.22611111111111115
+JobSupervisorKey:0.21
+MapReduceDataSerializerHook:0.19
+AbstractJobTracker:0.19
+MapCombineTask:0.19
+MapReduceUtil:0.13333333333333333
+TrackableJob:0.11
+MappingPhase:0.03
+MapReduceNotificationListener:0.02666666666666667
+NodeJobTracker:0.016666666666666666

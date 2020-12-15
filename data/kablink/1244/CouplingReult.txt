@@ -1,0 +1,35 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.sitescape.ef.module.binder.impl.AbstractEntryProcessor: 
+new Added class 1 : com.sitescape.ef.portlet.forum.AjaxController: 
+new Added class 2 : com.sitescape.ef.portlet.administration.ConfigureNotifyController: 
+new Added class 3 : com.sitescape.ef.dao.CoreDao: 
+new Added class 4 : com.sitescape.ef.dao.impl.CoreDaoImpl: 
+new Added class 5 : com.sitescape.ef.module.binder.EntryProcessor: 
+new Added class 6 : com.sitescape.ef.portlet.forum.HistoryCache: 
+new Added class 7 : com.sitescape.ef.module.ldap.LdapModule: 
+new Added class 8 : com.sitescape.ef.module.ldap.impl.LdapModuleImpl: 
+new Added class 9 : com.sitescape.ef.portlet.profile.ListProfilesController: 
+new Added class 10 : com.sitescape.ef.portlet.administration.ManageProfileIndexController: 
+new Added class 11 : com.sitescape.ef.portlet.profile.ModifyEntryController: 
+new Added class 12 : com.sitescape.ef.module.profile.ProfileModule: 
+new Added class 13 : com.sitescape.ef.module.profile.impl.ProfileModuleImpl: 
+new Added class 14 : com.sitescape.ef.portlet.forum.SAbstractForumController: 
+new Added class 15 : com.sitescape.ef.portlet.profile.SAbstractProfileController: 
+new Added class 16 : com.sitescape.ef.portlet.profile.ViewController: 
+new Added class 17 : com.sitescape.ef.portlet.profile.ViewEntryController: 
+testing relationship 
+class 0  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 14£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 12£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:10  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 9  vs  class 15£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 15£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 15£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  4   2 :  4   3 :  1   4 :  0   5 :  0   6 :  0   7 :  0   8 :  2   9 :  0   10 :  15   11 :  0   12 :  0   13 :  0   14 :  2   15 :  0   16 :  0   17 :  0   

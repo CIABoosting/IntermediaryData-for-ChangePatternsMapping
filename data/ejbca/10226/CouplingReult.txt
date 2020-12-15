@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.ejbca.core.ejb.approval.ApprovalSessionBean: 
+new Added class 1 : org.ejbca.ui.web.admin.cainterface.CAInterfaceBean: 
+new Added class 2 : org.ejbca.core.ejb.ca.store.CertificateStoreSession: 
+new Added class 3 : org.ejbca.ui.cli.dbmanager.DataBaseConfig: 
+new Added class 4 : org.ejbca.core.protocol.ws.client.FindCertsCommand: 
+new Added class 5 : org.ejbca.core.protocol.ws.client.FindUserCommand: 
+new Added class 6 : org.ejbca.ui.cli.HSMKeyTool: 
+new Added class 7 : org.ejbca.core.ejb.log.LoggingStressTest: 
+new Added class 8 : org.ejbca.ui.cli.Ocsp: 
+new Added class 9 : org.ejbca.core.protocol.ws.client.PKCS12ReqCommand: 
+new Added class 10 : org.ejbca.core.ejb.ra.raadmin.RaAdminSession: 
+new Added class 11 : org.ejbca.core.protocol.xkms.client.RegisterCommand: 
+new Added class 12 : org.ejbca.core.protocol.xkms.client.ReissueCommand: 
+new Added class 13 : org.ejbca.core.protocol.ws.client.RevokeCertCommand: 
+new Added class 14 : org.ejbca.core.protocol.xkms.client.RevokeCommand: 
+new Added class 15 : org.ejbca.core.ejb.ServiceLocator: 
+testing relationship 
+class 1  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  5   9 :  0   10 :  4   11 :  1   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

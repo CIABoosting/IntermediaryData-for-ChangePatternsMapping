@@ -1,0 +1,42 @@
+Compared Result of  two versions
+Number of New Class: 26
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.semanticdesktop.aperture.websites.AbstractTagCrawler: 
+new Added class 1 : org.semanticdesktop.aperture.websites.bibsonomy.BibsonomyCrawler: 
+new Added class 2 : org.semanticdesktop.aperture.websites.bibsonomy.BibsonomyCrawlerFactory: 
+new Added class 3 : org.semanticdesktop.aperture.websites.bibsonomy.BibsonomyDataSource: 
+new Added class 4 : org.semanticdesktop.aperture.websites.bibsonomy.BibsonomyDataSourceFactory: 
+new Added class 5 : org.semanticdesktop.aperture.websites.bibsonomy.BIBSONOMY_DATA_SOURCE: 
+new Added class 6 : org.semanticdesktop.aperture.vocabulary.DATASOURCE: 
+new Added class 7 : org.semanticdesktop.aperture.websites.delicious.DeliciousCrawler: 
+new Added class 8 : org.semanticdesktop.aperture.websites.delicious.DeliciousCrawlerFactory: 
+new Added class 9 : org.semanticdesktop.aperture.websites.delicious.DeliciousDataSource: 
+new Added class 10 : org.semanticdesktop.aperture.websites.delicious.DeliciousDataSourceFactory: 
+new Added class 11 : org.semanticdesktop.aperture.websites.delicious.DELICIOUS_DATA_SOURCE: 
+new Added class 12 : org.semanticdesktop.aperture.websites.bibsonomy.ExampleBibsonomyCrawler: 
+new Added class 13 : org.semanticdesktop.aperture.websites.delicious.ExampleDeliciousCrawler: 
+new Added class 14 : org.semanticdesktop.aperture.websites.flickr.ExampleFlickrCrawler: 
+new Added class 15 : org.semanticdesktop.aperture.websites.flickr.FlickrCrawler: 
+new Added class 16 : org.semanticdesktop.aperture.websites.flickr.FlickrCrawlerFactory: 
+new Added class 17 : org.semanticdesktop.aperture.websites.flickr.FlickrDataSource: 
+new Added class 18 : org.semanticdesktop.aperture.websites.flickr.FlickrDataSourceFactory: 
+new Added class 19 : org.semanticdesktop.aperture.websites.flickr.FLICKR_DATA_SOURCE: 
+new Added class 20 : org.semanticdesktop.aperture.websites.iphoto.IPhotoKeywordCrawler: 
+new Added class 21 : org.semanticdesktop.aperture.websites.iphoto.IPhotoKeywordCrawlerFactory: 
+new Added class 22 : org.semanticdesktop.aperture.websites.iphoto.IPhotoKeywordDataSource: 
+new Added class 23 : org.semanticdesktop.aperture.websites.iphoto.IPhotoKeywordDataSourceFactory: 
+new Added class 24 : org.semanticdesktop.aperture.websites.iphoto.IPHOTO_DATA_SOURCE: 
+new Added class 25 : org.semanticdesktop.aperture.util.VocabularyWriter: 
+testing relationship 
+class 1  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  4   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  30   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

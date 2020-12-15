@@ -1,0 +1,17 @@
+EvictionConfig:0.3933333333333333
+NearCacheProvider:0.38
+MapContainer:0.33666666666666667
+ClientMapNearCacheTest:0.32666666666666666
+NearCacheTest:0.3
+AbstractNearCacheRecordStore:0.24333333333333335
+MapNearCacheInvalidationFromClientTest:0.23333333333333334
+EvictionChecker:0.22833333333333333
+NearCacheRecordStoreTest:0.22333333333333333
+NearCacheTestSupport:0.20666666666666667
+LocalMapStatsProvider:0.19
+ClientNearCacheTest:0.17
+EvictionPolicyEvaluatorProvider:0.13666666666666666
+ClientNearCacheTestSupport:0.12666666666666668
+SizeEstimatorFactory:0.10333333333333333
+BaseHeapNearCacheRecordStore:0.07666666666666666
+MemberNearCacheExecutor:0.04666666666666667

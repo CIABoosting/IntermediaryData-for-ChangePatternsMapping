@@ -1,0 +1,17 @@
+PagesIndex:0.4266666666666667
+HashJoinIterator:0.38666666666666666
+SourceHash:0.29
+HashAggregationIterator:0.23666666666666666
+TopNIterator:0.17
+SourceHashProvider:0.16333333333333333
+AggregationOperator:0.16
+TestInMemoryOrderByOperator:0.15666666666666668
+InMemoryOrderByOperatorIterator:0.14666666666666667
+AggregationPageIterator:0.05333333333333334
+TestFilterAndProjectOperator:0.043333333333333335
+TestLimitOperator:0.04
+TestHashJoinOperator:0.016666666666666666
+StoppablePageIterator:0.01
+TestAggregationOperator:0.006666666666666667
+TestTopNOperator:0.006666666666666667
+TestHashAggregationOperator:0.0033333333333333335

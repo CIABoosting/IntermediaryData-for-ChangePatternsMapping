@@ -1,0 +1,86 @@
+Compared Result of  two versions
+Number of New Class: 44
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : pub.servlets.AddComment: 
+new Added class 1 : pub.servlets.AddGene: 
+new Added class 2 : pub.servlets.AddSequence: 
+new Added class 3 : pub.beans.AnnotationBean: 
+new Added class 4 : pub.db.AnnotationTable: 
+new Added class 5 : pub.test.AnnotationTests: 
+new Added class 6 : pub.servlets.ArticleAssociatedTerms: 
+new Added class 7 : pub.beans.ArticleBean: 
+new Added class 8 : pub.servlets.reference.ArticleReferenceListAsTable: 
+new Added class 9 : pub.servlets.DisplayAnnotation: 
+new Added class 10 : pub.servlets.DisplayArticle: 
+new Added class 11 : pub.servlets.DisplayGene: 
+new Added class 12 : pub.servlets.annotation.DisplayGoTerm: 
+new Added class 13 : pub.servlets.DisplayHit: 
+new Added class 14 : pub.servlets.DisplayLocus: 
+new Added class 15 : pub.servlets.DisplaySequenceAssociations: 
+new Added class 16 : pub.servlets.DisplayTerm: 
+new Added class 17 : pub.beans.EvidenceDescriptionListBean: 
+new Added class 18 : pub.beans.GeneAliasBean: 
+new Added class 19 : pub.db.GeneAliasTable: 
+new Added class 20 : pub.db.GeneTable: 
+new Added class 21 : pub.beans.HitBean: 
+new Added class 22 : pub.db.HitTable: 
+new Added class 23 : pub.servlets.Login: 
+new Added class 24 : pub.servlets.search.Search: 
+new Added class 25 : pub.servlets.search.SearchArticles: 
+new Added class 26 : pub.servlets.search.TermHelper: 
+new Added class 27 : pub.servlets.search.Constraints: 
+new Added class 28 : pub.servlets.search.NewConstraints: 
+new Added class 29 : pub.servlets.search.SearchGenes: 
+new Added class 30 : pub.servlets.search.SearchHits2: 
+new Added class 31 : pub.servlets.search.TypeHandler: 
+new Added class 32 : pub.servlets.search.NormalTermTypeHandler: 
+new Added class 33 : pub.servlets.search.ConstraintHandler: 
+new Added class 34 : pub.servlets.search.TitleAbstractHandler: 
+new Added class 35 : pub.servlets.search.SearchTerms: 
+new Added class 36 : pub.beans.TermBean: 
+new Added class 37 : pub.beans.factories.TermBeanFactory: 
+new Added class 38 : pub.servlets.UpdateAnnotation: 
+new Added class 39 : pub.servlets.BadTermException: 
+new Added class 40 : pub.servlets.UpdateArticleWithId: 
+new Added class 41 : pub.servlets.UpdateGene: 
+new Added class 42 : pub.servlets.UpdateTerm: 
+new Added class 43 : pub.servlets.TermException: 
+testing relationship 
+class 1  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 7£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 21£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 7£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 36£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 7£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 7£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 21£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 36£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 18£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 21£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 27£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 31£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 31£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 31£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 31£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 36£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 39£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:4  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:4  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 42  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:4  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  4   3 :  16   4 :  0   5 :  6   6 :  0   7 :  12   8 :  0   9 :  0   10 :  0   11 :  50   12 :  0   13 :  34   14 :  0   15 :  0   16 :  0   17 :  0   

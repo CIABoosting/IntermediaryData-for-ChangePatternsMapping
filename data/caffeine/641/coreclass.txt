@@ -1,0 +1,11 @@
+CacheContext:0.5366666666666666
+Policy:0.4754285714285714
+ExpireAfterWriteTest:0.36333333333333334
+ExpireAfterAccessTest:0.36333333333333334
+BoundedPolicy:0.26666666666666666
+CacheGenerator:0.20666666666666667
+MultiThreadedTest:0.19666666666666666
+GuavaCache:0.19
+RefreshAfterWriteTest:0.12
+UnboundedLocalCacheTest:0.08
+UnboundedPolicy:0.04

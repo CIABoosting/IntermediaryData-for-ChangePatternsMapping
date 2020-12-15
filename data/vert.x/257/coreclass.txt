@@ -1,0 +1,13 @@
+Pool:0.4666666666666667
+FakeConnection:0.3616666666666667
+Http2ConnectionBase:0.32
+Http1xClientConnection:0.24333333333333335
+HttpClientConnection:0.215
+HttpConnection:0.21
+FakeConnectionProvider:0.20416666666666666
+Http2ClientConnection:0.19
+ConnectionListener:0.16833333333333333
+ConnectionProvider:0.16
+ConnectionManagerTest:0.14666666666666667
+HttpChannelConnector:0.12666666666666668
+Holder:0.06333333333333334

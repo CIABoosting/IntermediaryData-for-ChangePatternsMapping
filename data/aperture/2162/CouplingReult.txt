@@ -1,0 +1,82 @@
+Compared Result of  two versions
+Number of New Class: 49
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.semanticdesktop.aperture.addressbook.AbstractAddressbookCrawlerTest: 
+new Added class 1 : org.semanticdesktop.aperture.runtime.AbstractApertureInOsgiTest: 
+new Added class 2 : org.semanticdesktop.aperture.runtime.bundle.ApertureRuntimeActivator: 
+new Added class 3 : org.semanticdesktop.aperture.runtime.ApertureRuntimeTest: 
+new Added class 4 : org.semanticdesktop.aperture.ApertureTestBase: 
+new Added class 5 : org.semanticdesktop.aperture.subcrawler.ArchiveSubCrawlerTestBase: 
+new Added class 6 : org.semanticdesktop.aperture.crawler.mail.DataObjectFactory: 
+new Added class 7 : org.semanticdesktop.aperture.crawler.mail.DataObjectFactoryTest: 
+new Added class 8 : org.semanticdesktop.aperture.extractor.excel.ExcelExtractorTest: 
+new Added class 9 : org.semanticdesktop.aperture.extractor.html.HtmlExtractorTest: 
+new Added class 10 : org.semanticdesktop.aperture.extractor.mp3.ID3V2_3_0Test: 
+new Added class 11 : org.semanticdesktop.aperture.extractor.jpg.JpgExtractorTest: 
+new Added class 12 : org.semanticdesktop.aperture.crawler.mail.MailUtilTest: 
+new Added class 13 : org.semanticdesktop.aperture.crawler.mbox.MboxTestBase: 
+new Added class 14 : org.semanticdesktop.aperture.extractor.mime.MimeExtractorTest: 
+new Added class 15 : org.semanticdesktop.aperture.subcrawler.mime.MimeSubCrawlerTest: 
+new Added class 16 : org.semanticdesktop.aperture.extractor.mp3.MP3FileExtractorTest: 
+new Added class 17 : org.semanticdesktop.aperture.extractor.office.OfficeExtractorTest: 
+new Added class 18 : org.semanticdesktop.aperture.extractor.opendocument.OpenDocumentExtractorTest: 
+new Added class 19 : org.semanticdesktop.aperture.extractor.openxml.OpenXmlExtractorTest: 
+new Added class 20 : org.semanticdesktop.aperture.extractor.pdf.PdfExtractorTest: 
+new Added class 21 : org.semanticdesktop.aperture.extractor.plaintext.PlainTextExtractorTest: 
+new Added class 22 : org.semanticdesktop.aperture.extractor.powerpoint.PowerPointExtractorTest: 
+new Added class 23 : org.semanticdesktop.aperture.extractor.presentations.PresentationsExtractorTest: 
+new Added class 24 : org.semanticdesktop.aperture.extractor.publisher.PublisherExtractorTest: 
+new Added class 25 : org.semanticdesktop.aperture.extractor.quattro.QuattroExtractorTest: 
+new Added class 26 : org.semanticdesktop.aperture.extractor.rtf.RtfExtractorTest: 
+new Added class 27 : org.semanticdesktop.aperture.subcrawler.tar.TarIntegrationTest: 
+new Added class 28 : org.semanticdesktop.aperture.subcrawler.tar.TarSubCrawlerTest: 
+new Added class 29 : org.semanticdesktop.aperture.subcrawler.impl.TestDefaultSubCrawlerRegistry: 
+new Added class 30 : org.semanticdesktop.aperture.accessor.file.TestFileAccessor: 
+new Added class 31 : org.semanticdesktop.aperture.crawler.filesystem.TestFileSystemCrawler: 
+new Added class 32 : org.semanticdesktop.aperture.crawler.ical.TestIcalCrawler: 
+new Added class 33 : org.semanticdesktop.aperture.crawler.ical.TestIcalCrawlerIncremental: 
+new Added class 34 : org.semanticdesktop.aperture.TestIncrementalCrawlerHandler: 
+new Added class 35 : org.semanticdesktop.aperture.crawler.mbox.TestMboxCrawler: 
+new Added class 36 : org.semanticdesktop.aperture.crawler.mbox.TestMboxCrawlerMultiFolder: 
+new Added class 37 : org.semanticdesktop.aperture.subcrawler.TestSubCrawlerUtilIntegration: 
+new Added class 38 : org.semanticdesktop.aperture.subcrawler.vcard.TestVcardFileCrawlerCombination: 
+new Added class 39 : org.semanticdesktop.aperture.addressbook.thunderbird.ThunderbirdCrawlerTest: 
+new Added class 40 : org.semanticdesktop.aperture.subcrawler.vcard.VcardSubCrawlerTest: 
+new Added class 41 : org.semanticdesktop.aperture.extractor.visio.VisioExtractorTest: 
+new Added class 42 : org.semanticdesktop.aperture.extractor.word.WordExtractorTest: 
+new Added class 43 : org.semanticdesktop.aperture.extractor.wordperfect.WordPerfectExtractorTest: 
+new Added class 44 : org.semanticdesktop.aperture.extractor.works.WorksExtractorTest: 
+new Added class 45 : org.semanticdesktop.aperture.extractor.xml.XmlExtractorTest: 
+new Added class 46 : org.semanticdesktop.aperture.extractor.xmp.XMPExtractorTest: 
+new Added class 47 : org.semanticdesktop.aperture.runtime.XmpToolkit4dot4dot2Test: 
+new Added class 48 : org.semanticdesktop.aperture.subcrawler.zip.ZipSubCrawlerTest: 
+testing relationship 
+class 0  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 5  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:30  r12:0  r13:14  r14:0  r15:0  r16:4  r17:0  
+class 35  vs  class 13£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:38  r12:0  r13:21  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 13£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:11  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 39  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  18   2 :  0   3 :  0   4 :  0   5 :  4   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  97   12 :  0   13 :  54   14 :  4   15 :  0   16 :  4   17 :  0   

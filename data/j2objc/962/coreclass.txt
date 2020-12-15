@@ -1,0 +1,14 @@
+AnonymousClassDeclaration:0.4266666666666667
+MethodDeclaration:0.3933333333333333
+ElementUtil:0.37
+TreeConverter:0.33666666666666667
+TreeUtil:0.2733333333333333
+OuterReferenceResolver:0.27
+AbstractTypeDeclaration:0.25
+DebugASTPrinter:0.24333333333333335
+VariableRenamer:0.19333333333333333
+OuterReferenceFixer:0.18666666666666668
+InnerClassExtractor:0.16333333333333333
+OuterReferenceResolverTest:0.14666666666666667
+LambdaGenerator:0.12333333333333334
+LambdaTypeElementAdder:0.07666666666666666

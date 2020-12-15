@@ -1,0 +1,12 @@
+Combiner:0.72
+JobSupervisor:0.41333333333333333
+DefaultContext:0.37666666666666665
+Reducer:0.15333333333333332
+CollectingCombinerFactory:0.11166666666666666
+ObjectCombiner:0.07
+DataSerializableIntermediateCombiner:0.006666666666666667
+CustomCombiner:0.0033333333333333335
+ListSetCombiner:0.0033333333333333335
+TestCombiner:0.0033333333333333335
+TestIntermediateCombiner:0.0033333333333333335
+MultiMapCombiner:0.0033333333333333335

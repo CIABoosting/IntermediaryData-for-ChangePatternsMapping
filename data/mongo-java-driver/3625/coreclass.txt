@@ -1,0 +1,15 @@
+SingleResultFuture:0.5566666666666666
+MongoFuture:0.38666666666666666
+MongoCollectionStream:0.33666666666666667
+Fixture:0.27
+SingleResultFutureTest:0.23666666666666666
+MongoClientImpl:0.22666666666666666
+SingleConnectionAsyncSession:0.20333333333333334
+AsyncQueryOperation:0.19666666666666666
+MongoAsyncQueryCursor:0.18
+AsyncCommandOperation:0.16333333333333333
+MongoAsyncQueryCursorTest:0.15333333333333332
+AsyncWriteOperation:0.14666666666666667
+AsyncGetMoreOperation:0.14333333333333334
+SingleServerAsyncSession:0.09
+AsyncClusterSession:0.03666666666666667

@@ -1,0 +1,17 @@
+TransactionConfidence:0.47333333333333333
+ScriptOrBuilder:0.41305555555555556
+Script:0.38
+WalletEventListener:0.3752777777777778
+TransactionOutput:0.37333333333333335
+Wallet:0.30666666666666664
+Builder:0.30666666666666664
+PeerFilterProvider:0.2848968253968253
+WalletOrBuilder:0.2833333333333333
+Transaction:0.28
+NativeWalletEventListener:0.22166666666666668
+PeerGroup:0.21
+WalletProtobufSerializer:0.19333333333333333
+WalletProtobufSerializerTest:0.165
+WalletTest:0.12666666666666668
+BitcoindComparisonTool:0.10333333333333333
+AbstractWalletEventListener:0.08833333333333333

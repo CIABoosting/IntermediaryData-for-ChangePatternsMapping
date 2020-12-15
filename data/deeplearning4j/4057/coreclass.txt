@@ -1,0 +1,17 @@
+NeuralNetConfiguration:0.47
+Builder:0.37333333333333335
+BaseOutputLayer:0.36666666666666664
+RnnOutputLayer:0.3433333333333333
+MultiLayerConfiguration:0.31666666666666665
+MultiLayerTest:0.23
+MultiLayerTestRNN:0.21333333333333335
+GradientCheckTests:0.2
+RegressionTest050:0.17
+TestEarlyStopping:0.16333333333333333
+TestPreProcessors:0.16
+TestEarlyStoppingSpark:0.15333333333333332
+BNGradientCheckTest:0.15333333333333332
+TestEarlyStoppingSparkCompGraph:0.14666666666666667
+TestEarlyStoppingCompGraph:0.13
+TestVariableLengthTS:0.11666666666666667
+TestVariableLengthTSCG:0.11

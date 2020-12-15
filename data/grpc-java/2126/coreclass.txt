@@ -1,0 +1,14 @@
+ClientConfiguration:0.39666666666666667
+TestUtils:0.31
+BufferUntilTlsNegotiatedHandler:0.29
+AbstractBufferingHandler:0.2833333333333333
+Builder:0.2733333333333333
+BufferingHttp2UpgradeHandler:0.25666666666666665
+WriteQueue:0.24666666666666667
+NettyClientTransport:0.18666666666666668
+NettyClientStreamTest:0.18666666666666668
+NettyServerStreamTest:0.18
+NettyServerTransport:0.12333333333333334
+ProtocolNegotiators:0.12333333333333334
+Http2NettyTest:0.10333333333333333
+Http2OkHttpTest:0.10333333333333333

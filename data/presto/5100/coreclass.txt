@@ -1,0 +1,12 @@
+PartitionName:0.4066666666666667
+HivePartitionName:0.30666666666666664
+ExtendedHiveMetastore:0.2733333333333333
+HiveMetastoreClient:0.2733333333333333
+InMemoryHiveMetastore:0.22
+ThriftHiveMetastoreStats:0.21
+CachingHiveMetastore:0.19
+MockHiveMetastoreClient:0.18666666666666668
+BridgingHiveMetastore:0.18666666666666668
+ThriftHiveMetastore:0.17333333333333334
+ThriftHiveMetastoreClient:0.16
+HiveMetastore:0.16

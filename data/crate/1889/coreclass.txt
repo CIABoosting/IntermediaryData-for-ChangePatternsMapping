@@ -1,0 +1,17 @@
+TableFunction:0.4033333333333333
+TableFunctionImplementation:0.3855555555555556
+SelectStatementAnalyzerTest:0.37333333333333335
+Unnest:0.33666666666666667
+Formatter:0.25
+AstBuilder:0.25
+FileReadingCollectorTest:0.20666666666666667
+RoutedCollectPhase:0.19666666666666666
+RelationAnalyzer:0.19333333333333333
+TableFunctionRelation:0.18666666666666668
+InnerValidator:0.13666666666666666
+TableFunctionCollectPhase:0.12666666666666668
+TableFunctionCollectSource:0.10333333333333333
+Functions:0.09333333333333334
+AggregationImplModule:0.07666666666666666
+UnnestTableFunctionImplementation:0.05333333333333334
+TableFunctionModule:0.043333333333333335

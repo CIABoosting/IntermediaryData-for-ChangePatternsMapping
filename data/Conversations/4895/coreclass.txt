@@ -1,0 +1,13 @@
+Conversation:0.4
+XmppConnection:0.3466666666666667
+XmppConnectionService:0.32
+DatabaseBackend:0.2733333333333333
+ConversationActivity:0.2633333333333333
+Message:0.25
+ConversationFragment:0.13333333333333333
+Element:0.12333333333333334
+AbstractEntity:0.043333333333333335
+OnMessagePacketReceived:0.0425
+OnIqPacketReceived:0.0425
+MessagePacket:0.03333333333333333
+OnPresencePacketReceived:0.006944444444444445

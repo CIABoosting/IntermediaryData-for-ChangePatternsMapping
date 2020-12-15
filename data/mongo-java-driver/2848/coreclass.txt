@@ -1,0 +1,13 @@
+MongoCursor:0.5333333333333333
+DBCollection:0.45666666666666667
+MapReduce:0.38333333333333336
+MapReduceOutput:0.3466666666666667
+AggregationCursor:0.27666666666666667
+MapReduceTest:0.27666666666666667
+SingleShotCommandIterable:0.2733333333333333
+MapReduceCommand:0.25333333333333335
+MongoCollectionPipeline:0.22
+MongoCollectionView:0.17666666666666667
+InlineMongoCursor:0.14
+MongoMappingCursor:0.125
+MapReduceOperation:0.08

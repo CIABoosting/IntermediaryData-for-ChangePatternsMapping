@@ -1,0 +1,16 @@
+LoadBalancer:0.45
+EquivalentAddressGroup:0.44666666666666666
+Listener:0.39
+ManagedChannelImplTest:0.26
+ResolvedServerInfoGroup:0.2277777777777778
+RoundRobinLoadBalancerTest:0.19833333333333333
+GrpclbLoadBalancerTest:0.19666666666666666
+GrpclbLoadBalancer:0.19
+DnsNameResolverTest:0.19
+ManagedChannelImplIdlenessTest:0.16833333333333333
+PickFirstLoadBalancerTest:0.15833333333333333
+RoundRobinLoadBalancer:0.15
+FakeNameResolverFactory:0.15
+DirectAddressNameResolverFactory:0.10333333333333333
+PickFirstBalancer:0.08
+NameResolverListenerImpl:0.059722222222222225

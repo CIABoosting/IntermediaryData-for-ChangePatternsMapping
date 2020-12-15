@@ -1,0 +1,17 @@
+ClientResponse:0.3333333333333333
+CollectionRemoveListenerRequest:0.32666666666666666
+ClientConnection:0.2833333333333333
+ClientProxy:0.26
+ClientInvocationServiceImpl:0.24
+ClientCallFuture:0.23777777777777775
+RemoveDistributedObjectListenerRequest:0.23333333333333334
+RemoveEntryListenerRequest:0.23333333333333334
+MapRemoveEntryListenerRequest:0.23333333333333334
+RemoveListenerRequest:0.23333333333333334
+ClientNearCache:0.20666666666666667
+RemoveMessageListenerRequest:0.20333333333333334
+ClientEndpoint:0.19916666666666666
+ClientIssueTest:0.12666666666666668
+ListenerUtil:0.12
+ClientReplicatedMapRemoveEntryListenerRequest:0.11333333333333333
+ClientPacketProcessor:0.04666666666666667

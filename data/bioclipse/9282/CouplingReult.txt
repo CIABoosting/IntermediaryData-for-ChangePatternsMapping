@@ -1,0 +1,59 @@
+Compared Result of  two versions
+Number of New Class: 38
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.tools.manipulator.AtomContainerManipulator: 
+new Added class 1 : org.openscience.cdk.AtomContainerSet: 
+new Added class 2 : org.openscience.cdk.AtomType: 
+new Added class 3 : org.openscience.cdk.tools.manipulator.AtomTypeManipulator: 
+new Added class 4 : org.openscience.cdk.atomtype.CDKAtomTypeMatcher: 
+new Added class 5 : net.bioclipse.cdk.business.CDKManager: 
+new Added class 6 : net.bioclipse.cdk.business.test.CDKManagerTest: 
+new Added class 7 : org.openscience.cdk.io.CMLWriter: 
+new Added class 8 : org.openscience.cdk.libio.cml.CustomSerializer: 
+new Added class 9 : org.openscience.cdk.fingerprint.Fingerprinter: 
+new Added class 10 : org.openscience.cdk.FragmentAtom: 
+new Added class 11 : org.openscience.cdk.geometry.GeometryTools: 
+new Added class 12 : org.openscience.cdk.fingerprint.GraphOnlyFingerprinter: 
+new Added class 13 : org.openscience.cdk.io.iterator.IIteratingChemObjectReader: 
+new Added class 14 : org.openscience.cdk.io.random.IRandomAccessChemObjectReader: 
+new Added class 15 : org.openscience.cdk.io.iterator.IteratingPCSubstancesXMLReader: 
+new Added class 16 : org.openscience.cdk.qsar.descriptors.molecular.LongestAliphaticChainDescriptor: 
+new Added class 17 : org.openscience.cdk.io.MDLWriter: 
+new Added class 18 : org.openscience.cdk.io.Mol2Writer: 
+new Added class 19 : org.openscience.cdk.tools.manipulator.MolecularFormulaManipulator: 
+new Added class 20 : org.openscience.cdk.isomorphism.matchers.smarts.OrderQueryBond: 
+new Added class 21 : org.openscience.cdk.graph.PathTools: 
+new Added class 22 : org.openscience.cdk.protein.data.PDBAtom: 
+new Added class 23 : org.openscience.cdk.tools.PeriodicTable: 
+new Added class 24 : org.openscience.cdk.PseudoAtom: 
+new Added class 25 : org.openscience.cdk.io.random.RandomAccessReader: 
+new Added class 26 : org.openscience.cdk.io.random.RecordReaderEvent: 
+new Added class 27 : org.openscience.cdk.io.random.RandomAccessSDFReader: 
+new Added class 28 : org.openscience.cdk.geometry.RDFCalculator: 
+new Added class 29 : org.openscience.cdk.tools.SaturationChecker: 
+new Added class 30 : org.openscience.cdk.io.formats.SDFFormat: 
+new Added class 31 : net.bioclipse.cdk.business.SDFWriter: 
+new Added class 32 : org.openscience.cdk.smiles.smarts.parser.visitor.SmartsQueryVisitor: 
+new Added class 33 : org.openscience.cdk.smiles.SmilesGenerator: 
+new Added class 34 : org.openscience.cdk.smiles.SmilesParser: 
+new Added class 35 : org.openscience.cdk.atomtype.SybylAtomTypeMatcher: 
+new Added class 36 : org.openscience.cdk.config.Symbols: 
+new Added class 37 : org.openscience.cdk.layout.TemplateHandler: 
+testing relationship 
+class 0  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-34  r9:0  r10:114  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-2  r12:0  r13:10  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 24£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 14£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 25£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  1   3 :  0   4 :  0   5 :  0   6 :  2   7 :  0   8 :  -32   9 :  0   10 :  116   11 :  5   12 :  0   13 :  17   14 :  0   15 :  0   16 :  0   17 :  0   

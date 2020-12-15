@@ -1,0 +1,15 @@
+Builder:0.42
+TemplateQueryBuilder:0.21333333333333335
+GeoDistanceQueryBuilder:0.21
+GeoShapeQueryBuilder:0.19
+SimpleQueryStringBuilder:0.18333333333333332
+GeoDistanceRangeQueryBuilder:0.17666666666666667
+ParentIdQueryBuilder:0.16
+TypeQueryBuilder:0.16
+ExistsQueryBuilder:0.15333333333333332
+GeoBoundingBoxQueryBuilder:0.14
+GeoPolygonQueryBuilder:0.14
+PercolatorQueryBuilder:0.14
+ScriptQueryBuilder:0.06666666666666667
+MatchNoneQueryBuilder:0.056666666666666664
+GeohashCellQuery:0.0

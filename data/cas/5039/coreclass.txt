@@ -1,0 +1,9 @@
+RegisteredService:0.7633333333333333
+RegexRegisteredService:0.31
+MongoServiceRegistryDao:0.21333333333333335
+ServiceRegistryDao:0.15833333333333333
+JpaServiceRegistryDaoImpl:0.155
+AbstractResourceBasedServiceRegistryDao:0.1275
+CouchbaseServiceRegistryDao:0.1275
+InMemoryServiceRegistryDaoImpl:0.1275
+LdapServiceRegistryDao:0.1275

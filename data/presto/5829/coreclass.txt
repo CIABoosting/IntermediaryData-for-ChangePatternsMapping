@@ -1,0 +1,13 @@
+VarcharFieldSetter:0.36333333333333334
+AbstractTestHiveClient:0.32
+TestSerDeUtils:0.3
+TestHiveFileFormats:0.29333333333333333
+SerDeUtils:0.29
+TupleDomainParquetPredicate:0.25333333333333335
+HiveWriteUtils:0.23333333333333334
+TestOrcPageSourceMemoryTracking:0.22666666666666666
+AbstractTestParquetReader:0.21333333333333335
+HiveBucketing:0.21333333333333335
+TestHiveIntegrationSmokeTest:0.21333333333333335
+TestTupleDomainParquetPredicate:0.21333333333333335
+HiveFileFormatBenchmark:0.20666666666666667

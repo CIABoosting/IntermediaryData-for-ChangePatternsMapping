@@ -1,0 +1,18 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : jolie.Interpreter: 
+new Added class 1 : jolie.process.NotificationProcess: 
+new Added class 2 : jolie.process.OneWayProcess: 
+new Added class 3 : jolie.monitoring.events.OperationEndedEvent: 
+new Added class 4 : jolie.monitoring.events.OperationStartedEvent: 
+new Added class 5 : jolie.process.RequestResponseProcess: 
+new Added class 6 : jolie.monitoring.events.SessionEndedEvent: 
+new Added class 7 : jolie.monitoring.events.SessionStartedEvent: 
+new Added class 8 : jolie.SessionThread: 
+new Added class 9 : jolie.process.SolicitResponseProcess: 
+testing relationship 
+class 0  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:5  r9:0  r10:0  r11:11  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:2  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  1   6 :  0   7 :  0   8 :  5   9 :  0   10 :  0   11 :  11   12 :  0   13 :  4   14 :  1   15 :  0   16 :  2   17 :  0   

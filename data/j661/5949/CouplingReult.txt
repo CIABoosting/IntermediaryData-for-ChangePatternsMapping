@@ -1,0 +1,41 @@
+Compared Result of  two versions
+Number of New Class: 23
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.server.wm.superlayer.AbstractServerDisplay: 
+new Added class 1 : arinc661.common.parser.AbstractXMLDFHandler: 
+new Added class 2 : arinc661.server.jfx.wm.BasicWindowManager: 
+new Added class 3 : arinc661.common.conf.CommonConfiguration: 
+new Added class 4 : arinc661.common.a661.DecoderListener: 
+new Added class 5 : plugin.client.debug.gui.DecoderMessageDialog: 
+new Added class 6 : arinc661.appli.editor.engine.EditorApplication: 
+new Added class 7 : arinc661.appli.editor.engine.EditorLayer: 
+new Added class 8 : arinc661.server.jfx.wm.JFXServerDisplay: 
+new Added class 9 : arinc661.server.jfx.JFXServerWrapper: 
+new Added class 10 : arinc661.server.jfx.ui.JFXUIManager: 
+new Added class 11 : arinc661.jfxutils.JFXUtilsFactory: 
+new Added class 12 : arinc661.server.jfx.factory.JFXZoomManager: 
+new Added class 13 : arinc661.server.jfx.model.stdrenderer.MutuExclRenderer: 
+new Added class 14 : arinc661.server.model.painter.PainterUtils: 
+new Added class 15 : arinc661.common.parser.PropertyParser: 
+new Added class 16 : arinc661.server.wm.ServerDisplay: 
+new Added class 17 : arinc661.server.swing.wm.SwingServerDisplay: 
+new Added class 18 : arinc661.server.swing.SwingServerWrapper: 
+new Added class 19 : arinc661.swingutils.SwingUtilsFactory: 
+new Added class 20 : arinc661.appli.editor.SymbolCommandListener: 
+new Added class 21 : arinc661.appli.editor.SymbolListener: 
+new Added class 22 : arinc661.appli.editor.WidgetListener: 
+testing relationship 
+class 0  vs  class 16£º  r0:0  r1:0  r2:1  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 7£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:3  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:4  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  1   3 :  3   4 :  1   5 :  2   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  35   12 :  0   13 :  19   14 :  1   15 :  0   16 :  3   17 :  0   

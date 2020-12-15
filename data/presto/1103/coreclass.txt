@@ -1,0 +1,15 @@
+TestHashJoinOperator:0.37666666666666665
+HashJoinBenchmark:0.3730952380952381
+Visitor:0.30333333333333334
+PerLifespanDataManager:0.3
+LookupJoinOperatorFactory:0.2633333333333333
+BuildSideSetup:0.25333333333333335
+JoinProbeCompiler:0.23
+HashBuilderOperatorFactory:0.20666666666666667
+PartitionedLookupSourceFactory:0.20333333333333334
+LookupJoinOperators:0.18
+JoinContext:0.16166666666666665
+LookupOuterOperatorFactory:0.09666666666666666
+PerLifespanData:0.07666666666666666
+HashJoinOperatorFactoryFactory:0.03666666666666667
+FreezeOnReadCounter:0.03

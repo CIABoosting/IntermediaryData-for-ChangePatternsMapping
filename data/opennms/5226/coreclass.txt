@@ -1,0 +1,17 @@
+PollerBackEnd:0.76
+PollerBackEndTest:0.37333333333333335
+NodeDaoTest:0.31333333333333335
+OnmsLocationMonitor:0.30666666666666664
+LocationMonitorDaoHibernateTest:0.2966666666666667
+PollerBackEndIntegrationTest:0.27666666666666667
+DefaultPollerBackEnd:0.265
+BaseIntegrationTestCase:0.25
+ServerUnreachableAdaptor:0.24333333333333335
+PollerFrontEndTest:0.21166666666666667
+DefaultPollerFrontEnd:0.2
+TemporaryDatabaseTestCase:0.18904761904761905
+AbstractTransactionalDaoTestCase:0.15666666666666668
+AbstractTransactionalTemporaryDatabaseSpringContextTests:0.12333333333333334
+PollerFrontEndIntegrationTest:0.10833333333333334
+TemporaryDatabaseTestCaseTest:0.06333333333333334
+PopulatedTemporaryDatabaseTestCaseTest:0.06333333333333334

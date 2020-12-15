@@ -1,0 +1,13 @@
+PollableSourceRetryTests:0.38
+MessageChannelItemWriterTests:0.2833333333333333
+JobRepositorySupport:0.2633333333333333
+ChunkMessageItemWriterIntegrationTests:0.24666666666666667
+MessageOrientedStep:0.23333333333333334
+ChunkMessageChannelItemWriter:0.23
+AbstractStep:0.21333333333333335
+JobLaunchingMessageHandlerIntegrationTests:0.19
+StepExecutionMessageHandlerTests:0.17333333333333334
+FileToMessagesJobFactoryBeanTests:0.16333333333333333
+SmokeTests:0.13666666666666666
+MessageOrientedStepTests:0.125
+JdkConcurrentResultQueue:0.10333333333333333

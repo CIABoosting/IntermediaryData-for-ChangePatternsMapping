@@ -1,0 +1,17 @@
+Options:0.5331111111111111
+CriteriaBuilderImpl:0.43
+QueryImpl:0.4166666666666667
+HibernateEntityManagerImplementor:0.41
+RenderedCriteriaQuery:0.3078888888888889
+ImplicitParameterBinding:0.3078888888888889
+CriteriaQueryCompiler:0.23333333333333334
+CriteriaQueryImpl:0.21
+ComparisonPredicate:0.20333333333333334
+AbstractEntityManagerImpl:0.19
+NamedParameterDescriptor:0.1761111111111111
+ExpressionImpl:0.15666666666666668
+LiteralExpression:0.15
+CompoundSelectionImpl:0.058333333333333334
+SelectionImpl:0.056666666666666664
+AbstractTupleElement:0.043333333333333335
+ValueConversionResultTransformer:0.01

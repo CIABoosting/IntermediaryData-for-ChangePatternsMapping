@@ -1,0 +1,16 @@
+JobSupervisor:0.42
+MapReduceUtil:0.3333333333333333
+MapReduceTest:0.31666666666666665
+DefaultContext:0.25166666666666665
+TrackableJobFuture:0.20666666666666667
+DataSerializableIntermediateCombiner:0.09
+MapReduceDataSerializerHook:0.08333333333333333
+ObjectReducer:0.07333333333333333
+TupleIntInt:0.05333333333333334
+DataSerializableIntermediateReducer:0.05
+ObjectCombiner:0.023333333333333334
+DataSerializableIntermediateCollator:0.023333333333333334
+DataSerializableIntermediateReducerFactory:0.0
+ObjectCombinerFactory:0.0
+DataSerializableIntermediateCombinerFactory:0.0
+ObjectReducerFactory:0.0

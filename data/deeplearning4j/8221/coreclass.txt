@@ -1,0 +1,14 @@
+OutputLayer:0.5166666666666667
+BaseMultiLayerNetwork:0.33
+OutputLayerOptimizer:0.32
+MultiLayerConfiguration:0.31333333333333335
+RBM:0.30666666666666664
+WeightInitUtil:0.27666666666666667
+MultiLayerNetworkOptimizer:0.26
+BaseLayer:0.24333333333333335
+BackPropOptimizer:0.23666666666666666
+Builder:0.224
+BaseNeuralNetwork:0.21861111111111114
+DBN:0.20666666666666667
+StackedDenoisingAutoEncoder:0.17333333333333334
+DBNTest:0.11

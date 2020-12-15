@@ -1,0 +1,104 @@
+Compared Result of  two versions
+Number of New Class: 94
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.lwjgl.opengl.ARBDepthTexture: 
+new Added class 1 : org.lwjgl.opengl.ARBFragmentProgram: 
+new Added class 2 : org.lwjgl.opengl.ARBFragmentShader: 
+new Added class 3 : org.lwjgl.opengl.ARBImaging: 
+new Added class 4 : org.lwjgl.opengl.ARBMatrixPalette: 
+new Added class 5 : org.lwjgl.opengl.ARBMultisample: 
+new Added class 6 : org.lwjgl.opengl.ARBMultitexture: 
+new Added class 7 : org.lwjgl.opengl.ARBOcclusionQuery: 
+new Added class 8 : org.lwjgl.opengl.ARBPointParameters: 
+new Added class 9 : org.lwjgl.opengl.ARBPointSprite: 
+new Added class 10 : org.lwjgl.opengl.ARBShaderObjects: 
+new Added class 11 : org.lwjgl.opengl.ARBShadow: 
+new Added class 12 : org.lwjgl.opengl.ARBShadowAmbient: 
+new Added class 13 : org.lwjgl.opengl.ARBTextureBorderClamp: 
+new Added class 14 : org.lwjgl.opengl.ARBTextureCompression: 
+new Added class 15 : org.lwjgl.opengl.ARBTextureCubeMap: 
+new Added class 16 : org.lwjgl.opengl.ARBTextureEnvCombine: 
+new Added class 17 : org.lwjgl.opengl.ARBTextureEnvDot3: 
+new Added class 18 : org.lwjgl.opengl.ARBTextureMirroredRepeat: 
+new Added class 19 : org.lwjgl.opengl.ARBTransposeMatrix: 
+new Added class 20 : org.lwjgl.opengl.ARBVertexBlend: 
+new Added class 21 : org.lwjgl.opengl.ARBVertexBufferObject: 
+new Added class 22 : org.lwjgl.opengl.ARBVertexProgram: 
+new Added class 23 : org.lwjgl.opengl.ARBVertexShader: 
+new Added class 24 : org.lwjgl.opengl.ARBWindowPos: 
+new Added class 25 : org.lwjgl.opengl.ATIDrawBuffers: 
+new Added class 26 : org.lwjgl.opengl.ATIElementArray: 
+new Added class 27 : org.lwjgl.opengl.ATIEnvmapBumpmap: 
+new Added class 28 : org.lwjgl.opengl.ATIFragmentShader: 
+new Added class 29 : org.lwjgl.opengl.ATIMapObjectBuffer: 
+new Added class 30 : org.lwjgl.opengl.ATIPnTriangles: 
+new Added class 31 : org.lwjgl.opengl.ATISeparateStencil: 
+new Added class 32 : org.lwjgl.opengl.ATITextureFloat: 
+new Added class 33 : org.lwjgl.opengl.ATITextureMirrorOnce: 
+new Added class 34 : org.lwjgl.opengl.ATIVertexArrayObject: 
+new Added class 35 : org.lwjgl.opengl.ATIVertexAttribArrayObject: 
+new Added class 36 : org.lwjgl.opengl.ATIVertexStreams: 
+new Added class 37 : org.lwjgl.opengl.EXTAbgr: 
+new Added class 38 : org.lwjgl.opengl.EXTBgra: 
+new Added class 39 : org.lwjgl.opengl.EXTBlendFuncSeparate: 
+new Added class 40 : org.lwjgl.opengl.EXTBlendSubtract: 
+new Added class 41 : org.lwjgl.opengl.EXTCompiledVertexArray: 
+new Added class 42 : org.lwjgl.opengl.EXTDrawRangeElements: 
+new Added class 43 : org.lwjgl.opengl.EXTFogCoord: 
+new Added class 44 : org.lwjgl.opengl.EXTMultiDrawArrays: 
+new Added class 45 : org.lwjgl.opengl.EXTPackedPixels: 
+new Added class 46 : org.lwjgl.opengl.EXTPointParameters: 
+new Added class 47 : org.lwjgl.opengl.EXTRescaleNormal: 
+new Added class 48 : org.lwjgl.opengl.EXTSecondaryColor: 
+new Added class 49 : org.lwjgl.opengl.EXTSeparateSpecularColor: 
+new Added class 50 : org.lwjgl.opengl.EXTSharedTexturePalette: 
+new Added class 51 : org.lwjgl.opengl.EXTStencilTwoSide: 
+new Added class 52 : org.lwjgl.opengl.EXTStencilWrap: 
+new Added class 53 : org.lwjgl.opengl.EXTTextureCompressionS3TC: 
+new Added class 54 : org.lwjgl.opengl.EXTTextureEnvCombine: 
+new Added class 55 : org.lwjgl.opengl.EXTTextureEnvDot3: 
+new Added class 56 : org.lwjgl.opengl.EXTTextureFilterAnisotropic: 
+new Added class 57 : org.lwjgl.opengl.EXTTextureLODBias: 
+new Added class 58 : org.lwjgl.opengl.EXTVertexShader: 
+new Added class 59 : org.lwjgl.opengl.EXTVertexWeighting: 
+new Added class 60 : org.lwjgl.opengl.GL11: 
+new Added class 61 : org.lwjgl.opengl.GL12: 
+new Added class 62 : org.lwjgl.opengl.GL13: 
+new Added class 63 : org.lwjgl.opengl.GL14: 
+new Added class 64 : org.lwjgl.opengl.GL15: 
+new Added class 65 : org.lwjgl.opengl.GLCaps: 
+new Added class 66 : org.lwjgl.opengl.NVCopyDepthToColor: 
+new Added class 67 : org.lwjgl.opengl.NVDepthClamp: 
+new Added class 68 : org.lwjgl.opengl.NVEvaluators: 
+new Added class 69 : org.lwjgl.opengl.NVFence: 
+new Added class 70 : org.lwjgl.opengl.NVFloatBuffer: 
+new Added class 71 : org.lwjgl.opengl.NVFogDistance: 
+new Added class 72 : org.lwjgl.opengl.NVFragmentProgram: 
+new Added class 73 : org.lwjgl.opengl.NVHalfFloat: 
+new Added class 74 : org.lwjgl.opengl.NVLightMaxExponent: 
+new Added class 75 : org.lwjgl.opengl.NVMultisampleFilterHint: 
+new Added class 76 : org.lwjgl.opengl.NVOcclusionQuery: 
+new Added class 77 : org.lwjgl.opengl.NVPackedDepthStencil: 
+new Added class 78 : org.lwjgl.opengl.NVPixelDataRange: 
+new Added class 79 : org.lwjgl.opengl.NVPointSprite: 
+new Added class 80 : org.lwjgl.opengl.NVPrimitiveRestart: 
+new Added class 81 : org.lwjgl.opengl.NVRegisterCombiners: 
+new Added class 82 : org.lwjgl.opengl.NVRegisterCombiners2: 
+new Added class 83 : org.lwjgl.opengl.NVTexgenReflection: 
+new Added class 84 : org.lwjgl.opengl.NVTextureCompressionVTC: 
+new Added class 85 : org.lwjgl.opengl.NVTextureEnvCombine4: 
+new Added class 86 : org.lwjgl.opengl.NVTextureExpandNormal: 
+new Added class 87 : org.lwjgl.opengl.NVTextureRectangle: 
+new Added class 88 : org.lwjgl.opengl.NVTextureShader: 
+new Added class 89 : org.lwjgl.opengl.NVTextureShader2: 
+new Added class 90 : org.lwjgl.opengl.NVTextureShader3: 
+new Added class 91 : org.lwjgl.opengl.NVVertexArrayRange: 
+new Added class 92 : org.lwjgl.opengl.NVVertexArrayRange2: 
+new Added class 93 : org.lwjgl.opengl.NVVertexProgram: 
+testing relationship 
+class 61  vs  class 60£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 62  vs  class 61£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 63  vs  class 62£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 64  vs  class 63£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  4   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

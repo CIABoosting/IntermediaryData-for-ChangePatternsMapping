@@ -1,0 +1,14 @@
+Environment:0.5333333333333333
+ServerCommand:0.24333333333333335
+TaskServlet:0.21
+DropwizardResourceConfig:0.19666666666666666
+LoggingExceptionMapper:0.19
+ServerFactory:0.18
+QuietErrorHandler:0.17
+JacksonMessageBodyProvider:0.16333333333333333
+SlowRequestFilter:0.16333333333333333
+RenderCommand:0.16
+AsyncRequestLog:0.13
+ManagedCommand:0.10333333333333333
+LoggingDBIExceptionMapper:0.09
+LoggingSQLExceptionMapper:0.09

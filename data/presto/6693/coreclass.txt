@@ -1,0 +1,17 @@
+Metadata:0.5966666666666667
+Connector:0.3566666666666667
+IndexHandle:0.32666666666666666
+TransactionalConnector:0.26
+MetadataManager:0.24053968253968255
+LegacyTransactionalConnectorMetadata:0.23333333333333334
+ConnectorManager:0.22333333333333333
+LocalQueryRunner:0.21333333333333335
+AbstractTestQueryFramework:0.2
+TransactionalConnectorMetadata:0.19777777777777777
+LegacyTransactionConnector:0.18
+IndexSourceRewriter:0.15666666666666668
+PlanOptimizersFactory:0.12666666666666668
+IndexManager:0.1
+IndexJoinOptimizer:0.07333333333333333
+ResolvedIndex:0.07
+Rewriter:0.056666666666666664

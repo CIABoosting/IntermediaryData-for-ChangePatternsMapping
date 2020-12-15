@@ -1,0 +1,11 @@
+OperatorStats:0.61
+AlignmentOperator:0.21894444444444447
+RecordProjectionOperator:0.16333333333333333
+QueryDriversIterator:0.14
+SplitWorker:0.13361111111111112
+RecordProjectOperator:0.10666666666666667
+SqlTaskExecution:0.10583333333333333
+ImportPartition:0.10333333333333333
+AlignmentIterator:0.06333333333333334
+TestAlignmentOperator:0.05333333333333334
+TestQueryDriversOperator:0.0033333333333333335

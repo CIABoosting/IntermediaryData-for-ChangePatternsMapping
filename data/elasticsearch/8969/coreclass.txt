@@ -1,0 +1,15 @@
+Queries:0.6266666666666667
+MultiPhrasePrefixQuery:0.26666666666666666
+MatchPhraseQueryBuilderTests:0.21333333333333335
+IndexFieldType:0.19333333333333333
+IdsQueryBuilder:0.19166666666666668
+ExistsQueryBuilder:0.19
+TermsQueryBuilder:0.185
+MatchQuery:0.17777777777777778
+TermsQueryBuilderTests:0.17666666666666667
+MatchNoneQueryBuilder:0.16166666666666665
+QueryShardContext:0.13666666666666666
+MatchQueryBuilderTests:0.12333333333333334
+IdsQueryBuilderTests:0.12333333333333334
+MatchPhrasePrefixQueryBuilderTests:0.11666666666666667
+MatchNoneQueryBuilderTests:0.11

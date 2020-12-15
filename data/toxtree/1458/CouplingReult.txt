@@ -1,0 +1,58 @@
+Compared Result of  two versions
+Number of New Class: 49
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : cramer2.CramerRulesWithExtensions: 
+new Added class 1 : toxTree.cramer2.Rule18Test: 
+new Added class 2 : cramer2.rules.Rule32: 
+new Added class 3 : toxTree.cramer2.Rule32Test: 
+new Added class 4 : cramer2.rules.Rule3FuncGroups: 
+new Added class 5 : toxTree.cramer2.Rule3FuncGroupsTest: 
+new Added class 6 : cramer2.rules.Rule3MemberedHeterocycle: 
+new Added class 7 : cramer2.rules.RuleAcyclicAcetalEsterOfQ30: 
+new Added class 8 : toxTree.cramer2.RuleAcyclicAcetalEsterOfQ30Test: 
+new Added class 9 : cramer2.rules.RuleAliphaticWithSomeFuncGroups: 
+new Added class 10 : toxTree.cramer2.RuleAliphaticWithSomeFuncGroupsTest: 
+new Added class 11 : toxTree.cramer2.RuleBenzeneAnaloguesTest: 
+new Added class 12 : cramer2.rules.RuleCommonComponentOfFood: 
+new Added class 13 : cramer2.rules.RuleCyclopropaneEtc: 
+new Added class 14 : cramer2.rules.RuleHasOnlySaltSulphonateSulphate: 
+new Added class 15 : cramer2.rules.RuleHeteroaromatic: 
+new Added class 16 : toxTree.cramer2.RuleHeteroaromaticTest: 
+new Added class 17 : cramer2.rules.RuleHeterocyclicComplexSubstituents: 
+new Added class 18 : toxTree.cramer2.RuleHeterocyclicComplexSubstituentsTest: 
+new Added class 19 : cramer2.rules.RuleIsAromatic: 
+new Added class 20 : cramer2.rules.RuleIsCommonTerpene: 
+new Added class 21 : cramer2.rules.RuleIsHeterocyclic: 
+new Added class 22 : cramer2.rules.RuleIsOpenChain: 
+new Added class 23 : cramer2.rules.RuleKetoneAlcoholEtc: 
+new Added class 24 : cramer2.rules.RuleLactoneOrCyclicDiester: 
+new Added class 25 : toxTree.cramer2.RuleLactoneOrCyclicDiesterTest: 
+new Added class 26 : cramer2.rules.RuleLactonesFusedOrUnsaturated: 
+new Added class 27 : cramer2.rules.RuleManyAromaticRings14: 
+new Added class 28 : cramer2.rules.RuleManyAromaticRings28: 
+new Added class 29 : cramer2.rules.RuleMonocarbocyclic: 
+new Added class 30 : toxTree.cramer2.RuleMonocarbocyclicTest: 
+new Added class 31 : cramer2.rules.RuleMonocycloalkanoneEtc: 
+new Added class 32 : toxTree.cramer2.RuleMonocycloalkanoneEtcTest: 
+new Added class 33 : cramer2.rules.RuleOnlyFuncGroupsQ30: 
+new Added class 34 : toxTree.cramer2.RuleOnlyFuncGroupsQ30Test: 
+new Added class 35 : cramer2.rules.RuleReadilyHydrolysed29: 
+new Added class 36 : cramer2.rules.RuleReadilyHydrolysedMononuclear: 
+new Added class 37 : cramer2.rules.RuleReadilyHydrolysedToCommonterpene: 
+new Added class 38 : cramer2.rules.RuleRingComplexSubstituents30: 
+new Added class 39 : toxTree.cramer2.RuleRingComplexSubstituents30Test: 
+new Added class 40 : cramer2.rules.RuleRingsWithSubstituents: 
+new Added class 41 : cramer2.rules.RuleRingWithSubstituents: 
+new Added class 42 : cramer2.rules.RuleSimplyBranchedAliphaticHydrocarbon: 
+new Added class 43 : toxTree.cramer2.RuleSimplyBranchedAliphaticHydrocarbonTest: 
+new Added class 44 : cramer2.rules.RuleSomeBenzeneDerivatives: 
+new Added class 45 : toxTree.cramer2.RuleSomeBenzeneDerivativesTest: 
+new Added class 46 : cramer2.rules.RuleSufficientSulphonateGroups: 
+new Added class 47 : toxTree.cramer2.RuleSufficientSulphonateGroupstest: 
+new Added class 48 : cramer2.rules.RuleToxicFunctionalGroups: 
+testing relationship 
+class 5  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 38£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 36£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  1   12 :  0   13 :  1   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,63 @@
+Compared Result of  two versions
+Number of New Class: 25
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : gj.layout.AbstractLayoutAlgorithm: 
+new Added class 1 : gj.shell.AlgorithmWidget: 
+new Added class 2 : gj.shell.Animation: 
+new Added class 3 : gj.layout.DefaultGraphLayout: 
+new Added class 4 : gj.ui.DefaultGraphRenderer: 
+new Added class 5 : gj.layout.DefaultLayoutAlgorithmContext: 
+new Added class 6 : gj.shell.model.EditableGraph: 
+new Added class 7 : gj.shell.EditableGraphWidget: 
+new Added class 8 : gj.shell.model.EditableLayout: 
+new Added class 9 : gj.util.EmptyGraph: 
+new Added class 10 : gj.example.ftree.FamilyTree: 
+new Added class 11 : gj.geom.Geometry: 
+new Added class 12 : gj.layout.GraphLayout: 
+new Added class 13 : gj.layout.GraphNotSupportedException: 
+new Added class 14 : gj.ui.GraphRenderer: 
+new Added class 15 : gj.ui.GraphWidget: 
+new Added class 16 : gj.example.inheritance.InheritanceTree: 
+new Added class 17 : gj.layout.LayoutAlgorithm: 
+new Added class 18 : gj.layout.LayoutAlgorithmContext: 
+new Added class 19 : gj.layout.LayoutAlgorithmException: 
+new Added class 20 : gj.util.LayoutHelper: 
+new Added class 21 : gj.geom.ShapeHelper: 
+new Added class 22 : gj.shell.Shell: 
+new Added class 23 : gj.example.treemodel.SwingTree: 
+new Added class 24 : gj.util.TreeGraphAdapter: 
+testing relationship 
+class 0  vs  class 17£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 17£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:4  r11:0  r12:0  r13:0  r14:3  r15:0  r16:4  r17:0  
+class 2  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 2  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 2  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 2  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:6  r17:0  
+class 4  vs  class 14£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 18£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 15£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 8  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:2  r17:0  
+class 13  vs  class 19£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 16  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:3  r17:0  
+class 16  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:4  r17:0  
+class 20  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 22  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:3  r17:0  
+record  0 :  0   1 :  2   2 :  5   3 :  2   4 :  1   5 :  2   6 :  0   7 :  4   8 :  28   9 :  0   10 :  9   11 :  17   12 :  0   13 :  3   14 :  18   15 :  0   16 :  23   17 :  0   

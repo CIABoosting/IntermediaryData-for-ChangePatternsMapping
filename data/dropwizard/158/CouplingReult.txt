@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.dropwizard.testing.junit5.DAOTestExtensionConfigTest: 
+new Added class 1 : io.dropwizard.testing.junit5.DAOTestExtensionTest: 
+new Added class 2 : io.dropwizard.testing.junit5.DropwizardAppExtensionConfigOverrideTest: 
+new Added class 3 : io.dropwizard.testing.junit5.DropwizardAppExtensionWithExplicitTest: 
+new Added class 4 : io.dropwizard.testing.junit5.DropwizardAppExtensionWithoutConfigTest: 
+new Added class 5 : io.dropwizard.testing.junit.DropwizardAppRuleConfigOverrideTest: 
+new Added class 6 : io.dropwizard.testing.junit.DropwizardAppRuleResetConfigOverrideTest: 
+new Added class 7 : io.dropwizard.testing.junit.DropwizardAppRuleWithExplicitTest: 
+new Added class 8 : io.dropwizard.testing.junit.DropwizardAppRuleWithoutConfigTest: 
+new Added class 9 : io.dropwizard.testing.junit5.DropwizardClientExtensionTest: 
+new Added class 10 : io.dropwizard.testing.junit.DropwizardClientRuleTest: 
+new Added class 11 : io.dropwizard.testing.junit5.GzipDefaultVaryBehaviourTest: 
+new Added class 12 : io.dropwizard.testing.junit5.PersonResourceExceptionMapperTest: 
+new Added class 13 : io.dropwizard.testing.junit5.PersonResourceTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

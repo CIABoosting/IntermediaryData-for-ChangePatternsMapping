@@ -1,0 +1,14 @@
+SnmpThresholder:0.35
+SyslogdConfigFactoryTest:0.3466666666666667
+Mib2Events:0.33666666666666667
+ThresholdController:0.31666666666666665
+EventconfFactoryTest:0.31
+IfInfoGetter:0.30333333333333334
+MockSnmpAgent:0.28
+Poller:0.24666666666666667
+ThresholdGroup:0.21666666666666667
+SnmpThresholdConfiguration:0.19333333333333333
+DefaultThresholdsDao:0.16333333333333333
+SnmpThresholderTest:0.16
+ThresholdsDao:0.15333333333333332
+JdbcIfInfoGetter:0.05333333333333334

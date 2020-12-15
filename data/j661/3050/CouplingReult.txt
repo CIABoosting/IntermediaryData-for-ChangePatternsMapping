@@ -1,0 +1,35 @@
+Compared Result of  two versions
+Number of New Class: 26
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : plugin.editor.script.actions.ApplyScriptAction2Test: 
+new Added class 1 : plugin.editor.script.actions.ApplyScriptAction3Test: 
+new Added class 2 : plugin.editor.script.actions.ApplyScriptActionTest: 
+new Added class 3 : arinc661.appli.ARINC661AppTest: 
+new Added class 4 : arinc661.appli.ARINC661AppTest2: 
+new Added class 5 : arinc661.common.utils.ConverterTest: 
+new Added class 6 : arinc661.appli.writer.DefaultXMLExporterTest: 
+new Added class 7 : arinc661.appli.editor.engine.EditorApplicationsTest: 
+new Added class 8 : arinc661.appli.editor.engine.EditorEngineTest: 
+new Added class 9 : arinc661.appli.editor.EditorOpenDFTest: 
+new Added class 10 : arinc661.appli.editor.engine.EditorPanelTest: 
+new Added class 11 : arinc661.appli.editor.EditorXMLDFHandlerKO2Test: 
+new Added class 12 : arinc661.appli.editor.EditorXMLDFHandlerKOTest: 
+new Added class 13 : arinc661.appli.editor.LayerTreeEditorCopyPaste1Test: 
+new Added class 14 : arinc661.appli.editor.LayerTreeEditorCopyPaste2Test: 
+new Added class 15 : arinc661.appli.editor.LayerTreeEditorCopyPaste5Test: 
+new Added class 16 : arinc661.appli.editor.LayerTreeEditorCreate1Test: 
+new Added class 17 : arinc661.appli.editor.LayerTreeEditorCreate2Test: 
+new Added class 18 : plugin.cockpit.actions.MultiAppliGenerator2Test: 
+new Added class 19 : plugin.cockpit.actions.MultiAppliGenerator3Test: 
+new Added class 20 : plugin.cockpit.actions.MultiAppliGeneratorTest: 
+new Added class 21 : plugin.cockpit.actions.MultiAppliTestHandler: 
+new Added class 22 : arinc661.server.model.stdrenderer.PictureRendererTest: 
+new Added class 23 : plugin.editor.look.synth.parser.SynthToLookModelParser: 
+new Added class 24 : plugin.editor.look.synth.tosynth.writer.ToSynthGeneratorTest: 
+new Added class 25 : plugin.editor.uiprop.actions.UIPropertiesConstructorTest: 
+testing relationship 
+class 18  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  6   12 :  0   13 :  3   14 :  0   15 :  0   16 :  0   17 :  0   

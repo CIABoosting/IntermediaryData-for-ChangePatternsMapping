@@ -1,0 +1,14 @@
+TpchSplit:0.49333333333333335
+TestDistributedQueries:0.25666666666666665
+MetadataManager:0.25333333333333335
+PrestoTestingServer:0.24333333333333335
+TpchColumnHandle:0.2275
+TpchTableHandle:0.2275
+SplitManager:0.205
+TpchBlockIterable:0.13333333333333333
+TestingTpchBlocksProvider:0.11333333333333333
+MetricRecordingTpchBlocksProvider:0.07333333333333333
+StatsTpchBlocksProvider:0.06333333333333334
+TpchDataStreamProvider:0.061111111111111116
+TpchBlocksProvider:0.04
+PrestoTestingServerModule:0.0033333333333333335

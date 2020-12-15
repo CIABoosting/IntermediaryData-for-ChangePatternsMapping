@@ -1,0 +1,13 @@
+StreamInput:0.5
+Stats:0.44
+StreamOutput:0.38333333333333336
+SuggestSearchTests:0.37666666666666665
+GeoPointFieldMapperTests:0.3566666666666667
+Delete:0.32
+Translog:0.26666666666666666
+TranslogTests:0.21333333333333335
+IndexStatsIT:0.17833333333333334
+ExceptionSerializationTests:0.175
+UnknownException:0.09666666666666666
+TranslogThread:0.07333333333333333
+ThrowingFileChannel:0.016666666666666666

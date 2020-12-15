@@ -1,0 +1,12 @@
+Visitor:0.39
+TransportShardUpsertAction:0.30333333333333334
+Source:0.2
+ESGetTask:0.18
+FieldExtractorRow:0.15
+Context:0.14333333333333334
+GetResultFieldExtractorFactory:0.08666666666666667
+FunctionExtractor:0.08333333333333333
+SymbolToFieldExtractor:0.0648888888888889
+GetResponseListener:0.03333333333333333
+MultiGetResponseListener:0.03
+ESFieldExtractor:0.0

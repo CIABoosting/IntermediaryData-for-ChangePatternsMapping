@@ -1,0 +1,17 @@
+ChronicleMapBuilder:0.44666666666666666
+Replicator:0.3883333333333333
+ChronicleSetBuilder:0.36666666666666664
+Builder:0.32666666666666666
+ReplicatedChronicleMap:0.26666666666666666
+TimeBasedReplicationTests:0.20666666666666667
+ReplicatedChronicleMapTest:0.18
+NodeDiscovery:0.17
+TCPSocketReplicationTest3wayPutReturnsNull:0.16333333333333333
+ClusterReplicationTest:0.13
+SetForTCPSocketReplicationTest3way:0.13
+PostClusterMapCreationTest:0.12333333333333334
+SingleMapClusterTest:0.12333333333333334
+TwoMapOnDifferentServers:0.11666666666666667
+ReplicatingCluster:0.11444444444444443
+UDPSocketReplicationTest:0.10333333333333333
+Replicators:0.023333333333333334

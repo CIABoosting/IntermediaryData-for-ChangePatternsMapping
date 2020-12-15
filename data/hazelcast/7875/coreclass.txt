@@ -1,0 +1,13 @@
+Operation:0.54
+LockStoreImpl:0.48333333333333334
+AbstractCacheRecordStore:0.4166666666666667
+CacheBasicAbstractTest:0.37
+LockServiceImpl:0.36666666666666664
+MapPartitionLostListenerStressTest:0.2966666666666667
+ClientMapStoreTest:0.28488888888888897
+ClientHeartbeatMonitor:0.24666666666666667
+EntryListenerConfigTest:0.24666666666666667
+InvokeIsStillRunningOperationRunnable:0.23048989898989902
+LockStoreContainer:0.21744444444444444
+IsStillRunningService:0.11
+IOBalancerMemoryLeakTest:0.0025

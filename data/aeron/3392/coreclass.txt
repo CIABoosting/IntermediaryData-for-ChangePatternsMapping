@@ -1,0 +1,10 @@
+Configuration:0.4222222222222222
+NetworkPublication:0.38666666666666666
+FlowControl:0.36333333333333334
+StatusMessageFlyweight:0.36333333333333334
+SenderTest:0.26
+SendChannelEndpoint:0.20333333333333334
+ControlTransportPoller:0.15333333333333332
+MaxMulticastFlowControl:0.1
+UnicastFlowControl:0.1
+ReceiveChannelEndpointThreadLocals:0.06666666666666667

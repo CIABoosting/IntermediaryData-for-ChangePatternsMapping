@@ -1,0 +1,15 @@
+Request:0.49
+SearchSourceBuilder:0.37333333333333335
+AbstractQueryTestCase:0.23
+FunctionScoreQueryBuilderTests:0.22
+TemplateQueryIT:0.17
+IndicesModule:0.16833333333333333
+IndexQueryParserService:0.16666666666666666
+MetaDataDeleteIndexService:0.151
+RestActions:0.14333333333333334
+QueryParseContext:0.13333333333333333
+TransportExplainAction:0.12
+TransportValidateQueryAction:0.10666666666666667
+TransportDeleteIndexAction:0.10333333333333333
+RestDeleteByQueryAction:0.09
+RestCountAction:0.07666666666666666

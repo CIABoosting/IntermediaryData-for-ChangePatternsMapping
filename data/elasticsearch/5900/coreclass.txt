@@ -1,0 +1,13 @@
+Check:0.5333333333333333
+BootstrapCheck:0.49333333333333335
+BootstrapCheckTests:0.3466666666666667
+MaxMapCountCheck:0.1975
+FileDescriptorCheck:0.165
+ClientJvmCheck:0.14333333333333334
+MaxNumberOfThreadsCheck:0.14333333333333334
+UseSerialGCCheck:0.14333333333333334
+HeapSizeCheck:0.14
+MlockallCheck:0.14
+MaxSizeVirtualMemoryCheck:0.14
+MightForkCheck:0.11333333333333333
+BootstrapSettings:0.04816666666666666

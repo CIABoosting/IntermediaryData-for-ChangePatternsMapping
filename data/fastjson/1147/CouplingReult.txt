@@ -1,0 +1,19 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.alibaba.json.bvt.EnumFieldTest3: 
+new Added class 1 : com.alibaba.json.bvt.EnumFieldTest3_private: 
+new Added class 2 : com.alibaba.json.test.codec.FastjsonArrayMappingCodec: 
+new Added class 3 : com.alibaba.json.test.codec.FastjsonCodec: 
+new Added class 4 : com.alibaba.fastjson.support.spring.FastJsonHttpMessageConverter: 
+new Added class 5 : com.alibaba.fastjson.support.spring.FastJsonHttpMessageConverter4: 
+new Added class 6 : com.alibaba.fastjson.support.spring.FastJsonJsonView: 
+new Added class 7 : com.alibaba.fastjson.support.jaxrs.FastJsonProvider: 
+new Added class 8 : com.alibaba.fastjson.JSON: 
+new Added class 9 : com.alibaba.json.bvt.basicType.LongTest_browserCompatible: 
+new Added class 10 : com.alibaba.json.bvt.StringFieldTest_special_3: 
+new Added class 11 : com.alibaba.json.bvt.StringFieldTest_special_singquote: 
+new Added class 12 : com.alibaba.json.bvt.serializer.writeJSONStringToTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

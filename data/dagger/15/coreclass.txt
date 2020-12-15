@@ -1,0 +1,14 @@
+ObjectGraph:0.53
+ModuleAdapter:0.48
+DaggerObjectGraph:0.29333333333333333
+ModuleWithStaticInjection:0.2063968253968254
+LazyInjectStatics:0.2063968253968254
+InjectAdapterProcessor:0.18333333333333332
+ModuleTest:0.18333333333333332
+ModuleAdapterProcessor:0.17333333333333334
+ModuleAdapterGenerationTest:0.16666666666666666
+TestingModuleAdapter:0.16333333333333333
+GraphAnalysisProcessor:0.14
+InjectAdapterGenerationTest:0.13833333333333334
+LazyInjectionTest:0.051388888888888894
+InjectedClass:0.03

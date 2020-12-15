@@ -1,0 +1,17 @@
+BSONBinaryWriter:0.6233333333333333
+BSONBinaryWriterTest:0.2966666666666667
+BSONDocumentBuffer:0.27666666666666667
+RequestMessage:0.20666666666666667
+DocumentDecodingPerformanceTest:0.19333333333333333
+DocumentCodecTest:0.19
+PojoDecodingPerformanceTest:0.15
+CodecTestUtil:0.14333333333333334
+BSONDocumentBufferCodecTest:0.13666666666666666
+BSONDocumentBufferCodec:0.12
+BasicBSONEncoder:0.11333333333333333
+MyIndexDBEncoder:0.1
+MyEncoder:0.1
+UUIDEncoderTest:0.1
+DBDecoderAdapter:0.09666666666666666
+CollectibleDocumentCodecTest:0.08
+CollectibleDocumentCodecUnitTest:0.03333333333333333

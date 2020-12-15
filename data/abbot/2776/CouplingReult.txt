@@ -1,0 +1,22 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : abbot.swt.Abbot: 
+new Added class 1 : abbot.swt.test.AbbotTest: 
+new Added class 2 : abbot.swt.examples.CelsiusConverter: 
+new Added class 3 : abbot.swt.examples.CelsiusConverterStrings: 
+new Added class 4 : abbot.swt.examples.MenuItemGetBoundsStandaloneSnippet: 
+new Added class 5 : abbot.swt.tester.MenuTester: 
+new Added class 6 : abbot.swt.examples.SampleApp: 
+new Added class 7 : abbot.swt.examples.SWTPatchTest1: 
+new Added class 8 : abbot.swt.junit.extensions.SWTTestUtil: 
+new Added class 9 : abbot.swt.examples.TableSample: 
+new Added class 10 : abbot.swt.tester.test.TableTesterTest: 
+new Added class 11 : abbot.swt.examples.TableTreeExample: 
+new Added class 12 : abbot.swt.eclipse.util.WorkbenchUtil: 
+new Added class 13 : abbot.swt.eclipse.util.WorkspaceUtil: 
+testing relationship 
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:30  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  33   9 :  0   10 :  4   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

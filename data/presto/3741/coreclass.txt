@@ -1,0 +1,7 @@
+JoinNode:0.53
+EffectivePredicateExtractor:0.45138888888888884
+TestEffectivePredicateExtractor:0.3233333333333333
+TestPhasedExecutionSchedule:0.23
+TestSourcePartitionedScheduler:0.20666666666666667
+TestEliminateCrossJoins:0.20666666666666667
+Rewriter:0.12

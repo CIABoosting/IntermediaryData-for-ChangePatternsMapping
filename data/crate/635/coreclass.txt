@@ -1,0 +1,9 @@
+ShardRequest:0.38
+ProjectionToProjectorVisitor:0.35333333333333333
+ColumnIndexWriterProjector:0.34076190476190477
+IndexWriterProjector:0.34076190476190477
+ShardingUpsertExecutor:0.26666666666666666
+NumberOfReplicas:0.24333333333333335
+BatchIterators:0.11222222222222224
+BatchIteratorsTest:0.07666666666666666
+IndexWriterProjectorUnitTest:0.013333333333333334

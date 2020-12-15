@@ -1,0 +1,14 @@
+AbstractServiceValidateController:0.27
+Worker:0.27
+X509CredentialsAuthenticationHandler:0.26
+MockWebServer:0.24
+YubiKeyAuthenticationHandler:0.21666666666666667
+TokenAuthenticationHandler:0.21
+Cas30ResponseViewTests:0.19666666666666666
+ManageRegisteredServicesMultiActionController:0.19666666666666666
+RegisteredServiceSimpleFormController:0.19
+AbstractManagementController:0.14
+YubiKeyMultifactorAuthenticationProvider:0.11333333333333333
+PrincipalBearingCredentialsAuthenticationHandler:0.11333333333333333
+ThresholdExpiredCRLRevocationPolicy:0.11333333333333333
+CRLDistributionPointRevocationCheckerTests:0.1

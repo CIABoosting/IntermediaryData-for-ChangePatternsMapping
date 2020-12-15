@@ -1,0 +1,10 @@
+OutputPostProcessor:0.7378888888888889
+MultiLayerNetwork:0.44666666666666666
+ReshapePostProcessor:0.32666666666666666
+InputPreProcessor:0.11866666666666667
+ComposableOutputPostProcessor:0.07333333333333333
+ComposableInputPreProcessor:0.07333333333333333
+UnitVariancePrePreProcessor:0.04666666666666667
+ZeroMeanPrePreProcessor:0.04666666666666667
+BinomialSamplingOutputPostProcessor:0.04666666666666667
+ZeroMeanAndUnitVariancePrePreProcessor:0.04666666666666667

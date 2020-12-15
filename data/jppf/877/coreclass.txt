@@ -1,0 +1,14 @@
+UniformDataFactory:0.569555315055315
+Ticker:0.48
+AbstractTradeUpdater:0.26666666666666666
+StatsCollector:0.25666666666666665
+DataFactory:0.23
+NodeSelector:0.19666666666666666
+NodeHandler:0.16
+SnapshotBasedTradeUpdater:0.08333333333333333
+TradeUpdateTask:0.07666666666666666
+EventBasedTradeUpdater:0.04666666666666667
+NodesUpdateTask:0.033650793650793646
+DataDependency:0.03333333333333333
+AbstractDataFactory:0.006666666666666667
+GaussianDataFactory:0.0

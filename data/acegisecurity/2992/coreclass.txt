@@ -1,0 +1,14 @@
+BeanIds:0.7633333333333333
+HttpSecurityBeanDefinitionParser:0.37666666666666665
+ConfigUtils:0.3333333333333333
+BasicAuthenticationBeanDefinitionParser:0.27
+HttpSecurityBeanDefinitionParserTests:0.25666666666666665
+OrderedFilterBeanDefinitionDecorator:0.22666666666666666
+FilterChainProxyPostProcessor:0.14
+OrderedFilterDecorator:0.12777777777777777
+X509BeanDefinitionParser:0.08666666666666667
+ConcurrentSessionsBeanDefinitionParser:0.08666666666666667
+LogoutBeanDefinitionParser:0.08666666666666667
+AnonymousBeanDefinitionParser:0.08666666666666667
+RememberMeBeanDefinitionParser:0.08666666666666667
+FilterChainList:0.01

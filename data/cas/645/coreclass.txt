@@ -1,0 +1,14 @@
+ReturnMappedAttributeReleasePolicy:0.3744444444444444
+ReturnMappedAttributeReleasePolicyTests:0.3433333333333333
+ReturnAllowedAttributeReleasePolicy:0.31333333333333335
+SimplePrincipal:0.31166666666666665
+DefaultAuthentication:0.29333333333333333
+AbstractPrincipalAttributesRepository:0.26
+AbstractMultifactorAuthenticationProvider:0.21333333333333335
+ReturnAllAttributeReleasePolicy:0.16
+ReturnRestfulAttributeReleasePolicy:0.15666666666666668
+BasicCredentialMetaData:0.15
+DefaultPrincipalAttributesRepository:0.14
+DefaultPrincipalFactory:0.09
+TokenCredential:0.056666666666666664
+BasicIdentifiableCredential:0.03666666666666667

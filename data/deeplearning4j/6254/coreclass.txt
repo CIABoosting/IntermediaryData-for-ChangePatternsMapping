@@ -1,0 +1,8 @@
+Builder:0.61
+NeuralNetConfiguration:0.379047619047619
+BarnesHutTsne:0.27666666666666667
+GloveWeightLookupTable:0.25
+Tsne:0.18
+GradientAdjustment:0.14
+AdamUpdater:0.14
+AdaGradUpdater:0.14

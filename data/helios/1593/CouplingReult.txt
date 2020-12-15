@@ -1,0 +1,21 @@
+Compared Result of  two versions
+Number of New Class: 9
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.spotify.helios.testing.BadTest: 
+new Added class 1 : com.spotify.helios.testing.ConfigTest: 
+new Added class 2 : com.spotify.helios.testing.JobNamePrefixTest: 
+new Added class 3 : com.spotify.helios.testing.ProberTest: 
+new Added class 4 : com.spotify.helios.testing.SimpleTest: 
+new Added class 5 : com.spotify.helios.testing.TempJobFailureTest: 
+new Added class 6 : com.spotify.helios.testing.TemporaryJobBuilder: 
+new Added class 7 : com.spotify.helios.testing.TemporaryJobs: 
+new Added class 8 : com.spotify.helios.testing.TemporaryJobsTestBase: 
+testing relationship 
+class 0  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-2  r12:1  r13:13  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  5   2 :  0   3 :  0   4 :  0   5 :  1   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  -2   12 :  1   13 :  13   14 :  0   15 :  0   16 :  0   17 :  0   

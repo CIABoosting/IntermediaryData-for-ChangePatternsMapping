@@ -1,0 +1,9 @@
+ConnectionManager:0.665
+Config:0.35333333333333333
+MasterSlaveConnectionManager:0.31666666666666665
+RedisClient:0.30333333333333334
+CommandDecoder:0.23
+RedissonRemoteService:0.22666666666666666
+RedissonExecutorService:0.22333333333333333
+CommandsQueue:0.17333333333333334
+RExecutorService:0.013333333333333334

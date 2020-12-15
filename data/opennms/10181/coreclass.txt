@@ -1,0 +1,17 @@
+DataCollectionConfig:0.5433333333333333
+CollectionAgent:0.5433333333333333
+OnmsSnmpCollection:0.5433333333333333
+ServiceParameters:0.36666666666666664
+SnmpCollector:0.36
+DataCollectionConfigFactory:0.3233333333333333
+DefaultCollectionAgent:0.3233333333333333
+SnmpNodeCollectorTest:0.2633333333333333
+WillItUnmarshalTest:0.24
+SnmpCollectionSet:0.22666666666666666
+CollectdTest:0.2
+MockDataCollectionConfig:0.19
+JMXDataCollectionConfigFactory:0.18333333333333332
+CollectdIntegrationTest:0.18166666666666667
+JMXCollector:0.13666666666666666
+JMXNodeCollector:0.06333333333333334
+DataCollectionConfigFactoryTest:0.056666666666666664

@@ -1,0 +1,10 @@
+SendPasswordResetInstructionsAction:0.4066666666666667
+PasswordManagementConfiguration:0.30333333333333334
+AuthenticationRiskTwilioSmsNotifier:0.2827222222222222
+ElectronicFenceConfiguration:0.2733333333333333
+AuthenticationRiskEmailNotifier:0.2733333333333333
+TwillioSmsSender:0.15333333333333332
+TextMagicSmsSender:0.15333333333333332
+CasCoreUtilConfiguration:0.14666666666666667
+DefaultCasEventListener:0.14
+ServiceAuthorizationCheck:0.13333333333333333

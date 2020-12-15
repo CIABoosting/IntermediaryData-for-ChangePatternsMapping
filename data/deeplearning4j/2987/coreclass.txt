@@ -1,0 +1,8 @@
+ReconstructionDistribution:0.62
+TestVAE:0.36333333333333334
+VariationalAutoencoder:0.3466666666666667
+LossFunctionWrapper:0.25666666666666665
+CompositeReconstructionDistribution:0.24666666666666667
+GaussianReconstructionDistribution:0.2221111111111111
+BernoulliReconstructionDistribution:0.2221111111111111
+ExponentialReconstructionDistribution:0.2221111111111111

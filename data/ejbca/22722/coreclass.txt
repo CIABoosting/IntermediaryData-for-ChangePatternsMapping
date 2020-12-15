@@ -1,0 +1,5 @@
+CertificateExpirationNotifierWorker:0.30333333333333334
+PublishQueueProcessWorker:0.22666666666666666
+CRLUpdateWorker:0.17333333333333334
+UserPasswordExpireWorker:0.14
+RenewCAWorker:0.14

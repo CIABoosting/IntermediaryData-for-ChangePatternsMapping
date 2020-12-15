@@ -1,0 +1,97 @@
+Compared Result of  two versions
+Number of New Class: 47
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.reaction.mechanism.AdductionLPMechanismTest: 
+new Added class 1 : org.openscience.cdk.reaction.mechanism.AdductionPBMechanismTest: 
+new Added class 2 : org.openscience.cdk.reaction.type.AdductionProtonLPReactionTest: 
+new Added class 3 : org.openscience.cdk.reaction.type.AdductionProtonPBReactionTest: 
+new Added class 4 : org.openscience.cdk.reaction.type.AdductionSodiumLPReactionTest: 
+new Added class 5 : org.openscience.cdk.reaction.type.CarbonylEliminationReactionTest: 
+new Added class 6 : org.openscience.cdk.reaction.type.ElectronImpactNBEReactionTest: 
+new Added class 7 : org.openscience.cdk.reaction.type.ElectronImpactPDBReactionTest: 
+new Added class 8 : org.openscience.cdk.reaction.type.ElectronImpactSDBReactionTest: 
+new Added class 9 : org.openscience.cdk.reaction.mechanism.HeterolyticCleavageMechanismTest: 
+new Added class 10 : org.openscience.cdk.reaction.type.HeterolyticCleavagePBReactionTest: 
+new Added class 11 : org.openscience.cdk.reaction.type.HeterolyticCleavageSBReactionTest: 
+new Added class 12 : org.openscience.cdk.reaction.mechanism.HomolyticCleavageMechanismTest: 
+new Added class 13 : org.openscience.cdk.reaction.type.HomolyticCleavageReactionTest: 
+new Added class 14 : org.openscience.cdk.reaction.type.HyperconjugationReactionTest: 
+new Added class 15 : org.openscience.cdk.reaction.type.PiBondingMovementReactionTest: 
+new Added class 16 : org.openscience.cdk.reaction.type.RadicalChargeSiteInitiationHReactionTest: 
+new Added class 17 : org.openscience.cdk.reaction.type.RadicalChargeSiteInitiationReactionTest: 
+new Added class 18 : org.openscience.cdk.reaction.type.RadicalSiteHrAlphaReactionTest: 
+new Added class 19 : org.openscience.cdk.reaction.type.RadicalSiteHrBetaReactionTest: 
+new Added class 20 : org.openscience.cdk.reaction.type.RadicalSiteHrDeltaReactionTest: 
+new Added class 21 : org.openscience.cdk.reaction.type.RadicalSiteHrGammaReactionTest: 
+new Added class 22 : org.openscience.cdk.reaction.type.RadicalSiteInitiationHReactionTest: 
+new Added class 23 : org.openscience.cdk.reaction.type.RadicalSiteInitiationReactionTest: 
+new Added class 24 : org.openscience.cdk.reaction.mechanism.RadicalSiteIonizationMechanismTest: 
+new Added class 25 : org.openscience.cdk.reaction.mechanism.RadicalSiteRearrangementMechanismTest: 
+new Added class 26 : org.openscience.cdk.reaction.type.RadicalSiteRrAlphaReactionTest: 
+new Added class 27 : org.openscience.cdk.reaction.type.RadicalSiteRrBetaReactionTest: 
+new Added class 28 : org.openscience.cdk.reaction.type.RadicalSiteRrDeltaReactionTest: 
+new Added class 29 : org.openscience.cdk.reaction.type.RadicalSiteRrGammaReactionTest: 
+new Added class 30 : org.openscience.cdk.reaction.ReactionMechanismTest: 
+new Added class 31 : org.openscience.cdk.reaction.ReactionProcessTest: 
+new Added class 32 : org.openscience.cdk.reaction.type.RearrangementAnionReactionTest: 
+new Added class 33 : org.openscience.cdk.reaction.type.RearrangementCationReactionTest: 
+new Added class 34 : org.openscience.cdk.reaction.mechanism.RearrangementChargeMechanismTest: 
+new Added class 35 : org.openscience.cdk.reaction.type.RearrangementLonePairReactionTest: 
+new Added class 36 : org.openscience.cdk.reaction.type.RearrangementRadicalReactionTest: 
+new Added class 37 : org.openscience.cdk.reaction.mechanism.RemovingSEofBMechanismTest: 
+new Added class 38 : org.openscience.cdk.reaction.mechanism.RemovingSEofNBMechanismTest: 
+new Added class 39 : org.openscience.cdk.reaction.type.SharingAnionReactionTest: 
+new Added class 40 : org.openscience.cdk.reaction.type.SharingChargeDBReactionTest: 
+new Added class 41 : org.openscience.cdk.reaction.type.SharingChargeSBReactionTest: 
+new Added class 42 : org.openscience.cdk.reaction.mechanism.SharingElectronMechanismTest: 
+new Added class 43 : org.openscience.cdk.reaction.type.SharingLonePairReactionTest: 
+new Added class 44 : org.openscience.cdk.tools.StructureResonanceGeneratorTest: 
+new Added class 45 : org.openscience.cdk.reaction.mechanism.TautomerizationMechanismTest: 
+new Added class 46 : org.openscience.cdk.reaction.type.TautomerizationReactionTest: 
+testing relationship 
+class 0  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 39  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 42  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 45  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 46  vs  class 31£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  44   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,9 @@
+OptimisticLockException:0.5266666666666666
+AbstractEntityManagerImpl:0.4766666666666667
+PessimisticLockException:0.3
+OptimisticLockingStrategy:0.14666666666666667
+PessimisticWriteUpdateLockingStrategy:0.14666666666666667
+PessimisticReadUpdateLockingStrategy:0.14666666666666667
+PessimisticWriteSelectLockingStrategy:0.14333333333333334
+PessimisticReadSelectLockingStrategy:0.14333333333333334
+EntityVerifyVersionProcess:0.13888888888888887

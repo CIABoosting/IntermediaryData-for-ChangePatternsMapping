@@ -1,0 +1,60 @@
+Compared Result of  two versions
+Number of New Class: 33
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.coverage.AtomtypeCoverageTest: 
+new Added class 1 : org.openscience.cdk.coverage.ChargesCoverageTest: 
+new Added class 2 : org.openscience.cdk.coverage.CoreCoverageTest: 
+new Added class 3 : org.openscience.cdk.coverage.CoverageAnnotationTest: 
+new Added class 4 : org.openscience.cdk.coverage.DiffCoverageTest: 
+new Added class 5 : org.openscience.cdk.coverage.ExtraCoverageTest: 
+new Added class 6 : org.openscience.cdk.coverage.FingerprintCoverageTest: 
+new Added class 7 : org.openscience.cdk.coverage.InchiCoverageTest: 
+new Added class 8 : org.openscience.cdk.coverage.IoCoverageTest: 
+new Added class 9 : org.openscience.cdk.modulesuites.MextraTests: 
+new Added class 10 : org.openscience.cdk.modulesuites.MfingerprintTests: 
+new Added class 11 : org.openscience.cdk.modulesuites.MinchiTests: 
+new Added class 12 : org.openscience.cdk.modulesuites.MioTests: 
+new Added class 13 : org.openscience.cdk.modulesuites.MqsarmolecularTests: 
+new Added class 14 : org.openscience.cdk.modulesuites.MqsarproteinTests: 
+new Added class 15 : org.openscience.cdk.modulesuites.MqsarTests: 
+new Added class 16 : org.openscience.cdk.modulesuites.MsdgTests: 
+new Added class 17 : org.openscience.cdk.modulesuites.MsmilesTests: 
+new Added class 18 : org.openscience.cdk.modulesuites.MstandardTests: 
+new Added class 19 : org.openscience.cdk.modulesuites.MvalencycheckTests: 
+new Added class 20 : org.openscience.cdk.coverage.PcoreCoverageTest: 
+new Added class 21 : org.openscience.cdk.coverage.QsaratomicCoverageTest: 
+new Added class 22 : org.openscience.cdk.coverage.QsarbondCoverageTest: 
+new Added class 23 : org.openscience.cdk.coverage.QsarCoverageTest: 
+new Added class 24 : org.openscience.cdk.coverage.QsarionpotCoverageTest: 
+new Added class 25 : org.openscience.cdk.coverage.QsarmolecularCoverageTest: 
+new Added class 26 : org.openscience.cdk.coverage.QsarproteinCoverageTest: 
+new Added class 27 : org.openscience.cdk.coverage.ReactionCoverageTest: 
+new Added class 28 : org.openscience.cdk.coverage.RenderCoverageTest: 
+new Added class 29 : org.openscience.cdk.coverage.SdgCoverageTest: 
+new Added class 30 : org.openscience.cdk.coverage.SmilesCoverageTest: 
+new Added class 31 : org.openscience.cdk.coverage.StandardCoverageTest: 
+new Added class 32 : org.openscience.cdk.coverage.ValencycheckCoverageTest: 
+testing relationship 
+class 0  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  21   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

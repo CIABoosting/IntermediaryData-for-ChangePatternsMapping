@@ -1,0 +1,34 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.springframework.ldap.AbstractLdapTemplateIntegrationTest: 
+new Added class 1 : org.springframework.ldap.odm.contextmapping.AnnotatedClassContextMapper: 
+new Added class 2 : org.springframework.ldap.odm.contextmapping.AnnotatedClassContextMapperTest: 
+new Added class 3 : org.springframework.ldap.ConfigEnvHelper: 
+new Added class 4 : org.springframework.ldap.odm.dao.LdapDaoImpl: 
+new Added class 5 : org.springframework.ldap.odm.dao.LdapDaoTest: 
+new Added class 6 : org.springframework.ldap.LdapServerManager: 
+new Added class 7 : org.springframework.ldap.odm.attributetypes.LdapTypeConverter: 
+new Added class 8 : org.springframework.ldap.odm.attributetypes.LdapTypeConverterTest: 
+new Added class 9 : org.springframework.ldap.odm.entity.MockEntity: 
+new Added class 10 : org.springframework.ldap.odm.attributetypes.NameEditor: 
+new Added class 11 : org.springframework.ldap.odm.attributetypes.ReferencedEntryEditor: 
+new Added class 12 : org.springframework.ldap.odm.attributetypes.ReferencedEntryEditorFactory: 
+new Added class 13 : org.springframework.ldap.odm.entity.TestPerson: 
+testing relationship 
+class 0  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 1  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 1  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:11  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 2  vs  class 9£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:6  r7:0  r8:0  r9:0  r10:0  r11:14  r12:0  r13:13  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:11  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:12  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 13£º  r0:0  r1:0  r2:0  r3:4  r4:0  r5:0  r6:6  r7:0  r8:19  r9:0  r10:13  r11:9  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:16  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:1  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  5   4 :  0   5 :  1   6 :  12   7 :  1   8 :  63   9 :  0   10 :  17   11 :  46   12 :  0   13 :  31   14 :  6   15 :  0   16 :  0   17 :  0   

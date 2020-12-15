@@ -1,0 +1,92 @@
+Compared Result of  two versions
+Number of New Class: 43
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.qsar.descriptors.molecular.ALOGP: 
+new Added class 1 : org.openscience.cdk.qsar.descriptors.molecular.AminoAcidCountDescriptor: 
+new Added class 2 : org.openscience.cdk.qsar.descriptors.molecular.APolDescriptor: 
+new Added class 3 : org.openscience.cdk.qsar.descriptors.molecular.AromaticAtomsCountDescriptor: 
+new Added class 4 : org.openscience.cdk.qsar.descriptors.molecular.AromaticBondsCountDescriptor: 
+new Added class 5 : org.openscience.cdk.qsar.descriptors.molecular.AtomCountDescriptor: 
+new Added class 6 : org.openscience.cdk.qsar.descriptors.molecular.BCUTDescriptor: 
+new Added class 7 : org.openscience.cdk.qsar.descriptors.molecular.BondCountDescriptor: 
+new Added class 8 : org.openscience.cdk.qsar.descriptors.molecular.BPolDescriptor: 
+new Added class 9 : org.openscience.cdk.qsar.descriptors.molecular.CarbonConnectivityOrderOneDescriptor: 
+new Added class 10 : org.openscience.cdk.qsar.descriptors.molecular.CarbonConnectivityOrderZeroDescriptor: 
+new Added class 11 : org.openscience.cdk.qsar.descriptors.molecular.ChiChainDescriptor: 
+new Added class 12 : org.openscience.cdk.qsar.descriptors.molecular.ChiClusterDescriptor: 
+new Added class 13 : org.openscience.cdk.qsar.descriptors.molecular.ChiPathClusterDescriptor: 
+new Added class 14 : org.openscience.cdk.qsar.descriptors.molecular.ChiPathDescriptor: 
+new Added class 15 : org.openscience.cdk.qsar.descriptors.molecular.CPSADescriptor: 
+new Added class 16 : org.openscience.cdk.qsar.DescriptorSpecification: 
+new Added class 17 : org.openscience.cdk.qsar.DescriptorValue: 
+new Added class 18 : org.openscience.cdk.qsar.descriptors.molecular.EccentricConnectivityIndexDescriptor: 
+new Added class 19 : org.openscience.cdk.qsar.descriptors.molecular.GravitationalIndexDescriptor: 
+new Added class 20 : org.openscience.cdk.qsar.descriptors.molecular.HBondAcceptorCountDescriptor: 
+new Added class 21 : org.openscience.cdk.qsar.descriptors.molecular.HBondDonorCountDescriptor: 
+new Added class 22 : org.openscience.cdk.qsar.descriptors.molecular.KappaShapeIndicesDescriptor: 
+new Added class 23 : org.openscience.cdk.qsar.descriptors.molecular.LargestChainDescriptor: 
+new Added class 24 : org.openscience.cdk.qsar.descriptors.molecular.LargestPiSystemDescriptor: 
+new Added class 25 : org.openscience.cdk.qsar.descriptors.molecular.LengthOverBreadthDescriptor: 
+new Added class 26 : org.openscience.cdk.qsar.descriptors.molecular.LongestAliphaticChainDescriptor: 
+new Added class 27 : org.openscience.cdk.qsar.descriptors.molecular.MDEDescriptor: 
+new Added class 28 : org.openscience.cdk.qsar.descriptors.molecular.MomentOfInertiaDescriptor: 
+new Added class 29 : org.openscience.cdk.qsar.descriptors.molecular.PetitjeanNumberDescriptor: 
+new Added class 30 : org.openscience.cdk.qsar.descriptors.molecular.PetitjeanShapeIndexDescriptor: 
+new Added class 31 : org.openscience.cdk.qsar.descriptors.molecular.RotatableBondsCountDescriptor: 
+new Added class 32 : org.openscience.cdk.qsar.descriptors.molecular.RuleOfFiveDescriptor: 
+new Added class 33 : org.openscience.cdk.qsar.descriptors.molecular.TPSADescriptor: 
+new Added class 34 : org.openscience.cdk.qsar.descriptors.molecular.VAdjMaDescriptor: 
+new Added class 35 : org.openscience.cdk.qsar.descriptors.molecular.ValenceCarbonConnectivityOrderOneDescriptor: 
+new Added class 36 : org.openscience.cdk.qsar.descriptors.molecular.ValenceCarbonConnectivityOrderZeroDescriptor: 
+new Added class 37 : org.openscience.cdk.qsar.descriptors.molecular.WeightDescriptor: 
+new Added class 38 : org.openscience.cdk.qsar.descriptors.molecular.WeightedPathDescriptor: 
+new Added class 39 : org.openscience.cdk.qsar.descriptors.molecular.WHIMDescriptor: 
+new Added class 40 : org.openscience.cdk.qsar.descriptors.molecular.WienerNumbersDescriptor: 
+new Added class 41 : org.openscience.cdk.qsar.descriptors.molecular.XLogPDescriptor: 
+new Added class 42 : org.openscience.cdk.qsar.descriptors.molecular.ZagrebIndexDescriptor: 
+testing relationship 
+class 0  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 18  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 39  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 42  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  43   6 :  0   7 :  0   8 :  2   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  1   15 :  0   16 :  0   17 :  0   

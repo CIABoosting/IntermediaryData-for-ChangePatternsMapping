@@ -1,0 +1,14 @@
+BaseMultiLayerNetwork:0.42
+AutoEncoder:0.39
+StochasticHessianFree:0.36333333333333334
+BackPropOptimizer:0.29
+RBM:0.2733333333333333
+Builder:0.27
+DenoisingAutoEncoder:0.26666666666666666
+MatrixUtil:0.23666666666666666
+BackPropROptimizer:0.22
+Sigmoid:0.21666666666666667
+DeepAutoEncoder:0.16333333333333333
+DBNTest:0.12833333333333333
+BackPropOptimizerTests:0.08
+DeepAutoEncoderSDA:0.02

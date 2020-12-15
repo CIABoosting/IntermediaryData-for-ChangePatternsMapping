@@ -1,0 +1,10 @@
+StreamTracer:0.7066666666666667
+TestServerStreamTracer:0.3486111111111111
+TestBaseStreamTracer:0.3486111111111111
+TestClientStreamTracer:0.33
+StatsTraceContext:0.32666666666666666
+AbstractInteropTest:0.28
+AbstractClientStreamTest:0.2633333333333333
+MessageFramerTest:0.19
+MessageDeframerTest:0.17
+AbstractTransportTest:0.16333333333333333

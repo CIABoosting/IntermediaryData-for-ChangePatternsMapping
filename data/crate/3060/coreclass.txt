@@ -1,0 +1,13 @@
+Downstream:0.4166666666666667
+PageDownstreamContext:0.38
+DistributingDownstream:0.3466666666666667
+InnerPreparer:0.22
+ResultListenerBridgingConsumeListener:0.18333333333333332
+JobContextServiceTest:0.18
+AbstractExecutionSubContext:0.17444444444444446
+DistributingDownstreamTest:0.13666666666666666
+ContextPreparer:0.12666666666666668
+JobExecutionContextTest:0.11333333333333333
+PageDownstreamContextTest:0.11333333333333333
+InternalRowDownstreamFactoryTest:0.10666666666666667
+InternalRowDownstreamFactory:0.06

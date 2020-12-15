@@ -1,0 +1,41 @@
+Compared Result of  two versions
+Number of New Class: 21
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : de.grogra.mtg.Attributes: 
+new Added class 1 : de.grogra.ray2.tracing.BiDirectionalProcessor: 
+new Added class 2 : de.grogra.vecmath.CutConeParameter: 
+new Added class 3 : de.grogra.vecmath.CutRay2Parameter: 
+new Added class 4 : de.grogra.grogra.FruitObject: 
+new Added class 5 : de.grogra.vecmath.FunctionParameter: 
+new Added class 6 : de.grogra.ray.tracing.HagensBiDiStrategie1: 
+new Added class 7 : de.grogra.grogra.LeafObject: 
+new Added class 8 : de.grogra.imp3d.glsl.light.LightPos: 
+new Added class 9 : de.grogra.mtg.MTGError: 
+new Added class 10 : de.grogra.mtg.MTGFilter: 
+new Added class 11 : de.grogra.mtg.MTGGraphBuilder: 
+new Added class 12 : de.grogra.mtg.MTGLineReader: 
+new Added class 13 : de.grogra.mtg.MTGLoader: 
+new Added class 14 : de.grogra.mtg.MTGNode: 
+new Added class 15 : de.grogra.mtg.MTGNodeData: 
+new Added class 16 : de.grogra.mtg.MTGRoot: 
+new Added class 17 : de.grogra.mtg.MTGTokenizer: 
+new Added class 18 : de.grogra.mtg.MTGTranslator: 
+new Added class 19 : de.grogra.imp3d.glsl.OpenGLState: 
+new Added class 20 : de.grogra.imp3d.glsl.material.channel.SimplexNoise: 
+testing relationship 
+class 2  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:16  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:16  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 16£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:51  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 14£º  r0:0  r1:1  r2:0  r3:11  r4:1  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:80  r12:0  r13:17  r14:14  r15:0  r16:6  r17:0  
+class 16  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:5  r11:2  r12:0  r13:2  r14:1  r15:0  r16:0  r17:0  
+class 18  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:14  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:13  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:9  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  0   3 :  14   4 :  1   5 :  7   6 :  0   7 :  52   8 :  28   9 :  0   10 :  48   11 :  86   12 :  0   13 :  29   14 :  15   15 :  0   16 :  6   17 :  0   

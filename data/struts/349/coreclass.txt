@@ -1,0 +1,16 @@
+ObjectFactory:0.66
+PlexusObjectFactory:0.25333333333333335
+CdiObjectFactory:0.23666666666666666
+DummyContainer:0.233
+DispatcherTest:0.22
+PackageBasedActionConfigBuilderTest:0.22
+CdiObjectFactoryTest:0.19333333333333333
+SpringObjectFactory:0.14083333333333334
+ScopedModelDrivenInterceptorTest:0.12666666666666668
+DelegatingObjectFactory:0.12
+SpringOsgiObjectFactory:0.115
+ActionAutowiringInterceptor:0.11
+StrutsSpringObjectFactory:0.09333333333333334
+SpringProxyableObjectFactory:0.08333333333333333
+ProxyObjectFactory:0.03015873015873016
+InnerDestroyableObjectFactory:0.03015873015873016

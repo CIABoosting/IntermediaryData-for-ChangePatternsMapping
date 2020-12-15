@@ -1,0 +1,16 @@
+BulkProcessor:0.44333333333333336
+BulkRequestHandler:0.27
+Builder:0.25333333333333335
+AbstractAsyncBulkByScrollAction:0.25
+Retry:0.25
+RetryTests:0.21333333333333335
+AsyncBulkRequestHandler:0.2
+BulkProcessorIT:0.18333333333333332
+CrudIT:0.17333333333333334
+ReindexScriptTests:0.16
+DummyAsyncBulkByScrollAction:0.13666666666666666
+AsyncIndexBySearchAction:0.12666666666666668
+RetryHandler:0.12333333333333334
+TestAction:0.11333333333333333
+UpdateByQueryWithScriptTests:0.09
+SyncBulkRequestHandler:0.056666666666666664

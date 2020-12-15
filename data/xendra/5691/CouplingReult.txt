@@ -1,0 +1,32 @@
+Compared Result of  two versions
+Number of New Class: 21
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.compiere.model.function.Calcstoragemonthly0: 
+new Added class 1 : org.xendra.Constants: 
+new Added class 2 : org.compiere.model.function.Costaveragemonth0: 
+new Added class 3 : org.compiere.acct.Doc: 
+new Added class 4 : org.compiere.acct.Doc_Movement: 
+new Added class 5 : org.compiere.util.Env: 
+new Added class 6 : of.GenerateModelView: 
+new Added class 7 : org.compiere.model.GridField: 
+new Added class 8 : org.compiere.model.GridTable: 
+new Added class 9 : org.compiere.util.Ini: 
+new Added class 10 : org.compiere.model.MConfig: 
+new Added class 11 : org.compiere.model.MIssue: 
+new Added class 12 : org.compiere.model.MMovement: 
+new Added class 13 : org.compiere.model.MScheduler: 
+new Added class 14 : org.compiere.model.MSystem: 
+new Added class 15 : org.xendra.process.update.ReferencetoAnnotation: 
+new Added class 16 : org.xendra.process.update.storeprocedurestoAnnotation: 
+new Added class 17 : org.compiere.util.Util: 
+new Added class 18 : org.compiere.model.persistence.X_AD_Config: 
+new Added class 19 : org.compiere.model.persistence.X_M_StorageMonthly: 
+new Added class 20 : org.compiere.model.persistence.X_M_Transaction: 
+testing relationship 
+class 4  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 12£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:17  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:18  r12:0  r13:56  r14:1  r15:0  r16:8  r17:0  
+class 10  vs  class 18£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  0   3 :  19   4 :  0   5 :  2   6 :  1   7 :  0   8 :  0   9 :  0   10 :  0   11 :  36   12 :  0   13 :  59   14 :  1   15 :  0   16 :  9   17 :  0   

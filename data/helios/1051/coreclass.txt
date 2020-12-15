@@ -1,0 +1,12 @@
+CrtAuthenticationPlugin:0.3333333333333333
+KeyParsingFunction:0.27051984126984113
+LdapKeyProvider:0.26
+CrtTokenAuthenticator:0.21166666666666667
+CrtHandshakeResource:0.20333333333333334
+CrtAccessToken:0.2
+CrtAuthProviderTest:0.08
+CrtHandshakeResourceTest:0.06333333333333334
+CrtAuthenticationPluginTest:0.006666666666666667
+LdapKeyProviderTest:0.006666666666666667
+StatusCodeMatcher:0.0033333333333333335
+CrtTokenAuthenticatorTest:0.0033333333333333335

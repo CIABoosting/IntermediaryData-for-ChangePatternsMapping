@@ -1,0 +1,14 @@
+ClientConnection:0.53
+ClientInvocationServiceImpl:0.51
+ClientConnectionManager:0.49666666666666665
+ClientClusterServiceImpl:0.4
+TransactionProxy:0.36
+HazelcastClient:0.36
+ClusterListenerThread:0.3433333333333333
+ClientConnectionManagerImpl:0.31333333333333335
+TransactionContextProxy:0.21666666666666667
+ClientClusterProxy:0.2163888888888889
+ClientCallFuture:0.18666666666666668
+ClientTxnProxy:0.11666666666666667
+ClientReadHandler:0.01611111111111111
+ListenerUtil:0.01

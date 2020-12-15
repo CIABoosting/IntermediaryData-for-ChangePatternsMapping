@@ -1,0 +1,43 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.alibaba.fastjson.parser.deserializer.ASMDeserializerFactory: 
+new Added class 1 : com.alibaba.fastjson.serializer.ASMSerializerFactory: 
+new Added class 2 : com.alibaba.json.bvt.bug.Bug_for_primitive_double: 
+new Added class 3 : com.alibaba.json.bvt.bug.Bug_for_primitive_float: 
+new Added class 4 : com.alibaba.fastjson.parser.DefaultJSONParser: 
+new Added class 5 : com.alibaba.json.test.benchmark.basic.DoubleBenchmark_arrayMapping: 
+new Added class 6 : com.alibaba.fastjson.util.FieldInfo: 
+new Added class 7 : com.alibaba.fastjson.parser.deserializer.JavaBeanDeserializer: 
+new Added class 8 : com.alibaba.fastjson.util.JavaBeanInfo: 
+new Added class 9 : com.alibaba.fastjson.parser.JSONLexerBase: 
+new Added class 10 : com.alibaba.fastjson.parser.JSONScanner: 
+new Added class 11 : com.alibaba.json.bvt.LongFieldTest_2_stream: 
+new Added class 12 : com.alibaba.fastjson.parser.ParserConfig: 
+new Added class 13 : com.alibaba.fastjson.util.TypeUtils: 
+testing relationship 
+class 0  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:70  r12:0  r13:0  r14:61  r15:0  r16:0  r17:0  
+class 0  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:18  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:3  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:6  r15:0  r16:0  r17:0  
+class 0  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:7  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 0  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:48  r12:0  r13:1  r14:80  r15:0  r16:2  r17:0  
+class 4  vs  class 7£º  r0:0  r1:0  r2:0  r3:2  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 9£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:6  r9:0  r10:19  r11:0  r12:0  r13:0  r14:7  r15:0  r16:0  r17:0  
+class 7  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:27  r15:0  r16:21  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:19  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:39  r9:0  r10:0  r11:0  r12:0  r13:0  r14:10  r15:0  r16:0  r17:0  
+class 7  vs  class 9£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:21  r12:6  r13:67  r14:2  r15:0  r16:1  r17:0  
+class 7  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:2  r15:0  r16:1  r17:0  
+class 8  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:1  r14:3  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:7  r9:0  r10:1  r11:0  r12:0  r13:0  r14:6  r15:0  r16:0  r17:0  
+class 12  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:1  r17:0  
+class 12  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 7£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:14  r15:0  r16:3  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  7   4 :  3   5 :  2   6 :  30   7 :  0   8 :  52   9 :  0   10 :  20   11 :  205   12 :  6   13 :  82   14 :  228   15 :  0   16 :  29   17 :  0   

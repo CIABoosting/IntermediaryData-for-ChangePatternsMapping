@@ -1,0 +1,9 @@
+TestStatementBuilder:0.4266666666666667
+Planner:0.42
+AnalyzerDispatcher:0.35
+PlanVisitor:0.30666666666666664
+AnalyzedStatementVisitor:0.30666666666666664
+TaskCollectingVisitor:0.30666666666666664
+AstVisitor:0.28
+PlannerTest:0.24666666666666667
+TransportExecutorTest:0.19666666666666666

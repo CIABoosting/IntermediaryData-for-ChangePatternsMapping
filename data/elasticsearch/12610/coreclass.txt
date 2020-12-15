@@ -1,0 +1,11 @@
+IngestDocument:0.48333333333333334
+Processor:0.44
+GrokProcessorFactoryTests:0.3209999999999998
+IngestModule:0.3
+PipelineStore:0.24
+RandomDocumentPicks:0.24
+IngestDocumentTests:0.2
+GeoIpProcessorFactoryTests:0.06333333333333334
+GeoIpProcessor:0.03333333333333333
+GrokProcessor:0.023333333333333334
+GeoIpProcessorTests:0.013333333333333334

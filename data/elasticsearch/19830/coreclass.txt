@@ -1,0 +1,16 @@
+Bucket:0.71
+InternalTerms:0.38333333333333336
+LongTermsTests:0.23
+DoubleTermsTests:0.23
+MinDocCountTests:0.22333333333333333
+StringTermsTests:0.21333333333333335
+LongTerms:0.21
+UnmappedTerms:0.2
+StringTerms:0.18666666666666668
+SignificantTermsSignificanceScoreTests:0.17666666666666667
+DoubleTermsAggregator:0.16333333333333333
+DoubleTerms:0.14333333333333334
+LongTermsAggregator:0.12666666666666668
+StringTermsAggregator:0.11666666666666667
+AbstractStringTermsAggregator:0.1
+GlobalOrdinalsStringTermsAggregator:0.08

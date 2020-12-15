@@ -1,0 +1,15 @@
+Operator:0.76
+MementoTextInput:0.27666666666666667
+MathParser:0.24
+Term:0.16333333333333333
+TooFewArgumentsException:0.017388888888888888
+EndSymbolNotFoundException:0.017388888888888888
+TooMuchArgumentsException:0.017388888888888888
+UnexpectedOperatorException:0.017388888888888888
+SeparatorNotFoundException:0.017388888888888888
+ClosingBracketMissingException:0.017388888888888888
+LatexMathParser:0.013333333333333334
+SimpleMathParser:0.013333333333333334
+AsciiMathParser:0.01
+ParserException:0.006666666666666667
+TermAtom:0.0

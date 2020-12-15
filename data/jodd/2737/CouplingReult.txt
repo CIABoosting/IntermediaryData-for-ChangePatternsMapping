@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : jodd.proxetta.BigClassTest: 
+new Added class 1 : jodd.joy.i18n.I18nInterceptor: 
+new Added class 2 : jodd.proxetta.impl.InvokeProxetta: 
+new Added class 3 : jodd.proxetta.InvReplTest: 
+new Added class 4 : jodd.JoddProxetta: 
+new Added class 5 : jodd.proxetta.asm.ProxettaAsmUtil: 
+new Added class 6 : jodd.proxetta.asm.ProxettaClassBuilder: 
+new Added class 7 : jodd.proxetta.asm.ProxettaCtorBuilder: 
+new Added class 8 : jodd.proxetta.asm.ProxettaMethodBuilder: 
+new Added class 9 : jodd.proxetta.asm.ProxyAspectData: 
+new Added class 10 : jodd.proxetta.impl.ProxyProxetta: 
+new Added class 11 : jodd.proxetta.SubclassTest: 
+new Added class 12 : jodd.proxetta.asm.TargetMethodData: 
+new Added class 13 : jodd.proxetta.impl.WrapperProxetta: 
+testing relationship 
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:1  r11:0  r12:0  r13:0  r14:33  r15:0  r16:2  r17:0  
+class 11  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:12  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  3   6 :  0   7 :  0   8 :  5   9 :  0   10 :  1   11 :  30   12 :  0   13 :  16   14 :  33   15 :  0   16 :  2   17 :  0   

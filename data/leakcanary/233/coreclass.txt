@@ -1,0 +1,9 @@
+AnalysisResult:0.43
+DisplayLeakActivity:0.42
+DisplayLeakService:0.22611111111111115
+LeakListAdapter:0.19666666666666668
+HeapAnalyzer:0.16333333333333333
+LeakCanary:0.16333333333333333
+AsyncTaskLeakTest:0.16
+ServiceBinderLeakTest:0.13
+TestUtil:0.06666666666666667

@@ -1,0 +1,33 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : jodd.lagarto.CharScanner: 
+new Added class 1 : jodd.lagarto.dom.DocumentType: 
+new Added class 2 : jodd.lagarto.EmptyTagVisitor: 
+new Added class 3 : jodd.lagarto.dom.LagartoDOMBuilderTagVisitor: 
+new Added class 4 : jodd.lagarto.dom.LagartoNodeHtmlRenderer: 
+new Added class 5 : jodd.lagarto.LagartoParser2: 
+new Added class 6 : jodd.lagarto.LagartoParserEngine: 
+new Added class 7 : jodd.lagarto.LagartoParserTest: 
+new Added class 8 : jodd.lagarto.TagAdapter: 
+new Added class 9 : jodd.lagarto.TagAdapterWrapper: 
+new Added class 10 : jodd.lagarto.TagVisitor: 
+new Added class 11 : jodd.lagarto.TagWriter: 
+new Added class 12 : jodd.lagarto.TagWriterUtil: 
+testing relationship 
+class 2  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:6  r11:0  r12:0  r13:0  r14:1  r15:0  r16:2  r17:0  
+class 6  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:13  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 7  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:13  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 9  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:26  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 11  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  5   3 :  0   4 :  0   5 :  2   6 :  0   7 :  0   8 :  10   9 :  0   10 :  58   11 :  11   12 :  0   13 :  5   14 :  6   15 :  0   16 :  2   17 :  0   

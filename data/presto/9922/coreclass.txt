@@ -1,0 +1,17 @@
+TopNNode:0.5466666666666666
+LimitNode:0.42333333333333334
+LimitOperator:0.30666666666666664
+TopNOperator:0.30333333333333334
+Rewriter:0.27
+TestEffectivePredicateExtractor:0.23333333333333334
+QueryPlanner:0.23333333333333334
+Visitor:0.23
+RewritingVisitor:0.2
+TestLimitOperator:0.15
+TestTopNOperator:0.14666666666666667
+TopNBuilder:0.14333333333333334
+OrderByBenchmark:0.13666666666666666
+Top100Benchmark:0.13666666666666666
+LimitOperatorFactory:0.12
+TopNOperatorFactory:0.12
+LimitContext:0.02

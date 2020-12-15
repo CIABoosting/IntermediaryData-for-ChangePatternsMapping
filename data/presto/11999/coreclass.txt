@@ -1,0 +1,15 @@
+RemoteTask:0.6183333333333333
+SqlStageExecution:0.5166666666666667
+TaskResource:0.36
+SqlTaskExecution:0.27
+HttpRemoteTask:0.25333333333333335
+PrestoTestingServer:0.21333333333333335
+TestSharedBuffer:0.21333333333333335
+SqlTaskManager:0.20333333333333334
+SharedBuffer:0.19666666666666666
+SqlQueryExecution:0.17666666666666667
+QueryFragmentRequest:0.16666666666666666
+ExchangeOperator:0.125
+ExchangePageIterator:0.10333333333333333
+HttpRemoteTaskFactory:0.016666666666666666
+RemoteTaskFactory:0.0

@@ -1,0 +1,34 @@
+Compared Result of  two versions
+Number of New Class: 22
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.testutils.ClientComUtilities: 
+new Added class 1 : arinc661.testutils.ClientMessageConstructor: 
+new Added class 2 : arinc661.testutils.ClientMessageDecoder: 
+new Added class 3 : arinc661.testutils.DummyGraphics: 
+new Added class 4 : arinc661.testutils.DummyProtocol: 
+new Added class 5 : arinc661.testutils.InstrumentedMessageProcessor: 
+new Added class 6 : arinc661.testutils.LoaderUtilities: 
+new Added class 7 : arinc661.testutils.MessageDecoder: 
+new Added class 8 : plugin.editor.widgetdef.actions.word.RelationshipsGenerator: 
+new Added class 9 : arinc661.testutils.ServerComUtilities: 
+new Added class 10 : arinc661.testutils.ServerMessageConstructor: 
+new Added class 11 : arinc661.server.ui.synth2.SwingUtilities2: 
+new Added class 12 : arinc661.swingutils.SwingUtilsFactory: 
+new Added class 13 : arinc661.server.ui.synth2.Synth2GlobalProperties: 
+new Added class 14 : arinc661.server.ui.synth2.Synth2Parser: 
+new Added class 15 : arinc661.server.ui.synth2.SynthGraphicsUtils: 
+new Added class 16 : arinc661.server.ui.synth2.SynthInternalFrameTitlePane: 
+new Added class 17 : arinc661.server.ui.synth2.SynthMenuItemUI: 
+new Added class 18 : arinc661.server.ui.synth2.SynthProgressBarUI: 
+new Added class 19 : arinc661.server.ui.synth2.SynthSliderUI: 
+new Added class 20 : arinc661.server.ui.synth2.SynthTabbedPaneUI: 
+new Added class 21 : arinc661.server.ui.synth2.SynthToolTipUI: 
+testing relationship 
+class 0  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:9  r9:0  r10:2  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:6  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:7  r9:0  r10:3  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 15£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  1   4 :  0   5 :  4   6 :  1   7 :  0   8 :  18   9 :  0   10 :  11   11 :  13   12 :  0   13 :  4   14 :  0   15 :  0   16 :  0   17 :  0   

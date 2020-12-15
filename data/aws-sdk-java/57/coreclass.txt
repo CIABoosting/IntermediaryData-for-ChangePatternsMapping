@@ -1,0 +1,11 @@
+Service:0.64
+AWSServiceDiscovery:0.46711904761904766
+CreateServiceRequest:0.32666666666666666
+AbstractAWSServiceDiscovery:0.29
+AWSServiceDiscoveryAsync:0.2535396825396825
+ServiceMarshaller:0.24
+AbstractAWSServiceDiscoveryAsync:0.22
+AWSServiceDiscoveryAsyncClient:0.21666666666666667
+AWSServiceDiscoveryClient:0.14333333333333334
+ServiceJsonUnmarshaller:0.11666666666666667
+CreateServiceRequestMarshaller:0.08333333333333333

@@ -1,0 +1,43 @@
+Compared Result of  two versions
+Number of New Class: 20
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.smartwish.documentburster.engine.AbstractBurster: 
+new Added class 1 : com.smartwish.documentburster.unit.documentation.advanced.scripting.samples.AddFormatPageNumbersTest: 
+new Added class 2 : com.smartwish.documentburster.unit.documentation.userguide.distribute.attachments.AttachmentsTest: 
+new Added class 3 : com.smartwish.documentburster.unit.further.variables.BuiltInVariablesTest: 
+new Added class 4 : com.smartwish.documentburster.unit.further.excel.BurstByDistinctSheetsTest: 
+new Added class 5 : com.smartwish.documentburster.unit.documentation.userguide.howtodo.CommandLineConfigurationTest: 
+new Added class 6 : com.smartwish.documentburster.unit.documentation.userguide.burst.configuration.ConfigurationTest: 
+new Added class 7 : com.smartwish.documentburster.unit.documentation.userguide.howtodo.CustomConfigurationTest: 
+new Added class 8 : com.smartwish.documentburster.unit.further.other.DistributedByTest: 
+new Added class 9 : com.smartwish.documentburster.unit.documentation.userguide.distribute.external.DistributeExternalTest: 
+new Added class 10 : com.smartwish.documentburster.unit.documentation.userguide.distribute.EmailTest: 
+new Added class 11 : com.smartwish.documentburster._helpers.ExcelTestUtils: 
+new Added class 12 : com.smartwish.documentburster.unit.documentation.advanced.scripting.samples.FetchDistributionDetailsDbTest: 
+new Added class 13 : com.smartwish.documentburster.unit.documentation.advanced.scripting.samples.FetchDistributionDetailsFileTest: 
+new Added class 14 : com.smartwish.documentburster.unit.further.other.LegacyNoBurstTokensTest: 
+new Added class 15 : com.smartwish.documentburster.unit.documentation.advanced.scripting.samples.MergeExternalFilesTest: 
+new Added class 16 : com.smartwish.documentburster.unit.further.other.MultipleTokensTest: 
+new Added class 17 : com.smartwish.documentburster._helpers.PdfTestUtils: 
+new Added class 18 : com.smartwish.documentburster.unit.further.variables.UserVariablesTest: 
+new Added class 19 : com.smartwish.documentburster.unit.further.other.UtilsTest: 
+testing relationship 
+class 1  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:9  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 0£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:10  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:14  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:2  r17:0  
+class 12  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:2  r17:0  
+class 18  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  1   4 :  0   5 :  2   6 :  0   7 :  0   8 :  4   9 :  0   10 :  10   11 :  41   12 :  0   13 :  62   14 :  0   15 :  0   16 :  4   17 :  0   

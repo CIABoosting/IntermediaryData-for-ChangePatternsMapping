@@ -1,0 +1,15 @@
+QSARDescriptor:0.35
+AbstractMolecularDescriptor:0.25333333333333335
+AbstractBondDescriptor:0.25333333333333335
+AbstractAtomicDescriptor:0.25333333333333335
+AbstractAtomicProtonDescriptor:0.25333333333333335
+CSVGenerator:0.25333333333333335
+AbstractAtompairDescriptor:0.25333333333333335
+Model3DBuildersWithMMFF94ForceField:0.24666666666666667
+VectorGeneratorForDBInput:0.24666666666666667
+RuleOfFiveFilter:0.24666666666666667
+VectorGenerator:0.24666666666666667
+Model3DBuildersWithMM2ForceField:0.24666666666666667
+ART2AClassificatorWorker:0.24
+SubstructureFilter:0.22333333333333333
+ART2AClassificatorFloatWorker:0.07666666666666666

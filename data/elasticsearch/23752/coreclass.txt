@@ -1,0 +1,13 @@
+DiscoveryNodes:0.61
+RoutingNodes:0.5866666666666667
+LocalGateway:0.36666666666666664
+TransportNodesListGatewayStartedShards:0.22333333333333333
+TransportNodesListGatewayMetaState:0.22333333333333333
+AllocationService:0.18333333333333332
+ZenDiscovery:0.17666666666666667
+TransportNodesListShardStoreMetaData:0.12333333333333334
+ElectMasterService:0.09166666666666666
+TransportClientNodesService:0.08333333333333333
+TransportNodesShutdownAction:0.07333333333333333
+BlobReuseExistingGatewayAllocator:0.0675
+LocalGatewayAllocator:0.03

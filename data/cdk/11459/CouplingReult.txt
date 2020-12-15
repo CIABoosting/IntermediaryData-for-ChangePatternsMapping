@@ -1,0 +1,40 @@
+Compared Result of  two versions
+Number of New Class: 24
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.tools.diff.AbstractChemObjectDiff: 
+new Added class 1 : org.openscience.cdk.tools.diff.AbstractChemObjectDiffTest: 
+new Added class 2 : org.openscience.cdk.tools.diff.tree.AbstractDifferenceList: 
+new Added class 3 : org.openscience.cdk.tools.diff.tree.AbstractDifferenceListTest: 
+new Added class 4 : org.openscience.cdk.tools.diff.AtomContainerDiff: 
+new Added class 5 : org.openscience.cdk.tools.diff.AtomContainerDiffTest: 
+new Added class 6 : org.openscience.cdk.tools.diff.AtomDiff: 
+new Added class 7 : org.openscience.cdk.tools.diff.AtomDiffTest: 
+new Added class 8 : org.openscience.cdk.tools.diff.AtomTypeDiff: 
+new Added class 9 : org.openscience.cdk.tools.diff.AtomTypeDiffTest: 
+new Added class 10 : org.openscience.cdk.tools.diff.BondDiff: 
+new Added class 11 : org.openscience.cdk.tools.diff.BondDiffTest: 
+new Added class 12 : org.openscience.cdk.tools.diff.ChemObjectDiff: 
+new Added class 13 : org.openscience.cdk.tools.diff.ChemObjectDiffTest: 
+new Added class 14 : org.openscience.cdk.tools.diff.ElectronContainerDiff: 
+new Added class 15 : org.openscience.cdk.tools.diff.ElectronContainerDiffTest: 
+new Added class 16 : org.openscience.cdk.tools.diff.ElementDiff: 
+new Added class 17 : org.openscience.cdk.tools.diff.ElementDiffTest: 
+new Added class 18 : org.openscience.cdk.tools.diff.IsotopeDiff: 
+new Added class 19 : org.openscience.cdk.tools.diff.IsotopeDiffTest: 
+new Added class 20 : org.openscience.cdk.tools.diff.LonePairDiff: 
+new Added class 21 : org.openscience.cdk.tools.diff.LonePairDiffTest: 
+new Added class 22 : org.openscience.cdk.tools.diff.SingleElectronDiff: 
+new Added class 23 : org.openscience.cdk.tools.diff.SingleElectronDiffTest: 
+testing relationship 
+class 4  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  10   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

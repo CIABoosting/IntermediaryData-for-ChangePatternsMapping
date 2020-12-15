@@ -1,0 +1,17 @@
+RepairingTask:0.4266666666666667
+NearCachedClientMapProxy:0.36666666666666664
+RepairingHandler:0.33666666666666667
+MetaDataFetcher:0.33
+AbstractNearCacheRecordStore:0.31666666666666665
+MapGetInvalidationMetaDataOperation:0.30583333333333335
+MetaDataContainer:0.29
+CacheGetInvalidationMetaDataOperation:0.24666666666666667
+NearCachedClientCacheProxy:0.23
+Pre38NearCacheEventHandler:0.23
+RepairingTaskTest:0.12333333333333334
+RepairableNearCacheEventHandler:0.11333333333333333
+ClientMapMetaDataFetcher:0.10666666666666667
+ClientCacheMetaDataFetcher:0.10666666666666667
+MemberMapMetaDataFetcher:0.09333333333333334
+ResultHolder:0.03
+ReserveForUpdateFunction:0.03

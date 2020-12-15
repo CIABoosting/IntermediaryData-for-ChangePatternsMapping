@@ -1,0 +1,17 @@
+AsyncHttpClientConfig:0.6533333333333333
+Builder:0.39
+ChannelManager:0.25
+AsyncHttpClientConfigDefaults:0.22333333333333333
+NettyRequestFactory:0.19666666666666666
+RC10KTest:0.19
+RemoteSiteTest:0.19
+AsyncHttpClientDefaultsTest:0.18333333333333332
+BasicAuthTest:0.17333333333333334
+ConnectionPoolTest:0.16
+RetryNonBlockingIssue:0.14333333333333334
+ChunkingTest:0.12666666666666668
+DefaultAsyncHttpClientConfig:0.12333333333333334
+MaxTotalConnectionTest:0.11
+MaxConnectionsInThreads:0.10333333333333333
+NoNullResponseTest:0.09333333333333334
+RedirectConnectionUsageTest:0.09333333333333334

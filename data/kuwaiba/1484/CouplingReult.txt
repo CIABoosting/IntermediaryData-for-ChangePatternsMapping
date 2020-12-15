@@ -1,0 +1,35 @@
+Compared Result of  two versions
+Number of New Class: 21
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.kuwaiba.persistenceservice.impl.BusinessEntityManagerImpl: 
+new Added class 1 : org.kuwaiba.ws.toserialize.metadata.ClassInfo: 
+new Added class 2 : org.kuwaiba.ws.toserialize.metadata.ClassInfoLight: 
+new Added class 3 : org.kuwaiba.util.Constants: 
+new Added class 4 : org.kuwaiba.sync.LoadDataFromFile: 
+new Added class 5 : org.kuwaiba.tools.LocalClassWrapper: 
+new Added class 6 : org.kuwaiba.persistenceservice.Main: 
+new Added class 7 : org.kuwaiba.ws.toserialize.application.ObjectList: 
+new Added class 8 : org.kuwaiba.ws.toserialize.application.Query: 
+new Added class 9 : org.kuwaiba.ws.toserialize.business.RemoteObject: 
+new Added class 10 : org.kuwaiba.ws.toserialize.business.RemoteObjectLight: 
+new Added class 11 : org.kuwaiba.ws.toserialize.application.RemoteQuery: 
+new Added class 12 : org.kuwaiba.ws.toserialize.application.RemoteQueryLight: 
+new Added class 13 : org.kuwaiba.ws.toserialize.application.RemoteSession: 
+new Added class 14 : org.kuwaiba.ws.toserialize.application.ResultRecord: 
+new Added class 15 : org.kuwaiba.exceptions.ServerSideException: 
+new Added class 16 : org.kuwaiba.ws.toserialize.application.ServerStatus: 
+new Added class 17 : org.kuwaiba.ws.todeserialize.TransientQuery: 
+new Added class 18 : org.kuwaiba.ws.toserialize.application.Validator: 
+new Added class 19 : org.kuwaiba.ws.toserialize.application.ViewInfo: 
+new Added class 20 : org.kuwaiba.ws.toserialize.application.ViewInfoLight: 
+testing relationship 
+class 1  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 11  vs  class 12£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 14  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 19  vs  class 20£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  0   3 :  0   4 :  1   5 :  0   6 :  0   7 :  0   8 :  1   9 :  0   10 :  0   11 :  3   12 :  0   13 :  0   14 :  2   15 :  0   16 :  3   17 :  0   

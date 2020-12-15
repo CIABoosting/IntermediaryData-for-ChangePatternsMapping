@@ -1,0 +1,17 @@
+Compared Result of  two versions
+Number of New Class: 11
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.jooq.AlterSequenceFinalStep: 
+new Added class 1 : org.jooq.AlterTableFinalStep: 
+new Added class 2 : org.jooq.CreateIndexFinalStep: 
+new Added class 3 : org.jooq.CreateSequenceFinalStep: 
+new Added class 4 : org.jooq.CreateTableFinalStep: 
+new Added class 5 : org.jooq.CreateViewFinalStep: 
+new Added class 6 : org.jooq.DropIndexFinalStep: 
+new Added class 7 : org.jooq.DropSequenceFinalStep: 
+new Added class 8 : org.jooq.DropTableFinalStep: 
+new Added class 9 : org.jooq.DropViewFinalStep: 
+new Added class 10 : org.jooq.Truncate: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

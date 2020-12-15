@@ -1,0 +1,15 @@
+AtomicLongDataSerializerHook:0.3604444444444444
+CompareAndSetOperation:0.20666666666666667
+SetOperation:0.20666666666666667
+AddAndGetOperation:0.20666666666666667
+GetAndSetOperation:0.20666666666666667
+GetAndAddOperation:0.20666666666666667
+AtomicLongBaseOperation:0.18
+SetBackupOperation:0.17
+AtomicLongReplicationOperation:0.12666666666666668
+AddBackupOperation:0.12666666666666668
+ApplyOperation:0.12
+GetOperation:0.10666666666666667
+AlterOperation:0.05
+AlterAndGetOperation:0.05
+GetAndAlterOperation:0.05

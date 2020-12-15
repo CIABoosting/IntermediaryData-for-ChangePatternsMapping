@@ -1,0 +1,37 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.hannesdorfmann.mosby.sample.mail.model.account.DefaultAccountManager: 
+new Added class 1 : com.hannesdorfmann.mosby.mvp.delegate.DefaultActivityMvpDelegate: 
+new Added class 2 : com.hannesdorfmann.mosby.mvp.delegate.DefaultFragmentMvpDelegate: 
+new Added class 3 : com.hannesdorfmann.mosby.mvp.delegate.DefaultViewMvpDelegate: 
+new Added class 4 : com.hannesdorfmann.mosby.sample.mail.details.DetailsFragment: 
+new Added class 5 : com.hannesdorfmann.mosby.mvp.MvpActivity: 
+new Added class 6 : com.hannesdorfmann.mosby.mvp.delegate.MvpDelegateCallback: 
+new Added class 7 : com.hannesdorfmann.mosby.mvp.MvpFragment: 
+new Added class 8 : com.hannesdorfmann.mosby.mvp.layout.MvpFrameLayout: 
+new Added class 9 : com.hannesdorfmann.mosby.mvp.delegate.MvpInternalDelegate: 
+new Added class 10 : com.hannesdorfmann.mosby.mvp.viewstate.lce.MvpLceViewStateActivity: 
+new Added class 11 : com.hannesdorfmann.mosby.mvp.viewstate.lce.MvpLceViewStateFragment: 
+new Added class 12 : com.hannesdorfmann.mosby.mvp.viewstate.MvpViewStateActivity: 
+new Added class 13 : com.hannesdorfmann.mosby.mvp.viewstate.MvpViewStateFragment: 
+new Added class 14 : com.hannesdorfmann.mosby.mvp.viewstate.layout.MvpViewStateFrameLayout: 
+new Added class 15 : com.hannesdorfmann.mosby.mvp.viewstate.layout.MvpViewStateLinearLayout: 
+new Added class 16 : com.hannesdorfmann.mosby.mvp.viewstate.layout.MvpViewStateRelativeLayout: 
+new Added class 17 : com.hannesdorfmann.mosby.mvp.viewstate.ViewStateManagerTest: 
+testing relationship 
+class 1  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 1  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 2  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 3  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:7  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 7£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  3   3 :  0   4 :  0   5 :  3   6 :  0   7 :  0   8 :  8   9 :  0   10 :  7   11 :  0   12 :  0   13 :  0   14 :  4   15 :  0   16 :  0   17 :  0   

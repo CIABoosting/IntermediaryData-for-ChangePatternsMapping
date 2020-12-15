@@ -1,0 +1,12 @@
+Layer:0.39
+NeuralNetConfiguration:0.3233333333333333
+GravesLSTM:0.12
+GravesBidirectionalLSTM:0.12
+GRU:0.12
+ActivationLayer:0.09
+SubsamplingLayer:0.09
+LocalResponseNormalization:0.09
+BatchNormalization:0.09
+ConvolutionLayer:0.09
+FeedForwardLayer:0.07333333333333333
+BasePretrainNetwork:0.03

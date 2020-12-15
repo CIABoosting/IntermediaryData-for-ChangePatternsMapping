@@ -1,0 +1,13 @@
+RepairingTask:0.48
+MapGetInvalidationMetaDataOperation:0.335
+RepairingHandler:0.31666666666666665
+MetaDataContainer:0.30666666666666664
+MetaDataFetcher:0.2866666666666667
+CacheGetInvalidationMetaDataOperation:0.24666666666666667
+AbstractNearCacheRecordStore:0.22333333333333333
+RepairableNearCacheEventHandler:0.14
+RepairingTaskTest:0.12666666666666668
+MemberMapMetaDataFetcher:0.11
+ClientMapMetaDataFetcher:0.10666666666666667
+ClientCacheMetaDataFetcher:0.10666666666666667
+ResultHolder:0.03666666666666667

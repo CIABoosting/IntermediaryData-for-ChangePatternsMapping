@@ -1,0 +1,9 @@
+ScoreSortBuilder:0.36
+ScriptSortBuilder:0.32666666666666666
+FieldSortBuilder:0.32666666666666666
+GeoDistanceSortBuilder:0.32666666666666666
+PercolateSourceBuilder:0.30666666666666664
+TopHitsAggregatorBuilder:0.24666666666666667
+PercolateRequestBuilder:0.24
+AbstractSortTestCase:0.20333333333333334
+SortBuilderTests:0.18444444444444444

@@ -1,0 +1,14 @@
+InsertVisitor:0.38333333333333336
+QueryVisitor:0.33166666666666667
+ParsedStatement:0.31333333333333335
+CrateException:0.25666666666666665
+IndexResponseListener:0.20333333333333334
+BulkResponseListener:0.20333333333333334
+SearchResponseListener:0.20333333333333334
+DeleteResponseListener:0.20333333333333334
+NodeExecutionContext:0.16666666666666666
+TransportSQLActionTest:0.15666666666666668
+InsertVisitorTest:0.12
+TableExecutionContext:0.11
+XContentVisitor:0.07666666666666666
+TransportSQLAction:0.056666666666666664

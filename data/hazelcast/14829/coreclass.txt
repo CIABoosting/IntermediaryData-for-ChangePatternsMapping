@@ -1,0 +1,6 @@
+TxnLockAndGetOperation:0.2633333333333333
+MultiMapKeyBasedOperation:0.23
+MultiMapBackupAwareOperation:0.19666666666666666
+TxnCommitBackupOperation:0.15666666666666668
+TxnRollbackBackupOperation:0.15666666666666668
+TxnPrepareBackupOperation:0.15666666666666668

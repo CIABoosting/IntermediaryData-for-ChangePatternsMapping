@@ -1,0 +1,11 @@
+ClusterInfo:0.43666666666666665
+EmptyClusterInfoService:0.42333333333333334
+DiskThresholdDecider:0.38
+DiskThresholdDeciderTests:0.27
+InternalClusterInfoService:0.2
+ESAllocationTestCase:0.18
+ClusterInfoUpdateJob:0.15633333333333332
+BalanceConfigurationTests:0.15333333333333332
+RareClusterStateIT:0.13666666666666666
+RandomAllocationDeciderTests:0.08333333333333333
+DiskThresholdDeciderUnitTests:0.04666666666666667

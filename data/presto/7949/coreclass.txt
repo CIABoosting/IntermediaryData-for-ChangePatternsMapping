@@ -1,0 +1,11 @@
+HashBuilderOperator:0.42
+ParallelHashBuilderOperator:0.38333333333333336
+LookupSourceSupplier:0.32066666666666666
+ParallelHashBuilderOperatorFactory:0.23
+LookupJoinOperator:0.21666666666666667
+ParallelHashBuilder:0.2
+IndexLookupSourceSupplier:0.19666666666666666
+PartitionedLookupSource:0.12333333333333334
+SettableLookupSourceSupplier:0.12333333333333334
+LookupJoinOperatorFactory:0.07666666666666666
+ParallelLookupSourceSupplier:0.07

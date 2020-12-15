@@ -1,0 +1,10 @@
+AbstractReplicatedRecordStore:0.37333333333333335
+AbstractBaseReplicatedRecordStore:0.36
+ReplicateUpdateOperation:0.3383333333333333
+SyncReplicatedMapDataOperation:0.24333333333333335
+ReplicateUpdateToCallerOperation:0.21583333333333332
+MergeOperation:0.20583333333333334
+ClearLocalAndRemoteOperation:0.20583333333333334
+RequestMapDataOperation:0.20194444444444445
+PutAllOperation:0.14333333333333334
+CheckReplicaVersion:0.14333333333333334

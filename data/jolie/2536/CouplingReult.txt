@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 15
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : testjolie2java.types.ArticleItem: 
+new Added class 1 : ebdjolieconnection.types.BestSellerList: 
+new Added class 2 : ebdjolieconnection.types.Date: 
+new Added class 3 : testjolie2java.types.dummyRequestOne: 
+new Added class 4 : testjolie2java.types.dummyResponse: 
+new Added class 5 : testjolie2java.types.b: 
+new Added class 6 : ebdjolieconnection.types.GetERPAccountProfileRequest: 
+new Added class 7 : ebdjolieconnection.types.GetHierarchyRequest: 
+new Added class 8 : testjolie2java.types.GetProductList: 
+new Added class 9 : ebdjolieconnection.types.GetProductListResponse: 
+new Added class 10 : joliex.java.impl.JavaGWTDocumentCreator: 
+new Added class 11 : joliex.java.impl.JavaGWTWebInterfaceCreator: 
+new Added class 12 : joliex.java.Jolie2Java: 
+new Added class 13 : testjolie2java.types.ProductItem: 
+new Added class 14 : testjolie2java.types.typeTwo: 
+testing relationship 
+class 3  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  3   6 :  0   7 :  0   8 :  4   9 :  0   10 :  1   11 :  1   12 :  0   13 :  1   14 :  2   15 :  0   16 :  0   17 :  0   

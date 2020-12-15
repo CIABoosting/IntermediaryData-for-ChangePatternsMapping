@@ -1,0 +1,14 @@
+TransportClient:0.66
+ExternalTestCluster:0.22333333333333333
+ExternalNode:0.19
+SearchRequestBuilderTests:0.14666666666666667
+BulkProcessorIT:0.14333333333333334
+ESSmokeClientTestCase:0.14333333333333334
+TransportClientHeadersTests:0.12333333333333334
+TransportClientIT:0.12333333333333334
+NodesStatsBasicBackwardsCompatIT:0.12333333333333334
+ClusterStateBackwardsCompatIT:0.11333333333333333
+Netty3TransportMultiPortIntegrationIT:0.11
+TransportClientFactory:0.09333333333333334
+TransportClientBackwardsCompatibilityIT:0.09333333333333334
+ClientTemplate:0.043333333333333335

@@ -1,0 +1,12 @@
+TestMessage:0.36666666666666664
+DurableMessageListener:0.3
+ReliableMessageListenerAdapterTest:0.29
+TopicOverloadTest:0.27
+TopicTest:0.21
+PublishThread:0.19666666666666666
+LossToleranceTest:0.19333333333333333
+ReliableTopicBasicTest:0.18333333333333332
+ReliableTopicCreateTest:0.17333333333333334
+ErrorHandlingTest:0.08333333333333333
+DurableSubscriptionTest:0.08
+ReliableTopicDestroyTest:0.08

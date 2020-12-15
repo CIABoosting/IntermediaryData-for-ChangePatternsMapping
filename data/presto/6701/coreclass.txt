@@ -1,0 +1,8 @@
+AbstractTestHiveClient:0.44666666666666666
+HivePageSink:0.38333333333333336
+ConnectorPageSink:0.33
+TableWriterOperator:0.3
+RecordPageSink:0.12666666666666668
+RaptorPageSink:0.09333333333333334
+ClassLoaderSafeConnectorPageSink:0.08
+NoOpConnectorPageSink:0.056666666666666664

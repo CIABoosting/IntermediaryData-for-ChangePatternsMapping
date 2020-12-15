@@ -1,0 +1,17 @@
+SamlUtils:0.45
+Algorithms:0.4266666666666667
+SamlIdPConfiguration:0.35
+SamlIdPProperties:0.31333333333333335
+Response:0.31
+ChainingMetadataResolverCacheLoader:0.30333333333333334
+SamlObjectSigner:0.24333333333333335
+AbstractSamlProfileHandlerController:0.19666666666666666
+SamlObjectEncrypter:0.19
+ECPProfileHandlerController:0.12333333333333334
+SSOPostProfileCallbackHandlerController:0.10333333333333333
+SamlIdPEntityIdAuthenticationRequestServiceSelectionStrategy:0.09333333333333334
+SSOPostProfileHandlerController:0.09333333333333334
+DefaultSamlRegisteredServiceCachingMetadataResolver:0.04
+SLOPostProfileHandlerController:0.023333333333333334
+SamlIdPSingleLogoutServiceLogoutUrlBuilder:0.02
+IdPInitiatedProfileHandlerController:0.01

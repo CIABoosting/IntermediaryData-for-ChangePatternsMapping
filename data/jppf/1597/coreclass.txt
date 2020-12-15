@@ -1,0 +1,17 @@
+LongTask:0.3906666666666666
+ClassDescriptor:0.27
+ManyJobsRunner:0.18333333333333332
+FieldDescriptor:0.18
+ObjectGraphSerializer:0.17
+ObjectGraphDeserializer:0.15
+JPPFObjectInputStream:0.14333333333333334
+JPPFObjectOutputStream:0.11333333333333333
+PendingReference:0.06
+Test:0.04666666666666667
+GetFieldValueAction:0.04
+PendingArrayElementReference:0.03222222222222222
+ObjectStreamBuilderImpl:0.02805555555555556
+DeserializationCaches:0.023333333333333334
+SerializationCaches:0.013333333333333334
+ReflectionHelper:0.01
+PendingFieldReference:0.006666666666666667

@@ -1,0 +1,43 @@
+Compared Result of  two versions
+Number of New Class: 25
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opengis.filter.spatial.BBOX: 
+new Added class 1 : org.opengis.filter.spatial.Beyond: 
+new Added class 2 : org.opengis.filter.BinaryLogicOperator: 
+new Added class 3 : org.opengis.filter.spatial.BinarySpatialOperator: 
+new Added class 4 : org.opengis.filter.spatial.Contains: 
+new Added class 5 : org.opengis.filter.spatial.Crosses: 
+new Added class 6 : org.opengis.feature.DataType: 
+new Added class 7 : org.opengis.filter.spatial.Disjoint: 
+new Added class 8 : org.opengis.filter.spatial.DistanceBufferOperator: 
+new Added class 9 : org.opengis.filter.spatial.DWithin: 
+new Added class 10 : org.opengis.sld.ElseFilter: 
+new Added class 11 : org.opengis.filter.spatial.Equals: 
+new Added class 12 : org.opengis.sld.ExternalGraphic: 
+new Added class 13 : org.opengis.filter.FilterFactory: 
+new Added class 14 : org.opengis.filter.spatial.Intersects: 
+new Added class 15 : org.opengis.sld.LinePlacement: 
+new Added class 16 : org.opengis.sld.Mark: 
+new Added class 17 : org.opengis.filter.spatial.Overlaps: 
+new Added class 18 : org.opengis.sld.PointPlacement: 
+new Added class 19 : org.opengis.filter.PropertyIsLike: 
+new Added class 20 : org.opengis.filter.PropertyIsNull: 
+new Added class 21 : org.opengis.sld.Rule: 
+new Added class 22 : org.opengis.filter.spatial.SpatialOperator: 
+new Added class 23 : org.opengis.sld.Symbol: 
+new Added class 24 : org.opengis.sld.TextSymbol: 
+testing relationship 
+class 0  vs  class 22£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 22£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 22£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 23£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  12   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

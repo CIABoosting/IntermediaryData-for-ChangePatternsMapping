@@ -1,0 +1,10 @@
+MultiResourceItemReader:0.41333333333333333
+FlatFileItemReader:0.41
+StaxEventItemReader:0.2733333333333333
+StaxEventItemReaderTests:0.26
+StaxEventItemWriter:0.24
+FlatFileItemWriter:0.24
+FlatFileItemReaderBasicTests:0.19
+MultiResourceItemReaderFlatFileTests:0.16333333333333333
+MultiResourceItemReaderXmlTests:0.16333333333333333
+MultiResourceItemReaderIntegrationTests:0.10666666666666667

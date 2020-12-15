@@ -1,0 +1,17 @@
+MemberState:0.6533333333333333
+TimedMemberStateFactory:0.5733333333333334
+NodeExtension:0.5566666666666666
+MemberStateImpl:0.3933333333333333
+LocalMapStatsImpl:0.31333333333333335
+LocalQueueStatsImpl:0.26666666666666666
+LocalCacheStatsImpl:0.2633333333333333
+LocalReplicatedMapStatsImpl:0.25583333333333336
+LocalExecutorStatsImpl:0.25333333333333335
+NearCacheStatsImpl:0.25
+NodeEngineImpl:0.23
+LocalTopicStatsImpl:0.19777777777777777
+DefaultNodeExtension:0.14333333333333334
+StateSendThread:0.11333333333333333
+ReplicatedMapDataSerializerHook:0.10333333333333333
+MapDataSerializerHook:0.10333333333333333
+TimedMemberStateTest:0.07666666666666666

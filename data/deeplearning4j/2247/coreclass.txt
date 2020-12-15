@@ -1,0 +1,10 @@
+MultiLayerNetwork:0.6333333333333333
+ComputationGraph:0.4166666666666667
+AsyncDataSetIterator:0.37333333333333335
+AsyncMultiDataSetIterator:0.32
+Builder:0.28
+DefaultTrainer:0.17666666666666667
+Trainer:0.17448412698412702
+ParallelWrapper:0.17333333333333334
+ParameterServerTrainer:0.12666666666666668
+AsyncPrefetchThread:0.023333333333333334

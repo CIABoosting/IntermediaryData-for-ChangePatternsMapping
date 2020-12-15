@@ -1,0 +1,15 @@
+DatabaseWriter:0.5366666666666666
+DataProcessor:0.32666666666666666
+DataLoaderService:0.28
+DatabaseWriterSettings:0.24666666666666667
+ManageIncomingBatchListener:0.2327777777777778
+DefaultDataLoaderFactory:0.23
+LoadIntoDatabaseOnArrivalListener:0.22333333333333333
+DataLoaderServiceSqlMap:0.21
+IncomingErrorMapper:0.20666666666666667
+IDataLoaderFactory:0.16
+DataContext:0.15
+DefaultDatabaseWriterConflictResolver:0.13
+VersionUnitTest:0.11333333333333333
+ResolvedData:0.09
+IDatabaseWriterConflictResolver:0.006944444444444445

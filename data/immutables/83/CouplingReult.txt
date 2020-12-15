@@ -1,0 +1,16 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.immutables.value.processor.meta.AttributeBuilderThirdPartyModel: 
+new Added class 1 : org.immutables.mongo.fixture.ent.Ent: 
+new Added class 2 : org.immutables.mongo.fixture.MongoContext: 
+new Added class 3 : org.immutables.ordinal.OrdinalSetTest: 
+new Added class 4 : org.immutables.mongo.fixture.SimpleDeleterTest: 
+new Added class 5 : org.immutables.mongo.fixture.SimpleIndexerTest: 
+new Added class 6 : org.immutables.mongo.fixture.SimpleInserterTest: 
+new Added class 7 : org.immutables.mongo.fixture.SimpleReplacerTest: 
+new Added class 8 : org.immutables.mongo.fixture.SimpleUpdaterTest: 
+new Added class 9 : org.immutables.value.processor.meta.ValueAttribute: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

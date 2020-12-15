@@ -1,0 +1,17 @@
+FetchPhase:0.39
+Lucene:0.38666666666666666
+DocumentMapper:0.25666666666666665
+FilterableTermsEnum:0.24666666666666667
+ProfileScorer:0.24
+GeoDistanceRangeQuery:0.2272222222222222
+AnyNextDoc:0.2
+MatchedQueriesFetchSubPhase:0.19666666666666666
+ParentToChildrenAggregator:0.19666666666666666
+PerSegmentCollects:0.15666666666666668
+NestedAggregator:0.14805555555555555
+MinScoreNextDoc:0.14333333333333334
+AllTermScorer:0.14333333333333334
+CannedScorer:0.14333333333333334
+CustomBoostFactorWeight:0.11
+CustomBoostFactorScorer:0.09666666666666666
+NestedChildrenFilterTests:0.09333333333333334

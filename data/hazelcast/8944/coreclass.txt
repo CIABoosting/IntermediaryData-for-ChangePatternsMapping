@@ -1,0 +1,14 @@
+MapConfig:0.6233333333333333
+RecordStore:0.62
+MapServiceContext:0.5533333333333333
+DefaultRecordStore:0.4633333333333333
+TryPutOperation:0.3566666666666667
+ConfigXmlGenerator:0.20666666666666667
+TestFullApplicationContext:0.20333333333333334
+MapConfigReadOnly:0.19
+XmlConfigBuilder:0.18666666666666668
+PartitionContainer:0.18333333333333332
+MapServiceContextImpl:0.17333333333333334
+AbstractEvictableRecordStore:0.15333333333333332
+AbstractRecordStore:0.15333333333333332
+MapManagedService:0.06333333333333334

@@ -1,0 +1,5 @@
+ParallelWrapper:0.49
+CudaGradientsAccumulator:0.37333333333333335
+SharedTrainingWrapper:0.2733333333333333
+SymmetricTrainer:0.20333333333333334
+BlockingObserver:0.19444444444444445

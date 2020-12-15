@@ -1,0 +1,12 @@
+AmazonCloudDirectory:0.5236111111111111
+AmazonCloudDirectoryAsync:0.4524285714285714
+BatchReadSuccessfulResponse:0.32666666666666666
+BatchReadOperation:0.32666666666666666
+AbstractAmazonCloudDirectory:0.29
+AbstractAmazonCloudDirectoryAsync:0.2866666666666667
+BatchReadSuccessfulResponseMarshaller:0.25666666666666665
+BatchReadOperationMarshaller:0.25666666666666665
+AmazonCloudDirectoryAsyncClient:0.21
+AmazonCloudDirectoryClient:0.21
+BatchReadSuccessfulResponseJsonUnmarshaller:0.15333333333333332
+BatchReadOperationJsonUnmarshaller:0.15333333333333332

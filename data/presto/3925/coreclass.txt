@@ -1,0 +1,13 @@
+ColumnMetadata:0.58
+AbstractTestQueries:0.3933333333333333
+HiveUtil:0.3
+AbstractTestDistributedQueries:0.27666666666666667
+TestHiveIntegrationSmokeTest:0.2633333333333333
+TestMySqlIntegrationSmokeTest:0.25333333333333335
+AbstractTestIntegrationSmokeTest:0.24666666666666667
+TestCassandraDistributed:0.24666666666666667
+TestMySqlDistributedQueries:0.24666666666666667
+AbstractTestHiveClient:0.19
+InformationSchemaPageSourceProvider:0.17666666666666667
+Visitor:0.17666666666666667
+TestHiddenColumns:0.14333333333333334

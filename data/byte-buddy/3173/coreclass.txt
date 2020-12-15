@@ -1,0 +1,17 @@
+Default:0.43333333333333335
+FieldGetter:0.38
+FieldSetter:0.38
+ImplementationContextDefaultTest:0.25
+MethodDescriptionLatentTest:0.24
+AbstractMethodDescriptionTest:0.22666666666666666
+ForRebasedMethod:0.20666666666666667
+MethodsOnly:0.18166666666666667
+Enabled:0.1811111111111111
+FieldSetterDelegation:0.16333333333333333
+FieldGetterDelegation:0.16333333333333333
+ForRebasedConstructor:0.15333333333333332
+ComponentTypeResolving:0.11333333333333333
+MethodRebaseResolverResolutionForRebasedMethodTest:0.11
+MethodRebaseResolverResolutionForRebasedConstructorTest:0.11
+AccessorMethod:0.05333333333333334
+CacheValueField:0.05333333333333334

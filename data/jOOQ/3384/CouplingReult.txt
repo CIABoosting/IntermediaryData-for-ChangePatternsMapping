@@ -1,0 +1,28 @@
+Compared Result of  two versions
+Number of New Class: 12
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.jooq.tools.json.ContainerFactory: 
+new Added class 1 : org.jooq.tools.json.ContentHandler: 
+new Added class 2 : org.jooq.tools.json.JSONArray: 
+new Added class 3 : org.jooq.tools.json.JSONObject: 
+new Added class 4 : org.jooq.tools.json.JSONParser: 
+new Added class 5 : org.jooq.tools.json.JSONReader: 
+new Added class 6 : org.jooq.LoaderJSONOptionsStep: 
+new Added class 7 : org.jooq.LoaderJSONStep: 
+new Added class 8 : org.jooq.LoaderSourceStep: 
+new Added class 9 : org.jooq.tools.json.ParseException: 
+new Added class 10 : org.jooq.tools.json.Yylex: 
+new Added class 11 : org.jooq.tools.json.Yytoken: 
+testing relationship 
+class 4  vs  class 0£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:9  r15:0  r16:2  r17:0  
+class 4  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:17  r15:0  r16:2  r17:0  
+class 4  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:9  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:33  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 2£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 3£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  4   4 :  0   5 :  1   6 :  0   7 :  10   8 :  33   9 :  0   10 :  5   11 :  4   12 :  0   13 :  0   14 :  26   15 :  0   16 :  4   17 :  0   

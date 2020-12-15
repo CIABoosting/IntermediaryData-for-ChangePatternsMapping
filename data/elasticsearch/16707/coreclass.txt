@@ -1,0 +1,11 @@
+MutableShardRouting:0.6233333333333333
+RoutingNodes:0.45
+ImmutableShardRouting:0.3433333333333333
+IndexShardTests:0.23666666666666666
+RoutingNodeIterator:0.22333333333333333
+ClusterStateDiffTests:0.19666666666666666
+AllocationService:0.18
+DiskThresholdDeciderTests:0.15
+ClusterHealthResponsesTests:0.14
+CancelAllocationCommand:0.13
+CatAllocationTestBase:0.10666666666666667

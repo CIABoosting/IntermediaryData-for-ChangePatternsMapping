@@ -1,0 +1,16 @@
+PlanFragment:0.59
+PagePartitionFunction:0.412
+HashPagePartitionFunction:0.27
+PlanPrinter:0.2633333333333333
+Rewriter:0.26
+SqlTaskExecution:0.26
+FragmentProperties:0.25666666666666665
+PartitionFunction:0.23666666666666666
+NodePrinter:0.22
+TestStageStateMachine:0.21666666666666667
+MockRemoteTaskFactory:0.21666666666666667
+SqlStageExecution:0.18666666666666668
+HashGenerator:0.16
+ExchangeNode:0.15666666666666668
+TestSqlStageExecution:0.15333333333333332
+UnpartitionedPagePartitionFunction:0.15333333333333332

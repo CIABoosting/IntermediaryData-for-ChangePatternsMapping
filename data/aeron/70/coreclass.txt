@@ -1,0 +1,15 @@
+ClusterSession:0.44
+SequencerAgent:0.41333333333333333
+MemberStatusListener:0.32599999999999996
+SessionProxy:0.2902777777777778
+ConsensusModuleHarness:0.2833333333333333
+AeronCluster:0.27666666666666667
+RecordingCatchUp:0.2633333333333333
+EgressPoller:0.25666666666666665
+ClusterTest:0.21
+MemberStatusAdapter:0.205
+IngressAdapter:0.205
+MultiNodeTest:0.16
+EgressPublisher:0.09
+MemberStatusPublisher:0.08666666666666667
+RecordingCatchUpSupplier:0.0

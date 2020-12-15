@@ -1,0 +1,16 @@
+MapService:0.5233333333333333
+NearCache:0.39666666666666667
+DefaultRecordStore:0.37666666666666665
+PutAllOperation:0.25666666666666665
+KeyBasedMapOperation:0.23
+MapProxySupport:0.22
+MultipleEntryOperation:0.22
+TransactionalMapProxySupport:0.22
+PartitionWideEntryOperation:0.22
+EvictionHelper:0.21666666666666667
+PutFromLoadAllOperation:0.21333333333333335
+EvictAllOperation:0.20333333333333334
+NearCacheKeySetInvalidationOperation:0.18666666666666668
+InvalidateNearCacheOperation:0.16
+ClearOperation:0.12
+LoadAllKeysTask:0.0033333333333333335

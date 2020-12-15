@@ -1,0 +1,9 @@
+MultiLayerNetwork:0.7266666666666667
+ComputationGraph:0.59
+StatsListener:0.315
+ParallelWrapper:0.21
+Trainer:0.20555555555555557
+TrainModule:0.19083333333333333
+AveragingIterationListener:0.18555555555555558
+BaseStatsListener:0.18333333333333332
+EarlyStoppingParallelTrainer:0.17666666666666667

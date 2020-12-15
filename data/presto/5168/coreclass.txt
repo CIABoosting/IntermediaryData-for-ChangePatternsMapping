@@ -1,0 +1,9 @@
+AbstractTestQueries:0.37916666666666665
+AbstractTestDistributedQueries:0.32
+ExpressionAnalyzer:0.30333333333333334
+RewritingVisitor:0.29333333333333333
+ExpressionRewriter:0.29
+ExpressionAnalysis:0.2866666666666667
+SubqueryPlanner:0.2833333333333333
+Analysis:0.27666666666666667
+Visitor:0.12904761904761905

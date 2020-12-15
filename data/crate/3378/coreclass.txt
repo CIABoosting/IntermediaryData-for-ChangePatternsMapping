@@ -1,0 +1,17 @@
+WriterProjection:0.4766666666666667
+DefaultTraversalVisitor:0.33
+CopyAnalyzerTest:0.32
+AnalyzedStatementVisitor:0.30333333333333334
+AnalyzerDispatcher:0.27
+PlanVisitor:0.25333333333333335
+AnalyzedRelationVisitor:0.25333333333333335
+PlannerTest:0.24666666666666667
+AstVisitor:0.21666666666666667
+Context:0.20666666666666667
+CopyStatementAnalyzer:0.19
+Planner:0.18333333333333332
+WriterProjector:0.16083333333333333
+WriterProjectorTest:0.15
+ProjectionBuilder:0.09666666666666666
+NodeOperationTreeGenerator:0.08
+CopyStatementPlanner:0.056666666666666664

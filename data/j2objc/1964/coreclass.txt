@@ -1,0 +1,12 @@
+InfixExpression:0.5333333333333333
+StatementGenerator:0.46
+DebugASTPrinter:0.31666666666666665
+Rewriter:0.23333333333333334
+NilCheckResolver:0.21
+Autoboxer:0.19666666666666666
+ComplexExpressionExtractor:0.19333333333333333
+UnsequencedExpressionRewriter:0.19
+OperatorRewriter:0.18333333333333332
+ConstantBranchPrunerTest:0.15333333333333332
+OuterReferenceResolverTest:0.13
+ConstantBranchPruner:0.12666666666666668

@@ -1,0 +1,15 @@
+PermissionConfig:0.42
+SecurityConfig:0.41333333333333333
+CredentialsFactoryConfig:0.37333333333333335
+LoginModuleConfig:0.36333333333333334
+PermissionPolicyConfig:0.3466666666666667
+XMLConfigBuilderTest:0.29333333333333333
+SpringXmlConfigBuilder:0.22
+XmlConfigBuilder:0.21333333333333335
+ConfigXmlGenerator:0.2
+TestFullApplicationContext:0.18666666666666668
+DynamicSecurityConfig:0.17
+ConfigXmlGeneratorTest:0.14333333333333334
+SecurityConfigChecker:0.14
+ConfigCompatibilityChecker:0.11
+SecureApplicationContextTest:0.08333333333333333

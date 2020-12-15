@@ -1,0 +1,33 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.search.aggregations.metrics.AbstractNumericTestCase: 
+new Added class 1 : org.elasticsearch.search.aggregations.metrics.avg.AvgAggregator: 
+new Added class 2 : org.elasticsearch.search.aggregations.metrics.AvgIT: 
+new Added class 3 : org.elasticsearch.search.aggregations.metrics.stats.extended.ExtendedStatsAggregator: 
+new Added class 4 : org.elasticsearch.messy.tests.ExtendedStatsTests: 
+new Added class 5 : org.elasticsearch.messy.tests.HDRPercentileRanksTests: 
+new Added class 6 : org.elasticsearch.messy.tests.HDRPercentilesTests: 
+new Added class 7 : org.elasticsearch.search.aggregations.metrics.max.MaxAggregator: 
+new Added class 8 : org.elasticsearch.messy.tests.MaxTests: 
+new Added class 9 : org.elasticsearch.search.aggregations.metrics.min.MinAggregator: 
+new Added class 10 : org.elasticsearch.messy.tests.MinTests: 
+new Added class 11 : org.elasticsearch.search.aggregations.metrics.stats.StatsAggregator: 
+new Added class 12 : org.elasticsearch.messy.tests.StatsTests: 
+new Added class 13 : org.elasticsearch.search.aggregations.metrics.sum.SumAggregator: 
+new Added class 14 : org.elasticsearch.search.aggregations.metrics.SumIT: 
+new Added class 15 : org.elasticsearch.messy.tests.TDigestPercentileRanksTests: 
+new Added class 16 : org.elasticsearch.messy.tests.TDigestPercentilesTests: 
+testing relationship 
+class 2  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  10   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

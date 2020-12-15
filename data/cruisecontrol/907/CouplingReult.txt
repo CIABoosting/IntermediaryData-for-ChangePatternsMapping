@@ -1,0 +1,83 @@
+Compared Result of  two versions
+Number of New Class: 46
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : net.sourceforge.cruisecontrol.builders.AntBuilder: 
+new Added class 1 : net.sourceforge.cruisecontrol.builders.AntBuilderTest: 
+new Added class 2 : net.sourceforge.cruisecontrol.Builder: 
+new Added class 3 : net.sourceforge.cruisecontrol.BuildQueue: 
+new Added class 4 : net.sourceforge.cruisecontrol.BuildQueueTest: 
+new Added class 5 : net.sourceforge.cruisecontrol.sourcecontrols.ClearCaseTest: 
+new Added class 6 : net.sourceforge.cruisecontrol.bootstrappers.CurrentBuildStatusBootstrapper: 
+new Added class 7 : net.sourceforge.cruisecontrol.publishers.CurrentBuildStatusPublisher: 
+new Added class 8 : net.sourceforge.cruisecontrol.publishers.CurrentBuildStatusPublisherTest: 
+new Added class 9 : net.sourceforge.cruisecontrol.bootstrappers.CVSBootstrapper: 
+new Added class 10 : net.sourceforge.cruisecontrol.bootstrappers.CVSBootstrapperTest: 
+new Added class 11 : net.sourceforge.cruisecontrol.sourcecontrols.CVSTest: 
+new Added class 12 : net.sourceforge.cruisecontrol.publishers.EmailPublisherTest: 
+new Added class 13 : net.sourceforge.cruisecontrol.publishers.ExecutePublisherTest: 
+new Added class 14 : net.sourceforge.cruisecontrol.publishers.HTMLEmailPublisherTest: 
+new Added class 15 : net.sourceforge.cruisecontrol.publishers.LinkEmailPublisherTest: 
+new Added class 16 : net.sourceforge.cruisecontrol.MainTest: 
+new Added class 17 : net.sourceforge.cruisecontrol.publishers.MockEmailPublisher: 
+new Added class 18 : net.sourceforge.cruisecontrol.MockModificationSet: 
+new Added class 19 : net.sourceforge.cruisecontrol.MockProject: 
+new Added class 20 : net.sourceforge.cruisecontrol.MockSchedule: 
+new Added class 21 : net.sourceforge.cruisecontrol.sourcecontrols.MockSourceControl: 
+new Added class 22 : net.sourceforge.cruisecontrol.ModificationSet: 
+new Added class 23 : net.sourceforge.cruisecontrol.ModificationSetTest: 
+new Added class 24 : net.sourceforge.cruisecontrol.ModificationTest: 
+new Added class 25 : net.sourceforge.cruisecontrol.util.NoExitSecurityManagerTest: 
+new Added class 26 : net.sourceforge.cruisecontrol.bootstrappers.P4Bootstrapper: 
+new Added class 27 : net.sourceforge.cruisecontrol.bootstrappers.P4BootstrapperTest: 
+new Added class 28 : net.sourceforge.cruisecontrol.sourcecontrols.P4Test: 
+new Added class 29 : net.sourceforge.cruisecontrol.PauseBuilder: 
+new Added class 30 : net.sourceforge.cruisecontrol.PauseBuilderTest: 
+new Added class 31 : net.sourceforge.cruisecontrol.PluginXMLHelperTest: 
+new Added class 32 : net.sourceforge.cruisecontrol.Project: 
+new Added class 33 : net.sourceforge.cruisecontrol.jmx.ProjectController: 
+new Added class 34 : net.sourceforge.cruisecontrol.jmx.ProjectControllerAgent: 
+new Added class 35 : net.sourceforge.cruisecontrol.ProjectTest: 
+new Added class 36 : net.sourceforge.cruisecontrol.ProjectXMLHelper: 
+new Added class 37 : net.sourceforge.cruisecontrol.ScheduleTest: 
+new Added class 38 : net.sourceforge.cruisecontrol.publishers.SCPPublisherTest: 
+new Added class 39 : net.sourceforge.cruisecontrol.util.UpgraderTest: 
+new Added class 40 : net.sourceforge.cruisecontrol.testutil.Util: 
+new Added class 41 : net.sourceforge.cruisecontrol.util.UtilTest: 
+new Added class 42 : net.sourceforge.cruisecontrol.bootstrappers.VssBootstrapper: 
+new Added class 43 : net.sourceforge.cruisecontrol.bootstrappers.VssBootstrapperTest: 
+new Added class 44 : net.sourceforge.cruisecontrol.sourcecontrols.VssJournalTest: 
+new Added class 45 : net.sourceforge.cruisecontrol.sourcecontrols.VssTest: 
+testing relationship 
+class 0  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:14  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:6  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 17£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:18  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 32£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:12  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:18  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:20  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:24  r12:0  r13:29  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 32  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:5  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 32  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:10  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:21  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 34  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 34  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:18  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:33  r9:0  r10:32  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 2£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 29£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 42£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:15  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  0   3 :  3   4 :  0   5 :  1   6 :  0   7 :  0   8 :  45   9 :  0   10 :  85   11 :  129   12 :  0   13 :  151   14 :  5   15 :  0   16 :  0   17 :  0   

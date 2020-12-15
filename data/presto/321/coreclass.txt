@@ -1,0 +1,14 @@
+ResourceGroupIdTemplate:0.27666666666666667
+TestFileResourceGroupConfigurationManager:0.24333333333333335
+DbResourceGroupConfigurationManager:0.19333333333333333
+TestStaticSelector:0.19
+FileResourceGroupConfigurationManager:0.14333333333333334
+TestDbSourceExactMatchSelector:0.12
+ResourceGroupNameTemplate:0.11333333333333333
+ResourceGroupSelector:0.10666666666666667
+TestResourceGroupIdTemplate:0.10666666666666667
+StaticSelector:0.08
+AbstractResourceConfigurationManager:0.06666666666666667
+DbSourceExactMatchSelector:0.05
+ResourceGroupConfigurationManager:0.016666666666666666
+LegacyResourceGroupConfigurationManager:0.01

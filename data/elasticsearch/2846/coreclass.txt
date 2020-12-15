@@ -1,0 +1,9 @@
+Shard:0.81
+IndexShard:0.64
+ReplicationGroup:0.25666666666666665
+MockIndexShard:0.22666666666666666
+TransportReplicationAction:0.2088888888888889
+IndexShardTests:0.19
+AsyncReplicaAction:0.17333333333333334
+SyncedFlushSingleNodeTests:0.13333333333333333
+ShardStateIT:0.12666666666666668

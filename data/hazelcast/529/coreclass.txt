@@ -1,0 +1,13 @@
+Channel:0.53
+NioChannel:0.51
+TcpIpConnection:0.4766666666666667
+TcpIpConnectionManager:0.27
+AbstractChannel:0.26666666666666666
+ClientConnection:0.23333333333333334
+NioEventLoopGroup:0.20333333333333334
+OverloadedConnectionsPlugin:0.18666666666666668
+TcpIpConnection_AbstractTransferStressTest:0.18333333333333332
+IOBalancerStressTest:0.14333333333333334
+PublishAllTask:0.12333333333333334
+PacketDecoderTest:0.1
+ChannelCloseListenerImpl:0.09

@@ -1,0 +1,11 @@
+BulkCreateIndicesRequest:0.5966666666666667
+SymbolBasedBulkShardProcessor:0.30666666666666664
+TransportBulkCreateIndicesAction:0.27666666666666667
+BulkRetryCoordinatorPool:0.24666666666666667
+PartitionedBulkInsertBenchmark:0.24333333333333335
+RequestItem:0.24
+BulkShardProcessor:0.215
+SQLPlugin:0.17
+BulkModule:0.09222222222222222
+QueuedRequestExecutor:0.08
+BulkCreateIndicesRequestTest:0.05

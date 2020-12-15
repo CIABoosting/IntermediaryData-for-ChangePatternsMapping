@@ -1,0 +1,17 @@
+Shard:0.87
+IndexShard:0.45
+AllocatedIndex:0.3680555555555556
+IndicesService:0.31666666666666665
+IndexShardTests:0.2966666666666667
+MapperService:0.2833333333333333
+IndicesClusterStateService:0.27
+IndexService:0.24777777777777782
+ClusterChangedEvent:0.21166666666666667
+ClusterChangedEventTests:0.18833333333333332
+AllocatedIndices:0.18166666666666667
+ShadowIndexShard:0.18
+IndicesLifecycleListenerSingleNodeTests:0.09
+ShardEventListener:0.08
+ShardFailure:0.08
+RecoveryListener:0.05583333333333333
+NodeMappingRefreshAction:0.02666666666666667

@@ -1,0 +1,11 @@
+WriteHandler:0.65
+PacketWriter:0.5283333333333333
+PacketReader:0.5283333333333333
+MockIOService:0.37333333333333335
+DefaultSocketChannelWrapper:0.3006666666666667
+TcpIpConnectionManager:0.29333333333333333
+NonBlockingWriteHandler:0.25666666666666665
+SocketTextWriter:0.22
+NonBlockingReadHandler:0.19333333333333333
+SocketTextReader:0.18666666666666668
+DefaultNodeExtension:0.17333333333333334

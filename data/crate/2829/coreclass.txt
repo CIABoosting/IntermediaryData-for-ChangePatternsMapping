@@ -1,0 +1,16 @@
+DocTableInfo:0.71
+DocIndexMetaData:0.32666666666666666
+TableAliasIntegrationTest:0.25333333333333335
+InsertFromValuesAnalyzer:0.23
+RelationAnalyzer:0.21333333333333335
+RelationAnalysisContext:0.18666666666666668
+AlterTableAddColumnAnalyzer:0.14666666666666667
+TestingTableInfo:0.13666666666666666
+DocTableInfoTest:0.13
+CopyStatementAnalyzer:0.11666666666666667
+InsertFromSubQueryAnalyzer:0.11333333333333333
+TestDocTableInfo:0.09333333333333334
+CreateSnapshotStatementAnalyzer:0.09333333333333334
+DocTableInfoBuilder:0.06666666666666667
+DropTableStatementAnalyzer:0.03333333333333333
+TestMetaDataModule:0.016666666666666666

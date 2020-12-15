@@ -1,0 +1,15 @@
+NodeGroup:0.5766666666666667
+InternalPartitionServiceImpl:0.5366666666666666
+PartitionReplicaStateChecker:0.36333333333333334
+PartitionStateOperation:0.2777777777777778
+MigrationManager:0.2733333333333333
+DefaultNodeGroup:0.26
+PartitionStateGeneratorTest:0.25666666666666665
+ShutdownRequestOperation:0.23444444444444448
+PartitionStateGeneratorImpl:0.21
+SingleNodeGroup:0.20333333333333334
+PartitionAssignmentsCorrectnessTest:0.14333333333333334
+MigrationCommitOperation:0.1361111111111111
+MigrationPlanner:0.1211111111111111
+CheckShutdownRequestsTask:0.10666666666666667
+RepartitioningTask:0.1

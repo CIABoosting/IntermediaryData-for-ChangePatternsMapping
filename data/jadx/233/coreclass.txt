@@ -1,0 +1,16 @@
+InsnNode:0.58
+BlockFinallyExtract:0.39
+SSATransform:0.38333333333333336
+RegisterArg:0.36666666666666664
+PhiInsn:0.23
+TryCatchBlock:0.23
+InsnList:0.21
+InstructionRemover:0.21
+BlockProcessor:0.19666666666666666
+ManifestAttributes:0.175
+TypeInference:0.17
+InsnGen:0.1525
+Jadx:0.15
+BlocksRemoveInfo:0.12333333333333334
+FallbackModeVisitor:0.1075
+TestCls:0.0

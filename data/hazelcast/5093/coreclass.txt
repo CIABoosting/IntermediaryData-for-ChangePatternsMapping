@@ -1,0 +1,11 @@
+MapQueryEngine:0.6266666666666667
+MapServiceContext:0.6166666666666667
+MapQueryEngineImpl:0.56
+TransactionalMapProxy:0.26
+MapProxyImpl:0.26
+QueryPartitionOperation:0.23333333333333334
+QueryOperation:0.23333333333333334
+MapServiceContextImpl:0.21
+MapQueryEngineImpl_queryLocalPartitions_resultSizeNoLimitTest:0.17833333333333334
+MapQueryEngineImpl_queryLocalPartition_resultSizeLimitTest:0.175
+MapQueryEngineImpl_queryLocalPartitions_resultSizeLimitTest:0.175

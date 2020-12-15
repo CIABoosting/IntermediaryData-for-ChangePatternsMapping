@@ -1,0 +1,10 @@
+JobDefinition:0.72
+JobDetail:0.36333333333333334
+RegisterJobDefinitionRequest:0.26666666666666666
+SubmitJobRequest:0.25
+JobDefinitionMarshaller:0.12
+JobDetailJsonUnmarshaller:0.12
+JobDetailMarshaller:0.12
+JobDefinitionJsonUnmarshaller:0.1
+RegisterJobDefinitionRequestMarshaller:0.09333333333333334
+SubmitJobRequestMarshaller:0.09333333333333334

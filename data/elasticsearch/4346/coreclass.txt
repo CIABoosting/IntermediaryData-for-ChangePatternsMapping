@@ -1,0 +1,17 @@
+Index:0.6266666666666667
+Engine:0.4766666666666667
+GetResult:0.36666666666666664
+IndexShard:0.35
+InternalEngineTests:0.3466666666666667
+IndexService:0.26
+InternalEngine:0.25833333333333336
+ShadowEngineTests:0.22
+ShadowEngine:0.20666666666666667
+TextFieldMapperTests:0.20333333333333334
+TranslogTests:0.20333333333333334
+TransportReplicationActionTests:0.18666666666666668
+IndexShardIT:0.17833333333333334
+IndexShardTests:0.17333333333333334
+ThrowingIndexWriter:0.17
+RefreshListenersTests:0.14666666666666667
+IndexingOperationListenerTests:0.08333333333333333

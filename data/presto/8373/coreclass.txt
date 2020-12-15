@@ -1,0 +1,16 @@
+IfStatement:0.5066666666666667
+ByteCodeUtils:0.3233333333333333
+DumpByteCodeVisitor:0.23666666666666666
+AccumulatorCompiler:0.21
+JoinCompiler:0.2
+JoinProbeCompiler:0.19666666666666666
+PageProcessorCompiler:0.16666666666666666
+CursorProcessorCompiler:0.15
+InCodeGenerator:0.11
+SwitchCodeGenerator:0.09
+NullIfCodeGenerator:0.09
+OrCodeGenerator:0.09
+IfCodeGenerator:0.09
+IsDistinctFromCodeGenerator:0.09
+CoalesceCodeGenerator:0.09
+AndCodeGenerator:0.08666666666666667

@@ -1,0 +1,14 @@
+ClientConnectionManager:0.6633333333333333
+ClientInvocation:0.4166666666666667
+ClientConnectionManagerImpl:0.32666666666666666
+ClusterListenerSupport:0.30333333333333334
+ClientTransactionManagerServiceImpl:0.3
+ClientSmartInvocationServiceImpl:0.2966666666666667
+ClientMembershipListener:0.22
+MockedNodeConnection:0.19777777777777777
+AbstractClientSelectionHandler:0.19
+ClientConnectionTest:0.14333333333333334
+InitConnectionTask:0.14
+RefreshTask:0.08333333333333333
+BlockingCallback:0.043333333333333335
+AuthenticationCallback:0.006666666666666667

@@ -1,0 +1,12 @@
+Projector:0.42
+BatchConsumerToRowReceiver:0.29
+AbstractProjector:0.22333333333333333
+FilterProjector:0.205
+InputRowProjector:0.205
+AggregationPipe:0.205
+SortingTopNProjector:0.17333333333333334
+IndexWriterProjector:0.17333333333333334
+SortingProjector:0.12416666666666666
+GroupingProjector:0.12416666666666666
+MergeCountProjector:0.11666666666666667
+SimpleTopNProjector:0.05

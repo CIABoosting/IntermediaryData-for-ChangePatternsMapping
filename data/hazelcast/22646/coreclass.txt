@@ -1,0 +1,12 @@
+Client:0.71
+ClientEndpoint:0.34
+ClientEngineImpl:0.31333333333333335
+CollectionBinaryClientTest:0.3
+MapBinaryClientTest:0.3
+AtomicLongBinaryClientTest:0.29
+SemaphoreBinaryClientTest:0.29
+HazelcastInstanceImpl:0.19333333333333333
+AddListenerRequest:0.19333333333333333
+QueueBinaryClientTest:0.17333333333333334
+MapAddEntryListenerRequest:0.13333333333333333
+AuthenticationRequest:0.12666666666666668

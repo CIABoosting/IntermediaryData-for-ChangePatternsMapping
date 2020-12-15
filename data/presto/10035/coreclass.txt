@@ -1,0 +1,15 @@
+Visitor:0.46
+ExpressionAnalyzer:0.23666666666666666
+InterpretedProjectionFunction:0.20666666666666667
+FunctionAssertions:0.18333333333333332
+TestInterpretedProjectionFunction:0.18
+FunctionInfo:0.17333333333333334
+TestInterpretedFilterFunction:0.16333333333333333
+ProjectionFunctions:0.16
+PhysicalOperation:0.14666666666666667
+InterpretedFilterFunction:0.13
+SymbolToInputRewriter:0.10666666666666667
+WindowFunctionDefinition:0.08333333333333333
+LocalExecutionPlanner:0.08
+IdentityProjectionInfo:0.04
+IndexSourceContext:0.02

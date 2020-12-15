@@ -1,0 +1,128 @@
+Compared Result of  two versions
+Number of New Class: 54
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.controller.AbstractController2D: 
+new Added class 1 : org.openscience.cdk.graph.matrix.AdjacencyMatrix: 
+new Added class 2 : org.openscience.cdk.applications.swing.AtomicTable: 
+new Added class 3 : org.openscience.cdk.config.AtomTypeConfigurator: 
+new Added class 4 : org.openscience.cdk.config.AtomTypeFactory: 
+new Added class 5 : org.openscience.cdk.atomtype.AtomTypeMatcher: 
+new Added class 6 : org.openscience.cdk.math.qm.Basis: 
+new Added class 7 : org.openscience.cdk.config.CDKBasedAtomTypeConfigurator: 
+new Added class 8 : org.openscience.cdk.event.CDKChangeListener: 
+new Added class 9 : org.openscience.cdk.applications.jchempaint.action.ChemAction: 
+new Added class 10 : org.openscience.cdk.math.qm.ClosedShellJob: 
+new Added class 11 : org.openscience.cdk.graph.matrix.ConnectionMatrix: 
+new Added class 12 : org.openscience.cdk.math.qm.FourierGridBasis: 
+new Added class 13 : org.openscience.cdk.math.Function: 
+new Added class 14 : org.openscience.cdk.math.qm.GaussiansBasis: 
+new Added class 15 : org.openscience.cdk.modeling.forcefield.GeometricMinimizer: 
+new Added class 16 : org.openscience.cdk.graph.matrix.GraphMatrix: 
+new Added class 17 : org.openscience.cdk.applications.swing.GraphRenderer: 
+new Added class 18 : org.openscience.cdk.renderer.GraphRendererModel: 
+new Added class 19 : org.openscience.cdk.test.renderer.GraphRendererTest: 
+new Added class 20 : org.openscience.cdk.atomtype.HybridizationMatcher: 
+new Added class 21 : org.openscience.cdk.atomtype.HybridizationStateATMatcher: 
+new Added class 22 : org.openscience.cdk.iupac.generator.IUPACNameGenerator: 
+new Added class 23 : org.openscience.cdk.iupac.generator.IUPACNamePart: 
+new Added class 24 : org.openscience.cdk.applications.jchempaint.JChemPaintEditorPanel: 
+new Added class 25 : org.openscience.cdk.applications.jchempaint.JChemPaintModel: 
+new Added class 26 : org.openscience.cdk.applications.jchempaint.io.JCPCompChemInputSaveFileFilter: 
+new Added class 27 : org.openscience.cdk.applications.jchempaint.io.JCPExportFileFilter: 
+new Added class 28 : org.openscience.cdk.applications.jchempaint.io.JCPFileFilter: 
+new Added class 29 : org.openscience.cdk.applications.jchempaint.io.JCPFileFilterInterface: 
+new Added class 30 : org.openscience.cdk.modeling.forcefield.LineSearch: 
+new Added class 31 : org.openscience.cdk.atomtype.MM2AtomTypeMatcher: 
+new Added class 32 : org.openscience.cdk.atomtype.MMFF94AtomTypeMatcher: 
+new Added class 33 : org.openscience.cdk.modeling.forcefield.MMFF94EnergyFunction: 
+new Added class 34 : org.openscience.cdk.applications.swing.MoleculesTable: 
+new Added class 35 : org.openscience.cdk.applications.swing.MoleculeViewer2D: 
+new Added class 36 : org.openscience.cdk.applications.swing.MoleculeViewer3D: 
+new Added class 37 : org.openscience.cdk.iupac.generator.NamingRule: 
+new Added class 38 : org.openscience.cdk.iupac.generator.NumberingRule: 
+new Added class 39 : org.openscience.cdk.math.qm.OneElectronJob: 
+new Added class 40 : org.openscience.cdk.math.qm.Orbitals: 
+new Added class 41 : org.openscience.cdk.applications.swing.PeriodicTablePanel: 
+new Added class 42 : org.openscience.cdk.modeling.forcefield.PotentialFunction: 
+new Added class 43 : org.openscience.cdk.applications.jchempaint.dialogs.PTDialog: 
+new Added class 44 : org.openscience.cdk.geometry.RDFCalculator: 
+new Added class 45 : org.openscience.cdk.test.geometry.RDFCalculatorTest: 
+new Added class 46 : org.openscience.cdk.geometry.RDFWeightFunction: 
+new Added class 47 : org.openscience.cdk.renderer.Renderer2DModel: 
+new Added class 48 : org.openscience.cdk.renderer.Renderer3DModel: 
+new Added class 49 : org.openscience.cdk.iupac.generator.Rule: 
+new Added class 50 : org.openscience.cdk.iupac.generator.RulePriorityList: 
+new Added class 51 : org.openscience.cdk.applications.jchempaint.action.SaveAsAction: 
+new Added class 52 : org.openscience.cdk.test.modeling.forcefield.TestPotentialFunction: 
+new Added class 53 : org.openscience.cdk.config.TXTBasedAtomTypeConfigurator: 
+testing relationship 
+class 0  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 47£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-1  r9:0  r10:108  r11:0  r12:0  r13:0  r14:1  r15:0  r16:4  r17:0  
+class 1  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:0  r14:0  r15:0  r16:11  r17:0  
+class 10  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 11  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 14  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 42£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:19  r17:0  
+class 17  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-2  r9:0  r10:26  r11:0  r12:0  r13:0  r14:1  r15:0  r16:4  r17:0  
+class 18  vs  class 13£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 19  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 37£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 38£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 49£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 24  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:8  r14:3  r15:0  r16:6  r17:0  
+class 24  vs  class 47£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 47£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 26  vs  class 29£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 29£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 29£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 42£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 31  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 42£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 47£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:7  r9:0  r10:5  r11:1  r12:0  r13:1  r14:4  r15:0  r16:3  r17:0  
+class 36  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:8  r9:0  r10:5  r11:0  r12:0  r13:0  r14:4  r15:0  r16:2  r17:0  
+class 37  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 38£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 49£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 38  vs  class 49£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 39  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:6  r17:0  
+class 39  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:1  r9:0  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 40  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:11  r9:0  r10:5  r11:0  r12:0  r13:0  r14:8  r15:0  r16:2  r17:0  
+class 41  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 43  vs  class 41£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 44  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 45  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 29£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 42£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  23   3 :  9   4 :  2   5 :  12   6 :  0   7 :  0   8 :  56   9 :  0   10 :  173   11 :  59   12 :  0   13 :  42   14 :  34   15 :  0   16 :  57   17 :  0   

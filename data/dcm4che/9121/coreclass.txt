@@ -1,0 +1,11 @@
+DicomTestData:0.62
+ImageBean:0.45666666666666667
+RegroupByLateralityAndOrientationFilter:0.32
+ViewCode:0.31666666666666665
+OrientationTest:0.17
+EffectiveLateralityTest:0.16333333333333333
+ViewCodeTest:0.15333333333333332
+LateralityTest:0.13
+MammoImageFlipper:0.10944444444444443
+RegroupMultiframesByInstanceNumberFilter:0.10666666666666667
+RegroupByLateralityAndOrientationFilterTest:0.06

@@ -1,0 +1,9 @@
+ItemOrientedStep:0.48333333333333334
+SkipLimitExceededException:0.21
+StatefulRetryStepFactoryBean:0.16333333333333333
+SimpleStepFactoryBean:0.13333333333333333
+DefaultStepFactoryBean:0.12666666666666668
+LimitCheckingItemSkipPolicy:0.11333333333333333
+NeverSkipItemSkipPolicy:0.10833333333333334
+AlwaysSkipItemSkipPolicy:0.10833333333333334
+ItemSkipPolicy:0.10433333333333333

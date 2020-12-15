@@ -1,0 +1,17 @@
+GetRequest:0.52
+TermVectorsRequest:0.4166666666666667
+MultiGetRequest:0.39
+TermVectorsRequestBuilder:0.21
+MultiTermVectorsRequest:0.2
+GetRequestBuilder:0.2
+TransportGetAction:0.19666666666666666
+MultiGetShardRequest:0.16666666666666666
+RestPercolateAction:0.11333333333333333
+RestTermVectorsAction:0.10666666666666667
+TransportShardMultiGetAction:0.09666666666666666
+RestHeadAction:0.09
+RestGetAction:0.09
+RestGetSourceAction:0.09
+RestMultiGetAction:0.08666666666666667
+MultiGetRequestBuilder:0.07666666666666666
+RealtimeRequest:0.0

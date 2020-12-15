@@ -1,0 +1,37 @@
+Compared Result of  two versions
+Number of New Class: 28
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : jolie.process.AssignmentProcess: 
+new Added class 1 : jolie.process.CompensateProcess: 
+new Added class 2 : jolie.process.DeepCopyProcess: 
+new Added class 3 : jolie.Scope: 
+new Added class 4 : jolie.ExecutionThread: 
+new Added class 5 : jolie.process.ForEachProcess: 
+new Added class 6 : jolie.process.ForProcess: 
+new Added class 7 : jolie.process.IfProcess: 
+new Added class 8 : jolie.process.InInputHandler: 
+new Added class 9 : jolie.process.InProcess: 
+new Added class 10 : jolie.process.LinkInProcess: 
+new Added class 11 : jolie.process.LinkOutProcess: 
+new Added class 12 : jolie.process.MakePointerProcess: 
+new Added class 13 : jolie.process.NDChoiceProcess: 
+new Added class 14 : jolie.process.NotificationProcess: 
+new Added class 15 : jolie.process.OneWayProcess: 
+new Added class 16 : jolie.process.OutProcess: 
+new Added class 17 : jolie.process.PostDecrementProcess: 
+new Added class 18 : jolie.process.PostIncrementProcess: 
+new Added class 19 : jolie.process.PreDecrementProcess: 
+new Added class 20 : jolie.process.PreIncrementProcess: 
+new Added class 21 : jolie.process.RequestResponseProcess: 
+new Added class 22 : jolie.process.RunProcess: 
+new Added class 23 : jolie.process.ScopeProcess: 
+new Added class 24 : jolie.process.SequentialProcess: 
+new Added class 25 : jolie.process.ThrowProcess: 
+new Added class 26 : jolie.process.UndefProcess: 
+new Added class 27 : jolie.process.WhileProcess: 
+testing relationship 
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  1   6 :  0   7 :  0   8 :  2   9 :  0   10 :  0   11 :  1   12 :  0   13 :  3   14 :  0   15 :  0   16 :  0   17 :  0   

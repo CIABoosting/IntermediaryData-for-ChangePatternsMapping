@@ -1,0 +1,13 @@
+EvalQueryQuality:0.5566666666666666
+RatedDocument:0.31
+ReciprocalRank:0.26
+PrecisionAtN:0.26
+DiscountedCumulativeGainAt:0.24
+PrecisionAtNTests:0.17
+RankedListQualityMetric:0.1330952380952381
+ReciprocalRankTests:0.12333333333333334
+RankEvalResponseTests:0.09333333333333334
+TransportRankEvalAction:0.07333333333333333
+EvalQueryQualityTests:0.06666666666666667
+RankEvalActionListener:0.04666666666666667
+RankEvalTestHelper:0.02666666666666667

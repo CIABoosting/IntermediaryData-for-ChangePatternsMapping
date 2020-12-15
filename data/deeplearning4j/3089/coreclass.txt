@@ -1,0 +1,8 @@
+Model:0.6
+ParallelWrapper:0.3933333333333333
+BarnesHutTsne:0.33666666666666667
+ParameterAveragingTrainingMaster:0.2966666666666667
+EarlyStoppingParallelTrainer:0.23666666666666666
+SparkDl4jMultiLayer:0.2
+Trainer:0.19777777777777777
+ParameterServerParallelWrapperTest:0.13666666666666666

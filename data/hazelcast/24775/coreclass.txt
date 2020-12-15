@@ -1,0 +1,13 @@
+Packet:0.53
+Node:0.38333333333333336
+ConnectionManager:0.3566666666666667
+Connection:0.33
+WriteHandler:0.29333333333333333
+ReadHandler:0.23
+Connector:0.17
+AbstractJoiner:0.15333333333333332
+SelectorBase:0.13333333333333333
+Acceptor:0.1075
+SocketPacketWriter:0.08333333333333333
+AbstractSelectionHandler:0.05
+GroupProperties:0.043333333333333335

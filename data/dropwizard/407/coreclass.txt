@@ -1,0 +1,11 @@
+DbStatusCommandTest:0.25
+DbMigrateCommandTest:0.18
+DbRollbackCommand:0.15333333333333332
+DbDumpCommandTest:0.13
+DbMigrateDifferentFileCommandTest:0.12666666666666668
+DbPrepareRollbackCommand:0.11333333333333333
+DbFastForwardCommand:0.11333333333333333
+DbMigrateCustomSchemaTest:0.11333333333333333
+DbLocksCommand:0.08666666666666667
+DbCalculateChecksumCommand:0.056666666666666664
+AbstractMigrationTest:0.04

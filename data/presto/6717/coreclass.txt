@@ -1,0 +1,17 @@
+Visitor:0.37666666666666665
+ScalarFunctionImplementation:0.28
+FunctionListBuilder:0.26
+SimpleSqlScalarFunction:0.22111111111111115
+ByteCodeUtils:0.21333333333333335
+SimpleSqlOperator:0.20333333333333334
+ExpressionInterpreter:0.19666666666666666
+LiteralVisitor:0.18666666666666668
+ByteCodeGeneratorContext:0.17333333333333334
+ByteCodeExpressionVisitor:0.16666666666666666
+PageProcessorCompiler:0.16333333333333333
+InvokeFunctionByteCodeExpression:0.12666666666666668
+ArrayGeneratorUtils:0.125
+SqlScalarFunction:0.12
+CursorProcessorCompiler:0.10333333333333333
+SqlOperator:0.1
+ArrayToArrayCast:0.03833333333333333

@@ -1,0 +1,15 @@
+NeuralNetConfiguration:0.51
+MultiLayerNetwork:0.38333333333333336
+DefaultParamInitializer:0.26666666666666666
+MultiLayerConfiguration:0.26666666666666666
+SparkDl4jLayer:0.21666666666666667
+BaseLayer:0.21333333333333335
+SparkDl4jMultiLayer:0.21333333333333335
+OutputLayer:0.1877777777777778
+Train:0.15333333333333332
+RBMTests:0.14
+LSTMParamInitializer:0.12333333333333334
+WorkerNode:0.11666666666666667
+MultiLayerNeuralNetConfigurationTest:0.11333333333333333
+RecursiveParamInitializer:0.09333333333333334
+PretrainParamInitializer:0.09

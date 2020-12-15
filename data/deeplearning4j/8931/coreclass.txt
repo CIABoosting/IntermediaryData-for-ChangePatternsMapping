@@ -1,0 +1,15 @@
+DeepAutoEncoder:0.56
+Builder:0.42
+BaseMultiLayerNetwork:0.38333333333333336
+MultiLayerNetworkOptimizer:0.2825
+NeuralNetworkOptimizer:0.24666666666666667
+BaseNeuralNetwork:0.24
+DenoisingAutoEncoder:0.23
+DeepAutoEncoderAccumulator:0.19666666666666666
+DenoisingAutoEncoderOptimizer:0.16333333333333333
+RBM:0.14333333333333334
+MultiLayerNetworkReconstructionRender:0.13666666666666666
+MasterActor:0.13
+DeepAutoEncoderExample:0.11
+DeepAutoEncoderSDA:0.1
+DenoisingAutoEncoderMnistExample:0.013333333333333334

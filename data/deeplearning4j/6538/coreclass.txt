@@ -1,0 +1,6 @@
+MultiLayerNetwork:0.5055555555555555
+RnnToFeedForwardPreProcessor:0.2633333333333333
+FeedForwardToRnnPreProcessor:0.2633333333333333
+RnnOutputLayer:0.245
+TestPreProcessors:0.18333333333333332
+OutputLayerTest:0.16666666666666666

@@ -1,0 +1,54 @@
+Compared Result of  two versions
+Number of New Class: 24
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : de.mogwai.common.dao.hibernate.AuditInterceptor: 
+new Added class 1 : de.mogwai.common.web.backingbean.BackingBean: 
+new Added class 2 : de.powerstaff.web.backingbean.customer.CustomerBackingBean: 
+new Added class 3 : de.powerstaff.web.backingbean.freelancer.FreelancerBackingBean: 
+new Added class 4 : de.powerstaff.business.dao.FreelancerDAO: 
+new Added class 5 : de.powerstaff.business.dao.hibernate.FreelancerDAOHibernateImpl: 
+new Added class 6 : de.powerstaff.business.service.impl.FreelancerServiceImpl: 
+new Added class 7 : de.powerstaff.web.backingbean.partner.PartnerBackingBean: 
+new Added class 8 : de.powerstaff.web.backingbean.profile.ProfileBackingBean: 
+new Added class 9 : de.powerstaff.web.backingbean.profile.ProfileBackingBeanDataModel: 
+new Added class 10 : de.powerstaff.business.dto.ProfileSearchRequest: 
+new Added class 11 : de.powerstaff.business.service.ProfileSearchService: 
+new Added class 12 : de.powerstaff.business.service.impl.ProfileSearchServiceImpl: 
+new Added class 13 : de.powerstaff.web.backingbean.project.ProjectBackingBean: 
+new Added class 14 : de.powerstaff.web.backingbean.project.ProjectBackingBeanDataModel: 
+new Added class 15 : de.powerstaff.business.entity.SavedProfileSearch: 
+new Added class 16 : de.powerstaff.business.dto.SearchRequestSupport: 
+new Added class 17 : de.mogwai.common.web.utils.ShutdownModalDialogCommand: 
+new Added class 18 : de.mogwai.common.web.utils.StartModalDialogCommand: 
+new Added class 19 : de.mogwai.common.web.phaselistener.TrackerPhaseListener: 
+new Added class 20 : de.mogwai.common.web.utils.Updateable: 
+new Added class 21 : de.mogwai.common.web.utils.UpdateModelInfo: 
+new Added class 22 : de.mogwai.common.web.utils.ValidateModalDataCommand: 
+new Added class 23 : de.mogwai.common.web.backingbean.WrappingBackingBean: 
+testing relationship 
+class 1  vs  class 20£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 3  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 6  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:12  r9:0  r10:5  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 7  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 8  vs  class 9£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:1  r14:2  r15:0  r16:0  r17:0  
+class 8  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:14  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 8  vs  class 23£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 10  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:6  r15:0  r16:13  r17:0  
+class 12  vs  class 11£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:22  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:7  r17:0  
+class 13  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 15£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 23  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  5   3 :  3   4 :  0   5 :  6   6 :  0   7 :  0   8 :  22   9 :  0   10 :  22   11 :  37   12 :  0   13 :  9   14 :  17   15 :  0   16 :  23   17 :  0   

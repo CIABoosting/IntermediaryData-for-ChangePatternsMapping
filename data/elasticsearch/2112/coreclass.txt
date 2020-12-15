@@ -1,0 +1,12 @@
+Queries:0.44333333333333336
+MatchQuery:0.43
+MultiMatchQueryBuilder:0.39
+QueryStringQueryParser:0.36666666666666664
+QueryStringQueryBuilderTests:0.33
+QueryStringIT:0.2633333333333333
+QueryStringQueryBuilder:0.23916666666666667
+QueryBuilder:0.22333333333333333
+SimpleValidateQueryIT:0.21666666666666667
+SimpleQueryStringBuilder:0.19333333333333333
+MultiMatchQueryBuilderTests:0.19333333333333333
+CrossFieldsQueryBuilder:0.07416666666666667

@@ -1,0 +1,45 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : pub.db.command.AddAnnotation: 
+new Added class 1 : pub.test.AddAnnotationTest: 
+new Added class 2 : pub.test.AddHitTest: 
+new Added class 3 : pub.test.AllJUnitTests: 
+new Added class 4 : pub.beans.AnnotationBean: 
+new Added class 5 : pub.beans.factories.AnnotationBeanFactory: 
+new Added class 6 : pub.beans.AnnotationBeanImpl: 
+new Added class 7 : pub.test.AnnotationBeanTest: 
+new Added class 8 : pub.db.AnnotationTable: 
+new Added class 9 : pub.test.ArticleBeanTest2: 
+new Added class 10 : pub.beans.BeanFactory: 
+new Added class 11 : pub.test.NullBeanTest: 
+new Added class 12 : pub.db.command.ObsoleteArticle: 
+new Added class 13 : pub.servlets.PropagateAnnotation: 
+new Added class 14 : pub.servlets.update.PropagateAnnotationsToGenes: 
+new Added class 15 : pub.test.SampleData: 
+new Added class 16 : pub.beans.StorableAnnotationBeanImpl: 
+new Added class 17 : pub.servlets.update.UpdateAnnotation: 
+new Added class 18 : pub.servlets.update.BadTermException: 
+testing relationship 
+class 1  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:46  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 4£º  r0:0  r1:0  r2:0  r3:16  r4:0  r5:0  r6:0  r7:0  r8:16  r9:0  r10:42  r11:39  r12:0  r13:70  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 4£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:10  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:9  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:4  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  1   3 :  20   4 :  0   5 :  1   6 :  1   7 :  4   8 :  17   9 :  0   10 :  42   11 :  68   12 :  0   13 :  174   14 :  0   15 :  0   16 :  0   17 :  0   

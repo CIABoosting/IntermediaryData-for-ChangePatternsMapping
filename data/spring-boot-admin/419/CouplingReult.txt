@@ -1,0 +1,32 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : de.codecentric.boot.admin.AdminApplicationHazelcastTest: 
+new Added class 1 : de.codecentric.boot.admin.AdminApplicationTest: 
+new Added class 2 : de.codecentric.boot.admin.config.AdminClientPropertiesTest: 
+new Added class 3 : de.codecentric.boot.admin.config.AdminServerWebConfiguration: 
+new Added class 4 : de.codecentric.boot.admin.config.AdminServerWebConfigurationTest: 
+new Added class 5 : de.codecentric.boot.admin.zuul.ApplicationRouteLocator: 
+new Added class 6 : de.codecentric.boot.admin.zuul.ApplicationRouteLocatorTest: 
+new Added class 7 : de.codecentric.boot.admin.notify.CompositeNotifierTest: 
+new Added class 8 : de.codecentric.boot.admin.config.DiscoveryClientConfigurationTest: 
+new Added class 9 : de.codecentric.boot.admin.notify.HipchatNotifier: 
+new Added class 10 : de.codecentric.boot.admin.config.NotifierConfiguration: 
+new Added class 11 : de.codecentric.boot.admin.config.NotifierConfigurationTest: 
+new Added class 12 : de.codecentric.boot.admin.notify.RemindingNotifierTest: 
+new Added class 13 : de.codecentric.boot.admin.config.RevereseZuulProxyConfiguration: 
+new Added class 14 : de.codecentric.boot.admin.registry.store.SimpleApplicationStore: 
+new Added class 15 : de.codecentric.boot.admin.SpringBootAdminApplication: 
+new Added class 16 : de.codecentric.boot.admin.config.SpringBootAdminClientAutoConfiguration: 
+new Added class 17 : de.codecentric.boot.admin.config.SpringBootAdminClientAutoConfigurationTest: 
+new Added class 18 : de.codecentric.boot.admin.registry.StatusUpdaterTest: 
+testing relationship 
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  1   6 :  5   7 :  0   8 :  6   9 :  0   10 :  4   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,6 @@
+WriteConcern:0.59
+WriteCommandProtocol:0.41
+AsyncWriteOperation:0.23288888888888892
+GetLastError:0.22466666666666668
+BaseWriteCommandMessage:0.17666666666666667
+WriteProtocol:0.14

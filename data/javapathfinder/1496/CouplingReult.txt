@@ -1,0 +1,278 @@
+Compared Result of  two versions
+Number of New Class: 131
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : mango.module.definition.AbstractAutoEquivalenceWindow: 
+new Added class 1 : mango.module.definition.AbstractEquivalenceWindow: 
+new Added class 2 : mango.module.definition.action.AddEquivalenceAction: 
+new Added class 3 : mango.module.definition.msg.AddEquivalenceLocatorMsg: 
+new Added class 4 : mango.intro.Application: 
+new Added class 5 : mango.intro.ApplicationWorkbenchAdvisor: 
+new Added class 6 : mango.intro.ApplicationWorkbenchWindowAdvisor: 
+new Added class 7 : mango.worker.engine.rule.AssumeEquivRule: 
+new Added class 8 : mango.control.action.control.BackupAction: 
+new Added class 9 : mango.debugger.BreakPointWindow: 
+new Added class 10 : mango.tree.msg.ChangeTreeCommandMsg: 
+new Added class 11 : mango.worker.javaModel.classParser.ClassModel: 
+new Added class 12 : mango.core.gui.action.ClearStatisticsAction: 
+new Added class 13 : mango.module.definition.action.CloseCaseAction: 
+new Added class 14 : mango.graph.agent.CoarseGraphViewAgent: 
+new Added class 15 : mango.scanner.CodeSurvey: 
+new Added class 16 : mango.workstation.ContextManager: 
+new Added class 17 : mango.debugger.msg.ContinueRewritingMsg: 
+new Added class 18 : mango.core.CoreMangoObject: 
+new Added class 19 : mango.core.gui.window.CoreRuleBaseWindow: 
+new Added class 20 : mango.core.gui.window.CoreRuleEditorWindow: 
+new Added class 21 : mango.core.gui.window.CoreSuperWindow: 
+new Added class 22 : mango.core.gui.window.CoreTierWindow: 
+new Added class 23 : mango.core.util.CoreUtilities: 
+new Added class 24 : mango.core.gui.action.CreateParametersAction: 
+new Added class 25 : mango.module.action.DebugGeneralizationAction: 
+new Added class 26 : mango.module.action.DebugGeneralizationDetailsAction: 
+new Added class 27 : mango.debugger.DebuggerViewManager: 
+new Added class 28 : mango.debugger.DebuggerWindow: 
+new Added class 29 : mango.module.action.DebugInvariantsAction: 
+new Added class 30 : mango.module.action.DebugInversionAction: 
+new Added class 31 : mango.module.action.DebugLinearArithmeticAction: 
+new Added class 32 : mango.control.action.control.DebugRewriterAction: 
+new Added class 33 : mango.module.definition.model.DefinitionManager: 
+new Added class 34 : mango.module.definition.DefinitionWindowManager: 
+new Added class 35 : mango.deprecatedPackage.DeprecatedMethods: 
+new Added class 36 : mango.gumboModel.EmbeddedJVMFactory: 
+new Added class 37 : mango.worker.workFlow.model.EventLoopTrap: 
+new Added class 38 : mango.util.FileSystem: 
+new Added class 39 : mango.merge.window.FindPatternWindow: 
+new Added class 40 : mango.tree.agent.FolderViewAgent: 
+new Added class 41 : mango.data.FontData: 
+new Added class 42 : mango.views.GenSpecWindow: 
+new Added class 43 : mango.graph.Graph2DViewManager: 
+new Added class 44 : mango.graph.Graph2DViewWindow: 
+new Added class 45 : mango.graph.Graph3DViewManager: 
+new Added class 46 : mango.graph.Graph3DViewWindow: 
+new Added class 47 : mango.gumboModel.GraphModelFactory: 
+new Added class 48 : mango.graph.agent.GraphViewAgent: 
+new Added class 49 : mango.graph.msg.GraphViewCreateCommandMsg: 
+new Added class 50 : mango.control.window.HelpWindow: 
+new Added class 51 : mango.worker.workFlow.msg.InitSessionMsg: 
+new Added class 52 : mango.module.instance.model.InstanceManager: 
+new Added class 53 : mango.list.dnd.JListDragSource: 
+new Added class 54 : mango.list.dnd.JTextPaneDropHandler: 
+new Added class 55 : mango.list.impl.LabelViewManager: 
+new Added class 56 : mango.gumboModel.ListModelFactory: 
+new Added class 57 : mango.list.ListNodeData: 
+new Added class 58 : mango.list.ListViewManager: 
+new Added class 59 : mango.control.msg.LoadClassFileDataRequestMsg: 
+new Added class 60 : mango.enterprise.locator.LocatorManager: 
+new Added class 61 : mango.util.LOG: 
+new Added class 62 : mango.intro.LoginDialog: 
+new Added class 63 : mango.views.LogWindow: 
+new Added class 64 : mango.worker.Mango: 
+new Added class 65 : mango.data.MangoDataResolver: 
+new Added class 66 : mango.rmi.file.MangoFilePacket: 
+new Added class 67 : mango.merge.tree.MangoMergeTreeCellRenderer: 
+new Added class 68 : mango.core.gui.tablemodel.MangoModelUtilities: 
+new Added class 69 : mango.script.gui.MangoScriptMessageCellRenderer: 
+new Added class 70 : mango.script.model.MangoScriptModel: 
+new Added class 71 : mango.script.MangoScriptSourceDirectory: 
+new Added class 72 : mango.script.util.MangoScriptUtilities: 
+new Added class 73 : mango.views.MangoScriptWindow: 
+new Added class 74 : mango.module.instance.method.model.MethodInstanceManager: 
+new Added class 75 : mango.module.instance.method.MethodInstanceWindowManager: 
+new Added class 76 : mango.module.model.ModuleManager: 
+new Added class 77 : mango.module.ModuleWindowManager: 
+new Added class 78 : mango.tree.msg.MsgSendAspect: 
+new Added class 79 : mango.graph.msg.MultiGraph3DViewCreateCommandMsg: 
+new Added class 80 : mango.gumboModel.MultiGraphModelFactory: 
+new Added class 81 : mango.enterprise.workerID.PersistentParityID: 
+new Added class 82 : mango.workstation.PopUpResourceManager: 
+new Added class 83 : mango.control.action.editor.PostAction: 
+new Added class 84 : mango.core.gui.action.PrintAbstractionsAction: 
+new Added class 85 : mango.workstation.QueueReader: 
+new Added class 86 : mango.control.action.window.ResetPopupAction: 
+new Added class 87 : mango.worker.workFlow.coreTechniques.msg.RewriteLocatorMsg: 
+new Added class 88 : mango.worker.engine.rule.Rule: 
+new Added class 89 : mango.control.action.input.RuleBaseAction: 
+new Added class 90 : mango.workstation.RuleResourceManager: 
+new Added class 91 : mango.core.gui.action.SaveCoreRuleBaseAction: 
+new Added class 92 : gov.nasa.jpf.SCANNER: 
+new Added class 93 : mango.script.util.ScriptAndPostAction: 
+new Added class 94 : mango.script.gui.action.ScriptRunAction: 
+new Added class 95 : mango.script.gui.action.ScriptSaveAction: 
+new Added class 96 : mango.merge.action.SelectCoreRuleBaseAction: 
+new Added class 97 : mango.control.msg.SetSourceDirectoryRequestMsg: 
+new Added class 98 : mango.module.action.ShowAssumptionMatchFailureAction: 
+new Added class 99 : mango.module.action.ShowHitsAction: 
+new Added class 100 : mango.module.action.ShowMatchesAction: 
+new Added class 101 : mango.module.action.ShowMatchMakerAction: 
+new Added class 102 : mango.module.action.ShowRewriteErrorAction: 
+new Added class 103 : mango.module.action.ShowRewriterAssumptionsAction: 
+new Added class 104 : mango.enterprise.workerID.SourceAspectID: 
+new Added class 105 : mango.gumboModel.SourceModelFactory: 
+new Added class 106 : mango.source.agent.SourceViewAgent: 
+new Added class 107 : mango.source.agent.msg.SourceViewCreateCommandMsg: 
+new Added class 108 : mango.source.SourceViewManager: 
+new Added class 109 : mango.source.SourceViewWindow: 
+new Added class 110 : mango.worker.workFlow.coreTechniques.msg.StableRewriteLocator: 
+new Added class 111 : mango.control.msg.StartRequestMsg: 
+new Added class 112 : mango.core.gui.StaticFields: 
+new Added class 113 : mango.control.action.control.StopWorkerAction: 
+new Added class 114 : mango.graph.SuperGraph3DViewManager: 
+new Added class 115 : mango.graph.SuperGraph3DViewWindow: 
+new Added class 116 : mango.enterprise.workerID.TransientParityID: 
+new Added class 117 : mango.gumboModel.TreeModelFactory: 
+new Added class 118 : mango.tree.data.TreeNodeClientData: 
+new Added class 119 : mango.tree.msg.TreeTabCreateCommandMsg: 
+new Added class 120 : mango.tree.agent.TreeViewAgent: 
+new Added class 121 : mango.tree.msg.TreeViewCreateCommandMsg: 
+new Added class 122 : mango.tree.TreeViewManager: 
+new Added class 123 : mango.tree.TreeViewWindow: 
+new Added class 124 : mango.tree.msg.UpdateParityModelsMsg: 
+new Added class 125 : mango.workstation.ViewBuilder: 
+new Added class 126 : mango.control.menu.WindowMenu: 
+new Added class 127 : mango.worker.Worker: 
+new Added class 128 : mango.control.action.control.WorkerAction: 
+new Added class 129 : mango.worker.WorkerControl: 
+new Added class 130 : mango.workstation.Workstation: 
+testing relationship 
+class 0  vs  class 21£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 125£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 21£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 57£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 125£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 93£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 41£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 3  vs  class 56£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 57£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 62£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:3  r14:1  r15:0  r16:0  r17:0  
+class 7  vs  class 88£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 9  vs  class 28£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 122£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:10  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 104£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:2  r15:0  r16:2  r17:0  
+class 14  vs  class 130£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 19  vs  class 21£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 21£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:9  r9:0  r10:3  r11:0  r12:0  r13:0  r14:7  r15:0  r16:1  r17:0  
+class 22  vs  class 21£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 122£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:9  r9:0  r10:9  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 125£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 28£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 34£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 76£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 88£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:13  r12:0  r13:10  r14:1  r15:0  r16:1  r17:0  
+class 34  vs  class 77£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 122£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 123£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:17  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 125£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 41£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 35  vs  class 47£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 56£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 57£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 78£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 80£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 81£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 105£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 117£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 124£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 124£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 120£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 130£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 42  vs  class 129£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 44  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:1  r17:0  
+class 44  vs  class 130£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 46  vs  class 130£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:2  r17:0  
+class 47  vs  class 36£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 49£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 79£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 130£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 51  vs  class 64£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 75£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 76£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 77£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 88£º  r0:0  r1:0  r2:0  r3:5  r4:5  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:19  r12:0  r13:12  r14:1  r15:0  r16:2  r17:0  
+class 53  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 54  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 54  vs  class 57£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 41£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 64  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:8  r9:0  r10:1  r11:1  r12:0  r13:1  r14:2  r15:0  r16:0  r17:0  
+class 65  vs  class 64£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 67  vs  class 64£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 70  vs  class 111£º  r0:0  r1:0  r2:0  r3:0  r4:4  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 71  vs  class 64£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 72  vs  class 59£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 72  vs  class 71£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 72  vs  class 97£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 72  vs  class 111£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 74  vs  class 52£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 74  vs  class 88£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 75  vs  class 122£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 75  vs  class 125£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 76  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 76  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 76  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 76  vs  class 77£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:13  r9:0  r10:0  r11:4  r12:0  r13:1  r14:5  r15:0  r16:0  r17:0  
+class 77  vs  class 123£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 77  vs  class 125£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 80  vs  class 36£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 80  vs  class 79£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 80  vs  class 124£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 81  vs  class 104£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:6  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 83  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 84  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 90  vs  class 88£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 94  vs  class 111£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 95  vs  class 77£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 99  vs  class 88£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 100  vs  class 88£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 105  vs  class 36£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 105  vs  class 107£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 107£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 130£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 109  vs  class 108£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:1  r17:0  
+class 109  vs  class 130£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 110  vs  class 87£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 115  vs  class 130£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:2  r17:0  
+class 116  vs  class 104£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 117  vs  class 36£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 117  vs  class 41£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 117  vs  class 118£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 117  vs  class 124£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 118  vs  class 41£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 120  vs  class 119£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 120  vs  class 121£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 120  vs  class 130£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 122  vs  class 40£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 122  vs  class 118£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 123  vs  class 122£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:3  r17:0  
+class 123  vs  class 130£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 125  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 125  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 125  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 125  vs  class 45£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 125  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 125  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 125  vs  class 87£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 125  vs  class 108£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 125  vs  class 110£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 125  vs  class 114£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 125  vs  class 122£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:37  r14:0  r15:0  r16:0  r17:0  
+class 125  vs  class 130£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:12  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 127  vs  class 64£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 129  vs  class 28£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 129  vs  class 77£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 129  vs  class 111£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 130  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 130  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 130  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:8  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 130  vs  class 106£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 130  vs  class 125£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 130  vs  class 129£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  16   2 :  0   3 :  19   4 :  21   5 :  28   6 :  8   7 :  0   8 :  116   9 :  0   10 :  62   11 :  263   12 :  0   13 :  122   14 :  57   15 :  0   16 :  16   17 :  0   

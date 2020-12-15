@@ -1,0 +1,17 @@
+Compared Result of  two versions
+Number of New Class: 9
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : gj.ui.DefaultGraphRenderer: 
+new Added class 1 : gj.shell.model.EditableEdge: 
+new Added class 2 : gj.layout.edge.visibility.EuclideanShortestPathLayout: 
+new Added class 3 : gj.layout.graph.hierarchical.HierarchicalLayout: 
+new Added class 4 : gj.util.LayoutHelper: 
+new Added class 5 : gj.shell.PropertyWidget: 
+new Added class 6 : gj.layout.graph.radial.RadialLayout: 
+new Added class 7 : gj.example.treemodel.SwingTree: 
+new Added class 8 : gj.layout.graph.tree.TreeLayout: 
+testing relationship 
+class 7  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  4   12 :  0   13 :  7   14 :  0   15 :  0   16 :  0   17 :  0   

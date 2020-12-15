@@ -1,0 +1,8 @@
+Input:0.3653333333333333
+LeafOnly:0.24666666666666667
+ValuesSourceAggregatorFactory:0.23666666666666666
+DateHistogramParser:0.20666666666666667
+Factory:0.19
+CardinalityAggregatorFactory:0.17
+PercentilesParser:0.16333333333333333
+DateHistogramFactory:0.15666666666666668

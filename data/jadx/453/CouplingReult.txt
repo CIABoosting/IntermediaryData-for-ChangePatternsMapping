@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : jadx.core.dex.visitors.BlockMakerVisitor: 
+new Added class 1 : jadx.core.dex.nodes.BlockNode: 
+new Added class 2 : jadx.core.dex.visitors.ConstInlinerVisitor: 
+new Added class 3 : jadx.core.dex.attributes.LoopAttr: 
+new Added class 4 : jadx.core.codegen.RegionGen: 
+new Added class 5 : jadx.core.dex.visitors.regions.RegionMaker: 
+new Added class 6 : jadx.samples.TestCF3: 
+new Added class 7 : jadx.tests.internal.loops.TestLoopCondition: 
+new Added class 8 : jadx.tests.internal.TestReturnWrapping: 
+new Added class 9 : jadx.core.dex.visitors.typeresolver.TypeResolver: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:11  r14:2  r15:0  r16:4  r17:0  
+class 1  vs  class 3£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 3  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:6  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 4  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:7  r6:0  r7:0  r8:0  r9:0  r10:0  r11:87  r12:0  r13:1  r14:26  r15:0  r16:9  r17:0  
+class 5  vs  class 3£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:8  r17:0  
+class 9  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:2  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  2   4 :  0   5 :  11   6 :  0   7 :  0   8 :  6   9 :  0   10 :  0   11 :  100   12 :  0   13 :  13   14 :  34   15 :  0   16 :  23   17 :  0   

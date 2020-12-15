@@ -1,0 +1,11 @@
+CacheProxy:0.44333333333333336
+MapProxyImpl:0.4033333333333333
+AbstractCacheProxy:0.3466666666666667
+AbstractClientCacheProxy:0.33
+AbstractClientInternalCacheProxy:0.27
+ClientCacheProxy:0.2633333333333333
+ClientCachePartitionLostEventHandler:0.22666666666666666
+AbstractInternalCacheProxy:0.22333333333333333
+Pre38NearCacheEventHandler:0.17
+RepairableNearCacheEventHandler:0.14333333333333334
+ConnectedServerVersionAwareNearCacheEventHandler:0.043333333333333335

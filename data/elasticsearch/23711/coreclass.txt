@@ -1,0 +1,14 @@
+PercolateContext:0.4166666666666667
+PercolatorService:0.31666666666666665
+Match:0.2966666666666667
+PercolateShardResponse:0.28
+ReduceResult:0.2733333333333333
+Count:0.26
+PercolateResponse:0.25333333333333335
+MatchAndScore:0.25083333333333335
+MatchAndSort:0.24777777777777782
+InternalAggregations:0.23666666666666666
+TransportPercolateAction:0.21333333333333335
+PercolateRequestBuilder:0.19333333333333333
+PercolateSourceBuilder:0.16666666666666666
+QueryCollector:0.14666666666666667

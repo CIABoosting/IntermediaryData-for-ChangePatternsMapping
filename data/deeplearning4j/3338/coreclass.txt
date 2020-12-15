@@ -1,0 +1,15 @@
+Layer:0.53
+MultiLayerNetwork:0.36333333333333334
+SimpleOptimizableModel:0.3233333333333333
+ComputationGraph:0.2866666666666667
+BatchNormalization:0.25333333333333335
+LossLayer:0.25333333333333335
+ActivationLayer:0.23666666666666666
+LocalResponseNormalization:0.23333333333333334
+SubsamplingLayer:0.21
+BasePretrainNetwork:0.18333333333333332
+BaseLayer:0.18
+ConvolutionLayer:0.15666666666666668
+VariationalAutoencoder:0.15
+GravesLSTM:0.15
+GravesBidirectionalLSTM:0.14333333333333334

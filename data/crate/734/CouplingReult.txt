@@ -1,0 +1,32 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.crate.planner.operators.Collect: 
+new Added class 1 : io.crate.planner.consumer.ConsumingPlanner: 
+new Added class 2 : io.crate.planner.operators.Filter: 
+new Added class 3 : io.crate.planner.consumer.GroupByPlannerTest: 
+new Added class 4 : io.crate.planner.operators.GroupHashAggregate: 
+new Added class 5 : io.crate.planner.operators.HashAggregate: 
+new Added class 6 : io.crate.planner.InsertPlannerTest: 
+new Added class 7 : io.crate.planner.operators.Limit: 
+new Added class 8 : io.crate.planner.operators.LogicalPlan: 
+new Added class 9 : io.crate.planner.operators.Order: 
+new Added class 10 : io.crate.planner.ResultDescription: 
+new Added class 11 : io.crate.metadata.Routing: 
+new Added class 12 : io.crate.planner.SelectPlannerTest: 
+new Added class 13 : io.crate.planner.SubQueryPlannerTest: 
+testing relationship 
+class 0  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:1  r9:0  r10:4  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 3  vs  class 0£º  r0:0  r1:0  r2:0  r3:16  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:5  r11:3  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 0£º  r0:0  r1:0  r2:0  r3:2  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:5  r11:5  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 0£º  r0:0  r1:0  r2:0  r3:5  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:5  r11:3  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 7  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:5  r11:3  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 12  vs  class 0£º  r0:0  r1:0  r2:0  r3:22  r4:0  r5:0  r6:5  r7:0  r8:0  r9:0  r10:0  r11:22  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 0£º  r0:0  r1:0  r2:0  r3:15  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:46  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  6   3 :  60   4 :  1   5 :  6   6 :  7   7 :  0   8 :  11   9 :  0   10 :  24   11 :  106   12 :  0   13 :  0   14 :  5   15 :  0   16 :  1   17 :  0   

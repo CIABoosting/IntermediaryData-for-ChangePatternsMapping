@@ -1,0 +1,17 @@
+PlanFragment:0.45666666666666667
+Fragmenter:0.3
+LocalQueryRunner:0.23
+TestPhasedExecutionSchedule:0.21666666666666667
+TestStageStateMachine:0.21666666666666667
+Visitor:0.2
+PlanPrinter:0.2
+TestSourcePartitionedScheduler:0.17666666666666667
+LocalExecutionPlanner:0.1708730158730159
+MockRemoteTaskFactory:0.14666666666666667
+LocalExecutionPlanContext:0.14333333333333334
+SqlTaskExecutionFactory:0.13666666666666666
+PhysicalOperation:0.12
+GroupedExecutionTagger:0.06333333333333334
+DistributedExecutionPlanner:0.043333333333333335
+PlanFragmenter:0.03
+GroupedExecutionProperties:0.02666666666666667

@@ -1,0 +1,11 @@
+AsyncSession:0.58
+MongoCollectionStream:0.4166666666666667
+AsyncQueryOperation:0.24333333333333335
+MongoAsyncQueryCursorTest:0.21333333333333335
+MongoClientImpl:0.21194444444444446
+MongoAsyncQueryCursor:0.18
+SingleConnectionAsyncSession:0.17666666666666667
+Fixture:0.16333333333333333
+SingleServerAsyncSession:0.11333333333333333
+AsyncCommandOperation:0.056666666666666664
+AsyncClusterSession:0.04666666666666667

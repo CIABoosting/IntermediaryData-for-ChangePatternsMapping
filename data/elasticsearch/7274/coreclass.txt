@@ -1,0 +1,16 @@
+ESIntegTestCase:0.49333333333333335
+NetworkModule:0.4633333333333333
+HttpCompressionIT:0.3
+ExternalTestCluster:0.24
+ContextAndHeaderTransportIT:0.19666666666666666
+CorsRegexIT:0.19333333333333333
+InternalTestClusterTests:0.17666666666666667
+RetryTests:0.17
+TribeIT:0.17
+NetworkModuleTests:0.15333333333333332
+ESSmokeClientTestCase:0.13666666666666666
+NettyTransport:0.10666666666666667
+NettyPlugin:0.1
+NodeConfigurationSource:0.1
+NettyHttpServerTransport:0.09
+NettyUtils:0.023333333333333334

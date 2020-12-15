@@ -1,0 +1,15 @@
+Metadata:0.4420952380952381
+AbstractTestDistributedQueries:0.36333333333333334
+TestSqlParser:0.32666666666666666
+AstVisitor:0.32666666666666666
+MetadataManager:0.3
+Formatter:0.29
+ReadOnlyConnectorMetadata:0.25333333333333335
+TestKafkaDistributed:0.24666666666666667
+AstBuilder:0.24
+ConnectorMetadata:0.22611111111111115
+TestCassandraDistributed:0.22166666666666668
+TestStatementBuilder:0.14
+CoordinatorModule:0.09333333333333334
+TestHiveDistributedQueries:0.04
+TestRaptorDistributedQueries:0.0

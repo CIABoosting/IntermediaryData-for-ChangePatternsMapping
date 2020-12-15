@@ -1,0 +1,15 @@
+Trusted:0.49666666666666665
+AbstractCasWebflowConfigurer:0.32666666666666666
+WebUtils:0.31333333333333335
+MultifactorAuthenticationTrustRecord:0.28
+YubiKeyMultifactorTrustWebflowConfigurer:0.14
+AuthyMultifactorTrustWebflowConfigurer:0.14
+DuoMultifactorTrustWebflowConfigurer:0.14
+GoogleAuthenticatorMultifactorTrustWebflowConfigurer:0.14
+RadiusMultifactorTrustWebflowConfigurer:0.14
+MultifactorAuthenticationSetTrustAction:0.11333333333333333
+DuoMultifactorTrustConfiguration:0.05
+RadiusMultifactorTrustConfiguration:0.05
+GoogleAuthenticatorMultifactorTrustConfiguration:0.05
+YubiKeyMultifactorTrustConfiguration:0.05
+AuthyMultifactorTrustConfiguration:0.05

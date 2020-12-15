@@ -1,0 +1,14 @@
+KillIntegrationTest:0.30333333333333334
+CrateSettingsPreparerTest:0.2866666666666667
+TransportSQLActionTest:0.2733333333333333
+PartitionedTableIntegrationTest:0.27
+PartitionedTableConcurrentIntegrationTest:0.27
+PostgresJobsLogsITest:0.26666666666666666
+TransportSQLActionClassLifecycleTest:0.25666666666666665
+JobLogIntegrationTest:0.25333333333333335
+CrateSettingsTest:0.24666666666666667
+DependencyCarrierDDLTest:0.23
+JobsLogsTest:0.23
+SysClusterSettingsTest:0.22666666666666666
+SysOperationsTest:0.15666666666666668
+SysJobsTest:0.10333333333333333

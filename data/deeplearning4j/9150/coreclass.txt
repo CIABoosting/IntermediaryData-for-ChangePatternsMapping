@@ -1,0 +1,12 @@
+BaseMultiLayerNetwork:0.6033333333333334
+StateTracker:0.5294444444444445
+HazelCastStateTracker:0.29333333333333333
+ActorNetworkRunner:0.22333333333333333
+VectorizedDeepLearningGradientAscent:0.21666666666666667
+MasterActor:0.21333333333333335
+WorkerActor:0.21333333333333335
+NeuralNetworkOptimizer:0.19666666666666666
+DBNTest:0.19
+OptimizerMatrix:0.16166666666666665
+MultiThreadedLFW:0.09
+LFWExample:0.08

@@ -1,0 +1,53 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.squareup.okhttp.internal.bytes.BufferedSink: 
+new Added class 1 : com.squareup.okhttp.internal.bytes.BufferedSinkTest: 
+new Added class 2 : com.squareup.okhttp.internal.bytes.BufferedSource: 
+new Added class 3 : com.squareup.okhttp.internal.bytes.DeflaterSink: 
+new Added class 4 : com.squareup.okhttp.internal.bytes.DeflaterSinkTest: 
+new Added class 5 : com.squareup.okhttp.internal.bytes.GzipSource: 
+new Added class 6 : com.squareup.okhttp.internal.bytes.GzipSourceTest: 
+new Added class 7 : com.squareup.okhttp.internal.bytes.InflaterSource: 
+new Added class 8 : com.squareup.okhttp.internal.bytes.InflaterSourceTest: 
+new Added class 9 : com.squareup.okhttp.internal.bytes.OkBuffer: 
+new Added class 10 : com.squareup.okhttp.internal.bytes.OkBuffers: 
+new Added class 11 : com.squareup.okhttp.internal.bytes.OkBufferTest: 
+new Added class 12 : com.squareup.okhttp.internal.bytes.Sink: 
+new Added class 13 : com.squareup.okhttp.internal.bytes.Source: 
+testing relationship 
+class 0  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:13  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 0  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:4  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 1  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:18  r9:1  r10:12  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 2  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:8  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 3  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 3  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:21  r12:0  r13:10  r14:0  r15:1  r16:1  r17:0  
+class 5  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:13  r9:0  r10:9  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 5  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-17  r12:0  r13:83  r14:2  r15:0  r16:0  r17:0  
+class 7  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:2  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 7  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 7  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:20  r12:0  r13:3  r14:2  r15:0  r16:1  r17:0  
+class 8  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 10  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:15  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:229  r12:0  r13:109  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  7   3 :  0   4 :  0   5 :  8   6 :  0   7 :  0   8 :  48   9 :  1   10 :  53   11 :  305   12 :  0   13 :  238   14 :  29   15 :  1   16 :  3   17 :  0   

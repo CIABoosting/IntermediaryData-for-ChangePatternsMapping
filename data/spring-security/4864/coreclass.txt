@@ -1,0 +1,17 @@
+MockFilterChain:0.35333333333333333
+SwitchUserProcessingFilterTests:0.2633333333333333
+SecurityContextHolderAwareRequestWrapperTests:0.25
+MethodDefinitionAttributesTests:0.21
+HttpRequestIntegrationFilterTests:0.2
+MethodSecurityInterceptorTests:0.19333333333333333
+AclTagTests:0.19
+DmsIntegrationTests:0.17333333333333334
+AspectJSecurityInterceptorTests:0.17
+MockFilterInvocationDefinitionMap:0.16
+FilterSecurityInterceptorTests:0.13
+ContextPropagatingRemoteInvocationTests:0.11666666666666667
+BankTests:0.11333333333333333
+X509ProcessingFilterTests:0.11333333333333333
+AuthenticationSimpleHttpInvokerRequestExecutorTests:0.11333333333333333
+AuthenticationTagTests:0.11
+JdbcAclServiceTests:0.006666666666666667

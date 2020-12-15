@@ -1,0 +1,11 @@
+Layer:0.59
+GravesLSTM:0.4
+MultiLayerNetwork:0.37333333333333335
+SimpleOptimizableModel:0.27
+ConvolutionLayer:0.26666666666666666
+BaseLayer:0.25333333333333335
+SubsamplingLayer:0.23333333333333334
+BasePretrainNetwork:0.20666666666666667
+BackPropMLPTest:0.19666666666666666
+GravesLSTMTest:0.12
+UpdaterCreator:0.08666666666666667

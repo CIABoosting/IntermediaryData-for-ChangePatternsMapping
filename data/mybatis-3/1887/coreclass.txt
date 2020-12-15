@@ -1,0 +1,13 @@
+Executor:0.6666666666666666
+Configuration:0.44333333333333336
+BaseExecutor:0.25666666666666665
+CachingExecutor:0.24
+FastResultSetHandler:0.21
+SimpleExecutor:0.19333333333333333
+BatchExecutor:0.17333333333333334
+ReuseExecutor:0.14666666666666667
+CallableStatementHandler:0.12333333333333334
+PreparedStatementHandler:0.10666666666666667
+SimpleStatementHandler:0.10666666666666667
+RoutingStatementHandler:0.08666666666666667
+BaseStatementHandler:0.03666666666666667

@@ -1,0 +1,12 @@
+TableMetadata:0.54
+Insert:0.43666666666666665
+AbstractTestDistributedQueries:0.33666666666666667
+Analysis:0.22333333333333333
+LogicalPlanner:0.22
+Formatter:0.20599206349206348
+TestAnalyzer:0.2
+TestHiveIntegrationSmokeTest:0.18333333333333332
+TestSqlParser:0.18333333333333332
+AstBuilder:0.16333333333333333
+TestStatementBuilder:0.09
+TestHiveDistributedQueries:0.06444444444444446

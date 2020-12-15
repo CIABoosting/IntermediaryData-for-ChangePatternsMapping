@@ -1,0 +1,13 @@
+AsyncGetMoreOperation:0.45
+DiscardCallback:0.28
+DefaultServerAsyncConnection:0.23666666666666666
+AsyncWriteOperation:0.20666666666666667
+DefaultAsyncConnection:0.2
+ConnectingAsyncServerConnection:0.15666666666666668
+AsyncQueryOperation:0.13333333333333333
+AsyncCommandOperation:0.13333333333333333
+DelayedCloseAsyncConnection:0.12333333333333334
+AuthenticatingAsyncConnection:0.12333333333333334
+QueryResultSingleResultCallback:0.11333333333333333
+AsyncConnection:0.10666666666666667
+PooledAsyncConnection:0.09666666666666666

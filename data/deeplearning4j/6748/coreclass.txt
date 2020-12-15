@@ -1,0 +1,10 @@
+TextPipeline:0.43333333333333335
+Word2Vec:0.38666666666666666
+TokenizerFunction:0.26
+Word2VecChange:0.24111111111111114
+Word2VecVariables:0.24
+Glove:0.18
+SentenceBatch:0.16111111111111112
+TextPipelineTest:0.14
+Word2VecTest:0.08
+CoOccurrenceCalculator:0.04

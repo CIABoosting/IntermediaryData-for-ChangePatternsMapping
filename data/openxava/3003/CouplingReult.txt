@@ -1,0 +1,35 @@
+Compared Result of  two versions
+Number of New Class: 21
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openxava.test.tests.AJAXTest: 
+new Added class 1 : org.openxava.test.tests.CarrierWithSectionsTest: 
+new Added class 2 : org.openxava.session.Chart: 
+new Added class 3 : org.openxava.session.ChartColumn: 
+new Added class 4 : org.openxava.actions.ChartsAction: 
+new Added class 5 : org.openxava.test.tests.CustomerTest: 
+new Added class 6 : org.openxava.test.tests.CustomerWithSectionTest: 
+new Added class 7 : org.openxava.test.tests.DeliveryTest: 
+new Added class 8 : org.openxava.test.tests.FamilyTest: 
+new Added class 9 : org.openxava.test.tests.FamilyWithInheritanceControllerTest: 
+new Added class 10 : org.openxava.test.tests.Invoice2002Test: 
+new Added class 11 : org.openxava.test.tests.InvoiceTest: 
+new Added class 12 : org.openxava.test.tests.ProductTest: 
+new Added class 13 : org.openxava.test.model.Project: 
+new Added class 14 : org.openxava.test.tests.ProjectTest: 
+new Added class 15 : org.openxava.test.model.Quote: 
+new Added class 16 : org.openxava.test.tests.QuoteTest: 
+new Added class 17 : org.openxava.actions.RefreshChartAction: 
+new Added class 18 : org.openxava.actions.ResetChartAction: 
+new Added class 19 : org.openxava.tab.Tab: 
+new Added class 20 : org.openxava.view.View: 
+testing relationship 
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:1  r12:0  r13:11  r14:1  r15:0  r16:0  r17:0  
+class 20  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:8  r9:0  r10:14  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+record  0 :  0   1 :  2   2 :  0   3 :  0   4 :  0   5 :  3   6 :  0   7 :  0   8 :  18   9 :  0   10 :  14   11 :  1   12 :  0   13 :  11   14 :  2   15 :  0   16 :  1   17 :  0   

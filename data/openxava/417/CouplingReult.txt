@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 12
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openxava.test.tests.CustomersTest: 
+new Added class 1 : org.openxava.model.impl.EJBPersistenceProvider: 
+new Added class 2 : org.openxava.generators.Generators: 
+new Added class 3 : org.openxava.model.impl.HibernatePersistenceProvider: 
+new Added class 4 : org.openxava.model.impl.IPersistenceProvider: 
+new Added class 5 : org.openxava.actions.LoadImageAction: 
+new Added class 6 : org.openxava.model.impl.MapFacadeBean: 
+new Added class 7 : org.openxava.model.meta.MetaCalculator: 
+new Added class 8 : org.openxava.model.meta.MetaProperty: 
+new Added class 9 : org.openxava.hibernate.ReferenceConverterToDBListener: 
+new Added class 10 : org.openxava.view.View: 
+new Added class 11 : org.openxava.hibernate.XHibernate: 
+testing relationship 
+class 1  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:72  r12:0  r13:12  r14:50  r15:0  r16:7  r17:0  
+class 6  vs  class 7£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:9  r9:0  r10:3  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 10  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 10  vs  class 8£º  r0:0  r1:0  r2:0  r3:18  r4:10  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:42  r12:0  r13:17  r14:21  r15:0  r16:7  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  20   4 :  10   5 :  4   6 :  0   7 :  0   8 :  11   9 :  0   10 :  3   11 :  117   12 :  0   13 :  30   14 :  75   15 :  0   16 :  14   17 :  0   

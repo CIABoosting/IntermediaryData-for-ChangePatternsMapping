@@ -1,0 +1,12 @@
+NodeExtension:0.64
+Node:0.44666666666666666
+ClusterServiceImpl:0.36333333333333334
+HttpPostCommandProcessor:0.21666666666666667
+TimedMemberStateFactory:0.20333333333333334
+ClusterJoinManager:0.20333333333333334
+AbstractJoiner:0.19333333333333333
+DefaultNodeExtension:0.18
+SendExcludedMemberUuidsOperation:0.16666666666666666
+TriggerPartialStartRequest:0.13
+ForceStartNodeRequest:0.11666666666666667
+GetHotRestartStatusRequest:0.11666666666666667

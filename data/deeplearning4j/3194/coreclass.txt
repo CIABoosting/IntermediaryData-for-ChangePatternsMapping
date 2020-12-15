@@ -1,0 +1,12 @@
+Builder:0.51
+StatsListener:0.4633333333333333
+ModelSerializer:0.31333333333333335
+MapDBStatsStorage:0.29333333333333333
+InMemoryLookupTable:0.29
+SparkComputationGraph:0.23
+SparkDl4jMultiLayer:0.23
+ParagraphVectorsTest:0.22666666666666666
+VocabConstructor:0.13666666666666666
+InMemoryStatsStorage:0.12166666666666667
+TestStatsListener:0.10333333333333333
+ModelSerializerTest:0.04916666666666667

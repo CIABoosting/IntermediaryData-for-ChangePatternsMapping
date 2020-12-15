@@ -1,0 +1,11 @@
+ClientCacheProxy:0.4
+HazelcastClientCacheManager:0.3
+AbstractClientInternalCacheProxy:0.29333333333333333
+ClientTxnMultiMapProxy:0.27
+ClientTxnMapProxy:0.25666666666666665
+AbstractClientCacheProxy:0.25
+CacheLoadAllMessageTask:0.23333333333333334
+NearCacheInvalidationHandler:0.23
+CacheClearMessageTask:0.22666666666666666
+ClientMultiMapProxy:0.21333333333333335
+ClientClusterWideIterator:0.19666666666666666

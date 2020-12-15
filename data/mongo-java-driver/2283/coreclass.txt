@@ -1,0 +1,9 @@
+BulkWriteResult:0.7866666666666666
+AcknowledgedBulkWriteResult:0.39666666666666667
+UnacknowledgedBulkWriteResult:0.39
+BulkWriteBatchCombiner:0.27
+DBCollectionTest:0.26666666666666666
+ReplaceOperation:0.25
+UpdateOperation:0.25
+BaseWriteOperation:0.18
+BulkWriteHelper:0.16333333333333333

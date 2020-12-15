@@ -1,0 +1,13 @@
+SessionBuilder:0.52
+Session:0.47333333333333333
+TestHiveIntegrationSmokeTest:0.4066666666666667
+AbstractTestDistributedQueries:0.2
+MockQueryExecution:0.18666666666666668
+RaptorQueryRunner:0.18
+TestMemoryManager:0.17333333333333334
+AbstractOperatorBenchmark:0.12666666666666668
+TestEventListener:0.11
+BenchmarkSuite:0.10666666666666667
+BenchmarkQueryRunner:0.09666666666666666
+TestResetSessionTask:0.09666666666666666
+TestQueryQueueRule:0.07666666666666666

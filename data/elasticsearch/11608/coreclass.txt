@@ -1,0 +1,13 @@
+IndexRequest:0.7266666666666667
+BulkRequest:0.48333333333333334
+BulkProcessor:0.2866666666666667
+IndexRequestBuilder:0.23333333333333334
+IngestActionFilter:0.135
+PipelineExecutionServiceTests:0.10333333333333333
+RestIndexAction:0.07666666666666666
+RestBulkAction:0.04666666666666667
+IngestClientIT:0.03333333333333333
+IngestModule:0.023333333333333334
+IngestActionFilterTests:0.023333333333333334
+PipelineExecutionService:0.01
+IngestDisabledActionFilter:0.006666666666666667

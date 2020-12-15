@@ -1,0 +1,16 @@
+IndexShard:0.53
+Engine:0.45666666666666667
+IndexService:0.38333333333333336
+EngineConfig:0.3433333333333333
+InternalTestCluster:0.2833333333333333
+ESSingleNodeTestCase:0.21
+InternalEngineTests:0.19333333333333333
+RecoverySourceHandler:0.19
+IndexingMemoryController:0.18333333333333332
+IndexServicesProvider:0.15666666666666668
+TransportIndicesSegmentsAction:0.12666666666666668
+TransportUpgradeStatusAction:0.12666666666666668
+ShardLifecycleListener:0.10666666666666667
+SharedFSRecoverySourceHandler:0.10666666666666667
+IndexModule:0.1
+InternalEngineSettingsTests:0.09333333333333334

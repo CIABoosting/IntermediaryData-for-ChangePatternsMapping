@@ -1,0 +1,16 @@
+ServletUtils:0.54
+IServletResource:0.54
+ServletResourceTemplate:0.28
+DataService:0.26666666666666666
+TestSetupUtil:0.23883333333333334
+AbstractFilter:0.18511111111111112
+AbstractResourceServlet:0.16333333333333333
+SymmetricFilter:0.16
+NodeConcurrencyFilter:0.14333333333333334
+AbstractServlet:0.14333333333333334
+CompressionFilter:0.143
+ThrottleFilter:0.13966666666666666
+InetAddressFilter:0.12666666666666668
+SymmetricFilterChain:0.11333333333333333
+SymmetricServlet:0.10666666666666667
+AuthenticationFilter:0.09

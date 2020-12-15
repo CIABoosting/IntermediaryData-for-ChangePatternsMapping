@@ -1,0 +1,66 @@
+Compared Result of  two versions
+Number of New Class: 59
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.debug.DebugAminoAcid: 
+new Added class 1 : org.openscience.cdk.test.debug.DebugAminoAcidTest: 
+new Added class 2 : org.openscience.cdk.debug.DebugAtom: 
+new Added class 3 : org.openscience.cdk.debug.DebugAtomContainer: 
+new Added class 4 : org.openscience.cdk.test.debug.DebugAtomContainerTest: 
+new Added class 5 : org.openscience.cdk.debug.DebugAtomParity: 
+new Added class 6 : org.openscience.cdk.test.debug.DebugAtomParityTest: 
+new Added class 7 : org.openscience.cdk.test.debug.DebugAtomTest: 
+new Added class 8 : org.openscience.cdk.debug.DebugAtomType: 
+new Added class 9 : org.openscience.cdk.test.debug.DebugAtomTypeTest: 
+new Added class 10 : org.openscience.cdk.debug.DebugBioPolymer: 
+new Added class 11 : org.openscience.cdk.test.debug.DebugBioPolymerTest: 
+new Added class 12 : org.openscience.cdk.debug.DebugBond: 
+new Added class 13 : org.openscience.cdk.test.debug.DebugBondTest: 
+new Added class 14 : org.openscience.cdk.debug.DebugChemFile: 
+new Added class 15 : org.openscience.cdk.test.debug.DebugChemFileTest: 
+new Added class 16 : org.openscience.cdk.debug.DebugChemModel: 
+new Added class 17 : org.openscience.cdk.test.debug.DebugChemModelTest: 
+new Added class 18 : org.openscience.cdk.debug.DebugChemObject: 
+new Added class 19 : org.openscience.cdk.test.debug.DebugChemObjectBuilderTest: 
+new Added class 20 : org.openscience.cdk.test.debug.DebugChemObjectTest: 
+new Added class 21 : org.openscience.cdk.debug.DebugChemSequence: 
+new Added class 22 : org.openscience.cdk.test.debug.DebugChemSequenceTest: 
+new Added class 23 : org.openscience.cdk.debug.DebugCrystal: 
+new Added class 24 : org.openscience.cdk.test.debug.DebugCrystalTest: 
+new Added class 25 : org.openscience.cdk.test.debug.DebugDataClassesTests: 
+new Added class 26 : org.openscience.cdk.debug.DebugElectronContainer: 
+new Added class 27 : org.openscience.cdk.test.debug.DebugElectronContainerTest: 
+new Added class 28 : org.openscience.cdk.debug.DebugElement: 
+new Added class 29 : org.openscience.cdk.test.debug.DebugElementTest: 
+new Added class 30 : org.openscience.cdk.debug.DebugIsotope: 
+new Added class 31 : org.openscience.cdk.test.debug.DebugIsotopeTest: 
+new Added class 32 : org.openscience.cdk.debug.DebugLonePair: 
+new Added class 33 : org.openscience.cdk.test.debug.DebugLonePairTest: 
+new Added class 34 : org.openscience.cdk.debug.DebugMapping: 
+new Added class 35 : org.openscience.cdk.debug.DebugMolecule: 
+new Added class 36 : org.openscience.cdk.test.debug.DebugMoleculeTest: 
+new Added class 37 : org.openscience.cdk.debug.DebugMonomer: 
+new Added class 38 : org.openscience.cdk.test.debug.DebugMonomerTest: 
+new Added class 39 : org.openscience.cdk.debug.DebugPolymer: 
+new Added class 40 : org.openscience.cdk.test.debug.DebugPolymerTest: 
+new Added class 41 : org.openscience.cdk.debug.DebugPseudoAtom: 
+new Added class 42 : org.openscience.cdk.test.debug.DebugPseudoAtomTest: 
+new Added class 43 : org.openscience.cdk.debug.DebugReaction: 
+new Added class 44 : org.openscience.cdk.test.debug.DebugReactionTest: 
+new Added class 45 : org.openscience.cdk.debug.DebugRing: 
+new Added class 46 : org.openscience.cdk.debug.DebugRingSet: 
+new Added class 47 : org.openscience.cdk.test.debug.DebugRingSetTest: 
+new Added class 48 : org.openscience.cdk.test.debug.DebugRingTest: 
+new Added class 49 : org.openscience.cdk.debug.DebugSetOfAtomContainers: 
+new Added class 50 : org.openscience.cdk.test.debug.DebugSetOfAtomContainersTest: 
+new Added class 51 : org.openscience.cdk.debug.DebugSetOfMolecules: 
+new Added class 52 : org.openscience.cdk.test.debug.DebugSetOfMoleculesTest: 
+new Added class 53 : org.openscience.cdk.debug.DebugSetOfReactions: 
+new Added class 54 : org.openscience.cdk.test.debug.DebugSetOfReactionsTest: 
+new Added class 55 : org.openscience.cdk.debug.DebugSingleElectron: 
+new Added class 56 : org.openscience.cdk.test.debug.DebugSingleElectronTest: 
+new Added class 57 : org.openscience.cdk.debug.DebugStrand: 
+new Added class 58 : org.openscience.cdk.test.debug.DebugStrandTest: 
+testing relationship 
+class 19  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  1   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

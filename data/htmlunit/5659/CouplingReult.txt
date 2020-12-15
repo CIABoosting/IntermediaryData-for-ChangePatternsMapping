@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 11
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.gargoylesoftware.htmlunit.CacheTest: 
+new Added class 1 : com.gargoylesoftware.htmlunit.DummyWebResponse: 
+new Added class 2 : com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocumentWriteTest: 
+new Added class 3 : com.gargoylesoftware.htmlunit.javascript.host.html.HTMLFormElementTest: 
+new Added class 4 : com.gargoylesoftware.htmlunit.html.HtmlFormTest: 
+new Added class 5 : com.gargoylesoftware.htmlunit.javascript.host.html.HTMLImageElementTest: 
+new Added class 6 : com.gargoylesoftware.htmlunit.javascript.host.LocationTest: 
+new Added class 7 : com.gargoylesoftware.htmlunit.MockWebConnection: 
+new Added class 8 : com.gargoylesoftware.htmlunit.WebClientTest: 
+new Added class 9 : com.gargoylesoftware.htmlunit.javascript.host.xml.XMLHttpRequest2Test: 
+new Added class 10 : com.gargoylesoftware.htmlunit.javascript.host.xml.XMLHttpRequestTest: 
+testing relationship 
+class 0  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-21  r12:0  r13:40  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-9  r12:0  r13:22  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:38  r12:0  r13:38  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:20  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:13  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:15  r9:0  r10:53  r11:25  r12:0  r13:71  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:17  r9:0  r10:48  r11:17  r12:0  r13:48  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  32   9 :  0   10 :  101   11 :  65   12 :  0   13 :  258   14 :  0   15 :  0   16 :  0   17 :  0   

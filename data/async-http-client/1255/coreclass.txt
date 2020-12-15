@@ -1,0 +1,14 @@
+NettyResponseFuture:0.61
+ChannelPool:0.372
+ChannelManager:0.3333333333333333
+DefaultChannelPool:0.31666666666666665
+Protocol:0.24333333333333335
+HttpProtocol:0.20666666666666667
+NettyRequestSender:0.20333333333333334
+IdleChannelDetector:0.1827777777777778
+NettyConnectListener:0.18
+NettyConnectionPoolTest:0.15666666666666668
+NoopChannelPool:0.08666666666666667
+ChannelCreation:0.03
+ConnectionPoolPartitioning:0.02
+ChannelPoolPartitionSelector:0.0

@@ -1,0 +1,66 @@
+Compared Result of  two versions
+Number of New Class: 44
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openxava.test.tests.AJAXTest: 
+new Added class 1 : org.openxava.test.tests.ArtistTest: 
+new Added class 2 : org.openxava.test.tests.AuthorTest: 
+new Added class 3 : org.openxava.test.tests.AverageSpeedTest: 
+new Added class 4 : org.openxava.test.tests.CityTest: 
+new Added class 5 : org.openxava.test.tests.ColorTest: 
+new Added class 6 : org.openxava.test.tests.CompanyTest: 
+new Added class 7 : org.openxava.actions.CreateNewElementInCollectionAction: 
+new Added class 8 : org.openxava.test.tests.CustomerTest: 
+new Added class 9 : org.openxava.test.tests.CustomerWithSectionTest: 
+new Added class 10 : org.openxava.test.tests.DeliveryTest: 
+new Added class 11 : org.openxava.test.tests.FormulaTest: 
+new Added class 12 : org.openxava.actions.GoSplitAction: 
+new Added class 13 : org.openxava.model.impl.IMapFacadeImpl: 
+new Added class 14 : org.openxava.test.tests.Invoice2Test: 
+new Added class 15 : org.openxava.test.tests.InvoiceListManyTypesTest: 
+new Added class 16 : org.openxava.test.tests.InvoiceNestedSectionsTest: 
+new Added class 17 : org.openxava.test.tests.InvoiceNoListTest: 
+new Added class 18 : org.openxava.test.tests.InvoiceNoSectionsTest: 
+new Added class 19 : org.openxava.test.tests.InvoiceTest: 
+new Added class 20 : org.openxava.model.MapFacade: 
+new Added class 21 : org.openxava.model.impl.MapFacadeBean: 
+new Added class 22 : org.openxava.web.dwr.Module: 
+new Added class 23 : org.openxava.controller.ModuleContext: 
+new Added class 24 : org.openxava.controller.ModuleManager: 
+new Added class 25 : org.openxava.test.tests.NetMachineWithoutNewTest: 
+new Added class 26 : org.openxava.actions.NewAction: 
+new Added class 27 : org.openxava.actions.NewTreeViewItemAction: 
+new Added class 28 : org.openxava.actions.OnChangeSearchAction: 
+new Added class 29 : org.openxava.test.tests.OrderTest: 
+new Added class 30 : org.openxava.test.tests.SellerTest: 
+new Added class 31 : org.openxava.test.model.Service: 
+new Added class 32 : org.openxava.test.tests.ServiceExpensesTest: 
+new Added class 33 : org.openxava.test.tests.ServiceTest: 
+new Added class 34 : org.openxava.web.style.Style: 
+new Added class 35 : org.openxava.test.tests.TeamTest: 
+new Added class 36 : org.openxava.test.tests.TicketTest: 
+new Added class 37 : org.openxava.view.View: 
+new Added class 38 : org.openxava.actions.ViewBaseAction: 
+new Added class 39 : org.openxava.actions.ViewDetailAction: 
+new Added class 40 : org.openxava.test.tests.WarehouseDetailListTest: 
+new Added class 41 : org.openxava.test.tests.WarehouseSplitTest: 
+new Added class 42 : org.openxava.test.tests.WarehouseTest: 
+new Added class 43 : org.openxava.test.tests.WorkCostTest: 
+testing relationship 
+class 7  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-8  r12:0  r13:21  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 24£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:-1  r9:0  r10:35  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 37£º  r0:0  r1:0  r2:0  r3:4  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:32  r14:0  r15:0  r16:3  r17:0  
+class 24  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 23£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 37£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:1  r17:0  
+class 26  vs  class 38£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:3  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 23£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 24£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 37£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:2  r6:0  r7:0  r8:2  r9:0  r10:0  r11:2  r12:0  r13:1  r14:3  r15:0  r16:3  r17:0  
+record  0 :  0   1 :  2   2 :  1   3 :  13   4 :  0   5 :  9   6 :  4   7 :  0   8 :  4   9 :  0   10 :  35   11 :  2   12 :  0   13 :  63   14 :  3   15 :  0   16 :  7   17 :  0   

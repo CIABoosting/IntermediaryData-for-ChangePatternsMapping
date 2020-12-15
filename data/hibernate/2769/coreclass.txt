@@ -1,0 +1,16 @@
+SpatialAnalysisFunction:0.28
+SDOGeometryTypeDescriptor:0.25333333333333335
+GeolatteGeometryType:0.23666666666666666
+JTSGeometryType:0.23666666666666666
+SDOGeometryValueExtractor:0.21333333333333335
+PGGeometryTypeDescriptor:0.19333333333333333
+MySQLGeometryTypeDescriptor:0.19333333333333333
+SqlServer2008GeometryTypeDescriptor:0.19277777777777777
+MySQL5SpatialInnoDBDialect:0.19
+OracleSpatial10gDialect:0.17666666666666667
+GeoDBGeometryTypeDescriptor:0.15
+PostgisNoSQLMM:0.14666666666666667
+MySQLSpatialDialect:0.14
+PostgisDialect:0.14
+GeoDBDialect:0.14
+SqlServer2008SpatialDialect:0.13

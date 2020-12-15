@@ -1,0 +1,16 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.ingest.processor.convert.ConvertProcessorFactoryTests: 
+new Added class 1 : org.elasticsearch.ingest.processor.gsub.GsubProcessorFactoryTests: 
+new Added class 2 : org.elasticsearch.ingest.processor.join.JoinProcessorFactoryTests: 
+new Added class 3 : org.elasticsearch.ingest.processor.lowercase.LowercaseProcessorFactoryTests: 
+new Added class 4 : org.elasticsearch.ingest.processor.remove.RemoveProcessorFactoryTests: 
+new Added class 5 : org.elasticsearch.ingest.processor.rename.RenameProcessorFactoryTests: 
+new Added class 6 : org.elasticsearch.ingest.processor.set.SetProcessorFactoryTests: 
+new Added class 7 : org.elasticsearch.ingest.processor.split.SplitProcessorFactoryTests: 
+new Added class 8 : org.elasticsearch.ingest.processor.trim.TrimProcessorFactoryTests: 
+new Added class 9 : org.elasticsearch.ingest.processor.uppercase.UppercaseProcessorFactoryTests: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

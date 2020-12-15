@@ -1,0 +1,13 @@
+SamlResponseArtifactEncoder:0.35333333333333333
+SamlIdPConfiguration:0.27
+SamlObjectEncrypter:0.27
+SamlUtils:0.2633333333333333
+AbstractSamlProfileHandlerController:0.24
+SamlProfileSaml2ResponseBuilder:0.195
+SamlIdPEndpointsConfiguration:0.16333333333333333
+BaseSamlProfileSamlResponseBuilder:0.15666666666666668
+SamlIdPUtils:0.12666666666666668
+DefaultSamlArtifactTicketFactory:0.12333333333333334
+SamlArtifactTicketFactory:0.01
+SamlProfileObjectBuilder:0.0
+SamlIdPConstants:0.0

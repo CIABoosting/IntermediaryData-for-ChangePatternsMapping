@@ -1,0 +1,16 @@
+LookupSource:0.7566666666666667
+LocalExecutionPlanContext:0.37666666666666665
+LookupJoinOperator:0.31666666666666665
+LocalExecutionPlanner:0.23777777777777775
+InMemoryJoinHash:0.23
+Visitor:0.21333333333333335
+LocalQueryRunner:0.19
+SharedLookupSource:0.18
+EmptyLookupSource:0.16333333333333333
+JoinCompiler:0.16333333333333333
+IndexLookupSource:0.16333333333333333
+LookupJoinOperatorFactory:0.15
+MaterializedOutputFactory:0.15
+TaskOutputOperator:0.14666666666666667
+PartitionedLookupSource:0.11666666666666667
+MaterializingOperator:0.10904761904761905

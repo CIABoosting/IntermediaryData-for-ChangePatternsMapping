@@ -1,0 +1,15 @@
+Builder:0.6566666666666666
+Default:0.37666666666666665
+Resolution:0.23
+NexusTest:0.21666666666666667
+TypeLocator:0.2080952380952381
+Dispatcher:0.19
+TypeWriter:0.18666666666666668
+AgentBuilderDefaultTest:0.18333333333333332
+DynamicTypeDefaultUnloadedTest:0.15
+AgentBuilderInitializationStrategySelfInjectionDispatcherTest:0.15
+SubclassDynamicTypeBuilder:0.13333333333333333
+RebaseDynamicTypeBuilder:0.13
+ByteBuddyTest:0.13
+RedefinitionDynamicTypeBuilder:0.08333333333333333
+AbstractInliningDynamicTypeBuilder:0.023333333333333334

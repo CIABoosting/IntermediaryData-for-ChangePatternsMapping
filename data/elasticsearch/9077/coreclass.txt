@@ -1,0 +1,17 @@
+Script:0.4633333333333333
+ScriptedMetricAggregatorBuilder:0.35333333333333333
+ScriptField:0.34
+SearchRequest:0.27666666666666667
+ShardSearchLocalRequest:0.27666666666666667
+BucketScriptPipelineAggregatorBuilder:0.21
+BucketSelectorPipelineAggregatorBuilder:0.21
+ValuesSourceAggregatorBuilder:0.20666666666666667
+ScriptHeuristic:0.20333333333333334
+UpdateRequest:0.19333333333333333
+BucketSelectorPipelineAggregator:0.185
+BucketScriptPipelineAggregator:0.185
+InternalScriptedMetric:0.175
+Template:0.17
+ScriptQueryBuilder:0.16333333333333333
+ScriptScoreFunctionBuilder:0.16333333333333333
+AbstractBulkIndexByScrollRequest:0.15666666666666668

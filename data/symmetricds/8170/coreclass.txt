@@ -1,0 +1,17 @@
+ParameterConstants:0.5953333333333333
+ConfigurationService:0.5
+NodeGroupLink:0.3566666666666667
+TriggerRouterService:0.33666666666666667
+IConfigurationService:0.26416666666666666
+RegistrationService:0.23166666666666666
+DataService:0.22
+RouterService:0.21666666666666667
+ConfigurationChangedDataRouter:0.20666666666666667
+SymmetricEngineHolder:0.18666666666666668
+AbstractSymmetricEngine:0.18333333333333332
+ConfigurationServiceSqlMap:0.1375
+LoadIntoDatabaseOnArrivalListener:0.13666666666666666
+ConflictSettingsNodeGroupLinkMapper:0.08333333333333333
+LoadFilterMapper:0.08333333333333333
+TransformTableMapper:0.08333333333333333
+NodeGroupLinkMapper:0.02

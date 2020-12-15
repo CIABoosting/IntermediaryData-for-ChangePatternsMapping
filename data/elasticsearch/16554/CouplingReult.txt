@@ -1,0 +1,22 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.index.fielddata.AbstractFieldDataTests: 
+new Added class 1 : org.elasticsearch.index.mapper.internal.AllFieldMapper: 
+new Added class 2 : org.elasticsearch.index.mapper.internal.FieldNamesFieldMapper: 
+new Added class 3 : org.elasticsearch.index.mapper.internal.IdFieldMapper: 
+new Added class 4 : org.elasticsearch.index.mapper.internal.IndexFieldMapper: 
+new Added class 5 : org.elasticsearch.index.mapper.MapperBuilders: 
+new Added class 6 : org.elasticsearch.search.child.ParentFieldLoadingBwcTest: 
+new Added class 7 : org.elasticsearch.index.mapper.internal.ParentFieldMapper: 
+new Added class 8 : org.elasticsearch.index.mapper.internal.RoutingFieldMapper: 
+new Added class 9 : org.elasticsearch.index.mapper.internal.SizeFieldMapper: 
+new Added class 10 : org.elasticsearch.index.mapper.internal.SourceFieldMapper: 
+new Added class 11 : org.elasticsearch.index.mapper.internal.TimestampFieldMapper: 
+new Added class 12 : org.elasticsearch.index.mapper.internal.TTLFieldMapper: 
+new Added class 13 : org.elasticsearch.index.mapper.internal.TypeFieldMapper: 
+new Added class 14 : org.elasticsearch.index.mapper.internal.UidFieldMapper: 
+new Added class 15 : org.elasticsearch.index.mapper.internal.VersionFieldMapper: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

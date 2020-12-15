@@ -1,0 +1,12 @@
+ClientConfig:0.59
+LoadBalancer:0.3755555555555556
+HazelcastClient:0.3433333333333333
+ProxyHelper:0.3
+ConnectionManager:0.21
+TestUtility:0.19
+ClientConfigBuilder:0.18833333333333332
+RoundRobinLB:0.14
+ClientConfigTest:0.09666666666666666
+TestClientApplicationContext:0.09666666666666666
+RandomLB:0.07666666666666666
+StaticLB:0.06444444444444446

@@ -1,0 +1,15 @@
+FunctionScoreTests:0.3233333333333333
+FieldValueFactorFunction:0.27
+ScoreFunction:0.2633333333333333
+LinearInterpolation:0.21666666666666667
+SmoothingModel:0.18666666666666668
+Laplace:0.16333333333333333
+StupidBackoff:0.16333333333333333
+ScoreFunctionStub:0.13
+AbstractDistanceScoreFunction:0.11888888888888888
+ScriptScoreFunction:0.11888888888888888
+GeoFieldDataScoreFunction:0.11888888888888888
+RandomScoreFunction:0.11888888888888888
+WeightFactorFunction:0.07166666666666667
+DummyScoreFunction:0.06333333333333334
+ScoreOne:0.06

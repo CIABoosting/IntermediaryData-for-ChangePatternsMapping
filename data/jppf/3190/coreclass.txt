@@ -1,0 +1,13 @@
+ServerTask:0.7166666666666667
+ServerJobChangeListener:0.6766666666666666
+ServerTaskBundleClient:0.43
+ServerTaskBundleNode:0.3233333333333333
+ServerJob:0.3233333333333333
+TaskCompletionListener:0.27051984126984113
+AbstractServerJob:0.21666666666666667
+SendResultsStrategyManager:0.15666666666666668
+SendNodeResultsStrategy:0.11
+SendAllResultsStrategy:0.11
+ServerJobBroadcast:0.10666666666666667
+AbstractServerJobBase:0.07666666666666666
+SendResultsStrategyConstants:0.07

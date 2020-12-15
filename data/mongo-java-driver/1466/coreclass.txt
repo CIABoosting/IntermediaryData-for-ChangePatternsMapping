@@ -1,0 +1,8 @@
+FindOperation:0.43333333333333335
+MapReduceWithInlineResultsOperation:0.3566666666666667
+GroupOperation:0.31
+OperationIterable:0.30333333333333334
+ParallelCollectionScanOperation:0.26
+MapReduceInlineResultsAsyncCursor:0.22333333333333333
+AggregateOperation:0.20666666666666667
+QueryResultToListCallback:0.07666666666666666

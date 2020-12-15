@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opengis.gc.CannotCreateGridCoverageException: 
+new Added class 1 : org.opengis.util.Cloneable: 
+new Added class 2 : org.opengis.gc.FileFormatNotCompatibleWithGridCoverageException: 
+new Added class 3 : org.opengis.gc.GridNotEditableException: 
+new Added class 4 : org.opengis.gc.InvalidParameterNameException: 
+new Added class 5 : org.opengis.gc.InvalidParameterValueException: 
+new Added class 6 : org.opengis.gc.InvalidRangeException: 
+new Added class 7 : org.opengis.gp.InvalidSampleDimensionException: 
+new Added class 8 : org.opengis.cv.MetadataNameNotFoundException: 
+new Added class 9 : org.opengis.cc.OperationParameterGroup: 
+new Added class 10 : org.opengis.gc.ParameterType: 
+new Added class 11 : org.opengis.cc.ParameterValue: 
+new Added class 12 : org.opengis.cc.ParameterValueGroup: 
+new Added class 13 : org.opengis.cv.PointOutsideCoverageException: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

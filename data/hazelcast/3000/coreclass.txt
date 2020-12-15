@@ -1,0 +1,15 @@
+ClientMapProxy:0.44
+HazelcastClientInstanceImpl:0.3333333333333333
+ClientSetProxy:0.31333333333333335
+ClientListProxy:0.29
+XATransactionProxy:0.26666666666666666
+ClientScheduledFutureProxy:0.25666666666666665
+ClientRingbufferProxy:0.25333333333333335
+ClientQueueProxy:0.25
+ClientConditionProxy:0.24666666666666667
+ClientExecutorServiceProxy:0.21
+MessageRunner:0.19666666666666666
+ClientMapReduceProxy:0.19666666666666666
+PartitionSpecificClientProxy:0.19
+DefaultClientExtension:0.17888888888888888
+ClientTxnProxy:0.11666666666666667

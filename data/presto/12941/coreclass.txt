@@ -1,0 +1,14 @@
+Blocks:0.51
+TestCountAggregation:0.32666666666666666
+TupleStreamBuilder:0.25666666666666665
+TestDictionarySerde:0.17666666666666667
+TestRunLengthEncodedSerde:0.17666666666666667
+TestRunLengthBinaryOperator:0.17333333333333334
+TestUncompressedBinaryOperator:0.16666666666666666
+DictionaryEncodedTupleStream:0.14333333333333334
+TestAggregations:0.12
+TestCsv:0.10666666666666667
+TestMergeOperator:0.09333333333333334
+TestFilterOperator:0.09333333333333334
+TestUncompressedBlockReader:0.08
+TestCsvFileScanner:0.08

@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.grpc.alts.AltsChannelBuilder: 
+new Added class 1 : io.grpc.alts.AltsProtocolNegotiator: 
+new Added class 2 : io.grpc.alts.AltsProtocolNegotiatorTest: 
+new Added class 3 : io.grpc.alts.transportsecurity.AltsTsiFrameProtectorTest: 
+new Added class 4 : io.grpc.alts.transportsecurity.AltsTsiTest: 
+new Added class 5 : io.grpc.alts.transportsecurity.ChannelCrypterNettyTestBase: 
+new Added class 6 : io.grpc.alts.transportsecurity.FakeChannelCrypter: 
+new Added class 7 : io.grpc.alts.transportsecurity.FakeTsiHandshaker: 
+new Added class 8 : io.grpc.alts.transportsecurity.FakeTsiTest: 
+new Added class 9 : io.grpc.alts.InternalNettyTsiHandshakerTest: 
+new Added class 10 : io.grpc.alts.InternalTsiFrameHandler: 
+new Added class 11 : io.grpc.testing.integration.TestServiceClient: 
+new Added class 12 : io.grpc.testing.integration.TestServiceServer: 
+new Added class 13 : io.grpc.alts.transportsecurity.TsiTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

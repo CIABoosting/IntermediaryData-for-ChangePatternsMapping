@@ -1,0 +1,16 @@
+IndexShard:0.5
+Delete:0.43333333333333335
+Index:0.3933333333333333
+InternalEngineTests:0.3566666666666667
+CheckpointsIT:0.27051984126984113
+IndicesClusterStateService:0.22
+IndexRequestTests:0.21
+IndexShardTestCase:0.17666666666666667
+TranslogTests:0.17333333333333334
+TransportReplicationActionTests:0.16
+IndicesClusterStateServiceRandomUpdatesTests:0.155
+TransportIndexAction:0.13666666666666666
+TranslogThread:0.13666666666666666
+MockIndicesService:0.10666666666666667
+AllocatedIndices:0.105
+LocalCheckpointService:0.03333333333333333

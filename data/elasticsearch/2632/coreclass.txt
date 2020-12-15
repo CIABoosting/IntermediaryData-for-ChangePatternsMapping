@@ -1,0 +1,13 @@
+BlendedTermQuery:0.41
+QueryBuilder:0.39666666666666667
+SimpleQueryStringBuilderTests:0.2833333333333333
+MultiMatchQuery:0.2833333333333333
+ElasticsearchAssertions:0.26666666666666666
+QueryStringQueryBuilderTests:0.21333333333333335
+BlendedTermQueryTests:0.21
+QueryAnalyzerTests:0.20666666666666667
+MapperQueryParser:0.1836111111111111
+CandidateQueryTests:0.14
+MultiMatchQueryBuilderTests:0.12666666666666668
+SimpleQueryParser:0.12666666666666668
+CrossFieldsQueryBuilder:0.07

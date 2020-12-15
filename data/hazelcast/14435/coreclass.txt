@@ -1,0 +1,13 @@
+ClusterServiceImpl:0.45
+FutureUtilTest:0.41
+InternalPartitionServiceImpl:0.3466666666666667
+FutureUtil:0.3333333333333333
+EventServiceImpl:0.29133333333333333
+TransactionManagerServiceImpl:0.26
+AbstractJoiner:0.25333333333333335
+ProxyServiceImpl:0.24666666666666667
+ExecutorServiceProxy:0.23194444444444443
+HazelcastServerCacheManager:0.23
+TransactionImpl:0.21333333333333335
+HazelcastClientCacheManager:0.14333333333333334
+FinalizeJoinOperation:0.0675

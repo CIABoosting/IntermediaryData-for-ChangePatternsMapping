@@ -1,0 +1,40 @@
+Compared Result of  two versions
+Number of New Class: 23
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.columba.core.main.Bootstrap: 
+new Added class 1 : org.columba.core.main.ColumbaClient: 
+new Added class 2 : org.columba.core.main.ColumbaServer: 
+new Added class 3 : org.columba.core.component.ComponentManager: 
+new Added class 4 : org.columba.core.config.Config: 
+new Added class 5 : org.columba.core.config.DefaultConfigDirectory: 
+new Added class 6 : org.columba.core.gui.frame.DefaultContainer: 
+new Added class 7 : org.columba.core.gui.frame.DockFrameController: 
+new Added class 8 : org.columba.core.plugin.Extension: 
+new Added class 9 : org.columba.api.plugin.ExtensionMetadata: 
+new Added class 10 : org.columba.core.plugin.ExtensionXMLParser: 
+new Added class 11 : org.columba.core.gui.frame.FrameManager: 
+new Added class 12 : org.columba.core.resourceloader.GlobalResourceLoader: 
+new Added class 13 : org.columba.core.logging.Logging: 
+new Added class 14 : org.columba.core.main.Main: 
+new Added class 15 : org.xendra.xendrian.MessageManagerDialog: 
+new Added class 16 : org.columba.core.plugin.PluginFinder: 
+new Added class 17 : org.columba.core.plugin.PluginManager: 
+new Added class 18 : org.columba.core.gui.plugin.PluginManagerDialog: 
+new Added class 19 : org.columba.core.gui.plugin.PluginTree: 
+new Added class 20 : org.columba.core.gui.profiles.ProfileManager: 
+new Added class 21 : org.columba.core.main.SessionController: 
+new Added class 22 : org.columba.core.util.StackProfiler: 
+testing relationship 
+class 0  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:18  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 8£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:5  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 6£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 0£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 9£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  7   4 :  0   5 :  2   6 :  1   7 :  0   8 :  6   9 :  0   10 :  7   11 :  20   12 :  0   13 :  33   14 :  2   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,14 @@
+OsgiServiceLifecycleListenerAdapter:0.43333333333333335
+Listener:0.38
+OsgiServiceRegistrationListenerAdapter:0.3233333333333333
+OsgiServiceRegistrationListenerAdapterTest:0.25666666666666665
+OsgiServiceLifecycleListenerAdapterTest:0.23666666666666666
+OsgiBundleResource:0.19444444444444445
+AbstractReferenceDefinitionParser:0.18333333333333332
+ReferenceCycleTest:0.17
+ListenerA:0.16
+CollectionCycleTest:0.14333333333333334
+ServiceBeanDefinitionParser:0.13666666666666666
+ExporterCycleTest:0.04666666666666667
+BaseImporterCycleTest:0.006666666666666667
+ListenerB:0.0

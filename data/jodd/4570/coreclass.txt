@@ -1,0 +1,14 @@
+DbSession:0.43666666666666665
+DbQueryBase:0.31
+WebApplication:0.30333333333333334
+JtxTransactionManager:0.2833333333333333
+PetiteManager:0.2733333333333333
+AutomagicPetiteConfigurator:0.2519444444444444
+AutomagicDbOrmConfigurator:0.2519444444444444
+AutomagicMadvocConfigurator:0.20083333333333334
+MadvocController:0.19
+ProxettaCreator:0.16
+MadvocServletFilter:0.14333333333333334
+EchoInterceptor:0.10666666666666667
+ThreadDbSessionProvider:0.07333333333333333
+DbJtxSessionProvider:0.07

@@ -1,0 +1,16 @@
+AsyncShardOperationAction:0.2866666666666667
+TransportDeleteAction:0.26
+TransportShardBulkAction:0.25666666666666665
+TransportShardReplicationOperationAction:0.25333333333333335
+TransportIndexAction:0.22666666666666666
+TransportBroadcastOperationAction:0.22333333333333333
+ReplicaOperationRequest:0.15333333333333332
+TransportIndexDeleteByQueryAction:0.13666666666666666
+TransportIndexReplicationOperationAction:0.12
+ReplicationState:0.09666666666666666
+ReplicaOperationTransportHandler:0.09
+TransportShardDeleteByQueryAction:0.03666666666666667
+ShardTransportHandler:0.03
+OperationTransportHandler:0.03
+TransportDeleteByQueryAction:0.023333333333333334
+TransportIndicesReplicationOperationAction:0.016666666666666666

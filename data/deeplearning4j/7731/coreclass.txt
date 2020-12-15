@@ -1,0 +1,15 @@
+NeuralNetConfiguration:0.7233333333333334
+DefaultLayerFactory:0.41333333333333333
+DefaultParamInitializer:0.21333333333333335
+ConvolutionParamInitializer:0.18333333333333332
+MultiLayerTest:0.14333333333333334
+RBMTests:0.12333333333333334
+LSTMParamInitializer:0.09666666666666666
+ConvolutionDownSampleLayerTest:0.08
+TrainMultiLayerConfigTest:0.07666666666666666
+MultiLayerWorkPerformerTests:0.07666666666666666
+MultiLayerNeuralNetConfigurationTest:0.07666666666666666
+ModelFlagTest:0.07333333333333333
+TrainConfigTest:0.07333333333333333
+NeuralNetConfigurationTest:0.07333333333333333
+RecursiveParamInitializer:0.03666666666666667

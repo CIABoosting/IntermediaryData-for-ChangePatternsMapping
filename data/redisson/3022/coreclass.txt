@@ -1,0 +1,10 @@
+RedisClient:0.44333333333333336
+Config:0.4033333333333333
+MasterSlaveEntry:0.36
+SingleEntry:0.29444444444444445
+MasterSlaveConnectionManager:0.27
+ConnectionManager:0.19416666666666665
+ClusterConnectionManager:0.19
+CommandHandler:0.185
+SentinelConnectionManager:0.15333333333333332
+SingleConnectionManager:0.09

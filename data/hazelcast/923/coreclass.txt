@@ -1,0 +1,12 @@
+CollectionContainer:0.5333333333333333
+QueueContainer:0.43
+ListContainer:0.38
+SetContainer:0.3233333333333333
+AbstractTransactionalCollectionProxy:0.21333333333333335
+CollectionAddOperation:0.17666666666666667
+CollectionRemoveOperation:0.15333333333333332
+TransactionalSetProxy:0.14333333333333334
+SetBackupTest:0.043333333333333335
+AbstractCollectionBackupTest:0.043333333333333335
+ListBackupTest:0.043333333333333335
+QueueBackupTest:0.043333333333333335

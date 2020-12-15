@@ -1,0 +1,16 @@
+AtomicLong:0.49666666666666665
+AtomicInteger:0.29333333333333333
+AtomicBoolean:0.2733333333333333
+AtomicStampedReference:0.25
+AtomicMarkableReference:0.25
+AtomicReference:0.24666666666666667
+CASUpdater:0.21666666666666667
+Fences:0.21333333333333335
+AtomicIntegerFieldUpdaterImpl:0.21
+AtomicIntegerTest:0.19
+AtomicReferenceFieldUpdaterImpl:0.19
+AtomicBooleanTest:0.18666666666666668
+LockedUpdater:0.18666666666666668
+AtomicReferenceTest:0.18666666666666668
+AtomicLongFieldUpdater:0.18333333333333332
+AtomicLongTest:0.16666666666666666

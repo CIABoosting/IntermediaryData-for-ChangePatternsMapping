@@ -1,0 +1,14 @@
+EventHandler:0.74
+ClientMapProxy:0.3
+ClientNearCache:0.25666666666666665
+ClientConnectionManager:0.24666666666666667
+ClientConnectionManagerImpl:0.23333333333333334
+ClientListenerServiceImpl:0.23111111111111116
+ClusterListenerThread:0.23
+AbstractClientCollectionProxy:0.21666666666666667
+ClientReplicatedMapProxy:0.21333333333333335
+ClientMultiMapProxy:0.20444444444444446
+ClientQueueProxy:0.20444444444444446
+ClientCallFuture:0.19333333333333333
+ProxyManager:0.19
+ClientTopicProxy:0.18166666666666667

@@ -1,0 +1,11 @@
+MapProxySupport:0.27
+PackageDefinition:0.24333333333333335
+HazelcastManifestTransformer:0.22666666666666666
+TestHazelcastInstanceFactory:0.20666666666666667
+LocalMapStatsProvider:0.20333333333333334
+UnsafeHelperTest:0.19666666666666666
+NearCacheTestUtils:0.19666666666666666
+ConnectionTest:0.19333333333333333
+MapUnboundedReturnValuesTestSupport:0.18333333333333332
+OperationServiceImpl_invokeOnTargetTest:0.14
+MapStatisticsAwareServiceTest:0.12666666666666668

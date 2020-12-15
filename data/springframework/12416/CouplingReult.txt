@@ -1,0 +1,36 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.springframework.osgi.context.support.AbstractOsgiBundleApplicationContext: 
+new Added class 1 : org.springframework.osgi.internal.service.collection.AbstractOsgiCollectionTest: 
+new Added class 2 : org.springframework.osgi.service.importer.support.AbstractServiceProxyCreator: 
+new Added class 3 : org.springframework.osgi.service.importer.support.InfrastructureProxyTest: 
+new Added class 4 : org.springframework.osgi.service.importer.internal.collection.OsgiServiceCollection: 
+new Added class 5 : org.springframework.osgi.service.importer.support.OsgiServiceCollectionProxiesTest: 
+new Added class 6 : org.springframework.osgi.service.exporter.support.OsgiServiceFactoryBean: 
+new Added class 7 : org.springframework.osgi.internal.service.interceptor.OsgiServiceInvokerTest: 
+new Added class 8 : org.springframework.osgi.service.importer.support.OsgiServiceProxyFactoryBean: 
+new Added class 9 : org.springframework.osgi.service.importer.OsgiSingleServiceProxyFactoryBeanTest: 
+new Added class 10 : org.springframework.osgi.service.importer.internal.aop.ServiceDynamicInterceptor: 
+new Added class 11 : org.springframework.osgi.service.ServiceException: 
+new Added class 12 : org.springframework.osgi.service.importer.internal.aop.ServiceInvoker: 
+new Added class 13 : org.springframework.osgi.service.importer.internal.aop.ServiceProxyCreator: 
+new Added class 14 : org.springframework.osgi.service.importer.internal.aop.ServiceStaticInterceptor: 
+new Added class 15 : org.springframework.osgi.internal.service.collection.SimpleServiceJDKProxyCreator: 
+testing relationship 
+class 1  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:8  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:21  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 12£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 12£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  2   3 :  0   4 :  0   5 :  1   6 :  0   7 :  0   8 :  27   9 :  0   10 :  12   11 :  7   12 :  0   13 :  9   14 :  1   15 :  0   16 :  0   17 :  0   

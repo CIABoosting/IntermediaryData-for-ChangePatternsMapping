@@ -1,0 +1,38 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openxava.actions.AddElementsToCollectionAction: 
+new Added class 1 : org.openxava.annotations.parse.AnnotatedClassParser: 
+new Added class 2 : org.openxava.actions.ChangeSectionAction: 
+new Added class 3 : org.openxava.actions.CollectionElementViewBaseAction: 
+new Added class 4 : org.openxava.test.tests.CustomerTest: 
+new Added class 5 : org.openxava.web.layout.impl.DefaultLayoutPainter: 
+new Added class 6 : org.openxava.actions.IOnChangePropertyAction: 
+new Added class 7 : org.openxava.view.meta.MetaMemberView: 
+new Added class 8 : com.openxava.naviox.web.NaviOXStyle: 
+new Added class 9 : org.openxava.actions.RemoveElementFromCollectionAction: 
+new Added class 10 : org.openxava.actions.RemoveSelectedInCollectionAction: 
+new Added class 11 : org.openxava.actions.RemoveTreeViewNodeAction: 
+new Added class 12 : org.openxava.actions.SaveElementInCollectionAction: 
+new Added class 13 : org.openxava.test.tests.ServiceTest: 
+new Added class 14 : org.openxava.test.tests.TreeViewDefaultPathTest: 
+new Added class 15 : org.openxava.util.impl.UserPreferences: 
+new Added class 16 : org.openxava.view.View: 
+new Added class 17 : org.openxava.view.meta.xmlparse.ViewParser: 
+new Added class 18 : org.openxava.util.xmlparse.XmlElementsNames: 
+testing relationship 
+class 0  vs  class 12£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 1  vs  class 16£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:10  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 2  vs  class 16£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 16£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:3  r6:0  r7:0  r8:6  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 16£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-1  r12:0  r13:14  r14:2  r15:0  r16:0  r17:0  
+class 9  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:8  r17:0  
+class 16  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:2  r15:0  r16:3  r17:0  
+class 17  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:2  r17:0  
+class 17  vs  class 18£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  5   2 :  0   3 :  4   4 :  0   5 :  4   6 :  10   7 :  0   8 :  6   9 :  0   10 :  1   11 :  5   12 :  0   13 :  14   14 :  12   15 :  0   16 :  16   17 :  0   

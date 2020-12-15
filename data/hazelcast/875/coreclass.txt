@@ -1,0 +1,13 @@
+MultiMapService:0.4066666666666667
+RingbufferService:0.38
+DistributedScheduledExecutorService:0.3
+DistributedExecutorService:0.29
+DistributedDurableExecutorService:0.2733333333333333
+SemaphoreService:0.2733333333333333
+AtomicLongService:0.2733333333333333
+CountDownLatchService:0.2733333333333333
+AtomicReferenceService:0.2733333333333333
+ReplicatedMapService:0.2633333333333333
+CardinalityEstimatorService:0.25333333333333335
+SetService:0.18666666666666668
+ListService:0.18666666666666668

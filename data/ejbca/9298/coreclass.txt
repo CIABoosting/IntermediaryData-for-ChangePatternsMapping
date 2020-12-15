@@ -1,0 +1,17 @@
+CertificateProfile:0.7233333333333334
+EndEntityProfile:0.5633333333333334
+ExtendedInformation:0.4
+StressTestCommand:0.29333333333333333
+CertificateRequestSessionTest:0.23
+RSASignSessionBean:0.21
+EditUserCommand:0.20333333333333334
+X509CA:0.18333333333333332
+TestUserData:0.17666666666666667
+CAInterfaceBean:0.16333333333333333
+LocalUserAdminSessionBean:0.15333333333333332
+MultipleCertsRequestsForAUserCommand:0.13333333333333333
+EjbcaWSHelper:0.125
+UserDataVOWS:0.12
+LocalAuthenticationSessionBean:0.0575
+MyCommandFactory:0.05
+NoUniqueCertSerialNumberIndexException:0.0025

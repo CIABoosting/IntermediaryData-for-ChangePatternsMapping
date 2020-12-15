@@ -1,0 +1,10 @@
+ReplyHeader:0.62
+InternalStreamConnection:0.38333333333333336
+CompressedHeader:0.36666666666666664
+ResponseHeaderCallback:0.22711111111111112
+Compressor:0.20622222222222225
+TestInternalConnection:0.18333333333333332
+ZlibCompressor:0.17333333333333334
+NoOpCompessor:0.17333333333333334
+MessageHelper:0.14666666666666667
+ReplyMessageTest:0.13

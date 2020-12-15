@@ -1,0 +1,17 @@
+ClusterSettingsExpression:0.3333333333333333
+AnalyzerDispatcher:0.3
+SettingsApplier:0.27
+ESClusterUpdateSettingsNode:0.2575
+AnalysisVisitor:0.25333333333333335
+ClusterSettingsTest:0.25
+Planner:0.23333333333333334
+InformationSchemaTest:0.21333333333333335
+SQLPlugin:0.14666666666666667
+TablePropertiesAnalysis:0.14333333333333334
+ExpressionToObjectVisitor:0.13376984126984126
+TestGlobalSysExpressions:0.12
+PlannerTest:0.11
+NumberOfReplicasSettingApplier:0.09666666666666666
+TransportSQLActionClassLifecycleTest:0.09333333333333334
+ApplySettings:0.05926767676767677
+RefreshIntervalSettingApplier:0.05

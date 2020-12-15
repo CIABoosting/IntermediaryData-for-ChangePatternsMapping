@@ -1,0 +1,12 @@
+StoredQuery:0.5933333333333334
+UpdateStatusCommandValidator:0.2833333333333333
+SubmitAssociationCommand:0.26166666666666666
+UpdateRegistryObjectMetadataCommand:0.23666666666666666
+UpdateDocumentEntryMetadataCommandValidator:0.23666666666666666
+UpdateStatusCommand:0.20666666666666667
+SubmitAssociationCommandValidator:0.19666666666666666
+UpdateDocumentEntryMetadataCommand:0.183
+GetAssociations:0.175
+GetDocumentsAndAssociations:0.13666666666666666
+GetSubmissionSetAndContents:0.13666666666666666
+DeleteDocumentSetCommandValidator:0.09333333333333334

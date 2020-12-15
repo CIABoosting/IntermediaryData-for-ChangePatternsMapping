@@ -1,0 +1,107 @@
+Compared Result of  two versions
+Number of New Class: 83
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openxava.test.ejb.xejb.AdditionalDetailBean: 
+new Added class 1 : org.openxava.test.ejb.Address: 
+new Added class 2 : org.openxava.web.taglib.ButtonTag: 
+new Added class 3 : org.openxava.test.ejb.xejb.CarrierBean: 
+new Added class 4 : org.openxava.test.tests.CarriersTest: 
+new Added class 5 : org.openxava.test.ejb.xejb.ClerkBean: 
+new Added class 6 : org.openxava.actions.ConfirmDeleteAction: 
+new Added class 7 : org.openxava.controller.meta.xmlparse.ControllersParser: 
+new Added class 8 : org.openxava.test.ejb.xejb.CustomerBean: 
+new Added class 9 : org.openxava.test.tests.CustomersTest: 
+new Added class 10 : org.openxava.actions.DeleteAction: 
+new Added class 11 : org.openxava.test.tests.DeliveriesTest: 
+new Added class 12 : org.openxava.test.ejb.xejb.DeliveryBean: 
+new Added class 13 : org.openxava.test.ejb.xejb.DeliveryDetailBean: 
+new Added class 14 : org.openxava.test.ejb.xejb.DeliveryPlaceBean: 
+new Added class 15 : org.openxava.test.ejb.xejb.DeliveryTypeBean: 
+new Added class 16 : org.openxava.test.tests.DeliveryTypesTest: 
+new Added class 17 : org.openxava.test.ejb.Detail: 
+new Added class 18 : org.openxava.test.ejb.xejb.DrivingLicenceBean: 
+new Added class 19 : org.openxava.test.tests.FamiliesTest: 
+new Added class 20 : org.openxava.test.ejb.xejb.Family2Bean: 
+new Added class 21 : org.openxava.test.ejb.xejb.FilterBySubfamilyBean: 
+new Added class 22 : org.openxava.test.ejb.IAdditionalDetail: 
+new Added class 23 : org.openxava.test.ejb.ICarrier: 
+new Added class 24 : org.openxava.test.ejb.IClerk: 
+new Added class 25 : org.openxava.test.ejb.ICustomer: 
+new Added class 26 : org.openxava.test.ejb.IDelivery: 
+new Added class 27 : org.openxava.test.ejb.IDeliveryDetail: 
+new Added class 28 : org.openxava.test.ejb.IDeliveryPlace: 
+new Added class 29 : org.openxava.test.ejb.IDeliveryType: 
+new Added class 30 : org.openxava.test.ejb.IDrivingLicence: 
+new Added class 31 : org.openxava.test.ejb.IFamily2: 
+new Added class 32 : org.openxava.test.ejb.IFilterBySubfamily: 
+new Added class 33 : org.openxava.test.ejb.IInvoice: 
+new Added class 34 : org.openxava.test.ejb.IInvoiceDetail: 
+new Added class 35 : org.openxava.web.taglib.ImageTag: 
+new Added class 36 : org.openxava.test.ejb.xejb.InvoiceBean: 
+new Added class 37 : org.openxava.test.ejb.xejb.InvoiceDetailBean: 
+new Added class 38 : org.openxava.test.tests.InvoicesTest: 
+new Added class 39 : org.openxava.test.ejb.IOffice: 
+new Added class 40 : org.openxava.test.ejb.IOffice2: 
+new Added class 41 : org.openxava.test.ejb.IProduct: 
+new Added class 42 : org.openxava.test.ejb.IProduct2: 
+new Added class 43 : org.openxava.test.ejb.IProduct3: 
+new Added class 44 : org.openxava.test.ejb.IReceptionist: 
+new Added class 45 : org.openxava.test.ejb.ISeller: 
+new Added class 46 : org.openxava.test.ejb.ISellerLevel: 
+new Added class 47 : org.openxava.test.ejb.IService: 
+new Added class 48 : org.openxava.test.ejb.IServiceType: 
+new Added class 49 : org.openxava.test.ejb.IShipment: 
+new Added class 50 : org.openxava.test.ejb.IState: 
+new Added class 51 : org.openxava.test.ejb.ISubfamily: 
+new Added class 52 : org.openxava.test.ejb.ISubfamily2: 
+new Added class 53 : org.openxava.test.ejb.ITransportCharge: 
+new Added class 54 : org.openxava.test.ejb.IWarehouse: 
+new Added class 55 : org.openxava.web.taglib.LinkTag: 
+new Added class 56 : org.openxava.controller.meta.MetaAction: 
+new Added class 57 : org.openxava.tests.ModuleTestBase: 
+new Added class 58 : org.openxava.test.ejb.xejb.Office2Bean: 
+new Added class 59 : org.openxava.test.ejb.xejb.OfficeBean: 
+new Added class 60 : org.openxava.test.ejb.xejb.Product2Bean: 
+new Added class 61 : org.openxava.test.ejb.xejb.Product3Bean: 
+new Added class 62 : org.openxava.test.ejb.xejb.ProductBean: 
+new Added class 63 : org.openxava.test.tests.Products2Test: 
+new Added class 64 : org.openxava.test.tests.Products3Test: 
+new Added class 65 : org.openxava.test.tests.ProductsTest: 
+new Added class 66 : org.openxava.test.ejb.xejb.ReceptionistBean: 
+new Added class 67 : org.openxava.test.ejb.xejb.SellerBean: 
+new Added class 68 : org.openxava.test.ejb.xejb.SellerLevelBean: 
+new Added class 69 : org.openxava.test.tests.SellersTest: 
+new Added class 70 : org.openxava.test.ejb.xejb.ServiceBean: 
+new Added class 71 : org.openxava.test.tests.ServicesTest: 
+new Added class 72 : org.openxava.test.ejb.xejb.ServiceTypeBean: 
+new Added class 73 : org.openxava.test.ejb.xejb.ShipmentBean: 
+new Added class 74 : org.openxava.test.tests.ShipmentsTest: 
+new Added class 75 : org.openxava.test.ejb.xejb.StateBean: 
+new Added class 76 : org.openxava.test.ejb.xejb.Subfamily2Bean: 
+new Added class 77 : org.openxava.test.ejb.xejb.SubfamilyBean: 
+new Added class 78 : org.openxava.test.ejb.xejb.TransportChargeBean: 
+new Added class 79 : org.openxava.test.tests.TransportChargesTest: 
+new Added class 80 : org.openxava.test.ejb.xejb.WarehouseBean: 
+new Added class 81 : org.openxava.test.tests.WarehousesTest: 
+new Added class 82 : org.openxava.util.xmlparse.XmlElementsNames: 
+testing relationship 
+class 2  vs  class 56£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 57£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 56£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:10  r14:0  r15:0  r16:2  r17:0  
+class 9  vs  class 57£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 57£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 57£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 57£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 56£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 57£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 55  vs  class 56£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 63  vs  class 57£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 64  vs  class 57£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 65  vs  class 57£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 69  vs  class 57£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 71  vs  class 57£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 74  vs  class 57£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 79  vs  class 57£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 81  vs  class 57£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  14   2 :  0   3 :  0   4 :  0   5 :  1   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  13   12 :  0   13 :  15   14 :  0   15 :  0   16 :  2   17 :  0   

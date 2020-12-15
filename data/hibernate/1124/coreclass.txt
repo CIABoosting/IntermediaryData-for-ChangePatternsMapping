@@ -1,0 +1,14 @@
+BeginInvalidationCommand:0.5066666666666667
+EndInvalidationCommand:0.38666666666666666
+NonTxInvalidationCacheAccessDelegate:0.31333333333333335
+TxInvalidationCacheAccessDelegate:0.29333333333333333
+PutFromLoadValidator:0.2733333333333333
+TxInvalidationInterceptor:0.2594444444444444
+NonTxPutFromLoadInterceptor:0.23111111111111116
+NonTxInvalidationInterceptor:0.22666666666666666
+CacheCommandInitializer:0.20777777777777778
+InvalidationCacheAccessDelegate:0.2
+TxPutFromLoadInterceptor:0.15666666666666668
+InvalidationTest:0.09333333333333334
+BaseInvalidationInterceptor:0.06
+InvalidationSynchronization:0.06

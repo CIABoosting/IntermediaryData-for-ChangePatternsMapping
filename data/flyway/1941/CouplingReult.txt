@@ -1,0 +1,29 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.googlecode.flyway.core.dbsupport.DbSupport: 
+new Added class 1 : com.googlecode.flyway.core.Flyway: 
+new Added class 2 : com.googlecode.flyway.core.dbsupport.h2.H2ConcurrentMigrationMediumTest: 
+new Added class 3 : com.googlecode.flyway.core.dbsupport.h2.H2DbSupport: 
+new Added class 4 : com.googlecode.flyway.core.dbsupport.h2.H2MigrationMediumTest: 
+new Added class 5 : com.googlecode.flyway.core.dbsupport.hsql.HsqlDbSupport: 
+new Added class 6 : com.googlecode.flyway.core.dbsupport.hsql.HsqlMigrationMediumTest: 
+new Added class 7 : com.googlecode.flyway.core.dbsupport.mysql.MySQLConcurrentMigrationMediumTest: 
+new Added class 8 : com.googlecode.flyway.core.dbsupport.mysql.MySQLDbSupport: 
+new Added class 9 : com.googlecode.flyway.core.dbsupport.mysql.MySQLMigrationMediumTest: 
+new Added class 10 : com.googlecode.flyway.core.dbsupport.oracle.OracleConcurrentMigrationMediumTest: 
+new Added class 11 : com.googlecode.flyway.core.dbsupport.oracle.OracleDbSupport: 
+new Added class 12 : com.googlecode.flyway.core.dbsupport.oracle.OracleMigrationMediumTest: 
+new Added class 13 : com.googlecode.flyway.core.dbsupport.oracle.OracleSqlScript: 
+new Added class 14 : com.googlecode.flyway.core.dbsupport.oracle.OracleSqlScriptSmallTest: 
+new Added class 15 : com.googlecode.flyway.sample.migration.V1_2__Another_user: 
+testing relationship 
+class 1  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:5  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  4   3 :  0   4 :  0   5 :  1   6 :  0   7 :  0   8 :  5   9 :  0   10 :  6   11 :  2   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

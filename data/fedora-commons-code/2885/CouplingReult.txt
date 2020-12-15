@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : fedora.server.BasicServer: 
+new Added class 1 : fedora.server.search.Condition: 
+new Added class 2 : fedora.server.access.dissemination.DatastreamResolverServlet: 
+new Added class 3 : fedora.server.storage.replication.DbmsConnection: 
+new Added class 4 : fedora.server.storage.DefaultDOManager: 
+new Added class 5 : fedora.server.access.dissemination.DisseminationService: 
+new Added class 6 : fedora.server.storage.translation.DOTranslatorImpl: 
+new Added class 7 : fedora.server.validation.DOValidatorImpl: 
+new Added class 8 : fedora.server.validation.DOValidatorXMLSchema: 
+new Added class 9 : fedora.server.access.FedoraAccessServlet: 
+new Added class 10 : fedora.server.storage.translation.FOXMLDODeserializer: 
+new Added class 11 : fedora.server.storage.translation.FOXMLDOSerializer: 
+new Added class 12 : fedora.server.storage.translation.METSLikeDODeserializer: 
+new Added class 13 : fedora.server.storage.translation.METSLikeDOSerializer: 
+new Added class 14 : fedora.server.ServerController: 
+new Added class 15 : fedora.server.storage.service.ServiceMapper: 
+new Added class 16 : fedora.server.storage.SimpleDOReader: 
+new Added class 17 : fedora.server.utilities.StringUtility: 
+testing relationship 
+class 2  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  2   12 :  0   13 :  4   14 :  0   15 :  0   16 :  0   17 :  0   

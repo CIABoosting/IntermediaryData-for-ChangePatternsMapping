@@ -1,0 +1,15 @@
+ProductState:0.68
+ProductTransition:0.5233333333333333
+LTLBenchmarker:0.4
+AbstractModelCheckingStrategy:0.33
+GraphNodeSizeBoundary:0.23722222222222225
+ModelCheckingScenario:0.17666666666666667
+OptimizedBoundedNestedDFSStrategy:0.16333333333333333
+BoundedNestedDFSStrategy:0.16333333333333333
+RandomNewStateChooser:0.15666666666666668
+ProductStateSet:0.15333333333333332
+CycleAcceptor:0.14333333333333334
+OptimizedBoundedNestedDFSPocketStrategy:0.08
+NestedDFSStrategy:0.07333333333333333
+BoundedNestedDFSPocketStrategy:0.07
+ProductListener:0.03666666666666667

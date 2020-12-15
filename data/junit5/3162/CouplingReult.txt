@@ -1,0 +1,33 @@
+Compared Result of  two versions
+Number of New Class: 15
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.junit.gen5.engine.JavaSourceTests: 
+new Added class 1 : com.example.mockito.MockitoExtensionInBaseClassTest: 
+new Added class 2 : org.junit.gen5.engine.junit5.ParameterResolverTests: 
+new Added class 3 : com.example.SampleTestCase: 
+new Added class 4 : com.example.AbstractSuperTest: 
+new Added class 5 : com.example.InterfaceWithTestCases: 
+new Added class 6 : com.example.SuperInterface: 
+new Added class 7 : org.junit.gen5.engine.junit5.execution.TestExtensionRegistry: 
+new Added class 8 : org.junit.gen5.engine.junit5.execution.TestExtensionRegistryTests: 
+new Added class 9 : org.junit.gen5.engine.junit5.execution.MyExtensionPoint: 
+new Added class 10 : org.junit.gen5.engine.junit5.execution.AnotherExtensionPoint: 
+new Added class 11 : org.junit.gen5.engine.junit5.execution.MyExtension: 
+new Added class 12 : org.junit.gen5.engine.junit5.execution.YourExtension: 
+new Added class 13 : org.junit.gen5.engine.junit5.execution.MultipleExtension: 
+new Added class 14 : org.junit.gen5.engine.junit5.execution.MyExtensionRegistrar: 
+testing relationship 
+class 5  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:14  r9:0  r10:10  r11:4  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:6  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:9  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:5  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  5   3 :  0   4 :  0   5 :  0   6 :  26   7 :  0   8 :  14   9 :  0   10 :  10   11 :  4   12 :  0   13 :  1   14 :  0   15 :  0   16 :  0   17 :  0   

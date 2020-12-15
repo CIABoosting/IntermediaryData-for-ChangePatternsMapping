@@ -1,0 +1,19 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.apache.struts.action2.dispatcher.AbstractServletDispatcherTestCase: 
+new Added class 1 : org.apache.struts.action2.views.jsp.ActionTagTest: 
+new Added class 2 : org.apache.struts.action2.config_browser.ConfigurationHelper: 
+new Added class 3 : org.apache.struts.action2.showcase.action.EmployeeAction: 
+new Added class 4 : org.apache.struts.action2.interceptor.ExecuteAndWaitInterceptorTest: 
+new Added class 5 : org.apache.struts.action2.components.Form: 
+new Added class 6 : org.apache.struts.action2.views.jsp.ui.FormTagTest: 
+new Added class 7 : org.apache.struts.action2.util.ResolverSetupServletContextListener: 
+new Added class 8 : org.apache.struts.action2.spring.lifecycle.SpringExternalReferenceResolverSetupListener: 
+new Added class 9 : org.apache.struts.action2.interceptor.TokenInterceptorTest: 
+new Added class 10 : org.apache.struts.action2.views.jsp.ui.TooltipTest: 
+new Added class 11 : org.apache.struts.action2.components.UIComponentTest: 
+new Added class 12 : org.apache.struts.action2.sitegraph.XWorkConfigRetriever: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,12 @@
+RetryState:0.7
+DefaultRetryState:0.58
+RetryTemplate:0.4633333333333333
+StatefulRecoveryRetryTests:0.23333333333333334
+RetryTemplateTests:0.18666666666666668
+ExternalRetryTests:0.16
+BatchMessageListenerContainerIntegrationTests:0.14666666666666667
+ExternalRetryInBatchTests:0.14666666666666667
+StatefulRetryOperationsInterceptor:0.12666666666666668
+StatefulRetryIntegrationTests:0.12333333333333334
+FatalExceptionRetryPolicyTests:0.10333333333333333
+DefaultRetryStateTests:0.08

@@ -1,0 +1,16 @@
+ParameterConstants:0.35833333333333334
+DataService:0.35
+OutgoingBatch:0.3466666666666667
+ITriggerRouterService:0.31437301587301586
+TriggerRouter:0.30666666666666664
+ProcessInfoKey:0.29333333333333333
+InitialLoadExtractorService:0.29
+IDataService:0.2833333333333333
+TriggerRouterService:0.28
+AbstractSymmetricEngine:0.27666666666666667
+ExtractRequest:0.2733333333333333
+TableConstants:0.19666666666666666
+IInitialLoadExtractorService:0.11
+InitialLoadExtractorSqlMap:0.02666666666666667
+ExtractRequestMapper:0.023333333333333334
+MultiBatchStagingWriter:0.017388888888888888

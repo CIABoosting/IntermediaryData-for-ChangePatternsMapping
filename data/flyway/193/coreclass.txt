@@ -1,0 +1,10 @@
+MigrationTestCase:0.4066666666666667
+MetaDataTableImpl:0.24333333333333335
+PostgreSQLMigrationMediumTest:0.19666666666666666
+MySQLMigrationMediumTest:0.19
+PostgreSQLSuperUserMigrationMediumTest:0.17333333333333334
+ConcurrentMigrationTestCase:0.15
+PostgreSQLDbSupportMediumTest:0.10333333333333333
+MariaDBMigrationMediumTest:0.05
+PostgreSQLConcurrentMigrationMediumTest:0.05
+MySQLConcurrentMigrationMediumTest:0.05

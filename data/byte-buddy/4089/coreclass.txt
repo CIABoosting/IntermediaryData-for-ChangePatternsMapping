@@ -1,0 +1,11 @@
+PrimitiveUnboxingDelegateDirectTest:0.15333333333333332
+PrimitiveUnboxingDelegateWideningTest:0.07
+PrimitiveTypeAwareAssignerBoxingTest:0.07
+PrimitiveTypeAwareAssignerUnboxingTest:0.07
+PrimitiveWideningDelegateTrivialTest:0.07
+PrimitiveWideningDelegateIllegalTest:0.07
+PrimitiveWideningDelegateNontrivialTest:0.07
+PrimitiveBoxingDelegateTest:0.07
+PrimitiveTypeAwareAssignerImplicitUnboxingTest:0.07
+PrimitiveTypeAwareAssignerPrimitiveTest:0.07
+MethodReturnTest:0.07

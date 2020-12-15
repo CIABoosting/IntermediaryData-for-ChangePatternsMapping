@@ -1,0 +1,11 @@
+Connection:0.6233333333333333
+RealConnection:0.41
+NetworkInterceptorChain:0.3461111111111111
+StreamAllocation:0.24666666666666667
+Http1xStream:0.20416666666666666
+ConnectionPool:0.19666666666666666
+InterceptorTest:0.19
+HttpEngine:0.17666666666666667
+HttpURLConnectionImpl:0.17666666666666667
+ConnectionPoolTest:0.14333333333333334
+HttpLoggingInterceptor:0.12666666666666668

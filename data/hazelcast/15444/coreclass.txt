@@ -1,0 +1,16 @@
+RecordStore:0.6333333333333333
+MapDataStore:0.45366666666666666
+DefaultRecordStore:0.42333333333333334
+TxnSetOperation:0.30333333333333334
+EmptyMapDataStore:0.25
+BasePutOperation:0.25
+WriteThroughStore:0.25
+MergeOperation:0.24666666666666667
+EvictOperation:0.23666666666666666
+PutAllOperation:0.20333333333333334
+EvictionHelper:0.19666666666666666
+EvictAllOperation:0.19333333333333333
+AbstractEvictableRecordStore:0.19333333333333333
+EvictAllBackupOperation:0.16966666666666666
+WriteBehindStore:0.16333333333333333
+ClearExpiredOperation:0.16333333333333333

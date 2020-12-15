@@ -1,0 +1,14 @@
+Replica:0.6266666666666667
+ModificationIterator:0.47
+ReplicatedChronicleMap:0.38666666666666666
+VanillaChronicleHash:0.31333333333333335
+ReplicationUpdate:0.24583333333333332
+TcpSocketChannelEntryReader:0.2105952380952381
+TcpReplicator:0.20666666666666667
+ChannelProvider:0.19333333333333333
+UdpReplicator:0.17666666666666667
+UdpSocketChannelEntryReader:0.16333333333333333
+TCPSocketReplicationBootStrapTest:0.15666666666666668
+ReplicatedInput:0.15583333333333332
+EntryExternalizable:0.02666666666666667
+EntryCallback:0.0

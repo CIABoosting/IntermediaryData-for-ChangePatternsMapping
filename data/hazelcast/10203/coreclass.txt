@@ -1,0 +1,10 @@
+ClientInvocationFuture:0.61
+ClientDelegatingFuture:0.42
+HazelcastClientInstanceImpl:0.3433333333333333
+ClientMapProxy:0.2833333333333333
+DelegatingExecutionCallback:0.27222222222222225
+AbstractClientCacheProxy:0.23333333333333334
+ClientExecutorServiceProxy:0.20333333333333334
+CachePutIfAbsentMessageTask:0.19
+AbstractClientInternalCacheProxy:0.17
+ClientCancellableDelegatingFuture:0.09666666666666666

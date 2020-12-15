@@ -1,0 +1,15 @@
+Compared Result of  two versions
+Number of New Class: 9
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.yammer.dropwizard.auth.basic.tests.BasicAuthProviderTest: 
+new Added class 1 : com.yammer.dropwizard.jersey.caching.tests.CacheControlledResourceMethodDispatchAdapterTest: 
+new Added class 2 : com.yammer.dropwizard.jersey.tests.DropwizardResourceConfigTest: 
+new Added class 3 : com.yammer.dropwizard.config.tests.EnvironmentTest: 
+new Added class 4 : com.yammer.dropwizard.auth.oauth.tests.OAuthProviderTest: 
+new Added class 5 : com.yammer.dropwizard.jersey.tests.OptionalQueryParamInjectableProviderTest: 
+new Added class 6 : com.yammer.dropwizard.jersey.tests.OptionalResourceMethodDispatchAdapterTest: 
+new Added class 7 : com.yammer.dropwizard.hibernate.tests.SessionFactoryFactoryTest: 
+new Added class 8 : com.yammer.dropwizard.tasks.tests.TaskServletTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

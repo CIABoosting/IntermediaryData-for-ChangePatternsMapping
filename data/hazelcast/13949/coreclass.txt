@@ -1,0 +1,15 @@
+InternalPartitionService:0.58
+BackupTest:0.45666666666666667
+InternalPartitionServiceImpl:0.44333333333333336
+PartitionReplicaVersions:0.31666666666666665
+ReplicaSyncRetryResponse:0.21333333333333335
+ReplicaSyncResponse:0.21
+MigrationRequestOperation:0.19
+MigrateTask:0.18666666666666668
+SecondsBasedEntryTaskScheduler:0.18
+MigrationOperation:0.17
+LocalPartitionListener:0.135
+SyncReplicaVersionTask:0.11333333333333333
+OperationBackupHandler:0.11333333333333333
+EntryTaskSchedulerFactory:0.02666666666666667
+ReplicaSyncEntryProcessor:0.01

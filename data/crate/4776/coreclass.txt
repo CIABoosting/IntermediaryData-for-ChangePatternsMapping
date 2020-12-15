@@ -1,0 +1,14 @@
+PlannerTest:0.36
+ShardUpsertRequest:0.35
+BulkShardProcessor:0.30333333333333334
+UpsertByIdNode:0.29333333333333333
+Item:0.27
+ShardUpsertResponse:0.25666666666666665
+TransportShardUpsertAction:0.22666666666666666
+AbstractIndexWriterProjector:0.20666666666666667
+UpdateProjection:0.2
+UpsertByIdTask:0.15666666666666668
+BulkShardProcessorTest:0.14
+ColumnIndexWriterProjector:0.09
+IndexWriterProjector:0.08333333333333333
+GetResultFieldExtractorFactory:0.016666666666666666

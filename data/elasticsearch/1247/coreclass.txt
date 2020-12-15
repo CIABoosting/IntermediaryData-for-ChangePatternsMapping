@@ -1,0 +1,17 @@
+NioChannel:0.5566666666666666
+NioSocketChannel:0.5433333333333333
+ChannelFactory:0.5166666666666667
+RawChannelFactory:0.195
+ChannelFactoryTests:0.19
+NioServerSocketChannel:0.17666666666666667
+SocketEventHandlerTests:0.17
+AcceptorEventHandlerTests:0.16
+AbstractNioChannel:0.15666666666666668
+NioSocketChannelTests:0.13333333333333333
+NioTransport:0.11666666666666667
+DoNotCloseServerChannel:0.11333333333333333
+TcpReadContextTests:0.11333333333333333
+TcpReadHandler:0.043333333333333335
+DoNotRegisterChannel:0.01
+DoNotRegisterServerChannel:0.01
+DoNotCloseChannel:0.01

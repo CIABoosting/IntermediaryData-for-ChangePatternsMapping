@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 9
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.github.benmanes.caffeine.jcache.AbstractJCacheTest: 
+new Added class 1 : com.github.benmanes.caffeine.jcache.CacheProxy: 
+new Added class 2 : com.github.benmanes.caffeine.jcache.event.EventTypeFilterTest: 
+new Added class 3 : com.github.benmanes.caffeine.jcache.Expirable: 
+new Added class 4 : com.github.benmanes.caffeine.cache.Expiry: 
+new Added class 5 : com.github.benmanes.caffeine.jcache.expiry.JCacheAccessExpiryTest: 
+new Added class 6 : com.github.benmanes.caffeine.jcache.expiry.JCacheCreationExpiryTest: 
+new Added class 7 : com.github.benmanes.caffeine.jcache.expiry.JCacheUpdateExpiryTest: 
+new Added class 8 : com.github.benmanes.caffeine.cache.TimerWheelTest: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 0  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:4  r17:0  
+class 5  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:12  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  0   3 :  1   4 :  0   5 :  2   6 :  0   7 :  0   8 :  1   9 :  0   10 :  0   11 :  23   12 :  0   13 :  23   14 :  1   15 :  0   16 :  4   17 :  0   

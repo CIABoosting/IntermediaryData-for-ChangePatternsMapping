@@ -1,0 +1,16 @@
+DefaultHttpClientRequest:0.33666666666666667
+JsonObject:0.33
+DefaultHttpServerResponse:0.30333333333333334
+MapEntry:0.2775
+JsonArray:0.2733333333333333
+AssembledFullHttpRequest:0.2725
+ServerHandler:0.2544444444444445
+DefaultHttpClientResponse:0.24666666666666667
+CaseInsensitiveMultiMap:0.23666666666666666
+PartialPooledByteBufAllocator:0.23333333333333334
+DefaultHttpServer:0.225
+DefaultHttpClient:0.21550000000000002
+PooledChannelHandlerContext:0.20333333333333334
+ForceDirectPoooledByteBufAllocator:0.18666666666666668
+VertxExecutorFactory:0.11333333333333333
+JsonElement:0.10555555555555554

@@ -1,0 +1,15 @@
+Cluster:0.7566666666666667
+ReadPreference:0.38666666666666666
+MongoQueryCursor:0.24333333333333335
+ReplicaSetCluster:0.22
+AsyncSession:0.205
+ReplicaSetServerStateListener:0.155
+SingleServerCluster:0.13333333333333333
+MonotonicSession:0.11333333333333333
+Session:0.1125
+AsyncClusterSession:0.1
+SingleServerSession:0.06666666666666667
+ClusterSession:0.06333333333333334
+SingleConnectionSession:0.056666666666666664
+SingleConnectionAsyncSession:0.04
+SingleServerAsyncSession:0.013333333333333334

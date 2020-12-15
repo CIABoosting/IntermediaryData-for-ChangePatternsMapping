@@ -1,0 +1,12 @@
+UserServiceBeanDefinitionParser:0.31666666666666665
+ConfigUtils:0.26666666666666666
+Elements:0.2211111111111111
+JdbcUserServiceBeanDefinitionParser:0.13333333333333333
+SecurityNamespaceHandler:0.12333333333333334
+HttpSecurityBeanDefinitionParserTests:0.09666666666666666
+LdapBeanDefinitionParserTests:0.09
+AuthenticationProviderBeanDefinitionParser:0.08666666666666667
+JdbcUserServiceBeanDefinitionParserTests:0.05
+AbstractUserDetailsServiceBeanDefinitionParser:0.03666666666666667
+SaltSourceBeanDefinitionParser:0.02
+PasswordEncoderParser:0.013333333333333334

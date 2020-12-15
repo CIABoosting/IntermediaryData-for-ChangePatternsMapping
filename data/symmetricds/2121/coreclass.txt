@@ -1,0 +1,16 @@
+IncomingBatch:0.6833333333333333
+OutgoingBatch:0.6
+DataLoaderServiceTest:0.26
+AcknowledgeServiceTest:0.25
+MockTransportManager:0.24666666666666667
+DataExtractorService:0.23666666666666666
+RoutingService:0.23666666666666666
+OutgoingBatchService:0.23
+DataLoaderService:0.23
+PurgeService:0.2
+TransactionalLoadDelegate:0.19666666666666666
+ConfigurationService:0.19
+IncomingBatchService:0.15666666666666668
+AcknowledgeService:0.15
+OutgoingBatchMapper:0.13333333333333333
+IncomingBatchMapper:0.13333333333333333

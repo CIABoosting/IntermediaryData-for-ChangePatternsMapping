@@ -1,0 +1,12 @@
+NeuralNetwork:0.65
+MatrixUtil:0.4766666666666667
+AdaGrad:0.45666666666666667
+BaseMultiLayerNetwork:0.39
+BaseNeuralNetwork:0.26666666666666666
+DataSet:0.23333333333333334
+NeuralNetworkOptimizer:0.23
+DenoisingAutoEncoder:0.2
+Activations:0.12
+GaussianRectifiedLinearRBM:0.08333333333333333
+RawMnistRBMExample:0.02666666666666667
+AdaGradTest:0.01

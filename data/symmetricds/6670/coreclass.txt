@@ -1,0 +1,11 @@
+SqlScript:0.56
+OracleDdlBuilder:0.27666666666666667
+AbstractDatabasePlatform:0.27
+InterbaseDdlBuilder:0.24666666666666667
+PostgreSqlDdlBuilder:0.24666666666666667
+FirebirdDdlBuilder:0.24666666666666667
+JdbcSqlTemplate:0.24333333333333335
+ISqlTemplate:0.2302777777777778
+AbstractDdlBuilder:0.22
+AbstractSymmetricDialect:0.21666666666666667
+ISqlResultsListener:0.10666666666666667

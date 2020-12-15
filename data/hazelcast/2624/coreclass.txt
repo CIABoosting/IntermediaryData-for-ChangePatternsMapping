@@ -1,0 +1,15 @@
+NearCacheConfig:0.49666666666666665
+NearCacheLiteMemberTest:0.30333333333333334
+ClientNearCacheTestSupport:0.2966666666666667
+XmlClientConfigBuilderTest:0.24
+DefaultNearCache:0.23
+MapNearCacheInvalidationFromClientTest:0.21166666666666667
+ClientNearCacheInvalidationTest:0.18
+NearCacheTestContext:0.15666666666666668
+ClientMapRecordStateStressTest:0.13
+Remove:0.06
+Put:0.06
+NearCacheStatsStressTest:0.056666666666666664
+GetAll:0.05333333333333334
+Clear:0.043333333333333335
+Get:0.043333333333333335

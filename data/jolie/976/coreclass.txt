@@ -1,0 +1,16 @@
+Interpreter:0.5
+JolieClassLoader:0.31333333333333335
+SessionThread:0.2733333333333333
+SpawnedThread:0.25666666666666665
+CorrelatedProcess:0.18
+CommandLineParser:0.15666666666666668
+JolieAdapterProtocol:0.15
+OutputPort:0.13777777777777775
+SessionListener:0.13333333333333333
+JolieServiceLoader:0.12666666666666668
+EmbeddedServiceLoader:0.12
+SpawnExecution:0.11
+JolieAdapterProtocolFactory:0.08005555555555555
+JavaScriptServiceLoader:0.04666666666666667
+JavaServiceLoader:0.02666666666666667
+EmptyPathLazyHolder:0.023888888888888887

@@ -1,0 +1,10 @@
+Conf:0.64
+WorkerActor:0.2966666666666667
+NeuralNetConfiguration:0.2866666666666667
+MasterActor:0.24166666666666672
+ActorNetworkRunner:0.23111111111111116
+ActorNetworkRunnerApp:0.21333333333333335
+DeepAutoEncoderDistributedTrainer:0.21333333333333335
+DistributedDeepLearningTrainerApp:0.21333333333333335
+ActorNetworkRunnerTest:0.19
+BaseHazelCastStateTracker:0.16

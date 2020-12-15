@@ -1,0 +1,17 @@
+ClusterConnectionManager:0.42333333333333334
+RedisClient:0.33
+MasterSlaveServersConfig:0.32666666666666666
+ClusterNodeInfo:0.29333333333333333
+MasterSlaveEntry:0.24666666666666667
+ClusterPartition:0.21666666666666667
+MasterSlaveConnectionManager:0.20333333333333334
+SingleServerConfig:0.19
+SentinelConnectionManager:0.19
+ConfigSupport:0.18666666666666668
+RedissonTest:0.18
+WeightedRoundRobinBalancer:0.14333333333333334
+ElasticacheServersConfig:0.12666666666666668
+SentinelServersConfig:0.12666666666666668
+ClusterServersConfig:0.11666666666666667
+ElasticacheConnectionManager:0.11
+ClusterNodesDecoderTest:0.03

@@ -1,0 +1,12 @@
+SystemTestBase:0.46
+MasterMain:0.36
+MasterService:0.27666666666666667
+ZooKeeperMasterModel:0.25333333333333335
+HostResolver:0.21333333333333335
+TemporaryJob:0.19666666666666666
+TempJobFailureTest:0.16413167388167385
+HostDeregisterCommand:0.09333333333333334
+MockCuratorClientFactory:0.08390608465608466
+DeregisterTest:0.07333333333333333
+TemporaryJobsTest:0.023333333333333334
+MasterRespondsWithNoZKTest:0.02

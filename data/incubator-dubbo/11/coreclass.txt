@@ -1,0 +1,12 @@
+JavaBeanDescriptor:0.56
+ThriftCodec:0.31
+ExecutorUtil:0.19
+HeartbeatHandler:0.18333333333333332
+MergeableClusterInvoker:0.15333333333333332
+RpcContextFilter:0.11333333333333333
+GenericImplFilter:0.1
+TpsLimitFilter:0.09333333333333334
+MultiServiceProcessor:0.09333333333333334
+HelloServiceImpl:0.09333333333333334
+ArrayMerger:0.09333333333333334
+GenericFilter:0.07666666666666666

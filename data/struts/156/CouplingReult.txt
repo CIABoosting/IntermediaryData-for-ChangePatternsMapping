@@ -1,0 +1,30 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.opensymphony.xwork2.ActionInvocation: 
+new Added class 1 : com.opensymphony.xwork2.DefaultActionInvocation: 
+new Added class 2 : com.opensymphony.xwork2.DefaultActionInvocationTest: 
+new Added class 3 : com.opensymphony.xwork2.DefaultActionInvocationTester: 
+new Added class 4 : org.apache.struts2.validators.DWRValidator: 
+new Added class 5 : org.apache.struts2.util.InvocationSessionStore: 
+new Added class 6 : org.apache.struts2.util.InvocationSessionStoreTest: 
+new Added class 7 : org.apache.struts2.json.JSONInterceptorTest: 
+new Added class 8 : org.apache.struts2.json.MockActionInvocationEx: 
+new Added class 9 : com.opensymphony.xwork2.mock.MockActionInvocation: 
+new Added class 10 : org.apache.struts2.sitemesh.OldDecorator2NewStrutsDecorator: 
+new Added class 11 : org.apache.struts2.rest.RestActionInvocation: 
+new Added class 12 : com.opensymphony.xwork2.spring.interceptor.TestActionInvocation: 
+testing relationship 
+class 1  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:29  r12:0  r13:9  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:-1  r15:0  r16:1  r17:0  
+class 6  vs  class 0£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:42  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:2  r17:0  
+class 11  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  3   3 :  3   4 :  0   5 :  7   6 :  1   7 :  0   8 :  47   9 :  0   10 :  0   11 :  29   12 :  0   13 :  9   14 :  -1   15 :  0   16 :  3   17 :  0   

@@ -1,0 +1,17 @@
+SearchRequestBuilder:0.52
+RestActions:0.36
+TemplateQueryIT:0.31666666666666665
+SearchQueryIT:0.30666666666666664
+DecayFunctionScoreIT:0.30666666666666664
+GeoShapeIntegrationIT:0.25
+GeoFilterIT:0.24666666666666667
+HighlighterSearchIT:0.22666666666666666
+ContextAndHeaderTransportIT:0.20333333333333334
+SimpleQueryStringIT:0.20333333333333334
+RestSearchAction:0.18666666666666668
+RestExistsAction:0.17622222222222222
+SearchRequestBuilderTests:0.14333333333333334
+SearchTimeoutIT:0.11333333333333333
+RestValidateQueryAction:0.08
+RestCountAction:0.08
+RestDeleteByQueryAction:0.08

@@ -1,0 +1,12 @@
+MapService:0.39
+PartitionContainer:0.33066666666666666
+TransactionLog:0.29333333333333333
+MapProxySupport:0.29
+MapTxnBackupRollbackOperation:0.26777777777777784
+CommitOperation:0.2633333333333333
+MapTxnBackupPrepareOperation:0.255
+SocketPacketReader:0.19666666666666666
+GetOperation:0.16
+TransactionImpl:0.12333333333333334
+RollbackOperation:0.11
+PrepareOperation:0.11

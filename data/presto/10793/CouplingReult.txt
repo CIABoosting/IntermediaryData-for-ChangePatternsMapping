@@ -1,0 +1,23 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.facebook.presto.operator.aggregation.AbstractTestAggregationFunction: 
+new Added class 1 : com.facebook.presto.AbstractTestQueries: 
+new Added class 2 : com.facebook.presto.block.BlockAssertions: 
+new Added class 3 : com.facebook.presto.block.BlockCursorAssertions: 
+new Added class 4 : com.facebook.presto.operator.aggregation.CustomSum: 
+new Added class 5 : com.facebook.presto.hive.MockHiveMetastoreClient: 
+new Added class 6 : com.facebook.presto.hive.util.TestAsyncRecursiveWalker: 
+new Added class 7 : com.facebook.presto.cassandra.TestCachingCassandraSchemaProvider: 
+new Added class 8 : com.facebook.presto.cassandra.TestCassandraColumnHandle: 
+new Added class 9 : com.facebook.presto.cassandra.TestCassandraConnector: 
+new Added class 10 : com.facebook.presto.cassandra.TestCassandraSplit: 
+new Added class 11 : com.facebook.presto.jdbc.TestDriver: 
+new Added class 12 : com.facebook.presto.example.TestExampleMetadata: 
+new Added class 13 : com.facebook.presto.example.TestExampleRecordSet: 
+new Added class 14 : com.facebook.presto.sql.TestExpressionInterpreter: 
+new Added class 15 : com.datastax.driver.core.TestHost: 
+new Added class 16 : com.facebook.presto.execution.TestSharedBuffer: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

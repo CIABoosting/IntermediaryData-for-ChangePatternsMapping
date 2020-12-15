@@ -1,0 +1,29 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.weasis.dicom.codec.DicomEncapDocElement: 
+new Added class 1 : org.weasis.dicom.explorer.DicomExplorer: 
+new Added class 2 : org.weasis.dicom.viewer2d.DicomFieldsView: 
+new Added class 3 : org.weasis.dicom.explorer.DicomModel: 
+new Added class 4 : org.weasis.base.explorer.JIThumbnailList: 
+new Added class 5 : org.weasis.core.api.gui.util.JMVUtils: 
+new Added class 6 : org.weasis.dicom.explorer.LoadLocalDicom: 
+new Added class 7 : org.weasis.dicom.explorer.wado.LoadSeries: 
+new Added class 8 : org.weasis.core.api.media.MimeInspector: 
+new Added class 9 : org.weasis.dicom.explorer.MimeSystemOpenFactory: 
+new Added class 10 : org.weasis.core.api.media.data.Thumbnail: 
+new Added class 11 : org.weasis.dicom.viewer2d.View2d: 
+new Added class 12 : org.weasis.base.ui.gui.WeasisAboutBox: 
+new Added class 13 : org.weasis.base.ui.gui.WeasisWin: 
+testing relationship 
+class 1  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:8  r9:0  r10:20  r11:0  r12:0  r13:0  r14:3  r15:0  r16:10  r17:0  
+class 1  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 3£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:10  r9:0  r10:8  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 10£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:9  r9:0  r10:6  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 7  vs  class 10£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  6   4 :  2   5 :  1   6 :  2   7 :  0   8 :  27   9 :  0   10 :  34   11 :  27   12 :  0   13 :  5   14 :  8   15 :  0   16 :  10   17 :  0   

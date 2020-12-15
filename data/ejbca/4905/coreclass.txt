@@ -1,0 +1,11 @@
+CertificateExpirationNotifierWorkerType:0.51
+CertificateExpirationNotifierWorker:0.36666666666666664
+ServiceConfiguration:0.2966666666666667
+EditServiceManagedBean:0.2866666666666667
+MailActionType:0.28555555555555556
+PeriodicalIntervalType:0.2733333333333333
+UserPasswordExpireWorker:0.2
+BaseWorker:0.08666666666666667
+EmailSendingWorker:0.07666666666666666
+TestUserPasswordExpire:0.05333333333333334
+UserPasswordExpireWorkerType:0.0

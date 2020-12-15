@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 11
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.gargoylesoftware.htmlunit.BigContentPageTest: 
+new Added class 1 : com.gargoylesoftware.htmlunit.CacheTest: 
+new Added class 2 : com.gargoylesoftware.htmlunit.DummyWebResponse: 
+new Added class 3 : com.gargoylesoftware.htmlunit.DefaultPageCreator: 
+new Added class 4 : com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocumentTest: 
+new Added class 5 : com.gargoylesoftware.htmlunit.WebClientTest: 
+new Added class 6 : com.gargoylesoftware.htmlunit.WebResponse: 
+new Added class 7 : com.gargoylesoftware.htmlunit.WebResponseData: 
+new Added class 8 : com.gargoylesoftware.htmlunit.WebResponseImpl: 
+new Added class 9 : com.gargoylesoftware.htmlunit.util.WebResponseWrapper: 
+new Added class 10 : com.gargoylesoftware.htmlunit.javascript.host.xml.XMLHttpRequest: 
+testing relationship 
+class 1  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:16  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:14  r15:0  r16:2  r17:0  
+class 5  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:17  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:8  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 9  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:13  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 10  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:10  r9:0  r10:7  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  3   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  12   9 :  0   10 :  28   11 :  37   12 :  0   13 :  0   14 :  18   15 :  0   16 :  2   17 :  0   

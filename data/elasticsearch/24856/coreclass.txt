@@ -1,0 +1,17 @@
+PercolateAction:0.5415714285714286
+PercolateRequest:0.49
+Count:0.4166666666666667
+RestPercolateAction:0.31
+PercolateResponse:0.29333333333333333
+TransportPercolateAction:0.22333333333333333
+PercolateRequestBuilder:0.21
+PercolateContext:0.2063968253968254
+PercolateShardRequest:0.2
+PercolateShardResponse:0.2
+Match:0.17333333333333334
+QueryCollector:0.15
+RestPercolateExistingDocHandler:0.1375
+RestCountPercolateExistingDocHandler:0.11666666666666667
+RestCountPercolateDocHandler:0.11666666666666667
+SimplePercolatorTests:0.10333333333333333
+PercolatorService:0.06333333333333334

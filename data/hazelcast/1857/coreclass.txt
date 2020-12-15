@@ -1,0 +1,10 @@
+AbstractCacheRecordStore:0.43333333333333335
+EvictionPolicyEvaluator:0.3233333333333333
+SamplingEvictionStrategy:0.22333333333333333
+EvictionPolicyEvaluatorTest:0.19
+EvictionStrategyTest:0.16666666666666666
+CacheRecordHashMap:0.14666666666666667
+EvictionOperator:0.14333333333333334
+QueryCacheRecordHashMap:0.14
+HeapNearCacheRecordMap:0.07666666666666666
+EvictableStore:0.07666666666666666

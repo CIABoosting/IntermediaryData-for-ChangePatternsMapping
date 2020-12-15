@@ -1,0 +1,15 @@
+Compared Result of  two versions
+Number of New Class: 7
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.ejbca.ui.cli.admins.AdminsAddAdminCommand: 
+new Added class 1 : org.ejbca.ui.cli.admins.AdminsListAdminsCommand: 
+new Added class 2 : org.ejbca.ui.web.pub.ApplyBean: 
+new Added class 3 : org.ejbca.core.model.approval.Approval: 
+new Added class 4 : org.ejbca.core.model.approval.approvalrequests.ApprovalEnforcedByCertificateProfileTest: 
+new Added class 5 : org.ejbca.core.model.UpgradeableDataHashMap: 
+new Added class 6 : org.ejbca.core.model.ca.caadmin.X509CAInfo: 
+testing relationship 
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:8  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 6£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  1   4 :  0   5 :  0   6 :  0   7 :  8   8 :  0   9 :  0   10 :  0   11 :  6   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

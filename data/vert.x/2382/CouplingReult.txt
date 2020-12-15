@@ -1,0 +1,27 @@
+Compared Result of  two versions
+Number of New Class: 11
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.vertx.core.datagram.impl.DatagramSocketImpl: 
+new Added class 1 : io.vertx.core.spi.metrics.DatagramSocketMetrics: 
+new Added class 2 : io.vertx.core.http.impl.HttpClientImpl: 
+new Added class 3 : io.vertx.core.spi.metrics.HttpClientMetrics: 
+new Added class 4 : io.vertx.core.http.impl.HttpServerImpl: 
+new Added class 5 : io.vertx.core.spi.metrics.HttpServerMetrics: 
+new Added class 6 : io.vertx.core.spi.metrics.Metrics: 
+new Added class 7 : io.vertx.core.net.impl.NetClientImpl: 
+new Added class 8 : io.vertx.core.net.impl.NetServerImpl: 
+new Added class 9 : io.vertx.core.spi.metrics.TCPMetrics: 
+new Added class 10 : io.vertx.core.spi.metrics.VertxMetrics: 
+testing relationship 
+class 0  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  3   3 :  0   4 :  0   5 :  5   6 :  0   7 :  0   8 :  10   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

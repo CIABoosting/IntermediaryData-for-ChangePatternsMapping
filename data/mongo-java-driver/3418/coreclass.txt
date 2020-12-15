@@ -1,0 +1,13 @@
+Insert:0.5
+DBCollection:0.4633333333333333
+MongoCollectionStream:0.34
+CollectionAdministrationImpl:0.13666666666666666
+MongoAsyncBatchInsertTest:0.13333333333333333
+MaxMessageSizeTest:0.12333333333333334
+BaseUpdate:0.11666666666666667
+MaxDocumentSizeTest:0.10333333333333333
+PinnedSessionTest:0.056666666666666664
+MongoBatchInsertTest:0.05
+Update:0.05
+Replace:0.03666666666666667
+Remove:0.03666666666666667

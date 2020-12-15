@@ -1,0 +1,5 @@
+NettyClientHandler:0.36
+BufferingHttp2ConnectionEncoder:0.29
+NettyClientHandlerTest:0.28
+BufferingHttp2ConnectionEncoderTest:0.2633333333333333
+GoAwayClosedStreamException:0.26

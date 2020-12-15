@@ -1,0 +1,141 @@
+Compared Result of  two versions
+Number of New Class: 74
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.mars_sim.msp.core.interplanetary.transport.settlement.ArrivingSettlementimplements: 
+new Added class 1 : org.mars_sim.msp.core.person.ai.task.meta.AssistScientificStudyResearcherMeta: 
+new Added class 2 : org.mars_sim.msp.core.structure.building.BuildingManager: 
+new Added class 3 : org.mars_sim.msp.core.person.ai.task.meta.CompileScientificStudyResultsMeta: 
+new Added class 4 : org.mars_sim.msp.core.person.ai.task.ConnectWithEarthextends: 
+new Added class 5 : org.mars_sim.msp.core.person.ai.task.meta.ConnectWithEarthMeta: 
+new Added class 6 : org.mars_sim.msp.core.person.ai.task.meta.ConsolidateContainersMeta: 
+new Added class 7 : org.mars_sim.msp.core.person.ai.task.meta.ConstructBuildingMeta: 
+new Added class 8 : org.mars_sim.msp.core.person.ai.task.CookMealextends: 
+new Added class 9 : org.mars_sim.msp.core.person.ai.task.meta.CookMealMeta: 
+new Added class 10 : org.mars_sim.msp.core.robot.ai.job.Deliverybotextends: 
+new Added class 11 : org.mars_sim.msp.core.person.ai.task.meta.DigLocalIceMeta: 
+new Added class 12 : org.mars_sim.msp.core.person.ai.task.meta.DigLocalRegolithMeta: 
+new Added class 13 : org.mars_sim.msp.core.person.ai.task.meta.EatMealMeta: 
+new Added class 14 : org.mars_sim.msp.core.person.ai.task.meta.HaveConversationMeta: 
+new Added class 15 : org.mars_sim.msp.core.person.ai.task.meta.ListenToMusicMeta: 
+new Added class 16 : org.mars_sim.msp.core.person.ai.task.meta.LoadVehicleEVAMeta: 
+new Added class 17 : org.mars_sim.msp.core.person.ai.task.meta.LoadVehicleGarageMeta: 
+new Added class 18 : org.mars_sim.msp.core.person.ai.task.meta.MaintainGroundVehicleEVAMeta: 
+new Added class 19 : org.mars_sim.msp.core.person.ai.task.meta.MaintainGroundVehicleGarageMeta: 
+new Added class 20 : org.mars_sim.msp.core.person.ai.task.meta.MaintenanceEVAMeta: 
+new Added class 21 : org.mars_sim.msp.core.person.ai.task.meta.MaintenanceMeta: 
+new Added class 22 : org.mars_sim.msp.core.person.ai.task.meta.ManufactureConstructionMaterialsMeta: 
+new Added class 23 : org.mars_sim.msp.core.person.ai.task.ManufactureGoodextends: 
+new Added class 24 : org.mars_sim.msp.core.person.ai.task.meta.ManufactureGoodMeta: 
+new Added class 25 : org.mars_sim.msp.core.robot.ai.job.Medicbotextends: 
+new Added class 26 : org.mars_sim.msp.core.person.ai.task.meta.ObserveAstronomicalObjectsMeta: 
+new Added class 27 : org.mars_sim.msp.core.person.ai.task.meta.PeerReviewStudyPaperMeta: 
+new Added class 28 : org.mars_sim.msp.core.person.ai.task.meta.PerformLaboratoryExperimentMeta: 
+new Added class 29 : org.mars_sim.msp.core.person.ai.task.meta.PerformLaboratoryResearchMeta: 
+new Added class 30 : org.mars_sim.msp.core.person.ai.task.meta.PerformMathematicalModelingMeta: 
+new Added class 31 : org.mars_sim.msp.core.person.Personextends: 
+new Added class 32 : org.mars_sim.msp.core.person.ai.task.meta.PlayHoloGameMeta: 
+new Added class 33 : org.mars_sim.msp.core.person.Preference: 
+new Added class 34 : org.mars_sim.msp.core.person.ai.task.PrepareDessertextends: 
+new Added class 35 : org.mars_sim.msp.core.person.ai.task.meta.PrepareDessertMeta: 
+new Added class 36 : org.mars_sim.msp.core.person.ai.task.meta.PrescribeMedicationMeta: 
+new Added class 37 : org.mars_sim.msp.core.person.ai.task.ProduceFoodextends: 
+new Added class 38 : org.mars_sim.msp.core.person.ai.task.meta.ProduceFoodMeta: 
+new Added class 39 : org.mars_sim.msp.core.person.ai.task.meta.ProposeScientificStudyMeta: 
+new Added class 40 : org.mars_sim.msp.core.person.ai.task.meta.ReadMeta: 
+new Added class 41 : org.mars_sim.msp.core.person.ai.task.meta.RelaxMeta: 
+new Added class 42 : org.mars_sim.msp.core.robot.ai.job.Repairbotextends: 
+new Added class 43 : org.mars_sim.msp.core.person.ai.task.meta.RepairEVAMalfunctionMeta: 
+new Added class 44 : org.mars_sim.msp.core.person.ai.task.meta.RepairMalfunctionMeta: 
+new Added class 45 : org.mars_sim.msp.core.person.ai.task.meta.RequestMedicalTreatmentMeta: 
+new Added class 46 : org.mars_sim.msp.core.person.ai.task.meta.RespondToStudyInvitationMeta: 
+new Added class 47 : org.mars_sim.msp.core.person.ai.task.meta.RestingMedicalRecoveryMeta: 
+new Added class 48 : org.mars_sim.msp.core.person.ai.task.meta.ReturnLightUtilityVehicleMeta: 
+new Added class 49 : org.mars_sim.msp.core.person.ai.task.meta.ReviewJobReassignmentMeta: 
+new Added class 50 : org.mars_sim.msp.core.robot.Robotextends: 
+new Added class 51 : org.mars_sim.msp.core.structure.building.function.RoboticStation: 
+new Added class 52 : org.mars_sim.msp.core.person.ai.task.meta.SalvageBuildingMeta: 
+new Added class 53 : org.mars_sim.msp.core.person.ai.task.meta.SalvageGoodMeta: 
+new Added class 54 : org.mars_sim.msp.core.person.ai.task.meta.SelfTreatHealthProblemMeta: 
+new Added class 55 : org.mars_sim.msp.ui.swing.tool.settlement.SettlementWindowextends: 
+new Added class 56 : org.mars_sim.msp.core.person.ai.task.Sleep: 
+new Added class 57 : org.mars_sim.msp.core.person.ai.task.meta.SleepMeta: 
+new Added class 58 : org.mars_sim.msp.core.person.ai.task.meta.StudyFieldSamplesMeta: 
+new Added class 59 : org.mars_sim.msp.core.person.ai.task.meta.TeachMeta: 
+new Added class 60 : org.mars_sim.msp.core.person.ai.task.TendGreenhouseextends: 
+new Added class 61 : org.mars_sim.msp.core.person.ai.task.meta.TendGreenhouseMeta: 
+new Added class 62 : org.mars_sim.msp.core.person.ai.task.meta.ToggleFuelPowerSourceMeta: 
+new Added class 63 : org.mars_sim.msp.core.person.ai.task.meta.ToggleResourceProcessMeta: 
+new Added class 64 : org.mars_sim.msp.core.person.ai.task.meta.TreatMedicalPatientMeta: 
+new Added class 65 : org.mars_sim.msp.core.UnitManager: 
+new Added class 66 : org.mars_sim.msp.core.person.ai.task.meta.UnloadVehicleEVAMeta: 
+new Added class 67 : org.mars_sim.msp.core.person.ai.task.meta.UnloadVehicleGarageMeta: 
+new Added class 68 : org.mars_sim.msp.core.person.ai.task.meta.WalkMeta: 
+new Added class 69 : org.mars_sim.msp.core.person.ai.task.WalkSettlementInteriorextends: 
+new Added class 70 : org.mars_sim.msp.core.person.ai.task.meta.WorkoutMeta: 
+new Added class 71 : org.mars_sim.msp.core.person.ai.task.WriteReportextends: 
+new Added class 72 : org.mars_sim.msp.core.person.ai.task.meta.WriteReportMeta: 
+new Added class 73 : org.mars_sim.msp.core.person.ai.task.meta.YogaMeta: 
+testing relationship 
+class 0  vs  class 65£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:13  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 51£º  r0:0  r1:0  r2:0  r3:7  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:10  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 28£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 38£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 39£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 41£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 45£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 49£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 52£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 56£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 57£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 61£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 64£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 66£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 67£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 70£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 72£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 73£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 50  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 50  vs  class 51£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 51£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:6  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 71  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  11   4 :  60   5 :  1   6 :  0   7 :  0   8 :  4   9 :  0   10 :  7   11 :  29   12 :  0   13 :  56   14 :  0   15 :  0   16 :  0   17 :  0   

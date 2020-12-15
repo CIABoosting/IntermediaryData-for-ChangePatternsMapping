@@ -1,0 +1,13 @@
+CollectionResponse:0.59
+GetAllOperation:0.31666666666666665
+RemoveAllOperation:0.30111111111111116
+TransactionalMultiMapProxySupport:0.29333333333333333
+TransactionalMultiMapProxy:0.24666666666666667
+MultiMapProxySupport:0.23333333333333334
+ValuesOperation:0.14666666666666667
+TxnPutOperation:0.1
+MultiMapTransactionLog:0.095
+TxnRemoveBackupOperation:0.07333333333333333
+TxnRemoveOperation:0.043333333333333335
+TxnLockAndGetOperation:0.043333333333333335
+TxnMultiMapTest:0.0

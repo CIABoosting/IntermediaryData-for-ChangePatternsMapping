@@ -1,0 +1,13 @@
+JtaTransaction:0.41
+AbstractTransactionImpl:0.32666666666666666
+HibernateLogger:0.32666666666666666
+JdbcTransaction:0.32
+JtaIsolationDelegate:0.31
+JdbcIsolationDelegate:0.2833333333333333
+JdbcCoordinatorImpl:0.24333333333333335
+AtomikosJtaPlatform:0.19666666666666666
+WebSphereJtaPlatform:0.19666666666666666
+RegisteredSynchronization:0.17
+LobCreatorBuilder:0.16
+JtaPlatformInitiator:0.11666666666666667
+TransactionFactoryInitiator:0.09333333333333334

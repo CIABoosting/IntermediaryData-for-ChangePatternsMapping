@@ -1,0 +1,15 @@
+Connection:0.78
+DefaultConnection:0.30666666666666664
+AuthenticatingConnection:0.2966666666666667
+TestConnection:0.215
+DefaultSocketConnection:0.21
+AuthenticatingConnectionTest:0.20666666666666667
+UsageTrackingConnection:0.18666666666666668
+DefaultServerConnection:0.18666666666666668
+DelayedCloseConnection:0.18333333333333332
+ConnectingServerConnection:0.16744444444444442
+IsMasterServerStateNotifier:0.15333333333333332
+DefaultSocketChannelConnection:0.15333333333333332
+PooledConnection:0.14666666666666667
+DefaultConnectionProvider:0.10666666666666667
+PlainAuthenticatorTest:0.09333333333333334

@@ -1,0 +1,12 @@
+AbstractXomPayloadEndpoint:0.52
+AbstractSaxPayloadEndpoint:0.22666666666666666
+AbstractDom4jPayloadEndpoint:0.22666666666666666
+AbstractJDomPayloadEndpoint:0.22666666666666666
+AbstractDomPayloadEndpoint:0.22444444444444447
+AbstractPayloadEndpointTestCase:0.18
+NonReflectiveXomPayloadEndpointTest:0.07
+SaxPayloadEndpointTest:0.04
+ReflectiveXomPayloadEndpointTest:0.04
+Dom4jPayloadEndpointTest:0.04
+DomPayloadEndpointTest:0.04
+JDomPayloadEndpointTest:0.04

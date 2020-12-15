@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.index.shard.IndexShardTestCase: 
+new Added class 1 : org.elasticsearch.indices.recovery.PeerRecoverySourceService: 
+new Added class 2 : org.elasticsearch.indices.recovery.PeerRecoveryTargetService: 
+new Added class 3 : org.elasticsearch.indices.recovery.RecoverySourceHandler: 
+new Added class 4 : org.elasticsearch.indices.recovery.RecoverySourceHandlerTests: 
+new Added class 5 : org.elasticsearch.indices.recovery.RecoveryTarget: 
+new Added class 6 : org.elasticsearch.indices.recovery.RecoveryTargetHandler: 
+new Added class 7 : org.elasticsearch.indices.recovery.RemoteRecoveryTargetHandler: 
+new Added class 8 : org.elasticsearch.indices.recovery.StartRecoveryRequest: 
+new Added class 9 : org.elasticsearch.indices.recovery.StartRecoveryRequestTests: 
+testing relationship 
+class 1  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:6  r15:2  r16:7  r17:0  
+class 2  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:7  r15:2  r16:4  r17:0  
+class 2  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 3  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:4  r10:5  r11:0  r12:0  r13:0  r14:3  r15:1  r16:1  r17:0  
+class 5  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:10  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  0   4 :  0   5 :  1   6 :  0   7 :  0   8 :  2   9 :  4   10 :  5   11 :  9   12 :  0   13 :  12   14 :  17   15 :  5   16 :  12   17 :  0   

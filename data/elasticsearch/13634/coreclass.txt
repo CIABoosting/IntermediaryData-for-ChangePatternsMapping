@@ -1,0 +1,17 @@
+ElasticsearchException:0.6233333333333333
+Analysis:0.24333333333333335
+ExceptionsHelper:0.23666666666666666
+TypeConverterBindingProcessor:0.22
+ResponseHandlerFailureTransportException:0.19
+LeafIndexLookup:0.18666666666666668
+PlainTransportFuture:0.16
+ElasticsearchTimeoutException:0.13666666666666666
+ParentChildIndexFieldData:0.13333333333333333
+AbstractIndexFieldData:0.12
+AbstractIndexOrdinalsFieldData:0.12
+SortedSetDVOrdinalsIndexFieldData:0.12
+TribeService:0.11
+HyphenationCompoundWordTokenFilterFactory:0.11
+ElasticsearchCorruptionException:0.11
+AdapterActionFuture:0.10333333333333333
+TransportException:0.0911111111111111

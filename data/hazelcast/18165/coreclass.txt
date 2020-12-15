@@ -1,0 +1,16 @@
+LockDataSerializerHook:0.3604444444444444
+LockOperation:0.28
+BaseLockOperation:0.25333333333333335
+SignalOperation:0.20666666666666667
+UnlockOperation:0.2
+AwaitOperation:0.19
+BeforeAwaitOperation:0.19
+BeforeAwaitBackupOperation:0.15666666666666668
+LockBackupOperation:0.15666666666666668
+UnlockBackupOperation:0.15666666666666668
+LockReplicationOperation:0.12666666666666668
+AwaitBackupOperation:0.12666666666666668
+IsLockedOperation:0.10666666666666667
+SignalBackupOperation:0.07666666666666666
+GetLockCountOperation:0.05
+GetRemainingLeaseTimeOperation:0.05

@@ -1,0 +1,9 @@
+ServiceRegistryProperties:0.43666666666666665
+BaseMongoDbProperties:0.25333333333333335
+SamlIdPProperties:0.23333333333333334
+MongoDbServiceRegistryConfiguration:0.18333333333333332
+BaseSamlRegisteredServiceMetadataResolver:0.18
+MongoDbConnections:0.15666666666666668
+UrlResourceMetadataResolver:0.14
+DynamicMetadataResolver:0.14
+SamlRegisteredServiceMetadataResolverCacheLoader:0.013333333333333334

@@ -1,0 +1,14 @@
+TestSemPredEvalParser:0.6366666666666667
+TestParserExec:0.6366666666666667
+TestTokenStreamRewriter:0.5566666666666666
+TestSets:0.37666666666666665
+Generator:0.36
+TestLexerErrors:0.33666666666666667
+TestPerformance:0.3
+ParserTestMethod:0.13581349206349208
+LexerTestMethod:0.13365079365079366
+TestSemPredEvalLexer:0.13
+TestLexerExec:0.07666666666666666
+TestCompositeLexers:0.025833333333333333
+ConcreteParserTestMethod:0.006666666666666667
+AbstractParserTestMethod:0.0

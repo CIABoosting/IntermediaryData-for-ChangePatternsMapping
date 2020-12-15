@@ -1,0 +1,13 @@
+WriteHandler:0.57
+Connection:0.53
+ReadHandler:0.4503333333333333
+TcpIpConnection_BasicTest:0.2966666666666667
+MockedClientConnection:0.23666666666666666
+DroppingConnection:0.23666666666666666
+TcpIpConnection:0.21
+ClientConnection:0.21
+MockConnection:0.19666666666666666
+HeartBeat:0.17
+NonBlockingWriteHandler:0.14777777777777779
+NonBlockingReadHandler:0.14666666666666667
+ClientHeartbeatMonitor:0.11

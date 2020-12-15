@@ -1,0 +1,11 @@
+HazelcastClient:0.35
+CollectionPortableHook:0.30666666666666664
+RemoveOperation:0.2619444444444445
+RemoveAllRequest:0.24666666666666667
+GetAllRequest:0.24
+ValuesRequest:0.23666666666666666
+KeySetRequest:0.23666666666666666
+CollectionBinaryClientTest:0.22333333333333333
+ObjectListProxy:0.21444444444444447
+ProxyManager:0.195
+MultiMapProxySupport:0.19

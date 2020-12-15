@@ -1,0 +1,13 @@
+PooledConnection:0.38333333333333336
+DefaultServerMonitor:0.22333333333333333
+GetMoreProtocol:0.22
+UpdateProtocol:0.22
+DeleteProtocol:0.22
+DeleteCommandProtocol:0.22
+InsertCommandProtocol:0.22
+UpdateCommandProtocol:0.22
+CommandProtocol:0.22
+InsertProtocol:0.22
+DefaultConnectionPool:0.21
+KillCursorProtocol:0.20333333333333334
+QueryProtocol:0.18

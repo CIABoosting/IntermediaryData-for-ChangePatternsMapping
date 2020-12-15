@@ -1,0 +1,57 @@
+Compared Result of  two versions
+Number of New Class: 26
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.jbpm.ui.model.Action: 
+new Added class 1 : org.jbpm.ui.bsh.BSHDecisionModel: 
+new Added class 2 : org.jbpm.ui.dialog.ChooseHandlerClassDialog: 
+new Added class 3 : org.jbpm.ui.dialog.CreateVariableDialog: 
+new Added class 4 : org.jbpm.ui.model.Decision: 
+new Added class 5 : org.jbpm.ui.editor.DesignerContentProvider: 
+new Added class 6 : org.jbpm.ui.editor.DesignerSwimlaneEditorPage: 
+new Added class 7 : org.jbpm.ui.editor.DesignerVariableEditorPage: 
+new Added class 8 : org.jbpm.ui.wizard.ExportParWizardPage: 
+new Added class 9 : org.jbpm.ui.util.InfoPathSupport: 
+new Added class 10 : org.jbpm.ui.util.MappingContentProvider: 
+new Added class 11 : org.jbpm.ui.wizard.NewProcessDefinitionWizard: 
+new Added class 12 : org.jbpm.ui.action.OpenDescriptionEditorDelegate: 
+new Added class 13 : org.jbpm.ui.action.OpenFormEditorDelegate: 
+new Added class 14 : org.jbpm.ui.action.OpenFormValidationDelegate: 
+new Added class 15 : org.jbpm.ui.PluginConstants: 
+new Added class 16 : org.jbpm.ui.model.ProcessDefinition: 
+new Added class 17 : org.jbpm.ui.command.ProcessDefinitionAddVariablesToStateCommand: 
+new Added class 18 : org.jbpm.ui.command.ProcessDefinitionExcludeVariablesFromStateCommand: 
+new Added class 19 : org.jbpm.ui.command.ProcessDefinitionMoveStateVariablesCommand: 
+new Added class 20 : org.jbpm.ui.command.ProcessDefinitionRemoveVariablesCommand: 
+new Added class 21 : org.jbpm.ui.command.ProcessDefinitionRemoveVariablesFromStateCommand: 
+new Added class 22 : org.jbpm.ui.model.StateVariableProperties: 
+new Added class 23 : org.jbpm.ui.wizard.SwimlaneWizard: 
+new Added class 24 : org.jbpm.ui.model.Variable: 
+new Added class 25 : org.jbpm.ui.model.VariableNode: 
+testing relationship 
+class 0  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 5  vs  class 16£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:17  r15:0  r16:4  r17:0  
+class 5  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 22£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 24£º  r0:0  r1:0  r2:0  r3:3  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 25£º  r0:0  r1:0  r2:0  r3:3  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:1  r15:0  r16:0  r17:0  
+class 8  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 24£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:1  r14:2  r15:0  r16:0  r17:0  
+class 17  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 18  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 19  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:8  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 19  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:6  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 20  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 21  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 22  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:4  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 22  vs  class 24£º  r0:0  r1:0  r2:0  r3:2  r4:2  r5:1  r6:0  r7:0  r8:5  r9:0  r10:4  r11:2  r12:0  r13:4  r14:2  r15:0  r16:0  r17:0  
+class 22  vs  class 25£º  r0:0  r1:0  r2:0  r3:2  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 24  vs  class 22£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 25£º  r0:0  r1:0  r2:0  r3:2  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  19   4 :  11   5 :  7   6 :  0   7 :  0   8 :  25   9 :  0   10 :  17   11 :  57   12 :  0   13 :  19   14 :  36   15 :  0   16 :  4   17 :  0   

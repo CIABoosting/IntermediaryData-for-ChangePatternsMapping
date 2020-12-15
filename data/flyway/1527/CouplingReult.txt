@@ -1,0 +1,38 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.googlecode.flyway.maven.AbstractFlywayMojo: 
+new Added class 1 : com.googlecode.flyway.maven.AbstractMigrationLoadingMojo: 
+new Added class 2 : com.googlecode.flyway.ant.AbstractMigrationLoadingTask: 
+new Added class 3 : com.googlecode.flyway.commandline.largetest.CommandLineLargeTest: 
+new Added class 4 : com.googlecode.flyway.core.migration.ConcurrentMigrationTestCase: 
+new Added class 5 : com.googlecode.flyway.core.Flyway: 
+new Added class 6 : com.googlecode.flyway.core.FlywayMediumTest: 
+new Added class 7 : com.googlecode.flyway.core.migration.java.JavaMigrationResolver: 
+new Added class 8 : com.googlecode.flyway.core.migration.jdbc.JdbcMigrationResolver: 
+new Added class 9 : com.googlecode.flyway.sample.Main: 
+new Added class 10 : com.googlecode.flyway.maven.MigrateMojo: 
+new Added class 11 : com.googlecode.flyway.ant.MigrateTask: 
+new Added class 12 : com.googlecode.flyway.core.migration.MigrationResolver: 
+new Added class 13 : com.googlecode.flyway.core.migration.MigrationTestCase: 
+new Added class 14 : com.googlecode.flyway.core.migration.spring.SpringJdbcMigrationResolver: 
+new Added class 15 : com.googlecode.flyway.core.migration.sql.SqlMigrationResolver: 
+testing relationship 
+class 0  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:6  r17:0  
+class 2  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:6  r17:0  
+class 4  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:8  r9:0  r10:5  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:13  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:9  r17:0  
+class 11  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:9  r17:0  
+class 13  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:24  r9:0  r10:92  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  4   3 :  0   4 :  0   5 :  0   6 :  0   7 :  1   8 :  32   9 :  0   10 :  97   11 :  8   12 :  0   13 :  22   14 :  2   15 :  0   16 :  30   17 :  0   

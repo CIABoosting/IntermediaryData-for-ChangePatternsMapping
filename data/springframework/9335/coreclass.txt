@@ -1,0 +1,14 @@
+ResponseTransportInputStream:0.4987619047619048
+RequestTransportInputStream:0.4987619047619048
+WebServiceTemplate:0.41333333333333333
+HttpServletConnection:0.26
+MailReceiverConnection:0.25666666666666665
+JmsReceiverConnection:0.25666666666666665
+JmsSenderConnection:0.20333333333333334
+HttpUrlConnection:0.19666666666666666
+TcpSenderConnection:0.19666666666666666
+CommonsHttpConnection:0.19666666666666666
+MailSenderConnection:0.18333333333333332
+TcpReceiverConnection:0.14
+AbstractReceiverConnection:0.10333333333333333
+AbstractSenderConnection:0.10333333333333333

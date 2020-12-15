@@ -1,0 +1,14 @@
+ClientReplicatedMapAddEntryListenerRequest:0.13333333333333333
+ClientReplicatedMapPutTtlRequest:0.13333333333333333
+ClientReplicatedMapRemoveEntryListenerRequest:0.13
+ClientReplicatedMapContainsKeyRequest:0.13
+ClientReplicatedMapGetRequest:0.13
+ClientReplicatedMapContainsValueRequest:0.13
+ClientReplicatedMapEntrySetRequest:0.13
+ClientReplicatedMapSizeRequest:0.13
+ClientReplicatedMapClearRequest:0.13
+ClientReplicatedMapIsEmptyRequest:0.13
+ClientReplicatedMapKeySetRequest:0.13
+ClientReplicatedMapValuesRequest:0.13
+ClientReplicatedMapRemoveRequest:0.13
+ClientReplicatedMapPutAllRequest:0.06

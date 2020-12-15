@@ -1,0 +1,11 @@
+AbstractTestQueries:0.5066666666666667
+TpchMetadata:0.31666666666666665
+TestHiveIntegrationSmokeTest:0.3
+TpchRecordCursor:0.2833333333333333
+AbstractTestIntegrationSmokeTest:0.27666666666666667
+TestHivePageSink:0.24666666666666667
+RowNumberTpchColumn:0.24333333333333335
+HiveFileFormatBenchmark:0.21
+TpchQuery1Operator:0.19666666666666666
+Tpch1FilterAndProject:0.19
+H2QueryRunner:0.11333333333333333

@@ -1,0 +1,16 @@
+Jedis:0.56
+Protocol:0.4633333333333333
+Client:0.3566666666666667
+JedisCluster:0.2966666666666667
+BinaryRedisPipeline:0.2833333333333333
+JedisCommands:0.2833333333333333
+JedisClusterCommands:0.2833333333333333
+BinaryJedisCommands:0.2833333333333333
+BinaryJedisClusterCommands:0.2833333333333333
+BinaryClient:0.20333333333333334
+BinaryJedisCluster:0.16333333333333333
+ShardedJedis:0.15666666666666668
+BinaryShardedJedis:0.09
+PipelineBase:0.07
+BinaryJedis:0.06666666666666667
+BuilderFactory:0.02

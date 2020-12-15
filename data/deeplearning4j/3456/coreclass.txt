@@ -1,0 +1,8 @@
+SubsamplingLayer:0.48
+ConvolutionLayer:0.36
+ConvolutionUtils:0.27
+InputTypeUtil:0.2505555555555556
+TestInvalidConfigurations:0.20666666666666667
+IteratorMultiDataSetIterator:0.16333333333333333
+TestConvolutionModes:0.16333333333333333
+CNNGradientCheckTest:0.06333333333333334

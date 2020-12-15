@@ -1,0 +1,36 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : toxTree.tree.AbstractRuleHilightHits: 
+new Added class 1 : toxTree.tree.BatchDecisionResultsList: 
+new Added class 2 : toxTree.query.FunctionalGroups: 
+new Added class 3 : toxTree.query.ChargeConsumed: 
+new Added class 4 : toxTree.ui.HazardPanel: 
+new Added class 5 : toxTree.core.IDecisionResult: 
+new Added class 6 : toxTree.tree.cramer.RuleAcyclicAcetalEsterOfQ30: 
+new Added class 7 : toxTree.tree.cramer.RuleAliphaticWithSomeFuncGroups: 
+new Added class 8 : toxTree.tree.cramer.RuleHasOnlySaltSulphonateSulphate: 
+new Added class 9 : toxTree.tree.cramer.RuleHeterocyclicComplexSubstituents: 
+new Added class 10 : cramer2.rules.RuleOnlyFuncGroupsQ30: 
+new Added class 11 : toxTree.tree.RuleResult: 
+new Added class 12 : toxTree.tree.rules.RuleRingAllowedSubstituents: 
+new Added class 13 : cramer2.rules.RuleRingComplexSubstituents30: 
+new Added class 14 : toxTree.tree.rules.RuleRingOtherThanAllowedSubstituents: 
+new Added class 15 : toxTree.tree.rules.RuleRingSubstituents: 
+new Added class 16 : mutant.rules.SA20: 
+new Added class 17 : toxTree.tree.TreeResult: 
+testing relationship 
+class 1  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 3£º  r0:0  r1:0  r2:0  r3:6  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 13£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 14£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 15£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 15£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 14£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 15£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 15£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 5£º  r0:0  r1:0  r2:1  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-2  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 11£º  r0:0  r1:0  r2:0  r3:8  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  7   2 :  2   3 :  15   4 :  0   5 :  3   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  1   12 :  0   13 :  14   14 :  0   15 :  0   16 :  0   17 :  0   

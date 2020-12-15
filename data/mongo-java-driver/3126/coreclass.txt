@@ -1,0 +1,8 @@
+DefaultAsyncConnection:0.45
+DefaultAsyncConnectionFactory:0.23333333333333334
+MongoClients:0.21333333333333335
+ResponseHeaderCallback:0.1877777777777778
+BasicCompletionHandler:0.15333333333333332
+MongoSocketReadException:0.09
+MongoSocketOpenException:0.05333333333333334
+MongoSocketException:0.04777777777777778

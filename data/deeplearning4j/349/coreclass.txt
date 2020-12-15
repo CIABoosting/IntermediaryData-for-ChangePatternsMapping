@@ -1,0 +1,17 @@
+AsyncMultiDataSetIterator:0.24
+AsyncDataSetIterator:0.24
+DeepWalk:0.19916666666666666
+TokenizerThread:0.19666666666666666
+QueueHandler:0.19666666666666666
+InferenceWorker:0.19333333333333333
+EncodedGradientsAccumulator:0.1877777777777778
+AsyncPrefetchThread:0.18166666666666667
+DefaultTrainer:0.18
+ObservablesProvider:0.17333333333333334
+PostRunnable:0.16
+AsyncIterator:0.15583333333333332
+AsyncSequencer:0.14049999999999999
+StatsEventRouterRunnable:0.1305
+ReaderThread:0.1305
+SharedTrainingWrapper:0.12666666666666668
+ParallelInference:0.11666666666666667

@@ -1,0 +1,17 @@
+Compared Result of  two versions
+Number of New Class: 11
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.crate.planner.consumer.CountConsumer: 
+new Added class 1 : io.crate.planner.consumer.CrossJoinConsumer: 
+new Added class 2 : io.crate.planner.consumer.DistributedGroupByConsumer: 
+new Added class 3 : io.crate.planner.consumer.ESGetConsumer: 
+new Added class 4 : io.crate.planner.consumer.GlobalAggregateConsumer: 
+new Added class 5 : io.crate.planner.consumer.InsertFromSubQueryConsumer: 
+new Added class 6 : io.crate.planner.consumer.NonDistributedGroupByConsumer: 
+new Added class 7 : io.crate.planner.consumer.QueryAndFetchConsumer: 
+new Added class 8 : io.crate.planner.consumer.QueryThenFetchConsumer: 
+new Added class 9 : io.crate.planner.consumer.ReduceOnCollectorGroupByConsumer: 
+new Added class 10 : io.crate.planner.consumer.UpdateConsumer: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

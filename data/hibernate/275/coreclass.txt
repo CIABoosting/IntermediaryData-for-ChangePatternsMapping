@@ -1,0 +1,14 @@
+BeanLifecycleStrategy:0.6666666666666666
+BeanContainer:0.5166666666666667
+CdiBeanContainerExtendedAccessImpl:0.2755555555555555
+ManagedBeanRegistryImpl:0.26666666666666666
+Helper:0.25666666666666665
+NonRegistryManagedBeanConsumingIntegrator:0.23333333333333334
+CdiBeanContainerBuilder:0.21
+JpaCompliantLifecycleStrategy:0.19666666666666666
+ContainerManagedLifecycleStrategy:0.17
+AbstractBeanContainer:0.15
+ExtendedMixedAccessTest:0.043333333333333335
+ImmediateMixedAccessTests:0.043333333333333335
+DelayedMixedAccessTest:0.043333333333333335
+LifecycleOptions:0.006666666666666667

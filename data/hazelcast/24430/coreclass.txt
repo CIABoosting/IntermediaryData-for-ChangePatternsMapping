@@ -1,0 +1,15 @@
+CMap:0.6433333333333333
+ConcurrentMapManager:0.41
+MBackup:0.35
+MPut:0.27
+CustomSerializable:0.2063968253968254
+HazelcastTest:0.20333333333333334
+MRemove:0.19666666666666666
+PutOperationHandler:0.19
+MapStoreTest:0.165
+MGet:0.16
+PutTransientOperationHandler:0.12
+PutMultiOperationHandler:0.12
+MRemoveMulti:0.11333333333333333
+MBackupAwareOp:0.11333333333333333
+MPutMulti:0.09333333333333334

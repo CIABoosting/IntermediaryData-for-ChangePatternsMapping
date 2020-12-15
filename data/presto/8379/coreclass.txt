@@ -1,0 +1,16 @@
+CompilerContext:0.64
+Block:0.5966666666666667
+ClassDefinition:0.48333333333333334
+StateCompiler:0.22666666666666666
+ByteCodeUtils:0.21666666666666667
+SqlTypeByteCodeExpression:0.17833333333333334
+AccumulatorCompiler:0.17
+JoinCompiler:0.16333333333333333
+PageProcessorCompiler:0.15666666666666668
+JoinProbeCompiler:0.15333333333333332
+CursorProcessorCompiler:0.15
+ExpressionCompiler:0.14
+OrderingCompiler:0.11333333333333333
+TestSetFieldByteCodeExpression:0.10666666666666667
+ByteCodeExpressionAssertions:0.10666666666666667
+TestSetVariableByteCodeExpression:0.08333333333333333

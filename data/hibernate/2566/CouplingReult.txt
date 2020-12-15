@@ -1,0 +1,19 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.hibernate.test.naturalid.mutable.cached.CachedMutableNaturalIdTest: 
+new Added class 1 : org.hibernate.test.subselect.CompositeIdTypeBindingTest: 
+new Added class 2 : org.hibernate.testing.DialectChecks: 
+new Added class 3 : org.hibernate.test.extralazy.ExtraLazyTest: 
+new Added class 4 : org.hibernate.id.uuid.GeneratedValueTest: 
+new Added class 5 : org.hibernate.test.hqlfetchscroll.HQLScrollFetchTest: 
+new Added class 6 : org.hibernate.test.annotations.loader.LoaderTest: 
+new Added class 7 : org.hibernate.test.legacy.MultiTableTest: 
+new Added class 8 : org.hibernate.test.jpa.ql.NamedNativeQueryTest: 
+new Added class 9 : org.hibernate.test.annotations.onetoone.hhh9798.OneToOneJoinTableTest: 
+new Added class 10 : org.hibernate.test.proxy.narrow.ProxyNarrowingTest: 
+new Added class 11 : org.hibernate.test.quote.QuoteTest: 
+new Added class 12 : org.hibernate.test.annotations.lob.SerializableToBlobTypeTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

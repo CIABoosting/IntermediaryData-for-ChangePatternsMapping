@@ -1,0 +1,10 @@
+DataSetPreProcessor:0.8733333333333333
+Word2VecDataSetIterator:0.23416666666666666
+MultipleEpochsIterator:0.19333333333333333
+ReconstructionDataSetIterator:0.19333333333333333
+ListDataSetIterator:0.19333333333333333
+TestDataSetIterator:0.19333333333333333
+SamplingDataSetIterator:0.19333333333333333
+BaseDatasetIterator:0.19333333333333333
+TokenizerAnnotator:0.19333333333333333
+RecordReaderDataSetIterator:0.13916666666666666

@@ -1,0 +1,17 @@
+ComputationGraph:0.49333333333333335
+RBM:0.33
+SubsamplingLayer:0.27666666666666667
+AlphaDropout:0.26666666666666666
+AbstractLayer:0.26
+ActivationLayer:0.26
+GaussianNoise:0.26
+GaussianDropout:0.26
+BaseLayer:0.25333333333333335
+RnnOutputLayer:0.24666666666666667
+TestDropout:0.24666666666666667
+DropoutLayer:0.24666666666666667
+BaseOutputLayer:0.23666666666666666
+ConvolutionLayer:0.23
+MapSchedule:0.22333333333333333
+Builder:0.15666666666666668
+EmbeddingLayer:0.1211111111111111

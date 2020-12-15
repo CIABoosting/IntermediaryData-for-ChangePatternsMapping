@@ -1,0 +1,11 @@
+BadCredentialsException:0.19111111111111112
+AccountStatusUserDetailsChecker:0.15666666666666668
+DefaultPreAuthenticationChecks:0.12666666666666668
+AuthenticationException:0.10666666666666667
+DefaultPostAuthenticationChecks:0.10333333333333333
+LockedException:0.08444444444444445
+CredentialsExpiredException:0.08444444444444445
+AccountExpiredException:0.08444444444444445
+DisabledException:0.08444444444444445
+AbstractAuthenticationManager:0.07333333333333333
+AccountStatusException:0.043333333333333335

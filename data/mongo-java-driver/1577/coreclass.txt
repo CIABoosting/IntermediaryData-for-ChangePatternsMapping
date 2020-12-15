@@ -1,0 +1,15 @@
+DBCollection:0.3
+ProtocolHelper:0.2733333333333333
+InsertProtocol:0.27
+WriteProtocol:0.24333333333333335
+UpdateProtocol:0.24333333333333335
+DeleteProtocol:0.24333333333333335
+BaseWriteOperation:0.23
+CreateIndexOperation:0.22333333333333333
+MongoCollectionImpl:0.21
+Run:0.18333333333333332
+WriteResultCallback:0.14333333333333334
+CreateUserOperation:0.13666666666666666
+UpdateUserOperation:0.13666666666666666
+DropUserOperation:0.12333333333333334
+UnacknowledgedWriteResultCallback:0.06

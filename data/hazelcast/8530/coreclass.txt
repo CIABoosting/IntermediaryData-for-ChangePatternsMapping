@@ -1,0 +1,12 @@
+ReplicatedRecord:0.6066666666666667
+AbstractReplicatedRecordStore:0.44666666666666666
+PassThroughMergePolicy:0.26
+PutIfAbsentMapMergePolicy:0.26
+CustomMergePolicy:0.26
+LatestUpdateMapMergePolicy:0.26
+HigherHitsMapMergePolicy:0.26
+ReplicatedMapListenerTest:0.21333333333333335
+SyncReplicatedMapDataOperation:0.20666666666666667
+ReplicatedMapDataSerializerHook:0.14
+ReplicatedQueryEventFilter:0.09
+ReplicatedEntryEventFilter:0.09

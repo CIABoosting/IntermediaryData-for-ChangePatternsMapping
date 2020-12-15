@@ -1,0 +1,21 @@
+Compared Result of  two versions
+Number of New Class: 9
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : net.sourceforge.htmlunit.flash.ActionScriptEngine: 
+new Added class 1 : net.sourceforge.htmlunit.flash.actionscript.flash.display.DisplayObject: 
+new Added class 2 : net.sourceforge.htmlunit.flash.Flash: 
+new Added class 3 : net.sourceforge.htmlunit.flash.actionscript.Function: 
+new Added class 4 : net.sourceforge.htmlunit.flash.actionscript.flash.display.MovieClip: 
+new Added class 5 : adobe.abc.Namespace: 
+new Added class 6 : net.sourceforge.htmlunit.flash.NativeScriptObject: 
+new Added class 7 : net.sourceforge.htmlunit.flash.RuntimeScriptObject: 
+new Added class 8 : net.sourceforge.htmlunit.flash.ScriptObject: 
+testing relationship 
+class 0  vs  class 6£º  r0:0  r1:0  r2:0  r3:2  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 7£º  r0:0  r1:0  r2:0  r3:2  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:1  r14:9  r15:0  r16:0  r17:0  
+class 6  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:2  r4:1  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  0   3 :  7   4 :  3   5 :  1   6 :  0   7 :  0   8 :  3   9 :  0   10 :  0   11 :  11   12 :  0   13 :  2   14 :  9   15 :  0   16 :  0   17 :  0   

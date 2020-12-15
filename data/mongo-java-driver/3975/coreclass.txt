@@ -1,0 +1,12 @@
+ReplicaSetStateGenerator:0.41333333333333333
+ReplicaSetMonitor:0.36333333333333334
+MultipleServerMongoConnection:0.24666666666666667
+MongoClients:0.17333333333333334
+MongoClientsImpl:0.1411111111111111
+Holder:0.12666666666666668
+ReplicaSetStateGeneratorTest:0.12666666666666668
+ReplicaSetConnectionStrategy:0.12333333333333334
+ReplicaSetTest:0.10666666666666667
+MongoConnectionIsMasterExecutorFactory:0.09
+AbstractConnectionSetMonitor:0.08
+MongoConnectionIsMasterExecutor:0.04

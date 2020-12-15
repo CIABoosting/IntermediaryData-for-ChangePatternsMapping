@@ -1,0 +1,50 @@
+Compared Result of  two versions
+Number of New Class: 23
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : fedora.server.storage.translation.AtomDOSerializer: 
+new Added class 1 : fedora.server.storage.types.BasicDigitalObject: 
+new Added class 2 : fedora.client.utility.validate.types.BasicObjectInfo: 
+new Added class 3 : fedora.server.utilities.ConnectionWrapper: 
+new Added class 4 : fedora.server.access.DefaultAccess: 
+new Added class 5 : fedora.server.access.defaultdisseminator.DefaultDisseminatorImpl: 
+new Added class 6 : fedora.server.storage.DefaultDOManager: 
+new Added class 7 : fedora.server.storage.types.DigitalObject: 
+new Added class 8 : fedora.server.storage.DOReader: 
+new Added class 9 : fedora.server.storage.translation.DOTranslationUtility: 
+new Added class 10 : fedora.server.storage.translation.FOXMLDODeserializer: 
+new Added class 11 : fedora.server.storage.translation.FOXMLDOSerializer: 
+new Added class 12 : fedora.server.storage.translation.METSFedoraExtDOSerializer: 
+new Added class 13 : fedora.server.storage.MockDOReader: 
+new Added class 14 : fedora.server.storage.MockRepositoryReader: 
+new Added class 15 : fedora.server.resourceIndex.ModelBasedTripleGenerator: 
+new Added class 16 : fedora.client.utility.validate.types.ObjectInfo: 
+new Added class 17 : fedora.client.utility.validate.ObjectValidator: 
+new Added class 18 : fedora.server.test.RepositoryReaderTest: 
+new Added class 19 : fedora.server.security.ResourceAttributeFinderModule: 
+new Added class 20 : fedora.server.storage.SimpleDOReader: 
+new Added class 21 : fedora.server.utilities.rebuild.SQLRebuilder: 
+new Added class 22 : fedora.server.storage.translation.TestXMLDODeserializer: 
+testing relationship 
+class 1  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:13  r14:0  r15:0  r16:1  r17:0  
+class 5  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:20  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:6  r15:0  r16:12  r17:0  
+class 6  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:18  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 11  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:14  r15:0  r16:11  r17:0  
+class 12  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:19  r15:0  r16:17  r17:0  
+class 13  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:8  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:0  r14:-1  r15:0  r16:1  r17:0  
+class 14  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:4  r15:0  r16:1  r17:0  
+class 19  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:7  r9:0  r10:12  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 20  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:20  r17:0  
+class 21  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:14  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  4   3 :  0   4 :  0   5 :  6   6 :  0   7 :  0   8 :  16   9 :  0   10 :  41   11 :  56   12 :  0   13 :  47   14 :  51   15 :  0   16 :  63   17 :  0   

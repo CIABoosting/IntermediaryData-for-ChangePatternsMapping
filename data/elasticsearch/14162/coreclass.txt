@@ -1,0 +1,13 @@
+IndexShard:0.63
+TrieNode:0.30083333333333334
+IndexNameExpressionResolver:0.25333333333333335
+TransportCreateIndexAction:0.24
+TermVectorsFetchSubPhase:0.20666666666666667
+IndicesModule:0.19
+IndexShardModule:0.17333333333333334
+PathTrie:0.16
+DateMathIndexExpressionsIntegrationIT:0.15666666666666668
+TransportTermVectorsAction:0.14
+TransportShardMultiTermsVectorAction:0.14
+ShadowIndexShard:0.1211111111111111
+PathTrieTests:0.05333333333333334

@@ -1,0 +1,17 @@
+EntityPersister:0.5433333333333333
+RegionFactory:0.52
+EntityMetamodel:0.47333333333333333
+AbstractEntityPersister:0.36666666666666664
+SessionFactoryImpl:0.31333333333333335
+InfinispanRegionFactory:0.25666666666666665
+GoofyProvider:0.25666666666666665
+CustomPersister:0.25666666666666665
+ClusterAwareRegionFactory:0.21333333333333335
+NoCachingRegionFactory:0.21333333333333335
+NoopEntityPersister:0.1836111111111111
+CachingRegionFactory:0.17694444444444446
+AbstractEhcacheRegionFactory:0.17694444444444446
+CacheDataDescriptionImpl:0.09666666666666666
+EhcacheAccessStrategyFactory:0.04
+EhcacheAccessStrategyFactoryImpl:0.03666666666666667
+NonstopAccessStrategyFactory:0.02666666666666667

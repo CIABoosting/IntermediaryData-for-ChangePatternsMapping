@@ -1,0 +1,28 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : toxTree.test.io.EmptySDFEntryTest: 
+new Added class 1 : toxtree.plugins.func.rules.FG71: 
+new Added class 2 : toxTree.test.query.FuncGroupsTest: 
+new Added class 3 : toxTree.query.FunctionalGroups: 
+new Added class 4 : toxTree.query.ChargeConsumed: 
+new Added class 5 : toxTree.query.MolAnalyser: 
+new Added class 6 : mutant.test.MutantDataTest: 
+new Added class 7 : toxTree.tree.cramer.Rule32: 
+new Added class 8 : toxTree.tree.cramer.RuleHasOnlySaltSulphonateSulphate: 
+new Added class 9 : cramer2.rules.RuleLactoneOrCyclicDiester: 
+new Added class 10 : cramer2.rules.RuleLactonesFusedOrUnsaturated: 
+new Added class 11 : cramer2.rules.RuleOnlyFuncGroupsQ30: 
+new Added class 12 : cramer2.rules.RuleRingComplexSubstituents30: 
+new Added class 13 : toxTree.tree.rules.RuleRingOtherThanAllowedSubstituents: 
+new Added class 14 : toxTree.tree.cramer.RuleSomeBenzeneDerivatives: 
+new Added class 15 : toxTree.RuleStructuresListTest: 
+new Added class 16 : toxTree.query.SimpleReactions: 
+new Added class 17 : toxTree.test.query.SimpleReactionsTest: 
+testing relationship 
+class 3  vs  class 4£º  r0:0  r1:0  r2:0  r3:6  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 13£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:7  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  6   4 :  0   5 :  0   6 :  0   7 :  0   8 :  4   9 :  0   10 :  7   11 :  3   12 :  0   13 :  6   14 :  0   15 :  0   16 :  0   17 :  0   

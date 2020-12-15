@@ -1,0 +1,16 @@
+Node:0.36333333333333334
+NodeSecurity:0.30666666666666664
+IConfigurationService:0.2966666666666667
+BootstrapService:0.29
+NodeService:0.25
+AbstractDbDialect:0.25
+OracleDbDialect:0.21
+IDbDialect:0.20583333333333334
+SyncTriggersRequiredFilter:0.19666666666666666
+DataExtractorService:0.16333333333333333
+ConfigurationService:0.14333333333333334
+PullResourceHandler:0.13583333333333333
+NodeSecurityRowMapper:0.10666666666666667
+RegistrationService:0.09
+NodeRowMapper:0.03333333333333333
+TableConstants:0.016666666666666666

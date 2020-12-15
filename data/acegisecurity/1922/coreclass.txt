@@ -1,0 +1,5 @@
+AbstractSecurityInterceptor:0.6133333333333333
+AbstractAccessDecisionManager:0.49666666666666665
+DenyAgainVoter:0.18
+AuthenticatedVoter:0.16666666666666666
+RoleVoter:0.16666666666666666

@@ -1,0 +1,12 @@
+Connection:0.4613333333333334
+MessageRouter:0.323
+HL7v2Listener:0.28
+HL7v2Client:0.26
+MessageHandlerConfig:0.24
+HL7v2Acceptor:0.17666666666666667
+AcceptorConfig:0.17666666666666667
+DefaultMessageHandler:0.16666666666666666
+ConnectionHandler:0.15333333333333332
+ConnectionManager:0.1515
+ConfigHelper:0.12666666666666668
+PIXConsumerClient:0.08

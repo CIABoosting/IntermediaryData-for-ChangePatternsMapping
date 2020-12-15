@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.gargoylesoftware.htmlunit.javascript.host.dom.AttrTest: 
+new Added class 1 : com.gargoylesoftware.htmlunit.BrowserVersion2Test: 
+new Added class 2 : com.gargoylesoftware.htmlunit.CacheTest: 
+new Added class 3 : com.gargoylesoftware.htmlunit.DummyWebResponse: 
+new Added class 4 : com.gargoylesoftware.htmlunit.DefaultCredentialsProvider2Test: 
+new Added class 5 : com.gargoylesoftware.htmlunit.javascript.host.dom.DocumentTypeTest: 
+new Added class 6 : com.gargoylesoftware.htmlunit.javascript.host.xml.FormDataTest: 
+new Added class 7 : com.gargoylesoftware.htmlunit.gae.GAELoadPageTest: 
+new Added class 8 : com.gargoylesoftware.htmlunit.html.HtmlRadioButtonInput2Test: 
+new Added class 9 : com.gargoylesoftware.htmlunit.UrlFetchWebConnection2Test: 
+new Added class 10 : com.gargoylesoftware.htmlunit.WebClientWaitForBackgroundJobsTest: 
+new Added class 11 : com.gargoylesoftware.htmlunit.ThreadSynchronizer: 
+new Added class 12 : com.gargoylesoftware.htmlunit.javascript.host.xml.XMLDocumentTest: 
+new Added class 13 : com.gargoylesoftware.htmlunit.javascript.host.xml.XMLHttpRequest2Test: 
+new Added class 14 : com.gargoylesoftware.htmlunit.javascript.host.xml.XMLHttpRequest3Test: 
+new Added class 15 : com.gargoylesoftware.htmlunit.javascript.host.xml.XMLHttpRequest4Test: 
+new Added class 16 : com.gargoylesoftware.htmlunit.javascript.host.xml.XMLHttpRequestCORSTest: 
+new Added class 17 : com.gargoylesoftware.htmlunit.javascript.host.xml.PreflightServerServlet: 
+new Added class 18 : com.gargoylesoftware.htmlunit.javascript.host.xml.XMLHttpRequestTest: 
+testing relationship 
+class 10  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  1   12 :  0   13 :  5   14 :  0   15 :  0   16 :  0   17 :  0   

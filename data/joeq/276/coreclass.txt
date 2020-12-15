@@ -1,0 +1,11 @@
+jq_StaticMethod:0.38666666666666666
+jq_InstanceMethod:0.36333333333333334
+jq_StaticField:0.2966666666666667
+jq_InstanceField:0.2966666666666667
+ModRefAnalysis:0.2633333333333333
+TrimmerVisitor:0.22333333333333333
+MethodInterpreter:0.21
+BytecodeToQuad:0.19666666666666666
+x86ReferenceCompiler:0.18
+jq_ConstantPool:0.17333333333333334
+BytecodeVisitor:0.16666666666666666

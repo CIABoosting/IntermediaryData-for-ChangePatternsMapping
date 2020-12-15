@@ -1,0 +1,17 @@
+MultiLayerNetwork:0.53
+NeuralNetConfiguration:0.51
+Builder:0.3566666666666667
+BaseOptimizer:0.2633333333333333
+Layer:0.24
+BaseLayer:0.23
+LayerConfigTest:0.21666666666666667
+TestUpdaters:0.2
+AdaGradUpdater:0.19666666666666666
+SgdUpdater:0.19666666666666666
+TestSchedules:0.18333333333333332
+BaseUpdater:0.15
+RmsPropUpdater:0.14666666666666667
+AdamUpdater:0.14666666666666667
+NesterovsUpdater:0.14666666666666667
+NeuralNetConfigurationTest:0.09333333333333334
+BatchNormalizationParamInitializer:0.056666666666666664

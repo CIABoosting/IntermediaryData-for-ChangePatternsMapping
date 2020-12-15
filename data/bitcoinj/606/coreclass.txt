@@ -1,0 +1,9 @@
+BtcFormat:0.4
+DatabaseFullPrunedBlockStore:0.36666666666666664
+PeerGroupTest:0.2733333333333333
+TransactionBroadcastTest:0.27
+GetBlocksMessage:0.265
+NetworkAbstractionTests:0.22
+TransactionSignature:0.2127777777777778
+BitcoinURITest:0.20666666666666667
+PostgresFullPrunedBlockStore:0.20333333333333334

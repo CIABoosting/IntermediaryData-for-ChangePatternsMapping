@@ -1,0 +1,17 @@
+ServiceDescriptor:0.5133333333333333
+WorkerServiceDescriptorSupplier:0.3289187109187109
+UnimplementedServiceDescriptorSupplier:0.3289187109187109
+MetricsServiceDescriptorSupplier:0.3289187109187109
+TestServiceDescriptorSupplier:0.3289187109187109
+BenchmarkServiceDescriptorSupplier:0.3289187109187109
+LoadBalancerDescriptorSupplier:0.3289187109187109
+HealthDescriptorSupplier:0.3289187109187109
+ReconnectServiceDescriptorSupplier:0.3289187109187109
+BenchmarkServiceGrpc:0.11
+MetricsServiceGrpc:0.11
+LoadBalancerGrpc:0.11
+TestServiceGrpc:0.11
+ReconnectServiceGrpc:0.11
+UnimplementedServiceGrpc:0.11
+HealthGrpc:0.11
+WorkerServiceGrpc:0.11

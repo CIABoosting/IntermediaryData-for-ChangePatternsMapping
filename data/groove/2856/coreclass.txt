@@ -1,0 +1,15 @@
+MatchSetCollector:0.45
+RuleJTree:0.23666666666666666
+AbstractStrategy:0.23666666666666666
+BoundedNestedDFSStrategy:0.22333333333333333
+LinearStrategy:0.21666666666666667
+SystemRecord:0.21666666666666667
+AbstractModelCheckingStrategy:0.21333333333333335
+ClosingStrategy:0.20333333333333334
+ShapeBFSStrategy:0.14666666666666667
+ExploreStateStrategy:0.08
+LinearConfluentRules:0.06
+NestedDFSStrategy:0.05
+RandomLinearStrategy:0.04
+ConfluentMatchSetCollector:0.03333333333333333
+NextOpenStrategy:0.0033333333333333335

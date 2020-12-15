@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 15
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.count.query.CountQueryTests: 
+new Added class 1 : org.apache.lucene.queryparser.classic.MapperQueryParser: 
+new Added class 2 : org.apache.lucene.queryparser.classic.QueryParserSettings: 
+new Added class 3 : org.elasticsearch.index.query.QueryStringQueryBuilder: 
+new Added class 4 : org.elasticsearch.index.query.QueryStringQueryParser: 
+new Added class 5 : org.elasticsearch.rest.action.explain.RestExplainAction: 
+new Added class 6 : org.elasticsearch.rest.action.search.RestSearchAction: 
+new Added class 7 : org.elasticsearch.search.query.SearchQueryTests: 
+new Added class 8 : org.elasticsearch.count.simple.SimpleCountTests: 
+new Added class 9 : org.elasticsearch.exists.SimpleExistsTests: 
+new Added class 10 : org.elasticsearch.index.query.SimpleQueryParser: 
+new Added class 11 : org.elasticsearch.index.query.SimpleQueryStringBuilder: 
+new Added class 12 : org.elasticsearch.index.query.SimpleQueryStringParser: 
+new Added class 13 : org.elasticsearch.search.query.SimpleQueryStringTests: 
+new Added class 14 : org.elasticsearch.search.simple.SimpleSearchTests: 
+testing relationship 
+class 1  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:6  r9:12  r10:35  r11:0  r12:0  r13:0  r14:3  r15:10  r16:25  r17:0  
+class 4  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:42  r13:48  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:7  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:7  r13:7  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  6   9 :  12   10 :  35   11 :  10   12 :  56   13 :  63   14 :  3   15 :  10   16 :  25   17 :  0   

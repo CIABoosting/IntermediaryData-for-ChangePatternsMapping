@@ -1,0 +1,9 @@
+FunctionCall:0.5133333333333333
+TestSqlParser:0.30666666666666664
+DefaultTraversalVisitor:0.29
+RewritingVisitor:0.27
+Formatter:0.25333333333333335
+TransformCorrelatedInPredicateToJoin:0.19
+Rewriter:0.17544444444444443
+ImplementFilteredAggregations:0.12
+TestAnalyzer:0.11

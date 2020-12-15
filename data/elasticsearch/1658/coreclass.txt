@@ -1,0 +1,17 @@
+Primary:0.71
+IndexShard:0.45
+GlobalCheckpointTracker:0.31
+GlobalCheckpointTrackerTests:0.2966666666666667
+SequenceNumbersService:0.26666666666666666
+PrimaryContext:0.23666666666666666
+InternalEngineTests:0.2
+GlobalCheckpointSyncAction:0.15333333333333332
+TransportResyncReplicationAction:0.15333333333333332
+AsyncReplicaAction:0.15333333333333332
+CheckpointState:0.15333333333333332
+RecoveryDuringReplicationTests:0.12333333333333334
+TestReplicaProxy:0.11
+ReplicaResponse:0.08333333333333333
+PrimaryShardReference:0.07666666666666666
+PrimaryRef:0.07666666666666666
+TestPrimary:0.07666666666666666

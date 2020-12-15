@@ -1,0 +1,13 @@
+OptimizeRequest:0.3466666666666667
+ClearIndicesCacheRequest:0.3466666666666667
+FlushRequest:0.3433333333333333
+RefreshRequest:0.2866666666666667
+PercolateRequest:0.2866666666666667
+RestIndicesSegmentsAction:0.13
+RestIndicesStatusAction:0.13
+RestCountAction:0.13
+RestSuggestAction:0.13
+RestClearIndicesCacheAction:0.10333333333333333
+RestFlushAction:0.10333333333333333
+RestOptimizeAction:0.10333333333333333
+RestRefreshAction:0.10333333333333333

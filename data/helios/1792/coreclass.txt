@@ -1,0 +1,14 @@
+SystemTestBase:0.51
+TerminationTest:0.25
+ZooKeeperClusterIdTest:0.16333333333333333
+ContainerHostNameTest:0.14
+DnsServerTest:0.14
+MultiplePortJobTest:0.14
+JobExpirationTest:0.13333333333333333
+ReapingTest:0.12666666666666668
+AgentRestartTest:0.09
+SyslogRedirectionTest:0.09
+AgentZooKeeperDownTolerationTest:0.09
+NamespaceTest:0.09
+AgentReportingTest:0.09
+EnvironmentVariableTest:0.09

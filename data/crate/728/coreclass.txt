@@ -1,0 +1,17 @@
+Builder:0.61
+LogicalPlan:0.5433333333333333
+Limit:0.4066666666666667
+Join:0.38
+Planner:0.37666666666666665
+SelectPlannerTest:0.36666666666666664
+Collect:0.3
+Order:0.29
+FetchOrEval:0.20666666666666667
+LogicalPlanner:0.19333333333333333
+GroupHashAggregate:0.18333333333333332
+LogicalPlannerTest:0.16
+Filter:0.16
+Count:0.13333333333333333
+RelationBoundary:0.11666666666666667
+HashAggregate:0.09
+ConsumingPlanner:0.07

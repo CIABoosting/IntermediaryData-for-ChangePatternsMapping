@@ -1,0 +1,12 @@
+SuggestUtils:0.37666666666666665
+Analysis:0.31333333333333335
+TokenCountFieldMapper:0.23
+XAnalyzingSuggester:0.12333333333333334
+MapperQueryParser:0.12
+CompletionTokenStream:0.11
+MultiDocumentPercolatorIndex:0.07333333333333333
+TransportAnalyzeAction:0.05
+TokenCountFieldMapperTests:0.043611111111111114
+PhraseSuggester:0.03833333333333333
+SingleDocumentPercolatorIndex:0.03
+PlainHighlighter:0.02666666666666667

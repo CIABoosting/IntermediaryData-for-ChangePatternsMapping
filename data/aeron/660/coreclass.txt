@@ -1,0 +1,16 @@
+ClientSession:0.5533333333333333
+ClusterSession:0.45666666666666667
+SequencerAgent:0.3566666666666667
+DriverConductor:0.29333333333333333
+SessionProxy:0.2866666666666667
+ConsensusModule:0.28
+ClusteredServiceAgent:0.2733333333333333
+SnapshotLoader:0.27
+LogAppender:0.24666666666666667
+AuthenticationTest:0.24666666666666667
+BoundedLogAdapter:0.20666666666666667
+SequencerAgentTest:0.12666666666666668
+ServiceSnapshotTaker:0.12
+ConsensusModuleSnapshotTaker:0.11333333333333333
+ConsensusModuleProxy:0.09111111111111111
+DefaultAuthenticatorSupplier:0.08333333333333333

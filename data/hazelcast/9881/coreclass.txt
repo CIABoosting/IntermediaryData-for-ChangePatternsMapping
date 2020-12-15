@@ -1,0 +1,12 @@
+PortableReadResultSet:0.47
+ReadManyOperation:0.36
+ReadManyOperationTest:0.2833333333333333
+ReadManyRequest:0.27666666666666667
+ReadResultSetImpl:0.26
+ResponseTemplate:0.24666666666666667
+ClientRingbufferProxy:0.24333333333333335
+HazelcastClientProxy:0.24
+ProxyManager:0.22
+ClientInvocationFuture:0.17333333333333334
+TemplateConstants:0.0
+ResponseMessageConst:0.0

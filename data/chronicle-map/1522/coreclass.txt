@@ -1,0 +1,12 @@
+TcpTransportAndNetworkConfig:0.7633333333333333
+Builder:0.29333333333333333
+TcpReplicator:0.19333333333333333
+EventListenerTestWithTCPSocketReplication:0.13666666666666666
+SetForTCPSocketReplication3wayTest:0.12666666666666668
+TCPSocketReplication3wayPutReturnsNullTest:0.12333333333333334
+ChannelReplicationTest:0.11666666666666667
+TCPSocketReplicationBootStrapTest:0.11
+TCPSocketReplicationNativeTest:0.10666666666666667
+NodeDiscovery:0.07666666666666666
+MapByNameTest:0.04666666666666667
+TwoMapOnDifferentServersTest:0.02666666666666667

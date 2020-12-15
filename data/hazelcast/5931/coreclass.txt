@@ -1,0 +1,15 @@
+InternalPartitionService:0.7522222222222222
+InternalPartitionServiceImpl:0.61
+AbstractPartitionLostListenerTest:0.4
+PartitionReplicaVersions:0.29333333333333333
+QueryIndexingTest:0.2866666666666667
+PartitionLostListenerTest:0.285
+CachePartitionLostListenerTest:0.27
+MapPartitionLostListenerTest:0.26666666666666666
+TestPartitionUtils:0.21
+MapPartitionLostListenerStressTest:0.16833333333333333
+ResetReplicaVersionOperation:0.11527777777777778
+QuerySlowTest:0.08666666666666667
+ResetReplicaVersionOperationTest:0.07972222222222221
+FinalizeMigrationOperation:0.06694444444444445
+EventCollectingMapPartitionLostListener:0.02666666666666667

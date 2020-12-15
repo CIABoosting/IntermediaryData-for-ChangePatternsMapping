@@ -1,0 +1,117 @@
+Compared Result of  two versions
+Number of New Class: 72
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opengis.filter.expression.Add: 
+new Added class 1 : org.opengis.filter.And: 
+new Added class 2 : org.opengis.filter.spatial.BBOX: 
+new Added class 3 : org.opengis.filter.spatial.Beyond: 
+new Added class 4 : org.opengis.filter.BinaryComparisonOperator: 
+new Added class 5 : org.opengis.filter.expression.BinaryExpression: 
+new Added class 6 : org.opengis.filter.BinaryLogicOperator: 
+new Added class 7 : org.opengis.filter.spatial.BinarySpatialOperator: 
+new Added class 8 : org.opengis.coverage.grid.ByteInValuePacking: 
+new Added class 9 : org.opengis.coverage.grid.CannotCreateGridCoverageException: 
+new Added class 10 : org.opengis.coverage.CannotEvaluateException: 
+new Added class 11 : org.opengis.coverage.ColorInterpretation: 
+new Added class 12 : org.opengis.filter.spatial.Contains: 
+new Added class 13 : org.opengis.coverage.Coverage: 
+new Added class 14 : org.opengis.filter.spatial.Crosses: 
+new Added class 15 : org.opengis.feature.DataType: 
+new Added class 16 : org.opengis.filter.spatial.Disjoint: 
+new Added class 17 : org.opengis.filter.spatial.DistanceBufferOperator: 
+new Added class 18 : org.opengis.filter.expression.Divide: 
+new Added class 19 : org.opengis.filter.spatial.DWithin: 
+new Added class 20 : org.opengis.filter.spatial.Equals: 
+new Added class 21 : org.opengis.filter.expression.Expression: 
+new Added class 22 : org.opengis.filter.expression.ExpressionVisitor: 
+new Added class 23 : org.opengis.filter.FeatureId: 
+new Added class 24 : org.opengis.coverage.grid.FileFormatNotCompatibleWithGridCoverageException: 
+new Added class 25 : org.opengis.filter.Filter: 
+new Added class 26 : org.opengis.filter.FilterFactory: 
+new Added class 27 : org.opengis.filter.FilterVisitor: 
+new Added class 28 : org.opengis.coverage.grid.Format: 
+new Added class 29 : org.opengis.filter.expression.Function: 
+new Added class 30 : org.opengis.coverage.processing.GridAnalysis: 
+new Added class 31 : org.opengis.coverage.grid.GridCoverage: 
+new Added class 32 : org.opengis.coverage.grid.GridCoverageExchange: 
+new Added class 33 : org.opengis.coverage.processing.GridCoverageProcessor: 
+new Added class 34 : org.opengis.coverage.grid.GridCoverageReader: 
+new Added class 35 : org.opengis.coverage.grid.GridCoverageWriter: 
+new Added class 36 : org.opengis.coverage.grid.GridGeometry: 
+new Added class 37 : org.opengis.coverage.grid.GridNotEditableException: 
+new Added class 38 : org.opengis.coverage.grid.GridPacking: 
+new Added class 39 : org.opengis.coverage.grid.GridRange: 
+new Added class 40 : org.opengis.filter.spatial.Intersects: 
+new Added class 41 : org.opengis.coverage.grid.InvalidRangeException: 
+new Added class 42 : org.opengis.coverage.processing.InvalidSampleDimensionException: 
+new Added class 43 : org.opengis.layer.LayerException: 
+new Added class 44 : org.opengis.layer.source.LayerSource: 
+new Added class 45 : org.opengis.layer.source.LayerSourceFactory: 
+new Added class 46 : org.opengis.filter.expression.Literal: 
+new Added class 47 : org.opengis.coverage.MetadataNameNotFoundException: 
+new Added class 48 : org.opengis.filter.expression.Multiply: 
+new Added class 49 : org.opengis.filter.Not: 
+new Added class 50 : org.opengis.coverage.processing.Operation: 
+new Added class 51 : org.opengis.coverage.processing.OperationNotFoundException: 
+new Added class 52 : org.opengis.filter.Or: 
+new Added class 53 : org.opengis.filter.spatial.Overlaps: 
+new Added class 54 : org.opengis.coverage.PaletteInterpretation: 
+new Added class 55 : org.opengis.coverage.PointOutsideCoverageException: 
+new Added class 56 : org.opengis.filter.PropertyIsBetween: 
+new Added class 57 : org.opengis.filter.PropertyIsEqualTo: 
+new Added class 58 : org.opengis.filter.PropertyIsGreaterThan: 
+new Added class 59 : org.opengis.filter.PropertyIsGreaterThanOrEqualTo: 
+new Added class 60 : org.opengis.filter.PropertyIsLessThan: 
+new Added class 61 : org.opengis.filter.PropertyIsLessThanOrEqualTo: 
+new Added class 62 : org.opengis.filter.PropertyIsLike: 
+new Added class 63 : org.opengis.filter.PropertyIsNull: 
+new Added class 64 : org.opengis.filter.expression.PropertyName: 
+new Added class 65 : org.opengis.coverage.SampleDimension: 
+new Added class 66 : org.opengis.coverage.SampleDimensionType: 
+new Added class 67 : org.opengis.filter.spatial.SpatialOperator: 
+new Added class 68 : org.opengis.filter.expression.Subtract: 
+new Added class 69 : org.opengis.filter.spatial.Touches: 
+new Added class 70 : org.opengis.coverage.grid.ValueInBytePacking: 
+new Added class 71 : org.opengis.filter.spatial.Within: 
+testing relationship 
+class 0  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 67£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 17£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 21£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 67£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 17£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 21£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 31£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 46  vs  class 21£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 49  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 55  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 58  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 59  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 62  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 63  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 64  vs  class 21£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 67  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 68  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 69  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 71  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  38   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

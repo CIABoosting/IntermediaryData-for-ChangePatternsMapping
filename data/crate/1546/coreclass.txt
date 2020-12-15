@@ -1,0 +1,7 @@
+GlobalAggregateConsumer:0.27
+Visitor:0.18833333333333332
+ConsumingPlanner:0.17
+MultiSourceAggregationConsumer:0.06
+NonDistributedGroupByConsumer:0.03333333333333333
+ReduceOnCollectorGroupByConsumer:0.03333333333333333
+DistributedGroupByConsumer:0.03333333333333333

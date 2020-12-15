@@ -1,0 +1,12 @@
+AzureMultifactorProperties:0.2
+RadiusMultifactorProperties:0.2
+SwivelMultifactorProperties:0.18
+U2FMultifactorProperties:0.16666666666666666
+GAuthMultifactorProperties:0.16666666666666666
+YubiKeyMultifactorProperties:0.14
+AuthyMultifactorProperties:0.14
+YubiKeyMultifactorAuthenticationProvider:0.11
+GoogleAuthenticatorMultifactorAuthenticationProvider:0.04
+U2FMultifactorAuthenticationProvider:0.04
+AzureAuthenticatorMultifactorAuthenticationProvider:0.04
+AuthyMultifactorAuthenticationProvider:0.0

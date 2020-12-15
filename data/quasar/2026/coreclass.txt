@@ -1,0 +1,14 @@
+LifecycleListener:0.40199999999999997
+LocalActor:0.36333333333333334
+ActorImpl:0.34005555555555556
+RemoteActor:0.20333333333333334
+GlxRemoteActor:0.19333333333333333
+PeerTKB:0.19333333333333333
+GlxRemoteChannel:0.16
+GlxLifecycleListenerProxy:0.14333333333333334
+ActorLifecycleListener:0.13
+RemoteChannelReceiver:0.12333333333333334
+LifecycleListenerProxy:0.10666666666666667
+RemoteActorRegisterListenerAdminMessage:0.06666666666666667
+RemoteActorUnregisterListenerAdminMessage:0.04666666666666667
+RegistryRecord:0.02

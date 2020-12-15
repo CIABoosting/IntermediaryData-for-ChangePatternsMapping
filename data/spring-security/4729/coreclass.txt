@@ -1,0 +1,9 @@
+PersistentTokenBasedRememberMeServices:0.39
+AbstractRememberMeServices:0.37666666666666665
+PersistentTokenRepository:0.35744444444444445
+JdbcTokenRepositoryImpl:0.18333333333333332
+MockTokenRepository:0.16333333333333333
+RemoveUserTokens:0.1375
+TokensBySeriesMapping:0.03
+InsertToken:0.023333333333333334
+UpdateToken:0.023333333333333334

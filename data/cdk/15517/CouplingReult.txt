@@ -1,0 +1,64 @@
+Compared Result of  two versions
+Number of New Class: 30
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.jchempaint.AbstractAppletTest: 
+new Added class 1 : org.openscience.jchempaint.controller.AddAtomModule: 
+new Added class 2 : org.openscience.jchempaint.controller.AddBondDragModule: 
+new Added class 3 : org.openscience.jchempaint.controller.AddRingModule: 
+new Added class 4 : org.openscience.jchempaint.controller.AtomAtomMappingModule: 
+new Added class 5 : org.openscience.jchempaint.renderer.generators.BasicBondGenerator: 
+new Added class 6 : org.openscience.jchempaint.controller.ControllerHub: 
+new Added class 7 : org.openscience.jchempaint.action.ConvertToPseudoAtomAction: 
+new Added class 8 : org.openscience.jchempaint.action.CopyPasteAction: 
+new Added class 9 : org.openscience.jchempaint.action.CreateReactionAction: 
+new Added class 10 : org.openscience.jchempaint.dialog.EnterElementSwingModule: 
+new Added class 11 : org.openscience.jchempaint.InsertTextPanel: 
+new Added class 12 : org.openscience.jchempaint.application.JChemPaint: 
+new Added class 13 : org.openscience.jchempaint.applet.JChemPaintAbstractApplet: 
+new Added class 14 : org.openscience.jchempaint.applet.JChemPaintEditorApplet: 
+new Added class 15 : org.openscience.jchempaint.JChemPaintPanel: 
+new Added class 16 : org.openscience.jchempaint.JCPEditorAppletBugsTest: 
+new Added class 17 : org.openscience.jchempaint.JCPEditorAppletMenuTest: 
+new Added class 18 : org.openscience.jchempaint.renderer.selection.LogicalSelection: 
+new Added class 19 : org.openscience.jchempaint.controller.undoredo.MakeReactantOrProductInExistingReactionEdit: 
+new Added class 20 : org.openscience.jchempaint.controller.undoredo.MakeReactantOrProductInNewReactionEdit: 
+new Added class 21 : org.openscience.jchempaint.renderer.selection.MultiSelection: 
+new Added class 22 : org.openscience.jchempaint.controller.ReactionArrowModule: 
+new Added class 23 : org.openscience.jchempaint.controller.ReactionHub: 
+new Added class 24 : org.openscience.jchempaint.controller.undoredo.RemoveAtomsAndBondsEdit: 
+new Added class 25 : org.openscience.jchempaint.action.SaveAsAction: 
+new Added class 26 : org.openscience.jchempaint.renderer.selection.ShapeSelection: 
+new Added class 27 : org.openscience.jchempaint.renderer.selection.SingleSelection: 
+new Added class 28 : org.openscience.jchempaint.dialog.TemplateBrowser: 
+new Added class 29 : .TemplateImagesMaker: 
+testing relationship 
+class 0  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 15£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:17  r9:0  r10:0  r11:10  r12:0  r13:0  r14:6  r15:0  r16:0  r17:0  
+class 3  vs  class 6£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 7  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 28£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 6£º  r0:0  r1:0  r2:0  r3:4  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 13£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 1£º  r0:0  r1:0  r2:0  r3:5  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 16  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 15£º  r0:0  r1:0  r2:0  r3:13  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:117  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 15£º  r0:0  r1:0  r2:0  r3:11  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:47  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 6£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:20  r17:0  
+class 25  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:6  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:6  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  0   3 :  39   4 :  18   5 :  1   6 :  0   7 :  0   8 :  19   9 :  0   10 :  0   11 :  217   12 :  0   13 :  13   14 :  10   15 :  0   16 :  20   17 :  0   

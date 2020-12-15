@@ -1,0 +1,17 @@
+FunctionRegistry:0.37
+AstVisitor:0.2833333333333333
+Visitor:0.27666666666666667
+TestVarcharOperators:0.275
+TestJdbcResultSet:0.2633333333333333
+StandardTypes:0.2633333333333333
+Formatter:0.26
+TestSqlParser:0.24666666666666667
+AstBuilder:0.24666666666666667
+TestDriver:0.24333333333333335
+TypeRegistry:0.23833333333333334
+TestSignatureBinder:0.22666666666666666
+ColumnInfo:0.21333333333333335
+QueryResults:0.21333333333333335
+LiteralVisitor:0.21
+TestTypeRegistry:0.14
+ColumnJdbcTable:0.12

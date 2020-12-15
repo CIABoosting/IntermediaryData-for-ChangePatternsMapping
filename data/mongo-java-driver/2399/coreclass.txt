@@ -1,0 +1,14 @@
+CreateIndexesOperation:0.27
+MapReduceWithInlineResultsOperation:0.26
+MapReduceToCollectionOperation:0.26
+DropCollectionOperation:0.19666666666666666
+DropUserOperation:0.17
+UserExistsOperation:0.17
+CreateUserOperation:0.17
+UpdateUserOperation:0.17
+FindAndUpdateOperation:0.15
+GetDatabaseNamesOperation:0.14666666666666667
+DropIndexOperation:0.14333333333333334
+FindAndReplaceOperation:0.14
+OperationHelper:0.13333333333333333
+GroupOperation:0.12666666666666668

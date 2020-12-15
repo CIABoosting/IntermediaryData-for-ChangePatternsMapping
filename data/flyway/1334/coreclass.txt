@@ -1,0 +1,9 @@
+Location:0.5533333333333333
+MigrationTestCase:0.34
+SqlMigrationResolver:0.25666666666666665
+MainMediumTest:0.25333333333333335
+Main:0.21
+MetaDataTableTo20FormatUpgrader:0.2038888888888889
+MetaDataTableTo202FormatUpgrader:0.1588888888888889
+SqlMigrationExecutor:0.05333333333333334
+LocationSmallTest:0.043333333333333335

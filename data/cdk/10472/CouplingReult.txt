@@ -1,0 +1,58 @@
+Compared Result of  two versions
+Number of New Class: 33
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.controller.AbstractController2D: 
+new Added class 1 : org.openscience.cdk.renderer.AbstractRenderer2D: 
+new Added class 2 : org.openscience.cdk.renderer.ArrowRenderer2D: 
+new Added class 3 : org.openscience.cdk.layout.AtomPlacer: 
+new Added class 4 : org.openscience.cdk.modeling.builder3d.AtomPlacer3D: 
+new Added class 5 : org.openscience.cdk.io.cml.CML2Test: 
+new Added class 6 : org.openscience.cdk.controller.Controller2D: 
+new Added class 7 : org.openscience.cdk.tools.DataFeaturesTool: 
+new Added class 8 : org.openscience.cdk.applications.undoredo.FlipEditTest: 
+new Added class 9 : org.openscience.cdk.geometry.GeometryTools: 
+new Added class 10 : org.openscience.cdk.geometry.GeometryToolsInternalCoordinates: 
+new Added class 11 : org.openscience.cdk.geometry.GeometryToolsInternalCoordinatesTest: 
+new Added class 12 : org.openscience.cdk.geometry.GeometryToolsTest: 
+new Added class 13 : org.openscience.cdk.layout.HydrogenPlacer: 
+new Added class 14 : org.openscience.cdk.layout.HydrogenPlacerTest: 
+new Added class 15 : org.openscience.cdk.io.cml.JChemPaintTest: 
+new Added class 16 : org.openscience.cdk.io.cml.JmolTest: 
+new Added class 17 : org.openscience.cdk.io.cml.JumboTest: 
+new Added class 18 : org.openscience.cdk.qsar.descriptors.molecular.LengthOverBreadthDescriptor: 
+new Added class 19 : org.openscience.cdk.io.MDLV2000ReaderTest: 
+new Added class 20 : org.openscience.cdk.modeling.builder3d.ModelBuilder3D: 
+new Added class 21 : org.openscience.cdk.modeling.builder3d.ModelBuilder3dTest: 
+new Added class 22 : org.openscience.cdk.applications.swing.MoleculeViewer2DPanel: 
+new Added class 23 : org.openscience.cdk.qsar.descriptors.molecular.MomentOfInertiaDescriptor: 
+new Added class 24 : org.openscience.cdk.qsar.descriptors.molecular.PetitjeanShapeIndexDescriptor: 
+new Added class 25 : org.openscience.cdk.pharmacophore.PharmacophoreMatcher: 
+new Added class 26 : org.openscience.cdk.renderer.Renderer2D: 
+new Added class 27 : org.openscience.cdk.layout.RingPlacer: 
+new Added class 28 : org.openscience.cdk.renderer.SimpleRenderer2D: 
+new Added class 29 : org.openscience.cdk.layout.StructureDiagramGenerator: 
+new Added class 30 : org.openscience.cdk.layout.StructureDiagramGeneratorTest: 
+new Added class 31 : org.openscience.cdk.io.SVGWriter: 
+new Added class 32 : org.openscience.cdk.internet.WWMMatrixReader: 
+testing relationship 
+class 0  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:4  r15:0  r16:1  r17:0  
+class 20  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:4  r14:8  r15:0  r16:14  r17:0  
+class 21  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:10  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 28£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:10  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 28  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:13  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:12  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:12  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  0   3 :  0   4 :  0   5 :  1   6 :  0   7 :  0   8 :  5   9 :  0   10 :  35   11 :  32   12 :  0   13 :  52   14 :  13   15 :  0   16 :  15   17 :  0   

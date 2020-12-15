@@ -1,0 +1,10 @@
+AllocationService:0.635
+ShardsAllocator:0.6066666666666667
+BalancedShardsAllocator:0.5033333333333333
+DiskThresholdDeciderTests:0.28
+ESAllocationTestCase:0.22333333333333333
+FakeShardsAllocator:0.21083333333333334
+NodeVersionAllocationDeciderTests:0.17666666666666667
+NoopAllocationService:0.15333333333333332
+RandomAllocationDeciderTests:0.15333333333333332
+MockAllocationService:0.04666666666666667

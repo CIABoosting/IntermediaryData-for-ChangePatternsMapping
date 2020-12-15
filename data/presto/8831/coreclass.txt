@@ -1,0 +1,17 @@
+StoragePageSink:0.7033333333333334
+StorageManager:0.41
+RaptorMetadata:0.32
+MetadataDao:0.28103968253968253
+StorageManagerConfig:0.2733333333333333
+OrcStorageManager:0.19
+RaptorPageSink:0.19
+RaptorPageSinkProvider:0.14
+OrcStoragePageSink:0.13
+RaptorPlugin:0.12166666666666667
+TestRaptorSplitManager:0.11666666666666667
+RaptorInsertTableHandle:0.09333333333333334
+TestOrcStorageManager:0.09
+RaptorOutputTableHandle:0.08
+RaptorConnectorFactory:0.06666666666666667
+TestRaptorPlugin:0.04
+TestOrcStoragePageSink:0.0033333333333333335

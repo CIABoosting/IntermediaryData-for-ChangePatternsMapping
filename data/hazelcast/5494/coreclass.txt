@@ -1,0 +1,17 @@
+NearCacheConfig:0.43333333333333335
+EvictionConfig:0.41
+XmlConfigBuilder:0.2733333333333333
+ClientNearCacheTestSupport:0.22333333333333333
+NearCacheTestSupport:0.21666666666666667
+XmlClientConfigBuilder:0.21333333333333335
+ClientHeapNearCache:0.20666666666666667
+TestFullApplicationContext:0.2
+ClientRegressionWithMockNetworkTest:0.17666666666666667
+NearCacheLocalImmediateInvalidateTest:0.17333333333333334
+NearCacheLocalInvalidationTest:0.17333333333333334
+XmlClientConfigBuilderTest:0.16666666666666666
+NearCacheImpl:0.15666666666666668
+ClientCacheClearTest:0.14333333333333334
+ConfigXmlGeneratorTest:0.14333333333333334
+TestClientApplicationContext:0.14333333333333334
+NearCacheConfigTest:0.016666666666666666

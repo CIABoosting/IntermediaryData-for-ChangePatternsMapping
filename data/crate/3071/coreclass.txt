@@ -1,0 +1,14 @@
+AnalyzedStatement:0.6833333333333333
+TransportBaseSQLAction:0.2866666666666667
+CopyToAnalyzedStatement:0.19
+AbstractInsertAnalyzedStatement:0.18
+ExplainAnalyzedStatement:0.13
+CopyFromAnalyzedStatement:0.13
+DeleteAnalyzedStatement:0.12333333333333334
+SetAnalyzedStatement:0.12333333333333334
+UpdateAnalyzedStatement:0.1063888888888889
+ShowCreateTableAnalyzedStatement:0.1063888888888889
+KillAnalyzedStatement:0.08972222222222223
+ResetAnalyzedStatement:0.07972222222222221
+AbstractDDLAnalyzedStatement:0.05
+SelectAnalyzedStatement:0.03333333333333333

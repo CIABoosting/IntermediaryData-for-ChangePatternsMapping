@@ -1,0 +1,47 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.netty.handler.codec.dns.AbstractDnsMessage: 
+new Added class 1 : io.netty.handler.codec.dns.DatagramDnsQuery: 
+new Added class 2 : io.netty.handler.codec.dns.DatagramDnsResponse: 
+new Added class 3 : io.netty.handler.codec.dns.DefaultDnsQuery: 
+new Added class 4 : io.netty.handler.codec.dns.DefaultDnsRawRecord: 
+new Added class 5 : io.netty.handler.codec.dns.DefaultDnsResponse: 
+new Added class 6 : io.netty.resolver.dns.DnsAddressResolverGroup: 
+new Added class 7 : io.netty.resolver.dns.DnsCacheEntry: 
+new Added class 8 : io.netty.handler.codec.dns.DnsMessage: 
+new Added class 9 : io.netty.handler.codec.dns.DnsMessageUtil: 
+new Added class 10 : io.netty.resolver.dns.DnsNameResolver: 
+new Added class 11 : io.netty.resolver.dns.DnsNameResolverBuilder: 
+new Added class 12 : io.netty.resolver.dns.DnsNameResolverContext: 
+new Added class 13 : io.netty.resolver.dns.DnsNameResolverTest: 
+new Added class 14 : io.netty.handler.codec.dns.DnsQuery: 
+new Added class 15 : io.netty.handler.codec.dns.DnsQueryTest: 
+new Added class 16 : io.netty.handler.codec.dns.DnsRawRecord: 
+new Added class 17 : io.netty.handler.codec.dns.DnsResponse: 
+new Added class 18 : io.netty.handler.codec.dns.DnsResponseTest: 
+testing relationship 
+class 0  vs  class 8£º  r0:0  r1:0  r2:1  r3:4  r4:1  r5:13  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:4  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 14£º  r0:0  r1:0  r2:1  r3:13  r4:0  r5:13  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:6  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 17£º  r0:0  r1:0  r2:1  r3:13  r4:0  r5:17  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:6  r15:0  r16:2  r17:0  
+class 9  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:7  r15:0  r16:0  r17:0  
+class 9  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:6  r15:0  r16:4  r17:0  
+class 10  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 10  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:1  r10:8  r11:0  r12:0  r13:0  r14:2  r15:1  r16:3  r17:0  
+class 12  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:1  r14:2  r15:0  r16:0  r17:0  
+class 13  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:15  r12:0  r13:8  r14:3  r15:0  r16:1  r17:0  
+class 13  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  4   2 :  6   3 :  30   4 :  7   5 :  52   6 :  0   7 :  0   8 :  0   9 :  1   10 :  8   11 :  26   12 :  0   13 :  11   14 :  26   15 :  1   16 :  11   17 :  0   

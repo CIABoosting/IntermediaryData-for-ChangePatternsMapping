@@ -1,0 +1,16 @@
+NettyClientStream:0.39666666666666667
+Headers:0.31
+NettyServerStream:0.24
+Status:0.23
+OkHttpClientTransportTest:0.23
+OkHttpClientTransport:0.22333333333333333
+NettyClientHandler:0.22
+ClientFrameHandler:0.21333333333333335
+NettyClientStreamTest:0.20333333333333334
+NettyClientHandlerTest:0.19666666666666666
+AbstractClientStream:0.18
+AbstractServerStream:0.16
+MockStreamListener:0.13166666666666665
+AbstractStream:0.11666666666666667
+NettyStreamTestBase:0.11666666666666667
+HttpUtil:0.05

@@ -1,0 +1,37 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.action.ActionModule: 
+new Added class 1 : org.elasticsearch.rest.BytesRestResponseTests: 
+new Added class 2 : org.elasticsearch.action.admin.cluster.reroute.ClusterRerouteRequestTests: 
+new Added class 3 : org.elasticsearch.snapshots.DedicatedClusterSnapshotRestoreIT: 
+new Added class 4 : org.elasticsearch.common.blobstore.gcs.MockHttpTransport: 
+new Added class 5 : org.elasticsearch.http.netty3.Netty3HttpRequest: 
+new Added class 6 : org.elasticsearch.http.netty3.Netty3HttpServerTransport: 
+new Added class 7 : org.elasticsearch.http.netty4.Netty4HttpRequest: 
+new Added class 8 : org.elasticsearch.http.netty4.Netty4HttpServerTransport: 
+new Added class 9 : org.elasticsearch.common.path.PathTrieTests: 
+new Added class 10 : org.elasticsearch.rest.RestController: 
+new Added class 11 : org.elasticsearch.script.mustache.RestDeleteSearchTemplateAction: 
+new Added class 12 : org.elasticsearch.script.mustache.RestGetSearchTemplateAction: 
+new Added class 13 : org.elasticsearch.script.mustache.RestPutSearchTemplateAction: 
+new Added class 14 : org.elasticsearch.rest.RestRequest: 
+new Added class 15 : org.elasticsearch.index.reindex.RestRethrottleAction: 
+new Added class 16 : org.elasticsearch.rest.action.cat.RestTasksAction: 
+testing relationship 
+class 0  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:18  r12:1  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 14£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 7  vs  class 14£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 10  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:6  r15:1  r16:5  r17:0  
+class 11  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 12  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 13  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:2  r17:0  
+class 15  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 16  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 16  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:3  r17:0  
+record  0 :  0   1 :  2   2 :  0   3 :  0   4 :  0   5 :  1   6 :  1   7 :  0   8 :  1   9 :  0   10 :  0   11 :  20   12 :  1   13 :  1   14 :  14   15 :  1   16 :  16   17 :  0   

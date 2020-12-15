@@ -1,0 +1,15 @@
+LatLonPointFieldMapper:0.44333333333333336
+GeoPoint:0.36
+GeoPointFieldMapperTests:0.24333333333333335
+GeoPolygonQueryBuilderTests:0.22666666666666666
+GeoDistanceQueryBuilder:0.22666666666666666
+GeoDistanceRangeQueryTests:0.22666666666666666
+GeoDistanceRangeQueryBuilder:0.22666666666666666
+GeoDistanceQueryBuilderTests:0.21666666666666667
+GeoPolygonQueryBuilder:0.21333333333333335
+GeoBoundingBoxQueryBuilder:0.21
+GeoFilterIT:0.19333333333333333
+GeohashCellQueryBuilderTests:0.16333333333333333
+Builder:0.1575
+NestedQueryBuilderTests:0.13333333333333333
+TypeParser:0.08333333333333333

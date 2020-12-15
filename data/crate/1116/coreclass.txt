@@ -1,0 +1,13 @@
+SqlExpressions:0.4033333333333333
+UpdateAnalyzerTest:0.3333333333333333
+CreateAlterTableStatementAnalyzerTest:0.29
+TransportShardUpsertActionTest:0.27666666666666667
+ShowIntegrationTest:0.24666666666666667
+UpdateIntegrationTest:0.24666666666666667
+TestStatementBuilder:0.24
+InsertFromValuesAnalyzerTest:0.23
+InsertIntoIntegrationTest:0.23
+SymbolPrinterTest:0.22666666666666666
+TestSqlParser:0.20333333333333334
+AstBuilder:0.18
+UsersPlugin:0.03666666666666667

@@ -1,0 +1,64 @@
+Compared Result of  two versions
+Number of New Class: 24
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.inventory.core.templates.nodes.actions.AssociateLayoutAction: 
+new Added class 1 : org.inventory.communications.CommunicationsStub: 
+new Added class 2 : org.inventory.communications.util.Constants: 
+new Added class 3 : org.inventory.customization.classhierarchy.nodes.properties.IconPropertyEditor: 
+new Added class 4 : org.inventory.customization.classhierarchy.nodes.properties.ImageFileFilter: 
+new Added class 5 : org.inventory.design.modelsLayouts.model.LabelShape: 
+new Added class 6 : org.inventory.design.modelsLayouts.scene.widgets.LabelShapeWidget: 
+new Added class 7 : org.inventory.design.modelsLayouts.providers.ModelLayoutAcceptProvider: 
+new Added class 8 : org.inventory.design.modelsLayouts.scene.ModelLayoutScene: 
+new Added class 9 : org.inventory.design.modelsLayouts.ModelLayoutService: 
+new Added class 10 : org.inventory.design.modelsLayouts.scene.widgets.actions.MoveShapeProvider: 
+new Added class 11 : org.inventory.navigation.navigationtree.nodes.ObjectNode: 
+new Added class 12 : org.inventory.views.rackview.RackViewService: 
+new Added class 13 : org.inventory.design.modelsLayouts.model.RectangleShape: 
+new Added class 14 : org.inventory.design.modelsLayouts.RenderModelLayout: 
+new Added class 15 : org.inventory.design.modelsLayouts.scene.widgets.RenderShapeWidget: 
+new Added class 16 : org.inventory.design.modelsLayouts.scene.widgets.SelectableShapeWidget: 
+new Added class 17 : org.inventory.design.modelsLayouts.model.Shape: 
+new Added class 18 : org.inventory.design.modelsLayouts.model.ShapeFactory: 
+new Added class 19 : org.inventory.design.modelsLayouts.nodes.properties.ShapeGeneralProperty: 
+new Added class 20 : org.inventory.design.modelsLayouts.nodes.ShapeNode: 
+new Added class 21 : org.inventory.design.modelsLayouts.providers.ShapeSelectProvider: 
+new Added class 22 : org.inventory.design.modelsLayouts.actions.ShowLayoutView: 
+new Added class 23 : org.inventory.communications.util.Utils: 
+testing relationship 
+class 3  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 17£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:1  r17:0  
+class 6  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 17£º  r0:0  r1:0  r2:0  r3:2  r4:2  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 17£º  r0:0  r1:0  r2:0  r3:2  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 5£º  r0:0  r1:0  r2:0  r3:6  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 6£º  r0:0  r1:0  r2:0  r3:5  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 13£º  r0:0  r1:0  r2:0  r3:1  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 17£º  r0:0  r1:0  r2:0  r3:6  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:31  r12:0  r13:28  r14:10  r15:0  r16:13  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 17£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:14  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 17£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 14  vs  class 5£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-1  r12:0  r13:14  r14:3  r15:0  r16:1  r17:0  
+class 16  vs  class 8£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 16  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 5£º  r0:0  r1:0  r2:0  r3:6  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:11  r12:1  r13:30  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:16  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:2  r17:0  
+class 20  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:22  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  0   3 :  40   4 :  15   5 :  6   6 :  9   7 :  0   8 :  13   9 :  0   10 :  19   11 :  108   12 :  1   13 :  85   14 :  25   15 :  0   16 :  18   17 :  0   

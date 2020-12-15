@@ -1,0 +1,46 @@
+Compared Result of  two versions
+Number of New Class: 24
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.neotropic.kuwaiba.sync.model.AbstractDataEntity: 
+new Added class 1 : com.neotropic.kuwaiba.sync.model.AbstractSyncProvider: 
+new Added class 2 : org.kuwaiba.util.dynamicname.functions.AlphabeticLowercaseSequence: 
+new Added class 3 : org.kuwaiba.util.dynamicname.functions.AlphabeticUppercaseSequence: 
+new Added class 4 : org.kuwaiba.services.persistence.impl.neo4j.ApplicationEntityManagerImpl: 
+new Added class 5 : org.kuwaiba.services.persistence.impl.neo4j.telecom.BusinessEntityManagerImpl: 
+new Added class 6 : org.kuwaiba.util.ChangeDescriptor: 
+new Added class 7 : com.neotropic.kuwaiba.sync.connectors.snmp.DefaultSnmpSyncReader: 
+new Added class 8 : com.neotropic.kuwaiba.sync.connectors.snmp.DefaultSnmpSyncWriter: 
+new Added class 9 : org.kuwaiba.util.dynamicname.DynamicName: 
+new Added class 10 : org.kuwaiba.util.dynamicname.functions.DynamicSectionFunction: 
+new Added class 11 : org.kuwaiba.util.dynamicname.DynamicSectionFunctionFactory: 
+new Added class 12 : org.kuwaiba.util.dynamicname.functions.FunctionValue: 
+new Added class 13 : com.neotropic.kuwaiba.modules.reporting.html.HTMLReport: 
+new Added class 14 : org.kuwaiba.services.persistence.impl.neo4j.MetadataEntityManagerImpl: 
+new Added class 15 : org.kuwaiba.util.dynamicname.functions.NumericSequence: 
+new Added class 16 : com.neotropic.kuwaiba.sync.model.SyncAction: 
+new Added class 17 : com.neotropic.kuwaiba.sync.model.SyncDataSourceConfiguration: 
+new Added class 18 : com.neotropic.kuwaiba.sync.model.SynchronizationGroup: 
+new Added class 19 : org.kuwaiba.sync.SyncManager: 
+new Added class 20 : com.neotropic.kuwaiba.sync.model.SyncResult: 
+new Added class 21 : org.kuwaiba.util.bre.TempBusinessRulesEngine: 
+new Added class 22 : org.kuwaiba.beans.WebserviceBean: 
+new Added class 23 : org.kuwaiba.beans.WebserviceBeanRemote: 
+testing relationship 
+class 2  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:13  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:5  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 22  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:36  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 23£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  4   2 :  1   3 :  0   4 :  0   5 :  26   6 :  0   7 :  0   8 :  6   9 :  0   10 :  2   11 :  36   12 :  0   13 :  0   14 :  2   15 :  0   16 :  0   17 :  0   

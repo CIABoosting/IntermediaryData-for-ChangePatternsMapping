@@ -1,0 +1,73 @@
+Compared Result of  two versions
+Number of New Class: 38
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.server.factory.AbstractGestureInterpreter: 
+new Added class 1 : arinc661.server.jfx.model.maps.helpers.AbstractJFXMapItemRenderer: 
+new Added class 2 : arinc661.server.jfx.model.maps.helpers.AbstractJFXProjectedMapItemRenderer: 
+new Added class 3 : arinc661.server.model.helpers.builtin.AbstractMapItemList: 
+new Added class 4 : arinc661.server.wm.AbstractServerWindow: 
+new Added class 5 : arinc661.server.engine.BasicServerEngine: 
+new Added class 6 : arinc661.server.parser.cockpit.CockpitConfigurationHandler: 
+new Added class 7 : plugin.cockpit.CockpitPlugin: 
+new Added class 8 : arinc661.common.conf.ConfigProperties: 
+new Added class 9 : arinc661.jfx.mapitems.JFXDrawLineToCursorRenderer: 
+new Added class 10 : arinc661.jfx.mapitems.JFXFilledPolyStartRenderer: 
+new Added class 11 : arinc661.jfx.mapitems.JFXLegendRenderer: 
+new Added class 12 : arinc661.jfx.mapitems.JFXLineArcRenderer: 
+new Added class 13 : arinc661.jfx.mapitems.JFXLineSegmentRenderer: 
+new Added class 14 : arinc661.jfx.mapitems.JFXLineStartRenderer: 
+new Added class 15 : arinc661.server.jfx.model.maps.JFXProjectedMapItemRenderer: 
+new Added class 16 : arinc661.server.jfx.wm.JFXServerDisplay: 
+new Added class 17 : arinc661.server.jfx.JFXServerWrapper: 
+new Added class 18 : arinc661.jfx.mapitems.JFXSymbolCircleRenderer: 
+new Added class 19 : arinc661.jfx.mapitems.JFXSymbolGenericRenderer: 
+new Added class 20 : arinc661.jfx.mapitems.JFXSymbolOvalRenderer: 
+new Added class 21 : arinc661.jfx.mapitems.JFXSymbolRectangleRenderer: 
+new Added class 22 : arinc661.jfx.mapitems.JFXSymbolRotatedRenderer: 
+new Added class 23 : arinc661.jfx.mapitems.JFXSymbolRunwayRenderer: 
+new Added class 24 : arinc661.jfx.mapitems.JFXSymbolTargetRenderer: 
+new Added class 25 : arinc661.jfx.mapitems.JFXTriangleEndDoubleRenderer: 
+new Added class 26 : arinc661.jfx.mapitems.JFXTriangleEndRenderer: 
+new Added class 27 : arinc661.jfx.mapitems.JFXTriangleSegmentDoubleRenderer: 
+new Added class 28 : arinc661.jfx.mapitems.JFXTriangleSegmentRenderer: 
+new Added class 29 : arinc661.server.jfx.model.stdrenderer.LabelRenderer: 
+new Added class 30 : arinc661.server.swing.model.stdrenderer.MapItemListRenderer: 
+new Added class 31 : arinc661.server.jfx.model.stdrenderer.MapItemsPaneRenderer: 
+new Added class 32 : arinc661.server.model.painter.MapItemsRenderer: 
+new Added class 33 : arinc661.common.utils.ParserUtils: 
+new Added class 34 : arinc661.common.parser.PropertiesHandler: 
+new Added class 35 : arinc661.common.parser.PropertyList: 
+new Added class 36 : plugin.cockpit.actions.SuperLayerGenerator: 
+new Added class 37 : arinc661.server.swing.SwingServerWrapper: 
+testing relationship 
+class 2  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 15£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:5  r14:1  r15:0  r16:0  r17:0  
+class 9  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 3£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:11  r9:0  r10:6  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 32£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 3£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:9  r9:0  r10:7  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 15£º  r0:0  r1:0  r2:0  r3:5  r4:5  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 32£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  18   2 :  3   3 :  7   4 :  5   5 :  0   6 :  0   7 :  0   8 :  20   9 :  0   10 :  13   11 :  18   12 :  0   13 :  16   14 :  1   15 :  0   16 :  0   17 :  0   

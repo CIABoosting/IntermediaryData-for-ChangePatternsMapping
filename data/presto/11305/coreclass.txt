@@ -1,0 +1,12 @@
+PagesIndex:0.6033333333333334
+SourceHash:0.31333333333333335
+FilterAndProjectIterator:0.24166666666666667
+HashJoinIterator:0.21
+TopNIterator:0.21
+ExpressionCompiler:0.21
+HashAggregationIterator:0.2
+AbstractFilterAndProjectIterator:0.19
+SourceHashProvider:0.13333333333333333
+AbstractFilterAndProjectOperator:0.09821428571428571
+InMemoryWindowOperatorIterator:0.07
+InMemoryOrderByOperatorIterator:0.07

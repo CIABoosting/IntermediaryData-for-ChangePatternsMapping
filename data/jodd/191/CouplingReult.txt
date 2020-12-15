@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : jodd.util.ClassUtilTest: 
+new Added class 1 : jodd.util.collection.CompositeEnumerationTest: 
+new Added class 2 : jodd.util.collection.CompositeIteratorTest: 
+new Added class 3 : jodd.io.FastByteArrayOutputStream: 
+new Added class 4 : jodd.io.FastCharArrayWriter: 
+new Added class 5 : jodd.io.FileUtil: 
+new Added class 6 : jodd.util.collection.JoddArrayList: 
+new Added class 7 : jodd.util.collection.JoddArrayListTest: 
+new Added class 8 : jodd.core.JoddCoreDefaults: 
+new Added class 9 : jodd.util.MathUtilRandomBenchmark: 
+new Added class 10 : jodd.util.PrettyStringBuilderTest: 
+new Added class 11 : jodd.io.StreamUtil: 
+new Added class 12 : jodd.io.UnicodeInputStream: 
+testing relationship 
+class 5  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-7  r12:0  r13:14  r14:5  r15:0  r16:4  r17:0  
+class 11  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  36   12 :  0   13 :  34   14 :  5   15 :  0   16 :  4   17 :  0   

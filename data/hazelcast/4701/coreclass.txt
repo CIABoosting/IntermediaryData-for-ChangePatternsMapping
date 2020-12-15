@@ -1,0 +1,16 @@
+Packet:0.6033333333333334
+HazelcastTestSupport:0.23
+OperationServiceImpl:0.22333333333333333
+EventServiceImpl:0.20333333333333334
+TcpIpConnection_BaseTest:0.19666666666666666
+PacketTest:0.19333333333333333
+OutboundResponseHandler:0.18666666666666668
+TcpIpConnectionManager:0.18666666666666668
+PacketDispatcherImpl:0.16333333333333333
+OperationExecutorImpl_HandlePacketTest:0.16
+PacketDispatcherImplTest:0.16
+OperationThreadTest:0.16
+MemberReadHandlerTest:0.14
+AsyncInboundResponseHandlerTest:0.13666666666666666
+WriteThread:0.13333333333333333
+BroadcastOperationControlTask:0.10666666666666667

@@ -1,0 +1,12 @@
+TermsAggregatorFactory:0.46
+StringTermsTests:0.32666666666666666
+TermsBuilder:0.2833333333333333
+LongArray:0.27999999999999997
+BigLongArray:0.22
+LongArrayWrapper:0.20833333333333334
+AggregationContext:0.2
+TermsAggregationSearchBenchmark:0.19916666666666666
+RandomTests:0.13
+BigArraysTests:0.05
+TermsParser:0.03666666666666667
+WithOrdinals:0.018888888888888886

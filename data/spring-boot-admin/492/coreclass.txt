@@ -1,0 +1,9 @@
+Application:0.55
+Builder:0.1766666666666667
+ApplicationTest:0.17333333333333334
+ClientApplicationEventTest:0.15333333333333332
+JournalControllerTest:0.14
+SimpleJournaledEventStoreTest:0.14
+ApplicationRegistry:0.13
+ApplicationEventJournalTest:0.11333333333333333
+HazelcastJournaledEventStoreTest:0.11

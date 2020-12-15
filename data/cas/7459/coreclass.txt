@@ -1,0 +1,6 @@
+ResourceCRLRevocationChecker:0.4266666666666667
+PolicyBasedAuthenticationManager:0.23
+ResourceCRLFetcher:0.22333333333333333
+CRLDistributionPointRevocationChecker:0.2
+X509CredentialsAuthenticationHandler:0.14333333333333334
+AbstractCRLRevocationChecker:0.14333333333333334

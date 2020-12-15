@@ -1,0 +1,13 @@
+RetePathMatch:0.44666666666666666
+ReteSimpleMatch:0.4033333333333333
+ReteNetwork:0.37
+AbstractPathChecker:0.3233333333333333
+AbstractReteMatch:0.2966666666666667
+ClosurePathChecker:0.2833333333333333
+SubgraphCheckerNode:0.22333333333333333
+AbstractJoinWithPathStrategy:0.17333333333333334
+SequenceOperatorPathChecker:0.14666666666666667
+AbstractSimpleTestJoinStrategy:0.14333333333333334
+EmptyPathMatch:0.13
+JoinWithCountStrategy:0.11
+ReteSearchEngine:0.09

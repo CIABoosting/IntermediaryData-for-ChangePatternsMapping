@@ -1,0 +1,103 @@
+Compared Result of  two versions
+Number of New Class: 75
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opengis.crs.quality.AbsoluteExternalPositionalAccuracy: 
+new Added class 1 : org.opengis.spatialschema.geometry.geometry.ArcString: 
+new Added class 2 : org.opengis.spatialschema.geometry.geometry.ArcStringByBulge: 
+new Added class 3 : org.opengis.crs.AuthorityFactory: 
+new Added class 4 : org.opengis.coverage.grid.ByteInValuePacking: 
+new Added class 5 : org.opengis.coverage.grid.CannotCreateGridCoverageException: 
+new Added class 6 : org.opengis.coverage.CannotEvaluateException: 
+new Added class 7 : org.opengis.spatialschema.geometry.complex.Complex: 
+new Added class 8 : org.opengis.spatialschema.geometry.complex.Composite: 
+new Added class 9 : org.opengis.spatialschema.geometry.complex.CompositeCurve: 
+new Added class 10 : org.opengis.spatialschema.geometry.complex.CompositeSurface: 
+new Added class 11 : org.opengis.crs.crs.CompoundCRS: 
+new Added class 12 : org.opengis.spatialschema.geometry.geometry.Conic: 
+new Added class 13 : org.opengis.crs.operation.CoordinateOperation: 
+new Added class 14 : org.opengis.crs.operation.CoordinateOperationFactory: 
+new Added class 15 : org.opengis.crs.crs.CoordinateReferenceSystem: 
+new Added class 16 : org.opengis.crs.crs.CoordinateReferenceSystemFactory: 
+new Added class 17 : org.opengis.crs.crs.CoordinateReferenceSystemType: 
+new Added class 18 : org.opengis.crs.cs.CoordinateSystem: 
+new Added class 19 : org.opengis.crs.cs.CoordinateSystemAxis: 
+new Added class 20 : org.opengis.crs.operation.CoordinateTransformation: 
+new Added class 21 : org.opengis.crs.quality.CovarianceElement: 
+new Added class 22 : org.opengis.crs.quality.CovarianceMatrix: 
+new Added class 23 : org.opengis.coverage.Coverage: 
+new Added class 24 : org.opengis.crs.crs.CRS: 
+new Added class 25 : org.opengis.crs.crs.CRSAuthorityFactory: 
+new Added class 26 : org.opengis.spatialschema.geometry.primitive.Curve: 
+new Added class 27 : org.opengis.spatialschema.geometry.primitive.CurveInterpolation: 
+new Added class 28 : org.opengis.crs.datum.Datum: 
+new Added class 29 : org.opengis.crs.datum.DatumAuthorityFactory: 
+new Added class 30 : org.opengis.crs.datum.DatumFactory: 
+new Added class 31 : org.opengis.spatialschema.geometry.DirectPosition: 
+new Added class 32 : org.opengis.crs.datum.Ellipsoid: 
+new Added class 33 : org.opengis.crs.crs.EngineeringCRS: 
+new Added class 34 : org.opengis.spatialschema.geometry.Envelope: 
+new Added class 35 : org.opengis.crs.Factory: 
+new Added class 36 : org.opengis.crs.FactoryException: 
+new Added class 37 : org.opengis.coverage.grid.FileFormatNotCompatibleWithGridCoverageException: 
+new Added class 38 : org.opengis.crs.crs.GeocentricCRS: 
+new Added class 39 : org.opengis.spatialschema.geometry.geometry.GeodesicString: 
+new Added class 40 : org.opengis.crs.crs.GeographicCRS: 
+new Added class 41 : org.opengis.spatialschema.geometry.Geometry: 
+new Added class 42 : org.opengis.coverage.processing.GridAnalysis: 
+new Added class 43 : org.opengis.coverage.grid.GridCoverage: 
+new Added class 44 : org.opengis.coverage.grid.GridCoverageExchange: 
+new Added class 45 : org.opengis.coverage.processing.GridCoverageProcessor: 
+new Added class 46 : org.opengis.coverage.grid.GridPacking: 
+new Added class 47 : org.opengis.crs.crs.HeterogeneousCRSObjectException: 
+new Added class 48 : org.opengis.crs.Identifier: 
+new Added class 49 : org.opengis.crs.crs.ImageCRS: 
+new Added class 50 : org.opengis.crs.crs.IncompatibleCRSException: 
+new Added class 51 : org.opengis.crs.operation.IncompatibleOperationException: 
+new Added class 52 : org.opengis.spatialschema.geometry.geometry.LineSegment: 
+new Added class 53 : org.opengis.spatialschema.geometry.geometry.LineString: 
+new Added class 54 : org.opengis.crs.operation.OperationMethod: 
+new Added class 55 : org.opengis.coverage.PaletteInterpretation: 
+new Added class 56 : org.opengis.coverage.grid.ParameterType: 
+new Added class 57 : org.opengis.crs.operation.ParameterValue: 
+new Added class 58 : org.opengis.spatialschema.geometry.geometry.PointArray: 
+new Added class 59 : org.opengis.coverage.PointOutsideCoverageException: 
+new Added class 60 : org.opengis.crs.datum.PrimeMeridian: 
+new Added class 61 : org.opengis.spatialschema.geometry.primitive.Primitive: 
+new Added class 62 : org.opengis.spatialschema.geometry.primitive.PrimitiveFactory: 
+new Added class 63 : org.opengis.crs.crs.ProjectedCRS: 
+new Added class 64 : org.opengis.crs.ReferenceSystem: 
+new Added class 65 : org.opengis.crs.quality.RelativeInternalPositionalAccuracy: 
+new Added class 66 : org.opengis.coverage.SampleDimension: 
+new Added class 67 : org.opengis.coverage.SampleDimensionType: 
+new Added class 68 : org.opengis.spatialschema.geometry.primitive.Surface: 
+new Added class 69 : org.opengis.crs.crs.TemporalCRS: 
+new Added class 70 : org.opengis.spatialschema.geometry.TransfiniteSet: 
+new Added class 71 : org.opengis.crs.crs.UnsupportedCRSException: 
+new Added class 72 : org.opengis.coverage.grid.ValueInBytePacking: 
+new Added class 73 : org.opengis.crs.crs.VerticalCRS: 
+new Added class 74 : org.opengis.metadata.extent.VerticalExtent: 
+testing relationship 
+class 3  vs  class 35£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 41£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 15£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 64£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 64£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 15£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 15£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 15£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 70£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 42  vs  class 43£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 23£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 49  vs  class 15£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 53£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 59  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 41£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 69  vs  class 15£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 73  vs  class 15£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  21   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

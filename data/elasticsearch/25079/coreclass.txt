@@ -1,0 +1,9 @@
+ForkJoinPool:0.44333333333333336
+StampedLock:0.42
+CountedCompleter:0.41333333333333333
+AtomicDouble:0.34
+AtomicDoubleArray:0.33666666666666667
+ForkJoinWorkerThread:0.30333333333333334
+ForkJoinTask:0.23666666666666666
+CompletableFuture:0.21
+ConcurrentHashMapV8:0.18333333333333332

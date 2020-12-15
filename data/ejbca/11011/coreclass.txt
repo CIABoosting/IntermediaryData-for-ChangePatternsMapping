@@ -1,0 +1,17 @@
+BasePublisher:0.6166666666666667
+ValidationAuthorityPublisher:0.5333333333333333
+LdapPublisher:0.5233333333333333
+CrlCreateSessionBean:0.2833333333333333
+CustomPublisherContainer:0.26
+GeneralPurposeCustomPublisherTest:0.25333333333333335
+PublisherTest:0.20333333333333334
+PublisherQueueTest:0.16666666666666666
+EditPublisherJSPHelper:0.16
+PublisherConst:0.14666666666666667
+PublisherSession:0.13753968253968255
+PublisherQueueSessionBean:0.13666666666666666
+PublisherSessionBean:0.12666666666666668
+DummyCustomPublisher:0.12444444444444445
+CARepublishCommand:0.12333333333333334
+GeneralPurposeCustomPublisher:0.09
+ICustomPublisher:0.065

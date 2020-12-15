@@ -1,0 +1,16 @@
+Discovery:0.5343333333333333
+PutIndexTemplateRequest:0.38333333333333336
+DeleteIndexTemplateRequest:0.22833333333333333
+LocalDiscovery:0.19333333333333333
+CreateIndexRequest:0.16666666666666666
+PutIndexTemplateRequestBuilder:0.14666666666666667
+AcknowledgedRequest:0.11766666666666666
+DeleteIndexRequest:0.10333333333333333
+RestDeleteIndexTemplateAction:0.06533333333333334
+RestDeleteIndexAction:0.04583333333333334
+RestPutIndexTemplateAction:0.04361111111111112
+RestCreateIndexAction:0.04361111111111112
+PublishClusterStateAction:0.02277777777777778
+RestIndexPutAliasAction:0.013333333333333334
+DeleteIndexTemplateRequestBuilder:0.005
+RestIndexDeleteAliasesAction:0.0025

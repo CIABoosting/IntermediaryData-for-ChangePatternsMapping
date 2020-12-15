@@ -1,0 +1,12 @@
+TridiagonalOperator:0.54
+BoundaryCondition:0.335
+StepCondition:0.27051984126984113
+ArrayWrapper:0.18
+PayoffWrapper:0.13666666666666666
+NeumannBC:0.12333333333333334
+DirichletBC:0.12333333333333334
+CurveDependentStepCondition:0.11333333333333333
+ShoutCondition:0.07333333333333333
+AmericanCondition:0.013333333333333334
+BSMOperator:0.01
+CurveWrapper:0.0

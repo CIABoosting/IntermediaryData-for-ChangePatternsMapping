@@ -1,0 +1,15 @@
+DefaultTicketRegistry:0.54
+TicketRegistryCleaner:0.22666666666666666
+ServiceRegistryDao:0.2105952380952381
+CasCoreTicketsConfiguration:0.18
+InMemory:0.16777777777777778
+ServiceRegistryInitializer:0.14666666666666667
+NoOpTicketRegistryCleaner:0.13666666666666666
+MongoDbTicketRegistryConfiguration:0.12
+HazelcastTicketRegistryConfiguration:0.12
+CasCoreTicketsSchedulingConfiguration:0.12
+DefaultTicketRegistryTests:0.11333333333333333
+CouchbaseTicketRegistryConfiguration:0.09333333333333334
+MemcachedTicketRegistryConfiguration:0.08666666666666667
+AbstractServiceRegistryDao:0.043333333333333335
+DefaultTicketRegistryCleaner:0.043333333333333335

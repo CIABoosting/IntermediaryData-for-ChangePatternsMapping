@@ -1,0 +1,13 @@
+IndexShard:0.571888888888889
+Engine:0.56
+CommonStats:0.4166666666666667
+IndicesStatsRequest:0.39666666666666667
+InternalIndexShard:0.31
+RobinEngine:0.23666666666666666
+IndicesStatsRequestBuilder:0.22
+TransportIndicesStatsAction:0.21333333333333335
+NodeIndicesStats:0.21
+SimpleIndexStatsTests:0.13666666666666666
+RobinEngineTests:0.1
+RestIndicesStatsAction:0.04833333333333333
+RestSegmentsStatsHandler:0.03333333333333333

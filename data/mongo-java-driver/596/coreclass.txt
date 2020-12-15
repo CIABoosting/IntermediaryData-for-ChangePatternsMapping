@@ -1,0 +1,15 @@
+Mongo:0.5933333333333334
+Builder:0.38
+DefaultClusterableServerFactory:0.3233333333333333
+DefaultClusterFactory:0.31666666666666665
+ConnectionString:0.26666666666666666
+MongoClientOptions:0.2633333333333333
+InternalStreamConnectionFactory:0.26
+MongoClientURI:0.18
+InternalStreamConnectionInitializer:0.18
+MongoClientSettings:0.16333333333333333
+AuthenticatingConnectionTest:0.15666666666666668
+SingleServerClusterTest:0.14
+PlainAuthenticatorTest:0.11666666666666667
+MongoClients:0.10666666666666667
+MessageHelper:0.08333333333333333

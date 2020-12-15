@@ -1,0 +1,13 @@
+SearchContext:0.4866666666666667
+QueryParseContext:0.24333333333333335
+PercolateContext:0.23333333333333334
+FilteredSearchContext:0.23333333333333334
+DefaultSearchContext:0.23333333333333334
+TestSearchContext:0.21333333333333335
+NestedInnerQueryParseSupport:0.19333333333333333
+MapperService:0.19
+FetchPhase:0.17833333333333334
+Factory:0.16666666666666666
+InnerHitsParseElement:0.15
+ExistsQueryParser:0.14333333333333334
+MissingQueryParser:0.14333333333333334

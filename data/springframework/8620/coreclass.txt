@@ -1,0 +1,10 @@
+CustomerCredit:0.6633333333333333
+TradeJobFunctionalTests:0.22333333333333333
+CustomerCreditIncreaseProcessor:0.175
+FlatFileCustomerCreditWriter:0.14
+IbatisCustomerCreditWriter:0.12666666666666668
+AbstractCustomerCreditIncreaseTests:0.043333333333333335
+CustomerCreditIncreaseProcessorTests:0.03666666666666667
+HibernateCreditWriter:0.013333333333333334
+HibernateJobFunctionalTests:0.0
+IbatisJobFunctionalTests:0.0

@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 20
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.itracker.persistence.dao.BaseHibernateDaoImplTest: 
+new Added class 1 : org.itracker.persistence.dao.ComponentDAOImplTest: 
+new Added class 2 : org.itracker.persistence.dao.ConfigurationDAOImplTest: 
+new Added class 3 : org.itracker.persistence.dao.CustomFieldDAOImplTest: 
+new Added class 4 : org.itracker.persistence.dao.CustomFieldValueDAOImplTest: 
+new Added class 5 : org.itracker.persistence.dao.IssueActivityDAOImplTest: 
+new Added class 6 : org.itracker.persistence.dao.IssueAttachmentDAOImplTest: 
+new Added class 7 : org.itracker.persistence.dao.IssueDAOImplTest: 
+new Added class 8 : org.itracker.persistence.dao.IssueHistoryDAOImplTest: 
+new Added class 9 : org.itracker.persistence.dao.IssueRelationDAOImplTest: 
+new Added class 10 : org.itracker.persistence.dao.LanguageDAOImplTest: 
+new Added class 11 : org.itracker.persistence.dao.NotificationDAOImplTest: 
+new Added class 12 : org.itracker.persistence.dao.PermissionDAOImplTest: 
+new Added class 13 : org.itracker.persistence.dao.ProjectDAOImplTest: 
+new Added class 14 : org.itracker.persistence.dao.ProjectScriptDAOImplTest: 
+new Added class 15 : org.itracker.persistence.dao.ReportDAOImplTest: 
+new Added class 16 : org.itracker.persistence.dao.UserDAOImplTest: 
+new Added class 17 : org.itracker.persistence.dao.UserPreferencesDAOImplTest: 
+new Added class 18 : org.itracker.persistence.dao.VersionDAOImplTest: 
+new Added class 19 : org.itracker.persistence.dao.WorkflowScriptDAOImplTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,8 @@
+MasterSlaveConnectionManager:0.41
+MasterSlaveEntry:0.4066666666666667
+RedisConnection:0.31
+ClusterConnectionManager:0.24666666666666667
+SingleConnectionManager:0.20666666666666667
+SingleEntry:0.16
+ClusterPartition:0.11944444444444442
+RedisTimeoutException:0.08333333333333333

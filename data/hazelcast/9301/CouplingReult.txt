@@ -1,0 +1,43 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.hazelcast.partition.impl.BaseMigrationOperation: 
+new Added class 1 : com.hazelcast.cluster.impl.operations.BeforeJoinCheckFailureOperation: 
+new Added class 2 : com.hazelcast.client.proxy.ClientClusterProxy: 
+new Added class 3 : com.hazelcast.core.Cluster: 
+new Added class 4 : com.hazelcast.cluster.ClusterService: 
+new Added class 5 : com.hazelcast.cluster.impl.ClusterServiceImpl: 
+new Added class 6 : com.hazelcast.cluster.impl.operations.FinalizeJoinOperation: 
+new Added class 7 : com.hazelcast.jca.HazelcastConnectionImplTest: 
+new Added class 8 : com.hazelcast.instance.HazelcastInstanceImpl: 
+new Added class 9 : com.hazelcast.partition.impl.InternalPartitionServiceImpl: 
+new Added class 10 : com.hazelcast.spi.impl.operationservice.impl.Invocation_NetworkSplitTest: 
+new Added class 11 : com.hazelcast.instance.Node: 
+new Added class 12 : com.hazelcast.test.TestHazelcastInstanceFactory: 
+new Added class 13 : com.hazelcast.test.TestNodeRegistry: 
+new Added class 14 : com.hazelcast.instance.TestUtil: 
+new Added class 15 : com.hazelcast.transaction.impl.TransactionManagerServiceImpl: 
+testing relationship 
+class 1  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:42  r9:0  r10:47  r11:0  r12:0  r13:0  r14:10  r15:0  r16:3  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:12  r9:0  r10:10  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:26  r9:2  r10:31  r11:0  r12:0  r13:0  r14:9  r15:0  r16:2  r17:0  
+class 10  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:16  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 11  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  1   4 :  1   5 :  6   6 :  1   7 :  0   8 :  93   9 :  2   10 :  97   11 :  35   12 :  0   13 :  25   14 :  21   15 :  0   16 :  6   17 :  0   

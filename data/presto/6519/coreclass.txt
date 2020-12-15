@@ -1,0 +1,11 @@
+LocalQueryRunner:0.49333333333333335
+FunctionAssertions:0.3466666666666667
+ExpressionCompiler:0.29800000000000004
+ScanFilterAndProjectOperatorFactory:0.2633333333333333
+FilterAndProjectOperatorFactory:0.24666666666666667
+TestPageProcessorCompiler:0.24333333333333335
+BenchmarkPageProcessor:0.20111111111111113
+PredicateFilterBenchmark:0.16
+HandTpchQuery6:0.14666666666666667
+TestFilterAndProjectOperator:0.11333333333333333
+DynamicTupleFilterFactory:0.11

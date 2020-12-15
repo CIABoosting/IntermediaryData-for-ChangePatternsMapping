@@ -1,0 +1,16 @@
+Transaction:0.7266666666666667
+MapTransactionTest:0.37333333333333335
+TransactionalMultiMapProxy:0.3333333333333333
+CollectionResponse:0.3233333333333333
+TransactionClientProxy:0.31
+TransactionImpl:0.2733333333333333
+CollectionWrapper:0.21666666666666667
+TransactionalMultiMapProxySupport:0.20666666666666667
+DummyWanReplication:0.11
+TxnRemoveOperation:0.08333333333333333
+TxnRemoveAllOperation:0.08333333333333333
+TxnPutOperation:0.08333333333333333
+DummyMapMergePolicy:0.04
+MultiMapTransactionLog:0.03333333333333333
+TxnMultiMapTest:0.03
+TxnLockAndGetOperation:0.023333333333333334

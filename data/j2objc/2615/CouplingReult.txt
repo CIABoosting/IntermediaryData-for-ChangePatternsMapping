@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.google.devtools.j2objc.translate.ArrayRewriter: 
+new Added class 1 : java.util.zip.Deflater: 
+new Added class 2 : java.util.zip.Inflater: 
+new Added class 3 : com.google.devtools.j2objc.translate.InnerClassExtractorTest: 
+new Added class 4 : java.nio.charset.IOSCharsetDecoder: 
+new Added class 5 : java.nio.charset.IOSCharsetEncoder: 
+new Added class 6 : com.google.j2objc.security.IosMD5MessageDigest: 
+new Added class 7 : org.mockito.internal.creation.ios.IosMockMaker: 
+new Added class 8 : com.google.j2objc.security.IosSecureRandomImpl: 
+new Added class 9 : com.google.j2objc.security.IosSHAMessageDigest: 
+new Added class 10 : com.google.devtools.j2objc.translate.NilCheckResolverTest: 
+new Added class 11 : libcore.io.Posix: 
+new Added class 12 : java.lang.reflect.Proxy: 
+new Added class 13 : com.google.devtools.j2objc.gen.StatementGeneratorTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

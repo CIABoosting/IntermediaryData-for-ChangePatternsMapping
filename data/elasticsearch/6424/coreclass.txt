@@ -1,0 +1,9 @@
+IndexShard:0.55
+Translog:0.46
+AsyncAfterWriteAction:0.43444444444444447
+WritePrimaryResult:0.24
+TranslogTests:0.22666666666666666
+WriteReplicaResult:0.20333333333333334
+TransportWriteAction:0.14833333333333334
+IndexShardTests:0.14416666666666667
+RespondingWriteResult:0.08738888888888888

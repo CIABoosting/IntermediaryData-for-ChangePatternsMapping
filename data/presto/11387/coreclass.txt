@@ -1,0 +1,13 @@
+JoinNode:0.5266666666666666
+Rewriter:0.2866666666666667
+TupleAnalyzer:0.25
+TestAnalyzer:0.24
+BlockAssertions:0.22666666666666666
+HashJoinIterator:0.22
+AbstractTestQueries:0.20333333333333334
+HashJoinOperator:0.2
+NodePrinter:0.19666666666666666
+RewritingVisitor:0.17333333333333334
+Visitor:0.15333333333333332
+RelationPlanner:0.14333333333333334
+TestHashJoinOperator:0.13666666666666666

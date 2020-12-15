@@ -1,0 +1,12 @@
+FileSyncService:0.51
+HttpOutgoingTransport:0.38666666666666666
+ProcessInfoKey:0.36
+MockTransportManager:0.2833333333333333
+HttpTransportManager:0.25666666666666665
+IFileSyncService:0.24666666666666667
+ITransportManager:0.22166666666666668
+AbstractService:0.15666666666666668
+PushService:0.11666666666666667
+FileSyncPushUriHandler:0.1
+FileSyncPullUriHandler:0.09
+InternalTransportManager:0.05333333333333334

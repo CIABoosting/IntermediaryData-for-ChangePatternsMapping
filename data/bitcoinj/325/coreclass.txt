@@ -1,0 +1,12 @@
+SendRequest:0.5066666666666667
+Context:0.4533333333333333
+TestWithNetworkConnections:0.23
+BlockChainTest:0.21166666666666667
+WalletTest:0.20666666666666667
+ChainSplitTest:0.20333333333333334
+ChannelConnectionTest:0.20333333333333334
+ExamplePaymentChannelClient:0.17666666666666667
+PaymentChannelStateTest:0.17333333333333334
+TestWithWallet:0.16666666666666666
+AbstractFullPrunedBlockChainTest:0.14
+TransactionBroadcastTest:0.13333333333333333

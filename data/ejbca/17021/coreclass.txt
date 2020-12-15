@@ -1,0 +1,14 @@
+PublishingCrlSession:0.6816666666666666
+CaTestUtils:0.41
+PublishingCrlSessionTest:0.3933333333333333
+IntegratedOcspResponseTest:0.33
+CrlCreateSessionTest:0.26
+OcspResponseGeneratorSessionBean:0.24666666666666667
+CertificateStoreSessionBean:0.24
+CertificateStoreSessionLocal:0.22166666666666668
+InternalCertificateStoreSessionRemote:0.22166666666666668
+PublishingCrlSessionBean:0.19333333333333333
+InternalCertificateStoreSessionBean:0.17333333333333334
+PublishingCrlSessionLocal:0.16922222222222222
+PublishingCrlProxySessionRemote:0.16333333333333333
+PublishingCrlProxySessionBean:0.06333333333333334

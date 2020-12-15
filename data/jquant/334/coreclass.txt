@@ -1,0 +1,15 @@
+SeedGenerator:0.35333333333333333
+RandomSequenceGenerator:0.27051984126984113
+MersenneTwisterUniformRng:0.26
+InverseCumulativeRsg:0.24333333333333335
+UniformSequenceGenerator:0.16333333333333333
+SequenceGenerator:0.095
+SobolRsg:0.06333333333333334
+AbstractRandomSequenceGenerator:0.023333333333333334
+RandomNumberGenerator:0.006666666666666667
+InverseCumulativeRng:0.006666666666666667
+GenericLowDiscrepancy:0.006666666666666667
+PrimitivePolynomials:0.0033333333333333335
+InverseCumulative:0.0033333333333333335
+PseudoRandom:0.0
+GenericPseudoRandom:0.0

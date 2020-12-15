@@ -1,0 +1,72 @@
+Compared Result of  two versions
+Number of New Class: 35
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.springframework.binding.convert.support.AbstractConverter: 
+new Added class 1 : org.springframework.binding.convert.support.AbstractFormattingConverter: 
+new Added class 2 : org.springframework.webflow.definition.Annotated: 
+new Added class 3 : org.springframework.webflow.engine.AnnotatedAction: 
+new Added class 4 : org.springframework.webflow.engine.AnnotatedObject: 
+new Added class 5 : org.springframework.webflow.engine.AnnotatedObjectTests: 
+new Added class 6 : org.springframework.webflow.engine.AnnotedActionTests: 
+new Added class 7 : org.springframework.binding.convert.ConversionExecutor: 
+new Added class 8 : org.springframework.binding.convert.support.ConversionExecutorImpl: 
+new Added class 9 : org.springframework.binding.convert.support.ConversionExecutorImplTests: 
+new Added class 10 : org.springframework.binding.convert.Converter: 
+new Added class 11 : org.springframework.faces.model.converter.DataModelConverter: 
+new Added class 12 : org.springframework.binding.mapping.impl.DefaultMapping: 
+new Added class 13 : org.springframework.binding.mapping.impl.DefaultMappingContext: 
+new Added class 14 : org.springframework.webflow.engine.Flow: 
+new Added class 15 : org.springframework.webflow.engine.builder.FlowArtifactFactory: 
+new Added class 16 : org.springframework.webflow.definition.registry.FlowDefinitionRegistryImplTests: 
+new Added class 17 : org.springframework.binding.convert.support.FormatterBackedConversionExecutor: 
+new Added class 18 : org.springframework.webflow.persistence.HibernateFlowExecutionListenerTests: 
+new Added class 19 : org.springframework.webflow.persistence.JpaFlowExecutionListenerTests: 
+new Added class 20 : org.springframework.binding.mapping.impl.MappingContext: 
+new Added class 21 : org.springframework.webflow.test.MockExternalContext: 
+new Added class 22 : org.springframework.webflow.test.MockFlowSession: 
+new Added class 23 : org.springframework.webflow.mvc.view.MvcView: 
+new Added class 24 : org.springframework.webflow.mvc.MvcViewFactoryTests: 
+new Added class 25 : org.springframework.binding.convert.support.NoOpConverter: 
+new Added class 26 : org.springframework.binding.convert.support.RuntimeBindingConversionExecutor: 
+new Added class 27 : org.springframework.binding.expression.support.StaticExpression: 
+new Added class 28 : org.springframework.binding.convert.support.TextToBoolean: 
+new Added class 29 : org.springframework.binding.convert.support.TextToClass: 
+new Added class 30 : org.springframework.binding.convert.support.TextToLabeledEnum: 
+new Added class 31 : org.springframework.webflow.engine.builder.support.TextToTargetStateResolver: 
+new Added class 32 : org.springframework.webflow.engine.builder.support.TextToTransitionCriteria: 
+new Added class 33 : org.springframework.webflow.expression.el.WebFlowELExpressionParserTests: 
+new Added class 34 : org.springframework.webflow.expression.WebFlowOgnlExpressionParserTests: 
+testing relationship 
+class 0  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:2  r11:1  r12:0  r13:1  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:12  r17:0  
+class 13  vs  class 20£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 17  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:28  r12:0  r13:23  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:22  r12:0  r13:20  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 23  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:12  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 3£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 3£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  10   2 :  6   3 :  2   4 :  1   5 :  4   6 :  0   7 :  0   8 :  22   9 :  0   10 :  10   11 :  67   12 :  0   13 :  57   14 :  10   15 :  0   16 :  12   17 :  0   

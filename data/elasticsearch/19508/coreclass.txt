@@ -1,0 +1,15 @@
+IndexShard:0.8011111111111111
+Client:0.7711111111111112
+InternalIndexShard:0.3466666666666667
+TransportClient:0.33
+MoreLikeThisQueryParser:0.3
+AbstractClient:0.2833333333333333
+SimpleRoutingTests:0.25
+IndicesRequestTests:0.24666666666666667
+ActionModule:0.22666666666666666
+ActionNames:0.19666666666666666
+BasicBackwardsCompatibilityTest:0.18666666666666668
+InternalIndexService:0.16333333333333333
+MoreLikeThisFetchService:0.11333333333333333
+MockMoreLikeThisFetchService:0.11333333333333333
+RestActionModule:0.11333333333333333

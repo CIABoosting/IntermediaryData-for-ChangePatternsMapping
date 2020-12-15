@@ -1,0 +1,12 @@
+OutputLayer:0.6033333333333334
+BaseLayer:0.45
+GravesLSTM:0.44
+WeightInitUtil:0.19
+TestPreProcessors:0.18
+GravesLSTMParamInitializer:0.16333333333333333
+GradientCheckUtil:0.1318888888888889
+DefaultLayerFactory:0.13
+LayerFactories:0.12333333333333334
+GradientCheckTests:0.08666666666666667
+MultiLayerTestRNN:0.04666666666666667
+TestSetGetParameters:0.030833333333333338

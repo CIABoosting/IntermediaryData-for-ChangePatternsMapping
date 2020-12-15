@@ -1,0 +1,11 @@
+ClientMembershipListener:0.48
+ResponseTemplate:0.35833333333333334
+HazelcastClientInstanceImpl:0.2633333333333333
+ClientMessageTemplate:0.25666666666666665
+EventResponseTemplate:0.25666666666666665
+MultiMapKeySetMessageTask:0.25
+ClientMultiMapProxy:0.20666666666666667
+ListContainsAllMessageTask:0.20666666666666667
+SetAddAllMessageTask:0.20666666666666667
+MembershipListenerImpl:0.14666666666666667
+ResponseMessageConst:0.0

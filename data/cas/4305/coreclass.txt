@@ -1,0 +1,8 @@
+MultifactorAuthenticationProperties:0.4633333333333333
+GoogleAuthenticatorTokenCredential:0.39666666666666667
+GoogleAuthenticatorAuthenticationEventExecutionPlanConfiguration:0.36666666666666664
+OneTimeTokenCredential:0.26666666666666666
+OneTimeTokenRepositoryCleaner:0.26
+GoogleAuthenticatorOneTimeTokenRepositoryCleaner:0.2388888888888889
+BaseInMemoryOneTimeTokenCredentialRepository:0.22
+Azure:0.11

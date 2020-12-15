@@ -1,0 +1,12 @@
+InternalSearchHit:0.42
+ShardSearchFailure:0.4033333333333333
+SearchShardTarget:0.36333333333333334
+TransportSearchHelper:0.27666666666666667
+SearchPreferenceIT:0.25666666666666665
+AbstractSearchAsyncAction:0.17666666666666667
+SearchDfsQueryThenFetchAsyncAction:0.15333333333333332
+ClientScrollableHitSource:0.13666666666666666
+SearchScrollQueryThenFetchAsyncAction:0.13666666666666666
+InternalSearchHitTests:0.13
+SearchQueryThenFetchAsyncAction:0.12
+SearchDfsQueryAndFetchAsyncAction:0.11333333333333333

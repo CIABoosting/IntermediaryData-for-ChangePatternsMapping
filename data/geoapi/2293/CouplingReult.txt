@@ -1,0 +1,47 @@
+Compared Result of  two versions
+Number of New Class: 35
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opengis.metadata.identification.AggregateInformation: 
+new Added class 1 : org.opengis.metadata.identification.AssociationType: 
+new Added class 2 : org.opengis.referencing.cs.CartesianCS: 
+new Added class 3 : org.opengis.metadata.identification.CharacterSet: 
+new Added class 4 : org.opengis.metadata.citation.Citation: 
+new Added class 5 : org.opengis.util.CodeList: 
+new Added class 6 : org.opengis.CompatibilityTest: 
+new Added class 7 : org.opengis.metadata.content.CoverageDescription: 
+new Added class 8 : org.opengis.metadata.identification.DataIdentification: 
+new Added class 9 : org.opengis.metadata.ExtendedElementInformation: 
+new Added class 10 : org.opengis.metadata.distribution.Format: 
+new Added class 11 : org.opengis.referencing.crs.GeocentricCRS: 
+new Added class 12 : org.opengis.referencing.crs.GeographicCRS: 
+new Added class 13 : org.opengis.metadata.identification.Identification: 
+new Added class 14 : org.opengis.parameter.InvalidParameterCardinalityException: 
+new Added class 15 : org.opengis.parameter.InvalidParameterTypeException: 
+new Added class 16 : org.opengis.metadata.maintenance.MaintenanceInformation: 
+new Added class 17 : org.opengis.metadata.Metadata: 
+new Added class 18 : org.opengis.util.NameFactory: 
+new Added class 19 : org.opengis.tools.taglet.Note: 
+new Added class 20 : org.opengis.referencing.ObjectFactory: 
+new Added class 21 : org.opengis.parameter.ParameterDescriptor: 
+new Added class 22 : org.opengis.referencing.cs.PolarCS: 
+new Added class 23 : org.opengis.referencing.datum.PrimeMeridian: 
+new Added class 24 : org.opengis.metadata.content.RangeDimension: 
+new Added class 25 : org.opengis.referencing.ReferenceIdentifier: 
+new Added class 26 : org.opengis.metadata.citation.ResponsibleParty: 
+new Added class 27 : org.opengis.metadata.constraint.Restriction: 
+new Added class 28 : org.opengis.metadata.quality.Scope: 
+new Added class 29 : org.opengis.metadata.lineage.Source: 
+new Added class 30 : org.opengis.referencing.cs.SphericalCS: 
+new Added class 31 : org.opengis.metadata.citation.Telephone: 
+new Added class 32 : org.opengis.metadata.identification.TopicCategory: 
+new Added class 33 : org.opengis.referencing.crs.VerticalCRS: 
+new Added class 34 : org.opengis.referencing.datum.VerticalDatumType: 
+testing relationship 
+class 1  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  5   2 :  1   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,15 @@
+Connection:0.55
+HazelcastInstance:0.5433333333333333
+Member:0.4766666666666667
+HazelcastClientProxy:0.2833333333333333
+ClientEndpoint:0.22666666666666666
+HazelcastInstanceImpl:0.22
+ClientEngineImpl:0.21666666666666667
+ConnectionImpl:0.2
+ConnectionWrapper:0.2
+HazelcastInstanceProxy:0.19666666666666666
+HazelcastClient:0.19
+MemberImpl:0.18666666666666668
+ClientClusterServiceImpl:0.17333333333333334
+SmartClientConnectionManager:0.16
+DummyClientConnectionManager:0.15666666666666668

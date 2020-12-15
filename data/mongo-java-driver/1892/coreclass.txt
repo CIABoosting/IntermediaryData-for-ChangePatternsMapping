@@ -1,0 +1,13 @@
+CommandOperationHelper:0.3466666666666667
+ParallelScanOperation:0.27
+MapReduceWithInlineResultsOperation:0.25333333333333335
+GroupOperation:0.25333333333333335
+AggregateOperation:0.25333333333333335
+DistinctOperation:0.24666666666666667
+FindAndUpdateOperation:0.24666666666666667
+FindAndReplaceOperation:0.24666666666666667
+CountOperation:0.24666666666666667
+AggregateExplainOperation:0.23
+FindAndRemoveOperation:0.23
+CreateIndexesOperation:0.19666666666666666
+AggregateToCollectionOperation:0.19

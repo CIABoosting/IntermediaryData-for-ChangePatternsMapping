@@ -1,0 +1,12 @@
+Handler:0.44600000000000006
+AccessPathNullnessPropagation:0.34
+RxNullabilityPropagator:0.30333333333333334
+AccessPathNullnessAnalysis:0.26
+NullAwayRxSupportNegativeCases:0.26
+StreamModelBuilder:0.25
+BaseNoOpHandler:0.24333333333333335
+NullAwayRxSupportPositiveCases:0.22166666666666668
+DataFlow:0.205
+NullAway:0.19333333333333333
+CompositeHandler:0.18666666666666668
+MaplikeToFilterInstanceRecord:0.06333333333333334

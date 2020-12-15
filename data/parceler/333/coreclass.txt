@@ -1,0 +1,16 @@
+ReadWriteGenerator:0.65
+ParcelReadWriteGenerator:0.31666666666666665
+ParcelableGenerator:0.2866666666666667
+ParcelerModule:0.22666666666666666
+NullCheckReadWriteGenerator:0.10333333333333333
+TestParcelerModule:0.07583333333333334
+SparseArrayReadWriteGenerator:0.06333333333333334
+MapReadWriteGenerator:0.056666666666666664
+ArrayReadWriteGenerator:0.05
+ListReadWriteGenerator:0.02666666666666667
+SetReadWriteGenerator:0.02666666666666667
+ConverterWrapperReadWriteGenerator:0.02
+SingleEntryArrayReadWriteGenerator:0.02
+ParcelableReadWriteGenerator:0.02
+SerializableReadWriteGenerator:0.016666666666666666
+SimpleReadWriteGenerator:0.016666666666666666

@@ -1,0 +1,15 @@
+FunctionInvocation:0.4533333333333333
+TranslationUtil:0.37
+ImplementationImportCollector:0.28
+Functionizer:0.24
+Autoboxer:0.22
+CastResolver:0.21
+TypeFixer:0.20333333333333334
+ArrayRewriter:0.19666666666666666
+EnumRewriter:0.19666666666666666
+NilCheckResolver:0.19
+OperatorRewriter:0.15333333333333332
+RuntimeAnnotationGenerator:0.14666666666666667
+DestructorGenerator:0.14666666666666667
+JavaCloneWriter:0.14666666666666667
+SwitchRewriter:0.14

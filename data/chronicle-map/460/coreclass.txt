@@ -1,0 +1,17 @@
+SegmentStages:0.4377777777777777
+AllocatedChunks:0.3933333333333333
+HashLookupPos:0.36333333333333334
+Alloc:0.3333333333333333
+MapEntryStages:0.23
+HashSegmentIteration:0.22666666666666666
+HashKeyCrc32PayloadChecksumStrategy:0.19666666666666666
+HashQuery:0.15333333333333332
+ReplicatedMapSegmentIteration:0.13333333333333333
+HashLookupSearch:0.13333333333333333
+IterationKeyHashCode:0.11333333333333333
+CleanupAction:0.09333333333333334
+SearchAllocatedChunks:0.09
+ReplicatedQueryAlloc:0.03333333333333333
+IterationSegmentStages:0.03
+IterationAlloc:0.01
+QueryAlloc:0.0

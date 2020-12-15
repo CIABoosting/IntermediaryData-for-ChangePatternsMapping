@@ -1,0 +1,13 @@
+NeuralNetConfiguration:0.4
+VectorizedNonZeroStoppingConjugateGradient:0.32
+FilterRenderer:0.32
+VectorizedDeepLearningGradientAscent:0.29333333333333333
+Builder:0.29
+OutputLayer:0.27
+IterationGradientDescent:0.24333333333333335
+VectorizedBackTrackLineSearch:0.22666666666666666
+NeuralNetPlotter:0.21666666666666667
+NeuralNetworkOptimizer:0.21333333333333335
+StochasticHessianFree:0.17666666666666667
+VectorizedBackTrackLineSearchMinimum:0.16333333333333333
+ComposableIterationListener:0.06

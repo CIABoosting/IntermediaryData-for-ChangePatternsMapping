@@ -1,0 +1,14 @@
+DicomTestData:0.38
+RegroupByLateralityAndOrientationFilter:0.35333333333333333
+AEProperties:0.24333333333333335
+DicomFilter:0.12
+PagedImageFilterTest:0.11333333333333333
+RegroupNonImage:0.0775
+SimpleFilterItem:0.07666666666666666
+RegroupByLateralityAndOrientationFilterTest:0.05
+OrientationTest:0.023333333333333334
+ViewCodeTest:0.02
+MammoImageFlipperTest:0.013333333333333334
+LateralityTest:0.011111111111111112
+EffectiveLateralityTest:0.011111111111111112
+RegroupMultiframesByInstanceNumberFilterTest:0.011111111111111112

@@ -1,0 +1,12 @@
+Delete:0.47
+IndexSettings:0.4666666666666667
+ESIntegTestCase:0.44666666666666666
+IndexShard:0.39666666666666667
+Translog:0.33666666666666667
+IndexService:0.22333333333333333
+IndexStatsIT:0.18666666666666668
+IndexShardTests:0.18
+RecoveryWhileUnderLoadIT:0.18
+TransportReplicationAction:0.17
+AsyncTranslogFSync:0.043333333333333335
+IndexSettingsTests:0.03666666666666667

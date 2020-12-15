@@ -1,0 +1,78 @@
+Compared Result of  two versions
+Number of New Class: 55
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.semanticdesktop.aperture.addressbook.AddressbookCrawler: 
+new Added class 1 : org.semanticdesktop.aperture.addressbook.apple.AppleAddressbookCrawler: 
+new Added class 2 : org.semanticdesktop.aperture.addressbook.apple.AppleAddressbookDataSourceFactory: 
+new Added class 3 : org.semanticdesktop.aperture.crawler.base.CrawlerBase: 
+new Added class 4 : org.semanticdesktop.aperture.crawler.base.CrawlReportBase: 
+new Added class 5 : org.semanticdesktop.aperture.accessor.base.DataObjectBase: 
+new Added class 6 : org.semanticdesktop.aperture.crawler.imap.DataObjectFactory: 
+new Added class 7 : org.semanticdesktop.aperture.datasource.impl.DataSourceRegistryImpl: 
+new Added class 8 : org.semanticdesktop.aperture.crawler.impl.DefaultCrawlerRegistry: 
+new Added class 9 : org.semanticdesktop.aperture.accessor.impl.DefaultDataAccessorRegistry: 
+new Added class 10 : org.semanticdesktop.aperture.datasource.impl.DefaultDataSourceRegistry: 
+new Added class 11 : org.semanticdesktop.aperture.extractor.impl.DefaultExtractorRegistry: 
+new Added class 12 : org.semanticdesktop.aperture.hypertext.linkextractor.impl.DefaultLinkExtractorRegistry: 
+new Added class 13 : org.semanticdesktop.aperture.mime.identifier.impl.DefaultMimeTypeIdentifierRegistry: 
+new Added class 14 : org.semanticdesktop.aperture.extractor.excel.ExcelExtractor: 
+new Added class 15 : org.semanticdesktop.aperture.accessor.base.FileAccessData: 
+new Added class 16 : org.semanticdesktop.aperture.accessor.file.FileAccessor: 
+new Added class 17 : org.semanticdesktop.aperture.accessor.base.FileDataObjectBase: 
+new Added class 18 : org.semanticdesktop.aperture.crawler.filesystem.FileSystemCrawler: 
+new Added class 19 : org.semanticdesktop.aperture.datasource.filesystem.FileSystemDataSourceFactory: 
+new Added class 20 : org.semanticdesktop.aperture.extractor.util.HtmlParserUtil: 
+new Added class 21 : org.semanticdesktop.aperture.accessor.http.HttpAccessor: 
+new Added class 22 : org.semanticdesktop.aperture.crawler.ical.IcalCrawler: 
+new Added class 23 : org.semanticdesktop.aperture.datasource.ical.IcalDataSourceFactory: 
+new Added class 24 : org.semanticdesktop.aperture.crawler.imap.ImapCrawler: 
+new Added class 25 : org.semanticdesktop.aperture.datasource.imap.ImapDataSourceFactory: 
+new Added class 26 : org.semanticdesktop.aperture.mime.identifier.magic.MagicMimeTypeIdentifier: 
+new Added class 27 : org.semanticdesktop.aperture.extractor.mime.MimeExtractor: 
+new Added class 28 : org.semanticdesktop.aperture.accessor.base.ModelAccessData: 
+new Added class 29 : org.semanticdesktop.aperture.extractor.office.OfficeExtractor: 
+new Added class 30 : org.semanticdesktop.aperture.extractor.openxml.OpenXmlExtractor: 
+new Added class 31 : org.semanticdesktop.aperture.outlook.OutlookAccessor: 
+new Added class 32 : org.semanticdesktop.aperture.outlook.OutlookCrawler: 
+new Added class 33 : org.semanticdesktop.aperture.outlook.OutlookDataSourceFactory: 
+new Added class 34 : org.semanticdesktop.aperture.outlook.OutlookResource: 
+new Added class 35 : org.semanticdesktop.aperture.extractor.pdf.PdfExtractor: 
+new Added class 36 : org.semanticdesktop.aperture.security.trustmanager.standard.PersistentCertificateStore: 
+new Added class 37 : org.semanticdesktop.aperture.extractor.plaintext.PlainTextExtractor: 
+new Added class 38 : org.semanticdesktop.aperture.extractor.util.PoiUtil: 
+new Added class 39 : org.semanticdesktop.aperture.extractor.powerpoint.PowerPointExtractor: 
+new Added class 40 : org.semanticdesktop.aperture.extractor.presentations.PresentationsExtractor: 
+new Added class 41 : org.semanticdesktop.aperture.extractor.quattro.QuattroExtractor: 
+new Added class 42 : org.semanticdesktop.aperture.rdf.impl.RDFContainerImpl: 
+new Added class 43 : org.semanticdesktop.aperture.security.trustmanager.standard.RootCertificateStore: 
+new Added class 44 : org.semanticdesktop.aperture.extractor.rtf.RtfExtractor: 
+new Added class 45 : org.semanticdesktop.aperture.security.socketfactory.standard.StandardSocketFactory: 
+new Added class 46 : org.semanticdesktop.aperture.security.trustmanager.standard.StandardTrustManager: 
+new Added class 47 : org.semanticdesktop.aperture.security.trustmanager.standard.StandardTrustManagerFactory: 
+new Added class 48 : org.semanticdesktop.aperture.addressbook.thunderbird.ThunderbirdAddressbookDataSourceFactory: 
+new Added class 49 : org.semanticdesktop.aperture.addressbook.thunderbird.ThunderbirdCrawler: 
+new Added class 50 : org.semanticdesktop.aperture.extractor.visio.VisioExtractor: 
+new Added class 51 : org.semanticdesktop.aperture.crawler.web.WebCrawler: 
+new Added class 52 : org.semanticdesktop.aperture.datasource.web.WebDataSourceFactory: 
+new Added class 53 : org.semanticdesktop.aperture.extractor.word.WordExtractor: 
+new Added class 54 : org.semanticdesktop.aperture.extractor.xml.XmlExtractor: 
+testing relationship 
+class 0  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:5  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 7£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 34£º  r0:0  r1:0  r2:0  r3:4  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:0  r14:4  r15:0  r16:4  r17:0  
+class 32  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:25  r9:0  r10:0  r11:0  r12:0  r13:0  r14:24  r15:0  r16:0  r17:0  
+class 47  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 49  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 49  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  10   2 :  0   3 :  4   4 :  0   5 :  1   6 :  0   7 :  0   8 :  34   9 :  0   10 :  6   11 :  21   12 :  0   13 :  4   14 :  28   15 :  0   16 :  4   17 :  0   

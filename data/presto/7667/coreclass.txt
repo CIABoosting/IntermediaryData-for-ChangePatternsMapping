@@ -1,0 +1,15 @@
+FunctionRegistry:0.4782222222222222
+WindowFunction:0.27667857142857144
+AggregateWindowFunction:0.2733333333333333
+NTileFunction:0.2192619047619048
+DenseRankFunction:0.16659523809523813
+RankFunction:0.16659523809523813
+PercentRankFunction:0.16659523809523813
+CumulativeDistributionFunction:0.16659523809523813
+LagFunction:0.15666666666666668
+LeadFunction:0.15666666666666668
+NthValueFunction:0.15
+FirstValueFunction:0.12
+LastValueFunction:0.12
+RowNumberFunction:0.10726190476190477
+CustomRank:0.09

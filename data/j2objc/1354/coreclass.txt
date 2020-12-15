@@ -1,0 +1,17 @@
+FunctionBinding:0.5433333333333333
+FunctionInvocation:0.4066666666666667
+TranslationUtil:0.35
+RewriterTest:0.31
+StatementGeneratorTest:0.30666666666666664
+CastResolverTest:0.30333333333333334
+AnonymousClassConverterTest:0.29333333333333333
+AutoboxerTest:0.2866666666666667
+MethodReferenceTest:0.25666666666666665
+ComplexExpressionExtractorTest:0.25
+InitializationNormalizerTest:0.24666666666666667
+OperatorRewriterTest:0.24666666666666667
+NameTableTest:0.24666666666666667
+InnerClassExtractorTest:0.22333333333333333
+NilCheckResolverTest:0.19666666666666666
+OuterReferenceFixerTest:0.19
+Functionizer:0.16666666666666666

@@ -1,0 +1,14 @@
+Context:0.71
+MediaDriver:0.43
+Aeron:0.39666666666666667
+ExampleUtil:0.205
+Configuration:0.17333333333333334
+PubMulticastTest:0.12666666666666668
+PubAndSubTest:0.12666666666666668
+SubUnicastTest:0.12666666666666668
+SubMulticastTest:0.12666666666666668
+PubUnicastTest:0.12666666666666668
+ExamplePublisher:0.09333333333333334
+ClientAdminSoakTestRunner:0.08333333333333333
+MediaDriverAdminSoakTestRunner:0.08
+EventConfiguration:0.03

@@ -1,0 +1,10 @@
+ReplicaSet:0.5833333333333334
+ReplicaSetMember:0.4866666666666667
+ReplicaSetMongoClient:0.29333333333333333
+PrimaryReadPreference:0.21
+SingleChannelMongoClient:0.2
+MongoReadPreferenceException:0.19666666666666666
+ReadPreferenceTest:0.18
+PrimaryPreferredReadPreference:0.1
+SecondaryPreferredReadPreference:0.1
+ReplicaSetMongoOperations:0.05333333333333334

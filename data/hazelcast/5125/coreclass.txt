@@ -1,0 +1,15 @@
+MockTransactionLogRecord:0.4066666666666667
+TransactionImpl_TwoPhaseIntegrationTest:0.27
+MultiMapTransactionLogRecord:0.21666666666666667
+MapTransactionLogRecord:0.20333333333333334
+CollectionTransactionLogRecord:0.2
+ClusterStateTransactionLogRecord:0.2
+MockTransactionLogRecordSerializerHook:0.17666666666666667
+CollectionDataSerializerHook:0.17333333333333334
+MapDataSerializerHook:0.1688888888888889
+TransactionImpl_TwoPhaseTest:0.15333333333333332
+ClusterDataSerializerHook:0.1466666666666667
+QueueTransactionLogRecord:0.13166666666666665
+MultiMapDataSerializerHook:0.13
+SleepyTransactionLogRecord:0.10833333333333334
+TransactionImpl_OnePhaseTest:0.06666666666666667

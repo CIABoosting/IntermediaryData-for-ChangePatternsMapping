@@ -1,0 +1,10 @@
+MemoryReport:0.72
+LayerMemoryReport:0.27
+InputTypeRecurrent:0.2377777777777778
+GraphBuilder:0.21
+StackVertex:0.20666666666666667
+NetworkMemoryReport:0.19
+ReshapeVertex:0.18666666666666668
+DuplicateToTimeSeriesVertex:0.18316666666666667
+MergeVertex:0.15
+TestMemoryReports:0.05333333333333334

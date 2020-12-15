@@ -1,0 +1,13 @@
+FunctionRegistry:0.31333333333333335
+ExpressionInterpreter:0.2966666666666667
+StatementAnalyzer:0.24333333333333335
+TestInterpretedProjectionFunction:0.22333333333333333
+Visitor:0.21666666666666667
+ByteCodeExpressionVisitor:0.21333333333333335
+TestSqlTaskManager:0.19666666666666666
+BootstrapFunctionBinder:0.19
+ExpressionAnalyzer:0.18333333333333332
+InterpretedProjectionFunction:0.16
+LogicalPlanner:0.14333333333333334
+TestSqlStageExecution:0.13666666666666666
+TupleInputResolver:0.13666666666666666

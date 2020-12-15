@@ -1,0 +1,12 @@
+ExistsQueryBuilder:0.5466666666666666
+BaseQueryTestCase:0.3333333333333333
+GeoShapeQueryParser:0.2833333333333333
+ExistsQueryParser:0.20666666666666667
+ExistsFieldQueryExtension:0.1
+RangeQueryBuilderTest:0.03666666666666667
+BoolQueryBuilderTest:0.03
+IdsQueryBuilderTest:0.02666666666666667
+LimitQueryBuilderTest:0.006666666666666667
+MatchAllQueryBuilderTest:0.0025
+TermQueryBuilderTest:0.0
+SpanTermQueryBuilderTest:0.0

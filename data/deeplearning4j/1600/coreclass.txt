@@ -1,0 +1,14 @@
+MultiLayerNetwork:0.6366666666666667
+ComputationGraph:0.57
+CnnSentenceDataSetIterator:0.25333333333333335
+MultiLayerTest:0.22666666666666666
+LocalResponseNormalization:0.195
+RecordReaderDataSetIterator:0.1611111111111111
+LayerValidation:0.14333333333333334
+LocalFileGraphSaver:0.14
+LocalFileModelSaver:0.14
+DataSetIteratorTest:0.12333333333333334
+TestComputationGraphNetwork:0.11333333333333333
+TestMultiModelGradientApplication:0.11333333333333333
+TestDataVecDataSetFunctions:0.09
+TestCnnSentenceDataSetIterator:0.04

@@ -1,0 +1,13 @@
+SegmentHeader:0.53
+SegmentStages:0.32666666666666666
+ReplicatedMapSegmentIteration:0.29
+HashEntryStages:0.2833333333333333
+EntryCountMapTest:0.27666666666666667
+AllocatedChunks:0.27666666666666667
+ReplicatedMapQuery:0.26666666666666666
+VanillaChronicleHash:0.25916666666666666
+BigSegmentHeader:0.25666666666666665
+HashSegmentIteration:0.21333333333333335
+MapEntryStages:0.20333333333333334
+SearchAllocatedChunks:0.12333333333333334
+ReplicatedMapAbsent:0.09333333333333334

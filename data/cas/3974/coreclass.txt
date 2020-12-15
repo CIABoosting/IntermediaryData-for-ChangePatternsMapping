@@ -1,0 +1,15 @@
+WebUtils:0.8766666666666667
+OidcAuthorizationRequestSupport:0.19333333333333333
+OAuth20AuthorizeEndpointController:0.18666666666666668
+DelegatedClientAuthenticationAction:0.14333333333333334
+OAuth20AccessTokenEndpointController:0.13666666666666666
+AbstractWrapperAuthenticationHandler:0.13
+ECPProfileHandlerController:0.13
+OidcIdTokenGeneratorService:0.11
+ClientAuthenticationHandler:0.10666666666666667
+TerminateSessionAction:0.10666666666666667
+OidcSecurityInterceptor:0.09
+OAuth20CallbackAuthorizeEndpointController:0.09
+SAML2ClientLogoutAction:0.08666666666666667
+DigestAuthenticationAction:0.08666666666666667
+BasicAuthenticationAction:0.08666666666666667

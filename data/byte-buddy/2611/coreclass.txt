@@ -1,0 +1,16 @@
+Default:0.44
+ClassFileVersion:0.41
+InitializationStrategy:0.2633333333333333
+AgentBuilderDefaultTest:0.23666666666666666
+ForCreation:0.22666666666666666
+TypeConstantDissolvingMethodVisitor:0.21611111111111114
+TypeConstantDissolvingClassVisitor:0.19
+TypeWriterDefaultTest:0.18
+Dispatcher:0.17666666666666667
+ClassFileVersionTest:0.17
+AgentBuilderDefaultTransformationSimpleResolutionAuxiliaryTypeInitializerTest:0.16
+AgentBuilderInitializationStrategyTest:0.14333333333333334
+MethodRebaseResolverDefaultTest:0.13666666666666666
+AnnotationAppenderDefaultTest:0.13
+ClassFileVersionKnownVersionsTest:0.13
+TrivialTypeTest:0.08333333333333333

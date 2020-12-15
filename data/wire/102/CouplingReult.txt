@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 8
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.squareup.wire.sample.CodegenSample: 
+new Added class 1 : com.squareup.wire.java.JavaGenerator: 
+new Added class 2 : com.squareup.wire.schema.MessageType: 
+new Added class 3 : com.squareup.wire.schema.Pruner: 
+new Added class 4 : com.squareup.wire.schema.PrunerTest: 
+new Added class 5 : com.squareup.wire.WireCompiler: 
+new Added class 6 : com.squareup.wire.WireCompilerTest: 
+new Added class 7 : com.squareup.wire.mojo.WireGenerateSourcesMojo: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 2£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:16  r15:0  r16:8  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:3  r4:3  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:0  r3:43  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  47   4 :  3   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  10   12 :  0   13 :  5   14 :  16   15 :  0   16 :  9   17 :  0   

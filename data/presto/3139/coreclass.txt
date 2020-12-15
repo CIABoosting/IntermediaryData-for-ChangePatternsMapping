@@ -1,0 +1,17 @@
+Checkpoints:0.41333333333333333
+StripeReader:0.36333333333333334
+OrcInputStream:0.3466666666666667
+OrcReader:0.33166666666666667
+InputStreamCheckpoint:0.25666666666666665
+TestDecimalStream:0.21
+OrcRecordReader:0.19503968253968257
+BooleanStreamCheckpoint:0.10333333333333333
+LongStreamV2Checkpoint:0.10333333333333333
+LongStreamV1Checkpoint:0.10333333333333333
+ByteStreamCheckpoint:0.08666666666666667
+ByteArrayStreamCheckpoint:0.056666666666666664
+FloatStreamCheckpoint:0.056666666666666664
+LongStreamDwrfCheckpoint:0.056666666666666664
+DoubleStreamCheckpoint:0.056666666666666664
+RowGroupDictionaryLengthStreamCheckpoint:0.05333333333333334
+DecimalStreamCheckpoint:0.023333333333333334

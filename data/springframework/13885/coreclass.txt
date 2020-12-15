@@ -1,0 +1,10 @@
+SqlPagingQueryUtils:0.81
+AbstractSqlPagingQueryProvider:0.27
+OraclePagingQueryProvider:0.13722222222222222
+PostgresPagingQueryProvider:0.09
+HsqlPagingQueryProvider:0.09
+MySqlPagingQueryProvider:0.09
+SqlServerPagingQueryProvider:0.04666666666666667
+SybasePagingQueryProvider:0.04666666666666667
+Db2PagingQueryProvider:0.04666666666666667
+OraclePagingQueryProviderTests:0.04

@@ -1,0 +1,14 @@
+IServletResource:0.6816666666666666
+ServletResourceTemplate:0.38
+Constants:0.18333333333333332
+NodeConcurrencyFilter:0.17
+ThrottleFilter:0.16666666666666666
+CompressionFilter:0.14
+AbstractFilter:0.10666666666666667
+AbstractResourceServlet:0.10333333333333333
+AlertServlet:0.043333333333333335
+PushServlet:0.04
+PullServlet:0.03666666666666667
+AckServlet:0.03666666666666667
+RegistrationServlet:0.03666666666666667
+AuthenticationFilter:0.01

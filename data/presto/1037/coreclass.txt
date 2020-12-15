@@ -1,0 +1,10 @@
+IntegerStatistics:0.37666666666666665
+OrcMetadataReader:0.3022222222222222
+DwrfMetadataReader:0.22611111111111115
+OrcMetadataWriter:0.2
+DwrfMetadataWriter:0.19
+TestOrcBloomFilters:0.18333333333333332
+IntegerStatisticsBuilder:0.17333333333333334
+TestTupleDomainOrcPredicate:0.17
+TestIntegerStatistics:0.11
+TestIntegerStatisticsBuilder:0.056666666666666664

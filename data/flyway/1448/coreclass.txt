@@ -1,0 +1,13 @@
+MigrationInfo:0.6666666666666666
+ExecutableMigration:0.4866666666666667
+DbInfoAggregator:0.32
+MigrationInfos:0.29333333333333333
+DbInfoAggregatorSmallTest:0.19666666666666666
+CompositeMigrationResolverSmallTest:0.18
+SqlMigrationResolver:0.13666666666666666
+DbMigrator:0.13
+JdbcMigrationResolver:0.12333333333333334
+JavaMigrationResolver:0.12333333333333334
+SpringJdbcMigrationResolver:0.12333333333333334
+DbInit:0.08333333333333333
+MigrationInfoRowMapper:0.07666666666666666

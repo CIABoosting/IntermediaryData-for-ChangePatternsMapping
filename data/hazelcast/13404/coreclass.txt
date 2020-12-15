@@ -1,0 +1,12 @@
+InternalPartitionService:0.7633333333333333
+InternalPartitionServiceImpl:0.4866666666666667
+QueryOperation:0.35
+HazelcastTestSupport:0.30666666666666664
+MigrateTask:0.30333333333333334
+TestHazelcastInstanceFactory:0.30333333333333334
+MigrationThread:0.2633333333333333
+RepartitioningTask:0.24333333333333335
+LocalPartitionListener:0.22666666666666666
+SendClusterStateTask:0.20666666666666667
+ReplicaSyncEntryProcessor:0.15
+SyncReplicaVersionTask:0.14194444444444443

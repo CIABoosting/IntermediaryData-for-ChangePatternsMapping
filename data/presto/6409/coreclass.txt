@@ -1,0 +1,10 @@
+HiveClientConfig:0.77
+OrcPageSourceFactory:0.5733333333333334
+AbstractTestHiveClient:0.28
+BenchmarkHiveFileFormats:0.25
+AbstractTestHiveClientS3:0.18333333333333332
+DwrfPageSourceFactory:0.16799999999999998
+TestHiveFileFormats:0.16666666666666666
+TestPreparer:0.12333333333333334
+TestHiveClientConfig:0.12333333333333334
+HiveTestUtils:0.016666666666666666

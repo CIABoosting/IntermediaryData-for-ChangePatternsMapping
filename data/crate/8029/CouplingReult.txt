@@ -1,0 +1,22 @@
+Compared Result of  two versions
+Number of New Class: 12
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.cratedb.http.netty.HttpBlobHandler: 
+new Added class 1 : org.cratedb.action.parser.InsertVisitor: 
+new Added class 2 : org.cratedb.sql.parser.parser.NodeFactoryImpl: 
+new Added class 3 : org.cratedb.sql.parser.parser.NodeNames: 
+new Added class 4 : org.cratedb.sql.parser.parser.NodeTypes: 
+new Added class 5 : org.cratedb.action.sql.ParsedStatement: 
+new Added class 6 : org.cratedb.module.sql.test.QueryVisitorTest: 
+new Added class 7 : org.cratedb.integrationtests.RestSqlActionTest: 
+new Added class 8 : org.cratedb.action.sql.parser.SQLArgsParseElement: 
+new Added class 9 : org.cratedb.sql.parser.parser.SQLGrammar: 
+new Added class 10 : org.cratedb.integrationtests.TransportSQLActionTest: 
+new Added class 11 : org.cratedb.action.parser.XContentGenerator: 
+testing relationship 
+class 1  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:2  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:10  r9:1  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:1  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  1   4 :  0   5 :  2   6 :  0   7 :  0   8 :  16   9 :  4   10 :  9   11 :  0   12 :  0   13 :  0   14 :  2   15 :  0   16 :  0   17 :  0   

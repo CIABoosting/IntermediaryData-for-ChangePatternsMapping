@@ -1,0 +1,14 @@
+ReplicatedMapService:0.54
+ReplicatedMapProxy:0.36
+ProxyRegistry:0.24666666666666667
+ReplicatedMapEventPublishingService:0.24
+ClearOperation:0.22333333333333333
+ReplicatedMapLiteMemberTest:0.2
+ServiceManagerImpl:0.19
+ReplicatedMapSplitBrainHandlerService:0.18666666666666668
+LiteMemberTest:0.14
+GetOperation:0.12666666666666668
+ContainsKeyOperation:0.12666666666666668
+RemoteEventProcessor:0.11333333333333333
+CreateProxyTask:0.11333333333333333
+AntiEntropyTask:0.09333333333333334

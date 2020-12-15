@@ -1,0 +1,14 @@
+ArrayRewriter:0.4
+StaticVarRewriter:0.2733333333333333
+TreeConverter:0.23888888888888885
+MethodInvocation:0.2
+TreeUtil:0.16611111111111113
+TranslationProcessor:0.16
+ArrayCreation:0.1577777777777778
+ArrayAccess:0.14444444444444446
+PrefixExpression:0.13
+PostfixExpression:0.13
+ArrayInitializer:0.13
+NumberLiteral:0.07777777777777778
+CastExpression:0.07444444444444444
+TypeSorter:0.05333333333333334

@@ -1,0 +1,16 @@
+FeaturesConfig:0.6133333333333333
+FunctionRegistry:0.51
+TypeRegistry:0.38666666666666666
+LocalQueryRunner:0.35
+FunctionAssertions:0.23333333333333334
+MetadataManager:0.22333333333333333
+TestExpressionCompiler:0.19333333333333333
+TestTypeRegistry:0.19
+AbstractTestFunctions:0.16333333333333333
+TestFunctionRegistry:0.16333333333333333
+TestRegexpFunctions:0.16
+TestExpressionOptimizer:0.14666666666666667
+TestFeaturesConfig:0.14
+TestNumericHistogramAggregation:0.12666666666666668
+RegexpFunctionsBenchmark:0.056666666666666664
+DotStarAroundData:0.056666666666666664

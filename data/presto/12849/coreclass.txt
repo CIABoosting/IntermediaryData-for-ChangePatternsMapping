@@ -1,0 +1,15 @@
+Metadata:0.5333333333333333
+ColumnMetadata:0.3333333333333333
+TestSemanticAnalyzer:0.31666666666666665
+TableMetadata:0.19333333333333333
+TestExtractAggregates:0.15
+Visitor:0.15
+SemanticAnalyzer:0.14333333333333334
+TestExpandAllColumnsWildcard:0.13666666666666666
+TestRewriter:0.13666666666666666
+TestExtractScalarExpressions:0.13
+ExtractAggregates:0.056666666666666664
+SchemaExtractor:0.05
+ExpandAllColumnsWildcard:0.03666666666666667
+ExtractScalarExpressions:0.03333333333333333
+AstFunctions:0.016666666666666666

@@ -1,0 +1,9 @@
+Namespace:0.58
+PubSubStore:0.33605555555555555
+MemoryPubSubStore:0.33605555555555555
+BroadcastOperations:0.18888888888888888
+BaseStoreFactory:0.18
+AuthorizeHandler:0.17888888888888888
+SocketIOChannelInitializer:0.14666666666666667
+RedissonPubSubStore:0.11
+HazelcastPubSubStore:0.11

@@ -1,0 +1,15 @@
+Status:0.5433333333333333
+BulkIndexByScrollResponse:0.4633333333333333
+BulkByScrollTask:0.45666666666666667
+AbstractBulkByScrollRequestBuilder:0.3
+AsyncBulkByScrollActionTests:0.27
+AbstractAsyncBulkByScrollAction:0.25
+BulkIndexByScrollResponseMatcher:0.24666666666666667
+RoundTripTests:0.19333333333333333
+BulkByScrollTaskTests:0.14333333333333334
+CancelTestUtils:0.07
+DummyAbstractBulkByScrollRequest:0.05333333333333334
+MyMockClient:0.04666666666666667
+RethrottleTests:0.03
+AbstractBulkIndexByScrollRequestBuilder:0.006666666666666667
+DummyActionWithoutBackoff:0.0025

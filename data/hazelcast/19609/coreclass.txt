@@ -1,0 +1,14 @@
+ClientMapProxy:0.2633333333333333
+ClientMultiMapProxy:0.23666666666666666
+ClientReplicatedMapProxy:0.23666666666666666
+ClientExecutorServiceProxy:0.21
+ClientQueueProxy:0.21
+ClientListProxy:0.19666666666666666
+ClientAtomicReferenceProxy:0.19666666666666666
+ClientAtomicLongProxy:0.19666666666666666
+ClientLockProxy:0.19666666666666666
+ClientSemaphoreProxy:0.19666666666666666
+ClientTopicProxy:0.15
+ClientCountDownLatchProxy:0.15
+ClientIdGeneratorProxy:0.13666666666666666
+ClientSetProxy:0.08666666666666667

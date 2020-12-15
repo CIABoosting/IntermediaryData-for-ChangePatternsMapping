@@ -1,0 +1,8 @@
+ClientCacheProxy:0.4766666666666667
+CacheCodecTemplate:0.4
+HazelcastClientCacheManager:0.33
+ExecutorServiceCodecTemplate:0.2652222222222222
+CacheManagementConfigMessageTask:0.20666666666666667
+CacheListenerRegistrationMessageTask:0.20666666666666667
+ExecutorServiceCancelOnAddressMessageTask:0.18666666666666668
+ClientAddressCancellableDelegatingFuture:0.15

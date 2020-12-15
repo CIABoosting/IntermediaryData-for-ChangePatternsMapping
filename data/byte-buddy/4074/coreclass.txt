@@ -1,0 +1,17 @@
+SubclassDynamicTypeBuilder:0.49
+Default:0.25666666666666665
+ByteCodeAppender:0.2311111111111111
+SubclassFieldAnnotationTarget:0.19444444444444445
+InstrumentedType:0.19333333333333333
+SubclassLoadedTypeInstrumentation:0.19
+Unloaded:0.18333333333333332
+Loaded:0.17333333333333334
+MethodCallProxy:0.16
+Instrumentation:0.13666666666666666
+SubclassMethodAnnotationTarget:0.12666666666666668
+AbstractBase:0.11666666666666667
+Appender:0.08333333333333333
+AppenderDelegate:0.043333333333333335
+SubclassMatchedMethodInterception:0.03666666666666667
+MatchedMethodInterception:0.03666666666666667
+Composite:0.016666666666666666

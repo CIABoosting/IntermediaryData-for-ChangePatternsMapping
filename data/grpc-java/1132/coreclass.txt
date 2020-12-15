@@ -1,0 +1,10 @@
+ServerInterceptorsTest:0.35
+ServerCallsTest:0.3333333333333333
+ClientAuthInterceptorTest:0.30666666666666664
+ClientInterceptorsTest:0.25
+ClientCallsTest:0.22
+BaseServerCall:0.1888888888888889
+BaseClientCall:0.18
+ClientCallRecorder:0.08666666666666667
+ServerCallRecorder:0.08333333333333333
+StubConfigTest:0.07

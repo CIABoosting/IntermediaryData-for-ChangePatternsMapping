@@ -1,0 +1,33 @@
+Compared Result of  two versions
+Number of New Class: 11
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.alibaba.fastjson.util.ASMUtils: 
+new Added class 1 : com.alibaba.fastjson.util.DeserializeBeanInfo: 
+new Added class 2 : com.alibaba.fastjson.util.FieldInfo: 
+new Added class 3 : com.alibaba.fastjson.serializer.FieldSerializer: 
+new Added class 4 : com.alibaba.fastjson.parser.deserializer.JavaBeanDeserializer: 
+new Added class 5 : com.alibaba.fastjson.JSON: 
+new Added class 6 : com.alibaba.fastjson.JSONArray: 
+new Added class 7 : com.alibaba.fastjson.JSONObject: 
+new Added class 8 : com.alibaba.fastjson.JSONPath: 
+new Added class 9 : com.alibaba.fastjson.parser.deserializer.ThrowableDeserializer: 
+new Added class 10 : com.alibaba.fastjson.util.TypeUtils: 
+testing relationship 
+class 1  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:11  r11:0  r12:0  r13:0  r14:1  r15:0  r16:5  r17:0  
+class 4  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:11  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:2  r15:0  r16:1  r17:0  
+class 4  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 7£º  r0:0  r1:0  r2:0  r3:3  r4:1  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 7£º  r0:0  r1:0  r2:0  r3:2  r4:1  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:2  r4:1  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 7£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  0   3 :  9   4 :  10   5 :  6   6 :  2   7 :  0   8 :  3   9 :  0   10 :  22   11 :  32   12 :  0   13 :  3   14 :  4   15 :  0   16 :  6   17 :  0   

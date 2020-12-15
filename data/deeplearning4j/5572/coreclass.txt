@@ -1,0 +1,7 @@
+Evaluation:0.55
+ConvolutionLayerSetup:0.38
+ConvolutionLayerSetupTest:0.25666666666666665
+SparkDl4jMultiLayer:0.24
+MLLibUtil:0.16
+IterativeReduceFlatMap:0.12333333333333334
+EvaluateMapFunction:0.1

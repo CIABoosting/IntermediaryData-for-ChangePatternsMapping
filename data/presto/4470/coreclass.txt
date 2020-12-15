@@ -1,0 +1,16 @@
+HiveClientConfig:0.51
+HiveType:0.46
+HiveBucketing:0.3
+HivePageSink:0.29
+HiveMetadata:0.26
+HivePageSinkProvider:0.225
+HiveMetadataFactory:0.21666666666666667
+TestHiveIntegrationSmokeTest:0.18666666666666668
+HivePartitionManager:0.18333333333333332
+AbstractTestHiveFileFormats:0.18333333333333332
+HiveUtil:0.17666666666666667
+TestHiveBucketing:0.16
+TestHivePageSink:0.15
+HiveBucketFunction:0.13333333333333333
+TestHiveClientConfig:0.1
+HiveNodePartitioningProvider:0.07666666666666666

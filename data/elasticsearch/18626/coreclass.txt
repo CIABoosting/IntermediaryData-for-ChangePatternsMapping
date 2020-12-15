@@ -1,0 +1,14 @@
+Adapter:0.6066666666666667
+TransportService:0.47333333333333333
+AbstractSimpleTransportTests:0.32
+Tracer:0.24333333333333335
+NettyTransportChannel:0.24
+LocalTransport:0.22666666666666666
+TransportServiceAdapter:0.22337301587301586
+LocalTransportChannel:0.22
+MockTransportService:0.17666666666666667
+MessageChannelHandler:0.17333333333333334
+InterceptingTransportService:0.14
+BenchmarkNettyLargeMessages:0.09666666666666666
+MockAdapter:0.07666666666666666
+ApplySettings:0.06416666666666665

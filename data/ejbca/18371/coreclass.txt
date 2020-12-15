@@ -1,0 +1,9 @@
+CaChangeCertProfileCommand:0.25
+CaChangeCATokenSignAlgCommand:0.12333333333333334
+CaChangeCertProfileCommandTest:0.1
+CaDeactivateCACommandTest:0.1
+CaImportCACommandTest:0.09333333333333334
+CaCreateCrlCommandTest:0.08
+CaChangeCATokenSignAlgCommandTest:0.08
+CaEditCaCommandTest:0.02
+CaGetRootCertCommandTest:0.02

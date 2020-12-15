@@ -1,0 +1,17 @@
+AsyncSession:0.67
+MongoCollectionStream:0.41333333333333333
+AsyncGetMoreOperation:0.2866666666666667
+ConnectionClosingSingleResultCallback:0.24333333333333335
+MongoAsyncQueryCursor:0.18333333333333332
+MongoAsyncQueryCursorTest:0.15
+SingleServerAsyncSession:0.125
+AsyncWriteOperation:0.12333333333333334
+QueryResultSingleResultCallback:0.11833333333333333
+MongoAsyncBatchInsertTest:0.10333333333333333
+SingleConnectionAsyncSession:0.09333333333333334
+AsyncCommandOperation:0.08333333333333333
+AsyncCommandOperationTest:0.07666666666666666
+AsyncClusterSession:0.06666666666666667
+AsyncServerSelectingSession:0.05333333333333334
+AsyncQueryOperation:0.05
+SingleConnectionAsyncServerSelectingSession:0.02

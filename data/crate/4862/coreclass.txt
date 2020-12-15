@@ -1,0 +1,11 @@
+SelectAnalyzedStatement:0.35333333333333333
+SelectStatementAnalyzerTest:0.33666666666666667
+TableRelation:0.3333333333333333
+InsertFromSubQueryAnalyzerTest:0.23666666666666666
+RelationAnalyzer:0.19666666666666666
+WhereClauseAnalyzerTest:0.19
+InsertFromSubQueryAnalyzer:0.18333333333333332
+ReduceOnCollectorGroupByConsumer:0.15333333333333332
+Visitor:0.12333333333333334
+NonDistributedGroupByConsumer:0.11166666666666666
+GlobalAggregateConsumer:0.04666666666666667

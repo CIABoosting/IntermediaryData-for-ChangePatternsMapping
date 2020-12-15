@@ -1,0 +1,13 @@
+Migration:0.47333333333333333
+MetaDataTable:0.3
+SqlMigration:0.25
+MigrationTestCase:0.19333333333333333
+HsqlDbSupport:0.16666666666666666
+H2DbSupport:0.16666666666666666
+BaseJavaMigration:0.15
+MetaDataTable085Upgrader:0.14333333333333334
+MetaDataTable085UpgraderTestCase:0.11666666666666667
+MigrationRowMapper:0.11
+OracleMigrationMediumTest:0.10666666666666667
+DbMigrator:0.1
+DbValidator:0.08333333333333333

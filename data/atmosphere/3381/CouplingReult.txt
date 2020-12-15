@@ -1,0 +1,48 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.atmosphere.cpr.AsynchronousProcessor: 
+new Added class 1 : org.atmosphere.cpr.AtmosphereRequest: 
+new Added class 2 : org.atmosphere.cpr.AtmosphereRequestTest: 
+new Added class 3 : org.atmosphere.cpr.AtmosphereResponse: 
+new Added class 4 : org.atmosphere.cpr.BroadcasterCache: 
+new Added class 5 : org.atmosphere.cache.BroadcasterCacheBase: 
+new Added class 6 : org.atmosphere.cpr.BroadcasterConfig: 
+new Added class 7 : org.atmosphere.cpr.DefaultBroadcaster: 
+new Added class 8 : org.atmosphere.websocket.DefaultWebSocketProcessor: 
+new Added class 9 : org.atmosphere.util.ExcludeSessionBroadcaster: 
+new Added class 10 : org.atmosphere.container.GlassFishWebSocketHandler: 
+new Added class 11 : org.atmosphere.cache.HeaderBroadcasterCache: 
+new Added class 12 : org.atmosphere.container.JettyWebSocketHandler: 
+new Added class 13 : org.atmosphere.cpr.Meteor: 
+new Added class 14 : org.atmosphere.cache.SessionBroadcasterCache: 
+new Added class 15 : org.atmosphere.websocket.protocol.SimpleHttpProtocol: 
+new Added class 16 : org.atmosphere.interceptor.SSEAtmosphereInterceptor: 
+new Added class 17 : org.atmosphere.websocket.WebSocket: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:14  r15:0  r16:18  r17:0  
+class 0  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:6  r15:0  r16:7  r17:0  
+class 0  vs  class 7£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 13£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:8  r9:0  r10:1  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 4£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:1  r6:0  r7:0  r8:7  r9:0  r10:1  r11:5  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:7  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 8  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:2  r14:6  r15:0  r16:6  r17:0  
+class 8  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:0  r15:0  r16:1  r17:0  
+class 8  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:1  r7:0  r8:10  r9:0  r10:8  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 9  vs  class 7£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-3  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:5  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:10  r15:0  r16:0  r17:0  
+class 11  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 16  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:13  r14:0  r15:0  r16:6  r17:0  
+record  0 :  0   1 :  3   2 :  1   3 :  4   4 :  1   5 :  4   6 :  9   7 :  0   8 :  33   9 :  0   10 :  21   11 :  15   12 :  0   13 :  27   14 :  46   15 :  0   16 :  39   17 :  0   

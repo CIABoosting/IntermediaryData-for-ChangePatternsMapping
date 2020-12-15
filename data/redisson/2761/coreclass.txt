@@ -1,0 +1,8 @@
+RedisConnection:0.7066666666666667
+MasterSlaveConnectionManager:0.3433333333333333
+SentinelConnectionManager:0.3333333333333333
+MasterSlaveEntry:0.2866666666666667
+BaseConfig:0.27
+SingleConnectionManager:0.25333333333333335
+ClusterConnectionManager:0.22333333333333333
+BaseLoadBalancer:0.20333333333333334

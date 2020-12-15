@@ -1,0 +1,44 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : javaslang.collection.AbstractMapTest: 
+new Added class 1 : javaslang.benchmark.collection.ArrayBenchmark: 
+new Added class 2 : javaslang.benchmark.BenchmarkPerformanceReporter: 
+new Added class 3 : javaslang.collection.Collections: 
+new Added class 4 : javaslang.collection.HashArrayMappedTrie: 
+new Added class 5 : javaslang.collection.HashArrayMappedTrieModule: 
+new Added class 6 : javaslang.collection.HashArrayMappedTrieTest: 
+new Added class 7 : javaslang.collection.HashSet: 
+new Added class 8 : javaslang.collection.Iterator: 
+new Added class 9 : javaslang.collection.IteratorModule: 
+new Added class 10 : javaslang.benchmark.JmhRunner: 
+new Added class 11 : javaslang.collection.List: 
+new Added class 12 : javaslang.collection.ListModule: 
+new Added class 13 : javaslang.benchmark.collection.ListBenchmark: 
+new Added class 14 : javaslang.collection.Map: 
+new Added class 15 : javaslang.benchmark.collection.PriorityQueueBenchmark: 
+new Added class 16 : javaslang.collection.Queue: 
+new Added class 17 : javaslang.collection.Stream: 
+new Added class 18 : javaslang.collection.StreamModule: 
+testing relationship 
+class 0  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:25  r12:0  r13:15  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:21  r12:0  r13:17  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:6  r11:2  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 7  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-2  r9:0  r10:12  r11:7  r12:0  r13:7  r14:0  r15:0  r16:2  r17:0  
+class 16  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  36   6 :  0   7 :  0   8 :  2   9 :  0   10 :  18   11 :  80   12 :  0   13 :  52   14 :  2   15 :  0   16 :  2   17 :  0   

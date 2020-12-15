@@ -1,0 +1,12 @@
+JdbcTableReader:0.43
+AbstractDbDialect:0.34
+IDbDialect:0.3105555555555556
+AbstractTableBuilder:0.27666666666666667
+SQLiteDataCaptureBuilder:0.26
+OracleJdbcTableReader:0.25
+SqlDataWriter:0.23
+SQLiteTableBuilder:0.200712962962963
+H2DbDialect:0.14
+JdbcSqlReadCursor:0.13666666666666666
+OracleDbDialect:0.13
+SQLiteDbDialect:0.03666666666666667

@@ -1,0 +1,16 @@
+OsgiBundleResource:0.47
+OsgiBundleResourcePatternResolver:0.36666666666666664
+MockBundle:0.2633333333333333
+ScopingTest:0.26
+AbstractOsgiTests:0.24666666666666667
+AbstractDependencyManagerTests:0.24
+AbstractRefreshableOsgiBundleApplicationContext:0.23666666666666666
+JarCreator:0.21916666666666668
+AbstractOnTheFlyBundleCreatorTests:0.21555555555555558
+OsgiBundleResourceTest:0.18333333333333332
+OsgiBundleResourcePatternResolverTest:0.16666666666666666
+OsgiBundleResourceLoader:0.12666666666666668
+OsgiBundleResourceLoaderTest:0.12666666666666668
+OsgiPlatformDetector:0.08666666666666667
+OsgiBundleUtils:0.03333333333333333
+IoTests:0.03333333333333333

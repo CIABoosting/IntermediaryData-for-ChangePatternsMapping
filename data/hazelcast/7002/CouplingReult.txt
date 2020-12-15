@@ -1,0 +1,42 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.hazelcast.client.map.ClientMapWANExceptionTest: 
+new Added class 1 : com.hazelcast.config.ConfigXmlGenerator: 
+new Added class 2 : com.hazelcast.spi.discovery.DiscoverySpiTest: 
+new Added class 3 : com.hazelcast.wan.impl.DummyWanReplication: 
+new Added class 4 : com.hazelcast.wan.impl.FullQueueWanReplication: 
+new Added class 5 : com.hazelcast.spring.HazelcastConfigBeanDefinitionParser: 
+new Added class 6 : com.hazelcast.spi.impl.NodeEngineImpl: 
+new Added class 7 : com.hazelcast.nio.Packet: 
+new Added class 8 : com.hazelcast.spi.impl.packetdispatcher.impl.PacketDispatcherImpl: 
+new Added class 9 : com.hazelcast.spi.impl.packetdispatcher.impl.PacketDispatcherImplTest: 
+new Added class 10 : com.hazelcast.spring.TestFullApplicationContext: 
+new Added class 11 : com.hazelcast.config.WanReplicationConfig: 
+new Added class 12 : com.hazelcast.wan.WanReplicationEndpoint: 
+new Added class 13 : com.hazelcast.wan.WanReplicationService: 
+new Added class 14 : com.hazelcast.wan.impl.WanReplicationServiceImpl: 
+new Added class 15 : com.hazelcast.wan.impl.WanReplicationTest: 
+new Added class 16 : com.hazelcast.config.XmlConfigBuilder: 
+new Added class 17 : com.hazelcast.config.XMLConfigBuilderTest: 
+testing relationship 
+class 0  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:1  r7:0  r8:3  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:5  r17:0  
+class 9  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:6  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 14  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 3£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:13  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  3   3 :  1   4 :  0   5 :  2   6 :  3   7 :  0   8 :  5   9 :  0   10 :  7   11 :  43   12 :  0   13 :  23   14 :  6   15 :  0   16 :  6   17 :  0   

@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.morihacky.android.rxjava.fragments.BufferDemoFragment: 
+new Added class 1 : com.morihacky.android.rxjava.fragments.ConcurrencyWithSchedulersDemoFragment: 
+new Added class 2 : com.morihacky.android.rxjava.fragments.DebounceSearchEmitterFragment: 
+new Added class 3 : com.morihacky.android.rxjava.fragments.DoubleBindingTextViewFragment: 
+new Added class 4 : com.morihacky.android.rxjava.fragments.ExponentialBackoffFragment: 
+new Added class 5 : com.morihacky.android.rxjava.fragments.FormValidationCombineLatestFragment: 
+new Added class 6 : com.morihacky.android.rxjava.fragments.PollingFragment: 
+new Added class 7 : com.morihacky.android.rxjava.fragments.PseudoCacheConcatFragment: 
+new Added class 8 : com.morihacky.android.rxjava.fragments.PseudoCacheMergeFragment: 
+new Added class 9 : com.morihacky.android.rxjava.fragments.RetrofitFragment: 
+new Added class 10 : com.morihacky.android.rxjava.fragments.RotationPersist1Fragment: 
+new Added class 11 : com.morihacky.android.rxjava.fragments.RotationPersist2Fragment: 
+new Added class 12 : com.morihacky.android.rxjava.rxbus.RxBusDemo_Bottom1Fragment: 
+new Added class 13 : com.morihacky.android.rxjava.rxbus.RxBusDemo_Bottom2Fragment: 
+new Added class 14 : com.morihacky.android.rxjava.RxUtils: 
+new Added class 15 : com.morihacky.android.rxjava.fragments.TimeoutDemoFragment: 
+new Added class 16 : com.morihacky.android.rxjava.fragments.TimingDemoFragment: 
+new Added class 17 : com.morihacky.android.rxjava.volley.VolleyDemoFragment: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,11 @@
+EntityPersister:0.7333333333333333
+PersistenceContext:0.65
+NaturalId:0.5666666666666667
+AbstractEntityPersister:0.37333333333333335
+CustomPersister:0.27
+NoopEntityPersister:0.26
+DefaultResolveNaturalIdEventListener:0.22
+StatefulPersistenceContext:0.17
+ImmutableNaturalIdTest:0.12
+ResolveNaturalIdEvent:0.09333333333333334
+NaturalIdResolutionCache:0.0025

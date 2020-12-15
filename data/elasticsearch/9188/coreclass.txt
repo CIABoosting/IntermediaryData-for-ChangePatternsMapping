@@ -1,0 +1,17 @@
+AbstractQueryTestCase:0.41
+HasChildQueryBuilderTests:0.38
+GeoBoundingBoxQueryBuilderTests:0.2866666666666667
+GeoDistanceQueryBuilderTests:0.27666666666666667
+PercolatorQueryBuilderTests:0.2733333333333333
+GeoDistanceRangeQueryTests:0.2733333333333333
+BoolQueryBuilderTests:0.26
+GeoShapeQueryBuilderTests:0.25666666666666665
+TemplateQueryBuilderTests:0.24666666666666667
+RangeQueryBuilderTests:0.24
+WrapperQueryBuilderTests:0.22666666666666666
+FunctionScoreQueryBuilderTests:0.21
+BoostingQueryBuilderTests:0.19666666666666666
+ParentIdQueryBuilderTests:0.15
+NestedQueryBuilderTests:0.15
+TypeQueryBuilderTests:0.14333333333333334
+HasParentQueryBuilderTests:0.10333333333333333

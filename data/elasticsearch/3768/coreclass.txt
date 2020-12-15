@@ -1,0 +1,7 @@
+SameShardAllocationDecider:0.53
+ReplicaShardAllocatorTests:0.26666666666666666
+ESAllocationTestCase:0.26
+DiskThresholdDeciderTests:0.19666666666666666
+FilterAllocationDeciderTests:0.14333333333333334
+RandomAllocationDeciderTests:0.10666666666666667
+SameShardRoutingTests:0.07333333333333333

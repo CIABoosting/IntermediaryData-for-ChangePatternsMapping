@@ -1,0 +1,13 @@
+AbstractDatabasePlatform:0.37666666666666665
+AbstractDdlBuilder:0.28
+Db2DdlReader:0.26666666666666666
+AbstractSymmetricEngine:0.26
+Db2DdlBuilder:0.24333333333333335
+HsqlDb2DdlBuilder:0.23
+AbstractJdbcDdlReader:0.21333333333333335
+Db2As400DdlReader:0.16666666666666666
+OracleDdlBuilder:0.15
+PostgreSqlDdlBuilder:0.14
+FirebirdDdlBuilder:0.13333333333333333
+H2DdlBuilder:0.09333333333333334
+Db2As400DdlBuilder:0.01

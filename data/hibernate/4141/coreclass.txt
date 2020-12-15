@@ -1,0 +1,17 @@
+JdbcCoordinator:0.63
+AbstractEntityPersister:0.4266666666666667
+JdbcCoordinatorImpl:0.2966666666666667
+AbstractCollectionPersister:0.26666666666666666
+SequenceGenerator:0.19666666666666666
+SequenceStructure:0.14666666666666667
+GeneralWorkTest:0.14333333333333334
+AbstractSelectingDelegate:0.12333333333333334
+InsertSelectDelegate:0.12333333333333334
+GetGeneratedKeysDelegate:0.11333333333333333
+ValidateSomeEntityColumns:0.11333333333333333
+AutoDiscoveryTest:0.11333333333333333
+IncrementGenerator:0.11333333333333333
+PessimisticWriteSelectLockingStrategy:0.11333333333333333
+PessimisticReadSelectLockingStrategy:0.11333333333333333
+SelectLockingStrategy:0.11333333333333333
+GUIDGenerator:0.09333333333333334

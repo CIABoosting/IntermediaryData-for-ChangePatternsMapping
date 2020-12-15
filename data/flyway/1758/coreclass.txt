@@ -1,0 +1,11 @@
+DB2DbSupport:0.42333333333333334
+HsqlDbSupport:0.42333333333333334
+MigrationTestCase:0.3333333333333333
+H2MigrationMediumTest:0.26
+OracleMigrationMediumTest:0.21333333333333335
+PostgreSQLMigrationMediumTest:0.21333333333333335
+MySQLMigrationMediumTest:0.21333333333333335
+SQLServerMigrationMediumTest:0.20333333333333334
+ConcurrentMigrationTestCase:0.13666666666666666
+HsqlMigrationMediumTest:0.09333333333333334
+DB2MigrationMediumTest:0.08666666666666667

@@ -1,0 +1,9 @@
+ApplyNode:0.43666666666666665
+Rewriter:0.30333333333333334
+Visitor:0.29333333333333333
+SubqueryPlanner:0.2866666666666667
+InPredicateRewriter:0.2633333333333333
+TransformUncorrelatedInPredicateSubqueryToSemiJoin:0.24666666666666667
+ChildReplacer:0.22194444444444447
+PlanOptimizers:0.09666666666666666
+PruneUnreferencedOutputs:0.05

@@ -1,0 +1,15 @@
+LockingStrategy:0.89
+Dialect:0.41333333333333333
+UpdateLockingStrategy:0.38666666666666666
+AbstractEntityPersister:0.36333333333333334
+SelectLockingStrategy:0.3566666666666667
+SQLServerDialect:0.2733333333333333
+RDMSOS2200Dialect:0.20333333333333334
+TimesTenDialect:0.18666666666666668
+Cache71Dialect:0.18666666666666668
+HSQLDialect:0.18
+MckoiDialect:0.13
+FrontBaseDialect:0.13
+PointbaseDialect:0.13
+AbstractLockUpgradeEventListener:0.09333333333333334
+ReadUncommittedLockingStrategy:0.07666666666666666

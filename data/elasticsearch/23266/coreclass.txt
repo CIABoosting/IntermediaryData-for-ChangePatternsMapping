@@ -1,0 +1,13 @@
+ElasticsearchIntegrationTest:0.43333333333333335
+CloseIndexDisableCloseAllTests:0.37666666666666665
+DeleteIndexRequest:0.36333333333333334
+RecoveryPercolatorTests:0.25
+PercolatorTests:0.21333333333333335
+CompletionSuggestSearchTests:0.17666666666666667
+TransportDeleteByQueryAction:0.16
+TransportOpenIndexAction:0.13333333333333333
+TransportCloseIndexAction:0.13333333333333333
+TransportDeleteIndexAction:0.12
+TransportDeleteMappingAction:0.12
+TTLPercolatorTests:0.11333333333333333
+ClusterDynamicSettingsModule:0.07

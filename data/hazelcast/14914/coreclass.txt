@@ -1,0 +1,17 @@
+RecordStore:0.62
+LockStore:0.5327777777777777
+MapTransactionTest:0.44666666666666666
+TransactionalMapProxy:0.29
+GetOperation:0.255
+LockStoreImpl:0.22333333333333333
+TransactionalMapProxySupport:0.20777777777777778
+LockStoreProxy:0.18333333333333332
+DummyTransactionalService:0.17666666666666667
+ContainsKeyOperation:0.16166666666666665
+SleepyTransactionLog:0.15
+DummyTransactionalObject:0.09666666666666666
+MapTransactionStressTest:0.08527777777777774
+DefaultRecordStore:0.06
+MapProxySupport:0.043333333333333335
+ProducerThread:0.043333333333333335
+EmptyFuture:0.023333333333333334

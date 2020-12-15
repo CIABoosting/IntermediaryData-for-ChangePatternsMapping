@@ -1,0 +1,12 @@
+Size:0.55
+UnboxingAssignment:0.3333333333333333
+MethodArgumentAnalyzer:0.3233333333333333
+ClassLoadingReferenceAssignmentExaminer:0.26666666666666666
+WideningAssignment:0.24666666666666667
+BoxingAssignment:0.19094444444444444
+MethodContext:0.18666666666666668
+ArgumentLoadingAssignment:0.12
+ArgumentTypeMatcher:0.11666666666666667
+PrimitiveTypeAwareAssignmentExaminer:0.07666666666666666
+AssignmentExaminer:0.06666666666666667
+Handler:0.04666666666666667

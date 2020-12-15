@@ -1,0 +1,14 @@
+Internal:0.6833333333333333
+OkHeaders:0.43333333333333335
+RealInterceptorChain:0.36666666666666664
+RetryAndFollowUpInterceptor:0.31
+ConnectionReuseTest:0.27
+Http1xStream:0.25666666666666665
+RealConnection:0.215
+Http2xStream:0.21
+OkHttpURLConnection:0.18666666666666668
+HttpStream:0.18365079365079365
+StreamAllocation:0.17333333333333334
+RealCall:0.16
+HttpLoggingInterceptor:0.15333333333333332
+ChunkedSource:0.12

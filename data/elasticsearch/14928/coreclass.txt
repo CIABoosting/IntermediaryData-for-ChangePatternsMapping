@@ -1,0 +1,12 @@
+BaseQueryTestCase:0.5133333333333333
+FQueryFilterBuilderTest:0.11
+NotQueryBuilderTest:0.11
+QueryFilterBuilderTest:0.11
+DisMaxQueryBuilderTest:0.07666666666666666
+AndQueryBuilderTest:0.07666666666666666
+OrQueryBuilderTest:0.07333333333333333
+SpanNotQueryBuilderTest:0.06333333333333334
+TermsQueryBuilderTest:0.05
+SpanFirstQueryBuilderTest:0.0033333333333333335
+IdsQueryBuilderTest:0.0033333333333333335
+ConstantScoreQueryBuilderTest:0.0033333333333333335

@@ -1,0 +1,16 @@
+RecordStore:0.7133333333333334
+PutAllBackupOperation:0.35333333333333333
+NearCache:0.30666666666666664
+PutAllOperation:0.2866666666666667
+DefaultRecordStore:0.2833333333333333
+MultiMapService:0.27666666666666667
+HazelcastHttpSession:0.27666666666666667
+PutBackupOperation:0.26
+EntryBackupOperation:0.24666666666666667
+NearCacheTest:0.21333333333333335
+ClientSortLimitTest:0.2
+PartitionWideEntryBackupOperation:0.19
+MultipleEntryBackupOperation:0.19
+MapStoreTest:0.08666666666666667
+ValueSetterEntryProcessor:0.0033333333333333335
+RoundRobinLB:0.0

@@ -1,0 +1,17 @@
+Block:0.47333333333333333
+Variable:0.37666666666666665
+CompilerContext:0.3466666666666667
+DumpByteCodeVisitor:0.30333333333333334
+MethodDefinition:0.25
+AccumulatorCompiler:0.21
+JoinCompiler:0.20666666666666667
+StateCompiler:0.20333333333333334
+ExpressionCompiler:0.20333333333333334
+VariableInstruction:0.19
+OrderingCompiler:0.14833333333333334
+InCodeGenerator:0.09
+LocalVariableNode:0.08666666666666667
+SwitchCodeGenerator:0.08333333333333333
+IncrementVariableInstruction:0.06333333333333334
+StoreVariableInstruction:0.03666666666666667
+LoadVariableInstruction:0.03666666666666667

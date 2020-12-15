@@ -1,0 +1,13 @@
+BlockBuilder:0.6866666666666666
+MultiChannelGroupByHash:0.43333333333333335
+ArrayBlockBuilder:0.4
+PageBuilder:0.36
+InterleavedBlockBuilder:0.2833333333333333
+FixedWidthBlockBuilder:0.2755555555555555
+VariableWidthBlockBuilder:0.25666666666666665
+IntArrayBlockBuilder:0.19666666666666666
+ShortArrayBlockBuilder:0.19666666666666666
+LongArrayBlockBuilder:0.19666666666666666
+ByteArrayBlockBuilder:0.19666666666666666
+ArrayElementBlockWriter:0.185
+TestBlockBuilder:0.08611111111111111

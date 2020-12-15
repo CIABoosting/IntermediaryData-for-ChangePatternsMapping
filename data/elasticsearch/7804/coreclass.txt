@@ -1,0 +1,12 @@
+ClusterService:0.56
+NodeJoinControllerTests:0.35333333333333333
+NodeJoinController:0.3
+ElectionContext:0.27
+ClusterServiceTests:0.25916666666666666
+ClusterStateTaskExecutor:0.15
+Builder:0.14666666666666667
+ShardFailedClusterStateTaskExecutor:0.13333333333333333
+SimpleTask:0.056666666666666664
+BlockingTask:0.02666666666666667
+JoinTaskListener:0.016666666666666666
+JoinTaskExecutor:0.006666666666666667

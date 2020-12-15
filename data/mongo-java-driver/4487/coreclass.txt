@@ -1,0 +1,15 @@
+CountCommand:0.31666666666666665
+DBCollection:0.29
+AbstractCommand:0.2833333333333333
+MongoCollectionTest:0.23
+MongoCollectionImpl:0.21333333333333335
+FindAndModifyCommand:0.21
+SingleChannelMongoClient:0.20333333333333334
+MongoCursorTest:0.14
+DropDatabaseCommand:0.12666666666666668
+SingleServerMongoClientTest:0.11666666666666667
+DropCollectionCommand:0.1
+FindAndReplaceCommand:0.05
+GetLastErrorCommand:0.05
+FindAndUpdateCommand:0.05
+FindAndRemoveCommand:0.02

@@ -1,0 +1,15 @@
+Plan:0.6833333333333333
+Merge:0.38666666666666666
+Collect:0.3333333333333333
+PlanWithFetchDescription:0.23
+CountPlan:0.23
+MultiPhasePlan:0.22
+GroupingSubselectConsumer:0.18666666666666668
+QueryAndFetchConsumer:0.17333333333333334
+Visitor:0.15633333333333332
+NestedLoop:0.15
+GlobalAggregateConsumer:0.14666666666666667
+CopyStatementPlanner:0.11666666666666667
+InsertFromSubQueryPlanner:0.10666666666666667
+QueryThenFetch:0.10444444444444444
+UnnestablePlan:0.04666666666666667

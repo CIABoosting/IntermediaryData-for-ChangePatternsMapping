@@ -1,0 +1,16 @@
+DriverConductor:0.47
+Context:0.43333333333333335
+SendChannelEndpoint:0.36333333333333334
+ReceiveChannelEndpoint:0.29
+EventLogger:0.26666666666666666
+SenderTest:0.24666666666666667
+RawLogFactory:0.2
+EventConfiguration:0.16
+UdpChannelTransport:0.15666666666666668
+ReceiverTest:0.15333333333333332
+DriverConductorTest:0.1475
+DirectPublicationTest:0.13666666666666666
+ClientProxy:0.13333333333333333
+RawLogFactoryTest:0.12
+SelectorAndTransportTest:0.11333333333333333
+MappedRawLog:0.08

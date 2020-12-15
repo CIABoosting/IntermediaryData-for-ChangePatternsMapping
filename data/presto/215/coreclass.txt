@@ -1,0 +1,15 @@
+AbstractTestQueries:0.4866666666666667
+TestQueryPlanDeterminism:0.2733333333333333
+TestCassandraDistributed:0.23
+TestMySqlDistributedQueries:0.215
+TestLocalQueries:0.205
+TestKafkaDistributed:0.05
+TestRedisDistributed:0.05
+TestRedisDistributedHash:0.05
+TestTpchDistributedQueries:0.05
+TestDistributedSpilledQueries:0.05
+TestPostgreSqlDistributedQueries:0.05
+TestJdbcDistributedQueries:0.04666666666666667
+TestThriftDistributedQueries:0.04666666666666667
+TestNonIterativeDistributedQueries:0.0
+TestDistributedQueriesNoHashGeneration:0.0

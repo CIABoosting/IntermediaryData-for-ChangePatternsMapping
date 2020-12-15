@@ -1,0 +1,15 @@
+Util:0.53
+Transport:0.46699999999999997
+HttpConnection:0.39
+UnknownLengthSource:0.23333333333333334
+SpdyTransport:0.23
+ChunkedSource:0.23
+Connection:0.22350000000000003
+AsyncCall:0.19666666666666666
+FixedLengthSource:0.18333333333333332
+ResponseCacheTest:0.17666666666666667
+HttpEngine:0.17
+CacheTest:0.16333333333333333
+UrlConnectionCacheTest:0.16333333333333333
+AbstractSource:0.16333333333333333
+HttpTransport:0.14333333333333334

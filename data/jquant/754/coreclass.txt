@@ -1,0 +1,17 @@
+Operator:0.6966666666666667
+Evolver:0.45644444444444443
+MixedScheme:0.36333333333333334
+FiniteDifferenceModel:0.25666666666666665
+SampledCurve:0.22333333333333333
+FDStepConditionEngine:0.21333333333333335
+Results:0.21333333333333335
+FDVanillaEngine:0.2
+StandardSystemFiniteDifferenceModel:0.17
+BinomialVanillaEngine:0.17
+ParallelEvolver:0.12
+NullCondition:0.09
+DiscretizedVanillaOption:0.03
+PayoffFunction:0.03
+StepConditionSet:0.02
+BoundaryConditionSet:0.02
+StandardFiniteDifferenceModel:0.0

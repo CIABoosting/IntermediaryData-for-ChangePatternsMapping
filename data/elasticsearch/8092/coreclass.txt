@@ -1,0 +1,14 @@
+IndexMetaData:0.5633333333333334
+Builder:0.5
+DiskThresholdDecider:0.19166666666666668
+OperationRouting:0.18666666666666668
+TransportShrinkActionTests:0.16333333333333333
+MetaDataCreateIndexService:0.16
+ShrinkRequest:0.14666666666666667
+MetaDataCreateIndexServiceTests:0.13666666666666666
+IndexMetaDataDiff:0.135
+TransportShrinkAction:0.13
+ShrinkRequestBuilder:0.10666666666666667
+DiskThresholdDeciderUnitTests:0.10666666666666667
+RestShrinkIndexAction:0.08
+CreateIndexIT:0.06666666666666667

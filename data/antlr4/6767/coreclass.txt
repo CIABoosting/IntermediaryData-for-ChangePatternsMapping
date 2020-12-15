@@ -1,0 +1,10 @@
+ErrorManager:0.43333333333333335
+Tool:0.36
+DFA:0.2866666666666667
+AnalysisPipeline:0.27666666666666667
+StackLimitedNFAToDFAConverter:0.22
+MachineProbe:0.195
+RecursionOverflowMessage:0.14333333333333334
+RecursionLimitedNFAToDFAConverter:0.11777777777777776
+MultipleRecursiveAltsMessage:0.07333333333333333
+DFAMinimizer:0.07

@@ -1,0 +1,14 @@
+Compared Result of  two versions
+Number of New Class: 8
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.apereo.cas.support.saml.util.AbstractSaml20ObjectBuilder: 
+new Added class 1 : org.apereo.cas.trusted.authentication.storage.BaseMultifactorAuthenticationTrustStorage: 
+new Added class 2 : org.apereo.cas.config.CasSecurityContextConfiguration: 
+new Added class 3 : org.apereo.cas.trusted.web.flow.MultifactorAuthenticationSetTrustAction: 
+new Added class 4 : org.apereo.cas.support.oauth.web.OAuth20CallbackAuthorizeController: 
+new Added class 5 : org.apereo.cas.support.openid.web.flow.OpenIdSingleSignOnAction: 
+new Added class 6 : org.apereo.cas.ticket.registry.support.kryo.serial.RegisteredServiceSerializer: 
+new Added class 7 : org.apereo.cas.support.wsfederation.web.flow.WsFederationAction: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

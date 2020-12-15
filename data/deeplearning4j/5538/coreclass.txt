@@ -1,0 +1,14 @@
+Builder:0.41
+MultiLayerNetwork:0.4033333333333333
+NeuralNetConfiguration:0.28
+BaseOptimizer:0.26
+ConvexOptimizer:0.24666666666666667
+HistogramIterationListener:0.245
+MultiLayerUpdaterAggregator:0.18666666666666668
+BaseLayer:0.18333333333333332
+GradientCheckUtil:0.17666666666666667
+VocabConstructorTest:0.16333333333333333
+ModelAndGradient:0.15
+MultiLayerTestRNN:0.15
+TestVariableLengthTS:0.09666666666666666
+TestRenders:0.05333333333333334

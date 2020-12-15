@@ -1,0 +1,14 @@
+MapServiceContext:0.6519444444444444
+IMap:0.6516666666666666
+PostJoinMapOperation:0.3
+MapEventPublisher:0.29003968253968254
+MapEventPublisherImpl:0.2733333333333333
+DefaultRecordStore:0.22333333333333333
+MapEventPublishingService:0.20666666666666667
+DefaultMapServiceFactory:0.20333333333333334
+MapClientAwareService:0.2
+MapMigrationAwareService:0.10277777777777777
+MapServiceContextImpl:0.09
+MapProxyImpl:0.07666666666666666
+MapPostJoinAwareService:0.03333333333333333
+MapDataSerializerHook:0.02666666666666667

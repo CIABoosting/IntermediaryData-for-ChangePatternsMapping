@@ -1,0 +1,14 @@
+Channel:0.6666666666666666
+Connection:0.6633333333333333
+TcpIpConnection:0.37
+MockConnection:0.22
+TcpIpConnectionManager:0.21
+PlainChannel:0.20333333333333334
+TcpIpAcceptor:0.2
+ClientEndpointImpl:0.2
+DroppingConnection:0.19666666666666666
+ClientConnection:0.18
+MockedClientConnection:0.17666666666666667
+ClientEngineImpl:0.17666666666666667
+TcpIpConnection_BaseTest:0.16333333333333333
+TcpIpConnection_AbstractTest:0.16

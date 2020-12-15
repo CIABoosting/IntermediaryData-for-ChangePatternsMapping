@@ -1,0 +1,10 @@
+PoolHelperVertex:0.37333333333333335
+LastTimeStepVertex:0.175
+StackVertex:0.14666666666666667
+PreprocessorVertex:0.14
+DuplicateToTimeSeriesVertex:0.14
+ScaleVertex:0.14
+SubsetVertex:0.14
+ReshapeVertex:0.14
+UnstackVertex:0.14
+ShiftVertex:0.13

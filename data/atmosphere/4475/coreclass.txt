@@ -1,0 +1,13 @@
+Filter:0.48
+DefaultBroadcaster:0.35333333333333333
+AtmosphereServlet:0.33
+DefaultCometSupportResolver:0.2866666666666667
+JettyCometSupportWithWebSocket:0.25666666666666665
+AsynchronousProcessor:0.23
+SuspendResponse:0.22333333333333333
+AtmosphereResponse:0.22
+Jetty7CometSupport:0.19
+AtmosphereFilter:0.1338888888888889
+JSONPTransportFilter:0.11333333333333333
+ApplicationConfig:0.08
+SuspendResponseBuilder:0.07666666666666666

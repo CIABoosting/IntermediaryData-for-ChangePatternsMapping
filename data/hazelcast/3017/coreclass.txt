@@ -1,0 +1,11 @@
+SocketChannelWrapperFactory:0.7333333333333333
+IOService:0.7
+TcpIpConnectionManager:0.45
+MockIOService:0.3
+ClientConnectionManagerImpl:0.29333333333333333
+NodeIOService:0.29
+Heartbeat:0.24333333333333335
+PlainSocketChannelWrapperFactory:0.030873737373737373
+PlainSocketChannelWrapperFactoryTest:0.028888888888888895
+MemberSocketReaderInitializer:0.013333333333333334
+MemberSocketWriterInitializer:0.006666666666666667

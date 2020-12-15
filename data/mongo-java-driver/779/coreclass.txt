@@ -1,0 +1,11 @@
+MappingIterable:0.48
+OperationIterable:0.43333333333333335
+FindIterableImpl:0.20333333333333334
+MongoClientImpl:0.19
+ListDatabasesIterableImpl:0.18666666666666668
+MapReduceIterableImpl:0.17666666666666667
+AggregateIterableImpl:0.16333333333333333
+ListCollectionsIterableImpl:0.15
+ListIndexesIterableImpl:0.15
+AwaitingWriteOperationIterable:0.13
+DistinctIterableImpl:0.07333333333333333

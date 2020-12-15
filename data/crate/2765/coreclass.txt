@@ -1,0 +1,12 @@
+AnalyzedRelation:0.7261111111111112
+CopyToAnalyzedStatement:0.2375
+TwoTableJoin:0.2375
+MultiSourceSelect:0.23083333333333333
+QueriedTableRelation:0.2
+ExplainAnalyzedStatement:0.2
+InsertFromSubQueryAnalyzedStatement:0.2
+UpdateAnalyzedStatement:0.17166666666666666
+NoopPlannedAnalyzedRelation:0.10666666666666667
+DummyRelation:0.08666666666666667
+AbstractShowAnalyzedStatement:0.08666666666666667
+PlanAndPlannedAnalyzedRelation:0.08

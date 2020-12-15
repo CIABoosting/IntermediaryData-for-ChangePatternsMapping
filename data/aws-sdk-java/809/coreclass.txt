@@ -1,0 +1,11 @@
+DescribeIdentityPoolResult:0.29333333333333333
+UpdateIdentityPoolRequest:0.29333333333333333
+CreateIdentityPoolRequest:0.29333333333333333
+CreateIdentityPoolResult:0.29333333333333333
+UpdateIdentityPoolResult:0.29333333333333333
+AmazonCognitoIdentityClient:0.25
+DescribeIdentityPoolResultJsonUnmarshaller:0.16666666666666666
+CreateIdentityPoolResultJsonUnmarshaller:0.16666666666666666
+UpdateIdentityPoolResultJsonUnmarshaller:0.16666666666666666
+UpdateIdentityPoolRequestMarshaller:0.15
+CreateIdentityPoolRequestMarshaller:0.15

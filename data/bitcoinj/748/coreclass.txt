@@ -1,0 +1,14 @@
+Wallet:0.8166666666666667
+Context:0.49333333333333335
+BlockChain:0.3466666666666667
+PeerGroup:0.30666666666666664
+BlockChainTest:0.21
+LazyParseByteCacheTest:0.19
+TestWithNetworkConnections:0.17666666666666667
+ChainSplitTest:0.14333333333333334
+DefaultRiskAnalysisTest:0.13
+TxConfidenceTableTest:0.10666666666666667
+AbstractFullPrunedBlockChainTest:0.09333333333333334
+CoinbaseBlockTest:0.09333333333333334
+FilteredBlockAndPartialMerkleTreeTests:0.08
+BloomFilterTest:0.029166666666666667

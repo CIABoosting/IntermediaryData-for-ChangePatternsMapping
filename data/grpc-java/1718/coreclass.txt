@@ -1,0 +1,14 @@
+Factory:0.82
+GrpcUtil:0.5633333333333334
+AbstractManagedChannelImplBuilder:0.31
+ManagedChannelImpl:0.29333333333333333
+NettyChannelBuilder:0.22
+OkHttpChannelBuilder:0.22
+ManagedChannelImplTest:0.19333333333333333
+Builder:0.14666666666666667
+NameResolverRegistry:0.07333333333333333
+DnsNameResolver:0.05
+FakeNameResolverFactory:0.03666666666666667
+FailingNameResolverFactory:0.013333333333333334
+DirectAddressNameResolverFactory:0.013333333333333334
+DnsNameResolverFactory:0.013333333333333334

@@ -1,0 +1,16 @@
+Builder:0.48
+AsyncHttpClientConfig:0.39666666666666667
+ChannelManager:0.26
+AsyncHttpClientConfigDefaults:0.25
+AsyncProvidersBasicTest:0.20666666666666667
+GrizzlyAsyncHttpProvider:0.15666666666666668
+AsyncHttpClientConfigBean:0.14333333333333334
+FileBodyHandler:0.12333333333333334
+NettyRequestFactory:0.12333333333333334
+GrizzlyNoTransferEncodingTest:0.10666666666666667
+NettyRequestThrottleTimeoutTest:0.1
+NoNullResponseTest:0.1
+ByteArrayBodyHandler:0.1
+ParamsBodyHandler:0.09333333333333334
+StringBodyHandler:0.09333333333333334
+NettyAsyncProviderPipelineTest:0.07666666666666666

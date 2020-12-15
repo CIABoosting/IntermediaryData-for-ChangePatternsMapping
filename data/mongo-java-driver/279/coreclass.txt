@@ -1,0 +1,16 @@
+SessionContext:0.62
+ReadConcern:0.36666666666666664
+Mongo:0.3333333333333333
+ClientSessionImpl:0.3333333333333333
+FindOperation:0.2866666666666667
+MongoCollectionImpl:0.2833333333333333
+ClusterFixture:0.24666666666666667
+CountOperation:0.22666666666666666
+MapReduceWithInlineResultsOperation:0.19333333333333333
+ParallelCollectionScanOperation:0.18166666666666667
+TestSessionContext:0.17333333333333334
+ClusterClockAdvancingSessionContext:0.17
+ClientSessionContext:0.17
+AggregateOperation:0.16666666666666666
+DistinctOperation:0.14666666666666667
+NoOpSessionContext:0.043333333333333335

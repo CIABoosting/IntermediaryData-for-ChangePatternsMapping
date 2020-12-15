@@ -1,0 +1,11 @@
+CacheConfig:0.4166666666666667
+CacheSimpleConfig:0.37
+AbstractCacheRecordStore:0.31333333333333335
+CacheRecordStore:0.24
+CacheConfigReadOnly:0.21666666666666667
+SpringXmlConfigBuilder:0.18666666666666668
+XmlConfigBuilder:0.18
+CacheSimpleConfigReadOnly:0.15333333333333332
+EvictionPolicyEvaluatorProvider:0.07333333333333333
+EntryCountCacheMaxSizeChecker:0.04
+EvictionStrategyProvider:0.03333333333333333

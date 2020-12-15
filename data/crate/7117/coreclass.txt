@@ -1,0 +1,10 @@
+LocalDataCollectorTest:0.4
+CollectNode:0.28
+PlanNode:0.28
+LocalDataCollectOperation:0.27
+SimpleShardCollector:0.21666666666666667
+ImplementationSymbolVisitor:0.18333333333333332
+SimpleOneRowCollector:0.17666666666666667
+LenientImplementationSymbolVisitor:0.17
+TestShardModule:0.09333333333333334
+ShardCollectFuture:0.07333333333333333

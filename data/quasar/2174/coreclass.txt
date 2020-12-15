@@ -1,0 +1,16 @@
+Fiber:0.55
+LocalActor:0.42
+FlightRecorder:0.31
+ExitMessage:0.3
+Mailbox:0.29333333333333333
+GenResponseMessage:0.29
+Debug:0.25666666666666665
+ActorImpl:0.2525
+FiberOwnedSynchronizer:0.22333333333333333
+ThreadOwnedSynchronizer:0.22
+Channel:0.17666666666666667
+GenRequestMessage:0.11
+GenServerTest:0.1
+GenServerHelper:0.09666666666666666
+SimpleConditionSynchronizer:0.043333333333333335
+SelectiveReceiveHelper:0.04

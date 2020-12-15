@@ -1,0 +1,12 @@
+ProcessInfo:0.4766666666666667
+StatisticManager:0.36
+MockStatisticManager:0.32666666666666666
+RouterService:0.2866666666666667
+IStatisticManager:0.24972222222222223
+ProcessInfoDataWriter:0.245
+OutgoingBatchService:0.20111111111111113
+LogSummaryAppender:0.1988888888888889
+DataGapDetector:0.19166666666666668
+DataGapRouteReader:0.18666666666666668
+DataExtractorService:0.17666666666666667
+OutgoingBatchServiceSqlMap:0.02

@@ -1,0 +1,16 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.atmosphere.runtime.AnnotationHandler: 
+new Added class 1 : org.atmosphere.annotation.AtmosphereHandlerServiceProcessor: 
+new Added class 2 : org.atmosphere.runtime.AtmosphereResourceListenerTest: 
+new Added class 3 : org.atmosphere.runtime.AtmosphereResourceStateRecoveryTest: 
+new Added class 4 : org.atmosphere.runtime.AtmosphereResourceTest: 
+new Added class 5 : org.atmosphere.runtime.BroadcasterListenerTest: 
+new Added class 6 : org.atmosphere.config.managed.ManagedAtmosphereHandler: 
+new Added class 7 : org.atmosphere.annotation.MeteorServiceProcessor: 
+new Added class 8 : org.atmosphere.cache.SessionBroadcasterCache: 
+new Added class 9 : org.atmosphere.runtime.TrackMessageSizeInterceptorTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,16 @@
+Path:0.56
+PredicateContext:0.5066666666666667
+Criteria:0.36666666666666664
+TestInternal3:0.31
+JsonPath:0.2833333333333333
+FilterTest:0.21
+PathCompiler:0.20666666666666667
+EvaluationContext:0.2
+PathComponentAnalyzer:0.18666666666666668
+JsonPathTest:0.18333333333333332
+ScanPathTokenTest:0.15833333333333333
+PredicatePathToken:0.12
+FilterPathTokenPredicate:0.09333333333333334
+CompiledPath:0.08666666666666667
+EvaluationContextImpl:0.08666666666666667
+BaseTest:0.07666666666666666

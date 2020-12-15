@@ -1,0 +1,22 @@
+Compared Result of  two versions
+Number of New Class: 11
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.arialyy.aria.core.inf.AbsGroupEntity: 
+new Added class 1 : com.arialyy.aria.core.inf.AbsGroupTask: 
+new Added class 2 : com.arialyy.aria.core.download.downloader.AbsGroupUtil: 
+new Added class 3 : com.arialyy.simple.download.group.ChildHandleDialog: 
+new Added class 4 : com.arialyy.aria.util.CommonUtil: 
+new Added class 5 : com.arialyy.aria.core.download.DownloadEntity: 
+new Added class 6 : com.arialyy.simple.download.multi_download.MultiTaskActivity: 
+new Added class 7 : com.arialyy.aria.orm.SqlHelper: 
+new Added class 8 : com.arialyy.aria.orm.SqlUtil: 
+new Added class 9 : com.arialyy.aria.core.TaskManager: 
+new Added class 10 : com.arialyy.aria.core.upload.UploadEntity: 
+testing relationship 
+class 1  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:1  r17:0  
+class 3  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:10  r9:0  r10:0  r11:0  r12:0  r13:0  r14:11  r15:0  r16:0  r17:0  
+class 4  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  13   9 :  0   10 :  3   11 :  7   12 :  0   13 :  2   14 :  16   15 :  0   16 :  1   17 :  0   

@@ -1,0 +1,15 @@
+ArgType:0.54
+LiteralArg:0.3
+RootNode:0.205
+ModVisitor:0.19666666666666666
+TypeMergeTest:0.14833333333333334
+JadxClasspathTest:0.14833333333333334
+LoopRegionVisitor:0.14
+SimplifyVisitor:0.12333333333333334
+ConstInlineVisitor:0.12
+TypeInference:0.11666666666666667
+Typed:0.11
+FillArrayNode:0.10666666666666667
+FinishTypeInference:0.08333333333333333
+PostTypeInference:0.06333333333333334
+SelectTypeVisitor:0.056666666666666664

@@ -1,0 +1,16 @@
+AnnotationVisitorTee:0.3
+DebuggingClassWriter:0.2966666666666667
+MethodVisitorTee:0.27666666666666667
+EmptyVisitor:0.23666666666666666
+ClassTransformer:0.235
+ClassNameReader:0.235
+LocalVariablesSorter:0.23
+AbstractTransformTask:0.20333333333333334
+ClassEmitter:0.19666666666666666
+ClassVisitorTee:0.17333333333333334
+FieldVisitorTee:0.16416666666666666
+BridgedFinder:0.16333333333333333
+AbstractClassLoader:0.12
+DefaultGeneratorStrategy:0.11
+AbstractClassTransformer:0.11
+ClassTransformerTee:0.08

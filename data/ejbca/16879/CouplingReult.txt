@@ -1,0 +1,22 @@
+Compared Result of  two versions
+Number of New Class: 12
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.ejbca.ui.cli.ca.BaseCaAdminCommand: 
+new Added class 1 : org.ejbca.core.ejb.ca.caadmin.CAAdminSessionBean: 
+new Added class 2 : org.ejbca.ui.web.admin.cainterface.CAInterfaceBean: 
+new Added class 3 : org.cesecore.certificates.ca.CaSessionTestBase: 
+new Added class 4 : org.cesecore.certificates.crl.CrlCreateSession: 
+new Added class 5 : org.cesecore.certificates.crl.CrlCreateSessionBean: 
+new Added class 6 : org.cesecore.certificates.crl.CrlCreateSessionCRLTest: 
+new Added class 7 : org.cesecore.certificates.crl.CrlCreateSessionDeltaCRLTest: 
+new Added class 8 : org.ejbca.core.model.services.workers.CRLUpdateWorker: 
+new Added class 9 : org.ejbca.core.ejb.EjbBridgeSessionBean: 
+new Added class 10 : org.ejbca.core.ejb.EjbBridgeSessionLocal: 
+new Added class 11 : org.ejbca.core.model.util.EjbLocalHelper: 
+testing relationship 
+class 2  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:17  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 10£º  r0:0  r1:0  r2:1  r3:2  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  2   4 :  0   5 :  1   6 :  0   7 :  0   8 :  2   9 :  0   10 :  19   11 :  3   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

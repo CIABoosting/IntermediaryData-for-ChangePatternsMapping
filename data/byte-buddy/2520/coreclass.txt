@@ -1,0 +1,13 @@
+Default:0.5566666666666666
+AbstractBase:0.36666666666666664
+ByteBuddy:0.31
+InliningImplementationMatcher:0.25777777777777783
+SubclassDynamicTypeBuilder:0.21
+DefaultFieldValueTarget:0.20333333333333334
+DefaultMethodAnnotationTarget:0.2
+DefaultOptionalMatchedMethodInterception:0.2
+ForInlining:0.18333333333333332
+RebaseDynamicTypeBuilder:0.17333333333333334
+RedefinitionClassVisitor:0.16666666666666666
+RedefinitionDynamicTypeBuilder:0.15333333333333332
+AbstractImplementationTest:0.08333333333333333

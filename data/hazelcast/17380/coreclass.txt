@@ -1,0 +1,14 @@
+EntryView:0.7233333333333334
+EntryViews:0.48
+MapService:0.45
+DefaultRecordStore:0.30666666666666664
+MergeOperation:0.26666666666666666
+EntryOperation:0.22
+MultipleEntryOperation:0.21
+PartitionWideEntryOperation:0.21
+PutAllOperation:0.20333333333333334
+BasePutOperation:0.16333333333333333
+GetEntryViewOperation:0.15333333333333332
+NullEntryView:0.14277777777777775
+Merger:0.12
+MapDataSerializerHook:0.08

@@ -1,0 +1,16 @@
+RatedRequest:0.55
+DocumentKey:0.4766666666666667
+RatedDocument:0.41333333333333333
+PrecisionTests:0.21666666666666667
+ReciprocalRankTests:0.20666666666666667
+RatedRequestsTests:0.14666666666666667
+RankEvalSpecTests:0.10361111111111108
+DocumentKeyTests:0.10194444444444443
+RatedDocumentTests:0.055
+RankEvalRequestIT:0.03777777777777778
+DiscountedCumulativeGainTests:0.03666666666666667
+RankedListQualityMetric:0.023333333333333334
+TransportRankEvalAction:0.020055555555555556
+SmokeMultipleTemplatesIT:0.014444444444444444
+RankEvalTestHelper:0.013333333333333334
+RestRankEvalAction:0.01

@@ -1,0 +1,15 @@
+RecordStore:0.7566666666666667
+EventJournal:0.6666666666666666
+ICacheRecordStore:0.5233333333333333
+AbstractCacheRecordStore:0.30333333333333334
+MergeOperation:0.2866666666666667
+RingbufferMapEventJournalImpl:0.27666666666666667
+DefaultRecordStore:0.26666666666666666
+AbstractCacheService:0.26
+RingbufferCacheEventJournalImpl:0.24666666666666667
+MapServiceContextImpl:0.225
+CachePutAllBackupOperation:0.215
+CacheReplicationOperation:0.19333333333333333
+ReplicationOperation:0.18
+CachePartitionSegment:0.17333333333333334
+CachePutBackupOperation:0.14666666666666667

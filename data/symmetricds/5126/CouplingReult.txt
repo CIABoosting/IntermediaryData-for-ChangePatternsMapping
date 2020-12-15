@@ -1,0 +1,84 @@
+Compared Result of  two versions
+Number of New Class: 50
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.jumpmind.symmetric.test.AbstractDatabaseTest: 
+new Added class 1 : org.jumpmind.symmetric.test.AbstractIntegrationTest: 
+new Added class 2 : org.jumpmind.symmetric.test.AbstractTest: 
+new Added class 3 : org.jumpmind.symmetric.transport.AbstractTransportManagerUnitTest: 
+new Added class 4 : org.jumpmind.symmetric.test.AbstractWebTest: 
+new Added class 5 : org.jumpmind.symmetric.service.impl.AcknowledgeServiceTest: 
+new Added class 6 : org.jumpmind.symmetric.service.impl.BandwidthServiceUnitTest: 
+new Added class 7 : org.jumpmind.symmetric.test.CleanupTest: 
+new Added class 8 : org.jumpmind.symmetric.ClientSymmetricEngine: 
+new Added class 9 : org.jumpmind.symmetric.service.impl.ClusterServiceTest: 
+new Added class 10 : org.jumpmind.symmetric.test.CompressionExperiment: 
+new Added class 11 : org.jumpmind.symmetric.transport.ConcurrentConnectionManagerUnitTest: 
+new Added class 12 : org.jumpmind.symmetric.service.impl.ConfigurationService: 
+new Added class 13 : org.jumpmind.symmetric.service.impl.ConfigurationServiceTest: 
+new Added class 14 : org.jumpmind.symmetric.test.CrossCatalogSyncTest: 
+new Added class 15 : org.jumpmind.symmetric.test.DatabaseTestSuite: 
+new Added class 16 : org.jumpmind.symmetric.service.impl.DataExtractorServiceTest: 
+new Added class 17 : org.jumpmind.symmetric.extract.DataExtractorTest: 
+new Added class 18 : org.jumpmind.symmetric.service.impl.DataLoaderServiceTest: 
+new Added class 19 : org.jumpmind.symmetric.service.impl.DataServiceTest: 
+new Added class 20 : org.jumpmind.properties.EnvironmentSpecificProperties: 
+new Added class 21 : org.jumpmind.symmetric.test.FunkyDataTypesTest: 
+new Added class 22 : org.jumpmind.symmetric.service.impl.IncomingBatchServiceTest: 
+new Added class 23 : org.jumpmind.symmetric.test.IntegrationTestSuite: 
+new Added class 24 : org.jumpmind.symmetric.test.LoadFromClientIntegrationTest: 
+new Added class 25 : org.jumpmind.symmetric.service.mock.MockNodePasswordFilter: 
+new Added class 26 : org.jumpmind.symmetric.transport.mock.MockOutgoingTransport: 
+new Added class 27 : org.jumpmind.symmetric.statistic.MockStatisticManager: 
+new Added class 28 : org.jumpmind.symmetric.test.MultiTierTestConstants: 
+new Added class 29 : org.jumpmind.symmetric.test.MultiTierUnitTest: 
+new Added class 30 : org.jumpmind.symmetric.web.NodeConcurrencyFilterTest: 
+new Added class 31 : org.jumpmind.symmetric.service.impl.NodeServiceTest: 
+new Added class 32 : org.jumpmind.symmetric.service.impl.OutgoingBatchServiceTest: 
+new Added class 33 : org.jumpmind.symmetric.config.ParameterFilterTest: 
+new Added class 34 : org.jumpmind.symmetric.test.ParameterizedSuite: 
+new Added class 35 : org.jumpmind.symmetric.service.impl.ParameterServiceTest: 
+new Added class 36 : org.jumpmind.symmetric.service.impl.PurgeServiceTest: 
+new Added class 37 : org.jumpmind.symmetric.service.impl.RegistrationServiceTest: 
+new Added class 38 : org.jumpmind.symmetric.service.impl.RouterServiceTest: 
+new Added class 39 : org.jumpmind.symmetric.test.RunTestEngines: 
+new Added class 40 : org.jumpmind.symmetric.test.SimpleIntegrationTest: 
+new Added class 41 : org.jumpmind.symmetric.db.SqlScriptUnitTest: 
+new Added class 42 : org.jumpmind.symmetric.examples.StartSymmetricEngine: 
+new Added class 43 : org.jumpmind.symmetric.service.impl.StatisticServiceTest: 
+new Added class 44 : org.jumpmind.symmetric.config.SymmetricPropertiesFiles: 
+new Added class 45 : org.jumpmind.symmetric.config.SymmetricPropertiesFilesUnitTest: 
+new Added class 46 : org.jumpmind.symmetric.test.TestConstants: 
+new Added class 47 : org.jumpmind.symmetric.test.TestSetupUtil: 
+new Added class 48 : org.jumpmind.symmetric.service.impl.TriggerRouterServiceTest: 
+new Added class 49 : org.jumpmind.symmetric.VersionUnitTest: 
+testing relationship 
+class 0  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 45  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  24   2 :  0   3 :  1   4 :  0   5 :  0   6 :  1   7 :  0   8 :  0   9 :  0   10 :  0   11 :  15   12 :  0   13 :  12   14 :  0   15 :  0   16 :  0   17 :  0   

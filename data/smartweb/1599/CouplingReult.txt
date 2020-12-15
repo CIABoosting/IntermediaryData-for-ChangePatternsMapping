@@ -1,0 +1,21 @@
+Compared Result of  two versions
+Number of New Class: 11
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : net.smartlab.web.registry.AbstractTest: 
+new Added class 1 : net.smartlab.web.registry.Business: 
+new Added class 2 : net.smartlab.web.registry.BusinessFactory: 
+new Added class 3 : net.smartlab.web.registry.BusinessTest: 
+new Added class 4 : net.smartlab.web.registry.Entity: 
+new Added class 5 : net.smartlab.web.registry.EntityFactoryTest: 
+new Added class 6 : net.smartlab.web.registry.GenericDeduplicationStrategy: 
+new Added class 7 : net.smartlab.web.registry.ListFactoryTest: 
+new Added class 8 : net.smartlab.web.registry.PersonFactoryTest: 
+new Added class 9 : net.smartlab.web.registry.PhoneAddressTest: 
+new Added class 10 : net.smartlab.web.registry.WebAddressTest: 
+testing relationship 
+class 1  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  1   4 :  1   5 :  0   6 :  1   7 :  0   8 :  0   9 :  0   10 :  0   11 :  1   12 :  0   13 :  1   14 :  5   15 :  0   16 :  0   17 :  0   

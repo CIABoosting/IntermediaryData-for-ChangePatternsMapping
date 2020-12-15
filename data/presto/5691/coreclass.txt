@@ -1,0 +1,16 @@
+OrcPageSourceFactory:0.41
+TestHiveFileFormats:0.32666666666666666
+HiveFileFormatBenchmark:0.2227777777777778
+TestHiveStorageFormats:0.21333333333333335
+ParquetHiveRecordCursor:0.211984126984127
+ParquetTester:0.21
+ParquetRecordCursorProvider:0.17666666666666667
+TestHivePageSink:0.15333333333333332
+HdfsParquetDataSource:0.15
+HdfsEnvironment:0.13666666666666666
+DwrfPageSourceFactory:0.13666666666666666
+TestPreparer:0.12
+ParquetPageSourceFactory:0.11
+HiveTestUtils:0.09333333333333334
+ParquetMetadataReader:0.09333333333333334
+RcFilePageSourceFactory:0.06333333333333334

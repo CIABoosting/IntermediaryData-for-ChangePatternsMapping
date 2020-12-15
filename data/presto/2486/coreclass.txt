@@ -1,0 +1,12 @@
+Rewriter:0.25666666666666665
+Visitor:0.25333333333333335
+SymbolAllocator:0.23666666666666666
+FunctionAssertions:0.22
+ExpressionAnalysis:0.21916666666666668
+TestExpressionInterpreter:0.19666666666666666
+PageProcessorBenchmark:0.15666666666666668
+ExpressionEquivalence:0.14
+DomainTranslator:0.11333333333333333
+InterpretedPageProjection:0.11333333333333333
+InterpretedCursorProcessor:0.10333333333333333
+InterpretedPageFilter:0.10333333333333333

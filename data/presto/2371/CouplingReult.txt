@@ -1,0 +1,34 @@
+Compared Result of  two versions
+Number of New Class: 15
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.facebook.presto.operator.scalar.ApplyFunction: 
+new Added class 1 : com.facebook.presto.operator.scalar.ArrayConcatFunction: 
+new Added class 2 : com.facebook.presto.operator.scalar.ArrayReduceFunction: 
+new Added class 3 : com.facebook.presto.operator.scalar.ArrayTransformFunction: 
+new Added class 4 : com.facebook.presto.operator.scalar.InvokeFunction: 
+new Added class 5 : com.facebook.presto.operator.scalar.MapConcatFunction: 
+new Added class 6 : com.facebook.presto.operator.scalar.MapConstructor: 
+new Added class 7 : com.facebook.presto.operator.scalar.MapFilterFunction: 
+new Added class 8 : com.facebook.presto.operator.scalar.MapTransformKeyFunction: 
+new Added class 9 : com.facebook.presto.operator.scalar.MapTransformValueFunction: 
+new Added class 10 : com.facebook.presto.operator.scalar.ParametricScalar: 
+new Added class 11 : com.facebook.presto.operator.scalar.ScalarFunctionImplementation: 
+new Added class 12 : com.facebook.presto.operator.scalar.annotations.ScalarImplementation: 
+new Added class 13 : com.facebook.presto.sql.gen.TestVarArgsToArrayAdapterGenerator: 
+new Added class 14 : com.facebook.presto.operator.scalar.ZipWithFunction: 
+testing relationship 
+class 0  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  12   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  7   12 :  0   13 :  2   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,13 @@
+GeoDistanceQueryBuilder:0.44333333333333336
+GeoBoundingBoxQueryBuilder:0.41
+GeoPolygonQueryBuilder:0.4
+GeoDistanceRangeQueryBuilder:0.38666666666666666
+GeoBoundingBoxIT:0.37
+GeoBoundingBoxQueryBuilderTests:0.27666666666666667
+GeoPolygonQueryBuilderTests:0.21333333333333335
+GeoDistanceQueryBuilderTests:0.20666666666666667
+GeoBoundingBoxQueryParser:0.16
+GeoDistanceRangeQueryParser:0.14666666666666667
+GeoPolygonQueryParser:0.14333333333333334
+GeoDistanceQueryParser:0.09666666666666666
+GeoDistanceRangeQueryTests:0.03

@@ -1,0 +1,37 @@
+Compared Result of  two versions
+Number of New Class: 20
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.google.inject.AbstractModule: 
+new Added class 1 : com.google.inject.commands.BindCommand: 
+new Added class 2 : com.google.inject.commands.BindConstantCommand: 
+new Added class 3 : com.google.inject.commands.CommandRecorder: 
+new Added class 4 : com.google.inject.ConvertToTypesCommandProcessor: 
+new Added class 5 : com.google.inject.internal.Errors: 
+new Added class 6 : com.google.inject.assistedinject.FactoryProviderTest: 
+new Added class 7 : com.google.inject.commands.FutureInjector: 
+new Added class 8 : com.google.inject.InjectorBuilder: 
+new Added class 9 : com.google.inject.InjectorImpl: 
+new Added class 10 : com.google.inject.InternalFactoryToProviderAdapter: 
+new Added class 11 : com.google.inject.multibindings.MapBinder: 
+new Added class 12 : com.google.inject.multibindings.MapBinderTest: 
+new Added class 13 : com.google.inject.spi.Message: 
+new Added class 14 : com.google.inject.multibindings.Multibinder: 
+new Added class 15 : com.google.inject.multibindings.MultibinderTest: 
+new Added class 16 : com.google.inject.name.Names: 
+new Added class 17 : com.google.inject.spi.SourceProvider: 
+new Added class 18 : com.google.inject.spring.SpringIntegration: 
+new Added class 19 : com.google.inject.internal.StackTraceElements: 
+testing relationship 
+class 0  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 8  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:9  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:15  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 5£º  r0:0  r1:0  r2:0  r3:2  r4:2  r5:0  r6:0  r7:22  r8:0  r9:0  r10:0  r11:10  r12:0  r13:8  r14:39  r15:0  r16:19  r17:0  
+class 10  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 11  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:23  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:23  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  2   4 :  2   5 :  0   6 :  0   7 :  23   8 :  25   9 :  0   10 :  6   11 :  34   12 :  0   13 :  57   14 :  44   15 :  0   16 :  20   17 :  0   

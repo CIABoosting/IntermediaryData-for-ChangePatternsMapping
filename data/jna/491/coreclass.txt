@@ -1,0 +1,17 @@
+IDispatch:0.67
+IUnknown:0.3883333333333333
+CallbackProxy:0.3466666666666667
+Dispatch:0.31333333333333335
+ProxyObject:0.2758333333333333
+COMBindingBaseObject:0.22666666666666666
+ITypeLib:0.205
+Unknown:0.2
+TypeLibUtil:0.18
+FindName:0.15333333333333332
+TypeLib:0.14
+COMEarlyBindingObject:0.10666666666666667
+QueryInterfaceCallback:0.10333333333333333
+GetIDsOfNamesCallback:0.09
+InvokeCallback:0.09
+DispatchListener:0.09
+UnknownListener:0.08666666666666667

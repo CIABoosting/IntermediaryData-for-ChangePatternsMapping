@@ -1,0 +1,9 @@
+Account:0.8666666666666667
+MoneyTransferEvent:0.2966666666666667
+MoneyWithdrawalEvent:0.26666666666666666
+AccountCreateEvent:0.26666666666666666
+MoneyDepositEvent:0.26666666666666666
+DomainEvent:0.135
+EventProcessor:0.04666666666666667
+JsonFileJournal:0.03666666666666667
+DomainEventProcessor:0.0325

@@ -1,0 +1,16 @@
+SliceOutput:0.61
+Slice:0.5966666666666667
+SliceInput:0.5
+BasicSliceOutput:0.215
+DynamicSliceOutput:0.20777777777777778
+OutputStreamSliceOutput:0.20555555555555555
+SelfIdTupleStreamDeserializer:0.18
+AbstractSlice:0.17666666666666667
+Stats:0.16333333333333333
+TestPackedLongSerde:0.16
+UncompressedBlockMapper:0.14666666666666667
+UncompressedBlocksMapper:0.14666666666666667
+DictionarySerde:0.14333333333333334
+PackedLongSerde:0.14
+UncompressedReader:0.08
+RunLengthEncodedSerde:0.07333333333333333

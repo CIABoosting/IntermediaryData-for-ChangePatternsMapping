@@ -1,0 +1,43 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.kablink.teaming.gwt.client.widgets.ActivityStreamCtrl: 
+new Added class 1 : org.kablink.teaming.gwt.client.util.ActivityStreamInfo: 
+new Added class 2 : org.kablink.teaming.gwt.client.mainmenu.ActivityStreamsPopup: 
+new Added class 3 : org.kablink.teaming.gwt.client.GwtMainPage: 
+new Added class 4 : org.kablink.teaming.gwt.client.service.GwtRpcService: 
+new Added class 5 : org.kablink.teaming.gwt.client.service.GwtRpcServiceAsync: 
+new Added class 6 : org.kablink.teaming.gwt.server.GwtRpcServiceImpl: 
+new Added class 7 : org.kablink.teaming.gwt.client.GwtTeamingMessages: 
+new Added class 8 : org.kablink.teaming.web.util.GwtUIHelper: 
+new Added class 9 : org.kablink.teaming.portlet.forum.LoginController: 
+new Added class 10 : org.kablink.teaming.gwt.client.widgets.MainMenuControl: 
+new Added class 11 : org.kablink.teaming.gwt.client.RequestInfo: 
+new Added class 12 : org.kablink.teaming.gwt.client.workspacetree.TreeDisplayBase: 
+new Added class 13 : org.kablink.teaming.gwt.client.workspacetree.TreeDisplayVertical: 
+new Added class 14 : org.kablink.teaming.gwt.client.workspacetree.TreeInfo: 
+new Added class 15 : org.kablink.teaming.portlet.forum.ViewPermalinkController: 
+new Added class 16 : org.kablink.teaming.gwt.client.widgets.WorkspaceTreeControl: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 0  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:5  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:14  r9:0  r10:7  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:3  r17:0  
+class 12  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:15  r12:0  r13:1  r14:18  r15:0  r16:24  r17:0  
+class 13  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 16  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 16  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  1   3 :  0   4 :  0   5 :  9   6 :  0   7 :  0   8 :  23   9 :  0   10 :  19   11 :  41   12 :  0   13 :  20   14 :  25   15 :  0   16 :  27   17 :  0   

@@ -1,0 +1,13 @@
+Analysis:0.43
+AggregatorParsers:0.37333333333333335
+MapBuilder:0.31333333333333335
+DocumentMapperParser:0.26666666666666666
+IBSimilarityProvider:0.24
+JvmMonitorService:0.20666666666666667
+FsBlobContainer:0.18666666666666668
+LogConfigurator:0.18333333333333332
+TransportProxyClient:0.14666666666666667
+TribeClusterStateListener:0.11333333333333333
+DateHistogramParser:0.11
+SnowballAnalyzerProvider:0.08
+Similarities:0.0

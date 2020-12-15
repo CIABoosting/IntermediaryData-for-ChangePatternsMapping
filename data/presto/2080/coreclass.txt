@@ -1,0 +1,7 @@
+PruneIndexSourceColumns:0.05
+PruneCrossJoinColumns:0.04666666666666667
+PruneSemiJoinColumns:0.023333333333333334
+PruneValuesColumns:0.023333333333333334
+PruneTableScanColumns:0.023333333333333334
+PruneMarkDistinctColumns:0.023333333333333334
+PruneJoinColumns:0.023333333333333334

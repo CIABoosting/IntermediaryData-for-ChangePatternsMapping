@@ -1,0 +1,17 @@
+TdsStatement:0.43
+Tds:0.42
+DatabaseMetaData:0.3333333333333333
+PreparedStatement_base:0.30666666666666664
+ParameterUtils:0.29333333333333333
+PacketRowResult:0.25166666666666665
+TdsComm:0.23333333333333334
+CSUnitTest:0.22333333333333333
+CallableStatement_base:0.21666666666666667
+TdsConnection:0.20666666666666667
+TdsResultSet:0.2
+EscapeProcessor:0.17666666666666667
+Constructors:0.13833333333333334
+HexDump:0.12
+CursorStatement:0.02
+TdsDefinitions:0.016666666666666666
+PreparedStatementHelper:0.0

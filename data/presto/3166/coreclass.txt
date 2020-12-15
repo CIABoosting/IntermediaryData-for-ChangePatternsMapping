@@ -1,0 +1,8 @@
+EmbeddedCassandra:0.74
+NativeCassandraSession:0.44333333333333336
+CassandraClientModule:0.22666666666666666
+CassandraTestingUtils:0.22333333333333333
+TestCassandraConnector:0.21666666666666667
+TestCassandraIntegrationSmokeTest:0.19
+TestCassandraTokenSplitManager:0.17
+CassandraQueryRunner:0.13

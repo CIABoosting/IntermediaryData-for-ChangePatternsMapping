@@ -1,0 +1,12 @@
+ServerTransport:0.6
+InProcessServer:0.4533333333333333
+ServerImplTest:0.3566666666666667
+ServerImpl:0.32666666666666666
+InProcessTransport:0.32
+AbstractServerImplBuilder:0.19
+InProcessServerBuilder:0.18333333333333332
+NettyServerTransport:0.17333333333333334
+SimpleServerTransport:0.16
+ServerTransportListenerImpl:0.13666666666666666
+InProcessTransportTest:0.10666666666666667
+InProcessServerTest:0.02666666666666667

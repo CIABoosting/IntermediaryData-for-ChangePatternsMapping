@@ -1,0 +1,8 @@
+RedissonLock:0.45
+RedissonPermitExpirableSemaphore:0.25
+RedissonSemaphore:0.25
+RedissonCountDownLatch:0.24
+CommandAsyncService:0.23333333333333334
+CommandAsyncExecutor:0.19416666666666665
+RedissonPatternTopic:0.18
+RedissonTopic:0.18

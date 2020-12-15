@@ -1,0 +1,16 @@
+ModuleAdapter:0.49333333333333335
+Linker:0.4533333333333333
+SetBinding:0.44666666666666666
+SetBindingTest:0.37666666666666665
+DaggerObjectGraph:0.30666666666666664
+ModuleAdapterProcessor:0.19666666666666666
+Util:0.15
+GraphAnalysisProcessor:0.14666666666666667
+TestingModuleAdapter:0.14
+ModuleAdapterGenerationTest:0.12666666666666668
+CyclicDependencyTest:0.11333333333333333
+ProviderMethodBinding:0.10166666666666667
+ReflectiveProvidesBinding:0.043333333333333335
+OverridesBindings:0.0425
+ModuleValidationException:0.03
+StandardBindings:0.02666666666666667

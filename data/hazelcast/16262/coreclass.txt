@@ -1,0 +1,14 @@
+RecordStore:0.7066666666666667
+DefaultRecordStore:0.37
+BasicMapContextQuerySupport:0.24
+LocalMapStatsProvider:0.21666666666666667
+PartitionWideEntryOperation:0.18666666666666668
+MapReplicationOperation:0.185
+EvictionHelper:0.16
+PartitionWideEntryBackupOperation:0.15833333333333333
+AddIndexOperation:0.13666666666666666
+EvictionTest:0.13333333333333333
+MapMigrationAwareService:0.12333333333333334
+PartitionCallable:0.11333333333333333
+MapSplitBrainHandler:0.08
+ReadOnlyRecordIterator:0.05

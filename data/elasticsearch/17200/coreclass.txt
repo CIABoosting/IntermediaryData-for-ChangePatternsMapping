@@ -1,0 +1,14 @@
+QueryBuilder:0.5
+TermQueryBuilder:0.2833333333333333
+RangeQueryBuilder:0.24666666666666667
+IdsQueryBuilder:0.24333333333333335
+BaseTermQueryBuilder:0.24166666666666667
+BaseQueryTestCase:0.2
+MatchAllQueryBuilder:0.155
+SpanTermQueryBuilder:0.13
+SpanTermQueryBuilderTest:0.1
+RangeQueryBuilderTest:0.08666666666666667
+TermQueryBuilderTest:0.07333333333333333
+BaseTermQueryTestCase:0.056666666666666664
+MatchAllQueryBuilderTest:0.028611111111111108
+IdsQueryBuilderTest:0.023333333333333334

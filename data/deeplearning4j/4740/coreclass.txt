@@ -1,0 +1,13 @@
+Builder:0.5233333333333333
+CommonSparkTrainingStats:0.314
+ParameterAveragingTrainingMasterStats:0.30333333333333334
+ParameterAveragingTrainingMaster:0.2733333333333333
+ParameterAveragingTrainingWorkerStats:0.23333333333333334
+StatsCalculationHelper:0.22
+ParameterAveragingTrainingWorkerStatsHelper:0.16666666666666666
+ParameterAveragingTrainingMasterStatsHelper:0.15333333333333332
+TimeSource:0.14333333333333334
+TestTimeSource:0.12616666666666665
+TestTrainingStatsCollection:0.10666666666666667
+NTPTimeSource:0.1
+SystemClockTimeSource:0.04666666666666667

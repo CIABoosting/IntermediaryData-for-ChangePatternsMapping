@@ -1,0 +1,9 @@
+MultiLayerNetwork:0.71
+BaseLayer:0.29
+DefaultLayerFactory:0.2227777777777778
+MiniBatchFunction:0.19777777777777777
+DL4jWorker:0.19666666666666666
+SparkDl4jMultiLayer:0.16777777777777778
+RDDMiniBatches:0.15444444444444444
+BaseSparkTest:0.15
+TestSparkMultiLayer:0.09333333333333334

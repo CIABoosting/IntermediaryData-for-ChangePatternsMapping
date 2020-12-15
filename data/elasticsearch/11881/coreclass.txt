@@ -1,0 +1,11 @@
+StringFieldMapper:0.3333333333333333
+LongFieldMapper:0.20666666666666667
+DoubleFieldMapper:0.20666666666666667
+DateFieldMapper:0.15
+ByteFieldMapper:0.15
+FloatFieldMapper:0.15
+ShortFieldMapper:0.15
+IntegerFieldMapper:0.15
+FieldLevelBoostTests:0.10333333333333333
+CompoundTypesTests:0.08
+CustomBoostMappingTests:0.043333333333333335

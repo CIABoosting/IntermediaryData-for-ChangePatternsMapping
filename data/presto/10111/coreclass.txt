@@ -1,0 +1,13 @@
+StatementClient:0.4533333333333333
+ExchangeClient:0.3466666666666667
+ServerMainModule:0.20666666666666667
+HttpPageBufferClient:0.18
+QueryExecutor:0.17503968253968252
+QueryRunner:0.16142857142857145
+TestExchangeOperator:0.15333333333333332
+DistributedQueryRunner:0.15083333333333335
+HeartbeatFailureDetector:0.14666666666666667
+FailureDetectorModule:0.12666666666666668
+ExecuteResource:0.09333333333333334
+ExchangeClientFactory:0.08
+HttpRemoteTaskFactory:0.05333333333333334

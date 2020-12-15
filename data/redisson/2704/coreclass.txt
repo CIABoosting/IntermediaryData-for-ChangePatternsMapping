@@ -1,0 +1,9 @@
+RedisConnection:0.7333333333333333
+MasterSlaveConnectionManager:0.4666666666666667
+MasterSlaveEntry:0.39666666666666667
+CommandExecutorService:0.31333333333333335
+RedissonKeys:0.3
+SentinelConnectionManager:0.20666666666666667
+ElasticacheConnectionManager:0.14333333333333334
+SingleConnectionManager:0.11
+SingleEntry:0.0911111111111111

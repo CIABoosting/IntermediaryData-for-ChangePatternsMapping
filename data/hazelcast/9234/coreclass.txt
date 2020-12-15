@@ -1,0 +1,17 @@
+ResponseTemplate:0.56
+QueryResultRow:0.51
+MapCodecTemplate:0.36
+ClientMapProxy:0.2966666666666667
+AbstractMapQueryMessageTask:0.20666666666666667
+ClientMapAddNearCacheEventHandler:0.18666666666666668
+ClientMapEventHandler:0.18333333333333332
+MapValuesWithPredicateMessageTask:0.12333333333333334
+MapValuesWithPagingPredicateMessageTask:0.12333333333333334
+MapKeySetWithPredicateMessageTask:0.12333333333333334
+MapKeySetWithPagingPredicateMessageTask:0.12333333333333334
+MapEntriesWithPagingPredicateMessageTask:0.12333333333333334
+MapEntriesWithPredicateMessageTask:0.12333333333333334
+MapKeySetMessageTask:0.11666666666666667
+MapEntrySetMessageTask:0.11666666666666667
+MapValuesMessageTask:0.11666666666666667
+ResponseMessageConst:0.0

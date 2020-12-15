@@ -1,0 +1,10 @@
+AbstractRememberMeServices:0.32
+PersistentTokenBasedRememberMeServices:0.15333333333333332
+PersistentRememberMeToken:0.07333333333333333
+PersistentTokenRepository:0.04666666666666667
+RememberMeAuthenticationException:0.023333333333333334
+InvalidCookieException:0.023333333333333334
+CookieTheftException:0.023055555555555555
+PersistentTokenBasedRememberMeServicesTests:0.02
+AbstractRememberMeServicesTests:0.01
+InMemoryTokenRepositoryImpl:0.0

@@ -1,0 +1,13 @@
+OutgoingBatch:0.62
+RouterService:0.36333333333333334
+DataToRouteReaderFactory:0.34
+AbstractService:0.2833333333333333
+OutgoingBatchService:0.28
+NodeService:0.27666666666666667
+DataExtractorService:0.25
+TriggerRouterService:0.20333333333333334
+DataService:0.20333333333333334
+DataExtractorServiceTest:0.17
+OutgoingBatchesUnitTest:0.16333333333333333
+DataRefRouteReaderUnitTest:0.14333333333333334
+IOutgoingBatchService:0.1092063492063492

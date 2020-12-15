@@ -1,0 +1,17 @@
+Index:0.51
+Builder:0.4666666666666667
+DocumentMapper:0.44
+IndexShard:0.3233333333333333
+DocumentMapperParser:0.30666666666666664
+InternalEngineTests:0.25333333333333335
+SmartNameFieldMappers:0.24
+TTLMappingTests:0.20666666666666667
+TimestampMappingTests:0.20333333333333334
+Create:0.19333333333333333
+SimpleAllMapperTests:0.19
+DocumentFieldMappers:0.18666666666666668
+IndexingOperation:0.17
+SimpleDateMappingTests:0.15166666666666667
+SizeMappingTests:0.14666666666666667
+DoubleIndexingDocTest:0.08333333333333333
+StoredNumericValuesTest:0.08

@@ -1,0 +1,12 @@
+Dialect:0.6466666666666666
+AbstractTableBasedBulkIdHandler:0.27
+TableBasedDeleteHandlerImpl:0.25666666666666665
+TableBasedUpdateHandlerImpl:0.18333333333333332
+PostgreSQL82Dialect:0.17
+SQLServer2005Dialect:0.16333333333333333
+PostgreSQL91Dialect:0.11
+MySQL57InnoDBDialect:0.11
+SQLServer2008Dialect:0.043333333333333335
+SupportRowValueConstructorSyntaxInInList:0.0
+SupportNonQueryValuesListWithCTE:0.0
+SupportValuesListAndRowValueConstructorSyntaxInInList:0.0

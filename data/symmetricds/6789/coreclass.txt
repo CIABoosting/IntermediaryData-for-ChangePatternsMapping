@@ -1,0 +1,16 @@
+RouterService:0.51
+DataService:0.4666666666666667
+TriggerRouterService:0.44666666666666666
+TableReloadRequest:0.3466666666666667
+ConfigurationChangedDataRouter:0.30666666666666664
+ConfigurationService:0.2866666666666667
+IConfigurationService:0.2833333333333333
+SimpleRouterContext:0.26
+ChannelRouterContext:0.22666666666666666
+TableConstants:0.20666666666666667
+IDataService:0.20083333333333334
+DataGapDetector:0.19031746031746033
+IDataToRouteGapDetector:0.12
+TableReloadRequestKey:0.03
+ConfigurationServiceSqlMap:0.016666666666666666
+SelectiveRouterControl:0.0

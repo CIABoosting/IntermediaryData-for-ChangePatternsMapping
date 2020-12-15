@@ -1,0 +1,14 @@
+AccessControl:0.6477777777777778
+AccessDeniedException:0.44
+Visitor:0.2733333333333333
+SqlStandardAccessControl:0.2733333333333333
+ReadOnlyAccessControl:0.2733333333333333
+AllowAllAccessControl:0.2733333333333333
+LegacyAccessControl:0.2733333333333333
+AccessControlManager:0.2347222222222222
+DenyAllAccessControl:0.22333333333333333
+AllowAllSystemAccessControl:0.20666666666666667
+ReadOnlySystemAccessControl:0.18
+FileBasedAccessControl:0.15666666666666668
+ConnectorAccessControl:0.15
+SystemAccessControl:0.15

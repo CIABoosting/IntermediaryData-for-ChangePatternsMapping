@@ -1,0 +1,31 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.action.ActionRequestValidationException: 
+new Added class 1 : org.elasticsearch.rest.BytesRestResponse: 
+new Added class 2 : org.elasticsearch.rest.BytesRestResponseTests: 
+new Added class 3 : org.elasticsearch.options.detailederrors.DetailedErrorsEnabledIT: 
+new Added class 4 : org.elasticsearch.ElasticsearchException: 
+new Added class 5 : org.elasticsearch.ESExceptionTests: 
+new Added class 6 : org.elasticsearch.ExceptionSerializationTests: 
+new Added class 7 : org.elasticsearch.bootstrap.JarHell: 
+new Added class 8 : org.elasticsearch.bootstrap.JarHellTests: 
+new Added class 9 : org.elasticsearch.cluster.metadata.MetaDataCreateIndexService: 
+new Added class 10 : org.elasticsearch.cluster.metadata.MetaDataIndexTemplateService: 
+new Added class 11 : org.elasticsearch.action.admin.indices.template.put.MetaDataIndexTemplateServiceTests: 
+new Added class 12 : org.elasticsearch.action.search.MultiSearchRequestTests: 
+new Added class 13 : org.elasticsearch.plugins.PluginInfo: 
+new Added class 14 : org.elasticsearch.plugins.PluginInfoTests: 
+new Added class 15 : org.elasticsearch.index.query.QueryStringQueryBuilder: 
+testing relationship 
+class 1  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:13  r12:8  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:21  r12:0  r13:17  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 11  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  2   4 :  4   5 :  0   6 :  0   7 :  0   8 :  1   9 :  0   10 :  1   11 :  54   12 :  8   13 :  34   14 :  1   15 :  0   16 :  0   17 :  0   

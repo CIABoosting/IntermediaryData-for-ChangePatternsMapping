@@ -1,0 +1,11 @@
+Builder:0.38666666666666666
+RangeQueryBuilder:0.33
+IndexRequest:0.29333333333333333
+Timestamp:0.27
+SimpleDateMappingTests:0.25666666666666665
+TimestampMappingTests:0.23666666666666666
+DateFieldType:0.21166666666666667
+PercolatorTests:0.19
+DecayFunctionScoreTests:0.17333333333333334
+SimpleCountTests:0.13666666666666666
+TypeParser:0.10333333333333333

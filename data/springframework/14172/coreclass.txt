@@ -1,0 +1,10 @@
+Service:0.6866666666666666
+StatefulRetryOperationsInterceptor:0.35
+StatefulRetryOperationsInterceptorTests:0.3333333333333333
+RetryOperationsInterceptorTests:0.22666666666666666
+RetryOperationsInterceptor:0.21666666666666667
+RetryRepeatTransactionalPollingIntegrationTests:0.09333333333333334
+RetryTransactionalPollingIntegrationTests:0.09333333333333334
+RepeatTransactionalPollingIntegrationTests:0.03666666666666667
+SimpleService:0.03333333333333333
+SimpleRecoverer:0.03333333333333333

@@ -1,0 +1,16 @@
+FetchSourceContext:0.48
+XContentMapValues:0.36
+SearchSourceBuilder:0.2866666666666667
+GetRequestBuilder:0.26
+MultiGetRequest:0.25
+TopHitsAggregationBuilder:0.23333333333333334
+ExplainRequestBuilder:0.20333333333333334
+SourceLookup:0.19666666666666666
+InnerHitsIT:0.19666666666666666
+UpdateRequest:0.19666666666666666
+FetchPhase:0.17333333333333334
+SourceFieldMapper:0.17
+UpdateHelper:0.12
+SimpleMgetIT:0.11
+AbstractSearchTestCase:0.09333333333333334
+TopHitsTests:0.07333333333333333

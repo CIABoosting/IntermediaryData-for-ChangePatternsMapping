@@ -1,0 +1,9 @@
+TransportShardBulkAction:0.42
+TransportShardBulkActionTests:0.2833333333333333
+MapperTestUtils:0.22666666666666666
+MappingUpdatePerformer:0.21253968253968253
+MultiFieldCopyToMapperTests:0.11666666666666667
+NoopMappingUpdatePerformer:0.08738888888888888
+ConcreteMappingUpdatePerformer:0.08666666666666667
+ThrowingMappingUpdatePerformer:0.05333333333333334
+ThrowingVerifyingMappingUpdatePerformer:0.052388888888888895

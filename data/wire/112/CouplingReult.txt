@@ -1,0 +1,41 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.google.protobuf.EnumOptions: 
+new Added class 1 : com.google.protobuf.EnumValueOptions: 
+new Added class 2 : com.squareup.wire.schema.Field: 
+new Added class 3 : com.google.protobuf.FieldOptions: 
+new Added class 4 : com.google.protobuf.ProtoAdapter_FieldOptions: 
+new Added class 5 : com.squareup.wire.protos.custom_options.FooBar: 
+new Added class 6 : com.squareup.wire.protos.custom_options.ProtoAdapter_FooBar: 
+new Added class 7 : com.squareup.wire.java.JavaGenerator: 
+new Added class 8 : com.google.protobuf.MessageOptions: 
+new Added class 9 : com.squareup.wire.protos.custom_options.MessageWithOptions: 
+new Added class 10 : com.squareup.wire.protos.redacted.NotRedacted: 
+new Added class 11 : com.squareup.wire.protos.redacted.Redacted: 
+new Added class 12 : com.squareup.wire.protos.redacted.RedactedChild: 
+new Added class 13 : com.squareup.wire.protos.redacted.RedactedCycleA: 
+new Added class 14 : com.squareup.wire.protos.redacted.RedactedCycleB: 
+new Added class 15 : com.squareup.wire.protos.redacted.RedactedExtension: 
+new Added class 16 : com.squareup.wire.protos.redacted.RedactedRepeated: 
+new Added class 17 : com.squareup.wire.protos.redacted.RedactedRequired: 
+new Added class 18 : com.squareup.wire.WireCompilerTest: 
+testing relationship 
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:18  r15:0  r16:1  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:11  r15:0  r16:1  r17:0  
+class 7  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:7  r15:3  r16:18  r17:0  
+class 8  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:14  r9:0  r10:4  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 11  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 12  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 12  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 13  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 14  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 15  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  7   5 :  4   6 :  3   7 :  0   8 :  41   9 :  0   10 :  10   11 :  3   12 :  0   13 :  0   14 :  53   15 :  3   16 :  20   17 :  0   

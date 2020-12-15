@@ -1,0 +1,16 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.semanticdesktop.aperture.addressbook.AbstractAddressbookCrawlerTest: 
+new Added class 1 : org.semanticdesktop.aperture.subcrawler.mime.MimeSubCrawlerTest: 
+new Added class 2 : org.semanticdesktop.aperture.extractor.mp3.MP3FileExtractorTest: 
+new Added class 3 : org.semanticdesktop.aperture.extractor.powerpoint.PowerPointExtractorTest: 
+new Added class 4 : org.semanticdesktop.aperture.subcrawler.tar.TarSubCrawlerTest: 
+new Added class 5 : org.semanticdesktop.aperture.crawler.mbox.TestMboxCrawler: 
+new Added class 6 : org.semanticdesktop.aperture.crawler.mbox.TestMboxCrawlerMultiFolder: 
+new Added class 7 : org.semanticdesktop.aperture.addressbook.thunderbird.ThunderbirdCrawlerTest: 
+new Added class 8 : org.semanticdesktop.aperture.extractor.word.WordExtractorTest: 
+new Added class 9 : org.semanticdesktop.aperture.util.XmlSafetyTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

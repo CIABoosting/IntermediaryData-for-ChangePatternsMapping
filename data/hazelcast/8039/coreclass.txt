@@ -1,0 +1,13 @@
+NodeExtension:0.58
+ManagementCenterService:0.42
+OperationExecutor:0.4026666666666667
+ClassicOperationExecutor:0.37
+TestHazelcastInstanceFactory:0.31333333333333335
+TaskPollThread:0.2963888888888889
+DefaultNodeExtension:0.26
+StateSendThread:0.20944444444444443
+PrepareStateThread:0.205
+ClassicOperationExecutorTest:0.056666666666666664
+HttpPostCommandProcessor:0.04
+HttpCommandProcessor:0.0
+ConsoleRequestConstants:0.0

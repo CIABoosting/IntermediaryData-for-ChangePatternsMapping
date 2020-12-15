@@ -1,0 +1,13 @@
+StreamAllocation:0.5133333333333333
+HttpEngine:0.38
+Call:0.29
+ChunkedSource:0.2866666666666667
+RouteSelectorTest:0.28
+FixedLengthSource:0.27666666666666667
+StreamWebSocket:0.24826767676767678
+CallTest:0.22
+RealConnection:0.20516666666666666
+UnknownLengthSource:0.18
+HttpURLConnectionImpl:0.17
+StreamFinishingSource:0.11333333333333333
+AbstractSource:0.02666666666666667

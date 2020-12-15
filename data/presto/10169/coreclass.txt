@@ -1,0 +1,16 @@
+Metadata:0.6866666666666666
+ConnectorMetadata:0.46711904761904766
+RelationPlanner:0.2733333333333333
+HiveClient:0.25333333333333335
+TupleAnalyzer:0.23
+MetadataDao:0.22337301587301586
+ReadOnlyConnectorMetadata:0.22
+ClassLoaderSafeConnectorMetadata:0.21333333333333335
+TestAnalyzer:0.19666666666666666
+MetadataManager:0.19333333333333333
+TestingMetadata:0.18333333333333332
+MetadataDaoUtils:0.17833333333333334
+AbstractTestDistributedQueries:0.17666666666666667
+RaptorMetadata:0.11
+TestRaptorMetadata:0.07
+CoordinatorModule:0.06

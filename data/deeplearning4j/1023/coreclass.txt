@@ -1,0 +1,14 @@
+LayerConstraint:0.72
+Layer:0.3433333333333333
+VariationalAutoencoder:0.31
+UnitNormConstraint:0.24111111111111114
+MaxNormConstraint:0.19666666666666666
+AbstractLayer:0.17
+Builder:0.15666666666666668
+FineTuneConfiguration:0.15666666666666668
+TestConstraints:0.14666666666666667
+KerasDense:0.14333333333333334
+BaseConstraint:0.12666666666666668
+KerasConstraintUtils:0.11
+LayerValidation:0.10666666666666667
+MinMaxNormConstraint:0.09333333333333334

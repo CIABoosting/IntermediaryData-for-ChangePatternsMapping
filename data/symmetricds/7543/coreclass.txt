@@ -1,0 +1,13 @@
+Table:0.75
+DataExtractorService:0.27666666666666667
+StructureDataWriter:0.26
+DatabaseWriter:0.24
+ProtocolDataReader:0.23666666666666666
+SelectFromTableSource:0.23166666666666666
+AbstractDataLoaderServiceTest:0.22333333333333333
+TestTablesService:0.20333333333333334
+AbstractProtocolDataWriter:0.18666666666666668
+SelectFromSymDataSource:0.16333333333333333
+RestServiceTest:0.15
+ChangeTablesStructureTest:0.0
+InitialLoadExtractorJobTest:0.0

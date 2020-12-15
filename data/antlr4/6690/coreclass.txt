@@ -1,0 +1,14 @@
+Parser:0.45666666666666667
+BaseRecognizer:0.37
+Lexer:0.36666666666666664
+Target:0.34
+OutputModelFactory:0.2733333333333333
+RuleFunction:0.17
+RecognizerSharedState:0.17
+ParserFactory:0.15
+LL1PlusBlock:0.14
+InvokeRule:0.11333333333333333
+MatchToken:0.11333333333333333
+LL1StarBlock:0.11
+QStack:0.058333333333333334
+DynamicScopeStruct:0.01

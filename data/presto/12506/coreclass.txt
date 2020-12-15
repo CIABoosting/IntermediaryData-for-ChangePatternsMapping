@@ -1,0 +1,17 @@
+QueryInfo:0.49
+HttpTaskClient:0.43333333333333335
+TaskOutput:0.3233333333333333
+TestQueries:0.27
+StatusPrinter:0.21833333333333332
+TaskScheduler:0.2
+SimpleQueryManager:0.17333333333333334
+TestQueryResourceServer:0.16
+HttpQueryClient:0.16
+TestHttpQueryProvider:0.15333333333333332
+ImportTableWorker:0.13666666666666666
+ServerMainModule:0.12
+SimpleQuery:0.09666666666666666
+Execute:0.09
+AbstractSqlBenchmark:0.08333333333333333
+HackPlanFragmentSourceProvider:0.08333333333333333
+SqlQueryWorker:0.07833333333333334

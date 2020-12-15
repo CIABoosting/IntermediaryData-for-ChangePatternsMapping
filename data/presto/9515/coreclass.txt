@@ -1,0 +1,14 @@
+Block:0.6033333333333334
+LazyFixedWidthBlock:0.3
+DictionaryEncodedBlock:0.27666666666666667
+RunLengthEncodedBlock:0.25666666666666665
+LazySliceArrayBlock:0.23
+SnappyBlock:0.20392857142857143
+ScanFilterAndProjectOperator:0.18666666666666668
+AbstractVariableWidthBlock:0.17666666666666667
+TableScanOperator:0.17333333333333334
+Page:0.17333333333333334
+TestLazySliceArrayBlock:0.16666666666666666
+AbstractFixedWidthBlock:0.165
+GroupByIdBlock:0.1425
+TestLazySliceArrayBlockLoader:0.09333333333333334

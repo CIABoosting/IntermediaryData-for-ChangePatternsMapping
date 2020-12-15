@@ -1,0 +1,15 @@
+PagesIndex:0.4666666666666667
+PartitionedLookupSource:0.22666666666666666
+JoinHash:0.22333333333333333
+JoinCompiler:0.21
+OuterLookupSource:0.18333333333333332
+OuterLookupSourceSupplier:0.17666666666666667
+IndexSnapshotBuilder:0.17
+HashBuilderOperator:0.15
+SettableLookupSourceFactory:0.14
+ParallelHashBuildOperator:0.14
+LookupSourceSupplierFactory:0.14
+TestJoinProbeCompiler:0.11666666666666667
+PartitionedLookupOuterPositionIterator:0.06333333333333334
+PartitionedLookupSourceFactory:0.05
+OuterPositionTracker:0.03333333333333333

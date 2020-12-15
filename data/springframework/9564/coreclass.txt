@@ -1,0 +1,13 @@
+EventWriterSerializer:0.46
+StaxEventItemWriter:0.36333333333333334
+MarshallingEventWriterSerializer:0.33
+StaxEventItemReader:0.2966666666666667
+UnmarshallingEventReaderDeserializer:0.28
+Converter:0.27051984126984113
+StaxEventWriterItemWriterTests:0.21666666666666667
+MarshallingObjectToXmlSerializerTests:0.15
+StaxEventReaderItemReaderTests:0.13416666666666666
+UnmarshallingFragmentDeserializerTests:0.13333333333333333
+AbstractStaxEventReaderItemReaderTests:0.10666666666666667
+AbstractStaxEventWriterItemWriterTests:0.09333333333333334
+EventReaderDeserializer:0.06333333333333334

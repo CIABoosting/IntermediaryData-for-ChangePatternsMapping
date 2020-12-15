@@ -1,0 +1,15 @@
+CreateTableAnalysis:0.35333333333333333
+AnalysisVisitor:0.23333333333333334
+AbstractDataAnalysis:0.23
+CreateTableStatementAnalyzer:0.23
+Analysis:0.23
+Planner:0.22333333333333333
+TransportSQLAction:0.21333333333333335
+TransportHandler:0.19666666666666666
+CreateAnalyzerAnalysis:0.19611111111111112
+BlobIndices:0.18
+AnalyzerDispatcher:0.15666666666666668
+DropTableAnalysis:0.08944444444444444
+AbstractDDLAnalysis:0.07333333333333333
+SQLModule:0.05333333333333334
+DoctestTest:0.03333333333333333

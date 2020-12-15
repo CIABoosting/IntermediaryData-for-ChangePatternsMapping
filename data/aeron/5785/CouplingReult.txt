@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : uk.co.real_logic.aeron.samples.AeronStat: 
+new Added class 1 : uk.co.real_logic.aeron.samples.BasicPublisher: 
+new Added class 2 : uk.co.real_logic.aeron.samples.BasicSubscriber: 
+new Added class 3 : uk.co.real_logic.aeron.samples.raw.Common: 
+new Added class 4 : uk.co.real_logic.aeron.samples.EmbeddedPingPong: 
+new Added class 5 : uk.co.real_logic.aeron.samples.raw.HackSelectReceiveSendUdpPong: 
+new Added class 6 : uk.co.real_logic.aeron.samples.LowLatencyMediaDriver: 
+new Added class 7 : uk.co.real_logic.aeron.samples.Ping: 
+new Added class 8 : uk.co.real_logic.aeron.samples.Pong: 
+new Added class 9 : uk.co.real_logic.aeron.samples.RateSubscriber: 
+new Added class 10 : uk.co.real_logic.aeron.samples.raw.ReceiveSendUdpPong: 
+new Added class 11 : uk.co.real_logic.aeron.samples.SampleConfiguration: 
+new Added class 12 : uk.co.real_logic.aeron.samples.SamplesUtil: 
+new Added class 13 : uk.co.real_logic.aeron.samples.raw.SelectReceiveSendUdpPong: 
+new Added class 14 : uk.co.real_logic.aeron.samples.raw.SendHackSelectReceiveUdpPing: 
+new Added class 15 : uk.co.real_logic.aeron.samples.raw.SendReceiveUdpPing: 
+new Added class 16 : uk.co.real_logic.aeron.samples.raw.SendSelectReceiveUdpPing: 
+new Added class 17 : uk.co.real_logic.aeron.samples.StreamingPublisher: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

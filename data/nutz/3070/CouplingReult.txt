@@ -1,0 +1,30 @@
+Compared Result of  two versions
+Number of New Class: 20
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.nutz.mvc.adaptor.extractor.BaseParamExtractor: 
+new Added class 1 : org.nutz.ioc.loader.annotation.meta.ClassB: 
+new Added class 2 : org.nutz.el.parse.Converter: 
+new Added class 3 : org.nutz.dao.impl.jdbc.db2.Db2JdbcExpert: 
+new Added class 4 : org.nutz.dao.impl.jdbc.derby.DerbyJdbcExpert: 
+new Added class 5 : org.nutz.dao.impl.jdbc.hsqldb.HsqldbJdbcExpert: 
+new Added class 6 : org.nutz.mvc.adaptor.injector.MapPairInjector: 
+new Added class 7 : org.nutz.mvc.adaptor.extractor.MapParamExtractor: 
+new Added class 8 : org.nutz.mock.servlet.MockHttpServletRequest: 
+new Added class 9 : org.nutz.mock.servlet.MockHttpServletResponse: 
+new Added class 10 : org.nutz.mock.servlet.MockServletContext: 
+new Added class 11 : org.nutz.mvc.NutFilter: 
+new Added class 12 : org.nutz.dao.impl.jdbc.psql.PsqlJdbcExpert: 
+new Added class 13 : org.nutz.resource.impl.ResourceLocation: 
+new Added class 14 : org.nutz.resource.impl.ErrorResourceLocation: 
+new Added class 15 : org.nutz.resource.impl.FileSystemResourceLocation: 
+new Added class 16 : org.nutz.resource.impl.JarResourceLocation: 
+new Added class 17 : org.nutz.resource.Scans: 
+new Added class 18 : org.nutz.dao.impl.sql.pojo.SingleColumnCondtionPItem: 
+new Added class 19 : org.nutz.dao.impl.jdbc.sqlserver2005.Sqlserver2005JdbcExpert: 
+testing relationship 
+class 14  vs  class 13£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 13£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 13£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  0   3 :  0   4 :  0   5 :  1   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  1   12 :  0   13 :  2   14 :  0   15 :  0   16 :  0   17 :  0   

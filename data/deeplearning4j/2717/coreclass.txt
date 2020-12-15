@@ -1,0 +1,14 @@
+L2NormalizeVertex:0.30611111111111117
+Builder:0.26
+VocabConstructor:0.2242063492063492
+AsyncSequencer:0.21333333333333335
+GradientCheckUtil:0.21333333333333335
+WordVectorsImpl:0.20083333333333334
+NGramTokenizer:0.1988888888888889
+AbstractDataSetIterator:0.18333333333333332
+ObjectMapperProvider:0.14
+GradientCheckTestsComputationGraph:0.12333333333333334
+NGramTokenizerTest:0.12
+BaseTextVectorizer:0.11
+TestSerialization:0.1
+VectorsConfiguration:0.08666666666666667

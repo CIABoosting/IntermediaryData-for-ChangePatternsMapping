@@ -1,0 +1,10 @@
+AbstractClientCacheProxy:0.38
+CacheStatsHandler:0.36933333333333335
+NearCachedClientCacheProxy:0.24
+ClientCacheProxy:0.22666666666666666
+ClientCachePartitionLostEventHandler:0.22433333333333333
+AbstractClientInternalCacheProxy:0.21666666666666667
+AbstractClientCacheProxyBase:0.18333333333333332
+HazelcastClientCachingProvider:0.15438888888888888
+CacheOrInvalidateCallback:0.14
+PutAsyncOneShotCallback:0.14

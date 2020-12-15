@@ -1,0 +1,11 @@
+FeaturesConfig:0.49333333333333335
+TestSourcePartitionedScheduler:0.32
+Rewriter:0.27666666666666667
+SqlQueryScheduler:0.26666666666666666
+SystemSessionProperties:0.2
+SqlQueryExecution:0.19166666666666668
+SystemPartitioningHandle:0.17833333333333334
+SqlQueryExecutionFactory:0.16333333333333333
+TestHiveIntegrationSmokeTest:0.15666666666666668
+TestFeaturesConfig:0.15666666666666668
+ExecutorCleanup:0.05

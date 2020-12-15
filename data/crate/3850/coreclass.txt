@@ -1,0 +1,17 @@
+SelectStatementAnalyzerTest:0.4166666666666667
+ToPrimitiveFunction:0.38666666666666666
+ScalarFunctionModule:0.25
+ToIntFunctionTest:0.21666666666666667
+InsertFromSubQueryAnalyzerTest:0.19
+ToNullFunctionTest:0.16666666666666666
+ToLongFunctionTest:0.16666666666666666
+ToStringFunctionTest:0.15666666666666668
+ToBooleanFunctionTest:0.15333333333333332
+Resolver:0.15333333333333332
+ToFloatFunctionTest:0.15333333333333332
+ToShortFunctionTest:0.15333333333333332
+ToDoubleFunctionTest:0.15333333333333332
+ToByteFunctionTest:0.15333333333333332
+CastFunctionResolver:0.09666666666666666
+ToTimestampFunctionTest:0.08333333333333333
+FunctionNames:0.05333333333333334

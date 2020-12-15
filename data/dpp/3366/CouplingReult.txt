@@ -1,0 +1,52 @@
+Compared Result of  two versions
+Number of New Class: 46
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : de.fu_berlin.inf.dpp.stf.test.reproducebugs.AccountWithDismatchedPasswordTest: 
+new Added class 1 : de.fu_berlin.inf.dpp.stf.test.permissionsandfollowmode.AllParticipantsFollowUserWithWriteAccessTest: 
+new Added class 2 : de.fu_berlin.inf.dpp.stf.test.stf.basicwidget.BasicWidgetTreeTest: 
+new Added class 3 : de.fu_berlin.inf.dpp.stf.test.stf.view.sarosview.content.BuddiesByAliceBobCarlTest: 
+new Added class 4 : de.fu_berlin.inf.dpp.stf.test.stf.view.sarosview.content.BuddiesByAliceBobTest: 
+new Added class 5 : de.fu_berlin.inf.dpp.stf.test.stf.view.sarosview.content.BuddiesByAliceTest: 
+new Added class 6 : de.fu_berlin.inf.dpp.stf.test.rosterviewbehaviour.ChangingNameInRosterViewTest: 
+new Added class 7 : de.fu_berlin.inf.dpp.stf.test.permissionsandfollowmode.ChangingUserWithWriteAccessWhileOtherFollowTest: 
+new Added class 8 : de.fu_berlin.inf.dpp.stf.test.chatview.ChatViewFunctionsTest: 
+new Added class 9 : de.fu_berlin.inf.dpp.stf.test.multidriver.ConcurrentEditingTest: 
+new Added class 10 : de.fu_berlin.inf.dpp.stf.test.stf.contextmenu.ContextMenuDeleteTest: 
+new Added class 11 : de.fu_berlin.inf.dpp.stf.test.stf.contextmenu.ContextMenuOpenTest: 
+new Added class 12 : de.fu_berlin.inf.dpp.stf.test.stf.contextmenu.ContextMenuShareWithTest: 
+new Added class 13 : de.fu_berlin.inf.dpp.stf.test.saving.CreatingNewFileTest: 
+new Added class 14 : de.fu_berlin.inf.dpp.stf.test.reproducebugs.EditDuringInvitationTest: 
+new Added class 15 : de.fu_berlin.inf.dpp.stf.test.stf.editor.Editor2Test: 
+new Added class 16 : de.fu_berlin.inf.dpp.stf.test.stf.editor.EditorByAliceBobTest: 
+new Added class 17 : de.fu_berlin.inf.dpp.stf.test.stf.editor.EditorByAliceTest: 
+new Added class 18 : de.fu_berlin.inf.dpp.stf.test.filefolderoperations.FileOperationsTest: 
+new Added class 19 : de.fu_berlin.inf.dpp.stf.test.filefolderoperations.FolderOperationsTest: 
+new Added class 20 : de.fu_berlin.inf.dpp.stf.test.permissionsandfollowmode.FollowModeTest: 
+new Added class 21 : de.fu_berlin.inf.dpp.stf.test.reproducebugs.HostInvitesBelatedlyTest: 
+new Added class 22 : de.fu_berlin.inf.dpp.stf.test.stf.keyboard.KeyboardLayoutTest: 
+new Added class 23 : de.fu_berlin.inf.dpp.stf.test.stf.menubar.MenuFileTest: 
+new Added class 24 : de.fu_berlin.inf.dpp.stf.test.stf.menubar.MenuRefactorTest: 
+new Added class 25 : de.fu_berlin.inf.dpp.stf.test.stf.menubar.MenuSarosByAliceBobCarlTest: 
+new Added class 26 : de.fu_berlin.inf.dpp.stf.test.stf.menubar.MenuSarosByAliceBobTest: 
+new Added class 27 : de.fu_berlin.inf.dpp.stf.test.stf.menubar.MenuTest: 
+new Added class 28 : de.fu_berlin.inf.dpp.stf.test.stf.view.PackageExplorerViewTest: 
+new Added class 29 : de.fu_berlin.inf.dpp.stf.test.reproducebugs.ParallelInvitationWithTerminationByHostTest: 
+new Added class 30 : de.fu_berlin.inf.dpp.stf.test.reproducebugs.ParallelInvitationWithTerminationByInviteesTest: 
+new Added class 31 : de.fu_berlin.inf.dpp.stf.test.stf.menubar.SarosPreferencesTest: 
+new Added class 32 : de.fu_berlin.inf.dpp.stf.test.stf.view.sarosview.SarosViewTest: 
+new Added class 33 : de.fu_berlin.inf.dpp.stf.test.stf.view.sarosview.content.SessionAliceBobCarlTest: 
+new Added class 34 : de.fu_berlin.inf.dpp.stf.test.stf.view.sarosview.content.SessionAliceBobTest: 
+new Added class 35 : de.fu_berlin.inf.dpp.stf.test.invitation.Share2UsersSequentiallyTest: 
+new Added class 36 : de.fu_berlin.inf.dpp.stf.test.invitation.Share3UsersConcurrentlyTest: 
+new Added class 37 : de.fu_berlin.inf.dpp.stf.test.invitation.Share3UsersLeavingSessionTest: 
+new Added class 38 : de.fu_berlin.inf.dpp.stf.test.invitation.Share3UsersSequentiallyTest: 
+new Added class 39 : de.fu_berlin.inf.dpp.stf.test.invitation.ShareProjectUsingExistingProjectTest: 
+new Added class 40 : de.fu_berlin.inf.dpp.stf.test.reproducebugs.StrictSequentialInvitationWithoutTerminationTest: 
+new Added class 41 : de.fu_berlin.inf.dpp.stf.test.invitation.SVNStateInitializationTest: 
+new Added class 42 : de.fu_berlin.inf.dpp.stf.test.filefolderoperations.SVNStateUpdatesTest: 
+new Added class 43 : de.fu_berlin.inf.dpp.stf.test.saving.UserWithWriteAccessResetsFilesTest: 
+new Added class 44 : de.fu_berlin.inf.dpp.stf.test.saving.UserWithWriteAccessSavesFilesTest: 
+new Added class 45 : de.fu_berlin.inf.dpp.stf.test.permissionsandfollowmode.WriteAccessChangeAndImmediateWriteTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

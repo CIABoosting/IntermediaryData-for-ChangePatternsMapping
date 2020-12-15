@@ -1,0 +1,27 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : me.chanjar.weixin.mp.util.http.MaterialDeleteRequestExecutor: 
+new Added class 1 : me.chanjar.weixin.mp.util.http.MaterialNewsInfoRequestExecutor: 
+new Added class 2 : me.chanjar.weixin.mp.util.http.MaterialUploadRequestExecutor: 
+new Added class 3 : me.chanjar.weixin.mp.util.http.MaterialVideoInfoRequestExecutor: 
+new Added class 4 : me.chanjar.weixin.mp.util.http.MaterialVoiceAndImageDownloadRequestExecutor: 
+new Added class 5 : me.chanjar.weixin.cp.api.WxCpServiceImpl: 
+new Added class 6 : me.chanjar.weixin.cp.util.json.WxCpUserGsonAdapter: 
+new Added class 7 : me.chanjar.weixin.common.bean.WxJsapiSignature: 
+new Added class 8 : me.chanjar.weixin.mp.api.WxMpMaterialAPITest: 
+new Added class 9 : me.chanjar.weixin.mp.util.json.WxMpMaterialFileBatchGetGsonAdapter: 
+new Added class 10 : me.chanjar.weixin.mp.util.json.WxMpMaterialNewsBatchGetGsonAdapter: 
+new Added class 11 : me.chanjar.weixin.mp.bean.result.WxMpPayCallback: 
+new Added class 12 : me.chanjar.weixin.mp.bean.result.WxMpPayResult: 
+new Added class 13 : me.chanjar.weixin.mp.bean.result.WxMpPrepayIdResult: 
+new Added class 14 : me.chanjar.weixin.mp.api.WxMpService: 
+new Added class 15 : me.chanjar.weixin.mp.api.WxMpServiceImpl: 
+testing relationship 
+class 8  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:9  r9:0  r10:9  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  1   3 :  0   4 :  0   5 :  2   6 :  0   7 :  0   8 :  10   9 :  0   10 :  10   11 :  3   12 :  0   13 :  6   14 :  0   15 :  0   16 :  0   17 :  0   

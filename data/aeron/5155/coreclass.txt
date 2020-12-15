@@ -1,0 +1,12 @@
+LossDetectorTest:0.3433333333333333
+DriverConductor:0.34
+StatusMessageFlyweight:0.3333333333333333
+DriverConnection:0.30333333333333334
+ReceiveChannelEndpoint:0.235
+SendChannelEndpoint:0.21666666666666667
+EventCodec:0.19333333333333333
+LossDetector:0.18333333333333332
+UnicastSenderFlowControl:0.11333333333333333
+MaxMulticastSenderFlowControl:0.11333333333333333
+TermGapScanner:0.0033333333333333335
+DriverConnectionConductorFields:0.0

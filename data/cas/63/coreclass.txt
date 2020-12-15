@@ -1,0 +1,9 @@
+Reset:0.65
+GraphicalUserAuthenticationConfiguration:0.27
+SendPasswordResetInstructionsAction:0.21666666666666667
+AbstractRandomStringGenerator:0.19
+PasswordManagementConfiguration:0.18333333333333332
+LdapPasswordManagementService:0.14333333333333334
+AuthenticationExceptionHandlerAction:0.13
+CommunicationsManager:0.10666666666666667
+AuthenticationProperties:0.006666666666666667

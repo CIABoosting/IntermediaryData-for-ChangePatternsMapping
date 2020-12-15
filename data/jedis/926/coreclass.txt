@@ -1,0 +1,17 @@
+JedisSentinelTest:0.3233333333333333
+JedisSentinelPool:0.30777777777777776
+ShardedJedisPoolTest:0.2833333333333333
+JedisCommandTestBase:0.25333333333333335
+ShardedJedisTest:0.25
+PublishSubscribeCommandsTest:0.24666666666666667
+JedisPoolTest:0.22333333333333333
+TransactionCommandsTest:0.22
+JedisSentinelPoolTest:0.20666666666666667
+PipeliningTest:0.18333333333333332
+PoolBenchmark:0.18
+HostAndPortUtil:0.13666666666666666
+HashingBenchmark:0.12
+ConnectionHandlingCommandsTest:0.11333333333333333
+GetSetBenchmark:0.09333333333333334
+PipelinedGetSetBenchmark:0.09333333333333334
+ShardedJedisPipelineTest:0.07666666666666666

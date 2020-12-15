@@ -1,0 +1,15 @@
+MongoCollection:0.5252301587301587
+BsonArray:0.39
+DBCollection:0.38333333333333336
+GroupOperation:0.3466666666666667
+OperationHelper:0.32666666666666666
+MapReduceWithInlineResultsOperation:0.22333333333333333
+DistinctOperation:0.19666666666666666
+MongoCollectionImpl:0.19
+AggregateOperation:0.19
+BsonDocumentWrapperHelper:0.18333333333333332
+CollectionAcceptanceTest:0.11444444444444445
+ListDatabasesOperation:0.11166666666666666
+BsonArrayCodec:0.07083333333333333
+BsonValueCodecProvider:0.0675
+CommandResultArrayCodec:0.006666666666666667

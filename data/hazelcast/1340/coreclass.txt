@@ -1,0 +1,13 @@
+AddBackupOperation:0.32
+SetBackupOperation:0.31
+GetOperation:0.23666666666666666
+ApplyOperation:0.23666666666666666
+AtomicLongReplicationOperation:0.22333333333333333
+AlterOperation:0.19333333333333333
+AlterAndGetOperation:0.19333333333333333
+GetAndAlterOperation:0.19333333333333333
+CompareAndSetOperation:0.13
+SetOperation:0.13
+AddAndGetOperation:0.13
+GetAndSetOperation:0.13
+GetAndAddOperation:0.13

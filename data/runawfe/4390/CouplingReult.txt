@@ -1,0 +1,59 @@
+Compared Result of  two versions
+Number of New Class: 35
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : ru.runa.wfe.script.AdminScriptRunner: 
+new Added class 1 : ru.runa.service.wf.impl.AdminScriptServiceBean: 
+new Added class 2 : ru.runa.service.delegate.AdminScriptServiceDelegate: 
+new Added class 3 : ru.runa.service.af.impl.AuthenticationServiceBean: 
+new Added class 4 : ru.runa.service.delegate.AuthenticationServiceDelegate: 
+new Added class 5 : ru.runa.service.af.AuthorizationService: 
+new Added class 6 : ru.runa.service.af.impl.AuthorizationServiceBean: 
+new Added class 7 : ru.runa.service.delegate.AuthorizationServiceDelegate: 
+new Added class 8 : ru.runa.service.bot.handler.BotInvokerActionHandler: 
+new Added class 9 : ru.runa.service.client.BotInvokerClient: 
+new Added class 10 : ru.runa.wfe.bot.logic.BotLogic: 
+new Added class 11 : ru.runa.service.wf.BotService: 
+new Added class 12 : ru.runa.service.wf.impl.BotServiceBean: 
+new Added class 13 : ru.runa.service.delegate.BotServiceDelegate: 
+new Added class 14 : ru.runa.service.delegate.DefinitionServiceDelegate: 
+new Added class 15 : ru.runa.service.delegate.ExecutionServiceDelegate: 
+new Added class 16 : ru.runa.wfe.user.dao.ExecutorDAO: 
+new Added class 17 : ru.runa.wfe.user.logic.ExecutorLogic: 
+new Added class 18 : ru.runa.service.af.ExecutorService: 
+new Added class 19 : ru.runa.service.af.impl.ExecutorServiceBean: 
+new Added class 20 : ru.runa.service.delegate.ExecutorServiceDelegate: 
+new Added class 21 : ru.runa.wfe.commons.dao.GenericDAO: 
+new Added class 22 : ru.runa.service.delegate.InitializerServiceDelegate: 
+new Added class 23 : ru.runa.wfe.user.logic.ProfileLogic: 
+new Added class 24 : ru.runa.service.af.impl.ProfileServiceBean: 
+new Added class 25 : ru.runa.service.delegate.ProfileServiceDelegate: 
+new Added class 26 : ru.runa.service.af.impl.RelationServiceBean: 
+new Added class 27 : ru.runa.service.delegate.RelationServiceDelegate: 
+new Added class 28 : ru.runa.wf.logic.bot.SetActorStatusTaskHandler: 
+new Added class 29 : ru.runa.wfe.ss.logic.SubstitutionLogic: 
+new Added class 30 : ru.runa.service.af.impl.SystemServiceBean: 
+new Added class 31 : ru.runa.service.delegate.SystemServiceDelegate: 
+new Added class 32 : ru.runa.af.web.action.UpdateStatusAction: 
+new Added class 33 : ru.runa.wfe.security.WeakPasswordException: 
+new Added class 34 : ru.runa.service.delegate.WfeScriptForBotStations: 
+testing relationship 
+class 0  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-10  r9:0  r10:26  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-11  r9:0  r10:31  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 5£º  r0:0  r1:0  r2:1  r3:1  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-2  r9:0  r10:20  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 11£º  r0:0  r1:0  r2:1  r3:1  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-14  r9:0  r10:49  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 18£º  r0:0  r1:0  r2:1  r3:1  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  3   3 :  3   4 :  0   5 :  3   6 :  3   7 :  4   8 :  -37   9 :  0   10 :  137   11 :  5   12 :  0   13 :  5   14 :  0   15 :  0   16 :  0   17 :  0   

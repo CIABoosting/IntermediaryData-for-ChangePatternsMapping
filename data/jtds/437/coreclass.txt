@@ -1,0 +1,17 @@
+SQLDiagnostic:0.37333333333333335
+Driver:0.35
+TdsCore:0.3466666666666667
+ColData:0.2966666666666667
+TdsData:0.29
+JtdsPreparedStatement:0.2633333333333333
+ConnectionJDBC2:0.25666666666666665
+RequestStream:0.25333333333333335
+JtdsDatabaseMetaData:0.23333333333333334
+JtdsStatement:0.22333333333333333
+ResponseStream:0.22
+SharedSocket:0.20666666666666667
+MSCursorResultSet:0.2
+ClobImpl:0.2
+SharedNamedPipe:0.18
+NamedPipeUnitTest:0.16333333333333333
+JtdsDataSource:0.11

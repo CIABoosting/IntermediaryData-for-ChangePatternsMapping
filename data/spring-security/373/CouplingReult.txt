@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.springframework.security.web.authentication.rememberme.AbstractRememberMeServicesTests: 
+new Added class 1 : samples.gae.security.AppRoleTests: 
+new Added class 2 : org.springframework.security.web.csrf.CookieCsrfTokenRepositoryTests: 
+new Added class 3 : org.springframework.security.provisioning.JdbcUserDetailsManagerTests: 
+new Added class 4 : org.springframework.security.acls.domain.ObjectIdentityImplTests: 
+new Added class 5 : org.springframework.security.openid.OpenIDAuthenticationFilterTests: 
+new Added class 6 : org.springframework.security.web.authentication.rememberme.PersistentTokenBasedRememberMeServicesTests: 
+new Added class 7 : org.springframework.security.web.jackson2.SavedCookieMixinTests: 
+new Added class 8 : org.springframework.security.context.SecurityContextHolderMTTests: 
+new Added class 9 : org.springframework.security.acls.jdbc.SpringCacheBasedAclCacheTests: 
+new Added class 10 : org.springframework.security.access.hierarchicalroles.TestHelperTests: 
+new Added class 11 : org.springframework.security.web.util.ThrowableAnalyzerTests: 
+new Added class 12 : org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests: 
+new Added class 13 : org.springframework.security.web.authentication.preauth.j2ee.WebXmlJ2eeDefinedRolesRetrieverTests: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

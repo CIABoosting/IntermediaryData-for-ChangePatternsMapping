@@ -1,0 +1,12 @@
+Visitor:0.2733333333333333
+ReferenceReplacer:0.2733333333333333
+ComparisonReplaceVisitor:0.25333333333333335
+ReplacingSymbolVisitor:0.14
+MappingSymbolVisitor:0.11666666666666667
+ToFetchReferenceVisitor:0.11
+ReferenceToLiteralConverter:0.11
+QuerySplittingVisitor:0.09666666666666666
+FieldReferenceResolver:0.02
+FieldToRelationColumnVisitor:0.02
+RelationColumnReWriter:0.02
+ToRelationColumn:0.02

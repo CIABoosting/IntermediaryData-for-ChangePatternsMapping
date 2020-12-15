@@ -1,0 +1,13 @@
+SearchRequest:0.5366666666666666
+InternalSearchResponse:0.4266666666666667
+SearchResponse:0.33
+SearchRequestBuilder:0.2633333333333333
+RandomizingClient:0.26
+SearchPhaseController:0.23
+TermsDocCountErrorIT:0.20888888888888887
+QueryPhaseResultConsumer:0.18333333333333332
+AsyncBulkByScrollActionTests:0.18333333333333332
+ReducedQueryPhase:0.18
+RestSearchAction:0.14333333333333334
+SearchPhaseControllerTests:0.13
+TransportNoopSearchAction:0.07333333333333333

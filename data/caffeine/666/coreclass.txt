@@ -1,0 +1,10 @@
+Caffeine:0.47
+UnboundedLocalLoadingCache:0.24444444444444446
+UnboundedLocalManualCache:0.24444444444444446
+UnboundedLocalAsyncLoadingCache:0.23111111111111116
+Ticker:0.07333333333333333
+BoundedLocalManualCache:0.07
+BoundedLocalLoadingCache:0.06
+SoftValueReference:0.05
+BoundedPolicy:0.04
+BoundedLocalAsyncLoadingCache:0.02

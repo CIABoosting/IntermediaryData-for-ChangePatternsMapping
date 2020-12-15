@@ -1,0 +1,142 @@
+Compared Result of  two versions
+Number of New Class: 64
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.freebxml.omar.server.persistence.rdb.AbstractDAO: 
+new Added class 1 : org.freebxml.omar.server.event.AbstractNotifier: 
+new Added class 2 : org.freebxml.omar.server.repository.AbstractRepositoryManager: 
+new Added class 3 : org.freebxml.omar.server.persistence.rdb.AdhocQueryDAO: 
+new Added class 4 : org.freebxml.omar.server.query.filter.AdhocQueryQueryProcessor: 
+new Added class 5 : org.freebxml.omar.server.query.filter.AssociationQueryProcessor: 
+new Added class 6 : org.freebxml.omar.server.query.filter.AuditableEventQueryProcessor: 
+new Added class 7 : org.freebxml.omar.common.BindingUtility: 
+new Added class 8 : org.freebxml.omar.server.query.filter.BooleanFilterProcessor: 
+new Added class 9 : org.freebxml.omar.server.query.filter.BranchProcessor: 
+new Added class 10 : org.freebxml.omar.server.query.filter.ClassificationNodeQueryProcessor: 
+new Added class 11 : org.freebxml.omar.server.query.filter.ClassificationQueryProcessor: 
+new Added class 12 : org.freebxml.omar.server.query.filter.ClassificationSchemeQueryProcessor: 
+new Added class 13 : org.freebxml.omar.common.CommonRequestContext: 
+new Added class 14 : org.freebxml.omar.server.query.filter.CompoundFilterProcessor: 
+new Added class 15 : org.freebxml.omar.common.CredentialInfo: 
+new Added class 16 : org.freebxml.omar.server.query.filter.DateTimeFilterProcessor: 
+new Added class 17 : org.freebxml.omar.server.query.filter.ExternalIdentifierQueryProcessor: 
+new Added class 18 : org.freebxml.omar.server.query.filter.ExternalLinkQueryProcessor: 
+new Added class 19 : org.freebxml.omar.server.persistence.rdb.ExtrinsicObjectDAO: 
+new Added class 20 : org.freebxml.omar.server.query.filter.ExtrinsicObjectQueryProcessor: 
+new Added class 21 : org.freebxml.omar.server.query.filter.FederationQueryProcessor: 
+new Added class 22 : org.freebxml.omar.server.repository.filesystem.FileSystemRepositoryManager: 
+new Added class 23 : org.freebxml.omar.server.query.filter.FloatFilterProcessor: 
+new Added class 24 : org.freebxml.omar.common.I18nXSLTTask: 
+new Added class 25 : org.freebxml.omar.common.IdentifiableComparator: 
+new Added class 26 : org.freebxml.omar.server.query.filter.IntegerFilterProcessor: 
+new Added class 27 : org.freebxml.omar.server.query.filter.InternationalStringBranchProcessor: 
+new Added class 28 : org.freebxml.omar.server.lcm.LifeCycleManagerImpl: 
+new Added class 29 : org.freebxml.omar.server.query.filter.NotificationQueryProcessor: 
+new Added class 30 : org.freebxml.omar.server.event.Notifier: 
+new Added class 31 : org.freebxml.omar.server.query.filter.OrganizationQueryProcessor: 
+new Added class 32 : org.freebxml.omar.server.query.filter.PersonQueryProcessor: 
+new Added class 33 : org.freebxml.omar.server.event.PluginNotifier: 
+new Added class 34 : org.freebxml.omar.server.query.filter.QueryExpressionBranchProcessor: 
+new Added class 35 : org.freebxml.omar.common.spi.QueryManager: 
+new Added class 36 : org.freebxml.omar.server.query.QueryManagerImpl: 
+new Added class 37 : org.freebxml.omar.server.lcm.quota.QuotaServiceImpl: 
+new Added class 38 : org.freebxml.omar.server.query.ReferenceResolver: 
+new Added class 39 : org.freebxml.omar.server.persistence.rdb.RegistryObjectDAO: 
+new Added class 40 : org.freebxml.omar.server.query.filter.RegistryPackageQueryProcessor: 
+new Added class 41 : org.freebxml.omar.server.query.filter.RegistryQueryProcessor: 
+new Added class 42 : org.freebxml.omar.common.RepositoryItem: 
+new Added class 43 : org.freebxml.omar.common.RepositoryItemImpl: 
+new Added class 44 : org.freebxml.omar.server.repository.RepositoryItemKey: 
+new Added class 45 : org.freebxml.omar.common.exceptions.RepositoryItemNotFoundException: 
+new Added class 46 : org.freebxml.omar.server.repository.RepositoryManager: 
+new Added class 47 : org.freebxml.omar.server.repository.RepositoryManagerFactory: 
+new Added class 48 : org.freebxml.omar.common.spi.RequestContext: 
+new Added class 49 : org.freebxml.omar.server.common.ServerRequestContext: 
+new Added class 50 : org.freebxml.omar.server.query.filter.ServiceBindingQueryProcessor: 
+new Added class 51 : org.freebxml.omar.server.query.filter.ServiceQueryProcessor: 
+new Added class 52 : org.freebxml.omar.server.query.filter.SimpleFilterProcessor: 
+new Added class 53 : org.freebxml.omar.server.query.filter.SlotBranchProcessor: 
+new Added class 54 : org.freebxml.omar.server.query.filter.SpecificationLinkQueryProcessor: 
+new Added class 55 : org.freebxml.omar.server.query.filter.SQLClause: 
+new Added class 56 : org.freebxml.omar.server.persistence.rdb.SQLPersistenceManagerImpl: 
+new Added class 57 : org.freebxml.omar.server.query.filter.StringFilterProcessor: 
+new Added class 58 : org.freebxml.omar.server.event.SubscriptionMatcher: 
+new Added class 59 : org.freebxml.omar.server.query.filter.SubscriptionQueryProcessor: 
+new Added class 60 : org.freebxml.omar.server.query.filter.UserQueryProcessor: 
+new Added class 61 : org.freebxml.omar.server.security.authentication.UserRegistrar: 
+new Added class 62 : org.freebxml.omar.common.Utility: 
+new Added class 63 : org.freebxml.omar.server.lcm.versioning.VersionProcessor: 
+testing relationship 
+class 0  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 42£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-2  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 49£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:12  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 0  vs  class 62£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 30£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 49£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 2  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 42£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:1  r15:0  r16:2  r17:0  
+class 2  vs  class 44£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:2  r17:0  
+class 2  vs  class 46£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 49£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 3  vs  class 39£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 49£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 7  vs  class 42£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 52£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 10£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 48£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 52£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 39£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 42£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 49£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 22  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 42£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:2  r15:0  r16:3  r17:0  
+class 22  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 52£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 52£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:18  r9:0  r10:11  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 42£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-4  r9:0  r10:11  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:85  r15:0  r16:25  r17:0  
+class 28  vs  class 49£º  r0:0  r1:0  r2:0  r3:104  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:0  r14:18  r15:0  r16:0  r17:0  
+class 31  vs  class 10£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 49£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 34  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 35£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 42£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:21  r15:0  r16:3  r17:0  
+class 36  vs  class 49£º  r0:0  r1:0  r2:0  r3:19  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:16  r12:0  r13:0  r14:27  r15:0  r16:0  r17:0  
+class 39  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 39  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 39  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 39  vs  class 49£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 39  vs  class 56£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 42£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 44  vs  class 42£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 46£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 49  vs  class 13£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:9  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 39£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 49£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:105  r15:0  r16:0  r17:0  
+class 57  vs  class 52£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 58  vs  class 49£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:6  r15:0  r16:0  r17:0  
+class 60  vs  class 32£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 62  vs  class 42£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 63  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:12  r9:0  r10:9  r11:6  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 63  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 63  vs  class 42£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:2  r14:3  r15:0  r16:2  r17:0  
+class 63  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 63  vs  class 49£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:19  r9:0  r10:0  r11:8  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 63  vs  class 62£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  14   2 :  5   3 :  135   4 :  1   5 :  8   6 :  1   7 :  0   8 :  79   9 :  0   10 :  47   11 :  127   12 :  0   13 :  17   14 :  277   15 :  0   16 :  37   17 :  0   

@@ -1,0 +1,41 @@
+Compared Result of  two versions
+Number of New Class: 12
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.google.bitcoin.wallet.BasicKeyChain: 
+new Added class 1 : com.google.bitcoin.wallet.BasicKeyChainTest: 
+new Added class 2 : com.google.bitcoin.crypto.ChildKeyDerivationTest: 
+new Added class 3 : com.google.bitcoin.crypto.DeterministicKey: 
+new Added class 4 : com.google.bitcoin.wallet.DeterministicKeyChain: 
+new Added class 5 : com.google.bitcoin.wallet.DeterministicKeyChainTest: 
+new Added class 6 : com.google.bitcoin.crypto.HDKeyDerivation: 
+new Added class 7 : com.google.bitcoin.wallet.KeyChainGroup: 
+new Added class 8 : com.google.bitcoin.testing.MockTransactionBroadcaster: 
+new Added class 9 : com.google.bitcoin.core.Wallet: 
+new Added class 10 : com.google.bitcoin.core.WalletTest: 
+new Added class 11 : com.google.bitcoin.tools.WalletTool: 
+testing relationship 
+class 0  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:14  r9:0  r10:55  r11:0  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:46  r12:0  r13:28  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:22  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:4  r4:0  r5:8  r6:0  r7:0  r8:23  r9:0  r10:0  r11:19  r12:0  r13:4  r14:15  r15:0  r16:7  r17:0  
+class 4  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 3£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:52  r12:0  r13:8  r14:2  r15:0  r16:1  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:18  r9:0  r10:43  r11:6  r12:0  r13:9  r14:0  r15:0  r16:6  r17:0  
+class 5  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:5  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:4  r15:0  r16:2  r17:0  
+class 7  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:26  r11:8  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 7  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:0  r14:6  r15:0  r16:0  r17:0  
+class 7  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:15  r14:0  r15:0  r16:3  r17:0  
+class 7  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:2  r17:0  
+class 9  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:5  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 9  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:41  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 10  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:8  r9:0  r10:22  r11:1  r12:0  r13:2  r14:25  r15:0  r16:17  r17:0  
+class 11  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:25  r9:0  r10:42  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  6   4 :  1   5 :  22   6 :  0   7 :  12   8 :  90   9 :  0   10 :  254   11 :  170   12 :  0   13 :  74   14 :  58   15 :  0   16 :  38   17 :  0   

@@ -1,0 +1,10 @@
+MultiLayerNetwork:0.73
+Builder:0.4066666666666667
+EmbeddingLayer:0.2544444444444445
+TestSparkMultiLayerParameterAveraging:0.20333333333333334
+ParameterAveragingTrainingWorker:0.18333333333333332
+RegressionTest050:0.17666666666666667
+ComputationGraphConfiguration:0.15
+TestSparkComputationGraph:0.13
+LossFunctionGradientCheck:0.04666666666666667
+MultiLayerNeuralNetConfigurationTest:0.03666666666666667

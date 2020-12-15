@@ -1,0 +1,4 @@
+BatchNormalization:0.61
+LocalResponseNormalization:0.5666666666666667
+CudnnSubsamplingHelper:0.38
+CudnnConvolutionHelper:0.20666666666666667

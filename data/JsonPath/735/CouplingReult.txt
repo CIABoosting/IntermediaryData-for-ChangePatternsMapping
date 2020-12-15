@@ -1,0 +1,29 @@
+Compared Result of  two versions
+Number of New Class: 12
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.jayway.jsonpath.ExpressionEvalTest: 
+new Added class 1 : com.jayway.jsonpath.InvalidJsonException: 
+new Added class 2 : com.jayway.jsonpath.InvalidPathException: 
+new Added class 3 : com.jayway.jsonpath.spi.impl.JacksonProvider: 
+new Added class 4 : com.jayway.jsonassert.JsonAssert: 
+new Added class 5 : com.jayway.jsonpath.JsonModel: 
+new Added class 6 : com.jayway.jsonpath.JsonModelTest: 
+new Added class 7 : com.jayway.jsonpath.JsonPath: 
+new Added class 8 : com.jayway.jsonpath.JsonPathTest: 
+new Added class 9 : com.jayway.jsonpath.spi.JsonProvider: 
+new Added class 10 : com.jayway.jsonpath.spi.impl.JsonSmartProvider: 
+new Added class 11 : com.jayway.jsonpath.util.ScriptEngineJsonPath: 
+testing relationship 
+class 3  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 5  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:5  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-1  r9:0  r10:1  r11:-2  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  0   3 :  0   4 :  0   5 :  1   6 :  1   7 :  1   8 :  7   9 :  0   10 :  7   11 :  7   12 :  0   13 :  12   14 :  4   15 :  0   16 :  3   17 :  0   

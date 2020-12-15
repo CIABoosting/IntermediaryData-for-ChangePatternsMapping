@@ -1,0 +1,35 @@
+Compared Result of  two versions
+Number of New Class: 29
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : plugin.editor.look.action.JFXStyleSetExtractionActionTest: 
+new Added class 1 : plugin.editor.look.parser.LookCapacitiesHandler2Test: 
+new Added class 2 : plugin.editor.look.parser.LookCapacitiesHandler3Test: 
+new Added class 3 : plugin.editor.look.parser.LookCapacitiesHandlerCheckKOTest: 
+new Added class 4 : plugin.editor.look.parser.LookCapacitiesHandlerTest: 
+new Added class 5 : plugin.editor.look.writer.LookCapacitiesWriterTest: 
+new Added class 6 : plugin.editor.look.parser.LookCapacititesHandlerCheckKO2Test: 
+new Added class 7 : plugin.editor.look.parser.LookDefinitionHandler2Test: 
+new Added class 8 : plugin.editor.look.parser.LookDefinitionHandler3Test: 
+new Added class 9 : plugin.editor.look.parser.LookDefinitionHandlerCheck2Test: 
+new Added class 10 : plugin.editor.look.parser.LookDefinitionHandlerCheckKO3Test: 
+new Added class 11 : plugin.editor.look.parser.LookDefinitionHandlerCheckKO4Test: 
+new Added class 12 : plugin.editor.look.parser.LookDefinitionHandlerCheckKO5Test: 
+new Added class 13 : plugin.editor.look.parser.LookDefinitionHandlerCheckKO6Test: 
+new Added class 14 : plugin.editor.look.parser.LookDefinitionHandlerCheckKOTest: 
+new Added class 15 : plugin.editor.look.parser.LookDefinitionHandlerCheckTest: 
+new Added class 16 : plugin.editor.look.parser.LookDefinitionHandlerTest: 
+new Added class 17 : plugin.editor.look.writer.LookDefinitionWriterTest: 
+new Added class 18 : plugin.editor.look.synth.tosynth.writer.LookModelToSynthParser: 
+new Added class 19 : plugin.cockpit.actions.MultiAppliGenerator2Test: 
+new Added class 20 : plugin.cockpit.actions.MultiAppliGenerator3Test: 
+new Added class 21 : plugin.cockpit.actions.MultiAppliGeneratorTest: 
+new Added class 22 : plugin.cockpit.actions.SuperLayerGeneratorTest: 
+new Added class 23 : plugin.editor.look.action.SwingStyleSetExtractionActionTest: 
+new Added class 24 : plugin.editor.look.synth.parser.SynthToLookModelParser: 
+new Added class 25 : plugin.editor.look.synth.utils.SynthUtilsParser: 
+new Added class 26 : plugin.editor.look.synth.fromsynth.parser.UIComponentsFactoryTest: 
+new Added class 27 : plugin.editor.look.jfx.components.writer.WidgetComponentsWriterTest: 
+new Added class 28 : plugin.editor.look.parser.XSDTypesHandlerTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

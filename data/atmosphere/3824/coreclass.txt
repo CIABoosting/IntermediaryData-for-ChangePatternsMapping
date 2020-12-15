@@ -1,0 +1,17 @@
+AtmosphereFramework:0.39
+Action:0.35
+AsynchronousProcessor:0.30333333333333334
+EventLogger:0.18
+TomcatCometSupport:0.17833333333333334
+JBossWebCometSupport:0.17833333333333334
+BlockingIOCometSupport:0.17
+GlassFishv2CometSupport:0.13666666666666666
+GlassFishWebSocketSupport:0.13666666666666666
+DefaultAnnotationProcessor:0.13666666666666666
+Tomcat7CometSupport:0.13666666666666666
+GrizzlyCometSupport:0.13666666666666666
+Servlet30CometSupport:0.12333333333333334
+TomcatWebSocketUtil:0.10666666666666667
+JettyCometSupport:0.10666666666666667
+NettyCometSupport:0.1
+JettyWebSocketUtil:0.08333333333333333

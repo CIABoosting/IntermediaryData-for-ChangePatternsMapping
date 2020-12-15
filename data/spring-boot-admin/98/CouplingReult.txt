@@ -1,0 +1,27 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : de.codecentric.boot.admin.server.AbstractAdminApplicationTest: 
+new Added class 1 : de.codecentric.boot.admin.server.eventstore.AbstractEventStoreTest: 
+new Added class 2 : de.codecentric.boot.admin.server.config.AdminServerAutoConfiguration: 
+new Added class 3 : de.codecentric.boot.admin.server.config.AdminServerNotifierConfigurationTest: 
+new Added class 4 : de.codecentric.boot.admin.server.config.AdminServerWebConfigurationTest: 
+new Added class 5 : de.codecentric.boot.admin.server.services.EndpointDetectorTest: 
+new Added class 6 : de.codecentric.boot.admin.server.notify.HipchatNotifierTest: 
+new Added class 7 : de.codecentric.boot.admin.server.services.InfoUpdaterTest: 
+new Added class 8 : de.codecentric.boot.admin.server.discovery.InstanceDiscoveryListenerTest: 
+new Added class 9 : de.codecentric.boot.admin.server.eventstore.InstanceEventPublisher: 
+new Added class 10 : de.codecentric.boot.admin.server.services.InstanceRegistryTest: 
+new Added class 11 : de.codecentric.boot.admin.server.web.InstancesControllerIntegrationTest: 
+new Added class 12 : de.codecentric.boot.admin.server.web.client.InstanceWebClientTest: 
+new Added class 13 : de.codecentric.boot.admin.server.notify.LetsChatNotifierTest: 
+new Added class 14 : de.codecentric.boot.admin.server.notify.filter.web.NotificationFilterControllerTest: 
+new Added class 15 : de.codecentric.boot.admin.server.services.endpoints.ProbeEndpointsStrategyTest: 
+new Added class 16 : de.codecentric.boot.admin.server.services.endpoints.QueryIndexEndpointStrategyTest: 
+new Added class 17 : de.codecentric.boot.admin.server.services.ResubscribingEventHandlerTest: 
+new Added class 18 : de.codecentric.boot.admin.server.services.StatusUpdaterTest: 
+testing relationship 
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  2   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

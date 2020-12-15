@@ -1,0 +1,13 @@
+PoolableConnectionManager:0.6433333333333333
+DelegatingMongoConnector:0.42
+SaslAuthenticator:0.24666666666666667
+CachingAuthenticator:0.22666666666666666
+MonotonicallyConsistentServerConnectorManager:0.17905555555555555
+Authenticator:0.17
+PoolableConnectionManagerImpl:0.15
+MongoConnectorsImpl:0.13333333333333333
+CachingAuthenticatorAsyncTest:0.09666666666666666
+GSSAPIAuthenticator:0.05333333333333334
+AbstractConnectionManager:0.05
+NativeAuthenticator:0.03333333333333333
+AbstractMongoConnectorTest:0.006666666666666667

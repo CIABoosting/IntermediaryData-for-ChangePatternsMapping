@@ -1,0 +1,10 @@
+CompositeCollector:0.4083333333333333
+ShardCollectSource:0.38333333333333336
+Builder:0.30666666666666664
+ShardCollectService:0.2966666666666667
+FlatProjectorChain:0.21
+RowMergersTest:0.18666666666666668
+RowsCollector:0.17666666666666667
+CompositeCollectorTest:0.12
+IndexWriterProjectorTest:0.09
+RemoteCollectorFactory:0.024444444444444442

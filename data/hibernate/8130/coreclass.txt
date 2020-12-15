@@ -1,0 +1,15 @@
+StatelessSessionImpl:0.37666666666666665
+ForeignGenerator:0.27
+Delegate:0.25
+SequenceGenerator:0.19666666666666666
+InsertSelectDelegate:0.19
+AbstractSaveEventListener:0.18333333333333332
+MultipleHiLoPerTableGenerator:0.14666666666666667
+GetGeneratedKeysDelegate:0.14333333333333334
+BasicDelegate:0.14333333333333334
+OptimizerSupport:0.14333333333333334
+IncrementGenerator:0.13666666666666666
+AbstractPostInsertGenerator:0.09333333333333334
+SequenceIdentityGenerator:0.08666666666666667
+TableHiLoGenerator:0.06333333333333334
+SequenceHiLoGenerator:0.06333333333333334

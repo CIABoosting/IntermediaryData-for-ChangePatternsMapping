@@ -1,0 +1,14 @@
+MethodLookupEngine:0.46
+Default:0.42333333333333334
+MethodConstant:0.2733333333333333
+Invocation:0.27111111111111114
+PrimitiveUnboxingDelegateDirectTest:0.25333333333333335
+MethodDelegation:0.24666666666666667
+MethodInvocationTest:0.24
+PrimitiveBoxingDelegateTest:0.19
+PrimitiveUnboxingDelegateWideningTest:0.19
+MethodLookupEngineDefaultTest:0.18666666666666668
+BridgeMethodResolverSimpleTest:0.17666666666666667
+MethodBucket:0.14666666666666667
+MethodConstantTest:0.14
+BoxingStackManipulation:0.13666666666666666

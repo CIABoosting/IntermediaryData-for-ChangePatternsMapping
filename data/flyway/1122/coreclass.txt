@@ -1,0 +1,13 @@
+Flyway:0.6133333333333333
+CompositeMigrationResolver:0.32666666666666666
+MigrationTestCase:0.2733333333333333
+SqlMigrationResolver:0.25
+SqlMigrationResolverSmallTest:0.15666666666666668
+DbMigrate:0.15
+CompositeMigrationResolverSmallTest:0.11
+SqlMigrationResolverMediumTest:0.07333333333333333
+SqlMigrationExecutor:0.06666666666666667
+MigrationExecutor:0.0425
+SpringJdbcMigrationExecutor:0.02
+JavaMigrationExecutor:0.02
+JdbcMigrationExecutor:0.02

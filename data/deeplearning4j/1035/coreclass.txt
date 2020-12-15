@@ -1,0 +1,12 @@
+LayerConstraint:0.3855555555555556
+Layer:0.37
+MaxNormConstraint:0.2966666666666667
+VariationalAutoencoder:0.2966666666666667
+UnitNormConstraint:0.19333333333333333
+AbstractLayer:0.18333333333333332
+FineTuneConfiguration:0.16
+Builder:0.13333333333333333
+NonNegativeConstraint:0.10333333333333333
+LayerValidation:0.09666666666666666
+BaseConstraint:0.09
+MinMaxNormConstraint:0.08

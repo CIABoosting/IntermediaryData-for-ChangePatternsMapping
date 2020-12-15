@@ -1,0 +1,13 @@
+ClientConnectionManager:0.46711904761904766
+HazelcastClient:0.41333333333333333
+ClientConnectionManagerImpl:0.38
+ClientClusterServiceImpl:0.37666666666666665
+ClientConnection:0.36666666666666664
+ClusterListenerThread:0.17
+CleanResourcesTask:0.16333333333333333
+ClusterAuthenticator:0.14833333333333334
+ManagerAuthenticator:0.14833333333333334
+OwnerConnectionFuture:0.14
+ConnectionProcessor:0.13333333333333333
+AbstractClientSelectionHandler:0.11
+HeartBeat:0.04666666666666667

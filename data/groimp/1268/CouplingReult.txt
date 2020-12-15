@@ -1,0 +1,38 @@
+Compared Result of  two versions
+Number of New Class: 25
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : de.grogra.imp3d.objects.AreaLight: 
+new Added class 1 : de.grogra.imp3d.objects.Box: 
+new Added class 2 : de.grogra.imp3d.shading.Carpenter: 
+new Added class 3 : de.grogra.imp3d.objects.Cone: 
+new Added class 4 : de.grogra.imp3d.objects.Cylinder: 
+new Added class 5 : de.grogra.imp3d.objects.DirectionalLight: 
+new Added class 6 : de.grogra.imp3d.objects.Frustum: 
+new Added class 7 : de.grogra.imp3d.shading.Gradient: 
+new Added class 8 : de.grogra.imp3d.objects.HeightFieldMapping: 
+new Added class 9 : de.grogra.imp3d.objects.ImageHeightField: 
+new Added class 10 : de.grogra.imp3d.shading.IOR: 
+new Added class 11 : de.grogra.imp3d.shading.Julia: 
+new Added class 12 : de.grogra.imp3d.shading.Mandel: 
+new Added class 13 : de.grogra.imp3d.objects.NumericLabel: 
+new Added class 14 : de.grogra.imp3d.objects.PointLight: 
+new Added class 15 : de.grogra.imp3d.objects.RectangularHeightFieldMapping: 
+new Added class 16 : de.grogra.imp3d.shading.SideSwitchShader: 
+new Added class 17 : de.grogra.imp3d.objects.SphericalHeightFieldMapping: 
+new Added class 18 : de.grogra.imp3d.objects.SpotLight: 
+new Added class 19 : de.grogra.imp3d.objects.TextLabel: 
+new Added class 20 : de.grogra.imp3d.objects.TextLabelBase: 
+new Added class 21 : de.grogra.imp3d.shading.Turbulence: 
+new Added class 22 : de.grogra.imp3d.objects.VertexSequence: 
+new Added class 23 : de.grogra.imp3d.View3D: 
+new Added class 24 : de.grogra.imp3d.shading.VolumeTurbulence: 
+testing relationship 
+class 13  vs  class 20£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 14£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 20£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 23£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  5   2 :  0   3 :  1   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  4   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

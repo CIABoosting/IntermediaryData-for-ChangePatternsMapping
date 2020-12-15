@@ -1,0 +1,9 @@
+AsyncConnection:0.7333333333333333
+DefaultServerAsyncConnection:0.39
+DefaultAsyncConnection:0.23666666666666666
+PooledAsyncConnection:0.16
+DelayedCloseAsyncConnection:0.13
+AuthenticatingAsyncConnection:0.13
+TestAsyncConnectionFactory:0.11666666666666667
+ConnectingAsyncServerConnection:0.11666666666666667
+UnacknowledgedWriteResultCallback:0.023333333333333334

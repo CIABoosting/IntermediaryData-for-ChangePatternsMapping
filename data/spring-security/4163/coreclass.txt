@@ -1,0 +1,11 @@
+MutableAcl:0.5833333333333334
+AclImpl:0.51
+AclImplTests:0.23333333333333334
+ContactManagerBackend:0.19666666666666666
+JdbcAclServiceTests:0.19333333333333333
+AclImplementationSecurityCheckTests:0.15
+AclPermissionInheritanceTests:0.14666666666666667
+DataSourcePopulator:0.11333333333333333
+SecureDocumentDaoImpl:0.1
+SecureDataSourcePopulator:0.08
+AuditableAcl:0.025833333333333333

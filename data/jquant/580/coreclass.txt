@@ -1,0 +1,15 @@
+AmericanPayoffAtHit:0.6766666666666666
+SampledCurve:0.43666666666666665
+GenericTimeSetter:0.2866666666666667
+AmericanPayoffAtExpiry:0.27051984126984113
+OperatorTest:0.25
+PdeOperator:0.23666666666666666
+NullCondition:0.10666666666666667
+OperatorFactory:0.10610846560846562
+FDStepConditionEngine:0.08
+FDShoutCondition:0.03
+FDVanillaEngine:0.023333333333333334
+BoundaryConditionSet:0.02
+ParallelEvolver:0.006666666666666667
+StepConditionSet:0.0
+FDAmericanCondition:0.0

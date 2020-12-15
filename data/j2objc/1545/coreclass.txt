@@ -1,0 +1,13 @@
+ArrayRewriter:0.4266666666666667
+StatementGenerator:0.32666666666666666
+RewriterTest:0.31
+CastResolver:0.31
+ImplementationImportCollector:0.27666666666666667
+AutoboxerTest:0.27666666666666667
+StatementGeneratorTest:0.27
+JavaToIOSMethodTranslatorTest:0.26
+LambdaExpressionTest:0.24666666666666667
+CastResolverTest:0.24333333333333335
+ObjectiveCImplementationGeneratorTest:0.21333333333333335
+NilCheckResolverTest:0.19666666666666666
+JUnitTestRunner:0.19

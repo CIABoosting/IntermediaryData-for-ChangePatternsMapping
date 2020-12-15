@@ -1,0 +1,52 @@
+Compared Result of  two versions
+Number of New Class: 29
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.google.bitcoin.protocols.channels.ChannelConnectionTest: 
+new Added class 1 : com.google.bitcoin.protocols.channels.ChannelTestUtils: 
+new Added class 2 : com.google.bitcoin.examples.ExamplePaymentChannelServer: 
+new Added class 3 : com.google.bitcoin.protocols.channels.IPaymentChannelClient: 
+new Added class 4 : com.google.bitcoin.jni.NativePaymentChannelServerConnectionEventHandler: 
+new Added class 5 : com.google.bitcoin.protocols.channels.PaymentChannelClient: 
+new Added class 6 : com.google.bitcoin.protocols.channels.PaymentChannelClientConnection: 
+new Added class 7 : com.google.bitcoin.protocols.channels.PaymentChannelServer: 
+new Added class 8 : com.google.bitcoin.protocols.channels.PaymentChannelServerListener: 
+new Added class 9 : org.bitcoin.paymentchannel.Protos: 
+new Added class 10 : org.bitcoin.paymentchannel.ClientVersionOrBuilder: 
+new Added class 11 : org.bitcoin.paymentchannel.ClientVersion: 
+new Added class 12 : org.bitcoin.paymentchannel.ServerVersionOrBuilder: 
+new Added class 13 : org.bitcoin.paymentchannel.ServerVersion: 
+new Added class 14 : org.bitcoin.paymentchannel.InitiateOrBuilder: 
+new Added class 15 : org.bitcoin.paymentchannel.Initiate: 
+new Added class 16 : org.bitcoin.paymentchannel.ProvideRefundOrBuilder: 
+new Added class 17 : org.bitcoin.paymentchannel.ProvideRefund: 
+new Added class 18 : org.bitcoin.paymentchannel.ReturnRefundOrBuilder: 
+new Added class 19 : org.bitcoin.paymentchannel.ReturnRefund: 
+new Added class 20 : org.bitcoin.paymentchannel.ProvideContractOrBuilder: 
+new Added class 21 : org.bitcoin.paymentchannel.ProvideContract: 
+new Added class 22 : org.bitcoin.paymentchannel.UpdatePaymentOrBuilder: 
+new Added class 23 : org.bitcoin.paymentchannel.UpdatePayment: 
+new Added class 24 : org.bitcoin.paymentchannel.SettlementOrBuilder: 
+new Added class 25 : org.bitcoin.paymentchannel.Settlement: 
+new Added class 26 : org.bitcoin.paymentchannel.ErrorOrBuilder: 
+new Added class 27 : org.bitcoin.paymentchannel.Error: 
+new Added class 28 : com.google.bitcoin.protocols.channels.ServerConnectionEventHandler: 
+testing relationship 
+class 0  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:25  r12:20  r13:85  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:23  r12:12  r13:49  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 28£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 28£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:2  r10:6  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 18£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 20£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 22£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 24£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 26£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  10   3 :  0   4 :  0   5 :  1   6 :  0   7 :  0   8 :  1   9 :  2   10 :  6   11 :  55   12 :  32   13 :  141   14 :  0   15 :  0   16 :  0   17 :  0   

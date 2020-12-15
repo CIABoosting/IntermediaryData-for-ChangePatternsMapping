@@ -1,0 +1,14 @@
+PagesHashStrategy:0.75
+PagesIndex:0.32666666666666666
+InMemoryJoinHash:0.2866666666666667
+GenericPageProcessor:0.2733333333333333
+BenchmarkGroupByHash:0.25583333333333336
+InterpretedHashGenerator:0.24333333333333335
+SimplePagesHashStrategy:0.23
+GroupIdOperator:0.22333333333333333
+AggregationTestUtils:0.21333333333333335
+WindowOperator:0.18666666666666668
+JoinCompiler:0.16666666666666666
+MultiChannelGroupByHash:0.16666666666666666
+RaptorBucketFunction:0.11333333333333333
+TestJoinCompiler:0.09666666666666666

@@ -1,0 +1,116 @@
+Compared Result of  two versions
+Number of New Class: 103
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openxava.test.model.AdditionalDetail: 
+new Added class 1 : org.openxava.test.model.xejb.AdditionalDetailBean: 
+new Added class 2 : org.openxava.test.model.Address: 
+new Added class 3 : .AggregateReferencePG: 
+new Added class 4 : .BeanPG: 
+new Added class 5 : org.openxava.test.model.Carrier: 
+new Added class 6 : org.openxava.test.model.xejb.CarrierBean: 
+new Added class 7 : org.openxava.test.model.Clerk: 
+new Added class 8 : org.openxava.test.model.xejb.ClerkBean: 
+new Added class 9 : org.openxava.test.model.Customer: 
+new Added class 10 : org.openxava.test.model.xejb.CustomerBean: 
+new Added class 11 : org.openxava.test.model.Delivery: 
+new Added class 12 : org.openxava.test.model.xejb.DeliveryBean: 
+new Added class 13 : org.openxava.test.model.DeliveryDetail: 
+new Added class 14 : org.openxava.test.model.xejb.DeliveryDetailBean: 
+new Added class 15 : org.openxava.test.model.DeliveryPlace: 
+new Added class 16 : org.openxava.test.model.xejb.DeliveryPlaceBean: 
+new Added class 17 : org.openxava.test.model.DeliveryType: 
+new Added class 18 : org.openxava.test.model.xejb.DeliveryTypeBean: 
+new Added class 19 : org.openxava.test.model.Detail: 
+new Added class 20 : org.openxava.test.model.DrivingLicence: 
+new Added class 21 : org.openxava.test.model.xejb.DrivingLicenceBean: 
+new Added class 22 : .EJBeanPG: 
+new Added class 23 : .EntityReferenceEJBPG: 
+new Added class 24 : .EntityReferencePG: 
+new Added class 25 : org.openxava.test.model.Family2: 
+new Added class 26 : org.openxava.test.model.xejb.Family2Bean: 
+new Added class 27 : org.openxava.test.model.FilterBySubfamily: 
+new Added class 28 : org.openxava.test.model.xejb.FilterBySubfamilyBean: 
+new Added class 29 : .HibernatePG: 
+new Added class 30 : org.openxava.test.model.IAdditionalDetail: 
+new Added class 31 : org.openxava.test.model.ICarrier: 
+new Added class 32 : org.openxava.test.model.IClerk: 
+new Added class 33 : org.openxava.test.model.ICustomer: 
+new Added class 34 : org.openxava.test.model.IDelivery: 
+new Added class 35 : org.openxava.test.model.IDeliveryDetail: 
+new Added class 36 : org.openxava.test.model.IDeliveryPlace: 
+new Added class 37 : org.openxava.test.model.IDeliveryType: 
+new Added class 38 : org.openxava.test.model.IDrivingLicence: 
+new Added class 39 : org.openxava.test.model.IFamily2: 
+new Added class 40 : org.openxava.test.model.IFilterBySubfamily: 
+new Added class 41 : org.openxava.test.model.IInvoice: 
+new Added class 42 : org.openxava.test.model.IInvoiceDetail: 
+new Added class 43 : .InterfacePG: 
+new Added class 44 : org.openxava.test.model.Invoice: 
+new Added class 45 : org.openxava.test.model.xejb.InvoiceBean: 
+new Added class 46 : org.openxava.test.model.InvoiceDetail: 
+new Added class 47 : org.openxava.test.model.xejb.InvoiceDetailBean: 
+new Added class 48 : org.openxava.test.tests.InvoicesTest: 
+new Added class 49 : org.openxava.test.model.IOffice: 
+new Added class 50 : org.openxava.test.model.IOffice2: 
+new Added class 51 : org.openxava.test.model.IProduct: 
+new Added class 52 : org.openxava.test.model.IProduct2: 
+new Added class 53 : org.openxava.test.model.IProduct3: 
+new Added class 54 : org.openxava.test.model.IReceptionist: 
+new Added class 55 : org.openxava.test.model.ISeller: 
+new Added class 56 : org.openxava.test.model.ISellerLevel: 
+new Added class 57 : org.openxava.test.model.IService: 
+new Added class 58 : org.openxava.test.model.IServiceType: 
+new Added class 59 : org.openxava.test.model.IShipment: 
+new Added class 60 : org.openxava.test.model.IState: 
+new Added class 61 : org.openxava.test.model.ISubfamily: 
+new Added class 62 : org.openxava.test.model.ISubfamily2: 
+new Added class 63 : org.openxava.test.model.ITransportCharge: 
+new Added class 64 : org.openxava.test.model.IWarehouse: 
+new Added class 65 : .MethodsPG: 
+new Added class 66 : org.openxava.test.model.Office: 
+new Added class 67 : org.openxava.test.model.Office2: 
+new Added class 68 : org.openxava.test.model.xejb.Office2Bean: 
+new Added class 69 : org.openxava.test.model.xejb.OfficeBean: 
+new Added class 70 : .PojoPG: 
+new Added class 71 : .PostcreatePG: 
+new Added class 72 : .PostmodifyPG: 
+new Added class 73 : org.openxava.test.model.Product: 
+new Added class 74 : org.openxava.test.model.Product2: 
+new Added class 75 : org.openxava.test.model.xejb.Product2Bean: 
+new Added class 76 : org.openxava.test.model.Product3: 
+new Added class 77 : org.openxava.test.model.xejb.Product3Bean: 
+new Added class 78 : org.openxava.test.model.xejb.ProductBean: 
+new Added class 79 : .PropertyPG: 
+new Added class 80 : org.openxava.test.model.Receptionist: 
+new Added class 81 : org.openxava.test.model.xejb.ReceptionistBean: 
+new Added class 82 : org.openxava.test.model.Seller: 
+new Added class 83 : org.openxava.test.model.xejb.SellerBean: 
+new Added class 84 : org.openxava.test.model.SellerLevel: 
+new Added class 85 : org.openxava.test.model.xejb.SellerLevelBean: 
+new Added class 86 : org.openxava.test.model.Service: 
+new Added class 87 : org.openxava.test.model.xejb.ServiceBean: 
+new Added class 88 : org.openxava.test.model.ServiceType: 
+new Added class 89 : org.openxava.test.model.xejb.ServiceTypeBean: 
+new Added class 90 : org.openxava.test.model.Shipment: 
+new Added class 91 : org.openxava.test.model.xejb.ShipmentBean: 
+new Added class 92 : org.openxava.test.model.State: 
+new Added class 93 : org.openxava.test.model.xejb.StateBean: 
+new Added class 94 : org.openxava.test.model.Subfamily: 
+new Added class 95 : org.openxava.test.model.Subfamily2: 
+new Added class 96 : org.openxava.test.model.xejb.Subfamily2Bean: 
+new Added class 97 : org.openxava.test.model.xejb.SubfamilyBean: 
+new Added class 98 : org.openxava.test.model.SubfamilyInfo: 
+new Added class 99 : org.openxava.test.model.TransportCharge: 
+new Added class 100 : org.openxava.test.model.xejb.TransportChargeBean: 
+new Added class 101 : org.openxava.test.model.Warehouse: 
+new Added class 102 : org.openxava.test.model.xejb.WarehouseBean: 
+testing relationship 
+class 48  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 41£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 51£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:1  r7:0  r8:26  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 55£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:1  r7:0  r8:11  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 73£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 82£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 78  vs  class 73£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  3   4 :  0   5 :  3   6 :  4   7 :  1   8 :  37   9 :  0   10 :  0   11 :  3   12 :  0   13 :  1   14 :  0   15 :  0   16 :  0   17 :  0   

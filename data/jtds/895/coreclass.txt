@@ -1,0 +1,17 @@
+DefaultProperties:0.41
+Driver:0.33
+TdsCore:0.3233333333333333
+Tds5Test:0.31666666666666665
+TdsData:0.31333333333333335
+JtdsDatabaseMetaData:0.31333333333333335
+JtdsStatement:0.30333333333333334
+JtdsDataSource:0.27
+MSCursorResultSet:0.26
+ResultSetTest:0.24
+ConnectionJDBC2:0.21333333333333335
+Tds8Test:0.20777777777777776
+ResponseStream:0.19333333333333333
+SharedSocket:0.19333333333333333
+DefaultPropertiesTestLibrary:0.16166666666666665
+JtdsObjectFactory:0.13
+JtdsObjectFactoryUnitTest:0.0225

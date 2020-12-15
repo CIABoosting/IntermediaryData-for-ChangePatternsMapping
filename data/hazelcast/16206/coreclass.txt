@@ -1,0 +1,15 @@
+ClientConnection:0.5433333333333333
+ClientExecutionService:0.5166666666666667
+ClientConnectionManagerImpl:0.49
+ClientIssueTest:0.27666666666666667
+ClientExecutionServiceImpl:0.2733333333333333
+ClientPartitionServiceImpl:0.25
+ClientClusterServiceImpl:0.21
+ClientPacketProcessor:0.18666666666666668
+ClusterListenerThread:0.16333333333333333
+CleanResourcesTask:0.16333333333333333
+ClusterAuthenticator:0.14833333333333334
+RefreshTask:0.14833333333333334
+ManagerAuthenticator:0.14833333333333334
+ConnectionProcessor:0.12
+ClientEventProcessor:0.013333333333333334

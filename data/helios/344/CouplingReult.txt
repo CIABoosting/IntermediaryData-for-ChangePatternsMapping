@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.spotify.helios.common.descriptors.Deployment: 
+new Added class 1 : com.spotify.helios.common.descriptors.DeploymentGroupStatus: 
+new Added class 2 : com.spotify.helios.common.descriptors.DeploymentGroupTasks: 
+new Added class 3 : com.spotify.helios.common.descriptors.HealthCheck: 
+new Added class 4 : com.spotify.helios.common.descriptors.HostInfo: 
+new Added class 5 : com.spotify.helios.common.descriptors.Job: 
+new Added class 6 : com.spotify.helios.common.descriptors.PortMapping: 
+new Added class 7 : com.spotify.helios.common.descriptors.Resources: 
+new Added class 8 : com.spotify.helios.common.descriptors.RolloutTask: 
+new Added class 9 : com.spotify.helios.common.descriptors.ServicePortParameters: 
+new Added class 10 : com.spotify.helios.common.descriptors.ServicePorts: 
+new Added class 11 : com.spotify.helios.common.descriptors.Task: 
+new Added class 12 : com.spotify.helios.common.descriptors.TaskStatus: 
+new Added class 13 : com.spotify.helios.common.descriptors.TaskStatusEvent: 
+testing relationship 
+class 5  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:7  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:7  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 11  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:6  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  5   6 :  0   7 :  0   8 :  27   9 :  0   10 :  2   11 :  0   12 :  0   13 :  0   14 :  5   15 :  0   16 :  0   17 :  0   

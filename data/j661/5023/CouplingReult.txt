@@ -1,0 +1,44 @@
+Compared Result of  two versions
+Number of New Class: 22
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.server.model.arinc.AbstractMapItemList: 
+new Added class 1 : arinc661.server.model.AbstractRenderingLayer: 
+new Added class 2 : arinc661.server.model.painter.AbstractRenderingPainter: 
+new Added class 3 : arinc661.server.wm.superlayer.AbstractServerCockpit: 
+new Added class 4 : arinc661.testlibs.ext6.model.renderer.AltToggleButtonRenderer: 
+new Added class 5 : arinc661.common.com.Channel: 
+new Added class 6 : arinc661.testutils.ClientComUtilities: 
+new Added class 7 : arinc661.client.model.ClientLayerHelper: 
+new Added class 8 : arinc661.common.conf.ConfigProperties: 
+new Added class 9 : arinc661.testutils.DummyProtocol: 
+new Added class 10 : plugin.editor.widgetdef.gui.ExtractSupplementDialog: 
+new Added class 11 : arinc661.testlibs.ext6.model.renderer.FR180ExtensionRenderer: 
+new Added class 12 : plugin.editor.widgetdef.actions.extract.FullMetaDefinitionAction: 
+new Added class 13 : plugin.editor.widgetdef.gui.FullMetaDefinitionDialog: 
+new Added class 14 : arinc661.server.model.core.LayerRef: 
+new Added class 15 : arinc661.server.model.painter.LayerRendererBridge: 
+new Added class 16 : arinc661.server.wm.devices.ServerDevices: 
+new Added class 17 : arinc661.server.model.core.ServerLayer: 
+new Added class 18 : arinc661.testutils.ServerMapItemsUtilities: 
+new Added class 19 : arinc661.common.model.core.UserApplications: 
+new Added class 20 : plugin.editor.widgetdef.WidgetDefPlugin: 
+new Added class 21 : arinc661.common.model.xml.XMLWidget: 
+testing relationship 
+class 0  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 2  vs  class 15£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:14  r12:0  r13:12  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:2  r17:0  
+class 3  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 3  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:11  r9:0  r10:4  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 14  vs  class 17£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 18  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:6  r9:0  r10:1  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:6  r9:0  r10:4  r11:3  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  1   3 :  2   4 :  0   5 :  8   6 :  0   7 :  0   8 :  26   9 :  0   10 :  9   11 :  35   12 :  0   13 :  27   14 :  8   15 :  0   16 :  3   17 :  0   

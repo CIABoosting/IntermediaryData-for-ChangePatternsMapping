@@ -1,0 +1,14 @@
+Layer:0.35333333333333333
+SubsamplingLayer:0.27
+ActivationLayer:0.2088888888888889
+DropoutLayer:0.2088888888888889
+BatchNormalization:0.2088888888888889
+LocalResponseNormalization:0.2088888888888889
+BasePretrainNetwork:0.16333333333333333
+VariationalAutoencoder:0.14333333333333334
+ZeroPaddingLayer:0.12555555555555556
+GlobalPoolingLayer:0.12555555555555556
+TestUpdaters:0.12
+LossLayer:0.09555555555555555
+FeedForwardLayer:0.07666666666666666
+VariationalAutoencoderParamInitializer:0.07666666666666666

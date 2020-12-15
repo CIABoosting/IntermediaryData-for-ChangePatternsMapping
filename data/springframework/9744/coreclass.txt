@@ -1,0 +1,14 @@
+SimpleJobExecutorFacade:0.36333333333333334
+ScheduledJobIdentifier:0.32
+SimpleJobRepositoryTests:0.26666666666666666
+DefaultJobExecutor:0.24666666666666667
+SimpleStepExecutor:0.225
+JdbcJobDao:0.21666666666666667
+AbstractJobDaoTests:0.21666666666666667
+BatchResourceFactoryBean:0.21333333333333335
+DefaultJobIdentifier:0.21277777777777776
+SimpleJobLauncher:0.21
+SimpleJobExecutorFacadeTests:0.20333333333333334
+DefaultJobExecutorTests:0.20333333333333334
+SimpleJobTests:0.15
+StepExecutorInterruptionTests:0.11

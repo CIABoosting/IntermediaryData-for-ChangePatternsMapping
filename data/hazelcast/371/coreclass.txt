@@ -1,0 +1,16 @@
+MapContainer:0.5866666666666667
+MapService:0.4166666666666667
+FinalizeJoinOp:0.27
+MapReplicationOperation:0.26
+MapIndexLifecycleTest:0.21666666666666667
+AbstractMapServiceFactory:0.21666666666666667
+MigrationOperation:0.2088888888888889
+PostJoinMapOperation:0.2
+ClusterJoinManager:0.18666666666666668
+MapReplicationStateHolder:0.16
+MapMigrationAwareService:0.15666666666666668
+MapPostJoinAwareService:0.12666666666666668
+ReplicaFragmentMigrationState:0.125
+OnJoinOp:0.10444444444444444
+SlowPostJoinAwareService:0.016666666666666666
+SlowOperation:0.0025

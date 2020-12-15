@@ -1,0 +1,17 @@
+QueryTaskManager:0.5433333333333333
+QueryInfo:0.4266666666666667
+QueryTaskResource:0.2966666666666667
+HttpTaskClient:0.26
+SqlQueryTask:0.18333333333333332
+ImportTableWorker:0.18166666666666667
+SimpleQuery:0.17666666666666667
+Execute:0.17
+HttpQueryClient:0.15333333333333332
+SqlQueryWorker:0.14666666666666667
+SimpleQueryManager:0.14333333333333334
+StaticQueryManager:0.12333333333333334
+ServerMainModule:0.10666666666666667
+QueryFragmentRequest:0.09
+SimpleQueryTaskManager:0.07
+SqlQueryTaskManager:0.06333333333333334
+TestHttpQueryProvider:0.05

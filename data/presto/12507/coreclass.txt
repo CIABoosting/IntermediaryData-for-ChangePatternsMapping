@@ -1,0 +1,15 @@
+QueryTaskInfo:0.53
+TestQueryState:0.2966666666666667
+PageResponseHandler:0.25666666666666665
+QueryInfo:0.255
+TaskOutput:0.25
+StatusPrinter:0.21
+HttpQuery:0.1911111111111111
+GetPagesJob:0.15777777777777777
+QueryDriverProvider:0.15
+QueryDriversIterator:0.13666666666666666
+QueryDriversOperator:0.11
+AddPagesJob:0.1
+StaticQueryDriver:0.09833333333333333
+StaticQueryDriverProvider:0.08666666666666667
+HttpTaskClient:0.08583333333333333

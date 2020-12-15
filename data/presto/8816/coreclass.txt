@@ -1,0 +1,17 @@
+Values:0.47333333333333333
+AbstractTestQueries:0.36666666666666664
+Row:0.31333333333333335
+RowType:0.3
+ExpressionRewriter:0.29
+TupleAnalyzer:0.26888888888888884
+Formatter:0.21
+RelationPlanner:0.20333333333333334
+StatementAnalyzer:0.195
+Visitor:0.19
+DefaultTraversalVisitor:0.18666666666666668
+RowFieldAccessor:0.16
+AstBuilder:0.15333333333333332
+RowParametricType:0.14666666666666667
+TestMapAggAggregation:0.13
+RewritingVisitor:0.12
+RowField:0.11666666666666667

@@ -1,0 +1,17 @@
+JSONSerializer:0.5883333333333334
+WriteAsArray_float_public:0.2
+WriteAsArray_double_public:0.2
+WriteAsArray_byte_public:0.2
+WriteAsArray_long_private:0.2
+WriteAsArray_char_public:0.2
+WriteAsArray_0_public:0.2
+WriteAsArray_boolean_public:0.2
+WriteAsArray_short_public:0.2
+BenchmarkMain_EishayEncode:0.19666666666666666
+JavaBeanDeserializer:0.17
+BenchmarkMain_EishayDecode_WriteAsArray:0.14
+WriteAsArray_0_private:0.13333333333333333
+WriteAsArray_enum_public:0.13333333333333333
+WriteAsArray_long_public:0.13333333333333333
+WriteAsArray_Object:0.13333333333333333
+WriteAsArray_list_public:0.13333333333333333

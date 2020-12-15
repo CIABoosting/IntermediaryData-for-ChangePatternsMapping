@@ -1,0 +1,11 @@
+DiskThresholdDecider:0.47
+AwarenessAllocationDecider:0.28
+ClusterRebalanceAllocationDecider:0.23666666666666666
+ShardsLimitAllocationDecider:0.22
+DiskThresholdDeciderTests:0.21333333333333335
+FilterAllocationDecider:0.20333333333333334
+SameShardAllocationDecider:0.17
+ConcurrentRebalanceAllocationDecider:0.13666666666666666
+DiskThresholdDeciderUnitTests:0.12333333333333334
+ClusterAllocationExplainIT:0.11333333333333333
+EnableAllocationDecider:0.11333333333333333

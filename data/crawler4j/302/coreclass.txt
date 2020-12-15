@@ -1,0 +1,12 @@
+BasicCrawler:0.27666666666666667
+Downloader:0.26666666666666666
+LocalDataCollectorCrawler:0.25333333333333335
+StatusHandlerCrawler:0.23
+IO:0.21333333333333335
+ImageCrawler:0.19666666666666666
+StatusHandlerCrawlController:0.09333333333333334
+ImageCrawlController:0.09333333333333334
+ControllerWithShutdown:0.09333333333333334
+LocalDataCollectorController:0.07333333333333333
+MultipleCrawlerController:0.03333333333333333
+BasicCrawlController:0.02

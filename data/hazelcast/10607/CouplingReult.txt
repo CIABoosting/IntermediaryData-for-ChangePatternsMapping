@@ -1,0 +1,19 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.hazelcast.concurrent.countdownlatch.CountDownLatchSplitBrainTest: 
+new Added class 1 : com.hazelcast.spi.impl.operationexecutor.classic.ExecuteOperationTest: 
+new Added class 2 : com.hazelcast.spi.impl.operationexecutor.classic.GetOperationRunnerTest: 
+new Added class 3 : com.hazelcast.jca.HazelcastConnectionContractTest: 
+new Added class 4 : com.hazelcast.query.impl.IndexSplitBrainTest: 
+new Added class 5 : com.hazelcast.multimap.MultiMapListenerTest: 
+new Added class 6 : com.hazelcast.partition.impl.PromoteFromBackupOperationTest: 
+new Added class 7 : com.hazelcast.map.impl.operation.QueryOperationTest: 
+new Added class 8 : com.hazelcast.map.impl.operation.QueryPartitionOperationTest: 
+new Added class 9 : com.hazelcast.map.impl.RecordStoreTest: 
+new Added class 10 : com.hazelcast.partition.impl.ResetReplicaVersionOperationTest: 
+new Added class 11 : com.hazelcast.spi.impl.operationexecutor.classic.RunOnCallingThreadTest: 
+new Added class 12 : com.hazelcast.mapreduce.impl.task.ThreadsafeCombinerTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

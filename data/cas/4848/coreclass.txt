@@ -1,0 +1,5 @@
+CasCoreTicketsConfiguration:0.42
+JwtTicketRegistry:0.29
+MemCacheTicketRegistry:0.28
+TestDistributedTicketRegistry:0.20333333333333334
+MockOnlyOneTicketRegistry:0.20333333333333334

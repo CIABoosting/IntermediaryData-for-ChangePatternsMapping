@@ -1,0 +1,8 @@
+JoinIntegrationTest:0.3566666666666667
+HashJoinPhase:0.33
+HashInnerJoinBatchIterator:0.30666666666666664
+HashInnerJoinBatchIteratorMemoryTest:0.2633333333333333
+HashJoin:0.23
+HashJoinOperation:0.22777777777777777
+InnerPreparer:0.13
+JoinPhaseTest:0.06

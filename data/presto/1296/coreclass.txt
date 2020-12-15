@@ -1,0 +1,14 @@
+FeaturesConfig:0.55
+FilterAndProjectOperator:0.35333333333333333
+LocalQueryRunner:0.3333333333333333
+ScanFilterAndProjectOperator:0.32666666666666666
+FilterAndProjectOperatorFactory:0.29333333333333333
+FunctionAssertions:0.2733333333333333
+SystemSessionProperties:0.24666666666666667
+TestScanFilterAndProjectOperator:0.22166666666666668
+AbstractOperatorBenchmark:0.19666666666666666
+PredicateFilterBenchmark:0.14333333333333334
+TestFeaturesConfig:0.12666666666666668
+DynamicTupleFilterFactory:0.10666666666666667
+ScanFilterAndProjectOperatorFactory:0.08
+TestFilterAndProjectOperator:0.01

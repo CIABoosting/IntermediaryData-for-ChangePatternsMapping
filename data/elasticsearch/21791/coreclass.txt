@@ -1,0 +1,11 @@
+StringTermsTests:0.29333333333333333
+WithHash:0.2866666666666667
+TermsAggregatorFactory:0.2866666666666667
+SignificantTermsAggregatorFactory:0.24333333333333335
+LowCardinality:0.22
+GlobalOrdinalsStringTermsAggregator:0.21666666666666667
+SignificantTermsBuilder:0.14666666666666667
+GlobalOrdinalsSignificantTermsAggregator:0.09333333333333334
+FilteredOrdinals:0.09333333333333334
+IncludeExclude:0.07666666666666666
+SignificantTermsTests:0.06333333333333334

@@ -1,0 +1,12 @@
+ShardUpsertRequest:0.57
+BulkShardProcessor:0.41333333333333333
+TransportShardUpsertAction:0.3333333333333333
+IndexWriterProjector:0.23
+SourceIndexWriterProjection:0.22666666666666666
+AbstractIndexWriterProjector:0.21333333333333335
+UpsertByIdTask:0.21333333333333335
+ProjectionToProjectorVisitor:0.19
+BulkShardProcessorTest:0.16333333333333333
+IndexWriterProjectorUnitTest:0.14333333333333334
+CopyIntegrationTest:0.11333333333333333
+IndexWriterProjectorTest:0.08333333333333333

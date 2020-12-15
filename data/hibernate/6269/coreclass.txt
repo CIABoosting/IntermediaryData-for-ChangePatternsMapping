@@ -1,0 +1,17 @@
+Dialect:0.5833333333333334
+TypeResolver:0.34
+WrapperOptions:0.33222222222222225
+BlobTypeDescriptor:0.3
+BlobType:0.27
+ClobTypeDescriptor:0.26666666666666666
+ClobType:0.23666666666666666
+AbstractStandardBasicType:0.22333333333333333
+TypeFactory:0.18666666666666668
+PostgreSQLDialect:0.11333333333333333
+TypeScopeImpl:0.11333333333333333
+CharacterArrayClobType:0.07666666666666666
+WrappedMaterializedBlobType:0.07666666666666666
+PrimitiveCharacterArrayClobType:0.07666666666666666
+MaterializedClobType:0.07666666666666666
+MaterializedBlobType:0.07666666666666666
+StandardBasicTypes:0.02

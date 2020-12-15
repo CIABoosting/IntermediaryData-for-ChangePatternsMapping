@@ -1,0 +1,7 @@
+HazelcastTestSupport:0.5411111111111111
+ProduceThread:0.3706666666666667
+ConsumeThread:0.22066666666666668
+RingbufferAsyncAddWithBackoffStressTest:0.16666666666666666
+RingbufferAddAllReadManyStressTest:0.15666666666666668
+RingbufferAddReadOneStressTest:0.15666666666666668
+ReliableTopicStressTest:0.15

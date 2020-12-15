@@ -1,0 +1,34 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : de.greenrobot.event.AsyncPoster: 
+new Added class 1 : de.greenrobot.event.BackgroundPoster: 
+new Added class 2 : de.greenrobot.event.util.ErrorDialogConfig: 
+new Added class 3 : de.greenrobot.event.util.ErrorDialogFragmentFactory: 
+new Added class 4 : de.greenrobot.event.util.ErrorDialogFragments: 
+new Added class 5 : de.greenrobot.event.test.EventBusBackgroundThreadTest: 
+new Added class 6 : de.greenrobot.event.test.EventBusBasicTest: 
+new Added class 7 : de.greenrobot.event.EventBusException: 
+new Added class 8 : de.greenrobot.event.test.EventBusInheritanceTest: 
+new Added class 9 : de.greenrobot.event.test.EventBusMethodModifiersTest: 
+new Added class 10 : de.greenrobot.event.test.EventBusSubscriberExceptionTest: 
+new Added class 11 : de.greenrobot.event.util.ExceptionToResourceMapping: 
+new Added class 12 : de.greenrobot.event.HandlerPoster: 
+new Added class 13 : de.greenrobot.event.test.IntTestEvent: 
+new Added class 14 : de.greenrobot.event.NoSubscriberEvent: 
+new Added class 15 : de.greenrobot.event.PendingPost: 
+new Added class 16 : de.greenrobot.event.PendingPostQueue: 
+new Added class 17 : de.greenrobot.event.SubscriberExceptionEvent: 
+testing relationship 
+class 0  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:7  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 10  vs  class 17£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:11  r9:0  r10:0  r11:2  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  1   4 :  0   5 :  2   6 :  1   7 :  0   8 :  22   9 :  0   10 :  11   11 :  25   12 :  0   13 :  0   14 :  6   15 :  0   16 :  0   17 :  0   

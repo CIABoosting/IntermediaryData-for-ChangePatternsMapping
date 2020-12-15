@@ -1,0 +1,16 @@
+OutputModelFactory:0.5744444444444444
+Target:0.33
+Rewrite:0.33
+Choice:0.27
+ParserFactory:0.25
+InvokeRule:0.24333333333333335
+BlankOutputModelFactory:0.24333333333333335
+ActionTranslator:0.215
+CodeGeneratorExtension:0.20472222222222225
+MatchToken:0.20333333333333334
+ParserASTExtension:0.18333333333333332
+OutputModelController:0.17
+DefaultOutputModelFactory:0.17
+Action:0.16666666666666666
+TreeRewrite:0.056666666666666664
+RewriteTokenRef:0.04

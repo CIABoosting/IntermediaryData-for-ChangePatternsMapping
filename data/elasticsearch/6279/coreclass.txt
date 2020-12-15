@@ -1,0 +1,14 @@
+IndexShard:0.53
+EngineConfig:0.36
+StoreRecovery:0.29833333333333334
+IndexShardTests:0.25333333333333335
+InternalEngineTests:0.25
+InternalEngine:0.24666666666666667
+ReplicationGroup:0.23
+RecoveryTarget:0.22
+RecoveryPrepareForTranslogOperationsRequest:0.21666666666666667
+RecoveryTargetHandler:0.215
+ShadowEngineTests:0.19666666666666666
+PrepareForTranslogOperationsRequestHandler:0.09333333333333334
+RemoteRecoveryTargetHandler:0.07333333333333333
+IndexLevelReplicationTests:0.02

@@ -1,0 +1,16 @@
+StreamObserver:0.64
+AbstractTransportTest:0.23666666666666666
+AbstractBenchmark:0.21333333333333335
+AsyncClient:0.19666666666666666
+TestServiceImpl:0.19538888888888886
+ResponseDispatcher:0.18666666666666668
+RouteGuideService:0.16
+RouteGuideClient:0.16
+StreamRecorder:0.15666666666666668
+StreamObserverToCallListenerAdapter:0.14333333333333334
+LoadGenerationWorker:0.11666666666666667
+ServerCalls:0.11
+GreeterImpl:0.09333333333333334
+ResponseObserver:0.08333333333333333
+ThisIsAHackStreamObserver:0.08
+CallToStreamObserverAdapter:0.043333333333333335

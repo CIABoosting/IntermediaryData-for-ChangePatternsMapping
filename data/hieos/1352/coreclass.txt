@@ -1,0 +1,17 @@
+MatchAlgorithm:0.64
+SubjectTelecomAddressDAO:0.4483333333333333
+SubjectAddressDAO:0.4483333333333333
+PersistenceManager:0.42333333333333334
+ScoredRecord:0.3
+SubjectDAO:0.26666666666666666
+SubjectNameDAO:0.25666666666666665
+SubjectIdentifierDAO:0.23333333333333334
+FindSubjectsHandler:0.21666666666666667
+SubjectCrossReferenceDAO:0.17666666666666667
+FRILMatchAlgorithm:0.16
+EMPIPersistenceManagerTest:0.14333333333333334
+EMPIConfigTest:0.14333333333333334
+RecordBuilder:0.14
+MergeSubjectsHandler:0.12
+UpdateSubjectHandler:0.04
+AddSubjectHandler:0.023333333333333334

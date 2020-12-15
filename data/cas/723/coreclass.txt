@@ -1,0 +1,15 @@
+AuditProperties:0.45
+StatisticsController:0.4166666666666667
+LoggingConfigController:0.27666666666666667
+InspektrThrottledSubmissionByIpAddressAndUsernameHandlerInterceptorAdapter:0.2733333333333333
+RestAuditTrailManager:0.21666666666666667
+DateTimeUtils:0.21666666666666667
+CasReportsConfiguration:0.21
+CasSupportJdbcAuditConfiguration:0.2
+CasWebflowContextConfiguration:0.18666666666666668
+CasCoreAuditConfiguration:0.14333333333333334
+MongoDbAuditTrailManager:0.11
+CasSupportRestAuditConfiguration:0.08
+CasSupportMongoDbAuditConfiguration:0.08
+CasJdbcThrottlingConfiguration:0.023333333333333334
+MongoDbAuditTrailManagerTests:0.0

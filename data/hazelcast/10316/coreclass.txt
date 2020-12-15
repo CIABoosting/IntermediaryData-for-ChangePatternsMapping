@@ -1,0 +1,16 @@
+AbstractCacheRecordStore:0.31
+AbstractCacheService:0.30333333333333334
+CacheService:0.27666666666666667
+EventServiceSegment:0.25333333333333335
+CacheEntryListener:0.22333333333333333
+EventServiceImpl:0.21666666666666667
+EventPacketProcessor:0.16944444444444443
+CacheAddInvalidationListenerRequest:0.14
+CacheAddEntryListenerMessageTask:0.14
+CacheAddEntryListenerRequest:0.14
+CacheAddInvalidationListenerTask:0.14
+CacheListenerRegistrationOperation:0.13666666666666666
+InvalidationEventQueue:0.06666666666666667
+CacheEventListenerAdaptor:0.06361111111111112
+CacheInvalidationEventListener:0.03666666666666667
+CacheInvalidationListener:0.03333333333333333

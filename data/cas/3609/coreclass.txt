@@ -1,0 +1,11 @@
+CoreWsSecuritySecurityTokenServiceConfiguration:0.33
+IdentityProvider:0.25666666666666665
+WSFederationValidateRequestCallbackController:0.24
+SecurityTokenServiceClientBuilder:0.23826767676767677
+CoreWsSecurityIdentityProviderConfiguration:0.21
+WSFederationValidateRequestController:0.21
+DefaultRelyingPartyTokenProducer:0.17
+BaseWSFederationRequestController:0.056666666666666664
+SecurityTokenServiceAuthenticationPostProcessor:0.04
+WSFederationConstants:0.03333333333333333
+WSFederationMetadataWriter:0.01

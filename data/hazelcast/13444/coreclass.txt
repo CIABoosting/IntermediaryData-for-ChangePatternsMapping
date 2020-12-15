@@ -1,0 +1,17 @@
+CacheSimpleConfig:0.44333333333333336
+CacheConfig:0.38333333333333336
+CacheRecordStore:0.35333333333333333
+HazelcastServerCacheManager:0.32
+XmlConfigBuilder:0.2966666666666667
+CacheSimpleConfigReadOnly:0.29333333333333333
+CacheConfigReadOnly:0.29333333333333333
+AbstractCacheService:0.27666666666666667
+MaxSizeConfig:0.2733333333333333
+MaxSizeChecker:0.24
+EvictionOperator:0.21333333333333335
+SpringXmlConfigBuilder:0.19833333333333333
+MapConfigAdapter:0.18333333333333332
+TestJCache:0.11638888888888886
+CacheRecordHashMap:0.095
+AbstractCacheRecordStore:0.06666666666666667
+CacheConfigTest:0.02

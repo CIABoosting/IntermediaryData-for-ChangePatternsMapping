@@ -1,0 +1,16 @@
+Index:0.5033333333333333
+Delete:0.3466666666666667
+InternalEngineTests:0.3466666666666667
+InternalEngine:0.3433333333333333
+TranslogTests:0.32
+Checkpoint:0.30666666666666664
+TranslogWriter:0.2833333333333333
+VersionValueSupplier:0.27051984126984113
+TranslogReader:0.26
+Translog:0.23333333333333334
+TranslogHandler:0.19666666666666666
+SequenceNumbersService:0.18
+TranslogThread:0.14
+TranslogVersionTests:0.12
+GlobalCheckpointSyncAction:0.08972222222222222
+SeqNoStats:0.061111111111111116

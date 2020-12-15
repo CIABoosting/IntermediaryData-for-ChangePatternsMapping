@@ -1,0 +1,7 @@
+SchemaVersion:0.54
+SchemaVersionSmallTest:0.31333333333333335
+MigrationTestCase:0.2866666666666667
+InitMigration:0.21333333333333335
+AbstractFlywayMojo:0.15
+ConcurrentMigrationTestCase:0.12
+InitMojo:0.10666666666666667

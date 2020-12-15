@@ -1,0 +1,10 @@
+AddIntermediateAggregations:0.24
+TransformCorrelatedScalarAggregationToJoin:0.20666666666666667
+RemoveFullSample:0.19333333333333333
+PushTopNThroughUnion:0.19333333333333333
+EvaluateZeroLimit:0.19333333333333333
+ImplementBernoulliSampleAsFilter:0.19333333333333333
+CreatePartialTopN:0.19333333333333333
+EvaluateZeroSample:0.19333333333333333
+TransformUncorrelatedInPredicateSubqueryToSemiJoin:0.19333333333333333
+RemoveEmptyDelete:0.16666666666666666

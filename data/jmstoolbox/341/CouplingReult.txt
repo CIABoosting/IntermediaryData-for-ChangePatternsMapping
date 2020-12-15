@@ -1,0 +1,23 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : .AboutDialog: 
+new Added class 1 : org.titou10.jtb.util.EncryptUtils: 
+new Added class 2 : org.titou10.jtb.handler.MessageRemoveHandler: 
+new Added class 3 : .MessageSaveAsTemplateHandler: 
+new Added class 4 : org.titou10.jtb.handler.MessageSendHandler: 
+new Added class 5 : org.titou10.jtb.handler.MessageViewHandler: 
+new Added class 6 : org.titou10.jtb.handler.QueueInformationHandler: 
+new Added class 7 : org.titou10.jtb.handler.ScriptsAddOrEditHandler: 
+new Added class 8 : org.titou10.jtb.handler.SessionConnectHandler: 
+new Added class 9 : org.titou10.jtb.handler.SessionDisconnectHandler: 
+new Added class 10 : org.titou10.jtb.handler.SessionDuplicateHandler: 
+new Added class 11 : org.titou10.jtb.handler.SessionEditHandler: 
+new Added class 12 : org.titou10.jtb.handler.SessionPropertiesHandler: 
+new Added class 13 : org.titou10.jtb.handler.SessionRemoveHandler: 
+new Added class 14 : org.titou10.jtb.handler.TemplateAddOrEditHandler: 
+new Added class 15 : org.titou10.jtb.handler.TemplateNewFolderHandler: 
+new Added class 16 : org.titou10.jtb.handler.TemplateRenameDuplicateDeleteHandler: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

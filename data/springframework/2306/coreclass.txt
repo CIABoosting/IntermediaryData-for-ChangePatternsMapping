@@ -1,0 +1,16 @@
+AnnotatedAction:0.5166666666666667
+MementoOriginator:0.3853333333333333
+RegistryBackedFlowArtifactFactory:0.2966666666666667
+AbstractBeanInvokingAction:0.20666666666666667
+FlowVariableCreatingAction:0.19666666666666666
+BeanFactoryBeanInvokingAction:0.19
+TestBean:0.14333333333333334
+BeanFactoryBeanInvokingActionTests:0.13666666666666666
+MultiActionTests:0.13666666666666666
+DefaultActionMethodResolver:0.08666666666666667
+LocalBeanInvokingActionTests:0.06
+DefaultResultEventFactoryTests:0.056666666666666664
+NoOpBeanStatePersister:0.05333333333333334
+StatefulBeanInvokingAction:0.043333333333333335
+Memento:0.02666666666666667
+MementoBeanStatePersister:0.016666666666666666

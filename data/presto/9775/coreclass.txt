@@ -1,0 +1,17 @@
+FilterAndProjectOperator:0.58
+Visitor:0.37333333333333335
+ExpressionCompiler:0.33666666666666667
+ScanFilterAndProjectOperator:0.31333333333333335
+FunctionAssertions:0.25666666666666665
+FilterAndProjectOperatorFactory:0.24
+ByteCodeUtils:0.22666666666666666
+ScanFilterAndProjectOperatorFactory:0.15444444444444444
+TryCastCodeGenerator:0.14833333333333334
+HandTpchQuery6:0.14333333333333334
+ByteCodeGeneratorContext:0.14
+PredicateFilterBenchmark:0.13333333333333333
+TestFilterAndProjectOperator:0.11666666666666667
+LocalExecutionPlanner:0.11333333333333333
+ByteCodeExpressionVisitor:0.085
+CacheKey:0.05444444444444444
+TpchQuery6Processor:0.006666666666666667

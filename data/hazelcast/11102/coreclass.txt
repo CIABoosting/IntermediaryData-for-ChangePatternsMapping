@@ -1,0 +1,14 @@
+ClientInvocationFuture:0.4633333333333333
+DelegatingFuture:0.39666666666666667
+ClientExecutorServiceProxy:0.29333333333333333
+ClientCacheProxy:0.25
+AbstractClientCacheProxyBase:0.24666666666666667
+ClientMapProxy:0.23666666666666666
+HazelcastClientCacheManager:0.23666666666666666
+AbstractClientInternalCacheProxy:0.22333333333333333
+AbstractClientCacheProxy:0.19666666666666666
+ClientTrackableJob:0.185
+ClientClusterWideIterator:0.18333333333333332
+ClientMapReduceProxy:0.16333333333333333
+ClientCancellableDelegatingFuture:0.09333333333333334
+ExecutionCallbackNode:0.043333333333333335

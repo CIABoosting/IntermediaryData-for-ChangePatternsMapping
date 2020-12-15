@@ -1,0 +1,16 @@
+CollectingProjector:0.81
+ExecutionPhase:0.3266666666666666
+SortingTopNProjectorTest:0.30333333333333334
+InnerPreparer:0.29333333333333333
+ResultProviderBase:0.2633333333333333
+ProjectionToProjectorVisitorTest:0.22666666666666666
+TransportDistributedResultAction:0.19666666666666666
+SortingTopNProjector:0.15
+RowDownstreamAndHandle:0.14333333333333334
+AggregationProjector:0.12
+JobCollectContextTest:0.10666666666666667
+WriterProjectorTest:0.10666666666666667
+PreparerContext:0.08027561327561328
+NodeFetchOperation:0.056666666666666664
+ExecutionPhaseStreamerVisitor:0.04
+ContextPreparer:0.023333333333333334

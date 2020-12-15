@@ -1,0 +1,12 @@
+ContextLoaderListener:0.36
+SpringBundleEvent:0.33
+BundleFactoryBean:0.33
+ApplicationContextCreator:0.31
+ApplicationContextCloser:0.24666666666666667
+ApplicationContextCreatorTest:0.13666666666666666
+WeatherServiceBundleTest:0.08
+OsgiBundleXmlApplicationContext:0.03666666666666667
+OsgiServiceUtils:0.02
+ApplicationContextCloserTest:0.016666666666666666
+ContextLoaderListenerTest:0.01
+Latch:0.0

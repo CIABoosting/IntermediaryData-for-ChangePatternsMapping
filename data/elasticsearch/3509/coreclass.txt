@@ -1,0 +1,12 @@
+ReleasablePagedBytesReference:0.44
+ReleasableBytesStreamOutput:0.3233333333333333
+TcpTransport:0.2966666666666667
+Streams:0.22166666666666668
+TestResponse:0.21944444444444447
+BytesRestResponse:0.21333333333333335
+AbstractRestChannel:0.21333333333333335
+NoOp:0.19333333333333333
+Translog:0.19333333333333333
+RestController:0.18666666666666668
+Netty4HttpChannelTests:0.18
+DeflateCompressor:0.15

@@ -1,0 +1,17 @@
+ClusterInfo:0.47
+ShardStats:0.4266666666666667
+DiskThresholdDecider:0.38666666666666666
+TransportIndicesStatsAction:0.27666666666666667
+IndicesService:0.25194444444444447
+InternalClusterInfoService:0.22333333333333333
+DiskThresholdDeciderTests:0.22
+IndexShardTests:0.20666666666666667
+ClusterInfoUpdateJob:0.16966666666666666
+DiskListener:0.14
+TransportClusterStatsAction:0.13666666666666666
+MockInternalClusterInfoService:0.115
+MockDiskUsagesIT:0.085
+StaticValueMap:0.07333333333333333
+DiskUsageTests:0.06
+ClusterInfoServiceIT:0.05
+DiskThresholdDeciderUnitTests:0.04666666666666667

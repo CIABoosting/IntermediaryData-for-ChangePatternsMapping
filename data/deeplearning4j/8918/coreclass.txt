@@ -1,0 +1,9 @@
+OutputLayer:0.48333333333333334
+BaseMultiLayerNetwork:0.43
+VectorizedNonZeroStoppingConjugateGradient:0.27
+BaseNeuralNetwork:0.25333333333333335
+Builder:0.25
+MultiLayerNetworkOptimizer:0.24666666666666667
+BackPropROptimizer:0.2
+BackPropOptimizer:0.2
+DeepAutoEncoderExample:0.09666666666666666

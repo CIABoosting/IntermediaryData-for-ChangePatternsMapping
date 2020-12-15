@@ -1,0 +1,9 @@
+RingbufferService:0.65
+RingbufferCacheEventJournalImpl:0.26
+RingbufferServiceTest:0.26
+RingbufferMapEventJournalImpl:0.22666666666666666
+AbstractRingBufferOperation:0.22333333333333333
+ReadOneOperationTest:0.19
+ReadManyOperationTest:0.17666666666666667
+GenericOperationTest:0.13666666666666666
+RingbufferTTLTest:0.11666666666666667

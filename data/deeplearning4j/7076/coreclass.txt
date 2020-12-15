@@ -1,0 +1,12 @@
+Layer:0.59
+MultiLayerNetwork:0.54
+LSTM:0.3
+ConvolutionLayer:0.2833333333333333
+SimpleOptimizableModel:0.2833333333333333
+OutputLayer:0.25333333333333335
+BaseLayer:0.24333333333333335
+SubsamplingLayer:0.23333333333333334
+ListenerTest:0.22666666666666666
+RNTN:0.22
+AccuracyPlotterIterationListener:0.17666666666666667
+MultiLayerNeuralNetConfigurationTest:0.11333333333333333

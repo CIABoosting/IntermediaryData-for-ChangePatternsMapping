@@ -1,0 +1,33 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.springframework.security.access.AccessDeniedException: 
+new Added class 1 : org.springframework.security.acls.AlreadyExistsException: 
+new Added class 2 : org.springframework.security.core.AuthenticationException: 
+new Added class 3 : org.springframework.security.authentication.BadCredentialsException: 
+new Added class 4 : org.springframework.security.acls.ChildrenExistException: 
+new Added class 5 : org.springframework.security.authentication.jaas.DefaultLoginExceptionResolver: 
+new Added class 6 : org.springframework.security.util.EncryptionUtils: 
+new Added class 7 : org.springframework.security.web.ExceptionTranslationFilter: 
+new Added class 8 : org.springframework.security.acls.IdentityUnavailableException: 
+new Added class 9 : org.springframework.security.authentication.jaas.JaasAuthenticationProvider: 
+new Added class 10 : org.springframework.security.authentication.jaas.JaasAuthenticationProviderTests: 
+new Added class 11 : org.springframework.security.ldap.authentication.LdapAuthenticationProviderTests: 
+new Added class 12 : org.springframework.security.authentication.jaas.LoginExceptionResolver: 
+new Added class 13 : org.springframework.security.acls.NotFoundException: 
+new Added class 14 : org.springframework.security.authentication.rcp.RemoteAuthenticationException: 
+new Added class 15 : org.springframework.security.config.SecurityConfigurationException: 
+new Added class 16 : org.springframework.security.acls.UnloadedSidException: 
+new Added class 17 : org.springframework.security.userdetails.UsernameNotFoundException: 
+testing relationship 
+class 3  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 0£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 2£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 9  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:22  r11:2  r12:0  r13:13  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  1   3 :  3   4 :  3   5 :  1   6 :  0   7 :  1   8 :  4   9 :  0   10 :  23   11 :  2   12 :  0   13 :  13   14 :  2   15 :  0   16 :  0   17 :  0   

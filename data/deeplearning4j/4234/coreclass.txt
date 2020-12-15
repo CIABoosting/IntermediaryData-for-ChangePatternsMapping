@@ -1,0 +1,7 @@
+ConvolutionLayerSetup:0.44666666666666666
+WorkSpace:0.2866666666666667
+Cache:0.2866666666666667
+CifarDataSetIterator:0.2633333333333333
+ConvolutionLayerSetupTest:0.11
+CudnnConvolutionHelper:0.06833333333333333
+CudnnBatchNormalizationHelper:0.04

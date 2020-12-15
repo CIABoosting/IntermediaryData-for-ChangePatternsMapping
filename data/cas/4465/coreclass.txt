@@ -1,0 +1,12 @@
+CRLFetcher:0.62
+ResourceCRLRevocationChecker:0.39
+X509CredentialsAuthenticationHandler:0.2866666666666667
+CRLDistributionPointRevocationChecker:0.27
+X509AuthenticationConfiguration:0.25666666666666665
+ResourceCRLFetcher:0.19333333333333333
+AbstractCRLRevocationChecker:0.17333333333333334
+X509CredentialsAuthenticationHandlerTests:0.15333333333333332
+LdaptiveResourceCRLFetcherTests:0.14333333333333334
+CRLDistributionPointRevocationCheckerTests:0.07666666666666666
+AbstractCRLRevocationCheckerTests:0.05
+ResourceCRLRevocationCheckerTests:0.05

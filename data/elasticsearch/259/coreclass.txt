@@ -1,0 +1,13 @@
+IndexShard:0.5066666666666667
+InternalEngineTests:0.44333333333333336
+Store:0.39
+InternalEngine:0.3566666666666667
+RecoveryPrepareForTranslogOperationsRequest:0.26
+EngineConfig:0.24866666666666665
+RecoveryTarget:0.21666666666666667
+CombinedDeletionPolicy:0.2
+IndexShardTests:0.19333333333333333
+EngineTestCase:0.15666666666666668
+StoreRecovery:0.15333333333333332
+RemoteRecoveryTargetHandler:0.12333333333333334
+PrepareForTranslogOperationsRequestHandler:0.09333333333333334

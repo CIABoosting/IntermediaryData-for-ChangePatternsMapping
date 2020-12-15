@@ -1,0 +1,12 @@
+HdfsParquetDataSource:0.27666666666666667
+ParquetBinaryColumnReader:0.24
+ParquetDoubleColumnReader:0.24
+ParquetIntColumnReader:0.24
+ParquetLongColumnReader:0.24
+ParquetFloatColumnReader:0.24
+ParquetBooleanColumnReader:0.24
+ParquetValidationUtils:0.17
+BytesCompressor:0.13
+ParquetReader:0.12916666666666668
+ParquetPageSource:0.10666666666666667
+ParquetMetadataReader:0.10666666666666667

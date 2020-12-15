@@ -1,0 +1,42 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.springframework.batch.retry.policy.AbstractStatelessRetryPolicy: 
+new Added class 1 : org.springframework.batch.retry.policy.AlwaysRetryPolicyTests: 
+new Added class 2 : org.springframework.batch.retry.policy.CompositeRetryPolicy: 
+new Added class 3 : org.springframework.batch.retry.policy.CompositeRetryPolicyTests: 
+new Added class 4 : org.springframework.batch.retry.policy.ExceptionClassifierRetryPolicy: 
+new Added class 5 : org.springframework.batch.retry.policy.ExceptionClassifierRetryPolicyTests: 
+new Added class 6 : org.springframework.batch.retry.policy.NeverRetryPolicy: 
+new Added class 7 : org.springframework.batch.retry.policy.NeverRetryPolicyTests: 
+new Added class 8 : org.springframework.batch.retry.RetryPolicy: 
+new Added class 9 : org.springframework.batch.retry.support.RetryTemplate: 
+new Added class 10 : org.springframework.batch.retry.support.RetryTemplateTests: 
+new Added class 11 : org.springframework.batch.retry.policy.SimpleRetryPolicy: 
+new Added class 12 : org.springframework.batch.retry.policy.SimpleRetryPolicyTests: 
+new Added class 13 : org.springframework.batch.retry.support.StatefulRecoveryRetryTests: 
+new Added class 14 : org.springframework.batch.retry.policy.TimeoutRetryPolicy: 
+new Added class 15 : org.springframework.batch.retry.policy.TimeoutRetryPolicyTests: 
+testing relationship 
+class 0  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:25  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 8£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:32  r11:2  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 8£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:12  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:10  r9:0  r10:4  r11:6  r12:0  r13:0  r14:4  r15:0  r16:4  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:23  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:28  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-12  r9:0  r10:36  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:11  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  5   2 :  1   3 :  5   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  72   11 :  62   12 :  0   13 :  112   14 :  4   15 :  0   16 :  4   17 :  0   

@@ -1,0 +1,11 @@
+ConflictTrigger:0.62
+AbstractTestHiveClient:0.59
+HiveConnector:0.2966666666666667
+RollbackException:0.25666666666666665
+TestHiveIntegrationSmokeTest:0.2
+DirectoryRenameFailure:0.14
+TransactionDeleteInsertTestCase:0.13333333333333333
+FileRenameFailure:0.04
+AddPartitionFailure:0.03
+DropPartitionFailure:0.029206349206349208
+TestingRollbackException:0.016666666666666666

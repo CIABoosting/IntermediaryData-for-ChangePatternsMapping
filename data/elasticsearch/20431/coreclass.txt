@@ -1,0 +1,13 @@
+PingRequest:0.5466666666666666
+NodesFaultDetection:0.34
+MasterFaultDetection:0.29
+Listener:0.20666666666666667
+SendPingRequest:0.17333333333333334
+MasterPinger:0.16333333333333333
+MasterPingRequest:0.16
+PingRequestHandler:0.13666666666666666
+DiscoveryWithServiceDisruptions:0.056666666666666664
+NotMasterException:0.043333333333333335
+MasterPingRequestHandler:0.04
+ZenFaultDetectionTests:0.04
+ZenDiscoveryRejoinOnMaster:0.025833333333333333

@@ -1,0 +1,6 @@
+SparkDl4jMultiLayer:0.53
+IterativeReduceFlatMap:0.20333333333333334
+INDArrayFromTupleFunction:0.07333333333333333
+UpdaterFromTupleFunction:0.07333333333333333
+EarlyStoppingTrainer:0.07
+TestEarlyStopping:0.05

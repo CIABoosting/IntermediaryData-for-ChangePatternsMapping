@@ -1,0 +1,13 @@
+BasicAuthenticationWebflowConfigurer:0.2
+TokenWebflowConfigurer:0.2
+DigestAuthenticationWebflowConfigurer:0.2
+TrustedAuthenticationWebflowConfigurer:0.2
+AcceptableUsagePolicyWebflowConfigurer:0.2
+SpengoWebflowConfigurer:0.2
+X509WebflowConfigurer:0.2
+RemoteAddressWebflowConfigurer:0.2
+WsFederationWebflowConfigurer:0.18333333333333332
+SamlIdPMetadataUIWebflowConfigurer:0.18333333333333332
+OpenIdWebflowConfigurer:0.18333333333333332
+DefaultWebflowConfigurer:0.13333333333333333
+PasswordManagementWebflowConfigurer:0.11

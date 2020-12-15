@@ -1,0 +1,13 @@
+ClientEndpoint:0.6566666666666666
+MembershipListenerImpl:0.3
+ClientEndpointImpl:0.27666666666666667
+ClientReplicatedMapEntryListener:0.19666666666666666
+ClientEngineImpl:0.19333333333333333
+CollectionAddListenerRequest:0.18333333333333332
+AddEntryListenerRequest:0.18333333333333332
+AddMessageListenerRequest:0.18333333333333332
+AddListenerRequest:0.18333333333333332
+MyDistributedObjectListener:0.13666666666666666
+AbstractMapAddEntryListenerRequest:0.13
+CacheAddEntryListenerRequest:0.09666666666666666
+MessageListenerImpl:0.08

@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.sodbeans.navigator.CompilerView: 
+new Added class 1 : org.sodbeans.completion.api.HopCompletionItem: 
+new Added class 2 : org.sodbeans.controller.impl.ScreenReaderImpl: 
+new Added class 3 : org.sodbeans.actions.SodbeansBuildAction: 
+new Added class 4 : org.sodbeans.actions.SodbeansCleanAction: 
+new Added class 5 : org.sodbeans.actions.SodbeansCleanBuildAction: 
+new Added class 6 : org.sodbeans.actions.SodbeansDebugAction: 
+new Added class 7 : org.sodbeans.output.EnterKeyHandler: 
+new Added class 8 : org.sodbeans.actions.SodbeansRunAction: 
+new Added class 9 : org.sodbeans.actions.SodbeansStopDebuggerAction: 
+new Added class 10 : org.sodbeans.actions.SodbeansToggleBreakpointAction: 
+new Added class 11 : org.sodbeans.plugins.SpeechPlugin: 
+new Added class 12 : org.sonify.sound.speech.SpeechSoundManager: 
+new Added class 13 : org.sodbeans.libraries.hop.speech.SpeechTalk: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

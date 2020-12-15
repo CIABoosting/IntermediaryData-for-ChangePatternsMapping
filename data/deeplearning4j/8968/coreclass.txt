@@ -1,0 +1,14 @@
+BaseMultiLayerNetwork:0.47
+StateTracker:0.37416666666666665
+Activations:0.30666666666666664
+WorkerActor:0.26
+BaseHazelCastStateTracker:0.22666666666666666
+MnistDataSetIterator:0.22
+StateTrackerDropWizardResource:0.21666666666666667
+BatchActor:0.19
+MasterActor:0.16666666666666666
+MnistExampleMultiThreaded:0.08
+MnistReconstructions:0.07666666666666666
+RBMMnistExample:0.07666666666666666
+RawMnistRBMExample:0.07666666666666666
+DeepAutoEncoderFromFile:0.06

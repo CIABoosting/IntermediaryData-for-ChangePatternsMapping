@@ -1,0 +1,23 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.search.aggregations.AggregatorParsingTests: 
+new Added class 1 : org.elasticsearch.index.query.BoolQueryBuilderTests: 
+new Added class 2 : org.elasticsearch.test.rest.yaml.restspec.ClientYamlSuiteRestApiParserFailingTests: 
+new Added class 3 : org.elasticsearch.index.query.ConstantScoreQueryBuilderTests: 
+new Added class 4 : org.elasticsearch.common.xcontent.ConstructingObjectParserTests: 
+new Added class 5 : org.elasticsearch.index.mapper.CopyToMapperTests: 
+new Added class 6 : org.elasticsearch.search.suggest.phrase.DirectCandidateGeneratorTests: 
+new Added class 7 : org.elasticsearch.action.fieldstats.FieldStatsRequestTests: 
+new Added class 8 : org.elasticsearch.index.query.functionscore.FunctionScoreQueryBuilderTests: 
+new Added class 9 : org.elasticsearch.common.settings.loader.JsonSettingsLoaderTests: 
+new Added class 10 : org.elasticsearch.common.xcontent.json.JsonXContent: 
+new Added class 11 : org.elasticsearch.common.xcontent.json.JsonXContentTests: 
+new Added class 12 : org.elasticsearch.script.expression.MoreExpressionTests: 
+new Added class 13 : org.elasticsearch.percolator.PercolatorAggregationsIT: 
+new Added class 14 : org.elasticsearch.percolator.PercolatorIT: 
+new Added class 15 : org.elasticsearch.search.nested.SimpleNestedIT: 
+new Added class 16 : org.elasticsearch.percolator.TransportPercolateAction: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

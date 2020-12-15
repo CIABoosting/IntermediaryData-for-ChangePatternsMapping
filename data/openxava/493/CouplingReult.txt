@@ -1,0 +1,72 @@
+Compared Result of  two versions
+Number of New Class: 66
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openxava.test.model.AdditionalDetail: 
+new Added class 1 : org.openxava.test.model.Address: 
+new Added class 2 : org.openxava.test.model.Carrier: 
+new Added class 3 : org.openxava.test.model.Clerk: 
+new Added class 4 : org.openxava.test.model.Customer: 
+new Added class 5 : org.openxava.test.model.Delivery: 
+new Added class 6 : org.openxava.test.model.DeliveryDetail: 
+new Added class 7 : org.openxava.test.model.DeliveryPlace: 
+new Added class 8 : org.openxava.test.model.DeliveryType: 
+new Added class 9 : org.openxava.test.model.Detail: 
+new Added class 10 : org.openxava.test.model.DrivingLicence: 
+new Added class 11 : org.openxava.test.model.Family2: 
+new Added class 12 : org.openxava.test.model.FilterBySubfamily: 
+new Added class 13 : org.openxava.test.model.IAdditionalDetail: 
+new Added class 14 : org.openxava.test.model.ICarrier: 
+new Added class 15 : org.openxava.test.model.IClerk: 
+new Added class 16 : org.openxava.test.model.ICustomer: 
+new Added class 17 : org.openxava.test.model.IDelivery: 
+new Added class 18 : org.openxava.test.model.IDeliveryDetail: 
+new Added class 19 : org.openxava.test.model.IDeliveryPlace: 
+new Added class 20 : org.openxava.test.model.IDeliveryType: 
+new Added class 21 : org.openxava.test.model.IDrivingLicence: 
+new Added class 22 : org.openxava.test.model.IFamily2: 
+new Added class 23 : org.openxava.test.model.IFilterBySubfamily: 
+new Added class 24 : org.openxava.test.model.IInvoice: 
+new Added class 25 : org.openxava.test.model.IInvoiceDetail: 
+new Added class 26 : org.openxava.test.model.Invoice: 
+new Added class 27 : org.openxava.test.model.InvoiceDetail: 
+new Added class 28 : org.openxava.test.model.IOffice: 
+new Added class 29 : org.openxava.test.model.IOffice2: 
+new Added class 30 : org.openxava.test.model.IProduct: 
+new Added class 31 : org.openxava.test.model.IProduct2: 
+new Added class 32 : org.openxava.test.model.IProduct3: 
+new Added class 33 : org.openxava.test.model.IReceptionist: 
+new Added class 34 : org.openxava.test.model.ISeller: 
+new Added class 35 : org.openxava.test.model.ISellerLevel: 
+new Added class 36 : org.openxava.test.model.IService: 
+new Added class 37 : org.openxava.test.model.IServiceType: 
+new Added class 38 : org.openxava.test.model.IShipment: 
+new Added class 39 : org.openxava.test.model.IState: 
+new Added class 40 : org.openxava.test.model.ISubfamily: 
+new Added class 41 : org.openxava.test.model.ISubfamily2: 
+new Added class 42 : org.openxava.test.model.ITask: 
+new Added class 43 : org.openxava.test.model.ITransportCharge: 
+new Added class 44 : org.openxava.test.model.IWarehouse: 
+new Added class 45 : org.openxava.model.impl.MapFacadeBean: 
+new Added class 46 : org.openxava.test.model.Office: 
+new Added class 47 : org.openxava.test.model.Office2: 
+new Added class 48 : org.openxava.test.model.Product: 
+new Added class 49 : org.openxava.test.model.Product2: 
+new Added class 50 : org.openxava.test.model.Product3: 
+new Added class 51 : org.openxava.test.model.Receptionist: 
+new Added class 52 : org.openxava.test.model.Seller: 
+new Added class 53 : org.openxava.test.model.SellerLevel: 
+new Added class 54 : org.openxava.test.model.Service: 
+new Added class 55 : org.openxava.test.model.ServiceType: 
+new Added class 56 : org.openxava.test.model.Shipment: 
+new Added class 57 : org.openxava.test.model.State: 
+new Added class 58 : org.openxava.test.model.Subfamily: 
+new Added class 59 : org.openxava.test.model.Subfamily2: 
+new Added class 60 : org.openxava.test.model.SubfamilyInfo: 
+new Added class 61 : org.openxava.test.model.Task: 
+new Added class 62 : org.openxava.test.model.TransportCharge: 
+new Added class 63 : org.openxava.view.View: 
+new Added class 64 : org.openxava.test.model.Warehouse: 
+new Added class 65 : org.openxava.test.tests.XavaSuite: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

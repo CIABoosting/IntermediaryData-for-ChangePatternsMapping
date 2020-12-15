@@ -1,0 +1,14 @@
+DriverConnection:0.5066666666666667
+StatusMessageFlyweight:0.33
+DriverConductor:0.32666666666666666
+LossDetectorTest:0.29333333333333333
+LogBufferDescriptor:0.25333333333333335
+SendChannelEndpoint:0.21666666666666667
+Receiver:0.2075
+ReceiveChannelEndpoint:0.19666666666666666
+EventCodec:0.19333333333333333
+LossDetector:0.18333333333333332
+UnicastSenderFlowControl:0.11333333333333333
+MaxMulticastSenderFlowControl:0.11333333333333333
+TermGapScanner:0.0033333333333333335
+DriverConnectionConductorFields:0.0

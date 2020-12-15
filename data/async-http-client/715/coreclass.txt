@@ -1,0 +1,12 @@
+DnsNameResolver:0.54
+DnsNameResolverBuilder:0.44333333333333336
+DnsQueryContext:0.22666666666666666
+DnsMessageUtil:0.20944444444444443
+DatagramDnsQueryEncoder:0.19666666666666666
+DnsNameResolverTest:0.18666666666666668
+AbstractDnsRecord:0.1695
+DefaultDnsRecordDecoder:0.15
+DatagramDnsResponseDecoder:0.14
+DnsAddressResolverGroup:0.12333333333333334
+AbstractDnsRecordTest:0.07
+DefaultDnsRecordEncoder:0.05

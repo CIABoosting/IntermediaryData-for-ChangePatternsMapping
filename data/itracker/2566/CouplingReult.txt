@@ -1,0 +1,21 @@
+Compared Result of  two versions
+Number of New Class: 15
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.itracker.web.actions.admin.AdminHomeAction: 
+new Added class 1 : org.itracker.services.implementations.ConfigurationServiceImpl: 
+new Added class 2 : org.itracker.model.util.Convert: 
+new Added class 3 : org.itracker.web.actions.project.CreateIssueFormAction: 
+new Added class 4 : org.itracker.web.actions.admin.configuration.EditCustomFieldAction: 
+new Added class 5 : org.itracker.web.actions.admin.configuration.EditCustomFieldValueAction: 
+new Added class 6 : org.itracker.web.util.EditIssueActionUtil: 
+new Added class 7 : org.itracker.web.actions.admin.language.EditLanguageAction: 
+new Added class 8 : org.itracker.web.actions.admin.configuration.ImportDataVerifyAction: 
+new Added class 9 : org.itracker.web.actions.admin.configuration.ListConfigurationAction: 
+new Added class 10 : org.itracker.web.actions.admin.configuration.OrderCustomFieldValueAction: 
+new Added class 11 : org.itracker.web.actions.admin.configuration.RemoveConfigurationItemAction: 
+new Added class 12 : org.itracker.web.actions.admin.configuration.RemoveCustomFieldAction: 
+new Added class 13 : org.itracker.web.actions.admin.configuration.RemoveCustomFieldValueAction: 
+new Added class 14 : org.itracker.model.util.SystemConfigurationUtilities: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

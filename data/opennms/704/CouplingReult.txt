@@ -1,0 +1,19 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opennms.netmgt.config.CategoryFactory: 
+new Added class 1 : org.opennms.netmgt.config.CollectdConfigFactory: 
+new Added class 2 : org.opennms.netmgt.config.DataCollectionConfigFactory: 
+new Added class 3 : org.opennms.netmgt.config.DestinationPathFactory: 
+new Added class 4 : org.opennms.netmgt.config.DhcpdConfigFactory: 
+new Added class 5 : org.opennms.netmgt.config.DiscoveryConfigFactory: 
+new Added class 6 : org.opennms.netmgt.config.EventdConfigFactory: 
+new Added class 7 : org.opennms.netmgt.config.OpennmsServerConfigFactory: 
+new Added class 8 : org.opennms.netmgt.config.PollerConfigFactory: 
+new Added class 9 : org.opennms.netmgt.config.PollOutagesConfigFactory: 
+new Added class 10 : org.opennms.netmgt.config.RTCConfigFactory: 
+new Added class 11 : org.opennms.netmgt.config.ScriptdConfigFactory: 
+new Added class 12 : org.opennms.netmgt.trapd.TrapQueueProcessor: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

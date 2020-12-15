@@ -1,0 +1,17 @@
+AggregateItemReader:0.26
+ListItemReader:0.14666666666666667
+DelegatingItemReader:0.13666666666666666
+CompositeItemStream:0.13666666666666666
+DelegatingItemWriter:0.10666666666666667
+DelegatingItemReaderTests:0.10333333333333333
+JmsItemReaderTests:0.08333333333333333
+JmsItemReader:0.07333333333333333
+ListItemReaderTests:0.06616666666666667
+SimpleStreamManagerTests:0.06
+FileUtilsTests:0.04666666666666667
+FileUtils:0.042777777777777776
+AggregateItemReaderTests:0.03194444444444445
+DelegatingItemWriterTests:0.02666666666666667
+TransactionAwareListItemReaderTests:0.016666666666666666
+CompositeItemWriterTests:0.006666666666666667
+CompositeItemWriter:0.0

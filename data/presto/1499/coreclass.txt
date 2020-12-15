@@ -1,0 +1,13 @@
+CreateTable:0.46
+CreateTableAsSelect:0.43
+CreateSchema:0.36
+AstVisitor:0.32666666666666666
+Formatter:0.28
+TestSqlParser:0.2733333333333333
+Visitor:0.26
+DefaultTraversalVisitor:0.26
+TestAnalyzer:0.26
+AstBuilder:0.25333333333333335
+QueryRewriter:0.16
+TestCreateTableTask:0.13666666666666666
+NodeUtils:0.04

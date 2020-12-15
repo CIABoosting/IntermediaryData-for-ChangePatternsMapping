@@ -1,0 +1,15 @@
+QueryResults:0.35
+StatementAnalyzer:0.3433333333333333
+QueryInfo:0.33
+Analysis:0.27
+QueryStateMachine:0.24333333333333335
+SqlQueryExecution:0.24
+Query:0.18666666666666668
+DataDefinitionExecutionFactory:0.15
+ResetSessionTask:0.11
+DropViewTask:0.11
+SetSessionTask:0.11
+DropTableTask:0.11
+RenameTableTask:0.11
+CreateViewTask:0.06333333333333334
+DataDefinitionTask:0.03666666666666667

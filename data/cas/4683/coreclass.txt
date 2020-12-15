@@ -1,0 +1,13 @@
+CasCoreTicketsConfiguration:0.3566666666666667
+DefaultTicketFactory:0.3233333333333333
+DefaultServiceTicketFactory:0.31
+Cas20ProxyHandler:0.27
+DefaultTicketGrantingTicketFactory:0.21333333333333335
+DefaultProxyGrantingTicketFactory:0.21333333333333335
+CentralAuthenticationServiceImplWithMockitoTests:0.2
+DefaultProxyTicketFactory:0.19666666666666666
+CouchbaseTicketRegistryCleaner:0.16
+CouchbaseTicketRegistryConfiguration:0.12333333333333334
+DefaultTicketRegistryCleaner:0.09
+DefaultTicketRegistrySupport:0.08
+MemcachedTicketRegistryCleaner:0.0

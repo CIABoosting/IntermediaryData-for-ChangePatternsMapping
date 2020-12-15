@@ -1,0 +1,9 @@
+CasReportsConfiguration:0.34833333333333333
+YubiKeyMultifactorAuthenticationProvider:0.14333333333333334
+RadiusMultifactorAuthenticationProvider:0.14
+SwivelMultifactorAuthenticationProvider:0.14
+AuthyMultifactorAuthenticationProvider:0.14
+GoogleAuthenticatorMultifactorAuthenticationProvider:0.11
+U2FMultifactorAuthenticationProvider:0.11
+AzureAuthenticatorMultifactorAuthenticationProvider:0.11
+ServerDiscoveryProfileConfiguration:0.07666666666666666

@@ -1,0 +1,11 @@
+ConnectionPool:0.5966666666666667
+MasterSlaveEntry:0.23
+SentinelConnectionManager:0.17666666666666667
+SingleEntry:0.1630952380952381
+SingleServerConfig:0.16
+RedissonTopicPatternTest:0.14
+BaseMasterSlaveServersConfig:0.14
+ClusterConnectionManager:0.14
+PubSubConnectionPoll:0.125
+ElasticacheConnectionManager:0.07333333333333333
+SingleConnectionManager:0.06

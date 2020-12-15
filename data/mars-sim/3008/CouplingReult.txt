@@ -1,0 +1,33 @@
+Compared Result of  two versions
+Number of New Class: 23
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.mars_sim.msp.core.structure.building.Buildingimplements: 
+new Added class 1 : org.mars_sim.msp.core.structure.building.BuildingManagerimplements: 
+new Added class 2 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelextends: 
+new Added class 3 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelCookingextends: 
+new Added class 4 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelFoodProductionextends: 
+new Added class 5 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelPreparingDessertextends: 
+new Added class 6 : org.mars_sim.msp.core.person.ai.job.Chefextends: 
+new Added class 7 : org.mars_sim.msp.core.structure.building.function.CookedMealimplements: 
+new Added class 8 : org.mars_sim.msp.core.person.ai.task.CookMealextends: 
+new Added class 9 : org.mars_sim.msp.core.person.ai.task.meta.CookMealMeta: 
+new Added class 10 : org.mars_sim.msp.core.structure.building.function.Diningextends: 
+new Added class 11 : org.mars_sim.msp.core.person.ai.task.EatDessert: 
+new Added class 12 : org.mars_sim.msp.core.person.ai.task.EatMeal: 
+new Added class 13 : org.mars_sim.msp.core.structure.building.function.FoodProductionextends: 
+new Added class 14 : org.mars_sim.msp.core.foodProduction.FoodProductionProcess: 
+new Added class 15 : org.mars_sim.msp.core.foodProduction.FoodProductionUtil: 
+new Added class 16 : org.mars_sim.msp.core.structure.building.function.PreparedDessertimplements: 
+new Added class 17 : org.mars_sim.msp.core.person.ai.task.PrepareDessertextends: 
+new Added class 18 : org.mars_sim.msp.core.person.ai.task.meta.PrepareDessertMeta: 
+new Added class 19 : org.mars_sim.msp.core.structure.building.function.PreparingDessertextends: 
+new Added class 20 : org.mars_sim.msp.core.person.ai.task.ProduceFoodextends: 
+new Added class 21 : org.mars_sim.msp.ui.swing.unit_window.structure.TabPanelFoodProductionextends: 
+new Added class 22 : org.mars_sim.msp.ui.swing.unit_window.structure.TabPanelUnitWindow: 
+testing relationship 
+class 4  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:9  r14:3  r15:0  r16:6  r17:0  
+class 20  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:15  r12:0  r13:10  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  2   5 :  2   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  23   12 :  0   13 :  19   14 :  5   15 :  0   16 :  6   17 :  0   

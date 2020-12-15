@@ -1,0 +1,11 @@
+TransactionManagerServiceImpl:0.41
+ClientTransactionManager:0.25333333333333335
+XaResourceProxy:0.22916666666666666
+XAResourceImpl:0.21166666666666667
+TransactionProxy:0.20333333333333334
+TransactionImpl:0.19666666666666666
+RecoveredTransaction:0.14333333333333334
+RecoverTransactionRequest:0.14
+TxBackupLog:0.14
+BeginTxBackupOperation:0.11666666666666667
+CreateTransactionRequest:0.09666666666666666

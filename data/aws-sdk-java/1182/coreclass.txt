@@ -1,0 +1,13 @@
+Job:0.54
+CreateJobRequest:0.3466666666666667
+AmazonGlacier:0.2833333333333333
+AmazonGlacierAsyncClient:0.27
+DynamoDB:0.2274444444444444
+AmazonGlacierAsync:0.20083333333333334
+S3ObjectInputStream:0.19666666666666666
+S3CryptoModuleBase:0.19666666666666666
+AmazonS3EncryptionClient:0.18666666666666668
+AmazonGlacierClient:0.13
+JobJsonUnmarshaller:0.11
+CreateJobRequestMarshaller:0.08666666666666667
+EncryptedInitiateMultipartUploadRequest:0.08333333333333333

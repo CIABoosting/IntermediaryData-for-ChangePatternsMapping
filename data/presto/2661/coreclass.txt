@@ -1,0 +1,10 @@
+Visitor:0.42
+AbstractTestQueries:0.40277777777777773
+AstBuilder:0.36333333333333334
+AstVisitor:0.32666666666666666
+Formatter:0.29333333333333333
+TestSqlParser:0.26666666666666666
+PlanNodeSearcher:0.19
+ShowQueriesRewrite:0.12666666666666668
+CoefficientBasedCostCalculator:0.11
+TestLocalQueries:0.0033333333333333335

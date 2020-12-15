@@ -1,0 +1,12 @@
+HiveSplit:0.62
+HiveRecordSink:0.6
+BenchmarkHiveFileFormats:0.30333333333333334
+HiveTableHandle:0.3
+AbstractTestHiveClient:0.2633333333333333
+HiveMetadata:0.24916666666666668
+HiveOutputTableHandle:0.22333333333333333
+BackgroundHiveSplitLoader:0.19666666666666666
+HiveRecordSinkProvider:0.17666666666666667
+TestJsonHiveHandles:0.12333333333333334
+TestHiveSplit:0.09
+TestHiveTableHandle:0.07666666666666666

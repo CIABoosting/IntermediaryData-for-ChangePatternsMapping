@@ -1,0 +1,16 @@
+SerializeWriter:0.79
+JSONSerializer:0.30333333333333334
+JavaBeanSerializer:0.28
+FieldSerializer:0.17333333333333334
+DateCodec:0.13833333333333334
+MapCodec:0.12
+CollectionCodec:0.11333333333333333
+DoubleSerializer:0.11
+FloatCodec:0.11
+LongCodec:0.11
+IntegerCodec:0.11
+CalendarCodec:0.10333333333333333
+BenchmarkMain:0.09
+EnumSerializer:0.08333333333333333
+ListSerializer:0.08333333333333333
+EnumerationSerializer:0.08333333333333333

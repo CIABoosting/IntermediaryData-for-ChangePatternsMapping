@@ -1,0 +1,10 @@
+RuleManager:0.39222222222222225
+RePatternManager:0.33666666666666667
+HolidayProcessor:0.2
+RemoveOverlapTimexProcessor:0.19333333333333333
+RemoveInvalidTimexProcessor:0.19333333333333333
+MedTimeWriter:0.19083333333333333
+NormalizationManager:0.18805555555555556
+RemoveDateIfTimeProcessor:0.17
+ContextAnalyzer:0.15333333333333332
+GenericResourceManager:0.14

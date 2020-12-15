@@ -1,0 +1,14 @@
+TransportSQLActionTest:0.36
+DocIndexMetaData:0.3333333333333333
+CreateTableAnalysis:0.27
+Planner:0.24166666666666667
+Analyzer:0.17666666666666667
+ExpressionVisitor:0.17
+IndexColumnConstraint:0.14277777777777775
+TransportSQLAction:0.13666666666666666
+CreateTableStatementAnalyzer:0.13
+AnalyzerDispatcher:0.11166666666666666
+Constants:0.10666666666666667
+TransportExecutorDDLTest:0.07333333333333333
+IndexDefinition:0.06
+TestModule:0.016666666666666666

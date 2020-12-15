@@ -1,0 +1,14 @@
+OcspConfiguration:0.68
+KeyRenewer:0.4533333333333333
+X509TrustManagerAcceptAll:0.26
+PrivateKeyContainer:0.23777777777777775
+PrivateKeyContainerCard:0.22166666666666668
+PrivateKeyContainerKeyStore:0.2
+StandAloneSession:0.19
+OCSPServletBase:0.18666666666666668
+SessionData:0.17694444444444446
+MyCallbackHandler:0.16650793650793652
+OCSPServlet:0.16166666666666665
+IStandAloneSession:0.11
+OCSPServletStandAlone:0.08666666666666667
+Runner:0.06477777777777778

@@ -1,0 +1,12 @@
+Layer:0.59
+MultiLayerNetwork:0.36
+GravesLSTM:0.3433333333333333
+RastriginFunctionModel:0.31333333333333335
+SimpleOptimizableModel:0.27
+ConvolutionLayer:0.26666666666666666
+BaseLayer:0.22666666666666666
+SubsamplingLayer:0.22
+BackPropMLPTest:0.21
+BasePretrainNetwork:0.19666666666666666
+TestOptimizers:0.19
+GravesLSTMTest:0.05

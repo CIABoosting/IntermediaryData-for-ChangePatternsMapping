@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : gate.gui.AnnotationEditor: 
+new Added class 1 : gate.event.CreoleEvent: 
+new Added class 2 : gate.event.CreoleListener: 
+new Added class 3 : gate.CreoleRegister: 
+new Added class 4 : gate.creole.CreoleRegisterImpl: 
+new Added class 5 : gate.creole.gazetteer.DefaultGazetteer: 
+new Added class 6 : gate.creole.tokeniser.DefaultTokeniser: 
+new Added class 7 : gate.util.Files: 
+new Added class 8 : gate.Gate: 
+new Added class 9 : gate.swing.JTreeTable: 
+new Added class 10 : guk.im.KeyboardMap: 
+new Added class 11 : gate.gui.MainFrame: 
+new Added class 12 : gate.util.StrTokeniser: 
+testing relationship 
+class 3  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:1  r3:5  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:5  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:-4  r15:0  r16:4  r17:0  
+class 11  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  4   3 :  5   4 :  0   5 :  0   6 :  0   7 :  5   8 :  0   9 :  0   10 :  0   11 :  8   12 :  0   13 :  4   14 :  -3   15 :  0   16 :  4   17 :  0   

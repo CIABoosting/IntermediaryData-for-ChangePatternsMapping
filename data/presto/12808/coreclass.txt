@@ -1,0 +1,8 @@
+TestStatsCollectingTupleStreamSerde:0.34
+StatsCollectingTupleStreamWriter:0.33
+DatabaseStorageManager:0.29
+AbstractOperatorBenchmark:0.25
+SerdeBlockWriterFactory:0.2442539682539683
+StatsTpchTupleStreamProvider:0.2392539682539683
+StatsAnnotatedTupleStreamDeserializer:0.2392539682539683
+TestStatsTupleValueSink:0.18333333333333332

@@ -1,0 +1,16 @@
+JpaTicketRegistry:0.44
+HazelcastTicketRegistry:0.27
+InfinispanTicketRegistry:0.25333333333333335
+LdapAuthenticationHandler:0.21333333333333335
+IgniteTicketRegistry:0.21
+RemoteAddressAuthenticationHandler:0.20333333333333334
+ShiroAuthenticationHandler:0.19666666666666666
+MemCacheTicketRegistry:0.19
+JpaTicketRegistryTests:0.18333333333333332
+GoogleAuthenticatorAuthenticationHandler:0.16666666666666666
+JpaLockingStrategyTests:0.15333333333333332
+Locker:0.11333333333333333
+SearchModeSearchDatabaseAuthenticationHandler:0.11333333333333333
+Releaser:0.11333333333333333
+GrouperRegisteredServiceAccessStrategyTests:0.09333333333333334
+GrouperMultifactorAuthenticationPolicyEventResolver:0.04

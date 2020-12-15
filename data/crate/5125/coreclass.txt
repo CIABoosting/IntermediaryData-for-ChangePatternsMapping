@@ -1,0 +1,17 @@
+Analysis:0.34
+Planner:0.25
+DDLAnalysisDispatcher:0.22333333333333333
+AbstractDataAnalysis:0.22333333333333333
+CreateAnalyzerAnalysis:0.2
+CreateTableAnalysis:0.2
+AddColumnAnalysis:0.19666666666666666
+SetAnalysis:0.19666666666666666
+AlterTableAnalysis:0.19666666666666666
+RefreshTableAnalysis:0.15333333333333332
+CreateBlobTableAnalysis:0.13666666666666666
+DropTableAnalysis:0.13666666666666666
+AlterBlobTableAnalysis:0.13666666666666666
+DropBlobTableAnalysis:0.13666666666666666
+RefreshAnalyzerTest:0.12333333333333334
+UpdateAnalysis:0.10666666666666667
+DeleteAnalysis:0.10666666666666667

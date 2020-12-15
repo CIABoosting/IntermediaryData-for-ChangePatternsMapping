@@ -1,0 +1,10 @@
+AbstractRememberMeServices:0.35
+PersistentTokenBasedRememberMeServices:0.29
+RememberMeBeanDefinitionParser:0.2733333333333333
+DefaultLoginPageGeneratingFilter:0.24111111111111114
+HttpSecurityConfigPostProcessor:0.16666666666666666
+FormLoginBeanDefinitionParser:0.15666666666666668
+ConfigUtils:0.14333333333333334
+HttpSecurityBeanDefinitionParser:0.12666666666666668
+HttpSecurityBeanDefinitionParserTests:0.10583333333333333
+JdbcTokenRepositoryImpl:0.06333333333333334

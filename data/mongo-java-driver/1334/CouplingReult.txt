@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 12
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.mongodb.acceptancetest.index.AddIndexAcceptanceTest: 
+new Added class 1 : com.mongodb.acceptancetest.core.CollectionAcceptanceTest: 
+new Added class 2 : com.mongodb.operation.CursorHelper: 
+new Added class 3 : com.mongodb.acceptancetest.core.DatabaseAcceptanceTest: 
+new Added class 4 : com.mongodb.acceptancetest.index.DropIndexAcceptanceTest: 
+new Added class 5 : com.mongodb.operation.ListCollectionsOperation: 
+new Added class 6 : com.mongodb.operation.ListIndexesOperation: 
+new Added class 7 : com.mongodb.client.MongoCollection: 
+new Added class 8 : com.mongodb.MongoCollectionImpl: 
+new Added class 9 : com.mongodb.client.MongoDatabase: 
+new Added class 10 : com.mongodb.MongoDatabaseImpl: 
+new Added class 11 : com.mongodb.operation.OperationHelper: 
+testing relationship 
+class 0  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  0   4 :  0   5 :  8   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  13   12 :  0   13 :  14   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,8 @@
+TestCluster:0.57
+ElasticsearchIntegrationTest:0.49666666666666665
+ExternalTestCluster:0.22
+CompositeTestCluster:0.21777777777777782
+ElasticsearchBackwardsCompatIntegrationTest:0.15
+GlobalScopeClusterTests:0.08
+TestScopeClusterTests:0.08
+SuiteScopeClusterTests:0.08

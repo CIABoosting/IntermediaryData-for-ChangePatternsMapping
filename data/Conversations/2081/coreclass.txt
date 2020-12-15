@@ -1,0 +1,16 @@
+Config:0.48
+AxolotlService:0.39
+OnCaptchaRequested:0.38319841269841265
+XmppConnectionService:0.36666666666666664
+Jid:0.3466666666666667
+CryptoHelper:0.32666666666666666
+EditAccountActivity:0.32
+XmppConnection:0.24666666666666667
+XmppActivity:0.23666666666666666
+ManageAccountActivity:0.21
+JingleConnection:0.2
+ScramSha1:0.18666666666666668
+SQLiteAxolotlStore:0.18333333333333332
+SessionMap:0.17333333333333334
+KnownHostsAdapter:0.16333333333333333
+IqGenerator:0.14

@@ -1,0 +1,42 @@
+Compared Result of  two versions
+Number of New Class: 28
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : ru.runa.common.web.ActionExceptionHelper: 
+new Added class 1 : ru.runa.wf.web.ftl.method.ActorsMultiSelectTag: 
+new Added class 2 : ru.runa.wf.web.ftl.method.AjaxGroupMembersTag: 
+new Added class 3 : ru.runa.alfresco.AlfObject: 
+new Added class 4 : ru.runa.wf.web.action.BaseProcessFormAction: 
+new Added class 5 : ru.runa.af.web.action.DeployBotAction: 
+new Added class 6 : ru.runa.wfe.office.doc.DocxFileChanger: 
+new Added class 7 : ru.runa.wf.web.ftl.method.EditStringListTag: 
+new Added class 8 : ru.runa.wfe.office.excel.utils.ExcelHelper: 
+new Added class 9 : ru.runa.wfe.office.excel.handler.ExcelReadHandler: 
+new Added class 10 : ru.runa.wfe.execution.logic.ExecutionLogic: 
+new Added class 11 : ru.runa.wfe.service.ExecutionService: 
+new Added class 12 : ru.runa.wfe.validation.FieldValidator: 
+new Added class 13 : ru.runa.wf.web.ftl.FreemarkerStartFormBuilder: 
+new Added class 14 : ru.runa.wf.web.ftl.FreemarkerTaskFormBuilder: 
+new Added class 15 : ru.runa.wf.web.tag.HTMLFormConverter: 
+new Added class 16 : ru.runa.wfe.var.format.ListFormat: 
+new Added class 17 : ru.runa.wfe.execution.dao.ProcessDAO: 
+new Added class 18 : ru.runa.wfe.execution.logic.ProcessExecutionErrors: 
+new Added class 19 : ru.runa.wfe.task.logic.TaskLogic: 
+new Added class 20 : ru.runa.wfe.validation.impl.ValidationException: 
+new Added class 21 : ru.runa.wfe.validation.Validator: 
+new Added class 22 : ru.runa.wfe.validation.ValidatorManager: 
+new Added class 23 : ru.runa.wf.web.action.VariableExtractionHelper: 
+new Added class 24 : ru.runa.wf.web.ftl.method.ViewUtil: 
+new Added class 25 : ru.runa.wfe.commons.logic.WFCommonLogic: 
+new Added class 26 : ru.runa.wf.web.tag.WFFormTag: 
+new Added class 27 : ru.runa.wf.web.tag.XWorkJavascriptValidator: 
+testing relationship 
+class 0  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 25£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 21£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 25£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  0   3 :  0   4 :  1   5 :  1   6 :  1   7 :  1   8 :  1   9 :  0   10 :  0   11 :  2   12 :  0   13 :  1   14 :  0   15 :  0   16 :  0   17 :  0   

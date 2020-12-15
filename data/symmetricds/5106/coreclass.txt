@@ -1,0 +1,14 @@
+AbstractDatabasePlatform:0.43
+TextualCsvDataReader:0.38333333333333336
+CsvData:0.36
+ManageIncomingBatchListener:0.31666666666666665
+JdbcSqlTemplate:0.2733333333333333
+ISqlTemplate:0.2535396825396825
+DataLoaderService:0.20333333333333334
+IDatabasePlatform:0.20083333333333334
+AppUtils:0.19833333333333333
+CsvDataReaderTest:0.17333333333333334
+FileCsvDataWriterTest:0.16333333333333333
+AbstractStreamDataCommand:0.13666666666666666
+CollectionUtils:0.08273352573352574
+DatabaseCapturedCsvDataReader:0.03333333333333333

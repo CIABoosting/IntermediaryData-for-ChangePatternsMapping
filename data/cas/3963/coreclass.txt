@@ -1,0 +1,14 @@
+SamlIdPConfiguration:0.4866666666666667
+SamlIdPUtils:0.23
+ECPProfileHandlerController:0.14444444444444443
+SamlIdPConstants:0.14
+AbstractSamlProfileHandlerController:0.13
+IdPInitiatedProfileHandlerController:0.12
+SamlProfileSamlSoap11FaultResponseBuilder:0.10333333333333333
+SSOPostProfileCallbackHandlerController:0.07777777777777778
+SSOPostProfileHandlerController:0.07777777777777778
+SamlProfileSamlAssertionBuilder:0.07333333333333333
+BaseSamlProfileSamlResponseBuilder:0.06333333333333334
+SamlProfileSamlSoap11ResponseBuilder:0.04
+SamlProfileSaml2ResponseBuilder:0.03666666666666667
+SLOPostProfileHandlerController:0.03666666666666667

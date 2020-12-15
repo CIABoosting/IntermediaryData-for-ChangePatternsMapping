@@ -1,0 +1,15 @@
+Handler:0.4066666666666667
+ConnectionHandler:0.3433333333333333
+NetworkAbstractionTests:0.22666666666666666
+BlockingClient:0.22
+PaymentChannelClientConnection:0.18666666666666668
+TestWithNetworkConnections:0.18222222222222223
+ServerHandler:0.15666666666666668
+BlockingClientManager:0.14777777777777776
+NioClientManager:0.13
+NioServer:0.13
+NioClient:0.12666666666666668
+ServerConnectionEventHandler:0.09333333333333334
+PaymentChannelServerListener:0.09333333333333334
+ClientConnectionManager:0.05
+PendingConnect:0.023333333333333334

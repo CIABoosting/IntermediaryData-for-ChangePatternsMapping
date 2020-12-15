@@ -1,0 +1,8 @@
+SparkTrain:0.4147222222222222
+TestSparkComputationGraph:0.23
+TestSparkMultiLayerParameterAveraging:0.22333333333333333
+TestEarlyStoppingSparkCompGraph:0.22333333333333333
+TestEarlyStoppingSpark:0.22333333333333333
+TestCompareParameterAveragingSparkVsSingleMachine:0.21666666666666667
+BaseSparkTest:0.12
+TestTrainingStatsCollection:0.11666666666666667

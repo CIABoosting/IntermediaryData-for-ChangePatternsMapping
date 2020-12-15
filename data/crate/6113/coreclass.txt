@@ -1,0 +1,15 @@
+PartitionName:0.42333333333333334
+SysShardsTableInfo:0.38666666666666666
+Null:0.31333333333333335
+SelectAnalyzerTest:0.26666666666666666
+SysShardsTest:0.25333333333333335
+InformationSchemaTest:0.24
+ShardStatsTest:0.23
+PrimaryKeyVisitor:0.19666666666666666
+TestModule:0.1715
+ShardTableNameExpression:0.16666666666666666
+SysShardsExpressionsTest:0.13
+TablePartitionInfosIterable:0.08333333333333333
+BlobShardExpressionModule:0.07333333333333333
+UnassignedShard:0.05333333333333334
+SysShardExpressionModule:0.042222222222222223

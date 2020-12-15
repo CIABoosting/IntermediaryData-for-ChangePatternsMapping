@@ -1,0 +1,14 @@
+BootstrapServiceRegistryBuilder:0.5866666666666667
+DialectFactoryTest:0.3233333333333333
+EntityManagerFactoryBuilderImpl:0.2633333333333333
+AbstractJPATest:0.19666666666666666
+EagerKeyManyToOneTest:0.19666666666666666
+LegacyPostCommitListenerTest:0.19666666666666666
+PostCommitListenerTest:0.19666666666666666
+MergeCollectionEventTest:0.19666666666666666
+TestAutoFlushBeforeQueryExecution:0.14333333333333334
+CallbackTest:0.14333333333333334
+TestCollectionInitializingDuringFlush:0.13666666666666666
+ClearEventListenerTest:0.13666666666666666
+OsgiSessionFactoryService:0.1
+ClassLoaderServiceImplTest:0.08666666666666667

@@ -1,0 +1,12 @@
+IndexSettings:0.5133333333333333
+AnalysisService:0.3233333333333333
+IndexQueryParserService:0.2833333333333333
+StandardAnalyzerProvider:0.21
+CustomAnalyzerProvider:0.20666666666666667
+TestPlugin:0.19
+IndexModule:0.14333333333333334
+NGramTokenizerFactory:0.14
+EdgeNGramTokenizerFactory:0.11666666666666667
+PatternAnalyzerProvider:0.11666666666666667
+StandardHtmlStripAnalyzerProvider:0.11666666666666667
+StemmerTokenFilterFactory:0.11333333333333333

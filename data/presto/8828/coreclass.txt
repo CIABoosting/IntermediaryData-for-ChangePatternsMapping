@@ -1,0 +1,13 @@
+TestSqlParser:0.37333333333333335
+TestEqualityInference:0.33666666666666667
+DefaultTraversalVisitor:0.32666666666666666
+Formatter:0.29
+ExpressionRewriter:0.29
+AstVisitor:0.24666666666666667
+Visitor:0.22666666666666666
+Signatures:0.22666666666666666
+AstBuilder:0.22333333333333333
+TestInterpretedProjectionFunction:0.20666666666666667
+RelationPlanner:0.2061111111111111
+RewritingVisitor:0.16
+TreePrinter:0.12666666666666668

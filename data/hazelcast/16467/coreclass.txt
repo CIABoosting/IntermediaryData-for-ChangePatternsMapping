@@ -1,0 +1,13 @@
+ClientConnection:0.55
+ClientAbstractIOSelector:0.36
+ClientConnectionManagerImpl:0.33666666666666667
+ClientCallFuture:0.31
+CleanResourcesTask:0.25666666666666665
+ClientPacketProcessor:0.22333333333333333
+ClusterAuthenticator:0.20666666666666667
+ManagerAuthenticator:0.20666666666666667
+HeartBeat:0.20333333333333334
+ClientWriteHandler:0.1811111111111111
+ConnectionProcessor:0.16416666666666666
+ClientReadHandler:0.1361111111111111
+ClientProperties:0.03

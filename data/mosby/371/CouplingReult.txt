@@ -1,0 +1,36 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.hannesdorfmann.mosby.sample.mvp.lce.activity.CountriesActivity: 
+new Added class 1 : com.hannesdorfmann.mosby.sample.mvp.CountriesAdapter: 
+new Added class 2 : com.hannesdorfmann.mosby.sample.mvp.lce.fragment.CountriesFragment: 
+new Added class 3 : com.hannesdorfmann.mosby.sample.mvp.lce.layout.CountriesLayout: 
+new Added class 4 : com.hannesdorfmann.mosby.sample.mvp.lce.layout.CountriesLayoutActivity: 
+new Added class 5 : com.hannesdorfmann.mosby.sample.mvp.lce.viewstate.CountriesViewStateActivity: 
+new Added class 6 : com.hannesdorfmann.mosby.sample.FragmentContainerActivity: 
+new Added class 7 : com.hannesdorfmann.mosby.sample.mail.mails.MailsAdapter: 
+new Added class 8 : com.hannesdorfmann.mosby.sample.MainActivity: 
+new Added class 9 : com.hannesdorfmann.mosby.sample.dagger1.members.MembersAdapter: 
+new Added class 10 : com.hannesdorfmann.mosby.sample.mail.menu.MenuAdapter: 
+new Added class 11 : com.hannesdorfmann.mosby.sample.mvp.customviewstate.MyCustomActivity: 
+new Added class 12 : com.hannesdorfmann.mosby.sample.mvp.customviewstate.MyCustomFragment: 
+new Added class 13 : com.hannesdorfmann.mosby.sample.mvp.lce.viewstate.nested.NestedFragment: 
+new Added class 14 : com.hannesdorfmann.mosby.sample.mvp.lce.viewstate.nested.NestedViewPagerFragment: 
+new Added class 15 : com.hannesdorfmann.mosby.sample.mvp.lce.viewstate.NotRetainingCountriesFragment: 
+new Added class 16 : com.hannesdorfmann.mosby.sample.dagger2.repos.ReposAdapter: 
+new Added class 17 : com.hannesdorfmann.mosby.sample.mvp.lce.viewstate.RetainingCountriesFragment: 
+new Added class 18 : com.hannesdorfmann.mosby.sample.mail.statistics.StatisticsAdapter: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  5   7 :  0   8 :  18   9 :  0   10 :  10   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

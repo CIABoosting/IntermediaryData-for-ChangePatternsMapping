@@ -1,0 +1,13 @@
+Node:0.52
+Document:0.4166666666666667
+TagWriter:0.27
+CharScanner:0.24333333333333335
+LagartoParser:0.22666666666666666
+LagartoParserTest:0.2
+DomBuilderTest:0.19
+EmptyTagVisitor:0.18587301587301588
+TagVisitor:0.18587301587301588
+LagartoDOMBuilderTagVisitor:0.15333333333333332
+TagAdapterWrapper:0.15
+TagAdapter:0.14
+StripHtmlTagAdapter:0.07333333333333333

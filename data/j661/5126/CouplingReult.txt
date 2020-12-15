@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 20
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.javafx.server.engine.BasicJFXServerEngineDensityTest: 
+new Added class 1 : arinc661.swing.server.engine.BasicServerEngineDensityTest: 
+new Added class 2 : arinc661.client.ClientWrapper2Test: 
+new Added class 3 : arinc661.client.ClientWrapperNetworkTest: 
+new Added class 4 : arinc661.appli.writer.DefaultXMLConverter5Test: 
+new Added class 5 : arinc661.appli.writer.DefaultXMLExporterExtensions2Test: 
+new Added class 6 : arinc661.appli.editor.EditorScreenDensityTest: 
+new Added class 7 : arinc661.appli.extensions.ExtensionServerWidgetsFactoryInEditorTest: 
+new Added class 8 : arinc661.appli.extensions.ExtensionServerWidgetsInEditorTest: 
+new Added class 9 : arinc661.javafx.editor.symbols.JFXEditorModifySymbolTest: 
+new Added class 10 : arinc661.javafx.editor.JFXEditorScreenDensityTest: 
+new Added class 11 : arinc661.appli.editor.LayerTreeEditorCreate2Test: 
+new Added class 12 : arinc661.appli.editor.LayerTreeEditorGroupUngroupTest: 
+new Added class 13 : plugin.cockpit.actions.MultiAppliGenerator2Test: 
+new Added class 14 : plugin.cockpit.actions.MultiAppliGenerator3Test: 
+new Added class 15 : plugin.cockpit.actions.MultiAppliGeneratorTest: 
+new Added class 16 : arinc661.javafx.server.model.painter.factory.RendererPropertiesFactory3Test: 
+new Added class 17 : arinc661.swing.server.ui.synth2.Synth2ParserTest: 
+new Added class 18 : embedclient.arinc661.client.TestDataProvider: 
+new Added class 19 : arinc661.server.engine.WidgetEventStruct4Test: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

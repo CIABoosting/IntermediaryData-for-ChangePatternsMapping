@@ -1,0 +1,12 @@
+ConflictSetting:0.59
+ISqlTemplate:0.2535396825396825
+DatabaseWriter:0.25
+DataLoaderService:0.22666666666666666
+AbstractDataLoaderServiceTest:0.21333333333333335
+ConflictEvent:0.19666666666666666
+ConflictSettingsNodeGroupLinkMapper:0.18083333333333335
+JdbcSqlTemplate:0.17111111111111113
+DefaultDatabaseWriterConflictResolver:0.14666666666666667
+DataLoaderServiceSqlMap:0.1275
+ConflictException:0.09666666666666666
+IDatabaseWriterConflictResolver:0.006944444444444445

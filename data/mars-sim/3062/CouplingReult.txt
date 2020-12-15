@@ -1,0 +1,36 @@
+Compared Result of  two versions
+Number of New Class: 27
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingFunctionPanelextends: 
+new Added class 1 : org.mars_sim.msp.ui.swing.tool.settlement.BuildingInfoDialog: 
+new Added class 2 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelextends: 
+new Added class 3 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelAstronomicalObservationextends: 
+new Added class 4 : org.mars_sim.msp.ui.swing.unit_window.structure.building.cooking.BuildingPanelCookingextends: 
+new Added class 5 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelFarmingextends: 
+new Added class 6 : org.mars_sim.msp.ui.swing.unit_window.structure.building.cooking.BuildingPanelFoodProductionextends: 
+new Added class 7 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelInhabitableextends: 
+new Added class 8 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelMaintenanceextends: 
+new Added class 9 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelMalfunctionableextends: 
+new Added class 10 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelManufactureextends: 
+new Added class 11 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelMedicalCareextends: 
+new Added class 12 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelPreparingDessertextends: 
+new Added class 13 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelResearchextends: 
+new Added class 14 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelResourceProcessingextends: 
+new Added class 15 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelStorageextends: 
+new Added class 16 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanelVehicleMaintenanceextends: 
+new Added class 17 : org.mars_sim.msp.ui.swing.ComponentMover: 
+new Added class 18 : org.mars_sim.msp.core.structure.building.function.cooking.Cookingextends: 
+new Added class 19 : org.mars_sim.msp.core.person.PhysicalConditionimplements: 
+new Added class 20 : org.mars_sim.msp.ui.swing.tool.settlement.PopUpBuildingMenu: 
+new Added class 21 : org.mars_sim.msp.core.structure.building.function.cooking.PreparingDessertextends: 
+new Added class 22 : org.mars_sim.msp.ui.swing.tool.settlement.SettlementTransparentPanel: 
+new Added class 23 : org.mars_sim.msp.ui.swing.unit_window.structure.TabPanelBuildingsextends: 
+new Added class 24 : org.mars_sim.msp.ui.swing.unit_window.structure.TabPanelCookingextends: 
+new Added class 25 : org.mars_sim.msp.ui.swing.unit_window.structure.TabPanelFoodProductionextends: 
+new Added class 26 : org.mars_sim.msp.ui.swing.unit_window.structure.TabPanelManufactureextends: 
+testing relationship 
+class 20  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  9   12 :  0   13 :  4   14 :  0   15 :  0   16 :  0   17 :  0   

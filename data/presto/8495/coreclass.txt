@@ -1,0 +1,15 @@
+TestSerDeUtils:0.25
+ColumnarTextHiveRecordCursor:0.20111111111111113
+ColumnarBinaryHiveRecordCursor:0.20111111111111113
+DwrfHiveRecordCursor:0.20111111111111113
+GenericHiveRecordCursor:0.20111111111111113
+SerDeUtils:0.2
+OrcHiveRecordCursor:0.19444444444444445
+LazyJsonSliceBlockLoader:0.17666666666666667
+OrcRecordCursorProvider:0.13666666666666666
+DwrfRecordCursorProvider:0.11666666666666667
+RcBinaryBlockLoader:0.10666666666666667
+ColumnarBinaryHiveRecordCursorProvider:0.09333333333333334
+ColumnarTextHiveRecordCursorProvider:0.09333333333333334
+GenericHiveRecordCursorProvider:0.09333333333333334
+RcTextBlockLoader:0.06666666666666667

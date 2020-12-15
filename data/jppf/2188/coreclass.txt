@@ -1,0 +1,16 @@
+AbstractJPPFClient:0.39666666666666667
+AbstractJPPFClientConnection:0.38333333333333336
+JPPFClient:0.32666666666666666
+JPPFClientConnectionImpl:0.27666666666666667
+SubmissionManagerClient:0.21
+AbstractGenericClient:0.20333333333333334
+SocketInitializationTask:0.18333333333333332
+MatrixRunner:0.17333333333333334
+SocketInitializerImpl:0.16333333333333333
+JcaClassServerDelegate:0.15333333333333332
+ClassServerDelegateImpl:0.14333333333333334
+JPPFJcaClientConnection:0.13333333333333333
+AbstractSocketInitializer:0.11
+TaskServerConnectionHandler:0.10333333333333333
+AbstractClassServerDelegate:0.07444444444444444
+AbstractClientConnectionHandler:0.06666666666666667

@@ -1,0 +1,22 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.facebook.presto.sql.compiler.AnalysisResult: 
+new Added class 1 : com.facebook.presto.sql.compiler.Analyzer: 
+new Added class 2 : com.facebook.presto.sql.planner.ExecutionPlanner: 
+new Added class 3 : com.facebook.presto.sql.planner.Planner: 
+new Added class 4 : com.facebook.presto.sql.planner.PlanPrinter: 
+new Added class 5 : com.facebook.presto.sql.planner.PlanVisitor: 
+new Added class 6 : com.facebook.presto.sql.planner.PruneRedundantProjections: 
+new Added class 7 : com.facebook.presto.sql.planner.PruneUnreferencedOutputs: 
+new Added class 8 : com.facebook.presto.TestQueries: 
+new Added class 9 : com.facebook.presto.sql.planner.UnaliasSlotReferences: 
+testing relationship 
+class 1  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:10  r15:0  r16:2  r17:0  
+class 8  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  2   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  5   12 :  0   13 :  3   14 :  10   15 :  0   16 :  2   17 :  0   

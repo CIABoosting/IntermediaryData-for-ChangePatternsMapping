@@ -1,0 +1,17 @@
+ChannelEndpointStatusIndicator:0.6033333333333334
+SendChannelEndpoint:0.48333333333333334
+ReceiveChannelEndpoint:0.48333333333333334
+DriverConductor:0.37
+UdpChannelTransport:0.26
+Receiver:0.21333333333333335
+DriverConductorProxy:0.19333333333333333
+SelectorAndTransportTest:0.17166666666666666
+Sender:0.16
+DebugSendChannelEndpoint:0.06666666666666667
+DebugReceiveChannelEndpoint:0.06666666666666667
+DebugReceiveChannelEndpointSupplier:0.0033333333333333335
+DebugSendChannelEndpointSupplier:0.0033333333333333335
+DefaultSendChannelEndpointSupplier:0.0
+DefaultReceiveChannelEndpointSupplier:0.0
+ReceiveChannelEndpointSupplier:0.0
+SendChannelEndpointSupplier:0.0

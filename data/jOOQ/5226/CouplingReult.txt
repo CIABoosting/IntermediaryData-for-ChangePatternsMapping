@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.jooq.test.oracle2.generatedclasses.DateAsTimestampTestFactory: 
+new Added class 1 : org.jooq.test.sybase.generatedclasses.DbaFactory: 
+new Added class 2 : org.jooq.test.sqlserver.generatedclasses.DboFactory: 
+new Added class 3 : org.jooq.examples.sqlserver.adventureworks.humanresources.HumanResourcesFactory: 
+new Added class 4 : org.jooq.test.hsqldb.generatedclasses.tables.interfaces.IXUnused: 
+new Added class 5 : org.jooq.test.db2.generatedclasses.LukasFactory: 
+new Added class 6 : org.jooq.test.oracle.generatedclasses.multi_schema.MultiSchemaFactory: 
+new Added class 7 : org.jooq.test.oracle3.generatedclasses.MyFactory: 
+new Added class 8 : org.jooq.examples.sqlserver.adventureworks.person.PersonFactory: 
+new Added class 9 : org.jooq.examples.sqlserver.adventureworks.production.ProductionFactory: 
+new Added class 10 : org.jooq.test.postgres.generatedclasses.PublicFactory: 
+new Added class 11 : org.jooq.examples.sqlserver.adventureworks.purchasing.PurchasingFactory: 
+new Added class 12 : org.jooq.examples.mysql.sakila.SakilaFactory: 
+new Added class 13 : org.jooq.examples.sqlserver.adventureworks.sales.SalesFactory: 
+new Added class 14 : org.jooq.examples.oracle.sys.SysFactory: 
+new Added class 15 : org.jooq.test.mysql2.generatedclasses.Test2Factory: 
+new Added class 16 : org.jooq.test.oracle.generatedclasses.test.TestFactory: 
+new Added class 17 : org.jooq.test.postgres.generatedclasses.tables.pojos.XUnused: 
+new Added class 18 : org.jooq.test.sybase.generatedclasses.tables.records.XUnusedRecord: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

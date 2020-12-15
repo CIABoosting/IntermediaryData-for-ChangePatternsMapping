@@ -1,0 +1,14 @@
+PagingQueryProvider:0.87
+JdbcPagingItemReader:0.45
+AbstractSqlPagingQueryProvider:0.24333333333333335
+SqlWindowingPagingQueryProviderTests:0.21333333333333335
+SqlWindowingPagingQueryProvider:0.17666666666666667
+JdbcPagingItemReaderIntegrationTests:0.11333333333333333
+JdbcPagingItemReaderCommonTests:0.08555555555555557
+DerbyPagingQueryProvider:0.08
+HsqlPagingQueryProvider:0.04
+HsqlPagingQueryProviderTests:0.019444444444444445
+MySqlPagingQueryProviderTests:0.019444444444444445
+DerbyPagingQueryProviderTests:0.011111111111111112
+MySqlPagingQueryProvider:0.01
+AbstractSqlPagingQueryProviderTests:0.0033333333333333335

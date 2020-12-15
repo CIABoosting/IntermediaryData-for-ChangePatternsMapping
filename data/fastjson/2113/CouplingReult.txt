@@ -1,0 +1,23 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.alibaba.json.test.benchmark.BenchmarkMain_EishayDecode_WriteAsArray: 
+new Added class 1 : com.alibaba.json.test.benchmark.BenchmarkMain_EishayEncode: 
+new Added class 2 : com.alibaba.fastjson.parser.deserializer.JavaBeanDeserializer: 
+new Added class 3 : com.alibaba.fastjson.serializer.JSONSerializer: 
+new Added class 4 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_0_private: 
+new Added class 5 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_0_public: 
+new Added class 6 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_boolean_public: 
+new Added class 7 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_byte_public: 
+new Added class 8 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_char_public: 
+new Added class 9 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_double_public: 
+new Added class 10 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_enum_public: 
+new Added class 11 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_float_public: 
+new Added class 12 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_list_public: 
+new Added class 13 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_long_private: 
+new Added class 14 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_long_public: 
+new Added class 15 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_Object: 
+new Added class 16 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_short_public: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

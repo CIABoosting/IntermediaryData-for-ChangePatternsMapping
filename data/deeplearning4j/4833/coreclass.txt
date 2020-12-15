@@ -1,0 +1,10 @@
+MultiLayerNetwork:0.6333333333333333
+SparkDl4jMultiLayer:0.5366666666666666
+TestSparkMultiLayer:0.25
+SparkEarlyStoppingTrainer:0.16666666666666666
+TestEarlyStoppingSpark:0.16666666666666666
+TestEarlyStoppingSparkCompGraph:0.16333333333333333
+BaseSparkTest:0.15333333333333332
+SparkDataSetLossCalculator:0.14444444444444443
+SparkEarlyStoppingGraphTrainer:0.13777777777777778
+BaseSparkEarlyStoppingTrainer:0.09

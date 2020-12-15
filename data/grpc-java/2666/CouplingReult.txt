@@ -1,0 +1,28 @@
+Compared Result of  two versions
+Number of New Class: 12
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.google.net.stubby.stub.AbstractStub: 
+new Added class 1 : com.google.net.stubby.http2.netty.Http2Codec: 
+new Added class 2 : com.google.net.stubby.http2.okhttp.Http2Request: 
+new Added class 3 : com.google.net.stubby.http2.netty.Http2Session: 
+new Added class 4 : com.google.net.stubby.MethodDescriptor: 
+new Added class 5 : com.google.net.stubby.newtransport.netty.NettyClientHandler: 
+new Added class 6 : com.google.net.stubby.newtransport.netty.NettyClientHandlerTest: 
+new Added class 7 : com.google.net.stubby.http2.okhttp.OkHttpSession: 
+new Added class 8 : com.google.net.stubby.http.ServletSession: 
+new Added class 9 : com.google.net.stubby.Session: 
+new Added class 10 : com.google.net.stubby.SessionClientTransport: 
+new Added class 11 : com.google.net.stubby.http.UrlConnectionClientSession: 
+testing relationship 
+class 1  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 3  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:6  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:7  r9:0  r10:9  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:2  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 8  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 10  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 11  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  3   3 :  0   4 :  0   5 :  2   6 :  0   7 :  0   8 :  20   9 :  0   10 :  13   11 :  2   12 :  0   13 :  0   14 :  5   15 :  0   16 :  1   17 :  0   

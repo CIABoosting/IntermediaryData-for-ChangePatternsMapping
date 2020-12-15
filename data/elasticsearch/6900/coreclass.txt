@@ -1,0 +1,12 @@
+ActiveShardCount:0.48
+ActiveShardCountTests:0.36
+UpdateRequest:0.3566666666666667
+BulkRequest:0.31333333333333335
+DedicatedClusterSnapshotRestoreIT:0.23
+ReplicationRequest:0.22666666666666666
+ReplicationOperation:0.22
+MetaDataCreateIndexService:0.21333333333333335
+UpdateRequestBuilder:0.19333333333333333
+BulkRequestBuilder:0.19333333333333333
+ReplicationRequestBuilder:0.19
+SearchWhileCreatingIndexIT:0.19

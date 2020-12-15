@@ -1,0 +1,12 @@
+CreateIndexRequest:0.3433333333333333
+TermVectorsRequest:0.29
+MultiGetRequest:0.22
+BulkRequest:0.21
+CreateIndexRequestBuilder:0.19666666666666666
+NamedXContentRegistry:0.175
+RestClearIndicesCacheAction:0.16333333333333333
+MultiGetResponse:0.1625
+FieldParser:0.1505
+GeoJsonParser:0.13
+RestAnalyzeAction:0.13
+TypeParser:0.11

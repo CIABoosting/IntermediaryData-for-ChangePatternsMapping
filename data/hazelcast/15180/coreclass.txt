@@ -1,0 +1,11 @@
+InternalPartitionServiceImpl:0.45
+DefaultNodeGroup:0.32666666666666666
+PartitionStateGeneratorImpl:0.3
+RepartitioningTask:0.28
+SingleNodeGroup:0.26666666666666666
+MigrateTask:0.26666666666666666
+PartitionTable:0.22
+MigrationThread:0.18833333333333332
+SyncReplicaVersionTask:0.14
+LocalPartitionListener:0.13
+GroupProperties:0.01

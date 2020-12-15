@@ -1,0 +1,15 @@
+InternalTestCluster:0.38666666666666666
+ScriptService:0.2866666666666667
+IndicesFieldDataCache:0.24666666666666667
+IndicesRequestCache:0.23333333333333334
+IndexFieldCache:0.21666666666666667
+Reaper:0.20666666666666667
+AbstractStringFieldDataTestCase:0.19666666666666666
+ShardRequestCache:0.19666666666666666
+BitsetFilterCache:0.17333333333333334
+FieldDataCacheCleaner:0.16
+FieldDataWeigher:0.15666666666666668
+ScriptCacheRemovalListener:0.12333333333333334
+Loader:0.11666666666666667
+BitSetFilterCacheTests:0.11666666666666667
+RandomExceptionCircuitBreakerIT:0.08

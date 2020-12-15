@@ -1,0 +1,141 @@
+Compared Result of  two versions
+Number of New Class: 93
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.compiere.apps.AMenu: 
+new Added class 1 : org.columba.core.scripting.config.BeanshellConfig: 
+new Added class 2 : org.columba.core.main.Bootstrap: 
+new Added class 3 : org.columba.core.config.Config: 
+new Added class 4 : org.columba.core.facade.ConfigFacade: 
+new Added class 5 : org.xendra.Constants: 
+new Added class 6 : org.compiere.model.function.Costaveragemonth0: 
+new Added class 7 : org.compiere.process.CostUpdate: 
+new Added class 8 : org.compiere.util.DB: 
+new Added class 9 : org.columba.core.config.DefaultConfigDirectory: 
+new Added class 10 : org.columba.core.gui.frame.DefaultContainer: 
+new Added class 11 : org.columba.core.gui.frame.DefaultFrameController: 
+new Added class 12 : org.xendra.objectview.DefaultObjectViewModel: 
+new Added class 13 : org.columba.core.config.DefaultXmlConfig: 
+new Added class 14 : org.columba.core.gui.frame.DockFrameController: 
+new Added class 15 : org.compiere.util.Env: 
+new Added class 16 : org.columba.core.plugin.Extension: 
+new Added class 17 : org.columba.core.gui.externaltools.ExternalToolsManager: 
+new Added class 18 : org.columba.core.gui.externaltools.ExternalToolsWizardModelListener: 
+new Added class 19 : org.columba.core.gui.util.FontProperties: 
+new Added class 20 : org.columba.core.gui.frame.FrameManager: 
+new Added class 21 : org.columba.core.gui.config.GeneralOptionsDialog: 
+new Added class 22 : org.compiere.model.function.Getancientattributeinstanceinstance0: 
+new Added class 23 : org.compiere.model.function.Getancientattributesetinstance1: 
+new Added class 24 : org.compiere.model.function.Getancientattributesetinstance2: 
+new Added class 25 : org.columba.core.resourceloader.GlobalResourceLoader: 
+new Added class 26 : org.columba.core.config.GuiItem: 
+new Added class 27 : org.columba.core.config.IConfig: 
+new Added class 28 : org.columba.api.plugin.IExtensionHandlerKeys: 
+new Added class 29 : org.xendra.material.MaterialManager: 
+new Added class 30 : org.xendra.material.MaterialPolicy: 
+new Added class 31 : org.compiere.server.MaterialProcessor: 
+new Added class 32 : org.compiere.model.MCity: 
+new Added class 33 : org.compiere.model.MHeader: 
+new Added class 34 : org.compiere.print.MPrintTableFormat: 
+new Added class 35 : org.compiere.model.MSecurity: 
+new Added class 36 : org.frapuccino.iconpanel.OneSizeLabel: 
+new Added class 37 : org.columba.core.scripting.config.Options: 
+new Added class 38 : org.columba.core.config.OptionsXmlConfig: 
+new Added class 39 : org.columba.core.gui.themes.plugin.PlasticLookAndFeelConfigPlugin: 
+new Added class 40 : org.columba.core.gui.themes.plugin.PlasticLookAndFeelPlugin: 
+new Added class 41 : org.columba.core.plugin.PluginManager: 
+new Added class 42 : org.adempiere.util.ProcessUtil: 
+new Added class 43 : org.compiere.model.reference.ReferenceList: 
+new Added class 44 : org.compiere.model.reference.REF_EMailType: 
+new Added class 45 : org.compiere.print.ReportEngine: 
+new Added class 46 : org.columba.core.config.SaveConfig: 
+new Added class 47 : org.columba.core.scripting.config.ScriptingXmlConfig: 
+new Added class 48 : org.columba.core.gui.search.SearchPanel: 
+new Added class 49 : org.columba.core.gui.globalactions.ShowHideViewSubmenu: 
+new Added class 50 : org.xendra.material.StockWorker: 
+new Added class 51 : org.columba.core.gui.globalactions.SwitchPerspectiveSubmenu: 
+new Added class 52 : org.xendra.xendrian.SyncModel: 
+new Added class 53 : org.columba.core.tagging.Tag: 
+new Added class 54 : org.columba.core.tagging.TagManager: 
+new Added class 55 : org.columba.core.gui.themes.ThemeSwitcher: 
+new Added class 56 : org.columba.core.gui.toolbar.ToolBarButtonFactory: 
+new Added class 57 : org.xendra.apps.form.VAdvanceBills: 
+new Added class 58 : org.compiere.model.valrule.ValRuleList: 
+new Added class 59 : org.columba.core.config.ViewItem: 
+new Added class 60 : org.compiere.model.view.ViewList: 
+new Added class 61 : org.columba.core.gui.globalactions.ViewToolbarAction: 
+new Added class 62 : org.xendra.core.ui.frame.XendraFrameMediator: 
+new Added class 63 : org.columba.core.config.XmlConfig: 
+new Added class 64 : org.compiere.model.function.X_AD_FunctionList: 
+new Added class 65 : org.compiere.model.operator.X_AD_OperatorList: 
+new Added class 66 : org.compiere.model.persistence.X_C_Contact: 
+new Added class 67 : org.compiere.model.persistence.X_C_ContactEmail: 
+new Added class 68 : org.compiere.model.persistence.X_E_CalendarItem: 
+new Added class 69 : org.compiere.model.persistence.X_E_CalendarType: 
+new Added class 70 : org.compiere.model.persistence.X_E_Folder: 
+new Added class 71 : org.compiere.model.persistence.X_E_FolderSpam: 
+new Added class 72 : org.compiere.model.persistence.X_E_FolderSpecial: 
+new Added class 73 : org.compiere.model.persistence.X_E_Header: 
+new Added class 74 : org.compiere.model.persistence.X_E_MailUser: 
+new Added class 75 : org.compiere.model.persistence.X_E_Message: 
+new Added class 76 : org.compiere.model.persistence.X_E_POP3Header: 
+new Added class 77 : org.compiere.model.persistence.X_E_Security: 
+new Added class 78 : org.compiere.model.persistence.X_M_MaterialPolicy: 
+new Added class 79 : org.compiere.model.persistence.X_M_MaterialProcessor: 
+new Added class 80 : org.compiere.model.persistence.X_Q_Risks: 
+new Added class 81 : org.compiere.model.persistence.X_Q_WorkActivity: 
+new Added class 82 : org.compiere.model.persistence.X_Q_WorkEmployee: 
+new Added class 83 : org.compiere.model.persistence.X_Q_WorkExpense: 
+new Added class 84 : org.compiere.model.persistence.X_Q_WorkExternal_Service: 
+new Added class 85 : org.compiere.model.persistence.X_Q_WorkRisks: 
+new Added class 86 : org.compiere.model.persistence.X_Q_Workshop: 
+new Added class 87 : org.compiere.model.persistence.X_Q_WorkSpare: 
+new Added class 88 : org.compiere.model.persistence.X_Q_WorkTask: 
+new Added class 89 : org.compiere.model.persistence.X_Q_WorkTools: 
+new Added class 90 : org.compiere.model.persistence.X_Q_WorkType: 
+new Added class 91 : org.compiere.model.persistence.X_wk_workorder: 
+new Added class 92 : org.compiere.model.persistence.X_wk_worktype: 
+testing relationship 
+class 0  vs  class 2£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 1  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 1  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 47£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 3  vs  class 27£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 38£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 70£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 11£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:16  r9:0  r10:23  r11:0  r12:0  r13:0  r14:3  r15:0  r16:3  r17:0  
+class 10  vs  class 16£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:16  r9:0  r10:0  r11:6  r12:0  r13:0  r14:7  r15:0  r16:0  r17:0  
+class 11  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 14  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 20  vs  class 10£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 11£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:20  r12:0  r13:0  r14:6  r15:0  r16:0  r17:0  
+class 21  vs  class 3£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:19  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 30£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:15  r14:2  r15:0  r16:0  r17:0  
+class 30  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 30  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 30  vs  class 78£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 73£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 77£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 13£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 13£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 49  vs  class 11£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 11£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 54  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 3£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 12£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 62  vs  class 14£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 62  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  7   2 :  1   3 :  21   4 :  0   5 :  11   6 :  1   7 :  0   8 :  45   9 :  0   10 :  26   11 :  85   12 :  0   13 :  28   14 :  28   15 :  0   16 :  5   17 :  0   

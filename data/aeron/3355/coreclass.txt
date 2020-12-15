@@ -1,0 +1,12 @@
+PublicationImage:0.5011111111111112
+NetworkPublication:0.3333333333333333
+ReceiveChannelEndpoint:0.30333333333333334
+ReceiveChannelEndpointThreadLocals:0.20333333333333334
+EventDissector:0.18666666666666668
+SendChannelEndpoint:0.18333333333333332
+DataPacketDispatcher:0.18
+DebugReceiveChannelEndpoint:0.17333333333333334
+DebugSendChannelEndpoint:0.17333333333333334
+NetworkPublicationThreadLocals:0.10666666666666667
+ControlTransportPoller:0.1
+DataTransportPoller:0.1

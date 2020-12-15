@@ -1,0 +1,7 @@
+ClassByExtensionBenchmark:0.5066666666666667
+ClassByExtensionBenchmarkTest:0.4
+SuperClassInvocationBenchmark:0.33
+SuperClassInvocationBenchmarkTest:0.29333333333333333
+ByteBuddyPrefixInterceptor:0.1864563492063492
+ByteBuddyProxyInterceptor:0.06
+ClassByExtensionBenchmarkByteBuddyInterceptorTest:0.030555555555555558

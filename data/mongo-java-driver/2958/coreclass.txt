@@ -1,0 +1,13 @@
+BaseOperation:0.16666666666666666
+FindAndUpdateOperation:0.16333333333333333
+RemoveUserOperation:0.16333333333333333
+DropIndexOperation:0.14333333333333334
+RenameCollectionOperation:0.13
+UserExistsOperation:0.13
+DropCollectionOperation:0.13
+CreateUserOperation:0.13
+UpdateUserOperation:0.13
+FindAndReplaceOperation:0.13
+FindAndRemoveOperation:0.13
+GetDatabaseNamesOperation:0.12666666666666668
+BaseWriteOperation:0.10666666666666667

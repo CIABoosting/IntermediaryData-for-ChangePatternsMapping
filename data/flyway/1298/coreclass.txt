@@ -1,0 +1,11 @@
+SqlStatementBuilder:0.56
+MySQLSqlStatementBuilder:0.21666666666666667
+PostgreSQLSqlStatementBuilder:0.21
+OracleSqlStatementBuilder:0.19
+DB2SqlStatementBuilder:0.15333333333333332
+OracleSqlScriptSmallTest:0.13666666666666666
+SqlStatementBuilderSmallTest:0.10333333333333333
+PostgreSQLSqlStatementBuilderSmallTest:0.0925
+H2SqlStatementBuilder:0.08
+HsqlSqlStatementBuilder:0.07
+DerbySqlStatementBuilder:0.03

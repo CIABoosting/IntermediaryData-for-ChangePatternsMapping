@@ -1,0 +1,14 @@
+ParameterAveragingTrainingMaster:0.38333333333333336
+ConvolutionLayer:0.27666666666666667
+Builder:0.2733333333333333
+SparkDl4jMultiLayer:0.26
+BaseUpdater:0.22666666666666666
+CudnnConvolutionHelper:0.20666666666666667
+SparkComputationGraph:0.19555555555555557
+ConvolutionLayerSetupTest:0.19
+TestDecayPolicies:0.185
+ListBuilder:0.18166666666666667
+ConvolutionLayerSetup:0.15
+ConvolutionHelper:0.14
+TestSparkMultiLayerParameterAveraging:0.125
+TestSparkComputationGraph:0.018888888888888886

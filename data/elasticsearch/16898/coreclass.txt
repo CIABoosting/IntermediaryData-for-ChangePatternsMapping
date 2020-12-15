@@ -1,0 +1,17 @@
+SearchRequest:0.4033333333333333
+SearchSourceBuilder:0.39
+ClusterHealthRequest:0.27666666666666667
+ReplicationRequest:0.27666666666666667
+DateHistogramParser:0.2633333333333333
+ScriptField:0.26
+DeleteIndexRequest:0.24666666666666667
+SearchScrollRequest:0.24666666666666667
+InstanceShardOperationRequest:0.24666666666666667
+DecayFunctionParser:0.24
+BulkRequest:0.24
+AdapterActionFuture:0.21333333333333335
+XContentMapValues:0.2
+AcknowledgedRequest:0.19666666666666666
+NodesOperationRequest:0.12
+DerivativeParser:0.07666666666666666
+MasterNodeOperationRequest:0.04666666666666667

@@ -1,0 +1,23 @@
+Compared Result of  two versions
+Number of New Class: 5
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : de.grogra.xl.compiler.Compiler: 
+new Added class 1 : de.grogra.xl.compiler.pattern.PatternBuilder: 
+new Added class 2 : de.grogra.xl.compiler.pattern.PatternData: 
+new Added class 3 : de.grogra.xl.compiler.pattern.Place: 
+new Added class 4 : de.grogra.xl.compiler.pattern.TraversalData: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:25  r12:2  r13:6  r14:38  r15:0  r16:45  r17:0  
+class 0  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:7  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 2£º  r0:0  r1:0  r2:0  r3:8  r4:0  r5:0  r6:0  r7:0  r8:12  r9:0  r10:6  r11:34  r12:0  r13:22  r14:1  r15:0  r16:1  r17:0  
+class 1  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:14  r12:0  r13:7  r14:1  r15:0  r16:0  r17:0  
+class 1  vs  class 4£º  r0:0  r1:0  r2:0  r3:2  r4:1  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:1  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:4  r11:0  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 3  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:10  r9:0  r10:11  r11:0  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:3  r15:0  r16:2  r17:0  
+class 4  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:3  r17:0  
+class 4  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:11  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  10   4 :  1   5 :  11   6 :  0   7 :  0   8 :  43   9 :  0   10 :  23   11 :  86   12 :  2   13 :  35   14 :  53   15 :  0   16 :  54   17 :  0   

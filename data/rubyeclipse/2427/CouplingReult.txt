@@ -1,0 +1,22 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.aptana.rdt.internal.parser.warnings.AccidentalBooleanAssignmentVisitor: 
+new Added class 1 : com.aptana.rdt.internal.parser.warnings.AndOrUsedOnRighthandAssignment: 
+new Added class 2 : com.aptana.rdt.internal.parser.warnings.CodeComplexityVisitor: 
+new Added class 3 : com.aptana.rdt.internal.parser.warnings.ComparableInclusionVisitor: 
+new Added class 4 : com.aptana.rdt.internal.parser.warnings.EnumerableInclusionVisitor: 
+new Added class 5 : com.aptana.rdt.internal.parser.warnings.LintOptions: 
+new Added class 6 : com.aptana.rdt.internal.parser.warnings.LocalsMaskingMethodsVisitor: 
+new Added class 7 : com.aptana.rdt.internal.parser.warnings.MisspelledConstructorVisitor: 
+new Added class 8 : com.aptana.rdt.internal.parser.warnings.RubyRedLint: 
+new Added class 9 : com.aptana.rdt.RubyRedPlugin: 
+new Added class 10 : com.aptana.rdt.internal.core.RubyRedPreferenceInitializer: 
+new Added class 11 : com.aptana.rdt.internal.parser.warnings.SimilarVariableNameVisitor: 
+new Added class 12 : com.aptana.rdt.internal.parser.warnings.SubclassCallsSuper: 
+new Added class 13 : com.aptana.rdt.internal.parser.warnings.UnecessaryElseVisitor: 
+new Added class 14 : com.aptana.rdt.internal.parser.warnings.UnusedParameterVisitor: 
+new Added class 15 : com.aptana.rdt.internal.parser.warnings.UnusedPrivateMethodVisitor: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

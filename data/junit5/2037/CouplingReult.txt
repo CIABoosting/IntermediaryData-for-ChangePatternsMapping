@@ -1,0 +1,16 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.junit.platform.engine.support.descriptor.DemoClassTestDescriptor: 
+new Added class 1 : org.junit.platform.engine.support.descriptor.DemoMethodTestDescriptor: 
+new Added class 2 : org.junit.platform.runner.JUnitPlatformRunnerTests: 
+new Added class 3 : org.junit.jupiter.engine.descriptor.JupiterTestDescriptor: 
+new Added class 4 : org.junit.jupiter.engine.descriptor.JupiterTestDescriptorTests: 
+new Added class 5 : org.junit.platform.launcher.TestIdentifierTests: 
+new Added class 6 : org.junit.platform.engine.TestTag: 
+new Added class 7 : org.junit.platform.engine.TestTagTests: 
+new Added class 8 : org.junit.vintage.engine.descriptor.VintageTestDescriptor: 
+new Added class 9 : org.junit.vintage.engine.VintageTestEngineDiscoveryTests: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

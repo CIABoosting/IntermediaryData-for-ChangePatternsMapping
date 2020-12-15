@@ -1,0 +1,16 @@
+TranslogStream:0.7766666666666666
+Translog:0.5433333333333333
+ChecksummedTranslogStream:0.2833333333333333
+Index:0.2633333333333333
+TranslogStreams:0.25333333333333335
+Create:0.23
+Delete:0.22333333333333333
+LegacyTranslogStream:0.21333333333333335
+FsTranslog:0.20666666666666667
+TranslogVersionTests:0.20333333333333334
+AbstractSimpleTranslogTests:0.19333333333333333
+BufferingFsTranslogFile:0.19
+SimpleFsTranslogFile:0.16666666666666666
+RecoveryTranslogOperationsRequest:0.16333333333333333
+LocalIndexShardGateway:0.14
+DeleteByQuery:0.12833333333333333

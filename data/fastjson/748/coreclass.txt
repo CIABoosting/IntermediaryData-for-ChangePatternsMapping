@@ -1,0 +1,15 @@
+ParserConfig:0.45666666666666667
+TypeUtils:0.4033333333333333
+DefaultJSONParser:0.4033333333333333
+ThrowableDeserializer:0.3761111111111111
+SerializeWriter:0.355
+JavaBeanDeserializer:0.33
+JSONObjectTest_get_2:0.22888888888888886
+MapDeserializer:0.20944444444444446
+FastJsonConfig:0.19666666666666666
+TypeUtilsTest_castToJavaBean:0.19333333333333333
+AbstractDateDeserializer:0.10333333333333333
+ParserConfigTest:0.08
+ParserConfigBug569:0.07666666666666666
+NotExistsTest:0.043333333333333335
+DenyTest5:0.01

@@ -1,0 +1,11 @@
+MethodCall:0.53
+ArgumentLoader:0.36333333333333334
+TargetHandler:0.26555555555555554
+TerminationHandler:0.25
+ForExistingField:0.22666666666666666
+ForInstanceField:0.22333333333333333
+ForStaticField:0.22333333333333333
+ForMethodParameter:0.2
+MethodCallTest:0.14333333333333334
+DebuggingWrapper:0.056666666666666664
+SelfReference:0.0025

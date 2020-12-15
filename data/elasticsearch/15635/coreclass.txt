@@ -1,0 +1,17 @@
+Version:0.5733333333333334
+ShardUpgradeResponse:0.26
+BlobContainerWrapper:0.25333333333333335
+UpgradeSettingsRequest:0.22666666666666666
+Context:0.19666666666666666
+UpgradeResponse:0.19333333333333333
+TransportUpgradeAction:0.19
+VersionTests:0.18666666666666668
+BlobContainer:0.17833333333333334
+S3BlobStore:0.17333333333333334
+MetaDataIndexUpgradeService:0.13
+MetaDataUpdateSettingsService:0.10666666666666667
+RestUpgradeAction:0.09
+AbstractBlobContainer:0.04
+UpgradeSettingsRequestBuilder:0.03666666666666667
+UpgradeSettingsClusterStateUpdateRequest:0.016666666666666666
+FakeAnalysisService:0.0033333333333333335

@@ -1,0 +1,27 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.sitescape.ef.domain.Attachment: 
+new Added class 1 : com.sitescape.ef.domain.Binder: 
+new Added class 2 : com.sitescape.ef.domain.CustomAttribute: 
+new Added class 3 : com.sitescape.ef.domain.Definition: 
+new Added class 4 : com.sitescape.ef.domain.Event: 
+new Added class 5 : com.sitescape.ef.domain.FolderCounts: 
+new Added class 6 : com.sitescape.ef.domain.FolderEntry: 
+new Added class 7 : com.sitescape.ef.security.function.Function: 
+new Added class 8 : com.sitescape.ef.domain.HistoryMap: 
+new Added class 9 : com.sitescape.ef.domain.Notification: 
+new Added class 10 : com.sitescape.ef.domain.Principal: 
+new Added class 11 : com.sitescape.ef.domain.SeenMap: 
+new Added class 12 : com.sitescape.ef.domain.UserProperties: 
+new Added class 13 : com.sitescape.ef.security.function.WorkAreaFunctionMembership: 
+testing relationship 
+class 1  vs  class 3£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:2  r15:0  r16:0  r17:0  
+class 2  vs  class 0£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 10£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 9  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 10  vs  class 4£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  7   4 :  2   5 :  2   6 :  0   7 :  0   8 :  10   9 :  0   10 :  0   11 :  5   12 :  0   13 :  7   14 :  4   15 :  0   16 :  0   17 :  0   

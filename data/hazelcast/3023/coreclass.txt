@@ -1,0 +1,10 @@
+SocketChannelWrapperFactory:0.88
+IOService:0.7166666666666667
+MockIOService:0.3
+NodeIOService:0.2866666666666667
+ClientConnectionManagerImpl:0.27666666666666667
+TcpIpConnectionManager:0.21166666666666667
+PlainSocketChannelWrapperFactory:0.13666666666666666
+MemberSocketWriterInitializer:0.12666666666666668
+PlainSocketChannelWrapperFactoryTest:0.12666666666666668
+MemberSocketReaderInitializer:0.12333333333333334

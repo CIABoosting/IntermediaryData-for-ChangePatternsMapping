@@ -1,0 +1,8 @@
+Projector:0.45240476190476187
+AggregationProjector:0.3466666666666667
+SortingTopNProjector:0.27
+SingleKeyGrouper:0.24888888888888885
+ManyKeyGrouper:0.24888888888888885
+SimpleTopNProjector:0.16333333333333333
+CollectingProjector:0.15666666666666668
+GroupingProjector:0.13

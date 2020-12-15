@@ -1,0 +1,17 @@
+RegionCache:0.35866666666666663
+DataSerializerHook:0.34777777777777774
+LocalRegionCache:0.3433333333333333
+ReadWriteAccessDelegate:0.31
+Timestamp:0.30666666666666664
+HibernateStatisticsTestSupport:0.23666666666666666
+IMapRegionCache:0.22
+AbstractGeneralRegion:0.19666666666666666
+EvictionEntry:0.18633333333333332
+ReadOnlyAccessDelegate:0.18333333333333332
+AbstractAccessDelegate:0.18
+NonStrictReadWriteAccessDelegate:0.17333333333333334
+HazelcastLocalCacheRegionFactory:0.14666666666666667
+TimestampsRegionCache:0.06666666666666667
+Invalidation:0.05444444444444444
+FactoryIdHelper:0.05
+HazelcastQueryResultsRegionTest:0.0

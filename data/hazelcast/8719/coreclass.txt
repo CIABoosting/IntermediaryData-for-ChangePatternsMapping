@@ -1,0 +1,16 @@
+ClientInvocation:0.48
+ClientSmartInvocationServiceImpl:0.2833333333333333
+ClientConnectionManagerImpl:0.23
+ClientCompletableFuture:0.19666666666666666
+HeartBeat:0.19
+ClientTrackableJob:0.18444444444444444
+ClientCancellableDelegatingFuture:0.12666666666666668
+ClientMapReduceProxy:0.12666666666666668
+ClientJob:0.12333333333333334
+ClientConnectionManager:0.11920634920634922
+ClientConnectionTest:0.03333333333333333
+WaitingCredentials:0.013333333333333334
+ClientAddressCancellableDelegatingFuture:0.0033333333333333335
+ClientPartitionCancellableDelegatingFuture:0.0033333333333333335
+DummySerializableCallable:0.0025
+InitConnectionTask:0.0

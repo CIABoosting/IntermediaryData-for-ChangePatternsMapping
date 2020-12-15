@@ -1,0 +1,11 @@
+DateFieldMapper:0.49
+IndexAliasesTests:0.4633333333333333
+QueryParseContext:0.2733333333333333
+IndexQueryParserFilterDateRangeTimezoneTests:0.2633333333333333
+IndexQueryParserFilterDateRangeFormatTests:0.2633333333333333
+SimpleDateMappingTests:0.21666666666666667
+PercolatorTests:0.19666666666666666
+IndexQueryParserFilterCachingTests:0.13777777777777775
+DecayFunctionParser:0.12666666666666668
+LateParsingQuery:0.11
+LateParsingFilter:0.06

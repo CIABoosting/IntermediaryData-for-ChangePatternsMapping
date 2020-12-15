@@ -1,0 +1,16 @@
+ClientProvider:0.56
+SQLTransportExecutor:0.48
+SQLPlugin:0.27199999999999996
+InformationSchemaTest:0.24
+SQLTransportIntegrationTest:0.21
+PluginLoaderPlugin:0.19666666666666666
+ReadOnlyNodeIntegrationTest:0.19333333333333333
+DefaultSchemaIntegrationTest:0.19
+SQLTypeMappingTest:0.18666666666666668
+OdbcIntegrationTest:0.13333333333333333
+ThreadPoolsExhaustedIntegrationTest:0.1
+JobIntegrationTest:0.09
+ClientNodeIntegrationTest:0.08333333333333333
+ResultSetReceiver:0.07333333333333333
+RowCountReceiver:0.06333333333333334
+BulkRowCountReceiver:0.02666666666666667

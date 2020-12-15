@@ -1,0 +1,16 @@
+TransportSQLActionTest:0.35333333333333333
+Importer:0.3433333333333333
+CreateTableAnalysis:0.3408333333333333
+CrateTestCluster:0.27
+InsertAnalysis:0.26
+DataStatementAnalyzer:0.24666666666666667
+SelectAnalyzerTest:0.23333333333333334
+CreateAlterTableStatementAnalyzerTest:0.22333333333333333
+RestImportActionTest:0.21666666666666667
+CreateTableStatementAnalyzer:0.2
+ImporterTest:0.18666666666666668
+AbstractDataAnalysis:0.18333333333333332
+Constants:0.15
+InsertStatementAnalyzer:0.14333333333333334
+CollectorUpdateRequest:0.07333333333333333
+DocTest:0.07

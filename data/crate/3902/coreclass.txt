@@ -1,0 +1,13 @@
+JobCollectContext:0.5366666666666666
+FileReadingCollector:0.39
+LuceneDocCollector:0.32
+OrderedLuceneDocCollector:0.23333333333333334
+ExecutionSubContextTest:0.21333333333333335
+FileReadingCollectorTest:0.21333333333333335
+FileCollectSource:0.17888888888888888
+ShardCollectService:0.13333333333333333
+MapSideDataCollectOperationTest:0.12
+JobCollectContextTest:0.11333333333333333
+MultiContextCallback:0.11111111111111109
+MultiContextCallbackTest:0.05
+RemoveContextCallback:0.04

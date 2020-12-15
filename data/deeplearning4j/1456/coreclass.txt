@@ -1,0 +1,11 @@
+LayerMemoryReport:0.58
+MemoryReport:0.47
+Builder:0.27
+CenterLossOutputLayer:0.23
+SubsamplingLayer:0.22333333333333333
+ActivationLayer:0.21666666666666667
+ZeroPaddingLayer:0.21666666666666667
+DropoutLayer:0.21666666666666667
+NetworkMemoryReport:0.14333333333333334
+DenseLayer:0.13
+BaseOutputLayer:0.10666666666666667

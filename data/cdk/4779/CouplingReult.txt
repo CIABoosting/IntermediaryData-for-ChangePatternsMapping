@@ -1,0 +1,42 @@
+Compared Result of  two versions
+Number of New Class: 30
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdkweb.AdminPanel: 
+new Added class 1 : org.openscience.cdkweb.om.BaseDBAtomPeer: 
+new Added class 2 : org.openscience.cdkweb.om.BaseDBBondDBAtomPeer: 
+new Added class 3 : org.openscience.cdkweb.om.BaseDBBondPeer: 
+new Added class 4 : org.openscience.cdkweb.om.BaseDBCanonicalNamePeer: 
+new Added class 5 : org.openscience.cdkweb.om.BaseDBCanonicalNameTypePeer: 
+new Added class 6 : org.openscience.cdkweb.om.BaseDBCoordinateSet2dPeer: 
+new Added class 7 : org.openscience.cdkweb.om.BaseDBCoordinateSet3dPeer: 
+new Added class 8 : org.openscience.cdkweb.om.BaseDBCoordinateSetTypePeer: 
+new Added class 9 : org.openscience.cdkweb.om.BaseDBKeywordPeer: 
+new Added class 10 : org.openscience.cdkweb.om.BaseDBMolecule: 
+new Added class 11 : org.openscience.cdkweb.om.BaseDBMoleculeDBKeywordPeer: 
+new Added class 12 : org.openscience.cdkweb.om.BaseDBMoleculeHyperlinkPeer: 
+new Added class 13 : org.openscience.cdkweb.om.BaseDBMoleculePeer: 
+new Added class 14 : org.openscience.cdkweb.om.map.DBAtomMapBuilder: 
+new Added class 15 : org.openscience.cdkweb.om.map.DBBondDBAtomMapBuilder: 
+new Added class 16 : org.openscience.cdkweb.om.map.DBBondMapBuilder: 
+new Added class 17 : org.openscience.cdkweb.om.map.DBCanonicalNameMapBuilder: 
+new Added class 18 : org.openscience.cdkweb.om.map.DBCanonicalNameTypeMapBuilder: 
+new Added class 19 : org.openscience.cdkweb.om.map.DBChemicalNameMapBuilder: 
+new Added class 20 : org.openscience.cdkweb.om.map.DBCoordinateSet2dMapBuilder: 
+new Added class 21 : org.openscience.cdkweb.om.map.DBCoordinateSet3dMapBuilder: 
+new Added class 22 : org.openscience.cdkweb.om.map.DBCoordinateSetTypeMapBuilder: 
+new Added class 23 : org.openscience.cdkweb.om.map.DBKeywordMapBuilder: 
+new Added class 24 : org.openscience.cdkweb.om.DBMolecule: 
+new Added class 25 : org.openscience.cdkweb.om.map.DBMoleculeDBKeywordMapBuilder: 
+new Added class 26 : org.openscience.cdkweb.om.map.DBMoleculeHyperlinkMapBuilder: 
+new Added class 27 : org.openscience.cdkweb.om.map.DBMoleculeMapBuilder: 
+new Added class 28 : org.openscience.cdkweb.util.GeneralUtils: 
+new Added class 29 : org.openscience.cdkweb.modules.actions.portlets.InputAction: 
+testing relationship 
+class 1  vs  class 24£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 24£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 24£º  r0:0  r1:0  r2:0  r3:7  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:30  r15:0  r16:0  r17:0  
+class 11  vs  class 24£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 24£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 24£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:5  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:60  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  17   4 :  0   5 :  7   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  32   12 :  0   13 :  0   14 :  90   15 :  0   16 :  0   17 :  0   

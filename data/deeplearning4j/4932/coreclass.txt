@@ -1,0 +1,8 @@
+MultiLayerNetwork:0.66
+Builder:0.5366666666666666
+WeightInitUtilTest:0.25
+NeuralNetConfigurationTest:0.24666666666666667
+OutputLayerTest:0.20333333333333334
+BatchNormalizationTest:0.16666666666666666
+GravesLSTMTest:0.13333333333333333
+GravesBidirectionalLSTMTest:0.12666666666666668

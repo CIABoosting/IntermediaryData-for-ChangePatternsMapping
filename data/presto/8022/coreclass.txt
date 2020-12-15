@@ -1,0 +1,13 @@
+HiveSplitSource:0.36333333333333334
+LocalQueryRunner:0.3566666666666667
+RaptorSplitManager:0.3333333333333333
+AbstractTestHiveClient:0.27
+TestCassandraConnector:0.24666666666666667
+AbstractTestHiveClientS3:0.24666666666666667
+TestingDatabase:0.23666666666666666
+SqlStageExecution:0.21333333333333335
+FixedSplitSource:0.19
+TestJmxSplitManager:0.13666666666666666
+TestRaptorSplitManager:0.13333333333333333
+TestHiveSplitSource:0.11333333333333333
+TestJdbcRecordSetProvider:0.10666666666666667

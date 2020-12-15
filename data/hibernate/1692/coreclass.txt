@@ -1,0 +1,11 @@
+Lock:0.52
+Item:0.41
+JCacheTransactionalDataRegion:0.2966666666666667
+JCacheRegionAccessStrategy:0.24666666666666667
+JCacheRegionFactory:0.2352777777777778
+AbstractReadWriteRegionAccessStrategy:0.20666666666666667
+NonStrictEntityRegionAccessStrategy:0.17333333333333334
+ReadWriteNaturalIdRegionAccessStrategy:0.16333333333333333
+ReadWriteEntityRegionAccessStrategy:0.16333333333333333
+NonStrictCollectionRegionAccessStrategy:0.04
+JCacheMessageLogger:0.04

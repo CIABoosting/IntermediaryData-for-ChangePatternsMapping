@@ -1,0 +1,13 @@
+MapDataSerializerHook:0.33666666666666667
+EvictBackupOperation:0.32
+TxnRollbackOperation:0.30666666666666664
+RemoveBackupOperation:0.27666666666666667
+PutBackupOperation:0.25416666666666665
+TxnPrepareOperation:0.25333333333333335
+GetOperation:0.24944444444444447
+TxnPrepareBackupOperation:0.22277777777777777
+GetEntryViewOperation:0.20333333333333334
+BasePutOperation:0.19333333333333333
+BaseRemoveOperation:0.16
+ContainsKeyOperation:0.14
+MapRemoveFailingBackupTest:0.09333333333333334

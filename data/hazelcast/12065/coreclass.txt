@@ -1,0 +1,16 @@
+ClientInvocation:0.66
+ClientRegressionTest:0.41333333333333333
+ClientClusterServiceImpl:0.39
+InternalPartitionServiceImpl:0.37333333333333335
+MigrationThread:0.27111111111111114
+ClientPartitionServiceImpl:0.25666666666666665
+HazelcastClientInstanceImpl:0.19666666666666666
+GetPartitionsRequest:0.19
+ClientInvocationServiceSupport:0.18
+ClientMapReduceProxy:0.17666666666666667
+RefreshTask:0.14833333333333334
+ClusterListenerSupport:0.14333333333333334
+ClientJob:0.11333333333333333
+ClusterDataSerializerHook:0.11333333333333333
+SyncReplicaVersionTask:0.11
+RegisterMembershipListenerRequest:0.055

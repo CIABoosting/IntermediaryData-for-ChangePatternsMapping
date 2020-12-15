@@ -1,0 +1,15 @@
+NodeFetchOperation:0.31
+LuceneDocCollectorTest:0.23666666666666666
+ShardCollectService:0.225
+LuceneDocCollectorBenchmark:0.21333333333333335
+LocalCollectOperation:0.21
+LocalDataCollectTest:0.20666666666666667
+SQLPlugin:0.18666666666666668
+CollectOperationModule:0.13
+NodeFetchOperationTest:0.10666666666666667
+MapSideDataCollectOperation:0.09333333333333334
+MapSideDataCollectOperationTest:0.08666666666666667
+TransportCloseContextNodeAction:0.03333333333333333
+TransportFetchNodeAction:0.02666666666666667
+DistributingCollectOperation:0.01
+NonDistributingCollectOperation:0.006666666666666667

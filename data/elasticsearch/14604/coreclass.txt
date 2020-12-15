@@ -1,0 +1,16 @@
+SimpleIndexQueryParserTests:0.48333333333333334
+FunctionScoreQuery:0.3333333333333333
+FiltersFunctionScoreQuery:0.32
+Security:0.2733333333333333
+FunctionFactorScorer:0.22
+DecayFunctionScoreIT:0.22
+CustomBoostFactorScorer:0.21333333333333335
+FunctionScoreIT:0.19666666666666666
+CustomFieldQuery:0.18333333333333332
+LateParsingQuery:0.17833333333333334
+MultiPhrasePrefixQuery:0.17333333333333334
+CustomBoostFactorWeight:0.17166666666666666
+FiltersFunctionFactorScorer:0.16333333333333333
+CustomWeightedSpanTermExtractor:0.09333333333333334
+AllTermQuery:0.07
+DirectBufferNetworkIT:0.03666666666666667

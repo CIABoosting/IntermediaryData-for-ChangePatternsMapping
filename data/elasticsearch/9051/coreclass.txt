@@ -1,0 +1,8 @@
+AsyncIndexBySearchAction:0.30333333333333334
+AsyncBulkByScrollActionTests:0.2733333333333333
+AbstractAsyncBulkByScrollAction:0.24666666666666667
+AbstractAsyncBulkIndexByScrollAction:0.24
+DummyAbstractAsyncBulkByScrollAction:0.1988888888888889
+TransportReindexAction:0.17
+TransportUpdateByQueryAction:0.17
+MyMockClient:0.08

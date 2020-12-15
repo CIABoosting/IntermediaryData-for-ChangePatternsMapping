@@ -1,0 +1,17 @@
+MapContainer:0.59
+MapService:0.48
+ForceUnlockOperation:0.28
+LockOperation:0.28
+TryLockOperation:0.28
+UnlockOperation:0.28
+MapRecordStateOperation:0.26666666666666666
+MapProxySupport:0.25333333333333335
+BasePutOperation:0.23666666666666666
+EntryOperation:0.22333333333333333
+EvictOperation:0.21
+BaseRemoveOperation:0.20666666666666667
+DefaultRecordStore:0.20666666666666667
+AddIndexOperation:0.18666666666666668
+AddInterceptorOperation:0.17
+RemoveInterceptorOperation:0.17
+MapEvictTask:0.13666666666666666

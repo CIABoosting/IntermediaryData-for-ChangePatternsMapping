@@ -1,0 +1,39 @@
+Compared Result of  two versions
+Number of New Class: 33
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.server.model.helpers.AbstractWidgetTest: 
+new Added class 1 : arinc661.server.model.stdrenderer.ActiveAreaRendererTest: 
+new Added class 2 : arinc661.server.model.helpers.BehaviorHelperTest: 
+new Added class 3 : arinc661.server.model.stdrenderer.BlinkingContainerTest: 
+new Added class 4 : arinc661.server.model.stdrenderer.CursorOverRendererTest: 
+new Added class 5 : arinc661.appli.writer.DefaultXMLExporterTest: 
+new Added class 6 : arinc661.server.parser.DFHandlerTest: 
+new Added class 7 : arinc661.javafx.behaviors.DFHandlerWithJFXBehavior2Test: 
+new Added class 8 : arinc661.appli.editor.EditorOpenDF2Test: 
+new Added class 9 : arinc661.appli.editor.EditorOpenDFSynthTest: 
+new Added class 10 : arinc661.server.extensions.Extension2Test: 
+new Added class 11 : arinc661.server.extensions.Extension8Test: 
+new Added class 12 : arinc661.javafx.server.extensions.ExtensionFXMLTest: 
+new Added class 13 : arinc661.javafx.server.extensions.ExtensionServer14Test: 
+new Added class 14 : arinc661.server.model.focus.Focus2Test: 
+new Added class 15 : arinc661.server.model.focus.FocusTest: 
+new Added class 16 : arinc661.javafx.editor.JFXEditorOpenDFTest: 
+new Added class 17 : arinc661.javafx.gestures.JFXGesturesTest: 
+new Added class 18 : arinc661.appli.editor.LayerTreeEditorCopyPaste3Test: 
+new Added class 19 : arinc661.appli.editor.LayerTreeEditorCopyPaste4Test: 
+new Added class 20 : arinc661.appli.editor.LayerTreeEditorCopyPaste5Test: 
+new Added class 21 : arinc661.appli.editor.LayerTreeEditorCopyPasteAllowTest: 
+new Added class 22 : arinc661.appli.editor.LayerTreeEditorCreate1Test: 
+new Added class 23 : arinc661.server.model.stdrenderer.MultiStateButtonRendererTest: 
+new Added class 24 : arinc661.server.parser.ServerBinaryDFHandler_6Test: 
+new Added class 25 : arinc661.server.wm.ServerCockpitMultiAppli2_Test: 
+new Added class 26 : arinc661.server.wm.ServerCockpitMultiAppli3_Test: 
+new Added class 27 : arinc661.server.wm.ServerCockpitMultiAppli4_Test: 
+new Added class 28 : arinc661.server.wm.ServerCockpitMultiAppli5_Test: 
+new Added class 29 : arinc661.server.wm.ServerCockpitMultiLayerTest: 
+new Added class 30 : arinc661.server.model.stdrenderer.SizeToFitContainerRendererTest: 
+new Added class 31 : arinc661.server.model.helpers.synthetic.SyntheticWidgetTest: 
+new Added class 32 : arinc661.server.model.stdrenderer.ToggleButtonRendererTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,13 @@
+PersistentDateTime:0.38
+PersistentLocalDateTime:0.25
+PersistentInstantAsBigInt:0.25
+AbstractStringBasedJodaType:0.25
+PersistentYearMonthDay:0.25
+PersistentLocalDate:0.25
+PersistentLocalTimeAsTime:0.25
+PersistentTimeOfDay:0.25
+PersistentLocalTimeAsString:0.25
+PersistentLocalTimeExact:0.25
+PersistentInstant:0.25
+PersistentDateTimeTZ:0.23333333333333334
+PersistentInterval:0.17666666666666667

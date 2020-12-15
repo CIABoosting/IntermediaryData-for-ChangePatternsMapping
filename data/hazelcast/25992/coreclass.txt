@@ -1,0 +1,15 @@
+MapClientProxy:0.38666666666666666
+ClientEndpoint:0.34
+HazelcastClient:0.32
+HazelcastClientMapTest:0.2733333333333333
+MapLockHandler:0.25666666666666665
+CollectionProxyImpl:0.21
+ListenerManager:0.21
+DestroyHandler:0.20666666666666667
+RemoveListenerHandler:0.17
+AddListenerHandler:0.15111111111111108
+ClientService:0.12333333333333334
+ClientMapOperationHandler:0.11333333333333333
+ClientProxy:0.07333333333333333
+HazelcastClientListTest:0.07
+ListAddHandler:0.03222222222222222

@@ -1,0 +1,15 @@
+PartitionIteratingOperation:0.47
+AbstractInvocationFuture:0.3566666666666667
+LockServiceImpl:0.27
+TaskPollThread:0.2530555555555556
+ReplicateUpdateToCallerOperation:0.22333333333333333
+ManagementCenterService:0.21777777777777776
+ClientRegressionWithMockNetworkTest:0.19333333333333333
+PartitionResponse:0.18444444444444444
+RequestMapDataOperation:0.17166666666666666
+SyncReplicatedMapDataOperation:0.15
+ReplicationOperation:0.15
+ReplicateUpdateOperation:0.14
+InvokeOnPartitions:0.07583333333333334
+CheckReplicaVersion:0.06666666666666667
+ResponseQueue:0.016666666666666666

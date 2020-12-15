@@ -1,0 +1,9 @@
+RewriteCandidateGatherer:0.45666666666666667
+SemiJoins:0.32666666666666666
+AntiJoinCandidate:0.2897619047619048
+SemiJoinsTest:0.26
+GatherRewriteCandidatesContext:0.1943968253968254
+Candidate:0.15
+NestedLoopOperation:0.14666666666666667
+JoinPairs:0.14666666666666667
+SemiJoinCandidate:0.02805555555555556

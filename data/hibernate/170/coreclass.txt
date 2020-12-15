@@ -1,0 +1,17 @@
+AbstractEntityPersister:0.5166666666666667
+Join:0.44
+JoinFragment:0.4033333333333333
+EntityType:0.32
+MultiSingleTableLoadTest:0.26555555555555554
+JoinSequence:0.25666666666666665
+SessionFactoryHelper:0.25333333333333335
+DotNode:0.22333333333333333
+LoadQueryJoinAndFetchProcessor:0.19
+QueryJoinFragment:0.18333333333333332
+ManyToOneType:0.17333333333333334
+SpecialOneToOneType:0.17333333333333334
+OneToOneType:0.17333333333333334
+OracleJoinFragment:0.17
+Sybase11JoinFragment:0.17
+ANSIJoinFragment:0.17
+AbstractPropertyMapping:0.14666666666666667

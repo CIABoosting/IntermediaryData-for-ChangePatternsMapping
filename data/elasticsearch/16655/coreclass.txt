@@ -1,0 +1,16 @@
+ShardRouting:0.7166666666666667
+MutableShardRouting:0.44333333333333336
+Builder:0.36666666666666664
+ImmutableShardRouting:0.35333333333333333
+AllocationService:0.32
+FailedShardsRoutingTests:0.14
+GatewayAllocator:0.13666666666666666
+IndicesStoreTests:0.13666666666666666
+ShardStateAction:0.13666666666666666
+CancelAllocationCommand:0.13666666666666666
+MetaDataIndexStateService:0.11
+RestShardsAction:0.10333333333333333
+FailedRerouteAllocation:0.08666666666666667
+AllocateDangledRequestHandler:0.08333333333333333
+FailedShard:0.07226984126984128
+RoutingNodeIterator:0.07

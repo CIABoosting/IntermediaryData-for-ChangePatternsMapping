@@ -1,0 +1,102 @@
+Compared Result of  two versions
+Number of New Class: 74
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.neotropic.inventory.modules.ipam.nodes.ActionlessIPAMRootNode: 
+new Added class 1 : org.kuwaiba.core.config.variables.nodes.actions.AddConfigurationVariableAction: 
+new Added class 2 : com.neotropic.inventory.modules.ipam.nodes.actions.AddIPAddressAction: 
+new Added class 3 : org.inventory.navigation.favorites.actions.AddObjectToFavoritesFolderAction: 
+new Added class 4 : com.neotropic.inventory.modules.projects.actions.AddProjectAction: 
+new Added class 5 : com.neotropic.inventory.modules.bgp.scene.BGPModuleScene: 
+new Added class 6 : org.inventory.views.objectview.scene.ChildrenViewScene: 
+new Added class 7 : org.kuwaiba.core.config.variables.nodes.ConfigurationVariablesPoolNode: 
+new Added class 8 : org.inventory.models.physicalconnections.actions.ConfigureConnectorMatchingAction: 
+new Added class 9 : org.inventory.models.physicalconnections.actions.ConnectMirrorPortAction: 
+new Added class 10 : org.inventory.models.physicalconnections.actions.ConnectMultipleMirrorPortAction: 
+new Added class 11 : com.neotropic.inventory.modules.contracts.nodes.ContractNode: 
+new Added class 12 : org.inventory.navigation.navigationtree.nodes.actions.CreateBusinessObjectAction: 
+new Added class 13 : org.inventory.navigation.navigationtree.nodes.actions.CreateMultipleBusinessObjectAction: 
+new Added class 14 : org.inventory.core.templates.nodes.actions.CreateMultipleSpecialTemplateElementAction: 
+new Added class 15 : org.inventory.core.templates.nodes.actions.CreateMultipleTemplateElementAction: 
+new Added class 16 : org.inventory.models.physicalconnections.actions.CreatePhysicalConnectionAction: 
+new Added class 17 : org.inventory.navigation.special.children.nodes.actions.CreateSpecialBusinessObjectFromTemplateAction: 
+new Added class 18 : com.neotropic.inventory.modules.ipam.nodes.actions.CreateSubnetAction: 
+new Added class 19 : org.kuwaiba.core.config.variables.nodes.actions.DeleteConfigurationVariablesPoolAction: 
+new Added class 20 : org.kuwaiba.management.services.nodes.actions.DeleteCustomerAction: 
+new Added class 21 : org.kuwaiba.management.services.nodes.actions.DeleteServiceAction: 
+new Added class 22 : org.inventory.core.templates.nodes.actions.DeleteTemplateElementAction: 
+new Added class 23 : org.inventory.core.templates.layouts.DeviceLayoutImporter: 
+new Added class 24 : org.inventory.core.templates.layouts.DeviceLayoutRenderer: 
+new Added class 25 : org.inventory.core.templates.layouts.scene.DeviceLayoutScene: 
+new Added class 26 : org.inventory.core.templates.layouts.DeviceLayoutStructure: 
+new Added class 27 : com.neotropic.inventory.modules.sync.nodes.properties.DeviceTypeProperty: 
+new Added class 28 : org.inventory.core.templates.nodes.actions.EditLayoutAction: 
+new Added class 29 : org.inventory.models.physicalconnections.actions.EditLinkEndpointsAction: 
+new Added class 30 : com.neotropic.inventory.modules.mpls.actions.EditMPLSLinkEndpointsAction: 
+new Added class 31 : org.inventory.core.visual.scene.EmptyNodeWidget: 
+new Added class 32 : org.kuwaiba.management.services.views.endtoend.EndToEndViewScene: 
+new Added class 33 : org.inventory.navigation.favorites.nodes.FavoritesFolderNode: 
+new Added class 34 : org.inventory.navigation.special.relationships.GraphicalRepSpecialRelationshipService: 
+new Added class 35 : com.neotropic.inventory.modules.ipam.IPAMModuleService: 
+new Added class 36 : com.neotropic.inventory.modules.ipam.nodes.IPAMRootNode: 
+new Added class 37 : org.inventory.communications.core.LocalObjectListItem: 
+new Added class 38 : com.neotropic.inventory.modules.mpls.scene.MPLSModuleScene: 
+new Added class 39 : com.neotropic.inventory.modules.mpls.providers.MPLSSceneAcceptProvider: 
+new Added class 40 : org.inventory.models.physicalconnections.wizards.NewContainerWizard: 
+new Added class 41 : org.inventory.models.physicalconnections.wizards.NewLinkWizard: 
+new Added class 42 : com.neotropic.inventory.modules.sync.nodes.properties.NoneObject: 
+new Added class 43 : com.neotropic.inventory.modules.projects.nodes.ProjectChildren: 
+new Added class 44 : org.inventory.views.rackview.RackViewService: 
+new Added class 45 : com.neotropic.inventory.modules.ipam.nodes.actions.RelateEndPointToIPAddressAction: 
+new Added class 46 : com.neotropic.inventory.modules.contracts.nodes.actions.RelateToContractAction: 
+new Added class 47 : com.neotropic.inventory.modules.projects.actions.RelateToProjectAction: 
+new Added class 48 : org.kuwaiba.management.services.nodes.actions.RelateToServiceAction: 
+new Added class 49 : com.neotropic.inventory.modules.warehouses.nodes.actions.RelateToVirtualWarehouseAction: 
+new Added class 50 : com.neotropic.inventory.modules.warehouses.nodes.actions.RelateToWarehouseAction: 
+new Added class 51 : com.neotropic.inventory.modules.ipam.nodes.actions.ReleaseEndPointFromInterface: 
+new Added class 52 : com.neotropic.inventory.modules.ipam.nodes.actions.ReleaseEndPointFromIPAddresAction: 
+new Added class 53 : com.neotropic.inventory.modules.contracts.nodes.actions.ReleaseFromContractAction: 
+new Added class 54 : com.neotropic.inventory.modules.projects.actions.ReleaseFromProject: 
+new Added class 55 : org.kuwaiba.management.services.nodes.actions.ReleaseFromServiceAction: 
+new Added class 56 : com.neotropic.inventory.modules.warehouses.nodes.actions.ReleaseFromWarehouseAction: 
+new Added class 57 : com.neotropic.inventory.modules.ipam.nodes.actions.ReleaseGenericPortFromInterfaceAction: 
+new Added class 58 : com.neotropic.inventory.modules.ipam.nodes.actions.ReleaseIPFromBDIInterfaceAction: 
+new Added class 59 : com.neotropic.inventory.modules.ipam.nodes.actions.ReleaseSubnetFromVFRAction: 
+new Added class 60 : com.neotropic.inventory.modules.ipam.nodes.actions.ReleaseSubnetFromVlanAction: 
+new Added class 61 : com.neotropic.inventory.modules.ipam.nodes.actions.ReleaseVFRFromVlanAction: 
+new Added class 62 : org.inventory.navigation.favorites.actions.RemoveObjectFromFavoritesFolderAction: 
+new Added class 63 : com.neotropic.inventory.modules.sync.nodes.actions.RunSynchronizationProcessAction: 
+new Added class 64 : com.neotropic.inventory.modules.sdh.scene.SDHModuleScene: 
+new Added class 65 : org.kuwaiba.management.services.nodes.ServiceNode: 
+new Added class 66 : org.kuwaiba.management.services.windows.ServicesFrame: 
+new Added class 67 : org.inventory.navigation.special.relationships.nodes.SpecialRelatedObjectNode: 
+new Added class 68 : com.neotropic.inventory.modules.ipam.nodes.SubnetNode: 
+new Added class 69 : com.neotropic.inventory.modules.ipam.nodes.SubnetPoolNode: 
+new Added class 70 : com.neotropic.inventory.modules.sync.nodes.actions.windows.SyncActionsFrame: 
+new Added class 71 : com.neotropic.inventory.modules.sync.nodes.SyncDataSourceConfigurationNode: 
+new Added class 72 : org.inventory.core.templates.nodes.TemplateElementNode: 
+new Added class 73 : org.kuwaiba.management.services.views.topology.TopologyViewScene: 
+testing relationship 
+class 2  vs  class 68£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 72£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 72£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 68£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 69£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 72£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 23  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 24  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 37£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:8  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:8  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 26  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 71£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 28  vs  class 37£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 72£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 55  vs  class 65£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 65  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 68  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 68  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 72  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  5   4 :  4   5 :  3   6 :  10   7 :  0   8 :  13   9 :  0   10 :  2   11 :  50   12 :  0   13 :  4   14 :  8   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,16 @@
+RepairingTask:0.3933333333333333
+HttpPostCommandProcessor:0.27666666666666667
+Diagnostics:0.2733333333333333
+WriteBehindStore:0.27
+DiagnosticsLogFile:0.2519444444444444
+AbstractWriteBehindProcessor:0.21333333333333335
+ClientProxy:0.2
+ConfigValidator:0.19666666666666666
+NearCachedClientMapProxy:0.18
+AbstractClientInternalCacheProxy:0.17
+AbstractMapDataStore:0.15666666666666668
+ConnectedServerVersionAwareNearCacheEventHandler:0.10666666666666667
+RepairableNearCacheEventHandler:0.08
+DiagnosticsTest:0.03666666666666667
+HandlerConstructor:0.016666666666666666
+HttpCommandProcessor:0.0

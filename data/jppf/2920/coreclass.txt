@@ -1,0 +1,17 @@
+Task:0.7166666666666667
+NodeExecutionManager:0.2525
+AbstractTask:0.25
+NodeExecutionManagerImpl:0.24666666666666667
+TaskExecutionListener:0.17700000000000002
+TestJPPFNodeTaskMonitorMBean:0.17333333333333334
+DelegatingNodeListener:0.15333333333333332
+JPPFScreenSaverImpl:0.14
+JPPFNodeTaskMonitor:0.13833333333333334
+NodeNotificationListener:0.10666666666666667
+ErrorLifeCycleTask:0.09666666666666666
+JPPFNodeTaskMonitorProvider:0.09333333333333334
+TaskExecutionEvent:0.07333333333333333
+TaskExecutionDispatcher:0.05
+NodeIntegrationAdapter:0.04
+TaskExecutionNotification:0.03666666666666667
+NotificationSender:0.013333333333333334

@@ -1,0 +1,13 @@
+JdbcCursorItemReader:0.39
+FlatFileItemReader:0.32
+CommonItemStreamItemReaderTests:0.30333333333333334
+StaxEventItemReader:0.24333333333333335
+CommonItemReaderTests:0.21666666666666667
+DrivingQueryItemReader:0.19333333333333333
+AbstractBufferedItemReaderItemStream:0.18333333333333332
+UnmarshallingEventReaderDeserializer:0.14
+ValidatingItemReader:0.13666666666666666
+DelegatingItemReader:0.09
+ItemReaderRepeatCallback:0.08333333333333333
+ListItemReader:0.006666666666666667
+ItemProviderTests:0.0

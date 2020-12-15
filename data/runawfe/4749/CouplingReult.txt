@@ -1,0 +1,69 @@
+Compared Result of  two versions
+Number of New Class: 36
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : ru.runa.wfe.service.client.AdminScriptClient: 
+new Added class 1 : ru.runa.wfe.service.AdminScriptService: 
+new Added class 2 : ru.runa.wfe.service.AdminScriptUtils: 
+new Added class 3 : ru.runa.wfe.audit.logic.AuditLogic: 
+new Added class 4 : ru.runa.wfe.service.AuthenticationService: 
+new Added class 5 : ru.runa.wfe.service.AuthorizationService: 
+new Added class 6 : ru.runa.wfe.service.BotService: 
+new Added class 7 : ru.runa.wfe.commons.calendar.impl.BusinessCalendarImpl: 
+new Added class 8 : ru.runa.wfe.service.DefinitionService: 
+new Added class 9 : ru.runa.wfe.service.delegate.Delegates: 
+new Added class 10 : ru.runa.wfe.service.ExecutionService: 
+new Added class 11 : ru.runa.wfe.service.ExecutorService: 
+new Added class 12 : ru.runa.wfe.service.impl.ExecutorServiceBean: 
+new Added class 13 : ru.runa.wfe.service.delegate.ExecutorServiceDelegate: 
+new Added class 14 : ru.runa.wfe.commons.ftl.FreemarkerConfiguration: 
+new Added class 15 : ru.runa.common.web.InitializeDBListener: 
+new Added class 16 : ru.runa.wfe.commons.logic.InitializerLogic: 
+new Added class 17 : ru.runa.wfe.service.InitializerService: 
+new Added class 18 : ru.runa.wfe.service.impl.InitializerServiceBean: 
+new Added class 19 : ru.runa.wfe.service.delegate.InitializerServiceDelegate: 
+new Added class 20 : ru.runa.wfe.service.client.LDAPImporterClient: 
+new Added class 21 : ru.runa.wfe.service.LDAPSynchronizerService: 
+new Added class 22 : ru.runa.wfe.service.impl.LDAPSynchronizerServiceBean: 
+new Added class 23 : ru.runa.wfe.service.delegate.LDAPSynchronizerServiceDelegate: 
+new Added class 24 : ru.runa.af.web.action.LoginAction: 
+new Added class 25 : ru.runa.af.web.action.LogoutAction: 
+new Added class 26 : ru.runa.wfe.service.client.ProcessDefinitionsMassUpdate: 
+new Added class 27 : ru.runa.wfe.service.ProfileService: 
+new Added class 28 : ru.runa.wfe.service.RelationService: 
+new Added class 29 : ru.runa.wfe.ss.Substitution: 
+new Added class 30 : ru.runa.wfe.ss.SubstitutionCriteria: 
+new Added class 31 : ru.runa.wfe.service.SubstitutionService: 
+new Added class 32 : ru.runa.wfe.service.SystemService: 
+new Added class 33 : ru.runa.wfe.service.impl.SystemServiceBean: 
+new Added class 34 : ru.runa.wfe.service.delegate.SystemServiceDelegate: 
+new Added class 35 : ru.runa.wfe.service.delegate.WfeScriptForBotStations: 
+testing relationship 
+class 9  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 28£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 31£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 11£º  r0:0  r1:0  r2:1  r3:1  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 17£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 17£º  r0:0  r1:0  r2:1  r3:1  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 21£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 21£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 33  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 32£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  6   3 :  2   4 :  0   5 :  18   6 :  8   7 :  0   8 :  5   9 :  0   10 :  3   11 :  1   12 :  0   13 :  1   14 :  1   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,13 @@
+InstallService:0.5266666666666666
+DatabaseConfig:0.51
+InstallServiceImpl:0.37333333333333335
+InstallServiceAsync:0.24666666666666667
+ConfigWizard:0.21666666666666667
+ConfigSummaryPage:0.19
+InitialConfigPage:0.18166666666666667
+SaveConfigCallback:0.08222222222222221
+CreateDatabaseCallback:0.08222222222222221
+UpdateDatabaseCallback:0.08222222222222221
+StartFilrCallback:0.06333333333333334
+ReconfigureCallback:0.04666666666666667
+MarkDeploymentDoneCallback:0.03916666666666667

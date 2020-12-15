@@ -1,0 +1,13 @@
+PooledLdapConnectionFactoryMonitor:0.38333333333333336
+JdbcDataSourceMonitor:0.32
+AbstractPoolMonitor:0.25666666666666665
+AbstractCacheMonitorTests:0.22333333333333333
+MemcachedMonitor:0.11466666666666667
+AbstractPoolMonitorTests:0.11333333333333333
+CasJdbcMonitorConfiguration:0.10666666666666667
+EhCacheMonitor:0.10466666666666664
+HazelcastMonitor:0.09488888888888888
+LdapMonitorConfiguration:0.08666666666666667
+DataSourceMonitorTests:0.08666666666666667
+AbstractCacheMonitor:0.05543650793650793
+AbstractNamedMonitor:0.013333333333333334

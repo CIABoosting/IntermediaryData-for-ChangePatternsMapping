@@ -1,0 +1,54 @@
+Compared Result of  two versions
+Number of New Class: 30
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.jumpmind.symmetric.db.AbstractDatabasePlatform: 
+new Added class 1 : org.jumpmind.symmetric.db.AbstractDbDialectUnitTest: 
+new Added class 2 : org.jumpmind.symmetric.db.sql.AbstractSqlTemplate: 
+new Added class 3 : org.jumpmind.symmetric.map.AddColumnsFilter: 
+new Added class 4 : org.jumpmind.symmetric.map.ChangeColumnsNamesFilter: 
+new Added class 5 : org.jumpmind.symmetric.db.sql.ColumnNotFoundException: 
+new Added class 6 : org.jumpmind.symmetric.db.DatabaseOperationException: 
+new Added class 7 : org.jumpmind.symmetric.db.DatabasePlatformInfo: 
+new Added class 8 : org.jumpmind.symmetric.extract.DataExtractorTest: 
+new Added class 9 : org.jumpmind.symmetric.db.DdlUtilsException: 
+new Added class 10 : org.jumpmind.symmetric.db.sql.DmlStatement: 
+new Added class 11 : org.jumpmind.symmetric.db.IDatabasePlatform: 
+new Added class 12 : org.jumpmind.symmetric.db.sql.ISqlReadCursor: 
+new Added class 13 : org.jumpmind.symmetric.db.sql.ISqlRowMapper: 
+new Added class 14 : org.jumpmind.symmetric.db.sql.ISqlTemplate: 
+new Added class 15 : org.jumpmind.symmetric.db.sql.ISqlTransaction: 
+new Added class 16 : org.jumpmind.symmetric.db.JdbcDatabasePlatformFactory: 
+new Added class 17 : org.jumpmind.symmetric.db.sql.Query: 
+new Added class 18 : org.jumpmind.symmetric.map.RemoveColumnsFilter: 
+new Added class 19 : org.jumpmind.symmetric.db.sql.Row: 
+new Added class 20 : org.jumpmind.symmetric.test.SimpleIntegrationTest: 
+new Added class 21 : org.jumpmind.symmetric.db.sql.SqlConstants: 
+new Added class 22 : org.jumpmind.symmetric.db.sql.SqlException: 
+new Added class 23 : org.jumpmind.symmetric.db.sql.SqlScript: 
+new Added class 24 : org.jumpmind.symmetric.db.sql.SqlScriptException: 
+new Added class 25 : org.jumpmind.symmetric.db.SqlScriptUnitTest: 
+new Added class 26 : org.jumpmind.symmetric.SymmetricLauncher: 
+new Added class 27 : org.jumpmind.symmetric.integrate.TemplatedPublisherDataLoaderFilter: 
+new Added class 28 : org.jumpmind.symmetric.test.TestSetupUtil: 
+new Added class 29 : org.jumpmind.symmetric.service.impl.TriggerRouterServiceTest: 
+testing relationship 
+class 0  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 11£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:6  r15:0  r16:0  r17:0  
+class 2  vs  class 14£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:-1  r15:0  r16:2  r17:0  
+class 5  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 11£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:2  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  2   3 :  1   4 :  0   5 :  5   6 :  2   7 :  4   8 :  1   9 :  0   10 :  1   11 :  8   12 :  0   13 :  12   14 :  5   15 :  0   16 :  2   17 :  0   

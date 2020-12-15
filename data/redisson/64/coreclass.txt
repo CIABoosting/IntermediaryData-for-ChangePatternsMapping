@@ -1,0 +1,14 @@
+ConnectionPool:0.38
+MasterSlaveEntry:0.36666666666666664
+BaseConfig:0.34
+ClientConnectionsEntry:0.30666666666666664
+RedissonTopicTest:0.30333333333333334
+PubSubConnectionEntry:0.29
+MasterSlaveConnectionManager:0.24
+BaseMasterSlaveServersConfig:0.21
+RedissonBlockingQueueTest:0.20666666666666667
+LoadBalancerManager:0.19333333333333333
+SentinelConnectionManager:0.17333333333333334
+ConnectionManager:0.1708730158730159
+SpringNamespaceWikiTest:0.13666666666666666
+SingleConnectionManager:0.12

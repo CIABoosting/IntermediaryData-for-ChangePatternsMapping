@@ -1,0 +1,17 @@
+ServerConfiguration:0.30333333333333334
+NettyServer:0.29333333333333333
+ClientConfiguration:0.29
+Utils:0.24066666666666667
+AsyncClient:0.21
+NettyClientHandler:0.19666666666666666
+NettyServerBuilder:0.19
+NettyClientHandlerTest:0.18333333333333332
+AbstractBenchmark:0.18333333333333332
+NettyClientTransportTest:0.15
+NettyServerHandlerTest:0.15
+OpenLoopClient:0.14666666666666667
+NettyChannelBuilder:0.14666666666666667
+AsyncServer:0.14333333333333334
+NettyServerHandler:0.12666666666666668
+NettyServerTransport:0.09
+NettyClientTransport:0.08333333333333333

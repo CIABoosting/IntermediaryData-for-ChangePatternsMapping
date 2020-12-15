@@ -1,0 +1,8 @@
+NeuralNetConfiguration:0.6566666666666666
+Builder:0.4622222222222222
+MultiLayerTest:0.25333333333333335
+TestEarlyStopping:0.21
+GradientCheckTests:0.19333333333333333
+BNGradientCheckTest:0.12333333333333334
+TestPreProcessors:0.12333333333333334
+TestEarlyStoppingCompGraph:0.11333333333333333

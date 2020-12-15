@@ -1,0 +1,10 @@
+MasterSlaveConnectionManager:0.3
+ClusterServersConfig:0.2866666666666667
+MasterSlaveEntry:0.26
+ClusterConnectionManager:0.24666666666666667
+BaseMasterSlaveServersConfig:0.24333333333333335
+LoadBalancerManager:0.1688888888888889
+LoadBalancerManagerImpl:0.16666666666666666
+SingleEntry:0.13
+SentinelConnectionManager:0.12
+SingleConnectionManager:0.11333333333333333

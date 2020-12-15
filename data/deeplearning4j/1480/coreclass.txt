@@ -1,0 +1,17 @@
+MultiLayerNetwork:0.49666666666666665
+NeuralNetConfiguration:0.4066666666666667
+Builder:0.30666666666666664
+FrozenLayer:0.2733333333333333
+GraphBuilder:0.22333333333333333
+LayerVertex:0.185
+EmptyParamInitializer:0.16333333333333333
+TransferLearningCompGraphTest:0.13333333333333333
+LayerValidation:0.12
+ParamInitializer:0.11
+BatchNormalizationParamInitializer:0.10666666666666667
+DefaultParamInitializer:0.07
+TestTransferLearningModelSerializer:0.06333333333333334
+ConvolutionParamInitializer:0.06
+LSTMParamInitializer:0.05333333333333334
+GravesLSTMParamInitializer:0.05333333333333334
+GravesBidirectionalLSTMParamInitializer:0.05333333333333334

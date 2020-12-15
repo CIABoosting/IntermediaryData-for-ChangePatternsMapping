@@ -1,0 +1,16 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.grpc.benchmarks.proto.BenchmarkServiceGrpc: 
+new Added class 1 : io.grpc.examples.helloworld.GreeterGrpc: 
+new Added class 2 : io.grpc.health.v1.HealthGrpc: 
+new Added class 3 : io.grpc.grpclb.LoadBalancerGrpc: 
+new Added class 4 : io.grpc.testing.integration.MetricsServiceGrpc: 
+new Added class 5 : io.grpc.testing.integration.ReconnectServiceGrpc: 
+new Added class 6 : io.grpc.examples.routeguide.RouteGuideGrpc: 
+new Added class 7 : io.grpc.testing.integration.TestServiceGrpc: 
+new Added class 8 : io.grpc.testing.integration.UnimplementedServiceGrpc: 
+new Added class 9 : io.grpc.benchmarks.proto.WorkerServiceGrpc: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

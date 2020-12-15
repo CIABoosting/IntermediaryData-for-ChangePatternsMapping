@@ -1,0 +1,31 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : jodd.log.impl.JCLLogger: 
+new Added class 1 : jodd.log.impl.JCLLoggerTest: 
+new Added class 2 : jodd.log.impl.JDKLogger: 
+new Added class 3 : jodd.log.impl.JDKLoggerTest: 
+new Added class 4 : jodd.log.impl.Log4j2Logger: 
+new Added class 5 : jodd.log.impl.Log4j2LoggerTest: 
+new Added class 6 : jodd.log.LoggerFactory: 
+new Added class 7 : jodd.log.LoggerFactoryTest: 
+new Added class 8 : jodd.log.LoggerProvider: 
+new Added class 9 : jodd.log.impl.NOPLogger: 
+new Added class 10 : jodd.log.impl.NOPLoggerTest: 
+new Added class 11 : jodd.log.impl.SimpleLogger: 
+new Added class 12 : jodd.log.impl.SimpleLoggerProvider: 
+new Added class 13 : jodd.log.impl.SimpleLoggerTest: 
+new Added class 14 : jodd.log.impl.Slf4jLogger: 
+new Added class 15 : jodd.log.impl.Slf4jLoggerTest: 
+testing relationship 
+class 1  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  1   3 :  0   4 :  0   5 :  0   6 :  5   7 :  0   8 :  5   9 :  0   10 :  2   11 :  0   12 :  0   13 :  0   14 :  2   15 :  0   16 :  0   17 :  0   

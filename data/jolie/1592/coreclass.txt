@@ -1,0 +1,17 @@
+OLParser:0.322
+Scanner:0.275
+InterfaceVisitor:0.21083333333333334
+ProgramInspectorCreatorVisitor:0.20083333333333334
+OLVisitor:0.20083333333333334
+ProgramVisitor:0.20083333333333334
+SemanticVerifier:0.19333333333333333
+OptimizerVisitor:0.17333333333333334
+OOITBuilder:0.13666666666666666
+AddAssignmentProcess:0.12333333333333334
+MultiplyAssignmentProcess:0.12333333333333334
+DivideAssignmentProcess:0.12333333333333334
+DivideAssignStatement:0.08
+AddAssignStatement:0.08
+SubtractAssignStatement:0.08
+MultiplyAssignStatement:0.08
+SubtractAssignmentProcess:0.05333333333333334

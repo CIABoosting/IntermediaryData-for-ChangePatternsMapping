@@ -1,0 +1,175 @@
+Compared Result of  two versions
+Number of New Class: 158
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.dcm4chex.wado.mbean.ExtendedWADOService: 
+new Added class 1 : org.dcm4chex.wado.mbean.ExtendedWADOSupport: 
+new Added class 2 : org.dcm4chex.wado.web.RequestObjectFactory: 
+new Added class 3 : archive.ExportManagerQueue: 
+new Added class 4 : archive.FileCopyQueue: 
+new Added class 5 : archive.HL7SendQueue: 
+new Added class 6 : archive.IANScuQueue: 
+new Added class 7 : archive.MCMScuQueue: 
+new Added class 8 : archive.MPPSScuQueue: 
+new Added class 9 : archive.MoveScuQueue: 
+new Added class 10 : archive.PPSExceptionMgtQueue: 
+new Added class 11 : archive.PPSScuQueue: 
+new Added class 12 : archive.PrefetchQueue: 
+new Added class 13 : archive.PurgeStudyQueue: 
+new Added class 14 : archive.SendmailQueue: 
+new Added class 15 : archive.StgCmtScuScpQueue: 
+new Added class 16 : archive.StudyMgtScuQueue: 
+new Added class 17 : archive.UpgradeToEnhancedMFQueue: 
+new Added class 18 : archive.AE: 
+new Added class 19 : archive.ae: 
+new Added class 20 : archive.AuditLogger: 
+new Added class 21 : archive.auditLogger: 
+new Added class 22 : archive.CheckStudyPatientService: 
+new Added class 23 : archive.checkStudyPatientService: 
+new Added class 24 : archive.CompressionService: 
+new Added class 25 : archive.compressionService: 
+new Added class 26 : archive.ConsistencyService: 
+new Added class 27 : archive.consistencyService: 
+new Added class 28 : archive.ContentEditService: 
+new Added class 29 : archive.contentEditService: 
+new Added class 30 : archive.DcmServer: 
+new Added class 31 : archive.dcmServer: 
+new Added class 32 : archive.DeviceService: 
+new Added class 33 : archive.deviceService: 
+new Added class 34 : archive.DicomSecurity: 
+new Added class 35 : archive.dicomSecurity: 
+new Added class 36 : archive.ECHOService: 
+new Added class 37 : archive.echoService: 
+new Added class 38 : archive.ExportManager: 
+new Added class 39 : archive.exportManager: 
+new Added class 40 : archive.FileCopy: 
+new Added class 41 : archive.fileCopy: 
+new Added class 42 : archive.FileSystemMgt: 
+new Added class 43 : archive.fileSystemMgt: 
+new Added class 44 : archive.FixPatientAttributesService: 
+new Added class 45 : archive.fixPatientAttributesService: 
+new Added class 46 : archive.Forward: 
+new Added class 47 : archive.forward: 
+new Added class 48 : archive.Forward2: 
+new Added class 49 : archive.forward2: 
+new Added class 50 : archive.GPWLFeed: 
+new Added class 51 : archive.gpwlFeed: 
+new Added class 52 : archive.GPWLFeed2: 
+new Added class 53 : archive.gpwlFeed2: 
+new Added class 54 : archive.GPWLScp: 
+new Added class 55 : archive.gpwlScp: 
+new Added class 56 : archive.GPWLScu: 
+new Added class 57 : archive.gpwlScu: 
+new Added class 58 : archive.HL7Send: 
+new Added class 59 : archive.hl7Send: 
+new Added class 60 : archive.PIXQuery: 
+new Added class 61 : archive.pixQuery: 
+new Added class 62 : archive.HL7Server: 
+new Added class 63 : archive.hl7Server: 
+new Added class 64 : archive.ADTService: 
+new Added class 65 : archive.adtService: 
+new Added class 66 : archive.ORMService: 
+new Added class 67 : archive.ormService: 
+new Added class 68 : archive.Prefetch: 
+new Added class 69 : archive.prefetch: 
+new Added class 70 : archive.MDMService: 
+new Added class 71 : archive.mdmService: 
+new Added class 72 : archive.ORUService: 
+new Added class 73 : archive.oruService: 
+new Added class 74 : archive.HPScp: 
+new Added class 75 : archive.hpScp: 
+new Added class 76 : archive.IANScu: 
+new Added class 77 : archive.ianScu: 
+new Added class 78 : archive.JMS: 
+new Added class 79 : archive.jms: 
+new Added class 80 : archive.KeyObjectService: 
+new Added class 81 : archive.keyObjectService: 
+new Added class 82 : archive.MCMScu: 
+new Added class 83 : archive.mcmScu: 
+new Added class 84 : archive.MD5CheckService: 
+new Added class 85 : archive.md5CheckService: 
+new Added class 86 : archive.MigrateOldARRService: 
+new Added class 87 : archive.migrateOldARRService: 
+new Added class 88 : archive.MPPS2ORM: 
+new Added class 89 : archive.mpps2ORM: 
+new Added class 90 : archive.MPPSEmulator: 
+new Added class 91 : archive.mppsEmulator: 
+new Added class 92 : archive.MPPSScp: 
+new Added class 93 : archive.mppsScp: 
+new Added class 94 : archive.MPPSScu: 
+new Added class 95 : archive.mppsScu: 
+new Added class 96 : archive.MWLFindScp: 
+new Added class 97 : archive.mwlFindScp: 
+new Added class 98 : archive.MWLScu: 
+new Added class 99 : archive.mwlScu: 
+new Added class 100 : archive.MoveScu: 
+new Added class 101 : archive.moveScu: 
+new Added class 102 : archive.PPSExceptionMgtService: 
+new Added class 103 : archive.ppsExceptionMgtService: 
+new Added class 104 : archive.PPSScu: 
+new Added class 105 : archive.ppsScu: 
+new Added class 106 : archive.QueryRetrieveScp: 
+new Added class 107 : archive.queryRetrieveScp: 
+new Added class 108 : archive.RIDService: 
+new Added class 109 : archive.ridService: 
+new Added class 110 : archive.Scheduler: 
+new Added class 111 : archive.scheduler: 
+new Added class 112 : archive.Sendmail: 
+new Added class 113 : archive.sendmail: 
+new Added class 114 : archive.StgCmtScuScp: 
+new Added class 115 : archive.stgCmtScuScp: 
+new Added class 116 : archive.StoreScp: 
+new Added class 117 : archive.storeScp: 
+new Added class 118 : archive.StudyInfoService: 
+new Added class 119 : archive.studyInfoService: 
+new Added class 120 : archive.StudyMgtScp: 
+new Added class 121 : archive.studyMgtScp: 
+new Added class 122 : archive.StudyMgtScu: 
+new Added class 123 : archive.studyMgtScu: 
+new Added class 124 : archive.StudyPermission: 
+new Added class 125 : archive.studyPermission: 
+new Added class 126 : archive.StudyReconciliation: 
+new Added class 127 : archive.studyReconciliation: 
+new Added class 128 : archive.StudyStatus: 
+new Added class 129 : archive.studyStatus: 
+new Added class 130 : archive.SyncFileStatus: 
+new Added class 131 : archive.syncFileStatus: 
+new Added class 132 : archive.TLSConfig: 
+new Added class 133 : archive.tlsConfig: 
+new Added class 134 : archive.TarRetriever: 
+new Added class 135 : archive.tarRetriever: 
+new Added class 136 : archive.Templates: 
+new Added class 137 : archive.templates: 
+new Added class 138 : archive.UpdateAttributes: 
+new Added class 139 : archive.updateAttributes: 
+new Added class 140 : archive.UpgradeToEnhancedMF: 
+new Added class 141 : archive.upgradeToEnhancedMF: 
+new Added class 142 : archive.WADOExtService: 
+new Added class 143 : archive.wadoExtService: 
+new Added class 144 : archive.WADOService: 
+new Added class 145 : archive.wadoService: 
+new Added class 146 : archive.XDS_I: 
+new Added class 147 : archive.xds_I: 
+new Added class 148 : archive.XDSService: 
+new Added class 149 : archive.xdsService: 
+new Added class 150 : org.dcm4chex.archive.mbean.StudyInfoService: 
+new Added class 151 : org.dcm4chex.wado.web.WADOExtRequestObjectImpl: 
+new Added class 152 : org.dcm4chex.archive.ejb.jdbc.WadoQueryCmd: 
+new Added class 153 : org.dcm4chex.wado.common.WADORequestObject: 
+new Added class 154 : org.dcm4chex.wado.mbean.WADOService: 
+new Added class 155 : org.dcm4chex.wado.web.WADOServiceDelegate: 
+new Added class 156 : org.dcm4chex.wado.web.WADOServlet: 
+new Added class 157 : org.dcm4chex.wado.mbean.WADOSupport: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:9  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 153£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 1  vs  class 153£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 150  vs  class 152£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 154  vs  class 153£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:7  r15:0  r16:1  r17:0  
+class 154  vs  class 157£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:33  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 155  vs  class 153£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 156  vs  class 153£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 156  vs  class 155£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 157  vs  class 136£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 157  vs  class 153£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:29  r15:0  r16:30  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  2   4 :  1   5 :  0   6 :  1   7 :  0   8 :  2   9 :  0   10 :  46   11 :  9   12 :  0   13 :  2   14 :  39   15 :  0   16 :  34   17 :  0   

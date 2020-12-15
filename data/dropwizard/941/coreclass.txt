@@ -1,0 +1,11 @@
+AppenderFactory:0.8733333333333333
+FilterFactory:0.77
+DefaultLoggingFactory:0.2833333333333333
+FileAppenderFactoryTest:0.24
+AbstractAppenderFactory:0.21666666666666667
+FileAppenderFactory:0.20333333333333334
+SyslogAppenderFactory:0.17666666666666667
+SyslogAppenderFactoryTest:0.15
+ConsoleAppenderFactoryTest:0.08666666666666667
+ConsoleAppenderFactory:0.07666666666666666
+NullFilterFactory:0.07373809523809524

@@ -1,0 +1,121 @@
+Compared Result of  two versions
+Number of New Class: 81
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.grpc.grpclb.ClientStats: 
+new Added class 1 : io.grpc.benchmarks.proto.Control: 
+new Added class 2 : io.grpc.benchmarks.proto.PoissonParamsOrBuilder: 
+new Added class 3 : io.grpc.benchmarks.proto.PoissonParams: 
+new Added class 4 : io.grpc.benchmarks.proto.UniformParamsOrBuilder: 
+new Added class 5 : io.grpc.benchmarks.proto.UniformParams: 
+new Added class 6 : io.grpc.benchmarks.proto.DeterministicParamsOrBuilder: 
+new Added class 7 : io.grpc.benchmarks.proto.DeterministicParams: 
+new Added class 8 : io.grpc.benchmarks.proto.ParetoParamsOrBuilder: 
+new Added class 9 : io.grpc.benchmarks.proto.ParetoParams: 
+new Added class 10 : io.grpc.benchmarks.proto.ClosedLoopParamsOrBuilder: 
+new Added class 11 : io.grpc.benchmarks.proto.ClosedLoopParams: 
+new Added class 12 : io.grpc.benchmarks.proto.LoadParamsOrBuilder: 
+new Added class 13 : io.grpc.benchmarks.proto.LoadParams: 
+new Added class 14 : io.grpc.benchmarks.proto.SecurityParamsOrBuilder: 
+new Added class 15 : io.grpc.benchmarks.proto.SecurityParams: 
+new Added class 16 : io.grpc.benchmarks.proto.ClientConfigOrBuilder: 
+new Added class 17 : io.grpc.benchmarks.proto.ClientConfig: 
+new Added class 18 : io.grpc.benchmarks.proto.ClientStatusOrBuilder: 
+new Added class 19 : io.grpc.benchmarks.proto.ClientStatus: 
+new Added class 20 : io.grpc.benchmarks.proto.MarkOrBuilder: 
+new Added class 21 : io.grpc.benchmarks.proto.Mark: 
+new Added class 22 : io.grpc.benchmarks.proto.ClientArgsOrBuilder: 
+new Added class 23 : io.grpc.benchmarks.proto.ClientArgs: 
+new Added class 24 : io.grpc.benchmarks.proto.ServerConfigOrBuilder: 
+new Added class 25 : io.grpc.benchmarks.proto.ServerConfig: 
+new Added class 26 : io.grpc.benchmarks.proto.ServerArgsOrBuilder: 
+new Added class 27 : io.grpc.benchmarks.proto.ServerArgs: 
+new Added class 28 : io.grpc.benchmarks.proto.ServerStatusOrBuilder: 
+new Added class 29 : io.grpc.benchmarks.proto.ServerStatus: 
+new Added class 30 : io.grpc.benchmarks.proto.CoreRequestOrBuilder: 
+new Added class 31 : io.grpc.benchmarks.proto.CoreRequest: 
+new Added class 32 : io.grpc.benchmarks.proto.CoreResponseOrBuilder: 
+new Added class 33 : io.grpc.benchmarks.proto.CoreResponse: 
+new Added class 34 : io.grpc.benchmarks.proto.VoidOrBuilder: 
+new Added class 35 : io.grpc.benchmarks.proto.Void: 
+new Added class 36 : com.google.protobuf.EmptyProtos: 
+new Added class 37 : io.grpc.health.v1.HealthCheckRequest: 
+new Added class 38 : io.grpc.health.v1.HealthCheckResponse: 
+new Added class 39 : io.grpc.health.v1.HealthProto: 
+new Added class 40 : io.grpc.grpclb.InitialLoadBalanceRequest: 
+new Added class 41 : io.grpc.grpclb.InitialLoadBalanceResponse: 
+new Added class 42 : io.grpc.grpclb.LoadBalanceRequest: 
+new Added class 43 : io.grpc.grpclb.LoadBalanceResponse: 
+new Added class 44 : io.grpc.grpclb.LoadBalancerProto: 
+new Added class 45 : io.grpc.testing.integration.Messages: 
+new Added class 46 : io.grpc.testing.integration.PayloadOrBuilder: 
+new Added class 47 : io.grpc.testing.integration.Payload: 
+new Added class 48 : io.grpc.testing.integration.EchoStatusOrBuilder: 
+new Added class 49 : io.grpc.testing.integration.EchoStatus: 
+new Added class 50 : io.grpc.testing.integration.SimpleRequestOrBuilder: 
+new Added class 51 : io.grpc.testing.integration.SimpleRequest: 
+new Added class 52 : io.grpc.testing.integration.SimpleResponseOrBuilder: 
+new Added class 53 : io.grpc.testing.integration.SimpleResponse: 
+new Added class 54 : io.grpc.testing.integration.SimpleContextOrBuilder: 
+new Added class 55 : io.grpc.testing.integration.SimpleContext: 
+new Added class 56 : io.grpc.testing.integration.StreamingInputCallRequestOrBuilder: 
+new Added class 57 : io.grpc.testing.integration.StreamingInputCallRequest: 
+new Added class 58 : io.grpc.testing.integration.StreamingInputCallResponseOrBuilder: 
+new Added class 59 : io.grpc.testing.integration.StreamingInputCallResponse: 
+new Added class 60 : io.grpc.testing.integration.ResponseParametersOrBuilder: 
+new Added class 61 : io.grpc.testing.integration.ResponseParameters: 
+new Added class 62 : io.grpc.testing.integration.StreamingOutputCallRequestOrBuilder: 
+new Added class 63 : io.grpc.testing.integration.StreamingOutputCallRequest: 
+new Added class 64 : io.grpc.testing.integration.StreamingOutputCallResponseOrBuilder: 
+new Added class 65 : io.grpc.testing.integration.StreamingOutputCallResponse: 
+new Added class 66 : io.grpc.testing.integration.ReconnectParamsOrBuilder: 
+new Added class 67 : io.grpc.testing.integration.ReconnectParams: 
+new Added class 68 : io.grpc.testing.integration.ReconnectInfoOrBuilder: 
+new Added class 69 : io.grpc.testing.integration.ReconnectInfo: 
+new Added class 70 : io.grpc.testing.integration.Metrics: 
+new Added class 71 : io.grpc.testing.integration.GaugeRequestOrBuilder: 
+new Added class 72 : io.grpc.testing.integration.GaugeRequest: 
+new Added class 73 : io.grpc.testing.integration.EmptyMessageOrBuilder: 
+new Added class 74 : io.grpc.testing.integration.EmptyMessage: 
+new Added class 75 : io.grpc.benchmarks.proto.Payloads: 
+new Added class 76 : io.grpc.grpclb.Server: 
+new Added class 77 : io.grpc.grpclb.ServerList: 
+new Added class 78 : io.grpc.benchmarks.proto.Services: 
+new Added class 79 : io.grpc.benchmarks.proto.Stats: 
+new Added class 80 : io.grpc.testing.integration.Test: 
+testing relationship 
+class 0  vs  class 79£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 18£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 20£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 22£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 24£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 26£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 28£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 30£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 32£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 34£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 42£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 46£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 49  vs  class 48£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 50£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 52£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 55  vs  class 54£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 56£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 59  vs  class 58£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 60£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 63  vs  class 62£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 65  vs  class 64£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 67  vs  class 66£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 69  vs  class 68£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 72  vs  class 71£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 74  vs  class 73£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  31   3 :  0   4 :  0   5 :  0   6 :  3   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

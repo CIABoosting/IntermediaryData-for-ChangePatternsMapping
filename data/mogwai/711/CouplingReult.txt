@@ -1,0 +1,43 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : de.erdesignerng.dialect.db2.DB2SQLGenerator: 
+new Added class 1 : de.erdesignerng.model.serializer.repository.DictionaryTableSerializer: 
+new Added class 2 : de.erdesignerng.model.serializer.repository.DictionaryViewSerializer: 
+new Added class 3 : de.erdesignerng.dialect.h2.H2SQLGenerator: 
+new Added class 4 : de.erdesignerng.dialect.JDBCReverseEngineeringStrategy: 
+new Added class 5 : de.erdesignerng.dialect.mssql.MSSQLSQLGenerator: 
+new Added class 6 : de.erdesignerng.dialect.mysql.MySQLSQLGenerator: 
+new Added class 7 : de.erdesignerng.dialect.oracle.OracleSQLGenerator: 
+new Added class 8 : de.erdesignerng.dialect.postgres.PostgresSQLGenerator: 
+new Added class 9 : de.erdesignerng.visual.editor.reverseengineer.ReverseEngineerView: 
+new Added class 10 : de.erdesignerng.dialect.sql92.SQL92SQLGenerator: 
+new Added class 11 : de.erdesignerng.dialect.SQLGenerator: 
+new Added class 12 : de.erdesignerng.model.Table: 
+new Added class 13 : de.erdesignerng.model.serializer.repository.entities.TableEntity: 
+new Added class 14 : de.erdesignerng.model.View: 
+new Added class 15 : de.erdesignerng.visual.editor.view.ViewEditor: 
+new Added class 16 : de.erdesignerng.model.serializer.repository.entities.ViewEntity: 
+new Added class 17 : de.erdesignerng.model.serializer.xml20.XMLTableSerializer: 
+testing relationship 
+class 0  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 3  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:1  r14:4  r15:0  r16:7  r17:0  
+class 4  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 7  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 8  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 10  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:0  r14:9  r15:0  r16:3  r17:0  
+class 10  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:1  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:3  r14:2  r15:0  r16:2  r17:0  
+class 17  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  7   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  65   12 :  0   13 :  5   14 :  29   15 :  0   16 :  13   17 :  0   

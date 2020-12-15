@@ -1,0 +1,13 @@
+DataExtractorService:0.4
+IDbDialect:0.35888888888888887
+AbstractDbDialect:0.3466666666666667
+SqlTemplate:0.3
+MsSqlDbDialect:0.2866666666666667
+CsvLoader:0.27666666666666667
+DataExtractorContext:0.25
+IntegrationTest:0.22666666666666666
+ExtractStreamHandler:0.20172222222222222
+SymmetricEngine:0.19333333333333333
+IDataExtractorService:0.175
+StreamReloadDataCommand:0.14333333333333334
+InternalTransportManager:0.13333333333333333

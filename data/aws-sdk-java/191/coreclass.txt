@@ -1,0 +1,10 @@
+CertificateDetail:0.5666666666666667
+DomainValidation:0.5433333333333333
+ListCertificatesRequest:0.24666666666666667
+RequestCertificateRequest:0.24333333333333335
+DomainValidationMarshaller:0.18333333333333332
+ListCertificatesRequestMarshaller:0.15
+DomainValidationJsonUnmarshaller:0.14933333333333332
+CertificateDetailJsonUnmarshaller:0.13
+CertificateDetailMarshaller:0.12
+RequestCertificateRequestMarshaller:0.09333333333333334

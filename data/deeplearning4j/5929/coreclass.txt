@@ -1,0 +1,6 @@
+EpochTerminationCondition:0.5077777777777777
+MaxTimeIterationTerminationCondition:0.4866666666666667
+EarlyStoppingTrainer:0.29333333333333333
+MaxEpochsTerminationCondition:0.07666666666666666
+TestEarlyStopping:0.06666666666666667
+EarlyStoppingConfiguration:0.02

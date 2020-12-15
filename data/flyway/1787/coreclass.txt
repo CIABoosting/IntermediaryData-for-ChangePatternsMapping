@@ -1,0 +1,12 @@
+MySQLDbSupport:0.48
+PostgreSQLDbSupport:0.48
+OracleDbSupport:0.32666666666666666
+H2DbSupport:0.29
+HsqlDbSupport:0.29
+MigrationTestCase:0.20666666666666667
+MSSQLMigrationMediumTest:0.13
+OracleMigrationMediumTest:0.09
+PostgreSQLMigrationMediumTest:0.09
+MySQLMigrationMediumTest:0.09
+HsqlMigrationMediumTest:0.04
+H2MigrationMediumTest:0.03666666666666667

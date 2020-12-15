@@ -1,0 +1,17 @@
+Compared Result of  two versions
+Number of New Class: 11
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.github.benmanes.caffeine.cache.node.AddConstructors: 
+new Added class 1 : com.github.benmanes.caffeine.cache.node.AddExpiration: 
+new Added class 2 : com.github.benmanes.caffeine.cache.node.AddKey: 
+new Added class 3 : com.github.benmanes.caffeine.cache.node.AddMaximum: 
+new Added class 4 : com.github.benmanes.caffeine.cache.node.AddValue: 
+new Added class 5 : com.github.benmanes.caffeine.cache.BoundedLocalCache: 
+new Added class 6 : com.github.benmanes.caffeine.cache.BLCHeader: 
+new Added class 7 : com.github.benmanes.caffeine.cache.LocalCacheSelectorCode: 
+new Added class 8 : com.github.benmanes.caffeine.cache.NodeFactoryGenerator: 
+new Added class 9 : com.github.benmanes.caffeine.cache.NodeSelectorCode: 
+new Added class 10 : com.github.benmanes.caffeine.SingleConsumerQueueTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

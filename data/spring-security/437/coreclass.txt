@@ -1,0 +1,14 @@
+OAuth2AuthenticationToken:0.44
+OAuth2LoginConfigurer:0.31333333333333335
+OAuth2LoginAuthenticationFilter:0.2708333333333333
+OidcAuthorizationCodeAuthenticationProvider:0.20666666666666667
+OAuth2LoginAuthenticationProvider:0.19333333333333333
+OAuth2LoginAuthenticationFilterTests:0.14333333333333334
+UserInfoEndpointConfig:0.1
+OidcUserService:0.07
+CustomUserTypesOAuth2UserService:0.05333333333333334
+DefaultOAuth2UserService:0.05333333333333334
+DelegatingOAuth2UserService:0.03666666666666667
+NimbusUserInfoRetriever:0.013333333333333334
+OAuth2UserService:0.0033333333333333335
+UserInfoRetriever:0.0

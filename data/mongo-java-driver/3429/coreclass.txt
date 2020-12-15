@@ -1,0 +1,11 @@
+DatabaseAcceptanceTest:0.31333333333333335
+Fixture:0.30333333333333334
+MongoQueryCursorTest:0.27
+ShutdownHook:0.20666666666666667
+QueryAcceptanceTest:0.18666666666666668
+MongoCollectionTest:0.18333333333333332
+MongoAsyncBatchInsertTest:0.14333333333333334
+MongoStreamTest:0.14333333333333334
+BSONDocumentBufferCodecTest:0.13666666666666666
+MongoBatchInsertTest:0.13666666666666666
+DatabaseTestCase:0.08

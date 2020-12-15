@@ -1,0 +1,9 @@
+RedisConnection:0.47
+RedissonLock:0.38
+RedissonObject:0.27666666666666667
+RedissonCountDownLatch:0.26944444444444443
+CommandDecoder:0.25
+CommandAsyncService:0.23666666666666666
+ConnectionPool:0.21333333333333335
+RedissonSemaphore:0.21
+CommandAsyncExecutor:0.19416666666666665

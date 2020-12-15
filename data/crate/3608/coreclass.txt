@@ -1,0 +1,16 @@
+SelectStatementAnalyzerTest:0.48
+OrderBy:0.4266666666666667
+RelationSplitter:0.37333333333333335
+RelationSplitterTest:0.34
+Builder:0.31
+MultiSourceSelect:0.2866666666666667
+Visitor:0.25
+CrossJoinConsumerTest:0.22
+TestingHelpers:0.19666666666666666
+FetchRequiredVisitorTest:0.13333333333333333
+Context:0.03666666666666667
+OrderByTest:0.02666666666666667
+DefaultTraversalSymbolVisitor:0.023333333333333334
+CrossJoinConsumer:0.02
+FieldCollectingVisitor:0.006666666666666667
+RelationCounter:0.0

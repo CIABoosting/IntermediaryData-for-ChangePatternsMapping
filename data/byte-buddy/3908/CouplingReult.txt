@@ -1,0 +1,35 @@
+Compared Result of  two versions
+Number of New Class: 28
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : net.bytebuddy.instrumentation.method.bytecode.ByteCodeAppender: 
+new Added class 1 : net.bytebuddy.instrumentation.method.matcher.JunctionMethodMatcher: 
+new Added class 2 : net.bytebuddy.instrumentation.method.matcher.MethodMatchers: 
+new Added class 3 : net.bytebuddy.instrumentation.method.matcher.MethodNameMethodMatcher: 
+new Added class 4 : net.bytebuddy.instrumentation.method.matcher.ModifierMethodMatcher: 
+new Added class 5 : net.bytebuddy.instrumentation.method.matcher.ParameterTypeMatcher: 
+new Added class 6 : net.bytebuddy.instrumentation.method.matcher.ParameterSubtypeMatcher: 
+new Added class 7 : net.bytebuddy.instrumentation.method.matcher.ParameterSuperTypeMatcher: 
+new Added class 8 : net.bytebuddy.instrumentation.method.matcher.ParameterCountMatcher: 
+new Added class 9 : net.bytebuddy.instrumentation.method.matcher.ReturnTypeMatcher: 
+new Added class 10 : net.bytebuddy.instrumentation.method.matcher.ReturnSubtypeMatcher: 
+new Added class 11 : net.bytebuddy.instrumentation.method.matcher.ReturnSupertypeMatcher: 
+new Added class 12 : net.bytebuddy.instrumentation.method.matcher.ExceptionMethodMatcher: 
+new Added class 13 : net.bytebuddy.instrumentation.method.matcher.MethodDescriptionMatcher: 
+new Added class 14 : net.bytebuddy.instrumentation.method.matcher.MethodEqualityMethodMatcher: 
+new Added class 15 : net.bytebuddy.instrumentation.method.matcher.ConstructorEqualityMethodMatcher: 
+new Added class 16 : net.bytebuddy.instrumentation.method.matcher.MethodSignatureMethodMatcher: 
+new Added class 17 : net.bytebuddy.instrumentation.method.matcher.IsMethodMethodMatcher: 
+new Added class 18 : net.bytebuddy.instrumentation.method.matcher.OverridableMethodMatcher: 
+new Added class 19 : net.bytebuddy.instrumentation.method.matcher.DefaultFinalizeMethodMatcher: 
+new Added class 20 : net.bytebuddy.instrumentation.method.matcher.VisibilityMethodMatcher: 
+new Added class 21 : net.bytebuddy.instrumentation.method.matcher.DeclaringTypeMethodMatcher: 
+new Added class 22 : net.bytebuddy.instrumentation.method.matcher.DeclaringSubTypeMethodMatcher: 
+new Added class 23 : net.bytebuddy.instrumentation.method.matcher.AnnotationMethodMatcher: 
+new Added class 24 : net.bytebuddy.instrumentation.method.matcher.BooleanMethodMatcher: 
+new Added class 25 : net.bytebuddy.instrumentation.method.matcher.NegatingMethodMatcher: 
+new Added class 26 : net.bytebuddy.instrumentation.method.matcher.VisibilityBridgeMethodMatcher: 
+new Added class 27 : net.bytebuddy.instrumentation.method.matcher.MethodMatchersTest: 
+testing relationship 
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:72  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  72   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

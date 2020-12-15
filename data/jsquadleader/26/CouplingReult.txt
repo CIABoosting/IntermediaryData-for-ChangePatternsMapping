@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 6
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : scamsoft.squadleader.rules.Facing: 
+new Added class 1 : scamsoft.squadleader.rules.Game: 
+new Added class 2 : scamsoft.squadleader.rules.Gun: 
+new Added class 3 : scamsoft.squadleader.rules.Hex: 
+new Added class 4 : scamsoft.squadleader.rules.Tables: 
+new Added class 5 : scamsoft.squadleader.rules.Vehicle: 
+testing relationship 
+class 0  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 1  vs  class 2£º  r0:0  r1:0  r2:0  r3:10  r4:8  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:28  r12:0  r13:10  r14:11  r15:0  r16:4  r17:0  
+class 1  vs  class 3£º  r0:0  r1:0  r2:0  r3:25  r4:5  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:150  r12:0  r13:31  r14:49  r15:0  r16:6  r17:0  
+class 1  vs  class 5£º  r0:0  r1:0  r2:0  r3:12  r4:3  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:60  r12:0  r13:18  r14:20  r15:0  r16:9  r17:0  
+class 2  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 3  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:-1  r15:0  r16:2  r17:0  
+class 5  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:5  r9:0  r10:5  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:12  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  47   4 :  16   5 :  3   6 :  0   7 :  0   8 :  5   9 :  0   10 :  5   11 :  238   12 :  0   13 :  59   14 :  93   15 :  0   16 :  22   17 :  0   

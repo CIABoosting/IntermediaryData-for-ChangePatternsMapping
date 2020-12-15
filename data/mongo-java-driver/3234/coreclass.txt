@@ -1,0 +1,13 @@
+MongoCredential:0.5933333333333334
+Authenticator:0.4266666666666667
+NativeAuthenticator:0.27
+NativeAsyncAuthenticator:0.27
+AuthenticatingConnection:0.25666666666666665
+DefaultConnectionFactory:0.24826767676767678
+AsyncAuthenticator:0.21666666666666667
+MongoClientURI:0.19666666666666666
+SaslAuthenticator:0.18666666666666668
+SaslAsyncAuthenticator:0.18666666666666668
+IteratingAuthenticator:0.12
+AuthenticatingConnectionTest:0.12
+MongoCredentialTest:0.07666666666666666

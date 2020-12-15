@@ -1,0 +1,16 @@
+MailModule:0.7233333333333334
+Notify:0.4
+MailModuleImpl:0.26666666666666666
+AdminModuleImpl:0.26
+DefaultFolderEmailFormatter:0.26
+MimeNotifyPreparator:0.24333333333333335
+BuildDefinitionDivs:0.21333333333333335
+MimeMapPreparator:0.20666666666666667
+AbstractMailPreparator:0.13666666666666666
+FolderServiceImpl:0.11333333333333333
+DefaultSendEmail:0.11
+DefaultFailedEmail:0.11
+GetController:0.1
+ViewICalController:0.1
+ElementBuilderEvent:0.09333333333333334
+SendEmail:0.08333333333333333

@@ -1,0 +1,10 @@
+WriteBehindStore:0.52
+CoalescedWriteBehindQueue:0.43666666666666665
+CyclicWriteBehindQueue:0.33666666666666667
+WriteBehindQueueTest:0.32666666666666666
+DefaultWriteBehindProcessor:0.26666666666666666
+RecordStoreTest:0.19333333333333333
+MapReplicationOperation:0.15333333333333332
+StoreWorker:0.14
+WriteBehindQueues:0.09
+InternalStoreListener:0.05333333333333334

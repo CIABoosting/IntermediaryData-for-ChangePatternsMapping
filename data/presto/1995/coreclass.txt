@@ -1,0 +1,7 @@
+PushPartialAggregationThroughJoin:0.3433333333333333
+IterativeOptimizer:0.3233333333333333
+Rule:0.21994444444444444
+EliminateCrossJoins:0.19
+AddIntermediateAggregations:0.19
+PushTableWriteThroughUnion:0.16633333333333333
+PushAggregationThroughOuterJoin:0.10666666666666667

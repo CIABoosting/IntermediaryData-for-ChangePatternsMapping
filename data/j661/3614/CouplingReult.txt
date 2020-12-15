@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.common.model.AbstractWidgetFactoryTest: 
+new Added class 1 : arinc661.javafx.server.engine.BasicJFXServerEngineTest: 
+new Added class 2 : arinc661.server.engine.BasicServerEngineEncoding2Test: 
+new Added class 3 : arinc661.server.engine.BasicServerEngineEncoding3Test: 
+new Added class 4 : arinc661.server.engine.BasicServerEngine_2Test: 
+new Added class 5 : arinc661.server.extensions.ExtensionKOTest: 
+new Added class 6 : arinc661.javafx.gestures.JFXGesturesTest: 
+new Added class 7 : arinc661.javafx.server.model.painter.JFXRenderer2Test: 
+new Added class 8 : arinc661.javafx.server.model.painter.JFXRendererTest: 
+new Added class 9 : arinc661.javafx.server.JFXServerWrapper2Test: 
+new Added class 10 : arinc661.javafx.server.model.stdrenderer.JFXSymbolRenderer2Test: 
+new Added class 11 : arinc661.javafx.server.model.stdrenderer.JFXSymbolRendererTest: 
+new Added class 12 : arinc661.server.model.LayerHelperTest: 
+new Added class 13 : arinc661.server.parser.MapItemsUIHandlerTest: 
+new Added class 14 : arinc661.server.engine.ServerEngineCommTest: 
+new Added class 15 : arinc661.server.engine.ServerEngineComm_3Test: 
+new Added class 16 : arinc661.server.engine.ServerEngineComm_EventsTest: 
+new Added class 17 : arinc661.server.engine.ServerMessageProcessorTest: 
+new Added class 18 : plugin.editor.look.synth.parser.SynthLookGeneratorTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

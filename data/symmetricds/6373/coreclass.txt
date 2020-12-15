@@ -1,0 +1,17 @@
+Column:0.56
+ISqlTransaction:0.46711904761904766
+SequenceService:0.34
+TestTablesService:0.2733333333333333
+JdbcSqlReadCursor:0.235
+JdbcSqlTransaction:0.23
+ISequenceService:0.22166666666666668
+TestSetupUtil:0.21166666666666667
+OutgoingBatchService:0.20333333333333334
+SqliteDdlBuilder:0.145
+JdbcSymmetricDialectFactory:0.07666666666666666
+SqliteTriggerTemplate:0.05333333333333334
+SqliteDdlReader:0.04
+SqliteSymmetricDialect:0.03166666666666667
+SqliteDatabasePlatform:0.02666666666666667
+SqliteJdbcSqlTemplate:0.006666666666666667
+AbstractSqlRowMapper:0.006666666666666667

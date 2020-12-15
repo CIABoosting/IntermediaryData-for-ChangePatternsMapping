@@ -1,0 +1,28 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.opensymphony.xwork2.validator.validators.AbstractRangeValidator: 
+new Added class 1 : com.opensymphony.xwork2.validator.validators.DateRangeFieldValidator: 
+new Added class 2 : com.opensymphony.xwork2.validator.validators.DateRangeFieldValidatorTest: 
+new Added class 3 : com.opensymphony.xwork2.validator.validators.DoubleRangeFieldValidator: 
+new Added class 4 : com.opensymphony.xwork2.validator.DoubleRangeValidatorTest: 
+new Added class 5 : com.opensymphony.xwork2.validator.validators.IntRangeFieldValidator: 
+new Added class 6 : com.opensymphony.xwork2.validator.validators.IntRangeFieldValidatorTest: 
+new Added class 7 : com.opensymphony.xwork2.validator.validators.LongRangeFieldValidator: 
+new Added class 8 : com.opensymphony.xwork2.validator.validators.LongRangeFieldValidatorTest: 
+new Added class 9 : com.opensymphony.xwork2.config.providers.MockConfigurationProvider: 
+new Added class 10 : com.opensymphony.xwork2.validator.validators.RegexFieldValidator: 
+new Added class 11 : com.opensymphony.xwork2.validator.validators.ShortRangeFieldValidator: 
+new Added class 12 : com.opensymphony.xwork2.validator.validators.ShortRangeFieldValidatorTest: 
+testing relationship 
+class 1  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:15  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:22  r9:0  r10:25  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:15  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:15  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:15  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  4   2 :  0   3 :  0   4 :  0   5 :  4   6 :  0   7 :  0   8 :  22   9 :  0   10 :  25   11 :  60   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

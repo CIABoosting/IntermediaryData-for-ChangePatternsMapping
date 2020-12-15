@@ -1,0 +1,11 @@
+S3BlobContainer:0.47333333333333333
+GoogleCloudStorageBlobStore:0.2733333333333333
+StorageObjectsSpliterator:0.27
+Ec2NameResolver:0.27
+AzureStorageServiceImpl:0.25666666666666665
+S3BlobStore:0.23666666666666666
+GceInstancesServiceImpl:0.2
+GceMetadataService:0.2
+GceNameResolver:0.2
+AzureComputeServiceImpl:0.19666666666666666
+Ec2DiscoveryPlugin:0.12666666666666668

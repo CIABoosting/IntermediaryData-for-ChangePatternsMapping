@@ -1,0 +1,35 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.crate.integrationtests.BlobHttpIntegrationTest: 
+new Added class 1 : io.crate.blob.v2.BlobIndex: 
+new Added class 2 : io.crate.blob.v2.BlobIndicesService: 
+new Added class 3 : io.crate.blob.v2.BlobIndicesServiceTest: 
+new Added class 4 : io.crate.integrationtests.BlobPathITest: 
+new Added class 5 : org.elasticsearch.indices.recovery.BlobRecoverySourceHandler: 
+new Added class 6 : io.crate.metadata.blob.BlobSchemaInfo: 
+new Added class 7 : io.crate.blob.BlobService: 
+new Added class 8 : io.crate.operation.reference.sys.shard.blob.BlobShardTableNameExpression: 
+new Added class 9 : io.crate.lucene.CrateDocIndexService: 
+new Added class 10 : io.crate.action.sql.DDLStatementDispatcher: 
+new Added class 11 : io.crate.metadata.doc.DocSchemaInfo: 
+new Added class 12 : io.crate.http.netty.HttpBlobHandler: 
+new Added class 13 : io.crate.metadata.blob.InternalBlobTableInfoFactory: 
+new Added class 14 : io.crate.integrationtests.RecoveryTests: 
+new Added class 15 : io.crate.operation.collect.ShardCollectService: 
+new Added class 16 : io.crate.integrationtests.ShardStatsTest: 
+new Added class 17 : io.crate.integrationtests.SysShardsTest: 
+new Added class 18 : io.crate.metadata.shard.unassigned.UnassignedShard: 
+testing relationship 
+class 0  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 10  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 14  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 15  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:1  r16:1  r17:0  
+class 16  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  6   7 :  0   8 :  4   9 :  0   10 :  2   11 :  7   12 :  0   13 :  6   14 :  3   15 :  1   16 :  2   17 :  0   

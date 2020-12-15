@@ -1,0 +1,16 @@
+TestEliminateCrossJoins:0.31666666666666665
+TestPruneSemiJoinColumns:0.18
+TestSwapAdjacentWindowsBySpecifications:0.18
+TestAddIntermediateAggregations:0.17666666666666667
+TestMergeAdjacentWindows:0.17
+TestPushProjectionThroughExchange:0.16
+TestMergeFilters:0.15
+TestPruneSemiJoinFilteringSourceColumns:0.10333333333333333
+TestEvaluateZeroLimit:0.07666666666666666
+TestPruneValuesColumns:0.07666666666666666
+TestPushProjectionThroughUnion:0.07666666666666666
+TestRemoveFullSample:0.07666666666666666
+TestEvaluateZeroSample:0.07666666666666666
+TestPruneTableScanColumns:0.07666666666666666
+TestRemoveEmptyDelete:0.07666666666666666
+TestInlineProjections:0.07666666666666666

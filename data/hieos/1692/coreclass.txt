@@ -1,0 +1,15 @@
+PersistenceManager:0.7033333333333334
+EMPIException:0.58
+SubjectIdentifierDAO:0.22666666666666666
+FindSubjectsHandler:0.17333333333333334
+AddSubjectHandler:0.17333333333333334
+BaseEMPIAdapter:0.17333333333333334
+EUIDGenerator:0.1577777777777778
+MergeSubjectsHandler:0.14666666666666667
+SubjectIdentifierDomainDAO:0.14
+UpdateSubjectHandler:0.13666666666666666
+Validator:0.13666666666666666
+FindSubjectsValidator:0.1
+UpdateSubjectValidator:0.07666666666666666
+AddSubjectValidator:0.07333333333333333
+MergeSubjectsValidator:0.07333333333333333

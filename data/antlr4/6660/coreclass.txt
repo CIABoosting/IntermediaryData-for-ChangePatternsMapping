@@ -1,0 +1,15 @@
+Grammar:0.6533333333333333
+DFAState:0.42
+TestLexerDFAConstruction:0.26666666666666666
+TestDFAConstruction:0.26
+TestPredicatedDFAConstruction:0.25
+Instruction:0.23888888888888885
+PredictionDFAFactory:0.17666666666666667
+PDA:0.15333333333333332
+TestLinearApproximateLookahead:0.14
+DOTGenerator:0.12333333333333334
+LexerNFAFactory:0.11666666666666667
+AnalysisPipeline:0.11333333333333333
+DFASerializer:0.11
+OrderedHashSet:0.11
+CompiledPDA:0.0

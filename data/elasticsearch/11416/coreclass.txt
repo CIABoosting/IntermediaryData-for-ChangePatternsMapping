@@ -1,0 +1,11 @@
+EnableAllocationDecider:0.5566666666666666
+ESIntegTestCase:0.42
+ClusterModule:0.2633333333333333
+CorruptedFileIT:0.20666666666666667
+ClusterModuleTests:0.18666666666666668
+RecoveryFromGatewayIT:0.14
+EnableAllocationTests:0.13666666666666666
+ClusterInfoServiceIT:0.11333333333333333
+RecoveryBackwardsCompatibilityIT:0.11333333333333333
+ReusePeerRecoverySharedTest:0.09333333333333334
+EnableAllocationDeciderIT:0.08333333333333333

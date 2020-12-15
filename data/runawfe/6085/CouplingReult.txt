@@ -1,0 +1,128 @@
+Compared Result of  two versions
+Number of New Class: 76
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : ru.runa.gpd.swimlane.ActiveDirectorySwimlaneElement: 
+new Added class 1 : ru.runa.gpd.editor.graphiti.add.AddTextAnnotationFeature: 
+new Added class 2 : ru.runa.gpd.formeditor.BaseHtmlFormType: 
+new Added class 3 : ru.runa.gpd.ui.dialog.ChooseBotTaskDialog: 
+new Added class 4 : ru.runa.gpd.ui.dialog.ChooseDateVariableDialog: 
+new Added class 5 : ru.runa.gpd.ui.dialog.ChooseHandlerClassDialog: 
+new Added class 6 : ru.runa.gpd.ui.dialog.ChooseItemDialog: 
+new Added class 7 : ru.runa.gpd.ui.dialog.ChooseUserTypeDialog: 
+new Added class 8 : ru.runa.gpd.ui.dialog.ChooseVariableDialog: 
+new Added class 9 : ru.runa.gpd.ui.dialog.ChooseVariableNameDialog: 
+new Added class 10 : ru.runa.gpd.formeditor.wysiwyg.CKEditorDialogCreatorHelper: 
+new Added class 11 : ru.runa.gpd.ui.action.CreateProcessRegulation: 
+new Added class 12 : ru.runa.gpd.property.DateVariablePropertyDescriptor: 
+new Added class 13 : ru.runa.gpd.formeditor.ftl.DefaultTagImageProvider: 
+new Added class 14 : ru.runa.gpd.property.DelegableClassPropertyDescriptor: 
+new Added class 15 : ru.runa.gpd.editor.graphiti.DiagramToolBehaviorProvider: 
+new Added class 16 : ru.runa.gpd.formeditor.wysiwyg.DialogCreatorHelper: 
+new Added class 17 : ru.runa.gpd.util.Duration: 
+new Added class 18 : ru.runa.gpd.ui.dialog.DurationEditDialog: 
+new Added class 19 : ru.runa.gpd.formeditor.ftl.DynaTagImageProvider: 
+new Added class 20 : ru.runa.gpd.ui.dialog.EditableSyncDialog: 
+new Added class 21 : ru.runa.gpd.property.EditableSyncPropertyDescriptor: 
+new Added class 22 : ru.runa.gpd.EditorsPlugin: 
+new Added class 23 : ru.runa.gpd.swimlane.ExecutorSwimlaneElement: 
+new Added class 24 : ru.runa.gpd.lang.model.FormNode: 
+new Added class 25 : ru.runa.gpd.form.FormType: 
+new Added class 26 : ru.runa.gpd.extension.handler.FormulaCellEditorProvider: 
+new Added class 27 : ru.runa.gpd.quick.tag.FreemarkerProcessorGpdWrap: 
+new Added class 28 : ru.runa.gpd.formeditor.ftl.validation.FreemarkerTag: 
+new Added class 29 : ru.runa.gpd.formeditor.ftl.validation.FreemarkerTagValidator: 
+new Added class 30 : ru.runa.gpd.formeditor.ftl.FreemarkerUtil: 
+new Added class 31 : ru.runa.gpd.formeditor.wysiwyg.FtlComponentHelpProvider: 
+new Added class 32 : ru.runa.gpd.formeditor.ftl.FtlComponentIdGenerator: 
+new Added class 33 : ru.runa.gpd.formeditor.ftl.validation.FtlFormParser: 
+new Added class 34 : ru.runa.gpd.formeditor.FtlFormType: 
+new Added class 35 : ru.runa.gpd.formeditor.wysiwyg.FtlTagSupportServlet: 
+new Added class 36 : ru.runa.gpd.htmleditor.assist.HTMLAssistProcessor: 
+new Added class 37 : ru.runa.gpd.htmleditor.editors.HTMLConfiguration: 
+new Added class 38 : ru.runa.gpd.htmleditor.editors.HTMLDoubleClickStrategy: 
+new Added class 39 : ru.runa.gpd.formeditor.HtmlFormType: 
+new Added class 40 : ru.runa.gpd.htmleditor.HTMLPlugin: 
+new Added class 41 : ru.runa.gpd.htmleditor.tasktag.HTMLTaskTagDetector: 
+new Added class 42 : ru.runa.gpd.ui.view.IRequiredPropertiesSource: 
+new Added class 43 : ru.runa.gpd.formeditor.ftl.ITagImageProvider: 
+new Added class 44 : ru.runa.gpd.htmleditor.template.JavaScriptContextType: 
+new Added class 45 : ru.runa.gpd.property.LocalizationLabelProvider: 
+new Added class 46 : ru.runa.gpd.formeditor.ftl.MethodTag: 
+new Added class 47 : ru.runa.gpd.ui.dialog.MultipleMapListDialog: 
+new Added class 48 : ru.runa.gpd.ui.action.OpenToolPaletteExplorer: 
+new Added class 49 : ru.runa.gpd.swimlane.OrgFunctionSwimlaneElement: 
+new Added class 50 : ru.runa.gpd.form.PreviewFormWizard: 
+new Added class 51 : ru.runa.gpd.editor.ProcessEditorBase: 
+new Added class 52 : ru.runa.gpd.ui.custom.ProcessFileComposite: 
+new Added class 53 : ru.runa.gpd.ui.view.PropertiesView: 
+new Added class 54 : ru.runa.gpd.lang.model.PropertyNames: 
+new Added class 55 : ru.runa.gpd.quick.formeditor.util.QuickFormConvertor: 
+new Added class 56 : ru.runa.gpd.quick.formeditor.QuickFormEditor: 
+new Added class 57 : ru.runa.gpd.quick.formeditor.QuickFormType: 
+new Added class 58 : ru.runa.gpd.quick.formeditor.ui.wizard.QuickFormVariableWizardPage: 
+new Added class 59 : ru.runa.gpd.quick.formeditor.ui.wizard.QuickFormVariabliesToDisplayWizardPage: 
+new Added class 60 : ru.runa.gpd.formeditor.wysiwyg.RegulationHTMLEditor: 
+new Added class 61 : ru.runa.gpd.swimlane.RelationComposite: 
+new Added class 62 : ru.runa.gpd.editor.graphiti.update.ResizeStateNodeFeature: 
+new Added class 63 : ru.runa.gpd.extension.handler.SwimlaneAssignerCellEditorProvider: 
+new Added class 64 : ru.runa.gpd.ui.dialog.SwimlaneConfigDialog: 
+new Added class 65 : ru.runa.gpd.swimlane.SwimlaneElement: 
+new Added class 66 : ru.runa.gpd.lang.par.SwimlaneGUIContentProvider: 
+new Added class 67 : ru.runa.gpd.ui.custom.TableViewerLocalDragAndDropSupport: 
+new Added class 68 : ru.runa.gpd.htmleditor.editors.TagRule: 
+new Added class 69 : ru.runa.gpd.ui.dialog.TimerActionEditDialog: 
+new Added class 70 : ru.runa.gpd.formeditor.ftl.validation.ValidationMessage: 
+new Added class 71 : ru.runa.gpd.validation.ValidationUtil: 
+new Added class 72 : ru.runa.gpd.lang.par.VariablesXmlContentProvider: 
+new Added class 73 : ru.runa.gpd.util.VariableUtils: 
+new Added class 74 : ru.runa.gpd.formeditor.wysiwyg.WYSIWYGHTMLEditor: 
+new Added class 75 : ru.runa.gpd.xmleditor.XMLAssistProcessor: 
+testing relationship 
+class 0  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 49£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 2  vs  class 25£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 19£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 18  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:9  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 19  vs  class 43£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 20  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 49£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 74£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 34  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 37  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:8  r9:0  r10:2  r11:5  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 38£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 39  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 46  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 49  vs  class 65£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 42£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:11  r9:0  r10:6  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 57  vs  class 25£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 74£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 64  vs  class 65£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 69  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 69  vs  class 17£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 69  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 71  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:11  r15:0  r16:1  r17:0  
+class 71  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 74  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:10  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 75  vs  class 36£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  15   2 :  1   3 :  2   4 :  2   5 :  3   6 :  3   7 :  0   8 :  38   9 :  0   10 :  18   11 :  37   12 :  0   13 :  30   14 :  23   15 :  0   16 :  2   17 :  0   

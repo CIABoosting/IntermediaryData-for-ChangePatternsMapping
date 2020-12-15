@@ -1,0 +1,16 @@
+GeoDistanceSortBuilder:0.4266666666666667
+ScriptSortBuilder:0.41333333333333333
+FieldSortBuilder:0.3433333333333333
+SortBuilders:0.2833333333333333
+SearchSourceBuilderTests:0.19666666666666666
+GeoDistanceIT:0.18333333333333332
+FieldSortIT:0.17666666666666667
+SimpleNestedIT:0.16
+SimpleSortTests:0.16
+GeoDistanceSortBuilderIT:0.155
+ScriptSortParser:0.14
+GroovyScriptTests:0.13666666666666666
+RandomSortDataGenerator:0.10333333333333333
+GeoDistanceSortBuilderTests:0.09166666666666666
+AbstractSortTestCase:0.08666666666666667
+TopHitsTests:0.08333333333333333

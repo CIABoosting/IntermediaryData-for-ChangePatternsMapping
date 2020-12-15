@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : jodd.http.BufferTest: 
+new Added class 1 : jodd.http.CookieTest: 
+new Added class 2 : jodd.http.EncodingTest: 
+new Added class 3 : jodd.http.GoogleMapsTest: 
+new Added class 4 : jodd.http.HttpBrowserOfflineTest: 
+new Added class 5 : jodd.http.HttpBrowserTest: 
+new Added class 6 : jodd.http.HttpConnectionTest: 
+new Added class 7 : jodd.http.HttpMultiMapTest: 
+new Added class 8 : jodd.http.HttpProgressListenerTest: 
+new Added class 9 : jodd.http.HttpRedirectTest: 
+new Added class 10 : jodd.http.HttpRequestTest: 
+new Added class 11 : jodd.http.HttpUtilTest: 
+new Added class 12 : jodd.JoddHttpTest: 
+new Added class 13 : jodd.http.KeepAliveTest: 
+new Added class 14 : jodd.http.ProxyTest: 
+new Added class 15 : jodd.http.RawTest: 
+new Added class 16 : jodd.http.TimeoutTest: 
+testing relationship 
+class 3  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  2   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

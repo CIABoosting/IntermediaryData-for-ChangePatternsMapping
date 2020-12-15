@@ -1,0 +1,14 @@
+InternalOperationService:0.6833333333333333
+BasicOperationService:0.46
+SlowOperationLog:0.4166666666666667
+BasicOperationRunner:0.25666666666666665
+CleanupThread:0.25333333333333335
+InvokeOnPartitions:0.25083333333333335
+SlowOperationDetector:0.17666666666666667
+SlowOperationDetectorAbstractTest:0.13
+LocalOperationStatsImpl:0.08333333333333333
+SlowOperationDetector_EntryProcessorTest:0.07333333333333333
+GroupProperties:0.06
+BasicResponsePacketHandler:0.03666666666666667
+SlowOperationDetector_purgeTest:0.034444444444444444
+BasicOperationRunnerFactory:0.03

@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.titou10.jtb.util.Constants: 
+new Added class 1 : org.titou10.jtb.ui.part.JTBQueuesContentViewPart: 
+new Added class 2 : org.titou10.jtb.handler.ScriptClearLogHandler: 
+new Added class 3 : org.titou10.jtb.ui.part.ScriptEditViewPart: 
+new Added class 4 : org.titou10.jtb.script.ScriptExecutionEngine: 
+new Added class 5 : org.titou10.jtb.ui.part.ScriptExecutionLogViewPart: 
+new Added class 6 : org.titou10.jtb.dialog.ScriptNewDialog: 
+new Added class 7 : org.titou10.jtb.dialog.ScriptNewPauseDialog: 
+new Added class 8 : org.titou10.jtb.dialog.ScriptNewStepDialog: 
+new Added class 9 : org.titou10.jtb.handler.ScriptNewStepHandler: 
+new Added class 10 : org.titou10.jtb.handler.ScriptsAddOrEditHandler: 
+new Added class 11 : org.titou10.jtb.handler.ScriptSaveHandler: 
+new Added class 12 : org.titou10.jtb.ui.part.ScriptsBrowserViewPart: 
+new Added class 13 : org.titou10.jtb.handler.ScriptsNewFolderHandler: 
+new Added class 14 : org.titou10.jtb.handler.ScriptsRenameDuplicateDeleteHandler: 
+new Added class 15 : org.titou10.jtb.script.ScriptsUtils: 
+testing relationship 
+class 9  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  7   12 :  0   13 :  5   14 :  0   15 :  0   16 :  0   17 :  0   

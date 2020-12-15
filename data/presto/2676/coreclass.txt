@@ -1,0 +1,12 @@
+PlanPrinter:0.5066666666666667
+Visitor:0.3466666666666667
+LocalQueryRunner:0.2866666666666667
+LocalExecutionPlanner:0.27
+AbstractTestQueryFramework:0.25333333333333335
+ExplainAnalyzeOperator:0.2
+ExplainAnalyzeOperatorFactory:0.18666666666666668
+QueryExplainer:0.18
+TaskTestUtils:0.10333333333333333
+RuleAssert:0.08666666666666667
+RuleTester:0.0625
+PlanAssert:0.043333333333333335

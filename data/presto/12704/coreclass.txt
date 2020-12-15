@@ -1,0 +1,14 @@
+BlockCursor:0.41
+TestRunLengthEncodedBlockCursor:0.36
+TestRunLengthEncodedBlockCursorWithNull:0.36
+BlockCursorAssertions:0.34
+AbstractTestBlockCursor:0.30666666666666664
+AlternatingNullsBlockCursor:0.27666666666666667
+UncompressedLongBlockCursor:0.27666666666666667
+LongSequenceCursor:0.27666666666666667
+UncompressedBlockCursor:0.27666666666666667
+UncompressedDoubleBlockCursor:0.27666666666666667
+DictionaryEncodedBlockCursor:0.27666666666666667
+DoubleSequenceCursor:0.27666666666666667
+UncompressedSliceBlockCursor:0.27666666666666667
+RunLengthEncodedBlockCursor:0.25666666666666665

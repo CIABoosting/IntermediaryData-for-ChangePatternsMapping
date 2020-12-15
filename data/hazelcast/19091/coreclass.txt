@@ -1,0 +1,12 @@
+MapContainer:0.5466666666666666
+MultiMapContainer:0.44333333333333336
+MultiMapTest:0.3466666666666667
+MultiMapService:0.32
+MultiMapMigrationOperation:0.215
+RemoveOperation:0.15
+RemoveAllOperation:0.12666666666666668
+TxnRemoveAllOperation:0.12333333333333334
+TxnRemoveOperation:0.12333333333333334
+TxnPutOperation:0.12333333333333334
+TxnLockAndGetOperation:0.12
+PutOperation:0.09

@@ -1,0 +1,16 @@
+MetadataDao:0.5516666666666666
+ShardManager:0.46711904761904766
+Table:0.45
+RaptorTableHandle:0.3933333333333333
+RaptorMetadata:0.35
+ShardManagerDao:0.2535396825396825
+TestRaptorMetadata:0.25
+RaptorConnector:0.23
+DatabaseShardManager:0.21692857142857142
+RaptorPageSink:0.2
+RaptorHandleResolver:0.17333333333333334
+DatabaseUtil:0.17
+TestRaptorDistributedQueries:0.16
+TableMapper:0.08333333333333333
+BucketedPageWriter:0.08
+RaptorModule:0.04

@@ -1,0 +1,15 @@
+Compared Result of  two versions
+Number of New Class: 9
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.crate.integrationtests.InformationSchemaTest: 
+new Added class 1 : io.crate.operation.reference.sys.node.NodeHeapExpression: 
+new Added class 2 : io.crate.operation.reference.sys.node.NodeLoadExpression: 
+new Added class 3 : io.crate.operation.reference.sys.node.NodeMemoryExpression: 
+new Added class 4 : io.crate.operation.reference.sys.node.NodeNetworkExpression: 
+new Added class 5 : io.crate.operation.reference.sys.node.NodeOsExpression: 
+new Added class 6 : io.crate.operation.reference.sys.node.NodeProcessExpression: 
+new Added class 7 : io.crate.operation.reference.sys.SysNodesExpressionsTest: 
+new Added class 8 : io.crate.metadata.sys.SysNodesTableInfo: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

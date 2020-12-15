@@ -1,0 +1,13 @@
+SequenceLearningAlgorithm:0.4825
+InMemoryLookupTable:0.36333333333333334
+VectorsConfiguration:0.3111111111111111
+Builder:0.3
+ParagraphVectors:0.29333333333333333
+SkipGram:0.275
+DM:0.26666666666666666
+RemoteConvolutionalIterationListener:0.24666666666666667
+CBOW:0.21666666666666667
+ParagraphVectorsTest:0.18666666666666668
+WordVectorSerializer:0.18
+SequenceVectors:0.17666666666666667
+DBOW:0.17

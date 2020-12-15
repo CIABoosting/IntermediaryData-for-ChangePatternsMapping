@@ -1,0 +1,9 @@
+CollectNode:0.36666666666666664
+OrderBy:0.35333333333333333
+CrateTestCluster:0.2866666666666667
+Context:0.2733333333333333
+CollectInputSymbolVisitor:0.23333333333333334
+CrateSearchService:0.22
+LuceneDocCollector:0.22
+PlanNodeBuilder:0.17
+ShardCollectService:0.14333333333333334

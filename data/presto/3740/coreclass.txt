@@ -1,0 +1,15 @@
+LookupSourceFactory:0.5866666666666667
+TestHashJoinOperator:0.3566666666666667
+LookupJoinOperators:0.33
+LookupJoinOperatorFactory:0.25666666666666665
+JoinNode:0.25633333333333336
+LookupOuterOperator:0.24444444444444444
+Visitor:0.24333333333333335
+HashBuilderOperator:0.22333333333333333
+JoinProbeCompiler:0.17666666666666667
+IndexLookupSourceFactory:0.17333333333333334
+HashJoinOperatorFactoryFactory:0.17027777777777778
+PartitionedLookupSourceFactory:0.16333333333333333
+HashBuilderOperatorFactory:0.14
+LookupOuterOperatorFactory:0.14
+BenchmarkHashBuildAndJoinOperators:0.11211111111111113

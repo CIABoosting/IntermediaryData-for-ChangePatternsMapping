@@ -1,0 +1,17 @@
+MergePhase:0.49666666666666665
+RoutedCollectPhase:0.47333333333333333
+NestedLoopPhase:0.24
+StubPhase:0.215
+FetchPhase:0.17333333333333334
+AbstractProjectionsPhase:0.17
+TableFunctionCollectPhase:0.155
+CountPhase:0.13666666666666666
+ExecutionPhase:0.12666666666666668
+ExecutionPhases:0.12333333333333334
+FileUriCollectPhase:0.12
+DistributingDownstreamFactoryTest:0.10333333333333333
+ExecutionPhasesTaskTest:0.09666666666666666
+MergeNodeTest:0.08333333333333333
+NestedLoopPhaseTest:0.08333333333333333
+RoutedCollectPhaseTest:0.08
+CountPhaseTest:0.07666666666666666

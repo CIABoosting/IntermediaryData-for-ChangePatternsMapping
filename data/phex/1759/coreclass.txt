@@ -1,0 +1,16 @@
+Host:0.67
+MsgManager:0.3
+HTTPHeaders:0.27666666666666667
+MsgQuery:0.27666666666666667
+DynamicQueryEngine:0.26
+GUIDRoutingTable:0.24666666666666667
+QueryManager:0.23
+NetworkHostsContainer:0.21666666666666667
+Entry:0.2063968253968254
+ConnectionEngine:0.20333333333333334
+HTTPHeader:0.18666666666666668
+QRPUpdateTimer:0.12
+DynamicQueryConstants:0.09333333333333334
+UltrapeerHandshakeHandler:0.06
+DynamicQueryWorker:0.03666666666666667
+LeafHandshakeHandler:0.016666666666666666

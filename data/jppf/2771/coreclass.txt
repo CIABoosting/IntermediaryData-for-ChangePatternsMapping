@@ -1,0 +1,14 @@
+Diagnostics:0.46
+JPPFNode:0.35333333333333333
+CloseableHandler:0.35
+AbstractJPPFClassLoader:0.2891111111111111
+ResourceCache:0.22666666666666666
+AbstractRecoveryConnection:0.22166666666666668
+ClientConnection:0.19833333333333333
+CPUTimeCollector:0.18833333333333332
+PeriodicTask:0.13833333333333334
+ClassLoaderRequestHandler:0.09
+DriverDiagnosticsMBeanProvider:0.08333333333333333
+NodeDiagnosticsMBeanProvider:0.08333333333333333
+ConcurrentMapCopyOnWriteList:0.03333333333333333
+RecoveryLeakRunner:0.0

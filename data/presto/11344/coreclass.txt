@@ -1,0 +1,17 @@
+Node:0.5333333333333333
+NodeManager:0.48
+DiscoveryNodeManager:0.28
+NodeScheduler:0.24
+TestDiscoveryNodeManager:0.20666666666666667
+NativeSplitManager:0.185
+InMemoryNodeManager:0.15666666666666668
+SystemSplitManager:0.13666666666666666
+NodesSystemTable:0.13
+JmxSplitManager:0.12333333333333334
+TpchSplitManager:0.12333333333333334
+ServerMainModule:0.12333333333333334
+TestingPrestoServer:0.11
+PrestoTestingServer:0.10333333333333333
+TestSqlStageExecution:0.1
+Rewriter:0.08333333333333333
+ShardCleanerRunnable:0.07666666666666666

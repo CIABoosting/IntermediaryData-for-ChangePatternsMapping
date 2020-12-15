@@ -1,0 +1,33 @@
+Compared Result of  two versions
+Number of New Class: 20
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.hazelcast.map.AbstractSizeEstimator: 
+new Added class 1 : com.hazelcast.spi.exception.CallTimeoutException: 
+new Added class 2 : com.hazelcast.client.io.ClientSSLSocketTest: 
+new Added class 3 : com.hazelcast.client.txn.ClientTxnMapTest: 
+new Added class 4 : com.hazelcast.client.connection.DefaultSocketFactory: 
+new Added class 5 : com.hazelcast.spring.DummyDataSerializableFactory: 
+new Added class 6 : com.hazelcast.spring.DummyGlobalSerializationFactory: 
+new Added class 7 : com.hazelcast.spring.DummyPortableFactory: 
+new Added class 8 : com.hazelcast.spring.DummyProxyFactory: 
+new Added class 9 : com.hazelcast.test.HazelcastTestSupport: 
+new Added class 10 : com.hazelcast.spi.impl.InvocationImpl: 
+new Added class 11 : com.hazelcast.concurrent.lock.LockTest: 
+new Added class 12 : com.hazelcast.map.MapSizeEstimator: 
+new Added class 13 : com.hazelcast.spi.impl.OperationServiceImpl: 
+new Added class 14 : com.hazelcast.core.PartitionAwareKey: 
+new Added class 15 : com.hazelcast.map.SizeEstimator: 
+new Added class 16 : com.hazelcast.map.SizeEstimators: 
+new Added class 17 : com.hazelcast.client.connection.SocketFactory: 
+new Added class 18 : com.hazelcast.client.connection.SSLSocketFactory: 
+new Added class 19 : com.hazelcast.spi.impl.WaitNotifyServiceImpl: 
+testing relationship 
+class 0  vs  class 15£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 17£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:10  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:1  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 17£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  3   3 :  0   4 :  0   5 :  1   6 :  0   7 :  0   8 :  1   9 :  0   10 :  0   11 :  4   12 :  0   13 :  10   14 :  0   15 :  0   16 :  0   17 :  0   

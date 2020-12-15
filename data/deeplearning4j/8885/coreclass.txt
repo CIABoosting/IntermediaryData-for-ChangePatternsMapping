@@ -1,0 +1,16 @@
+Tree:0.51
+BaseMultiLayerNetwork:0.31
+BinarizeTreeTransformer:0.30333333333333334
+TreeParser:0.27666666666666667
+DataSet:0.23
+RNTN:0.22333333333333333
+Windows:0.2
+Window:0.18666666666666668
+UimaTokenizerFactory:0.17833333333333334
+OutputLayer:0.16333333333333333
+TreeVectorizer:0.09333333333333334
+TreeFactory:0.085
+UimaTokenizer:0.07
+MnistExample:0.03666666666666667
+TreeTransformerTests:0.025
+TreeParserTest:0.0125

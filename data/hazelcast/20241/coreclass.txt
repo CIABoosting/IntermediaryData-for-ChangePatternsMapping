@@ -1,0 +1,13 @@
+PartitionServiceImpl:0.4066666666666667
+PartitionImpl:0.33
+PartitionStateGeneratorImpl:0.2733333333333333
+ShortPartitionInfo:0.25833333333333336
+BackupMigrationTask:0.25
+PartitionRuntimeState:0.24666666666666667
+PartitionTable:0.19305555555555554
+RepartitioningTask:0.12666666666666668
+PartitionStateGeneratorTest:0.12333333333333334
+DummyPartitionView:0.06166666666666667
+CopyStateInitializer:0.02666666666666667
+StateInitializer:0.025833333333333333
+EmptyStateInitializer:0.01

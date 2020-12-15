@@ -1,0 +1,56 @@
+Compared Result of  two versions
+Number of New Class: 50
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opengis.metadata.identification.AssociationType: 
+new Added class 1 : org.opengis.referencing.cs.AxisDirection: 
+new Added class 2 : org.opengis.geometry.coordinate.BSplineSurfaceForm: 
+new Added class 3 : org.opengis.coverage.grid.ByteInValuePacking: 
+new Added class 4 : org.opengis.metadata.spatial.CellGeometry: 
+new Added class 5 : org.opengis.metadata.identification.CharacterSet: 
+new Added class 6 : org.opengis.metadata.constraint.Classification: 
+new Added class 7 : org.opengis.coverage.ColorInterpretation: 
+new Added class 8 : org.opengis.coverage.CommonPointRule: 
+new Added class 9 : org.opengis.metadata.content.CoverageContentType: 
+new Added class 10 : org.opengis.geometry.primitive.CurveInterpolation: 
+new Added class 11 : org.opengis.metadata.Datatype: 
+new Added class 12 : org.opengis.metadata.citation.DateType: 
+new Added class 13 : org.opengis.metadata.spatial.DimensionNameType: 
+new Added class 14 : org.opengis.metadata.quality.EvaluationMethodType: 
+new Added class 15 : org.opengis.webservice.ExceptionCode: 
+new Added class 16 : org.opengis.metadata.spatial.GeometricObjectType: 
+new Added class 17 : org.opengis.metadata.content.ImagingCondition: 
+new Added class 18 : org.opengis.temporal.IndeterminateValue: 
+new Added class 19 : org.opengis.metadata.identification.InitiativeType: 
+new Added class 20 : org.opengis.coverage.InterpolationMethod: 
+new Added class 21 : org.opengis.metadata.identification.KeywordType: 
+new Added class 22 : org.opengis.geometry.coordinate.KnotType: 
+new Added class 23 : org.opengis.metadata.maintenance.MaintenanceFrequency: 
+new Added class 24 : org.opengis.metadata.distribution.MediumFormat: 
+new Added class 25 : org.opengis.metadata.distribution.MediumName: 
+new Added class 26 : org.opengis.webservice.MetadataType: 
+new Added class 27 : org.opengis.metadata.Obligation: 
+new Added class 28 : org.opengis.metadata.citation.OnLineFunction: 
+new Added class 29 : org.opengis.coverage.PaletteInterpretation: 
+new Added class 30 : org.opengis.referencing.datum.PixelInCell: 
+new Added class 31 : org.opengis.metadata.spatial.PixelOrientation: 
+new Added class 32 : org.opengis.geometry.PrecisionType: 
+new Added class 33 : org.opengis.metadata.citation.PresentationForm: 
+new Added class 34 : org.opengis.metadata.identification.Progress: 
+new Added class 35 : org.opengis.referencing.cs.RangeMeaning: 
+new Added class 36 : org.opengis.temporal.RelativePosition: 
+new Added class 37 : org.opengis.metadata.constraint.Restriction: 
+new Added class 38 : org.opengis.metadata.citation.Role: 
+new Added class 39 : org.opengis.coverage.SampleDimensionType: 
+new Added class 40 : org.opengis.metadata.maintenance.ScopeCode: 
+new Added class 41 : org.opengis.coverage.grid.quadrilateral.SequenceType: 
+new Added class 42 : org.opengis.filter.sort.SortOrder: 
+new Added class 43 : org.opengis.metadata.spatial.SpatialRepresentationType: 
+new Added class 44 : org.opengis.geometry.coordinate.SplineCurveForm: 
+new Added class 45 : org.opengis.geometry.primitive.SurfaceInterpolation: 
+new Added class 46 : org.opengis.metadata.identification.TopicCategory: 
+new Added class 47 : org.opengis.metadata.spatial.TopologyLevel: 
+new Added class 48 : org.opengis.coverage.grid.ValueInBytePacking: 
+new Added class 49 : org.opengis.referencing.datum.VerticalDatumType: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

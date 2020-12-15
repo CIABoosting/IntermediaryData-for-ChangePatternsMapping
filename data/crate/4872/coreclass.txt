@@ -1,0 +1,10 @@
+TransportBaseSQLAction:0.55
+AnalyzedStatement:0.2633333333333333
+AbstractInsertAnalyzedStatement:0.25666666666666665
+AnalyzerDispatcher:0.21
+CopyAnalyzedStatement:0.2
+SelectAnalyzedStatement:0.19777777777777777
+DeleteAnalyzedStatement:0.19666666666666666
+UpdateAnalyzedStatement:0.14666666666666667
+AbstractDDLAnalyzedStatement:0.11
+Analysis:0.06

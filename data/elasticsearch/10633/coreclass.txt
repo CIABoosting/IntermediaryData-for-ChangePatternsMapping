@@ -1,0 +1,16 @@
+IndexShard:0.6366666666666667
+IndexEventListener:0.5566666666666666
+CommonStats:0.35
+NodeServicesProvider:0.32
+IndexModuleTests:0.28
+IndicesService:0.24666666666666667
+IndicesRequestCache:0.24666666666666667
+IndexShardTests:0.23
+SearchService:0.2080952380952381
+IndicesModule:0.17
+CompositeIndexEventListener:0.16333333333333333
+TransportIndicesStatsAction:0.12333333333333334
+TransportClearIndicesCacheAction:0.12333333333333334
+TransportClusterStatsAction:0.12333333333333334
+IndexSearcherWrapperFactory:0.08444444444444445
+MockSearchService:0.043333333333333335

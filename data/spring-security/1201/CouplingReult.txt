@@ -1,0 +1,15 @@
+Compared Result of  two versions
+Number of New Class: 9
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.springframework.security.config.annotation.authentication.configurers.userdetails.AbstractDaoAuthenticationConfigurer: 
+new Added class 1 : org.springframework.security.acls.afterinvocation.Filterer: 
+new Added class 2 : org.springframework.security.config.annotation.web.builders.HttpSecurity: 
+new Added class 3 : org.springframework.security.authentication.jaas.JaasAuthenticationCallbackHandler: 
+new Added class 4 : org.springframework.security.openid.OpenIDAuthenticationToken: 
+new Added class 5 : org.springframework.security.acls.model.PermissionGrantingStrategy: 
+new Added class 6 : org.springframework.security.samples.cas.web.ProxyTicketSampleServlet: 
+new Added class 7 : org.springframework.security.web.header.writers.frameoptions.RegExpAllowFromStrategy: 
+new Added class 8 : org.springframework.security.cas.authentication.StatelessTicketCache: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

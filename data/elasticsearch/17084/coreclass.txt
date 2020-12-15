@@ -1,0 +1,14 @@
+Builder:0.6933333333333334
+TimeValue:0.55
+InternalTestCluster:0.3233333333333333
+RecoverySettingsTest:0.23333333333333334
+DateHistogramTests:0.23
+AckTests:0.2
+DerivativeTests:0.19666666666666666
+SharedClusterSnapshotRestoreTests:0.17333333333333334
+TTLPercolatorTests:0.14
+SimpleTTLTests:0.12333333333333334
+InternalEngineSettingsTest:0.12333333333333334
+DerivativeParser:0.11666666666666667
+FuzzinessTests:0.11
+TimeValueTests:0.09666666666666666

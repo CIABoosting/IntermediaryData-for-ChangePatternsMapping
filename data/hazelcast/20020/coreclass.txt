@@ -1,0 +1,9 @@
+QueryTest:0.46
+WanReplicationTest:0.3933333333333333
+BackupTest:0.36666666666666664
+JoinStressTest:0.23666666666666666
+LockTest:0.21666666666666667
+GroupPartitionState:0.19880952380952382
+PartitionStateGeneratorTest:0.19
+DummyInternalPartition:0.12666666666666668
+ClientIOExecutorPoolSizeLowTest:0.06

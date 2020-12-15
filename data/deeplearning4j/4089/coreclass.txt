@@ -1,0 +1,17 @@
+WordVectorSerializer:0.62
+Builder:0.42
+DM:0.37
+ParameterAveragingTrainingWorker:0.3233333333333333
+ParagraphVectors:0.30666666666666664
+SequenceLearningAlgorithm:0.29503968253968255
+CBOW:0.16777777777777778
+WordVectorSerializerTest:0.16333333333333333
+IterativeReduceFlatMap:0.11333333333333333
+EvaluateFlatMapFunction:0.11333333333333333
+DBOW:0.10833333333333334
+ParagraphVectorsTest:0.09
+ScoreFlatMapFunction:0.05333333333333334
+ScoreExamplesWithKeyFunction:0.02666666666666667
+ScoreExamplesFunction:0.02666666666666667
+ScoreFlatMapFunctionCGMultiDataSet:0.02666666666666667
+ScoreFlatMapFunctionCGDataSet:0.02666666666666667

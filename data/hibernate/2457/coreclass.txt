@@ -1,0 +1,15 @@
+Lock:0.8233333333333334
+PutFromLoadValidator:0.43333333333333335
+PutFromLoadValidatorUnitTestCase:0.33
+XaTransactionManagerImpl:0.27666666666666667
+TransactionalAccessDelegate:0.255
+DualNodeJtaTransactionImpl:0.24666666666666667
+BasicTransactionalTestCase:0.24
+PendingPutMap:0.23333333333333334
+AbstractCollectionRegionAccessStrategyTestCase:0.23
+TransactionalAccess:0.2
+AbstractFunctionalTestCase:0.16333333333333333
+RegularPut:0.09333333333333334
+Invalidation:0.08666666666666667
+NakedPut:0.08166666666666667
+HookInterceptor:0.023333333333333334

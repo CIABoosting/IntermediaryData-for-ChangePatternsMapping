@@ -1,0 +1,11 @@
+LockStoreImpl:0.5066666666666667
+LockResourceImpl:0.33
+LockServiceImpl:0.2966666666666667
+AwaitOperation:0.29
+ConditionKey:0.28
+AwaitBackupOperation:0.20833333333333334
+UnlockOperation:0.20666666666666667
+BeforeAwaitOperation:0.18333333333333332
+AbstractLockOperation:0.16333333333333333
+ProducerConsumerConditionStressTest:0.12
+BaseSignalOperation:0.08666666666666667

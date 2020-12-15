@@ -1,0 +1,236 @@
+Compared Result of  two versions
+Number of New Class: 162
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opengis.filter.query.AdhocQueryExpression: 
+new Added class 1 : org.opengis.geometry.coordinate.AffinePlacement: 
+new Added class 2 : org.opengis.geometry.aggregate.AggregateFactory: 
+new Added class 3 : org.opengis.observation.AnyFeature: 
+new Added class 4 : org.opengis.geometry.coordinate.Arc: 
+new Added class 5 : org.opengis.filter.capability.ArithmeticOperators: 
+new Added class 6 : org.opengis.metadata.identification.AssociationType: 
+new Added class 7 : org.opengis.feature.Attribute: 
+new Added class 8 : org.opengis.feature.AttributeType: 
+new Added class 9 : org.opengis.test.report.AuthorityCodesReport: 
+new Added class 10 : org.opengis.test.referencing.AuthorityFactoryTest: 
+new Added class 11 : org.opengis.geometry.BoundingBox: 
+new Added class 12 : org.opengis.metadata.identification.BrowseGraphic: 
+new Added class 13 : org.opengis.temporal.Calendar: 
+new Added class 14 : org.opengis.metadata.citation.Citation: 
+new Added class 15 : org.opengis.temporal.ClockTime: 
+new Added class 16 : org.opengis.geometry.coordinate.Clothoid: 
+new Added class 17 : org.opengis.style.ColorReplacement: 
+new Added class 18 : org.opengis.filter.capability.ComparisonOperators: 
+new Added class 19 : org.opengis.geometry.complex.Complex: 
+new Added class 20 : org.opengis.geometry.complex.ComplexFactory: 
+new Added class 21 : org.opengis.test.Configuration: 
+new Added class 22 : org.opengis.geometry.coordinate.Conic: 
+new Added class 23 : org.opengis.metadata.constraint.Constraints: 
+new Added class 24 : org.opengis.coverage.grid.ContinuousQuadrilateralGridCoverage: 
+new Added class 25 : org.opengis.geometry.coordinate.CoordinateSystem: 
+new Added class 26 : org.opengis.metadata.identification.CoupledResource: 
+new Added class 27 : org.opengis.coverage.Coverage: 
+new Added class 28 : org.opengis.metadata.content.CoverageContentType: 
+new Added class 29 : org.opengis.sld.CoverageExtent: 
+new Added class 30 : org.opengis.geometry.coordinate.CubicSpline: 
+new Added class 31 : org.opengis.geometry.primitive.CurveSegment: 
+new Added class 32 : org.opengis.metadata.identification.DataIdentification: 
+new Added class 33 : org.opengis.metadata.citation.DateType: 
+new Added class 34 : org.opengis.tools.taglet.Departure: 
+new Added class 35 : org.opengis.metadata.spatial.Dimension: 
+new Added class 36 : org.opengis.util.Enumerated: 
+new Added class 37 : org.opengis.filter.ExcludeFilter: 
+new Added class 38 : org.opengis.test.referencing.gigs.ExpectedDataTest: 
+new Added class 39 : org.opengis.filter.expression.Expression: 
+new Added class 40 : org.opengis.style.ExternalGraphic: 
+new Added class 41 : org.opengis.feature.Feature: 
+new Added class 42 : org.opengis.feature.FeatureAssociation: 
+new Added class 43 : org.opengis.feature.FeatureType: 
+new Added class 44 : org.opengis.style.FeatureTypeStyle: 
+new Added class 45 : org.opengis.filter.Filter: 
+new Added class 46 : org.opengis.filter.capability.FilterCapabilities: 
+new Added class 47 : org.opengis.coverage.grid.FootPrint: 
+new Added class 48 : org.opengis.filter.capability.FunctionName: 
+new Added class 49 : org.opengis.filter.capability.Functions: 
+new Added class 50 : org.opengis.parameter.GeneralParameterDescriptor: 
+new Added class 51 : org.opengis.geometry.coordinate.GenericCurve: 
+new Added class 52 : org.opengis.util.GenericName: 
+new Added class 53 : org.opengis.geometry.coordinate.GenericSurface: 
+new Added class 54 : org.opengis.geometry.Geometry: 
+new Added class 55 : org.opengis.geometry.coordinate.GeometryFactory: 
+new Added class 56 : org.opengis.filter.capability.GeometryOperand: 
+new Added class 57 : org.opengis.filter.identity.GmlObjectId: 
+new Added class 58 : org.opengis.display.container.GraphicsContainer: 
+new Added class 59 : org.opengis.coverage.grid.quadrilateral.GridCell: 
+new Added class 60 : org.opengis.coverage.grid.GridCoverage: 
+new Added class 61 : org.opengis.coverage.grid.quadrilateral.GridPositioning: 
+new Added class 62 : org.opengis.coverage.grid.GridValueCell: 
+new Added class 63 : org.opengis.coverage.grid.quadrilateral.GridValuesMatrix: 
+new Added class 64 : org.opengis.geometry.coordinate.Handed: 
+new Added class 65 : org.opengis.coverage.grid.HexagonalGridCoverage: 
+new Added class 66 : org.opengis.filter.capability.IdCapabilities: 
+new Added class 67 : org.opengis.metadata.identification.Identification: 
+new Added class 68 : org.opengis.metadata.Identifier: 
+new Added class 69 : org.opengis.test.coverage.image.ImageReaderTestCase: 
+new Added class 70 : org.opengis.filter.IncludeFilter: 
+new Added class 71 : org.opengis.temporal.Instant: 
+new Added class 72 : org.opengis.coverage.InterpolationMethod: 
+new Added class 73 : org.opengis.temporal.IntervalLength: 
+new Added class 74 : org.opengis.wrapper.netcdf.IOTestCase: 
+new Added class 75 : org.opengis.metadata.identification.KeywordClass: 
+new Added class 76 : org.opengis.metadata.identification.Keywords: 
+new Added class 77 : org.opengis.metadata.lineage.Lineage: 
+new Added class 78 : org.opengis.observation.sampling.Location: 
+new Added class 79 : org.opengis.metadata.Metadata: 
+new Added class 80 : org.opengis.geometry.aggregate.MultiSurface: 
+new Added class 81 : org.opengis.util.NameFactory: 
+new Added class 82 : org.opengis.wrapper.netcdf.NetcdfCRS: 
+new Added class 83 : org.opengis.wrapper.netcdf.NetcdfMetadata: 
+new Added class 84 : org.opengis.wrapper.netcdf.NetcdfParameter: 
+new Added class 85 : org.opengis.wrapper.netcdf.NetcdfTransformFactory: 
+new Added class 86 : org.opengis.metadata.citation.OnlineResource: 
+new Added class 87 : org.opengis.feature.Operation: 
+new Added class 88 : org.opengis.test.report.OperationParametersReport: 
+new Added class 89 : org.opengis.temporal.OrdinalReferenceSystem: 
+new Added class 90 : org.opengis.geometry.primitive.OrientablePrimitive: 
+new Added class 91 : org.opengis.geometry.primitive.OrientableSurface: 
+new Added class 92 : org.opengis.geometry.coordinate.Parameterization: 
+new Added class 93 : org.opengis.test.referencing.ParameterizedTransformTest: 
+new Added class 94 : org.opengis.parameter.ParameterValueGroup: 
+new Added class 95 : org.opengis.geometry.coordinate.ParametricCurveSurface: 
+new Added class 96 : org.opengis.temporal.Period: 
+new Added class 97 : org.opengis.geometry.coordinate.Permutation: 
+new Added class 98 : org.opengis.wrapper.proj4.PJFactory: 
+new Added class 99 : org.opengis.coverage.PointOutsideCoverageException: 
+new Added class 100 : org.opengis.geometry.coordinate.PolynomialSpline: 
+new Added class 101 : org.opengis.style.portrayal.PortrayalOperation: 
+new Added class 102 : org.opengis.geometry.Precision: 
+new Added class 103 : org.opengis.geometry.PrecisionFactory: 
+new Added class 104 : org.opengis.metadata.citation.PresentationForm: 
+new Added class 105 : org.opengis.feature.Property: 
+new Added class 106 : org.opengis.test.referencing.PseudoEpsgFactory: 
+new Added class 107 : org.opengis.referencing.cs.RangeMeaning: 
+new Added class 108 : org.opengis.util.Record: 
+new Added class 109 : org.opengis.util.RecordType: 
+new Added class 110 : org.opengis.coverage.grid.quadrilateral.RectifiableGrid: 
+new Added class 111 : org.opengis.coverage.grid.RectifiedGrid: 
+new Added class 112 : org.opengis.referencing.ReferenceSystemType: 
+new Added class 113 : org.opengis.openoffice.Referencing: 
+new Added class 114 : org.opengis.temporal.RelativePosition: 
+new Added class 115 : org.opengis.test.report.Report: 
+new Added class 116 : org.opengis.style.Rule: 
+new Added class 117 : org.opengis.metadata.content.SampleDimension: 
+new Added class 118 : org.opengis.filter.capability.ScalarCapabilities: 
+new Added class 119 : org.opengis.metadata.maintenance.ScopeDescription: 
+new Added class 120 : org.opengis.style.SemanticType: 
+new Added class 121 : org.opengis.coverage.grid.SequenceType: 
+new Added class 122 : org.opengis.test.referencing.gigs.Series2000Test: 
+new Added class 123 : org.opengis.test.referencing.gigs.Series3000Test: 
+new Added class 124 : org.opengis.metadata.identification.ServiceIdentification: 
+new Added class 125 : org.opengis.example.referencing.SimpleAxis: 
+new Added class 126 : org.opengis.example.referencing.SimpleDatum: 
+new Added class 127 : org.opengis.example.util.SimpleNameFactory: 
+new Added class 128 : org.opengis.example.parameter.SimpleParameter: 
+new Added class 129 : org.opengis.example.parameter.SimpleParameterGroup: 
+new Added class 130 : org.opengis.example.referencing.SimpleTest: 
+new Added class 131 : org.opengis.sld.SLDVisitor: 
+new Added class 132 : org.opengis.geometry.primitive.Solid: 
+new Added class 133 : org.opengis.geometry.primitive.SolidBoundary: 
+new Added class 134 : org.opengis.filter.sort.SortBy: 
+new Added class 135 : org.opengis.filter.sort.SortOrder: 
+new Added class 136 : org.opengis.filter.capability.SpatialCapabilities: 
+new Added class 137 : org.opengis.filter.capability.SpatialOperators: 
+new Added class 138 : org.opengis.metadata.extent.SpatialTemporalExtent: 
+new Added class 139 : org.opengis.geometry.coordinate.Sphere: 
+new Added class 140 : org.opengis.style.Stroke: 
+new Added class 141 : org.opengis.style.StyleVisitor: 
+new Added class 142 : org.opengis.geometry.primitive.Surface: 
+new Added class 143 : org.opengis.geometry.primitive.SurfaceBoundary: 
+new Added class 144 : org.opengis.geometry.primitive.SurfacePatch: 
+new Added class 145 : org.opengis.tools.taglet.SvnUrl: 
+new Added class 146 : org.opengis.style.Symbolizer: 
+new Added class 147 : org.opengis.filter.capability.TemporalCapabilities: 
+new Added class 148 : org.opengis.temporal.TemporalCoordinateSystem: 
+new Added class 149 : org.opengis.temporal.TemporalFactory: 
+new Added class 150 : org.opengis.filter.capability.TemporalOperand: 
+new Added class 151 : org.opengis.filter.capability.TemporalOperator: 
+new Added class 152 : org.opengis.filter.capability.TemporalOperators: 
+new Added class 153 : org.opengis.temporal.TemporalOrder: 
+new Added class 154 : org.opengis.temporal.TemporalPosition: 
+new Added class 155 : org.opengis.temporal.TemporalReferenceSystem: 
+new Added class 156 : org.opengis.coverage.ThiessenPolygonCoverage: 
+new Added class 157 : org.opengis.test.ToleranceModifiersTest: 
+new Added class 158 : org.opengis.geometry.TransfiniteSet: 
+new Added class 159 : org.opengis.geometry.coordinate.Triangle: 
+new Added class 160 : org.opengis.util.TypeName: 
+new Added class 161 : org.opengis.metadata.identification.Usage: 
+testing relationship 
+class 7  vs  class 105£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 68£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 115£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 10  vs  class 93£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 155£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 154£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 31£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 54£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 31£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 100£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 51£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 67£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 45£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 42  vs  class 105£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 54  vs  class 158£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 68£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 27£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 69  vs  class 79£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 70  vs  class 45£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 82  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:18  r15:0  r16:0  r17:0  
+class 83  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 83  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 83  vs  class 32£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 83  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 83  vs  class 68£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 83  vs  class 79£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 83  vs  class 86£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 85  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 85  vs  class 68£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 85  vs  class 94£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 88  vs  class 87£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 88  vs  class 115£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 89  vs  class 155£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 91  vs  class 90£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 93  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 93  vs  class 94£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 95  vs  class 144£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 98  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 98  vs  class 68£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 94£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:22  r12:0  r13:107  r14:0  r15:0  r16:0  r17:0  
+class 110  vs  class 61£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 113  vs  class 87£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 122  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 122  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 122  vs  class 87£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:3  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 123  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 123  vs  class 94£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 123  vs  class 106£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 124  vs  class 67£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 125  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 125  vs  class 107£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 126  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 127  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 127  vs  class 52£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 127  vs  class 81£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 127  vs  class 160£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 128  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 129  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 129  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 129  vs  class 94£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 142  vs  class 53£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 142  vs  class 91£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 144  vs  class 53£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 148  vs  class 155£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  29   3 :  1   4 :  1   5 :  26   6 :  5   7 :  2   8 :  12   9 :  0   10 :  7   11 :  53   12 :  0   13 :  128   14 :  28   15 :  0   16 :  2   17 :  0   

@@ -1,0 +1,17 @@
+Engine:0.44666666666666666
+IndexShard:0.43333333333333335
+Translog:0.4166666666666667
+EngineConfig:0.38666666666666666
+ShadowEngine:0.3
+InternalEngine:0.29
+MockController:0.2733333333333333
+TranslogConfig:0.26666666666666666
+IndexingMemoryController:0.25333333333333335
+InternalEngineTests:0.21
+IndexShardTests:0.2
+ShardsIndicesStatusChecker:0.19
+IndexingMemoryControllerTests:0.19
+ClusterModule:0.15666666666666668
+BufferingTranslogWriter:0.15
+InternalEngineSettingsTests:0.08416666666666667
+ShardAndBytesUsed:0.0033333333333333335

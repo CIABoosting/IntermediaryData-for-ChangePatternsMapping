@@ -1,0 +1,17 @@
+SocketIOChannelInitializer:0.3333333333333333
+NamespaceClient:0.3233333333333333
+XHRPollingTransport:0.2833333333333333
+PacketHandler:0.26666666666666666
+Configuration:0.22666666666666666
+WebSocketTransport:0.15666666666666668
+PacketsMessage:0.12
+AckManager:0.11
+SocketIOEncoder:0.10777777777777779
+PacketHandlerTest:0.10166666666666667
+AuthorizeHandler:0.1
+HeartbeatHandler:0.09666666666666666
+WebSocketClient:0.05333333333333334
+FlashSocketTransport:0.04
+XHRPollingClient:0.02666666666666667
+Disconnectable:0.0
+BaseTransport:0.0

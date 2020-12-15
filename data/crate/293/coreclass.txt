@@ -1,0 +1,14 @@
+SnapshotRestoreAnalyzerTest:0.2966666666666667
+DropTableAnalyzerTest:0.29333333333333333
+AlterTableAddColumnAnalyzerTest:0.27666666666666667
+RefreshAnalyzerTest:0.2733333333333333
+OptimizeTableAnalyzerTest:0.2733333333333333
+CopyAnalyzerTest:0.24666666666666667
+CreateAlterTableStatementAnalyzerTest:0.24
+UpdateAnalyzerTest:0.24
+SchemasTest:0.21333333333333335
+InsertFromValuesAnalyzerTest:0.20666666666666667
+AlterTableRerouteAnalyzerTest:0.19666666666666666
+PrivilegesIntegrationTest:0.19333333333333333
+AlterTableOpenCloseAnalyzerTest:0.11333333333333333
+DeleteAnalyzerTest:0.10666666666666667

@@ -1,0 +1,13 @@
+Paging:0.63
+Visitor:0.22
+LuceneDocCollectorTest:0.22
+PagingTest:0.22
+LuceneDocCollector:0.18333333333333332
+LuceneDocCollectorBenchmark:0.16
+InnerPreparer:0.16
+QueryThenFetchIntegrationTest:0.15666666666666668
+ModuloDistributingDownstreamTest:0.14666666666666667
+InternalResultProviderFactoryTest:0.12333333333333334
+BroadcastDistributingDownstreamTest:0.10333333333333333
+ShardCollectSource:0.09333333333333334
+ContextPreparer:0.0

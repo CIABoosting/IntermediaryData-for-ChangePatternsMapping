@@ -1,0 +1,35 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.kablink.teaming.module.admin.impl.AbstractAdminModule: 
+new Added class 1 : org.kablink.teaming.module.admin.AdminModule: 
+new Added class 2 : org.kablink.teaming.domain.AuthenticationConfig: 
+new Added class 3 : org.kablink.teaming.security.authentication.AuthenticationManager: 
+new Added class 4 : org.kablink.teaming.security.authentication.impl.AuthenticationManagerImpl: 
+new Added class 5 : org.kablink.teaming.security.authentication.AuthenticationManagerUtil: 
+new Added class 6 : org.kablink.teaming.module.authentication.impl.AuthenticationModuleImpl: 
+new Added class 7 : org.kablink.teaming.dao.CoreDao: 
+new Added class 8 : org.kablink.teaming.dao.impl.CoreDaoImpl: 
+new Added class 9 : org.kablink.teaming.gwt.server.util.GwtServerHelper: 
+new Added class 10 : org.kablink.teaming.spring.security.IdentitySourceObtainable: 
+new Added class 11 : org.kablink.teaming.domain.OpenIDConfig: 
+new Added class 12 : org.kablink.teaming.spring.security.ZoneAwareLocalAuthenticationProviderImpl: 
+new Added class 13 : org.kablink.teaming.domain.ZoneConfig: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:1  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:27  r12:0  r13:33  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 3£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 10£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:4  r14:11  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 13£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:18  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  3   3 :  4   4 :  2   5 :  6   6 :  1   7 :  0   8 :  11   9 :  0   10 :  0   11 :  51   12 :  0   13 :  67   14 :  15   15 :  0   16 :  0   17 :  0   

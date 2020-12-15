@@ -1,0 +1,11 @@
+PeerNode:0.3
+AbstractJPPFClientConnection:0.29333333333333333
+PeerDiscoveryThread:0.29333333333333333
+PeerNodeResultSender:0.29
+JPPFDriver:0.2833333333333333
+JPPFJcaClientConnection:0.24666666666666667
+DriverInitializer:0.22
+PermissionsFactory:0.2086111111111111
+JPPFClientConnectionImpl:0.19666666666666666
+JPPFPeerInitializer:0.16
+PeerResourceProvider:0.06666666666666667

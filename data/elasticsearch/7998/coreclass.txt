@@ -1,0 +1,15 @@
+ESIntegTestCase:0.46
+ElasticsearchAssertions:0.43
+RestTestExecutionContext:0.3
+CorsRegexIT:0.29
+ContextAndHeaderTransportIT:0.2833333333333333
+Stash:0.24
+NettyHttpCompressionIT:0.24
+ExceptionSerializationTests:0.2
+RestMainActionIT:0.19
+CorsNotSetIT:0.19
+ResponseHeaderPluginIT:0.16666666666666666
+DoSection:0.15333333333333332
+DetailedErrorsEnabledIT:0.14
+ESRestTestCase:0.14
+DetailedErrorsDisabledIT:0.11333333333333333

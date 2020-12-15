@@ -1,0 +1,44 @@
+Compared Result of  two versions
+Number of New Class: 26
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : jfuzz.unitTests.AbstractJFuzzTest: 
+new Added class 1 : jfuzz.unitTests.AllTests: 
+new Added class 2 : gov.nasa.jpf.symbc.numeric.BinaryLinearIntegerExpression: 
+new Added class 3 : gov.nasa.jpf.concolic.tests.CharMultiArrayPC: 
+new Added class 4 : gov.nasa.jpf.concolic.tests.CharPC: 
+new Added class 5 : jfuzz.ConcolicListener: 
+new Added class 6 : gov.nasa.jpf.util.Files: 
+new Added class 7 : jfuzz.JFuzz: 
+new Added class 8 : jfuzz.JFuzzConfig: 
+new Added class 9 : gov.nasa.jpf.concolic.tests.JPF_gov_nasa_jpf_concolic_tests_TestUtils: 
+new Added class 10 : jfuzz.JPF_jfuzz_DebugFuzz: 
+new Added class 11 : gov.nasa.jpf.concolic.tests.MultiArgsPC: 
+new Added class 12 : gov.nasa.jpf.concolic.tests.MultiPC: 
+new Added class 13 : jfuzz.termination.NeverTerminate: 
+new Added class 14 : jfuzz.PathCache: 
+new Added class 15 : jfuzz.unitTests.ReadTest: 
+new Added class 16 : gov.nasa.jpf.concolic.tests.SimpleCharArrayPC: 
+new Added class 17 : gov.nasa.jpf.concolic.tests.SimplePC: 
+new Added class 18 : jfuzz.unitTests.SimpleTest: 
+new Added class 19 : jfuzz.SimplifyPC: 
+new Added class 20 : jfuzz.unitTests.SimplifyPCTest: 
+new Added class 21 : gov.nasa.jpf.symbc.numeric.SymbolicInteger: 
+new Added class 22 : jfuzz.termination.TerminationStrategy: 
+new Added class 23 : gov.nasa.jpf.concolic.tests.TestUtils: 
+new Added class 24 : jfuzz.termination.TimedTermination: 
+new Added class 25 : jfuzz.termination.UpToFixedNumber: 
+testing relationship 
+class 1  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  5   2 :  0   3 :  0   4 :  1   5 :  1   6 :  3   7 :  0   8 :  0   9 :  0   10 :  0   11 :  8   12 :  0   13 :  6   14 :  1   15 :  0   16 :  0   17 :  0   

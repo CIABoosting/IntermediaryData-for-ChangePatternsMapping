@@ -1,0 +1,11 @@
+Flyway:0.6433333333333333
+AbstractFlywayTask:0.22666666666666666
+AbstractFlywayMojo:0.22
+Main:0.21166666666666667
+SqlScriptFlywayCallback:0.16
+Locations:0.15444444444444444
+SqlMigrationResolver:0.11
+JavaMigrationResolver:0.10333333333333333
+SpringJdbcMigrationResolver:0.09333333333333334
+JdbcMigrationResolver:0.09333333333333334
+CompositeMigrationResolver:0.08

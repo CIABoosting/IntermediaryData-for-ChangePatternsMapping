@@ -1,0 +1,14 @@
+ProjectionToProjectorVisitor:0.59
+WriterProjector:0.22
+S3OutputStream:0.14333333333333334
+OutputS3:0.13
+WriterProjectorTest:0.13
+MapSideDataCollectOperation:0.12666666666666668
+PageDownstreamFactory:0.12333333333333334
+TransportExecutor:0.11666666666666667
+ProjectionToProjectorVisitorTest:0.11333333333333333
+ShardCollectService:0.11333333333333333
+PageDownstreamFactoryTest:0.11
+ShardProjectorChainTest:0.05333333333333334
+HandlerSideDataCollectOperation:0.02666666666666667
+LocalMergeTaskTest:0.023333333333333334

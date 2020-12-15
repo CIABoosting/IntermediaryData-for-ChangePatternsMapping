@@ -1,0 +1,13 @@
+BaseTest:0.7133333333333334
+RedissonLock:0.44
+RedissonRunnable:0.3233333333333333
+RedissonConcurrentMapTest:0.27666666666666667
+RedissonLockTest:0.24333333333333335
+RedissonCountDownLatch:0.21694444444444447
+RedissonTopicTest:0.19
+RedissonTest:0.14333333333333334
+BaseConcurrentTest:0.12
+ConcurrentRedissonSortedSetTest:0.11333333333333333
+RedissonTopicPatternTest:0.09666666666666666
+RedissonCountDownLatchConcurrentTest:0.09333333333333334
+RedissonTwoLockedThread:0.06833333333333333

@@ -1,0 +1,17 @@
+SearchModule:0.48
+Plugin:0.33
+RestMultiSearchAction:0.25666666666666665
+RestReindexAction:0.22
+AbstractBaseReindexRestHandler:0.17666666666666667
+MultiSearchRequestTests:0.15333333333333332
+RestReindexActionTests:0.15333333333333332
+AbstractSearchTestCase:0.14333333333333334
+RestSearchAction:0.13
+ExplainRequestTests:0.12333333333333334
+ShardValidateQueryRequestTests:0.12333333333333334
+FileBasedDiscoveryPlugin:0.12
+TransportSearchTemplateAction:0.04666666666666667
+RestUpdateByQueryAction:0.043333333333333335
+RestSearchTemplateAction:0.016666666666666666
+AbstractBulkByQueryRestHandler:0.016666666666666666
+RestDeleteByQueryAction:0.013333333333333334

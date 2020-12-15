@@ -1,0 +1,14 @@
+SequenceGenerator:0.55
+InverseCumulativeRsg:0.38333333333333336
+RandomSequenceGenerator:0.37
+SobolRsg:0.35
+UniformSequenceGenerator:0.16333333333333333
+EquityOptions:0.12333333333333334
+InverseCumulative:0.09
+AbstractRandomSequenceGenerator:0.06
+EuropeanOptionTest:0.03
+AaronsInverseCumulativeRng:0.013333333333333334
+RandomNumberGenerator:0.006666666666666667
+InverseCumulativeRng:0.006666666666666667
+GenericLowDiscrepancy:0.006666666666666667
+GenericPseudoRandom:0.0

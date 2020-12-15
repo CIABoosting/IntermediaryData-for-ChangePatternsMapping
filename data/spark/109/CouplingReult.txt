@@ -1,0 +1,21 @@
+Compared Result of  two versions
+Number of New Class: 15
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : spark.CustomErrorPages: 
+new Added class 1 : spark.customerrorpages.CustomErrorPagesTest: 
+new Added class 2 : spark.staticfiles.DirectoryTraversal: 
+new Added class 3 : spark.staticfiles.DisableMimeGuessingTest: 
+new Added class 4 : spark.FilterTest: 
+new Added class 5 : spark.examples.sugar.http: 
+new Added class 6 : spark.examples.multiple.MultipleServices: 
+new Added class 7 : spark.MultipleServicesTest: 
+new Added class 8 : spark.ResponseBodyTest: 
+new Added class 9 : spark.route.SimpleRouteMatcher: 
+new Added class 10 : spark.staticfiles.StaticFilesFolder: 
+new Added class 11 : spark.staticfiles.StaticFilesTestExternal: 
+new Added class 12 : spark.examples.staticresources.StaticResources: 
+new Added class 13 : spark.examples.sugar.SugarExample: 
+new Added class 14 : spark.utils.Wrapper: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

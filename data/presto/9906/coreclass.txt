@@ -1,0 +1,17 @@
+AccumulatorStateSerializer:0.5651111111111111
+StateCompiler:0.44333333333333336
+MergeHyperLogLogAggregation:0.3
+TestStateCompiler:0.27666666666666667
+BigintMinState:0.27051984126984113
+BigintMaxState:0.27051984126984113
+FunctionRegistry:0.2633333333333333
+BooleanMinAggregation:0.18
+DoubleSumAggregation:0.17666666666666667
+FunctionListBuilder:0.14666666666666667
+TriStateBooleanStateSerializer:0.043333333333333335
+HyperLogLogStateSerializer:0.043333333333333335
+NullableDoubleStateSerializer:0.043333333333333335
+LongSumAggregation:0.01
+LongMaxAggregation:0.006666666666666667
+LongMinAggregation:0.006666666666666667
+HyperLogLogAggregations:0.0

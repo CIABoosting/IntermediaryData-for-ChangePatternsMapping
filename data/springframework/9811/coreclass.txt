@@ -1,0 +1,12 @@
+JobExecution:0.58
+StepExecution:0.5266666666666666
+JobExecutionTests:0.29
+SimpleJobExecutorFacade:0.24333333333333335
+SimpleStepExecutor:0.23
+DefaultStepExecutorTests:0.2
+SimpleJobExecutorFacadeTests:0.18666666666666668
+StepContribution:0.18
+DefaultJobLauncher:0.15333333333333332
+DefaultJobExecutor:0.14
+DefaultJobLauncherTests:0.11
+GracefulShutdownFunctionalTest:0.09333333333333334

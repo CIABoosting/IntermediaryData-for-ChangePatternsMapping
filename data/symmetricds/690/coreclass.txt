@@ -1,0 +1,13 @@
+ResourceHandler:0.67
+AbstractFilter:0.43333333333333335
+AbstractServlet:0.4033333333333333
+AlertServlet:0.27
+PushServlet:0.12333333333333334
+AckServlet:0.11666666666666667
+RegistrationServlet:0.11666666666666667
+PullServlet:0.07333333333333333
+AuthenticationFilter:0.05
+RegistrationResourceHandler:0.033650793650793646
+PushResourceHandler:0.033650793650793646
+AckResourceHandler:0.033650793650793646
+PullResourceHandler:0.0

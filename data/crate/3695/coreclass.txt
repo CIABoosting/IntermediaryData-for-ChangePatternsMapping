@@ -1,0 +1,13 @@
+SelectStatementAnalyzerTest:0.39
+OrderBy:0.33
+RelationAnalyzer:0.25333333333333335
+TestingHelpers:0.25
+DefaultTraversalVisitor:0.21
+Visitor:0.18666666666666668
+CollectPhase:0.18333333333333332
+ExecutionPhaseStreamerVisitor:0.16333333333333333
+SimpleSelect:0.13
+ConsumingPlanner:0.12666666666666668
+PageDownstreamFactory:0.10333333333333333
+ConsumerContext:0.09238095238095238
+NodeOperationTreeGenerator:0.03666666666666667

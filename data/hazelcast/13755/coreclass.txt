@@ -1,0 +1,11 @@
+ConnectionManager:0.4072222222222222
+TcpIpConnectionManager:0.38
+OperationService:0.29003968253968254
+MockConnectionManager:0.24666666666666667
+BasicOperationService:0.23333333333333334
+BasicOperationScheduler:0.22666666666666666
+InSelectorImpl:0.21333333333333335
+OutSelectorImpl:0.21333333333333335
+HazelcastInstanceImpl:0.21
+GroupProperties:0.20666666666666667
+OperationThread:0.16333333333333333

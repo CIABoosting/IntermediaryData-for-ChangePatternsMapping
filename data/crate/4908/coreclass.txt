@@ -1,0 +1,17 @@
+Visitor:0.36666666666666664
+PlanVisitor:0.29
+Planner:0.22305555555555553
+BaseAnalyzerTest:0.22166666666666668
+ExpressionAnalyzer:0.22
+UpdateAnalyzedStatement:0.21666666666666667
+AnalyzedStatementTest:0.21
+UpdateStatementAnalyzer:0.20333333333333334
+ProjectionToProjectorVisitor:0.19
+RelationVisitor:0.17333333333333334
+TransportSQLActionTest:0.17333333333333334
+UpdateAnalyzerTest:0.16333333333333333
+AddTestFunction:0.13794047619047622
+TestMetaDataModule:0.10888888888888888
+ShardCollectService:0.10333333333333333
+ProjectionVisitor:0.09821428571428571
+ConsumingPlanner:0.07043650793650794

@@ -1,0 +1,12 @@
+Pool:0.4633333333333333
+JedisPoolConfig:0.45
+JedisPool:0.3333333333333333
+JedisSentinelPool:0.2833333333333333
+ShardedJedisPoolTest:0.25
+JedisPoolTest:0.24
+AllKindOfValuesCommandsTest:0.19666666666666666
+JedisFactory:0.17333333333333334
+ShardedJedisPool:0.14666666666666667
+JedisSentinelPoolTest:0.09666666666666666
+ShardedJedisFactory:0.08333333333333333
+PoolBenchmark:0.07666666666666666

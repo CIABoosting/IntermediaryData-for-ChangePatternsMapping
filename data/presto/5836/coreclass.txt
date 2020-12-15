@@ -1,0 +1,11 @@
+ColumnarBinaryHiveRecordCursor:0.39666666666666667
+ParquetLongDecimalColumnReader:0.31666666666666665
+ParquetShortDecimalColumnReader:0.31666666666666665
+ColumnarTextHiveRecordCursor:0.30666666666666664
+LazySliceBlockLoader:0.2733333333333333
+LazyStringBlockLoader:0.2733333333333333
+RcFilePageSource:0.19666666666666666
+ParquetDecimalColumnReaderFactory:0.12
+RcTextBlockLoader:0.06
+RcFileBlockLoader:0.05
+RcBinaryBlockLoader:0.03333333333333333

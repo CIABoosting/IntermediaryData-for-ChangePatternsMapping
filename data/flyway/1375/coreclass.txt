@@ -1,0 +1,13 @@
+JdbcTemplate:0.52
+Flyway:0.31333333333333335
+H2DbSupport:0.27
+DB2DbSupport:0.27
+MySQLDbSupport:0.27
+DerbyDbSupport:0.26666666666666666
+OracleDbSupport:0.25666666666666665
+PostgreSQLDbSupport:0.25333333333333335
+SQLServerDbSupport:0.23333333333333334
+HsqlDbSupport:0.21
+MigrationTestCase:0.18
+DbCleaner:0.14
+DbSupport:0.13333333333333333

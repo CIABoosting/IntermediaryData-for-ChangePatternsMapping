@@ -1,0 +1,11 @@
+FileTrigger:0.53
+AcknowledgeService:0.45
+DataService:0.3433333333333333
+FileSyncService:0.31666666666666665
+IFileSyncService:0.24666666666666667
+AbstractSymmetricEngine:0.22
+DataServiceSqlMap:0.20666666666666667
+IDataService:0.20083333333333334
+FileSyncServiceSqlMap:0.19666666666666666
+SnapshotUpdater:0.15333333333333332
+FileTriggerMapper:0.09333333333333334

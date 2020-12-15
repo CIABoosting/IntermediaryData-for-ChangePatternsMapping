@@ -1,0 +1,11 @@
+Column:0.43666666666666665
+AbstractTriggerTemplate:0.38
+AbstractJdbcDdlReader:0.26
+MySqlSymmetricDialect:0.25333333333333335
+AbstractSymmetricDialect:0.24666666666666667
+MsSqlDdlReader:0.11666666666666667
+PostgreSqlDdlReader:0.11666666666666667
+MySqlDdlReader:0.11666666666666667
+OracleDdlReader:0.11666666666666667
+SybaseDdlReader:0.11666666666666667
+PostgreSqlTriggerTemplate:0.09666666666666666

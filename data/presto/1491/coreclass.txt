@@ -1,0 +1,10 @@
+InMemoryHashAggregationBuilder:0.31666666666666665
+TestGroupByHash:0.24333333333333335
+MultiChannelGroupByHash:0.24
+BigintGroupByHash:0.21
+DistinctLimitOperator:0.20666666666666667
+ChannelSetBuilder:0.20333333333333334
+TopNRowNumberOperator:0.18333333333333332
+RowNumberOperator:0.18333333333333332
+GroupByHashPageIndexer:0.17333333333333334
+MarkDistinctHash:0.17333333333333334

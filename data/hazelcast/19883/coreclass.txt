@@ -1,0 +1,13 @@
+JobSupervisor:0.43333333333333335
+KeyValueSource:0.3466666666666667
+NotifyRemoteExceptionOperation:0.24333333333333335
+DataSerializer:0.19
+MapCombineTask:0.17666666666666667
+MapReduceUtil:0.14333333333333334
+PartitionProcessor:0.13
+ExceptionUtil:0.11666666666666667
+SingleExecutionProcessor:0.11416666666666667
+MapReduceTest:0.08333333333333333
+JobProcessInformationImpl:0.07111111111111111
+MapReduceDataSerializerHook:0.016666666666666666
+ExceptionThrowingMapper:0.0025

@@ -1,0 +1,12 @@
+ConnectionManager:0.62
+RedissonLock:0.32
+MasterSlaveEntry:0.2733333333333333
+MasterSlaveConnectionManager:0.24666666666666667
+RedissonCountDownLatch:0.24
+RedissonPermitExpirableSemaphore:0.23
+RedissonFairLock:0.22
+RedissonSemaphore:0.22
+RedissonPatternTopic:0.2
+RedissonTopic:0.18333333333333332
+RedissonPatternTopicReactive:0.16
+PublishSubscribe:0.12

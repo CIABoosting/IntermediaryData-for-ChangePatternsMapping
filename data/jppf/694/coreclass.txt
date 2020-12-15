@@ -1,0 +1,16 @@
+JPPFBundlerProvider:0.6866666666666666
+Bundler:0.65
+RLProfile:0.4033333333333333
+BundleDataHolder:0.3333333333333333
+AbstractBundler:0.25333333333333335
+AnnealingTuneProfile:0.21666666666666667
+ProportionalTuneProfile:0.15666666666666668
+AbstractProportionalBundler:0.15333333333333332
+BundlePerformanceSample:0.14333333333333334
+BundleTuningUtils:0.12666666666666668
+JPPFBundlerFactory:0.12
+AbstractRLBundler:0.12
+LoadBalancingProfile:0.0867222222222222
+FixedSizeProfile:0.04666666666666667
+ClientProportionalBundler:0.03666666666666667
+LoadBalancingInformation:0.006666666666666667

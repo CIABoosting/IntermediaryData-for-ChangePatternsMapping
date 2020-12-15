@@ -1,0 +1,17 @@
+DefaultJSONParser:0.55
+JSONLexer:0.54
+SymbolTable:0.36666666666666664
+Context:0.31
+ParseContext:0.31
+SerializeWriter:0.24
+ASMDeserializerFactory:0.21
+JavaBeanDeserializer:0.20888888888888887
+DefaultJSONParserTest_date:0.16666666666666666
+ArrayListTypeFieldDeserializer:0.13333333333333333
+NumberDeserializerTest:0.09666666666666666
+BooleanDeserializerTest:0.08666666666666667
+V0:0.05333333333333334
+VO:0.03
+DateParseTest9:0.016666666666666666
+FieldInfoTest:0.016666666666666666
+DoubleDeserializerTest:0.01

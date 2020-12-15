@@ -1,0 +1,14 @@
+JobSupervisor:0.39666666666666667
+MapReduceService:0.3333333333333333
+IntermediateChunkNotification:0.26666666666666666
+PartitionProcessor:0.25666666666666665
+AbstractJobTracker:0.23666666666666666
+MemberAwareMapReduceNotification:0.23444444444444443
+ReducingFinishedNotification:0.22333333333333333
+MapReduceDataSerializerHook:0.16333333333333333
+LastChunkNotification:0.16
+MapReduceNotification:0.14333333333333334
+GetResultOperation:0.12666666666666668
+MapCombineTask:0.10333333333333333
+DefaultContext:0.07666666666666666
+JobSupervisorKey:0.06333333333333334

@@ -1,0 +1,14 @@
+OidcProfileScopeToAttributesFilter:0.62
+DefaultOAuth20ProfileScopeToAttributesFilter:0.569555315055315
+OAuthUtils:0.39666666666666667
+CasOAuthConfiguration:0.37
+OidcConfiguration:0.31666666666666665
+AbstractRegisteredServiceAttributeReleasePolicy:0.31
+DefaultCentralAuthenticationService:0.19666666666666666
+OAuth20CasCallbackUrlResolver:0.1868214285714286
+OAuth20AuthenticationRequestServiceSelectionStrategy:0.18666666666666668
+OAuth20AccessTokenEndpointController:0.15
+OidcAuthorizeEndpointController:0.135
+DenyAllAttributeReleasePolicy:0.06
+ServiceRegistryInitializer:0.03333333333333333
+OidcConstants:0.023333333333333334

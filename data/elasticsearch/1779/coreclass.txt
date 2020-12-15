@@ -1,0 +1,15 @@
+SearchRequest:0.57
+ElasticsearchAssertions:0.31
+SearchScrollRequest:0.20888888888888887
+QuerySearchRequest:0.20666666666666667
+AbstractBulkByScrollRequest:0.19333333333333333
+ShardSearchTransportRequest:0.16666666666666666
+ShardFetchRequest:0.16666666666666666
+SearchScrollRequestTests:0.16333333333333333
+MultiSearchRequest:0.14
+InternalScrollSearchRequest:0.13765873015873017
+SearchRequestTests:0.13333333333333333
+SearchFreeContextRequest:0.11333333333333333
+ShardFetchSearchRequest:0.11333333333333333
+ScrollFreeContextRequest:0.11333333333333333
+ShardSearchTransportRequestTests:0.11333333333333333

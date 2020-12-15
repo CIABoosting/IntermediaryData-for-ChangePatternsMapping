@@ -1,0 +1,15 @@
+ReplicatedRecord:0.6333333333333333
+ReplicatedMapService:0.35333333333333333
+AbstractBaseReplicatedRecordStore:0.31333333333333335
+ReplicatedMapEventPublishingService:0.31333333333333335
+AbstractReplicatedRecordStore:0.25333333333333335
+ReplicatedMapProxy:0.22666666666666666
+CheckReplicaVersion:0.18333333333333332
+ReplicateUpdateOperation:0.18
+ReplicatedMapWriteOrderTest:0.15
+RemoveOperation:0.14
+PutOperation:0.13333333333333333
+AbstractReplicatedMapOperation:0.11
+PutAllOperation:0.11
+SyncReplicatedMapDataOperation:0.08
+ReplicateUpdateToCallerOperation:0.056666666666666664

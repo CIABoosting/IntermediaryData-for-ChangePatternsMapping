@@ -1,0 +1,16 @@
+HazelcastClientTest:0.44333333333333336
+DynamicClusterTest:0.41333333333333333
+ExceptionThrowingCallable:0.35110185185185183
+HazelcastClientMapTest:0.32666666666666666
+HazelcastClientListTest:0.30333333333333334
+HazelcastClientSetTest:0.30333333333333334
+HazelcastClientQueueTest:0.26666666666666666
+HazelcastClientMultiMapTest:0.23833333333333334
+HazelcastClientTopicTest:0.23666666666666666
+HazelcastClientTransactionTest:0.22166666666666668
+TestUtility:0.18666666666666668
+BasicRunnable:0.17333333333333334
+HazelcastClientExecutorServiceTest:0.15666666666666668
+HazelcastClientLockTest:0.11
+HazelcastClientPerformanceTest:0.07666666666666666
+HazelcastClientIdGeneratorTest:0.04

@@ -1,0 +1,14 @@
+Transport:0.53
+NodeChannels:0.3433333333333333
+MockTransportService:0.27666666666666667
+TcpTransport:0.24666666666666667
+CapturingTransport:0.23333333333333334
+FailAndRetryMockTransport:0.23333333333333334
+Netty4Transport:0.22666666666666666
+MockTcpTransport:0.21333333333333335
+TCPTransportTests:0.2
+TransportService:0.19333333333333333
+TransportServiceHandshakeTests:0.17
+MockTransport:0.16333333333333333
+DelegateTransport:0.15666666666666668
+LookupTestTransport:0.12

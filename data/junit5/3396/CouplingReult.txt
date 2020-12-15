@@ -1,0 +1,60 @@
+Compared Result of  two versions
+Number of New Class: 29
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.junit.gen5.engine.junit5.CoreJUnit5TestEngineTests: 
+new Added class 1 : org.junit.gen5.engine.junit5.DisabledTests: 
+new Added class 2 : org.junit.gen5.engine.junit5.ExceptionHandlingTests: 
+new Added class 3 : org.junit.gen5.engine.junit5.descriptor.JUnit5TestableTests: 
+new Added class 4 : org.junit.gen5.engine.junit5.descriptor.ATestClass: 
+new Added class 5 : org.junit.gen5.engine.junit5.descriptor.BTestClass: 
+new Added class 6 : org.junit.gen5.engine.junit5.NestedTestClassesTests: 
+new Added class 7 : org.junit.gen5.engine.junit5.ParameterResolverTests: 
+new Added class 8 : org.junit.gen5.engine.junit5.descriptor.SpecificationResolverTests: 
+new Added class 9 : org.junit.gen5.engine.junit5.descriptor.MyTestClass: 
+new Added class 10 : org.junit.gen5.engine.junit5.descriptor.YourTestClass: 
+new Added class 11 : org.junit.gen5.engine.junit5.descriptor.HerTestClass: 
+new Added class 12 : org.junit.gen5.engine.junit5.descriptor.OtherTestClass: 
+new Added class 13 : org.junit.gen5.engine.junit5.descriptor.TestCaseWithNesting: 
+new Added class 14 : org.junit.gen5.engine.junit5.StandardTestClassTests: 
+new Added class 15 : org.junit.gen5.engine.junit5.MyStandardTestCase: 
+new Added class 16 : org.junit.gen5.engine.junit5.FirstOfTwoTestCases: 
+new Added class 17 : org.junit.gen5.engine.junit5.SecondOfTwoTestCases: 
+new Added class 18 : org.junit.gen5.engine.junit5.TestCaseWithFailingBefore: 
+new Added class 19 : org.junit.gen5.engine.junit5.TestCaseWithFailingAfter: 
+new Added class 20 : org.junit.gen5.engine.junit5.TestCaseWithNesting: 
+new Added class 21 : org.junit.gen5.engine.junit5.TestCaseWithDoubleNesting: 
+new Added class 22 : org.junit.gen5.engine.junit5.execution.TestExtensionRegistryTests: 
+new Added class 23 : org.junit.gen5.engine.junit5.execution.MyExtensionPoint: 
+new Added class 24 : org.junit.gen5.engine.junit5.execution.AnotherExtensionPoint: 
+new Added class 25 : org.junit.gen5.engine.junit5.execution.MyExtension: 
+new Added class 26 : org.junit.gen5.engine.junit5.execution.YourExtension: 
+new Added class 27 : org.junit.gen5.engine.junit5.execution.MultipleExtension: 
+new Added class 28 : org.junit.gen5.engine.junit5.execution.MyExtensionRegistrar: 
+testing relationship 
+class 3  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:7  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:3  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:4  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:6  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:9  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:5  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 28£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 23£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 23£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 23£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 24£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  4   3 :  0   4 :  0   5 :  0   6 :  51   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

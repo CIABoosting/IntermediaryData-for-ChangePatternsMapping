@@ -1,0 +1,29 @@
+Compared Result of  two versions
+Number of New Class: 12
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.hazelcast.map.impl.mapstore.writebehind.ArrayWriteBehindQueue: 
+new Added class 1 : com.hazelcast.map.impl.operation.ClearExpiredOperation: 
+new Added class 2 : com.hazelcast.map.impl.mapstore.writebehind.CoalescedWriteBehindQueue: 
+new Added class 3 : com.hazelcast.map.impl.mapstore.MapDataStores: 
+new Added class 4 : com.hazelcast.map.impl.mapstore.writebehind.StoreWorker: 
+new Added class 5 : com.hazelcast.map.impl.mapstore.writebehind.SynchronizedWriteBehindQueue: 
+new Added class 6 : com.hazelcast.map.impl.mapstore.writebehind.WriteBehindManager: 
+new Added class 7 : com.hazelcast.map.mapstore.writebehind.WriteBehindMapStoreWithEvictionsTest: 
+new Added class 8 : com.hazelcast.map.impl.mapstore.writebehind.WriteBehindQueue: 
+new Added class 9 : com.hazelcast.map.impl.mapstore.writebehind.WriteBehindQueues: 
+new Added class 10 : com.hazelcast.map.mapstore.writebehind.WriteBehindQueueTest: 
+new Added class 11 : com.hazelcast.map.impl.mapstore.writebehind.WriteBehindStore: 
+testing relationship 
+class 0  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 4  vs  class 11£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:17  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 6  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:5  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 10  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:41  r12:0  r13:7  r14:1  r15:0  r16:2  r17:0  
+class 11  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:5  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  3   3 :  4   4 :  0   5 :  14   6 :  0   7 :  0   8 :  5   9 :  0   10 :  22   11 :  49   12 :  0   13 :  11   14 :  5   15 :  0   16 :  5   17 :  0   

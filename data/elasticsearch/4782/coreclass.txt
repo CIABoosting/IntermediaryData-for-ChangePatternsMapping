@@ -1,0 +1,17 @@
+Failure:0.5133333333333333
+TransportDeleteAction:0.31333333333333335
+TransportIndexAction:0.30666666666666664
+WritePrimaryResult:0.30666666666666664
+TransportReplicationActionTests:0.29
+NoMasterNodeIT:0.25333333333333335
+IndicesRequestIT:0.23333333333333334
+DynamicMappingDisabledTests:0.195
+TransportWriteActionTests:0.19333333333333333
+TestAction:0.14666666666666667
+TransportBulkAction:0.14333333333333334
+TransportShardBulkAction:0.14
+WaitActiveShardCountIT:0.14
+WriteReplicaResult:0.12
+AsyncPrimaryAction:0.11976190476190476
+BulkOperation:0.07
+NoopReplicationOperation:0.03333333333333333

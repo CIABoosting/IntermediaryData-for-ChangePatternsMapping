@@ -1,0 +1,15 @@
+OrcStorageManager:0.36333333333333334
+FileOrcDataSource:0.3433333333333333
+HiveClientConfig:0.32
+OrcPageSourceFactory:0.24
+DwrfPageSourceFactory:0.24
+OrcTester:0.21466666666666667
+HiveSessionProperties:0.19333333333333333
+HdfsOrcDataSource:0.18666666666666668
+TestOrcStorageManager:0.17666666666666667
+DiskRange:0.17333333333333334
+TestOrcRowSink:0.13333333333333333
+TestDatabaseStorageManagerConfig:0.13
+TestRaptorSplitManager:0.11333333333333333
+TestHiveClientConfig:0.10666666666666667
+StorageManagerConfig:0.0811111111111111

@@ -1,0 +1,16 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.jumpmind.symmetric.extract.csv.CsvExtractor: 
+new Added class 1 : org.jumpmind.symmetric.extract.csv.IStreamDataCommand: 
+new Added class 2 : org.jumpmind.symmetric.extract.csv.StreamConfigDataCommand: 
+new Added class 3 : org.jumpmind.symmetric.extract.csv.StreamCreateDataCommand: 
+new Added class 4 : org.jumpmind.symmetric.extract.csv.StreamDeleteDataCommand: 
+new Added class 5 : org.jumpmind.symmetric.extract.csv.StreamInsertDataCommand: 
+new Added class 6 : org.jumpmind.symmetric.extract.csv.StreamReloadDataCommand: 
+new Added class 7 : org.jumpmind.symmetric.extract.csv.StreamSQLDataCommand: 
+new Added class 8 : org.jumpmind.symmetric.extract.csv.StreamUpdateDataCommand: 
+new Added class 9 : org.jumpmind.symmetric.extract.csv.StreamValidateDataCommand: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

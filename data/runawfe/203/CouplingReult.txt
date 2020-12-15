@@ -1,0 +1,18 @@
+Compared Result of  two versions
+Number of New Class: 11
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.jbpm.delegation.action.CancelTimerActionHandler: 
+new Added class 1 : org.jbpm.delegation.action.CreateTimerActionHandler: 
+new Added class 2 : org.jbpm.par.DefinitionParser: 
+new Added class 3 : org.jbpm.par.UnresolvedFork: 
+new Added class 4 : org.jbpm.par.UnresolvedJoin: 
+new Added class 5 : org.jbpm.JbpmConfiguration: 
+new Added class 6 : org.jbpm.impl.ServiceExceptionTest: 
+new Added class 7 : org.jbpm.TestHelper: 
+new Added class 8 : org.jbpm.impl.TestTimerRunner: 
+new Added class 9 : org.jbpm.impl.TimerTest: 
+new Added class 10 : org.jbpm.delegation.action.TimerTriggerActionHandler: 
+testing relationship 
+class 1  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  1   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

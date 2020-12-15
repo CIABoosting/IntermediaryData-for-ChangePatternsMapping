@@ -1,0 +1,16 @@
+BenchmarkData:0.24666666666666667
+FixedWidthBlockBuilder:0.22333333333333333
+BaseState:0.20333333333333334
+BenchmarkDecimalOperators:0.19777777777777777
+BenchmarkPageProcessor:0.18166666666666667
+BenchmarkArrayDistinct:0.17444444444444446
+BenchmarkArraySort:0.17444444444444446
+InCodeGeneratorBenchmark:0.14666666666666667
+BenchmarkArrayJoin:0.14
+BenchmarkArrayHashCodeOperator:0.12333333333333334
+BenchmarkTransformValue:0.12333333333333334
+BenchmarkTransformKey:0.12333333333333334
+BenchmarkArrayFilter:0.12333333333333334
+BenchmarkMapSubscript:0.12333333333333334
+BenchmarkArraySubscript:0.12333333333333334
+BenchmarkMapConcat:0.12333333333333334

@@ -1,0 +1,13 @@
+PhraseSuggestionBuilder:0.37333333333333335
+TermSuggestionBuilder:0.36333333333333334
+DirectCandidateGenerator:0.32666666666666666
+CompletionSuggestionBuilder:0.26
+WordScorer:0.22
+LinearInterpolatingScorer:0.19
+Correction:0.18833333333333332
+StupidBackoffScorer:0.15666666666666668
+LaplaceScorer:0.15666666666666668
+TermSuggester:0.15
+PhraseSuggester:0.12333333333333334
+DirectSpellcheckerSettings:0.08
+TokenConsumer:0.04666666666666667

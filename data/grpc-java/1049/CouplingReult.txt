@@ -1,0 +1,15 @@
+Compared Result of  two versions
+Number of New Class: 9
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.grpc.examples.errorhandling.DetailErrorSample: 
+new Added class 1 : io.grpc.examples.errorhandling.ErrorHandlingClient: 
+new Added class 2 : io.grpc.examples.header.HeaderClientInterceptor: 
+new Added class 3 : io.grpc.examples.header.HeaderServerInterceptor: 
+new Added class 4 : io.grpc.examples.advanced.HelloJsonServer: 
+new Added class 5 : io.grpc.examples.helloworld.HelloWorldClient: 
+new Added class 6 : io.grpc.examples.helloworld.HelloWorldServer: 
+new Added class 7 : io.grpc.examples.routeguide.RouteGuideClient: 
+new Added class 8 : io.grpc.examples.routeguide.RouteGuideServer: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

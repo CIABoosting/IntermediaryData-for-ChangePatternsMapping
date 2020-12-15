@@ -1,0 +1,28 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.index.query.BaseQueryTestCase: 
+new Added class 1 : org.elasticsearch.index.query.BaseTermQueryBuilder: 
+new Added class 2 : org.apache.lucene.queryparser.classic.MissingFieldQueryExtension: 
+new Added class 3 : org.elasticsearch.index.query.MissingQueryBuilder: 
+new Added class 4 : org.elasticsearch.index.query.MissingQueryParser: 
+new Added class 5 : org.elasticsearch.index.query.PrefixQueryBuilder: 
+new Added class 6 : org.elasticsearch.index.query.PrefixQueryParser: 
+new Added class 7 : org.elasticsearch.index.query.support.QueryParsers: 
+new Added class 8 : org.elasticsearch.index.query.RegexpQueryBuilder: 
+new Added class 9 : org.elasticsearch.index.query.RegexpQueryParser: 
+new Added class 10 : org.elasticsearch.index.query.ScriptQueryBuilder: 
+new Added class 11 : org.elasticsearch.index.query.ScriptQueryParser: 
+new Added class 12 : org.elasticsearch.index.query.TypeQueryBuilder: 
+new Added class 13 : org.elasticsearch.index.query.TypeQueryParser: 
+new Added class 14 : org.elasticsearch.index.query.WildcardQueryBuilder: 
+new Added class 15 : org.elasticsearch.index.query.WildcardQueryParser: 
+testing relationship 
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  6   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

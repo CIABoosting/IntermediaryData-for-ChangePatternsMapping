@@ -1,0 +1,13 @@
+MapContainer:0.53
+MapServiceContext:0.5138888888888888
+ClientRegressionWithMockNetworkTest:0.36
+PartitionContainer:0.32666666666666666
+LazyMapEntryTest:0.31
+HazelcastClientInstanceImpl:0.31
+MapKeyLoaderUtilTest:0.28
+ClientMapTest:0.26666666666666666
+IOBalancerStressTest:0.23333333333333334
+MapServiceContextImpl:0.23
+RecordStoreTest:0.16666666666666666
+PartitioningStrategyFactoryTest:0.12666666666666668
+EntryListenerAdaptorsTest:0.09333333333333334

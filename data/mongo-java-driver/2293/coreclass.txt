@@ -1,0 +1,10 @@
+Run:0.51
+BulkWriteBatchCombiner:0.3233333333333333
+WriteCommandProtocol:0.23
+BaseWriteOperation:0.20333333333333334
+UnacknowledgedWriteResultCallback:0.14
+ReplaceCommandProtocol:0.12666666666666668
+DeleteCommandProtocol:0.056666666666666664
+InsertCommandProtocol:0.056666666666666664
+UpdateCommandProtocol:0.056666666666666664
+MixedBulkWriteOperation:0.03

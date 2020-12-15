@@ -1,0 +1,30 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.server.model.stdrenderer.DataScalingTest: 
+new Added class 1 : arinc661.common.ext.DefaultARINCUtils: 
+new Added class 2 : arinc661.server.ui.synth2.DefaultSynthStyle: 
+new Added class 3 : arinc661.server.ui.synth2.DefaultSynthStyleFactory: 
+new Added class 4 : embedclient.arinc661.client.EmbedClient: 
+new Added class 5 : plugin.server.ogl.EmbeddedWindowsManager: 
+new Added class 6 : glg2d.GLGraphics2D: 
+new Added class 7 : arinc661.server.model.stdrenderer.LabelRenderer: 
+new Added class 8 : plugin.client.maps.gui.MapItemsPanel: 
+new Added class 9 : arinc661.server.model.rendererhelper.MultiLineLabel: 
+new Added class 10 : arinc661.server.model.stdrenderer.SliderRendererTest: 
+new Added class 11 : glg2d.StringDrawer: 
+new Added class 12 : arinc661.common.model.StringWrapper: 
+new Added class 13 : plugin.cockpit.actions.SuperLayerGenerator: 
+new Added class 14 : arinc661.server.ui.synth2.Synth2LookAndFeel: 
+new Added class 15 : arinc661.server.ui.synth2.SynthSliderUI: 
+new Added class 16 : arinc661.server.ui.synth2.SynthTableUI: 
+testing relationship 
+class 1  vs  class 12£º  r0:0  r1:0  r2:0  r3:2  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:3  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:4  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-5  r9:0  r10:21  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:2  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 11  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:5  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  6   4 :  1   5 :  1   6 :  0   7 :  0   8 :  0   9 :  0   10 :  28   11 :  8   12 :  0   13 :  4   14 :  5   15 :  0   16 :  3   17 :  0   

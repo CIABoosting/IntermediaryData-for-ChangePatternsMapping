@@ -1,0 +1,15 @@
+Response:0.44666666666666666
+PartitionServiceImpl:0.33666666666666667
+PartitionRuntimeState:0.33
+BasicOperationService:0.3
+InternalOperationService:0.23166666666666666
+ResponseHandlerFactory:0.23
+BasicCompletableFuture:0.19
+GetPartitionsRequest:0.17333333333333334
+BasicInvocation:0.16333333333333333
+ResponseProcessor:0.14333333333333334
+RemoteOperationProcessor:0.13333333333333333
+ClusterRuntimeState:0.13
+SpiDataSerializerHook:0.13
+PartitionStateOperation:0.10333333333333333
+RemoteInvocationResponseHandler:0.07333333333333333

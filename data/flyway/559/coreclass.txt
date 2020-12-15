@@ -1,0 +1,16 @@
+MigrationInfo:0.7433333333333333
+Flyway:0.5366666666666666
+AppliedMigration:0.5
+MigrationInfoImpl:0.2966666666666667
+MetaDataTableImpl:0.23
+MigrationInfoServiceImpl:0.22
+SqlMigrationResolver:0.21333333333333335
+JdbcMigrationResolver:0.21
+MigrationInfoServiceImplSmallTest:0.21
+SpringJdbcMigrationResolver:0.21
+SqlMigrationResolverSmallTest:0.18666666666666668
+MigrationTestCase:0.17666666666666667
+CompositeMigrationResolverSmallTest:0.14
+CompositeMigrationResolver:0.09
+MigrationInfoImplSmallTest:0.08333333333333333
+SqlMigrationResolverMediumTest:0.08

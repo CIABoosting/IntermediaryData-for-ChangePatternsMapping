@@ -1,0 +1,18 @@
+Compared Result of  two versions
+Number of New Class: 7
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : apollo.datamodel.CurationSet: 
+new Added class 1 : apollo.util.FeatureList: 
+new Added class 2 : apollo.gui.schemes.FeatureProperty: 
+new Added class 3 : apollo.dataadapter.synteny.GameSynteny: 
+new Added class 4 : apollo.util.SeqFeatureUtil: 
+new Added class 5 : apollo.util.FeatureInequalityException: 
+new Added class 6 : apollo.gui.genomemap.StrandedZoomableApolloPanel: 
+testing relationship 
+class 3  vs  class 0£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:1  r15:0  r16:2  r17:0  
+class 3  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:15  r12:0  r13:6  r14:0  r15:0  r16:4  r17:0  
+class 4  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 6  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:5  r9:0  r10:6  r11:0  r12:0  r13:0  r14:12  r15:0  r16:2  r17:0  
+class 6  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  1   4 :  0   5 :  5   6 :  0   7 :  0   8 :  5   9 :  0   10 :  6   11 :  28   12 :  0   13 :  9   14 :  13   15 :  0   16 :  11   17 :  0   

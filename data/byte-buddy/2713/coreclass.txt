@@ -1,0 +1,16 @@
+AbstractBase:0.4633333333333333
+ByteBuddy:0.38333333333333336
+MatchedMethodInterception:0.28733333333333333
+Proxy:0.28
+MethodAnnotationTarget:0.2733333333333333
+RebaseDynamicTypeBuilder:0.24666666666666667
+SubclassDynamicTypeBuilder:0.24666666666666667
+RedefinitionDynamicTypeBuilder:0.24666666666666667
+Chain:0.24333333333333335
+DefaultFieldValueTarget:0.24333333333333335
+ClassVisitorWrapper:0.22666666666666666
+DefaultOptionalMatchedMethodInterception:0.21333333333333335
+DefaultMethodAnnotationTarget:0.20333333333333334
+OptionalMethodInterception:0.19333333333333333
+ByteBuddyTest:0.14666666666666667
+ClassVisitorWrapperChainTest:0.05

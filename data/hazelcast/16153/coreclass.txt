@@ -1,0 +1,13 @@
+WriteBehindQueue:0.6733333333333333
+WriteBehindStore:0.41333333333333333
+MapDataStore:0.3983333333333333
+DefaultWriteBehindProcessor:0.32
+WriteBehindProcessor:0.29503968253968255
+EmptyMapDataStore:0.25
+WriteThroughStore:0.25
+DefaultRecordStore:0.25
+ArrayWriteBehindQueue:0.20555555555555557
+SynchronizedWriteBehindQueue:0.20555555555555557
+CoalescedWriteBehindQueue:0.20555555555555557
+ClearExpiredOperation:0.20333333333333334
+EmptyWriteBehindQueue:0.20333333333333334

@@ -1,0 +1,7 @@
+UTXOProvider:0.7
+Wallet:0.49666666666666665
+DatabaseFullPrunedBlockStore:0.25333333333333335
+MemoryFullPrunedBlockStore:0.25
+AbstractFullPrunedBlockChainTest:0.23
+LevelDBFullPrunedBlockStore:0.19
+TransactionInputTest:0.15333333333333332

@@ -1,0 +1,13 @@
+MapService:0.44333333333333336
+MapContainer:0.4166666666666667
+MapReplicationOperation:0.3566666666666667
+PartitionContainer:0.19
+MapMigrationAwareService:0.18333333333333332
+MapOperation:0.15333333333333332
+CountingMigrationAwareServiceTest:0.13833333333333334
+CountingMigrationAwareService:0.13
+MapNearCacheStateHolder:0.09
+WriteBehindStateHolder:0.07666666666666666
+MapReplicationStateHolder:0.06666666666666667
+NoOpMigrationAwareService:0.05
+ExceptionThrowingMigrationAwareService:0.05

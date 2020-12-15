@@ -1,0 +1,16 @@
+Authenticator:0.7266666666666667
+MongoAsyncConnection:0.5433333333333333
+MongoConnectionManager:0.41
+MongoConnection:0.41
+DelegatingMongoConnector:0.3433333333333333
+GSSAPIAuthenticator:0.31666666666666665
+SaslAuthenticator:0.26666666666666666
+MongoSyncConnection:0.17666666666666667
+CachingAuthenticator:0.1711111111111111
+MongoConnectorsImpl:0.16
+CachingAuthenticatorAsyncTest:0.14666666666666667
+MongoAsynchronousSocketChannelGateway:0.1411111111111111
+NativeAuthenticator:0.13
+MongoConnectionManagerImpl:0.08111111111111112
+MongoConnectionManagerForReads:0.006666666666666667
+MongoConnectionManagerForWrites:0.0033333333333333335

@@ -1,0 +1,16 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.hazelcast.query.impl.getters.AbstractMultiValueGetter: 
+new Added class 1 : com.hazelcast.query.impl.extraction.specification.ExtractionInArraySpecTest: 
+new Added class 2 : com.hazelcast.query.impl.extraction.specification.ExtractionInCollectionSpecTest: 
+new Added class 3 : com.hazelcast.query.impl.extraction.specification.ExtractionInListSpecTest: 
+new Added class 4 : com.hazelcast.query.impl.extraction.specification.ExtractionInSingleValueSpecTest: 
+new Added class 5 : com.hazelcast.query.impl.getters.FieldGetterTest: 
+new Added class 6 : com.hazelcast.query.impl.getters.GetterFactory: 
+new Added class 7 : com.hazelcast.map.MapTransactionTest: 
+new Added class 8 : com.hazelcast.query.impl.getters.MethodGetterTest: 
+new Added class 9 : com.hazelcast.query.extractor.ValueExtractor: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

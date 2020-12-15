@@ -1,0 +1,13 @@
+NettyHttpClient:0.5066666666666667
+HttpServer:0.45666666666666667
+NettyHttpChannel:0.3233333333333333
+TestHttpRequest:0.23333333333333334
+FakeRestRequest:0.19
+CircuitBreakingException:0.17333333333333334
+RestController:0.14333333333333334
+NettyHttpServerPipeliningTests:0.14333333333333334
+RestFilterChainTests:0.13666666666666666
+HttpRequestHandler:0.12333333333333334
+ResourceHandlingHttpChannel:0.12
+NettyPipeliningDisabledIT:0.09666666666666666
+NettyPipeliningEnabledIT:0.09666666666666666

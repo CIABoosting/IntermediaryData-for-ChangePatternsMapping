@@ -1,0 +1,55 @@
+Compared Result of  two versions
+Number of New Class: 40
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opengis.style.AnchorPoint: 
+new Added class 1 : org.opengis.style.function.Categorize: 
+new Added class 2 : org.opengis.style.ChannelSelection: 
+new Added class 3 : org.opengis.style.ColorMap: 
+new Added class 4 : org.opengis.style.ColorReplacement: 
+new Added class 5 : org.opengis.style.ContrastEnhancement: 
+new Added class 6 : org.opengis.style.Description: 
+new Added class 7 : org.opengis.style.Displacement: 
+new Added class 8 : org.opengis.style.ExternalGraphic: 
+new Added class 9 : org.opengis.style.ExternalMark: 
+new Added class 10 : org.opengis.style.FeatureTypeStyle: 
+new Added class 11 : org.opengis.style.Fill: 
+new Added class 12 : org.opengis.style.Font: 
+new Added class 13 : org.opengis.style.Graphic: 
+new Added class 14 : org.opengis.style.GraphicFill: 
+new Added class 15 : org.opengis.style.GraphicStroke: 
+new Added class 16 : org.opengis.style.GraphicSymbol: 
+new Added class 17 : org.opengis.style.Halo: 
+new Added class 18 : org.opengis.style.InlineContent: 
+new Added class 19 : org.opengis.style.function.Interpolate: 
+new Added class 20 : org.opengis.style.function.InterpolationPoint: 
+new Added class 21 : org.opengis.style.LabelPlacement: 
+new Added class 22 : org.opengis.style.LegendGraphic: 
+new Added class 23 : org.opengis.style.LinePlacement: 
+new Added class 24 : org.opengis.style.LineSymbolizer: 
+new Added class 25 : org.opengis.style.function.MapItem: 
+new Added class 26 : org.opengis.style.Mark: 
+new Added class 27 : org.opengis.style.OnlineResource: 
+new Added class 28 : org.opengis.style.PointPlacement: 
+new Added class 29 : org.opengis.style.PointSymbolizer: 
+new Added class 30 : org.opengis.style.PolygonSymbolizer: 
+new Added class 31 : org.opengis.style.RasterSymbolizer: 
+new Added class 32 : org.opengis.style.function.Recode: 
+new Added class 33 : org.opengis.style.Rule: 
+new Added class 34 : org.opengis.style.SelectedChannelType: 
+new Added class 35 : org.opengis.style.ShadedRelief: 
+new Added class 36 : org.opengis.style.Stroke: 
+new Added class 37 : org.opengis.style.Symbolizer: 
+new Added class 38 : org.opengis.style.TextSymbolizer: 
+new Added class 39 : org.opengis.style.function.ThresholdEntry: 
+testing relationship 
+class 8  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 21£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 37£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 21£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 37£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 37£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 37£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 37£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  9   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,14 @@
+Transition:0.7133333333333334
+Parser:0.4666666666666667
+PrecedencePredicate:0.36333333333333334
+LeftRecursiveRuleAnalyzer:0.31
+Recognizer:0.29
+ParserATNFactory:0.23333333333333334
+LexerATNSimulator:0.19
+LeftRecursiveRuleTransformer:0.17277777777777775
+ATNSimulator:0.16944444444444443
+ATNSerializer:0.16
+FailedPredicateException:0.15
+DOTGenerator:0.13666666666666666
+LL1Analyzer:0.10666666666666667
+ParserATNSimulator:0.10333333333333333

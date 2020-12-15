@@ -1,0 +1,16 @@
+JPPFResourceWrapper:0.5566666666666666
+NioServer:0.4
+NodeNioServer:0.32
+JPPFDriver:0.32
+AbstractJPPFClassLoader:0.28
+ClassNioServer:0.2733333333333333
+DriverInitializer:0.18666666666666668
+JPPFClassLoader:0.16333333333333333
+JPPFLocalClassLoader:0.15333333333333332
+SendingProviderRequestState:0.14
+WaitingNodeRequestState:0.11666666666666667
+ServerDebug:0.11333333333333333
+WaitingProviderResponseState:0.09666666666666666
+AbstractResourceRequest:0.07333333333333333
+ServerDebugMBean:0.03666666666666667
+ResourceRequest:0.01

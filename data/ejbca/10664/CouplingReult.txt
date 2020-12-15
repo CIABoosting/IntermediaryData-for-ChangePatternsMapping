@@ -1,0 +1,18 @@
+Compared Result of  two versions
+Number of New Class: 12
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.ejbca.core.ejb.approval.ApprovalData: 
+new Added class 1 : org.ejbca.core.ejb.ca.caadmin.CAData: 
+new Added class 2 : org.ejbca.core.ejb.ca.store.CertificateData: 
+new Added class 3 : org.ejbca.core.ejb.hardtoken.HardTokenProfileData: 
+new Added class 4 : org.ejbca.core.ejb.hardtoken.HardTokenPropertyData: 
+new Added class 5 : org.ejbca.core.ejb.keyrecovery.KeyRecoveryData: 
+new Added class 6 : org.ejbca.core.ejb.log.LogConfigurationData: 
+new Added class 7 : org.ejbca.core.ejb.log.LogEntryData: 
+new Added class 8 : org.ejbca.core.ejb.ca.publisher.PublisherData: 
+new Added class 9 : org.ejbca.core.ejb.services.ServiceData: 
+new Added class 10 : org.ejbca.core.ejb.ra.userdatasource.UserDataSourceData: 
+new Added class 11 : org.ejbca.core.ejb.ValidateJpaSchema: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

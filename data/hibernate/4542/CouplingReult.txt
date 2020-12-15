@@ -1,0 +1,32 @@
+Compared Result of  two versions
+Number of New Class: 20
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.hibernate.test.connections.AggressiveReleaseTest: 
+new Added class 1 : org.hibernate.test.connections.BasicConnectionProviderTest: 
+new Added class 2 : org.hibernate.test.fileimport.CommandExtractorServiceTest: 
+new Added class 3 : org.hibernate.test.connections.ConnectionManagementTestCase: 
+new Added class 4 : org.hibernate.test.connections.CurrentSessionConnectionTest: 
+new Added class 5 : org.hibernate.test.propertyref.DoesNotWorkTest: 
+new Added class 6 : org.hibernate.test.propertyref.DoesNotWorkWithHbmTest: 
+new Added class 7 : org.hibernate.test.annotations.embeddables.EmbeddableIntegratorTest: 
+new Added class 8 : org.hibernate.test.annotations.id.sequences.HibernateSequenceTest: 
+new Added class 9 : org.hibernate.metamodel.source.annotations.entity.IdentifierGeneratorTest: 
+new Added class 10 : org.hibernate.test.annotations.filter.subclass.tableperclass.Mammal: 
+new Added class 11 : org.hibernate.test.transaction.jta.ManagedDrivingTest: 
+new Added class 12 : org.hibernate.test.annotations.collectionelement.ordered.Person: 
+new Added class 13 : org.hibernate.test.schemaupdate.SchemaExportSuppliedConnectionTest: 
+new Added class 14 : org.hibernate.test.schemaupdate.SchemaExportTest: 
+new Added class 15 : org.hibernate.type.SerializableToBlobType: 
+new Added class 16 : org.hibernate.test.service.ServiceBootstrappingTest: 
+new Added class 17 : org.hibernate.test.connections.SuppliedConnectionTest: 
+new Added class 18 : org.hibernate.test.connections.ThreadLocalCurrentSessionTest: 
+new Added class 19 : org.hibernate.test.annotations.filter.secondarytable.User: 
+testing relationship 
+class 0  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 14£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  6   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

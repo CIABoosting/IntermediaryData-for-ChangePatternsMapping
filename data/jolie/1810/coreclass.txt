@@ -1,0 +1,17 @@
+InputPortInfo:0.5766666666666667
+OLParser:0.41
+InterfaceVisitor:0.2833333333333333
+OLVisitor:0.2833333333333333
+Scanner:0.23666666666666666
+ProgramInspectorCreatorVisitor:0.20833333333333334
+TypeChecker:0.20083333333333334
+OOITBuilder:0.2
+ProgramVisitor:0.1775
+SemanticVerifier:0.16333333333333333
+OptimizerVisitor:0.13666666666666666
+AggregationItemInfo:0.08333333333333333
+InterfaceExtenderDefinition:0.04833333333333333
+CourierDefinitionNode:0.03333333333333333
+NotificationForwardStatement:0.03333333333333333
+SolicitResponseForwardStatement:0.02666666666666667
+CourierChoiceStatement:0.02666666666666667

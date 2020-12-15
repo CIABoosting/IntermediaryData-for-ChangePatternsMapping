@@ -1,0 +1,11 @@
+MovAvgPipelineAggregatorBuilder:0.55
+LinearModel:0.24666666666666667
+HoltLinearModel:0.24
+HoltWintersModel:0.2127777777777778
+EwmaModel:0.2061111111111111
+SimpleModel:0.18833333333333332
+HoltWintersModelBuilder:0.14333333333333334
+HoltLinearModelBuilder:0.13
+EWMAModelBuilder:0.11333333333333333
+LinearModelBuilder:0.08666666666666667
+SimpleModelBuilder:0.08666666666666667

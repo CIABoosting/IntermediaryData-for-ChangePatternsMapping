@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.b3log.symphony.processor.advice.validate.ArticleAddValidation: 
+new Added class 1 : org.b3log.symphony.repository.ArticleRepository: 
+new Added class 2 : org.b3log.symphony.processor.advice.validate.ClientCommentAddValidation: 
+new Added class 3 : org.b3log.symphony.repository.ClientRepository: 
+new Added class 4 : org.b3log.symphony.processor.advice.validate.CommentAddValidation: 
+new Added class 5 : org.b3log.symphony.repository.CommentRepository: 
+new Added class 6 : org.b3log.symphony.repository.FollowRepository: 
+new Added class 7 : org.b3log.symphony.repository.NotificationRepository: 
+new Added class 8 : org.b3log.symphony.repository.OptionRepository: 
+new Added class 9 : org.b3log.symphony.processor.advice.stopwatch.StopwatchEndAdvice: 
+new Added class 10 : org.b3log.symphony.processor.advice.stopwatch.StopwatchStartAdvice: 
+new Added class 11 : org.b3log.symphony.repository.TagArticleRepository: 
+new Added class 12 : org.b3log.symphony.repository.TagRepository: 
+new Added class 13 : org.b3log.symphony.processor.advice.validate.UpdatePasswordValidation: 
+new Added class 14 : org.b3log.symphony.processor.advice.validate.UpdateSyncB3Validation: 
+new Added class 15 : org.b3log.symphony.processor.advice.validate.UserRegisterValidation: 
+new Added class 16 : org.b3log.symphony.repository.UserRepository: 
+new Added class 17 : org.b3log.symphony.repository.UserTagRepository: 
+testing relationship 
+class 12  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  1   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

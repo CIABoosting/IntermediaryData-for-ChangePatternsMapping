@@ -1,0 +1,14 @@
+MongoCollectionStream:0.36
+SingleChannelSyncMongoConnector:0.31333333333333335
+MongoInsert:0.2966666666666667
+MongoRequestMessage:0.2966666666666667
+MongoInsertMessage:0.2733333333333333
+MongoSyncWritableStream:0.23
+MongoCollectionImpl:0.22
+MongoQueryMessage:0.07333333333333333
+MongoCommandMessage:0.07
+MongoReplaceMessage:0.06
+MongoUpdateMessage:0.06
+MongoKillCursorsMessage:0.06
+MongoGetMoreMessage:0.04
+MongoDeleteMessage:0.04

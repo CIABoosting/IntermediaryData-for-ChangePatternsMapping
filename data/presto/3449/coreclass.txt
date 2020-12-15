@@ -1,0 +1,17 @@
+AccessControl:0.59
+InformationSchemaPageSourceProvider:0.3233333333333333
+AccessControlManager:0.3
+DenyAllAccessControl:0.29333333333333333
+SqlStandardAccessControl:0.29
+LegacyAccessControl:0.29
+ReadOnlyAccessControl:0.25333333333333335
+AllowAllAccessControl:0.25333333333333335
+SystemAccessControl:0.24666666666666667
+AccessDeniedException:0.23333333333333334
+InformationSchemaConnector:0.19
+FileBasedAccessControl:0.17666666666666667
+SchemaJdbcTable:0.16666666666666666
+AllowAllSystemAccessControl:0.1571031746031746
+ConnectorAccessControl:0.12904761904761905
+TestAccessControlManager:0.1272222222222222
+MetadataListing:0.01

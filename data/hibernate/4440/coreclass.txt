@@ -1,0 +1,13 @@
+InfinispanRegionFactory:0.64
+TestInfinispanRegionFactory:0.41333333333333333
+SingleNodeTestCase:0.35333333333333333
+CacheTestUtil:0.30666666666666664
+PutFromLoadValidatorUnitTestCase:0.29
+ConcurrentWriteTest:0.2833333333333333
+AbstractNonFunctionalTestCase:0.21333333333333335
+InfinispanRegionFactoryTestCase:0.20333333333333334
+AbstractCollectionRegionAccessStrategyTestCase:0.18333333333333332
+BulkOperationsTestCase:0.18
+JBossStandaloneJtaExampleTest:0.13666666666666666
+MockInfinispanRegionFactory:0.09666666666666666
+TestValidator:0.03666666666666667

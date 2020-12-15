@@ -1,0 +1,17 @@
+RecoveryManager:0.3855555555555556
+Chunk:0.31666666666666665
+ChunkingStepExecutor:0.30666666666666664
+SynchronousChunkProcessor:0.24666666666666667
+ChunkContext:0.09
+AlwaysRetryChunkRetryPolicy:0.06
+ExceptionBasedItemSkipPolicy:0.056666666666666664
+RecoveryManagerSynchronization:0.04666666666666667
+ExceptionBasedItemSkipPolicyTests:0.03666666666666667
+AlwaysRetryChunkRetryPolicyTests:0.02988888888888889
+ChunkFailureException:0.02666666666666667
+StubItemSkipPolicy:0.02
+ChunkRetryPolicy:0.02
+ItemSkipPolicy:0.016666666666666666
+StubChunkRetryPolicy:0.016666666666666666
+ChunkReadingTransactionCallBack:0.013333333333333334
+ChunkingStepExecutorTests:0.006666666666666667

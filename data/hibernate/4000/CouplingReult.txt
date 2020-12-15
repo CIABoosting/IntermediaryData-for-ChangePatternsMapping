@@ -1,0 +1,30 @@
+Compared Result of  two versions
+Number of New Class: 15
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.hibernate.engine.spi.AssociationKey: 
+new Added class 1 : org.hibernate.action.internal.BulkOperationCleanupAction: 
+new Added class 2 : org.hibernate.cfg.annotations.CollectionBinder: 
+new Added class 3 : org.hibernate.engine.spi.CollectionKey: 
+new Added class 4 : org.hibernate.engine.spi.EntityKey: 
+new Added class 5 : org.hibernate.cfg.HbmBinder: 
+new Added class 6 : org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl: 
+new Added class 7 : org.hibernate.engine.spi.LoadQueryInfluencers: 
+new Added class 8 : org.hibernate.engine.query.spi.NativeSQLQueryPlan: 
+new Added class 9 : org.hibernate.engine.internal.NaturalIdXrefDelegate: 
+new Added class 10 : org.hibernate.engine.jdbc.internal.ResultSetWrapperImpl: 
+new Added class 11 : org.hibernate.loader.custom.sql.SQLCustomQuery: 
+new Added class 12 : org.hibernate.engine.jdbc.spi.SqlExceptionHelper: 
+new Added class 13 : org.hibernate.engine.internal.StatefulPersistenceContext: 
+new Added class 14 : org.hibernate.engine.spi.TypedValue: 
+testing relationship 
+class 0  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:1  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 14£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 13  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:0  r14:25  r15:0  r16:3  r17:0  
+class 13  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  1   4 :  0   5 :  2   6 :  0   7 :  0   8 :  10   9 :  1   10 :  8   11 :  16   12 :  0   13 :  2   14 :  30   15 :  0   16 :  3   17 :  0   

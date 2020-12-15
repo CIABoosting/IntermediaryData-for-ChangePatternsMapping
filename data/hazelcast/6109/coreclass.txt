@@ -1,0 +1,14 @@
+ClusterServiceImpl:0.6133333333333333
+ClusterJoinManager:0.3
+ClusterHeartbeatManager:0.2733333333333333
+TcpIpJoiner:0.25666666666666665
+PostJoinOperation:0.24666666666666667
+MulticastJoiner:0.2375
+ClusterClockImpl:0.23666666666666666
+AbstractJoiner:0.23666666666666666
+NodeMulticastListener:0.23333333333333334
+FinalizeJoinOperation:0.21333333333333335
+JoinCheckOperation:0.18
+HeartbeatOperation:0.16333333333333333
+StateManagerExceptionHandler:0.14333333333333334
+MasterClaimOperation:0.12

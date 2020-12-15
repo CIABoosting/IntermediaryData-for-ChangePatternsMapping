@@ -1,0 +1,13 @@
+MapAddInterceptorRequest:0.29
+MapRemoveInterceptorRequest:0.2833333333333333
+MapStoreTest:0.25666666666666665
+MapPortableHook:0.20633333333333334
+MapProxySupport:0.20333333333333334
+AddInterceptorOperation:0.17666666666666667
+RemoveInterceptorOperation:0.17666666666666667
+ClientIssueTest:0.15333333333333332
+HazelcastInstanceProxy:0.14444444444444446
+MultiTargetClientRequest:0.09666666666666666
+MapInterceptorImpl:0.09333333333333334
+InstanceAwareMapInterceptorImpl:0.051666666666666666
+IssuesTest:0.023333333333333334

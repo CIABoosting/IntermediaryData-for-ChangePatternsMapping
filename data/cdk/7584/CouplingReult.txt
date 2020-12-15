@@ -1,0 +1,56 @@
+Compared Result of  two versions
+Number of New Class: 28
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.renderer.AbstractRenderer2D: 
+new Added class 1 : org.openscience.cdk.AtomContainer: 
+new Added class 2 : org.openscience.cdk.test.AtomContainerTest: 
+new Added class 3 : org.openscience.cdk.qsar.descriptors.molecular.CarbonConnectivityOrderOneDescriptor: 
+new Added class 4 : org.openscience.cdk.structgen.stochastic.operator.CrossoverMachine: 
+new Added class 5 : org.openscience.cdk.debug.DebugAminoAcid: 
+new Added class 6 : org.openscience.cdk.debug.DebugAtomContainer: 
+new Added class 7 : org.openscience.cdk.debug.DebugBioPolymer: 
+new Added class 8 : org.openscience.cdk.debug.DebugCrystal: 
+new Added class 9 : org.openscience.cdk.debug.DebugMolecule: 
+new Added class 10 : org.openscience.cdk.debug.DebugMonomer: 
+new Added class 11 : org.openscience.cdk.debug.DebugPolymer: 
+new Added class 12 : org.openscience.cdk.debug.DebugRing: 
+new Added class 13 : org.openscience.cdk.debug.DebugStrand: 
+new Added class 14 : org.openscience.cdk.test.reaction.type.ElectronImpactPDBReactionTest: 
+new Added class 15 : org.openscience.cdk.ringsearch.FiguerasSSSRFinder: 
+new Added class 16 : org.openscience.cdk.interfaces.IAtomContainer: 
+new Added class 17 : org.openscience.cdk.renderer.Java2DRenderer: 
+new Added class 18 : org.openscience.cdk.isomorphism.matchers.QueryAtomContainerCreator: 
+new Added class 19 : org.openscience.cdk.test.structgen.RandomStructureGeneratorTest: 
+new Added class 20 : org.openscience.cdk.renderer.Renderer2DModel: 
+new Added class 21 : org.openscience.cdk.qsar.descriptors.molecular.RotatableBondsCountDescriptor: 
+new Added class 22 : org.openscience.cdk.tools.SaturationChecker: 
+new Added class 23 : org.openscience.cdk.test.smiles.SmilesParserTest: 
+new Added class 24 : org.openscience.cdk.tools.SmilesValencyChecker: 
+new Added class 25 : org.openscience.cdk.qsar.descriptors.molecular.ValenceCarbonConnectivityOrderOneDescriptor: 
+new Added class 26 : org.openscience.cdk.tools.ValencyChecker: 
+new Added class 27 : org.openscience.cdk.tools.ValencyHybridChecker: 
+testing relationship 
+class 0  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:7  r15:0  r16:6  r17:0  
+class 0  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:11  r9:0  r10:88  r11:0  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 1  vs  class 16£º  r0:0  r1:0  r2:1  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:10  r14:0  r15:0  r16:33  r17:0  
+class 2  vs  class 16£º  r0:0  r1:0  r2:0  r3:6  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:38  r12:0  r13:86  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:1  r17:0  
+class 5  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 6  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 7  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 8  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 9  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 10  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 11  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 12  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 13  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 17  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 17  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:1  r9:0  r10:4  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 18  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:25  r17:0  
+class 20  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:8  r9:0  r10:4  r11:0  r12:0  r13:0  r14:5  r15:0  r16:4  r17:0  
+class 22  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:4  r14:28  r15:0  r16:28  r17:0  
+class 24  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:16  r15:0  r16:7  r17:0  
+class 26  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:19  r15:0  r16:8  r17:0  
+class 27  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:16  r15:0  r16:7  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  7   4 :  1   5 :  5   6 :  0   7 :  0   8 :  20   9 :  0   10 :  96   11 :  46   12 :  0   13 :  100   14 :  140   15 :  0   16 :  121   17 :  0   

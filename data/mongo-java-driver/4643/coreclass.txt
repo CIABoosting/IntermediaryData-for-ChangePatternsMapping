@@ -1,0 +1,15 @@
+MongoDocument:0.39
+MongoChannelTest:0.32666666666666666
+MongoRequestMessage:0.26
+MongoChannel:0.23166666666666666
+MongoQueryMessage:0.21333333333333335
+MongoClient:0.20888888888888887
+Serializers:0.17238095238095238
+AbstractCommand:0.11666666666666667
+MongoServerAdapter:0.08333333333333333
+DropCollectionCommand:0.042222222222222223
+DBAdapter:0.03428571428571429
+MongoUpdateMessage:0.01
+MongoDeleteMessage:0.01
+Command:0.0033333333333333335
+CommandResult:0.0

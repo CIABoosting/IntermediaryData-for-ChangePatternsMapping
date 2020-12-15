@@ -1,0 +1,17 @@
+LocalFlowArtifactFactory:0.45666666666666667
+BeanInvokingActionParameters:0.4166666666666667
+ResultEventFactorySelector:0.36366209716209713
+DefaultFlowArtifactFactory:0.36333333333333334
+XmlFlowBuilder:0.3433333333333333
+AbstractFlowBuilder:0.3416666666666667
+ResultSpecification:0.33666666666666667
+RegistryBackedFlowArtifactFactory:0.33666666666666667
+AbstractBeanInvokingAction:0.23333333333333334
+StateExceptionHandlerSet:0.19666666666666666
+TestFlowArtifactFactory:0.18
+FlowExecutionImpl:0.17666666666666667
+TransitionExecutingStateExceptionHandler:0.1527777777777778
+LocalBeanInvokingActionTests:0.13
+LocalFlowArtifactRegistry:0.1
+AbstractFlowBuilderTests:0.09
+PojoActionXmlFlowBuilderTests:0.08666666666666667

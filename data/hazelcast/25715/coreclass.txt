@@ -1,0 +1,16 @@
+HazelcastInstance:0.49666666666666665
+Config:0.4633333333333333
+Hazelcast:0.3933333333333333
+ExecutorConfig:0.2966666666666667
+FactoryImpl:0.26666666666666666
+MapStoreConfig:0.24666666666666667
+XmlConfigBuilder:0.23666666666666666
+ClusterTest:0.22
+QueryTest:0.20666666666666667
+HazelcastInstanceProxy:0.2
+ExecutorManager:0.19
+ExecutorConfigTest:0.18333333333333332
+ExecutionOperationHandler:0.16333333333333333
+HazelcastClient:0.16
+ExecutorServiceClientProxy:0.14
+BasicRunnable:0.08333333333333333

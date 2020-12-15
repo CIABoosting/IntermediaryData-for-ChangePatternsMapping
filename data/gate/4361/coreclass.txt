@@ -1,0 +1,14 @@
+DataCollector:0.6033333333333334
+SaveCorpusAsXmlAction:0.44
+NameBearerHandle:0.30333333333333334
+DataListener:0.27977777777777774
+AttributeDetector:0.19499999999999998
+TokenOrthographyExtractor:0.12166666666666667
+POSCategoryExtractor:0.12166666666666667
+InstanceDetector:0.0867222222222222
+AnnotationDetector:0.04
+AnnotationLengthExtractor:0.03666666666666667
+Scratch:0.035
+LookupDetector:0.03
+DumpArffAction:0.015
+AbstractAttributeExtractor:0.0

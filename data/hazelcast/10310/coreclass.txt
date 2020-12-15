@@ -1,0 +1,12 @@
+DistributedObject:0.7233333333333334
+DistributedObjectEvent:0.39
+TestInitializingObject:0.30083333333333334
+DistributedObjectTest:0.26
+ClientTxnQueueProxy:0.22
+ClientTxnProxy:0.2
+ClientTxnMapProxy:0.19666666666666666
+ClientTxnMultiMapProxy:0.17
+DummyTransactionalObject:0.17
+AbstractJobTracker:0.16
+AbstractDistributedObject:0.15333333333333332
+AbstractClientTxnCollectionProxy:0.08666666666666667

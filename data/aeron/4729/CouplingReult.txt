@@ -1,0 +1,27 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : uk.co.real_logic.aeron.tools.perf_tools.AeronLatencyUnderLoadPublisher: 
+new Added class 1 : uk.co.real_logic.aeron.tools.perf_tools.AeronPing: 
+new Added class 2 : uk.co.real_logic.aeron.ClientConductor: 
+new Added class 3 : uk.co.real_logic.aeron.ClientConductorTest: 
+new Added class 4 : uk.co.real_logic.aeron.driver.ClientProxy: 
+new Added class 5 : uk.co.real_logic.aeron.command.ConnectionBuffersReadyFlyweight: 
+new Added class 6 : uk.co.real_logic.aeron.driver.DriverConductor: 
+new Added class 7 : uk.co.real_logic.aeron.samples.EmbeddedPingPong: 
+new Added class 8 : uk.co.real_logic.aeron.driver.event.EventCodec: 
+new Added class 9 : uk.co.real_logic.aeron.samples.MultipleSubscribersWithFragmentAssembly: 
+new Added class 10 : uk.co.real_logic.aeron.NewConnectionHandler: 
+new Added class 11 : uk.co.real_logic.aeron.samples.Ping: 
+new Added class 12 : uk.co.real_logic.aeron.tools.PublisherTool: 
+new Added class 13 : uk.co.real_logic.aeron.samples.SamplesUtil: 
+new Added class 14 : uk.co.real_logic.aeron.tools.SubscriberTool: 
+new Added class 15 : uk.co.real_logic.aeron.tools.ThwackerTool: 
+testing relationship 
+class 1  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:6  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 15  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  1   9 :  0   10 :  11   11 :  3   12 :  0   13 :  0   14 :  2   15 :  0   16 :  1   17 :  0   

@@ -1,0 +1,8 @@
+ErrorManager:0.5666666666666667
+StackLimitedNFAToDFAConverter:0.37333333333333335
+RecursionLimitedNFAToDFAConverter:0.24
+LeftRecursionDetector:0.23
+Resolver:0.16
+AnalysisPipeline:0.15666666666666668
+RecursionOverflowMessage:0.15
+LeftRecursionCyclesMessage:0.07666666666666666

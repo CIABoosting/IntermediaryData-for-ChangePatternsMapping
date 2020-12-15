@@ -1,0 +1,18 @@
+Compared Result of  two versions
+Number of New Class: 12
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.hazelcast.transaction.impl.operations.BroadcastTxRollbackOperation: 
+new Added class 1 : com.hazelcast.transaction.impl.xa.operations.ClearRemoteTransactionBackupOperation: 
+new Added class 2 : com.hazelcast.transaction.impl.xa.operations.ClearRemoteTransactionOperation: 
+new Added class 3 : com.hazelcast.transaction.impl.xa.operations.CollectRemoteTransactionsOperation: 
+new Added class 4 : com.hazelcast.transaction.impl.operations.CreateTxBackupLogOperation: 
+new Added class 5 : com.hazelcast.transaction.impl.xa.operations.FinalizeRemoteTransactionBackupOperation: 
+new Added class 6 : com.hazelcast.transaction.impl.xa.operations.FinalizeRemoteTransactionOperation: 
+new Added class 7 : com.hazelcast.transaction.impl.operations.PurgeTxBackupLogOperation: 
+new Added class 8 : com.hazelcast.transaction.impl.xa.operations.PutRemoteTransactionBackupOperation: 
+new Added class 9 : com.hazelcast.transaction.impl.xa.operations.PutRemoteTransactionOperation: 
+new Added class 10 : com.hazelcast.transaction.impl.operations.ReplicateTxBackupLogOperation: 
+new Added class 11 : com.hazelcast.transaction.impl.operations.RollbackTxBackupLogOperation: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

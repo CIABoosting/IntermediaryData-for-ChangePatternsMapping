@@ -1,0 +1,48 @@
+Compared Result of  two versions
+Number of New Class: 25
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : entity.core.AdministrativeItem: 
+new Added class 1 : entity.core.metamodel.AttributeMetadata: 
+new Added class 2 : businesslogic.BackendBean: 
+new Added class 3 : entity.location.City: 
+new Added class 4 : entity.core.metamodel.ClassMetadata: 
+new Added class 5 : entity.session.ClientDetail: 
+new Added class 6 : entity.core.ConfigurationItem: 
+new Added class 7 : entity.location.Continent: 
+new Added class 8 : entity.location.Country: 
+new Added class 9 : entity.core.DummyRoot: 
+new Added class 10 : entity.location.Facility: 
+new Added class 11 : entity.equipment.containers.GenericContainer: 
+new Added class 12 : entity.multiple.GenericObjectList: 
+new Added class 13 : util.MetadataUtils: 
+new Added class 14 : entity.multiple.systems.OperatingSystem: 
+new Added class 15 : entity.core.metamodel.PackageMetadata: 
+new Added class 16 : core.todeserialize.RemoteQuery: 
+new Added class 17 : core.toserialize.ResultRecord: 
+new Added class 18 : entity.core.RootObject: 
+new Added class 19 : entity.equipment.applicationlayer.Server: 
+new Added class 20 : entity.location.Shelter: 
+new Added class 21 : entity.location.StateObject: 
+new Added class 22 : entity.config.User: 
+new Added class 23 : entity.config.UserGroup: 
+new Added class 24 : entity.session.UserSession: 
+testing relationship 
+class 1  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 4£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:7  r7:0  r8:0  r9:0  r10:0  r11:17  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:2  r17:0  
+class 2  vs  class 18£º  r0:0  r1:0  r2:0  r3:5  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 22£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:3  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:2  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 11  vs  class 18£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:1  r15:0  r16:17  r17:0  
+class 13  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 12£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 24  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:1  r6:0  r7:0  r8:3  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+record  0 :  0   1 :  3   2 :  0   3 :  8   4 :  2   5 :  4   6 :  19   7 :  0   8 :  8   9 :  0   10 :  1   11 :  53   12 :  0   13 :  11   14 :  8   15 :  0   16 :  20   17 :  0   

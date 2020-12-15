@@ -1,0 +1,13 @@
+MultiLayerNetwork:0.31666666666666665
+BaseOptimizer:0.2833333333333333
+StochasticGradientDescent:0.2683333333333333
+BaseLayer:0.26
+BarnesHutTsne:0.25666666666666665
+Model:0.23166666666666666
+RastriginFunctionModel:0.22166666666666668
+SphereFunctionModel:0.22166666666666668
+RosenbrockFunctionModel:0.22166666666666668
+BatchNormalization:0.21666666666666667
+TestUpdaters:0.20666666666666667
+RNTN:0.1475
+BasePretrainNetwork:0.13

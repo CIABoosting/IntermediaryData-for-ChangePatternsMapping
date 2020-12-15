@@ -1,0 +1,14 @@
+AbstractJob:0.49666666666666665
+ClientMapReduceRequest:0.3
+DistributedMapperClientMapReduceTest:0.23
+ClientCompletableFuture:0.23
+BasicCompletableFuture:0.2227777777777778
+MapReduceService:0.21166666666666667
+ClientMapReduceTest:0.21
+KeyValueJob:0.21
+AbstractCompletableFuture:0.19
+TrackableJobFuture:0.17666666666666667
+TestCombinerFactory:0.08666666666666667
+ClientJob:0.07333333333333333
+TestCombiner:0.04
+TestKeyPredicate:0.017388888888888888

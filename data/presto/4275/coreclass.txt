@@ -1,0 +1,12 @@
+AbstractTestDistributedQueries:0.32666666666666666
+TestRedisDistributed:0.27
+AbstractTestIntegrationSmokeTest:0.25333333333333335
+AbstractTestQueryFramework:0.25333333333333335
+TestCassandraDistributed:0.22
+TestMySqlIntegrationSmokeTest:0.215
+TestMongoIntegrationSmokeTest:0.215
+TestPostgreSqlIntegrationSmokeTest:0.215
+TestRedisIntegrationSmokeTest:0.11666666666666667
+TestKafkaIntegrationSmokeTest:0.05
+TestCassandraIntegrationSmokeTest:0.04666666666666667
+TestJdbcIntegrationSmokeTest:0.04666666666666667

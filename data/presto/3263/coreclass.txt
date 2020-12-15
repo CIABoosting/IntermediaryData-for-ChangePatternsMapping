@@ -1,0 +1,12 @@
+TestBeginQuery:0.25
+TestMySqlIntegrationSmokeTest:0.19666666666666666
+TestPostgreSqlIntegrationSmokeTest:0.19666666666666666
+TestRaptorIntegrationSmokeTestMySql:0.19666666666666666
+TestDistributedQueriesIndexed:0.17131746031746034
+TestKafkaDistributed:0.16
+TestRedisDistributed:0.16
+TestRedisDistributedHash:0.16
+TestKafkaIntegrationSmokeTest:0.16
+TestRedisIntegrationSmokeTest:0.16
+TestMySqlDistributedQueries:0.14
+TestPostgreSqlDistributedQueries:0.14

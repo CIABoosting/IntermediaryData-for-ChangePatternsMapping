@@ -1,0 +1,15 @@
+ClientMapNearCacheTest:0.34
+SimpleMapStore:0.32166666666666666
+NearCacheLocalImmediateInvalidateTest:0.2966666666666667
+NearCacheLocalInvalidationTest:0.2966666666666667
+NearCacheLiteMemberTest:0.29
+MapNearCacheInvalidationFromClientTest:0.24
+ClientNearCacheBatchInvalidationTest:0.19666666666666666
+NearCacheTest:0.19666666666666666
+NearCacheStaleReadTest:0.15333333333333332
+GetRunnable:0.1311111111111111
+PutRunnable:0.1311111111111111
+ClientMapNearCacheStaleReadTest:0.12333333333333334
+ClientMapNearCacheStalenessTest:0.09
+NearCacheStalenessTest:0.08
+IncrementEntryProcessor:0.03666666666666667

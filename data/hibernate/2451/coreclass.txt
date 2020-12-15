@@ -1,0 +1,15 @@
+PutFromLoadValidator:0.38333333333333336
+AbstractEntityRegionAccessStrategyTestCase:0.31666666666666665
+BasicTransactionalTestCase:0.31083333333333335
+TransactionalAccessDelegate:0.2966666666666667
+NonTxInvalidationInterceptor:0.26666666666666666
+EndInvalidationCommand:0.26666666666666666
+PendingPutMap:0.26
+NonTxPutFromLoadInterceptor:0.25666666666666665
+PendingPut:0.25333333333333335
+TxPutFromLoadInterceptor:0.22611111111111115
+TransactionalAccess:0.21833333333333332
+AbstractCollectionRegionAccessStrategyTestCase:0.17666666666666667
+AbstractReadOnlyAccessTestCase:0.14333333333333334
+AbstractTransactionalAccessTestCase:0.11333333333333333
+Invalidator:0.07666666666666666

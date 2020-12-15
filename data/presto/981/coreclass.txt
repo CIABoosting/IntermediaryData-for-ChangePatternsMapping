@@ -1,0 +1,12 @@
+OperatorContext:0.44666666666666666
+Driver:0.4275
+TaskContext:0.38333333333333336
+DriverContext:0.37
+PipelineContext:0.36333333333333334
+RevocableMemoryOperator:0.31666666666666665
+QueryContext:0.20333333333333334
+NestedLoopJoinPages:0.10333333333333333
+TestingOperatorContext:0.09666666666666666
+AlwaysBlockedMemoryRevokingTableScanOperator:0.09666666666666666
+DecoratedLocalMemoryContext:0.04444444444444444
+QueryMemoryReservationHandler:0.0

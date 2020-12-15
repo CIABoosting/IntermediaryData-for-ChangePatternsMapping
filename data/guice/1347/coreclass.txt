@@ -1,0 +1,13 @@
+Command:0.49166666666666664
+VisitableBinderTest:0.34
+ExecutingVisitor:0.2733333333333333
+VisitableBinder:0.2733333333333333
+BindCommand:0.2733333333333333
+RequestStaticInjectionCommand:0.24666666666666667
+AddMessageErrorCommand:0.24333333333333335
+GetProviderCommand:0.21142857142857144
+BindInterceptorCommand:0.20666666666666667
+BindConstantCommand:0.20333333333333334
+BindScopeCommand:0.19333333333333333
+ConvertToTypesCommand:0.19333333333333333
+AddThrowableErrorCommand:0.18333333333333332

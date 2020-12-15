@@ -1,0 +1,12 @@
+SchemaVersion:0.47333333333333333
+MetaDataTable:0.41333333333333333
+Migration:0.36
+ResourceUtils:0.21
+SqlScript:0.18666666666666668
+BaseMigration:0.16666666666666666
+SchemaVersionSmallTest:0.14333333333333334
+MigrationRowMapper:0.11333333333333333
+BaseMigrationSmallTest:0.1
+SqlMigration:0.04
+MigrationTestCase:0.03333333333333333
+OracleMigrationMediumTest:0.013333333333333334

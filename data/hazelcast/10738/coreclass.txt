@@ -1,0 +1,10 @@
+ClusterServiceImpl:0.49666666666666665
+SerializationServiceImpl:0.37666666666666665
+MemberInfoUpdateOperation:0.26
+Foo:0.24666666666666667
+FooDataSerializable:0.23333333333333334
+MemberInfoUpdateOperationSerializer:0.12833333333333333
+FooXmlSerializer:0.08333333333333333
+CustomSerializationTest:0.07666666666666666
+JoinStressTest:0.04666666666666667
+DelayedMemberInfoUpdateOperation:0.03

@@ -1,0 +1,11 @@
+ChildQuerySearchIT:0.39666666666666667
+ChildrenIT:0.3433333333333333
+LateParsingQuery:0.3
+ParentIdFieldMapper:0.2833333333333333
+InnerHitsIT:0.24666666666666667
+ParentJoinFieldMapper:0.22333333333333333
+MetaJoinFieldType:0.20333333333333334
+HasParentQueryBuilder:0.19333333333333333
+HasChildQueryBuilder:0.16666666666666666
+ChildrenAggregationBuilder:0.15666666666666668
+ParentToChildrenAggregatorTests:0.115

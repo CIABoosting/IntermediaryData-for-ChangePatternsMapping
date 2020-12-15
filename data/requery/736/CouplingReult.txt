@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 20
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.requery.sql.BaseType: 
+new Added class 1 : io.requery.sql.type.BigIntType: 
+new Added class 2 : io.requery.sql.type.BinaryType: 
+new Added class 3 : io.requery.sql.type.BlobType: 
+new Added class 4 : io.requery.sql.type.BooleanType: 
+new Added class 5 : io.requery.sql.type.ClobType: 
+new Added class 6 : io.requery.sql.type.DateType: 
+new Added class 7 : io.requery.sql.type.DecimalType: 
+new Added class 8 : io.requery.sql.type.FloatType: 
+new Added class 9 : io.requery.sql.type.IntegerType: 
+new Added class 10 : io.requery.sql.type.JavaDateType: 
+new Added class 11 : io.requery.sql.type.NVarCharType: 
+new Added class 12 : io.requery.sql.type.RealType: 
+new Added class 13 : io.requery.sql.type.SmallIntType: 
+new Added class 14 : io.requery.sql.platform.SQLite: 
+new Added class 15 : io.requery.sql.type.TimeStampType: 
+new Added class 16 : io.requery.sql.type.TimeType: 
+new Added class 17 : io.requery.sql.type.TinyIntType: 
+new Added class 18 : io.requery.sql.type.VarBinaryType: 
+new Added class 19 : io.requery.sql.type.VarCharType: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

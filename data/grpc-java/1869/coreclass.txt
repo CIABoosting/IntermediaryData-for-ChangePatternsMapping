@@ -1,0 +1,13 @@
+Channel:0.7
+NettyClientTransport:0.44666666666666666
+ClientAuthInterceptor:0.26
+NettyClientTransportTest:0.24
+ClientAuthInterceptorTests:0.23
+ClientInterceptorsTest:0.21333333333333335
+ChannelImpl:0.19333333333333333
+NettyTransportFactory:0.11
+OkHttpTransportFactory:0.09
+RealChannel:0.05738095238095237
+InterceptorChannel:0.043333333333333335
+InProcessClientTransportFactory:0.04
+ClientTransportFactory:0.0

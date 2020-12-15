@@ -1,0 +1,39 @@
+Compared Result of  two versions
+Number of New Class: 25
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.tools.CDKHydrogenAdderTest: 
+new Added class 1 : org.openscience.cdk.libio.cml.Convertor: 
+new Added class 2 : org.openscience.cdk.tools.DeAromatizationTool: 
+new Added class 3 : org.openscience.cdk.formula.rules.ElementRule: 
+new Added class 4 : org.openscience.cdk.fingerprint.ExtendedFingerprinter: 
+new Added class 5 : org.openscience.cdk.formula.IsotopePatternGenerator: 
+new Added class 6 : org.openscience.cdk.formula.IsotopePatternGeneratorTest: 
+new Added class 7 : org.openscience.cdk.formula.rules.IsotopePatternRule: 
+new Added class 8 : org.openscience.cdk.formula.MassToFormulaTool: 
+new Added class 9 : org.openscience.cdk.formula.MassToFormulaToolTest: 
+new Added class 10 : org.openscience.cdk.formula.rules.MMElementRule: 
+new Added class 11 : org.openscience.cdk.formula.MolecularFormulaManipulator: 
+new Added class 12 : org.openscience.cdk.formula.MolecularFormulaManipulatorTest: 
+new Added class 13 : org.openscience.cdk.formula.MolecularFormulaRangeManipulator: 
+new Added class 14 : org.openscience.cdk.formula.MolecularFormulaRangeManipulatorTest: 
+new Added class 15 : org.openscience.cdk.formula.MolecularFormulaSetManipulator: 
+new Added class 16 : org.openscience.cdk.formula.MolecularFormulaSetManipulatorTest: 
+new Added class 17 : org.openscience.cdk.qsar.descriptors.molecular.MomentOfInertiaDescriptor: 
+new Added class 18 : org.openscience.cdk.formula.rules.NitrogenRule: 
+new Added class 19 : org.openscience.cdk.formula.rules.NitrogenRuleTest: 
+new Added class 20 : org.openscience.cdk.formula.rules.RDBERule: 
+new Added class 21 : org.openscience.cdk.formula.rules.RDBERuleTest: 
+new Added class 22 : org.openscience.cdk.io.ShelXWriter: 
+new Added class 23 : org.openscience.cdk.structgen.SingleStructureRandomGeneratorTest: 
+new Added class 24 : org.openscience.cdk.formula.rules.ToleranceRangeRule: 
+testing relationship 
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:12  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 3£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:14  r12:0  r13:27  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 24£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  2   4 :  6   5 :  0   6 :  0   7 :  0   8 :  1   9 :  0   10 :  1   11 :  48   12 :  0   13 :  48   14 :  0   15 :  0   16 :  0   17 :  0   

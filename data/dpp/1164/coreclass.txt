@@ -1,0 +1,17 @@
+PacketExtensionUtils:0.6666666666666666
+JoinExtension:0.25666666666666665
+ChecksumExtension:0.25
+InviteExtension:0.22666666666666666
+UserListExtension:0.19333333333333333
+LeaveExtension:0.19333333333333333
+ChecksumErrorExtension:0.19333333333333333
+RequestActivityExtension:0.19333333333333333
+DataTransferExtension:0.19333333333333333
+RequestForFileListExtension:0.19333333333333333
+CancelInviteExtension:0.17666666666666667
+SarosDefaultPacketExtension:0.11333333333333333
+LeaveHandler:0.11
+RequestForActivityHandler:0.11
+UserListHandler:0.11
+GodPacketListener:0.08666666666666667
+SessionDefaultPacketExtension:0.02

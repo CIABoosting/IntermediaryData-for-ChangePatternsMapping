@@ -1,0 +1,17 @@
+TestHazelcastInstanceFactory:0.43
+SetAbstractTest:0.37333333333333335
+MockedClientConnection:0.30333333333333334
+HazelcastParallelClassRunner:0.30333333333333334
+AbstractHazelcastClassRunner:0.2866666666666667
+MockedNodeConnection:0.2833333333333333
+QueueAbstractTest:0.25333333333333335
+ThreadLocalProperties:0.18333333333333332
+TestRunner:0.16487878787878787
+ListAbstractTest:0.16333333333333333
+ThreadDumpAwareRunAfters:0.16
+RingbufferAbstractTest:0.15333333333333332
+HazelcastSerialClassRunner:0.13666666666666666
+LocalProperties:0.08666666666666667
+TransactionalSetAbstractTest:0.08
+MockClientConnectionManagerFactory:0.013333333333333334
+FirewallingMockConnectionManager:0.0033333333333333335

@@ -1,0 +1,15 @@
+Node:0.4266666666666667
+Operation:0.42333333333333334
+ReplicatedMapService:0.4
+ClientEngineImpl:0.37333333333333335
+ProxyServiceImpl:0.3466666666666667
+TransactionContextImpl:0.32666666666666666
+NodeEngineImpl:0.30666666666666664
+QuorumServiceImpl:0.23666666666666666
+ClientPacketProcessor:0.23
+XATransactionContextImpl:0.19666666666666666
+EventPacketProcessor:0.14166666666666666
+NodeShutdownHookThread:0.11333333333333333
+InvokeIsStillRunningOperationRunnable:0.08333333333333333
+ConnectionListenerImpl:0.056666666666666664
+ReplicationListener:0.0025

@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.grpc.netty.CancelClientStreamCommand: 
+new Added class 1 : io.grpc.netty.CancelServerStreamCommand: 
+new Added class 2 : io.grpc.netty.CreateStreamCommand: 
+new Added class 3 : io.grpc.netty.ForcefulCloseCommand: 
+new Added class 4 : io.grpc.netty.GracefulCloseCommand: 
+new Added class 5 : io.grpc.netty.NettyClientHandlerTest: 
+new Added class 6 : io.grpc.netty.NettyClientStreamTest: 
+new Added class 7 : io.grpc.netty.NettyHandlerTestBase: 
+new Added class 8 : io.grpc.netty.NettyServerStreamTest: 
+new Added class 9 : io.grpc.netty.RequestMessagesCommand: 
+new Added class 10 : io.grpc.netty.SendGrpcFrameCommand: 
+new Added class 11 : io.grpc.netty.SendPingCommand: 
+new Added class 12 : io.grpc.netty.SendResponseHeadersCommand: 
+new Added class 13 : io.grpc.netty.WriteQueue: 
+testing relationship 
+class 5  vs  class 7£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:6  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:7  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:18  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  0   4 :  0   5 :  0   6 :  15   7 :  0   8 :  0   9 :  0   10 :  2   11 :  6   12 :  0   13 :  18   14 :  0   15 :  0   16 :  0   17 :  0   

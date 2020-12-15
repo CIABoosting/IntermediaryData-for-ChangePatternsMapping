@@ -1,0 +1,12 @@
+AsyncQueryBatchCursor:0.5733333333333334
+QueryBatchCursor:0.52
+FindOperation:0.25666666666666665
+FindIterable:0.24666666666666667
+FindOptions:0.24
+OperationHelper:0.23333333333333334
+FindIterableImpl:0.21
+ListIndexesOperation:0.19333333333333333
+AggregateOperation:0.18333333333333332
+ParallelCollectionScanOperation:0.17333333333333334
+ListCollectionsOperation:0.17333333333333334
+ListDatabasesOperation:0.14666666666666667

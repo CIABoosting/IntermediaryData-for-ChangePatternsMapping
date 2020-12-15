@@ -1,0 +1,9 @@
+ServerCalls:0.68
+TestServiceGrpc:0.32
+RouteGuideGrpc:0.32
+DuplexStreamingMethod:0.21333333333333335
+WorkerGrpc:0.21333333333333335
+GreeterGrpc:0.21333333333333335
+UnaryMethod:0.21333333333333335
+ServerStreamingMethod:0.11666666666666667
+ClientStreamingMethod:0.11666666666666667

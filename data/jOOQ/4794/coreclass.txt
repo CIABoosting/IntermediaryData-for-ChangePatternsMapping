@@ -1,0 +1,15 @@
+RenderContext:0.5712222222222223
+jOOQAbstractTest:0.3933333333333333
+DefaultRenderContext:0.34833333333333333
+JoinTable:0.31
+AbstractSubSelect:0.25333333333333335
+MergeImpl:0.24
+PrettyPrinter:0.23333333333333334
+SelectQueryAsTable:0.19666666666666666
+SelectQueryAsField:0.19
+InCondition:0.17333333333333334
+CombinedCondition:0.15260101010101007
+ArrayAsSubqueryCondition:0.14333333333333334
+SelectQueryAsSubQueryCondition:0.13666666666666666
+SelectQueryAsExistsCondition:0.13666666666666666
+OraclePivotTable:0.11333333333333333

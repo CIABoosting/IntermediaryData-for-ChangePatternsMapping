@@ -1,0 +1,17 @@
+TableInformation:0.49666666666666665
+DatabaseInformation:0.47711904761904766
+InformationExtractor:0.45699999999999996
+InformationExtractorJdbcDatabaseMetaDataImpl:0.41333333333333333
+Index:0.37
+DatabaseInformationImpl:0.27666666666666667
+Helper:0.23
+TableInformationImpl:0.23
+HibernateSchemaManagementTool:0.22666666666666666
+AvailableSettings:0.14666666666666667
+TestExtraPhysicalTableTypes:0.14333333333333334
+LongVarcharValidationTest:0.1
+StandardIndexExporter:0.09
+SynonymValidationTest:0.07333333333333333
+CrossSchemaForeignKeyGenerationTest:0.03666666666666667
+DdlTransactionIsolatorImpl:0.006666666666666667
+TargetDescriptorImpl:0.0

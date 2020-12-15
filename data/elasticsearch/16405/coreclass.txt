@@ -1,0 +1,15 @@
+CreateFailedEngineException:0.41333333333333333
+IndexFailedEngineException:0.41333333333333333
+SearchContextException:0.2555555555555556
+SearchPhaseExecutionException:0.25333333333333335
+InternalEngine:0.25333333333333335
+StreamOutput:0.25333333333333335
+AliasesMissingException:0.18666666666666668
+SearchException:0.18666666666666668
+IndexWarmerMissingException:0.18666666666666668
+MergeMappingException:0.15
+RecoverFilesRecoveryException:0.15
+RecoveryEngineException:0.14666666666666667
+CircuitBreakingException:0.12333333333333334
+RoutingMissingException:0.1
+PercolateException:0.07

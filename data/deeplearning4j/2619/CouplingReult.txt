@@ -1,0 +1,39 @@
+Compared Result of  two versions
+Number of New Class: 29
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.deeplearning4j.spark.datavec.DataVecDataSetFunction: 
+new Added class 1 : org.deeplearning4j.spark.impl.multilayer.scoring.FeedForwardWithKeyFunction: 
+new Added class 2 : org.deeplearning4j.spark.impl.multilayer.scoring.FeedForwardWithKeyFunctionAdapter: 
+new Added class 3 : org.deeplearning4j.spark.impl.graph.scoring.GraphFeedForwardWithKeyFunction: 
+new Added class 4 : org.deeplearning4j.spark.impl.graph.scoring.GraphFeedForwardWithKeyFunctionAdapter: 
+new Added class 5 : org.deeplearning4j.spark.impl.multilayer.evaluation.IEvaluateFlatMapFunction: 
+new Added class 6 : org.deeplearning4j.spark.impl.multilayer.evaluation.IEvaluateFlatMapFunctionAdapter: 
+new Added class 7 : org.deeplearning4j.spark.impl.layer.IterativeReduceFlatMap: 
+new Added class 8 : org.deeplearning4j.spark.impl.layer.IterativeReduceFlatMapAdapter: 
+new Added class 9 : org.deeplearning4j.streaming.conversion.ndarray.NDArrayRecordToNDArray: 
+new Added class 10 : org.deeplearning4j.spark.time.NTPTimeSource: 
+new Added class 11 : org.deeplearning4j.spark.impl.paramavg.ParameterAveragingTrainingMaster: 
+new Added class 12 : org.deeplearning4j.spark.impl.paramavg.stats.ParameterAveragingTrainingMasterStats: 
+new Added class 13 : org.deeplearning4j.spark.impl.paramavg.stats.ParameterAveragingTrainingWorkerStats: 
+new Added class 14 : org.deeplearning4j.spark.impl.multilayer.scoring.ScoreExamplesFunction: 
+new Added class 15 : org.deeplearning4j.spark.impl.multilayer.scoring.ScoreExamplesFunctionAdapter: 
+new Added class 16 : org.deeplearning4j.spark.impl.multilayer.scoring.ScoreExamplesWithKeyFunction: 
+new Added class 17 : org.deeplearning4j.spark.impl.multilayer.scoring.ScoreExamplesWithKeyFunctionAdapter: 
+new Added class 18 : org.deeplearning4j.spark.impl.multilayer.scoring.ScoreFlatMapFunction: 
+new Added class 19 : org.deeplearning4j.spark.impl.multilayer.scoring.ScoreFlatMapFunctionAdapter: 
+new Added class 20 : org.deeplearning4j.spark.api.stats.SparkTrainingStats: 
+new Added class 21 : org.deeplearning4j.spark.util.SparkUtils: 
+new Added class 22 : org.deeplearning4j.spark.TestEarlyStoppingSpark: 
+new Added class 23 : org.deeplearning4j.spark.api.TrainingHook: 
+new Added class 24 : org.deeplearning4j.spark.api.TrainingWorker: 
+new Added class 25 : org.deeplearning4j.spark.impl.multilayer.scoring.VaeReconstructionErrorWithKeyFunction: 
+new Added class 26 : org.deeplearning4j.spark.impl.multilayer.scoring.VaeReconstructionErrorWithKeyFunctionAdapter: 
+new Added class 27 : org.deeplearning4j.spark.impl.multilayer.scoring.VaeReconstructionProbWithKeyFunction: 
+new Added class 28 : org.deeplearning4j.spark.impl.multilayer.scoring.VaeReconstructionProbWithKeyFunctionAdapter: 
+testing relationship 
+class 11  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 20£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:6  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 13  vs  class 20£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  0   4 :  1   5 :  3   6 :  0   7 :  0   8 :  4   9 :  0   10 :  6   11 :  2   12 :  0   13 :  0   14 :  5   15 :  0   16 :  0   17 :  0   

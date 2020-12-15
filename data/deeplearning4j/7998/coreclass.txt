@@ -1,0 +1,9 @@
+Layer:0.705
+MultiLayerNetwork:0.5933333333333334
+RBM:0.31
+BasePretrainNetwork:0.24777777777777782
+BaseLayer:0.22
+SparkDl4jMultiLayer:0.16444444444444445
+BaseSparkTest:0.15
+TestSparkMultiLayer:0.14666666666666667
+DL4jWorker:0.14

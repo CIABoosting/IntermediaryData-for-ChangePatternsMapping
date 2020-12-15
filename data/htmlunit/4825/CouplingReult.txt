@@ -1,0 +1,17 @@
+Compared Result of  two versions
+Number of New Class: 6
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.gargoylesoftware.htmlunit.CacheTest: 
+new Added class 1 : com.gargoylesoftware.htmlunit.DummyWebResponse: 
+new Added class 2 : com.gargoylesoftware.htmlunit.WebResponse: 
+new Added class 3 : com.gargoylesoftware.htmlunit.WebResponseImpl: 
+new Added class 4 : com.gargoylesoftware.htmlunit.util.WebResponseWrapper: 
+new Added class 5 : com.gargoylesoftware.htmlunit.javascript.host.xml.XMLHttpRequest: 
+testing relationship 
+class 0  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:14  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:17  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 5  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:9  r9:0  r10:7  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  3   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  10   9 :  0   10 :  24   11 :  18   12 :  0   13 :  0   14 :  2   15 :  0   16 :  0   17 :  0   

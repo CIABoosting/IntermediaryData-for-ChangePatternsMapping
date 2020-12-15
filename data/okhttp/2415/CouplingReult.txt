@@ -1,0 +1,34 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.squareup.okhttp.internal.ByteStringTest: 
+new Added class 1 : com.squareup.okhttp.Connection: 
+new Added class 2 : com.squareup.okhttp.internal.spdy.Header: 
+new Added class 3 : com.squareup.okhttp.internal.spdy.HpackDraft05: 
+new Added class 4 : com.squareup.okhttp.internal.spdy.HpackDraft05Test: 
+new Added class 5 : com.squareup.okhttp.internal.http.HttpURLConnectionImpl: 
+new Added class 6 : com.squareup.okhttp.mockwebserver.MockWebServer: 
+new Added class 7 : com.squareup.okhttp.internal.spdy.NameValueBlockReader: 
+new Added class 8 : com.squareup.okhttp.internal.bytes.OkBuffer: 
+new Added class 9 : com.squareup.okhttp.internal.bytes.OkBufferTest: 
+new Added class 10 : com.squareup.okhttp.OkHttpClient: 
+new Added class 11 : com.squareup.okhttp.internal.Platform: 
+new Added class 12 : com.squareup.okhttp.internal.bytes.Segment: 
+new Added class 13 : com.squareup.okhttp.internal.bytes.SegmentPool: 
+new Added class 14 : com.squareup.okhttp.internal.bytes.Sink: 
+new Added class 15 : com.squareup.okhttp.internal.bytes.Source: 
+new Added class 16 : com.squareup.okhttp.internal.spdy.Spdy3: 
+new Added class 17 : com.squareup.okhttp.internal.http.SpdyTransport: 
+new Added class 18 : com.squareup.okhttp.internal.bytes.Timeout: 
+testing relationship 
+class 1  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:80  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 5  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:9  r11:3  r12:0  r13:1  r14:1  r15:0  r16:0  r17:0  
+class 8  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:25  r9:0  r10:0  r11:14  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 14£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 15£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:43  r12:0  r13:27  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:7  r9:0  r10:0  r11:4  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  0   4 :  0   5 :  1   6 :  0   7 :  0   8 :  37   9 :  0   10 :  9   11 :  146   12 :  0   13 :  40   14 :  9   15 :  0   16 :  0   17 :  0   

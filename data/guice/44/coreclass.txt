@@ -1,0 +1,17 @@
+Annotations:0.46
+BinderTest:0.21666666666666667
+ShortNameFactoryTest:0.21666666666666667
+BindingTest:0.21333333333333335
+NamedEquivalanceTest:0.20333333333333334
+FactoryProvider2Test:0.20333333333333334
+MembersInjectorTest:0.2
+PrivateModuleTest:0.2
+Asserts:0.19666666666666666
+InjectionPointTest:0.19
+EagerSingletonTest:0.16833333333333333
+GuiceNamed:0.16833333333333333
+JsrNamed:0.16833333333333333
+ImplicitBindingTest:0.16666666666666666
+TestVisibilityClassLoader:0.15
+MultipleVersionsOfGuiceClassLoader:0.12
+NamedImpl:0.12

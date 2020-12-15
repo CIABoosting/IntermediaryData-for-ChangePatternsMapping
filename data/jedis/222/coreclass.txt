@@ -1,0 +1,15 @@
+Jedis:0.53
+BinaryJedis:0.32666666666666666
+MultiKeyCommandsPipeline:0.2833333333333333
+MultiKeyJedisClusterCommands:0.2833333333333333
+MultiKeyBinaryJedisClusterCommands:0.2833333333333333
+MultiKeyBinaryCommands:0.2833333333333333
+MultiKeyBinaryRedisPipeline:0.2833333333333333
+Commands:0.2833333333333333
+MultiKeyCommands:0.2833333333333333
+Client:0.25333333333333335
+JedisCluster:0.24333333333333335
+AllKindOfValuesCommandsTest:0.21666666666666667
+BinaryClient:0.21333333333333335
+BinaryJedisCluster:0.17333333333333334
+MultiKeyPipelineBase:0.11

@@ -1,0 +1,9 @@
+DistributedGroupBy:0.36333333333333334
+QueryThenFetch:0.28
+Upsert:0.28
+CountPlan:0.28
+QueryAndFetch:0.28
+GlobalAggregate:0.28
+InsertFromSubQuery:0.26666666666666666
+NonDistributedGroupBy:0.25333333333333335
+QueryResult:0.10333333333333333

@@ -1,0 +1,9 @@
+ExpressionInterpreter:0.36
+NodeRewriter:0.35
+DefaultTraversalVisitor:0.35
+AstVisitor:0.32
+Formatter:0.2866666666666667
+RewritingVisitor:0.20333333333333334
+Visitor:0.20333333333333334
+TestExpressionInterpreter:0.1
+AbstractTestQueries:0.1

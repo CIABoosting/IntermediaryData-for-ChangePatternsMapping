@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.alibaba.json.bvt.bug.Bug_for_smoothrat4: 
+new Added class 1 : com.alibaba.json.bvt.JsonValueTest: 
+new Added class 2 : com.alibaba.json.bvt.serializer.filters.NameFilterTest_double: 
+new Added class 3 : com.alibaba.json.bvt.serializer.filters.NameFilterTest_double_field: 
+new Added class 4 : com.alibaba.json.bvt.serializer.filters.NameFilterTest_float: 
+new Added class 5 : com.alibaba.json.bvt.serializer.filters.NameFilterTest_float_field: 
+new Added class 6 : com.alibaba.json.bvt.serializer.filters.PropertyFilter_double: 
+new Added class 7 : com.alibaba.json.bvt.serializer.filters.PropertyFilter_float: 
+new Added class 8 : com.alibaba.fastjson.serializer.SerializeWriter: 
+new Added class 9 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_double_private: 
+new Added class 10 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_double_public: 
+new Added class 11 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_float2_private: 
+new Added class 12 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_float2_public: 
+new Added class 13 : com.alibaba.json.bvt.writeAsArray.WriteAsArray_float_public: 
+testing relationship 
+class 2  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  36   12 :  0   13 :  18   14 :  0   15 :  0   16 :  0   17 :  0   

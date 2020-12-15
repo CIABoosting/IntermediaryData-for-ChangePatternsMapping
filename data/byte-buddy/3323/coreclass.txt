@@ -1,0 +1,17 @@
+Builder:0.4533333333333333
+AbstractBase:0.4
+Proxy:0.36333333333333334
+ForLoadedType:0.32666666666666666
+ForLoadedAnnotation:0.3233333333333333
+AbstractDelegatingBuilder:0.2733333333333333
+InvokeDynamic:0.22666666666666666
+ByteBuddy:0.20333333333333334
+FieldAnnotationTarget:0.2
+ByteBuddyCommons:0.19
+DefaultMethodAnnotationTarget:0.19
+DefaultMethodCall:0.19
+DefaultFieldValueTarget:0.18
+DefaultExceptionDeclarableMethodInterception:0.18
+ForLoadedField:0.17166666666666666
+ByteBuddyCommonsTest:0.12333333333333334
+ArrayIterable:0.0

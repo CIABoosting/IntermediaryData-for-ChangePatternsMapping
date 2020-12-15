@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.ejbca.core.protocol.certificatestore.CertificateCacheTest: 
+new Added class 1 : org.ejbca.config.CmpConfiguration: 
+new Added class 2 : org.ejbca.config.ConfigurationHolder: 
+new Added class 3 : org.ejbca.core.ejb.config.ConfigurationSessionBean: 
+new Added class 4 : org.ejbca.config.DatabaseConfiguration: 
+new Added class 5 : org.ejbca.config.EjbcaConfiguration: 
+new Added class 6 : org.ejbca.config.ExtendedKeyUsageConfiguration: 
+new Added class 7 : org.ejbca.config.InternalConfiguration: 
+new Added class 8 : org.ejbca.config.LogConfiguration: 
+new Added class 9 : org.ejbca.config.MailConfiguration: 
+new Added class 10 : org.ejbca.ui.web.pub.RequestInstance: 
+new Added class 11 : org.ejbca.config.WebConfiguration: 
+new Added class 12 : org.ejbca.config.WebServiceConfiguration: 
+new Added class 13 : org.ejbca.config.XkmsConfiguration: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

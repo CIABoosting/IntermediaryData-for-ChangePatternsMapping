@@ -1,0 +1,15 @@
+Tools:0.5966666666666667
+EntityConfiguration:0.56
+AuditMetadataGenerator:0.23333333333333334
+AuditReader:0.22166666666666668
+CollectionMetadataGenerator:0.21333333333333335
+ToOneDelegateSessionImplementor:0.18666666666666668
+AuditEventListener:0.17333333333333334
+ToOneIdMapper:0.16333333333333333
+AbstractAuditQuery:0.16
+AuditReaderImpl:0.15333333333333332
+EntityInstantiator:0.13333333333333333
+OneToOneNotOwningMapper:0.10666666666666667
+AuditQueryCreator:0.1
+EntitiesAtRevisionQuery:0.02666666666666667
+RevisionsOfEntityQuery:0.016666666666666666

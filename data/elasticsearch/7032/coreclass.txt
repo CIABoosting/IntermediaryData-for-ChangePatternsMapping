@@ -1,0 +1,7 @@
+DeleteResponse:0.35
+IndexResponse:0.35
+UpdateResponse:0.33
+DocWriteResponse:0.28
+TransportUpdateAction:0.17
+TransportShardBulkAction:0.17
+MyMockClient:0.15

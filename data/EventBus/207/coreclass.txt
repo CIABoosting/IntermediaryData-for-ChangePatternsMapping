@@ -1,0 +1,16 @@
+Subscriber:0.4266666666666667
+EventBus:0.42333333333333334
+EventBusStickyEventTest:0.27666666666666667
+SubscriberMethod:0.24
+PrioSubscriberSticky:0.23
+EventBusInheritanceDisabledTest:0.19333333333333333
+EventBusInheritanceTest:0.19333333333333333
+EventBusOrderedSubscriptionsTest:0.18333333333333332
+EventBusAnnotationProcessor:0.17333333333333334
+SubscriberMethodFinder:0.15333333333333332
+PrioSubscriber:0.15
+EventBusCancelEventDeliveryTest:0.13666666666666666
+Subscription:0.08333333333333333
+StickySubscriber:0.06333333333333334
+SubscriberIndex:0.01
+NonStickySubscriber:0.0

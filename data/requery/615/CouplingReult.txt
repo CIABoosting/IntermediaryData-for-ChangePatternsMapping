@@ -1,0 +1,29 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.requery.processor.AssociativeReference: 
+new Added class 1 : io.requery.meta.Attribute: 
+new Added class 2 : io.requery.meta.AttributeBuilder: 
+new Added class 3 : io.requery.processor.AttributeDescriptor: 
+new Added class 4 : io.requery.processor.AttributeMember: 
+new Added class 5 : io.requery.meta.BaseAttribute: 
+new Added class 6 : io.requery.meta.BaseType: 
+new Added class 7 : io.requery.processor.EntityGenerator: 
+new Added class 8 : io.requery.meta.ImmutableAttribute: 
+new Added class 9 : io.requery.processor.JoinEntityGenerator: 
+new Added class 10 : io.requery.processor.JoinTableAssociation: 
+new Added class 11 : io.requery.processor.JunctionTableAssociation: 
+new Added class 12 : io.requery.sql.SchemaModifier: 
+testing relationship 
+class 2  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:5  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:9  r17:0  
+class 8  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:28  r15:0  r16:0  r17:0  
+class 8  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:15  r15:0  r16:23  r17:0  
+record  0 :  0   1 :  2   2 :  1   3 :  1   4 :  1   5 :  1   6 :  5   7 :  0   8 :  3   9 :  0   10 :  1   11 :  4   12 :  0   13 :  0   14 :  45   15 :  0   16 :  32   17 :  0   

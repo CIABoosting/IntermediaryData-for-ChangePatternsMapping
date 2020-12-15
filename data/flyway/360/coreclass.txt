@@ -1,0 +1,16 @@
+Flyway:0.64
+FlywayConfiguration:0.4737857142857143
+MigrationInfoServiceImpl:0.47333333333333333
+MigrationInfoServiceImplSmallTest:0.2833333333333333
+MigrationInfoImpl:0.28
+FlywayConfigurationForTests:0.24333333333333335
+Main:0.24
+FlywayMediumTest:0.21666666666666667
+DbValidate:0.21333333333333335
+MigrationInfoContext:0.21
+AbstractFlywayMojo:0.15333333333333332
+DbMigrate:0.14333333333333334
+MigrationInfoDumperSmallTest:0.13666666666666666
+DbRepair:0.13333333333333333
+AbstractFlywayTask:0.07333333333333333
+FlywayExtension:0.07

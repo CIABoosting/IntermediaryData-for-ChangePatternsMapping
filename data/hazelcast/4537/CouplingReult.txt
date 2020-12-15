@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.hazelcast.client.protocol.compatibility.BinaryCompatibilityNullFileGenerator: 
+new Added class 1 : com.hazelcast.client.protocol.compatibility.ClientCompatibilityNullTest_1_0: 
+new Added class 2 : com.hazelcast.client.protocol.compatibility.ClientCompatibilityNullTest_1_1: 
+new Added class 3 : com.hazelcast.client.protocol.compatibility.ClientCompatibilityNullTest_1_2: 
+new Added class 4 : com.hazelcast.client.protocol.compatibility.ClientCompatibilityNullTest_1_3: 
+new Added class 5 : com.hazelcast.client.protocol.compatibility.ClientCompatibilityNullTest_1_4: 
+new Added class 6 : com.hazelcast.client.protocol.compatibility.ClientCompatibilityTest_1_0: 
+new Added class 7 : com.hazelcast.client.protocol.compatibility.ClientCompatibilityTest_1_1: 
+new Added class 8 : com.hazelcast.client.protocol.compatibility.ClientCompatibilityTest_1_2: 
+new Added class 9 : com.hazelcast.client.protocol.compatibility.ClientCompatibilityTest_1_3: 
+new Added class 10 : com.hazelcast.client.protocol.compatibility.ClientCompatibilityTest_1_4: 
+new Added class 11 : com.hazelcast.client.protocol.compatibility.EncodeDecodeCompatibilityNullTest: 
+new Added class 12 : com.hazelcast.client.protocol.compatibility.EncodeDecodeCompatibilityTest: 
+new Added class 13 : com.hazelcast.client.protocol.compatibility.ServerCompatibilityNullTest_1_0: 
+new Added class 14 : com.hazelcast.client.protocol.compatibility.ServerCompatibilityNullTest_1_1: 
+new Added class 15 : com.hazelcast.client.protocol.compatibility.ServerCompatibilityNullTest_1_2: 
+new Added class 16 : com.hazelcast.client.protocol.compatibility.ServerCompatibilityNullTest_1_3: 
+new Added class 17 : com.hazelcast.client.protocol.compatibility.ServerCompatibilityNullTest_1_4: 
+new Added class 18 : com.hazelcast.client.protocol.compatibility.ServerCompatibilityTest_1_4: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

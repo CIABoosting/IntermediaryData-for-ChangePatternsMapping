@@ -1,0 +1,3 @@
+TestPruneCountAggregationOverScalar:0.56
+TestTransformCorrelatedScalarAggregationToJoin:0.51
+TestTransformExistsApplyToScalarLateralJoin:0.4066666666666667

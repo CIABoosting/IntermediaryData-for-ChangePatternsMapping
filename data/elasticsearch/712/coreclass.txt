@@ -1,0 +1,15 @@
+Definition:0.66
+AnalyzerCaster:0.5066666666666667
+AnalyzerCasterTests:0.28
+EBinary:0.26
+EComp:0.2
+EUnary:0.16666666666666666
+EAssignment:0.14666666666666667
+ELambda:0.12666666666666668
+ECapturingFunctionRef:0.12666666666666668
+EFunctionRef:0.12666666666666668
+AExpression:0.11
+SSubEachIterable:0.11
+EElvis:0.11
+EConditional:0.11
+SSubEachArray:0.11

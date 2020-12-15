@@ -1,0 +1,13 @@
+ShardDao:0.61
+ShardInfo:0.49
+ShardMetadata:0.4666666666666667
+TestingShardDao:0.39166666666666666
+TestShardDao:0.25333333333333335
+DatabaseShardManager:0.25
+OrcStorageManager:0.23
+TestDatabaseShardManager:0.21666666666666667
+TestOrcStorageManager:0.18333333333333332
+TestShardCleaner:0.16666666666666666
+TestShardMetadataRecordCursor:0.14
+TestShardEjector:0.13666666666666666
+Mapper:0.11

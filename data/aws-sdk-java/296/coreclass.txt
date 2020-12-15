@@ -1,0 +1,11 @@
+Vpc:0.6833333333333333
+AmazonWebServiceClient:0.29
+VpcPeeringConnectionVpcInfo:0.20666666666666667
+AssociateVpcCidrBlockRequest:0.16
+AssociateVpcCidrBlockResult:0.15333333333333332
+DisassociateVpcCidrBlockResult:0.15333333333333332
+VpcStaxUnmarshaller:0.13
+DisassociateVpcCidrBlockResultStaxUnmarshaller:0.12333333333333334
+VpcPeeringConnectionVpcInfoStaxUnmarshaller:0.12333333333333334
+AssociateVpcCidrBlockResultStaxUnmarshaller:0.12333333333333334
+AssociateVpcCidrBlockRequestMarshaller:0.05888888888888888

@@ -1,0 +1,12 @@
+NodeExtension:0.7166666666666667
+MemberInfoUpdateOperation:0.5066666666666667
+ClusterServiceImpl:0.49333333333333335
+FinalizeJoinOperation:0.37666666666666665
+ClusterHeartbeatManager:0.3
+MulticastJoiner:0.28
+TcpIpJoiner:0.23666666666666666
+MockJoiner:0.23
+ClusterJoinManager:0.22333333333333333
+DefaultNodeExtension:0.1475
+AbstractJoiner:0.14333333333333334
+ClusterDataSerializerHook:0.07216666666666666

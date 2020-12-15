@@ -1,0 +1,16 @@
+AbstractJPPFClassLoader:0.31333333333333335
+ClientContext:0.30333333333333334
+AbstractNodeContext:0.30333333333333334
+JPPFFutureTask:0.2833333333333333
+AbstractJPPFClient:0.28
+ChannelWrapperRemote:0.26
+ClientPool:0.24333333333333335
+BaseJPPFClientConnection:0.24
+ServerTaskBundleClient:0.24
+AbstractJPPFClassLoaderLifeCycle:0.23333333333333334
+AbstractGenericClient:0.20666666666666667
+JPPFPriorityQueue:0.19333333333333333
+NodeNioServer:0.18666666666666668
+SubmissionManagerClient:0.18333333333333332
+SelectionKeyWrapper:0.16777777777777778
+CompletionListener:0.13333333333333333

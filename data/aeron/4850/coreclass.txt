@@ -1,0 +1,13 @@
+BufferClaim:0.31
+FrameDescriptor:0.3044444444444444
+TermReaderTest:0.25
+TermAppenderTest:0.23666666666666666
+TermScannerTest:0.2
+AeronLatencyUnderLoadPublisher:0.1983888888888889
+TermAppender:0.1928333333333333
+NetworkConnection:0.17666666666666667
+AeronLatencyUnderLoadSubscriber:0.16732323232323232
+TermRebuilder:0.14833333333333334
+TermRebuilderTest:0.14333333333333334
+TermGapScannerTest:0.13333333333333333
+TermGapScanner:0.11

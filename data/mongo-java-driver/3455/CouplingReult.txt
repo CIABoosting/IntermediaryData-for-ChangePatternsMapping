@@ -1,0 +1,36 @@
+Compared Result of  two versions
+Number of New Class: 20
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.mongodb.operation.AsyncCommandOperation: 
+new Added class 1 : org.mongodb.connection.AsyncConnection: 
+new Added class 2 : org.mongodb.operation.AsyncGetMoreOperation: 
+new Added class 3 : org.mongodb.operation.AsyncGetMoreReceiveOperation: 
+new Added class 4 : org.mongodb.operation.AsyncQueryOperation: 
+new Added class 5 : org.mongodb.operation.AsyncWriteOperation: 
+new Added class 6 : org.mongodb.connection.AuthenticatingAsyncConnection: 
+new Added class 7 : org.mongodb.operation.CommandResultBaseCallback: 
+new Added class 8 : org.mongodb.operation.CommandResultCallback: 
+new Added class 9 : org.mongodb.connection.ConnectingAsyncServerConnection: 
+new Added class 10 : org.mongodb.connection.DefaultAsyncConnection: 
+new Added class 11 : org.mongodb.connection.DefaultAsyncConnectionProvider: 
+new Added class 12 : org.mongodb.connection.DefaultAsyncConnectionProviderTest: 
+new Added class 13 : org.mongodb.connection.DefaultServer: 
+new Added class 14 : org.mongodb.session.DelayedCloseAsyncConnection: 
+new Added class 15 : org.mongodb.operation.GetMoreResultCallback: 
+new Added class 16 : org.mongodb.async.MongoAsyncQueryCursorTest: 
+new Added class 17 : org.mongodb.operation.QueryResultCallback: 
+new Added class 18 : org.mongodb.operation.ResponseCallback: 
+new Added class 19 : org.mongodb.operation.WriteResultCallback: 
+testing relationship 
+class 6  vs  class 1£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:6  r9:0  r10:3  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 7  vs  class 18£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:3  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 10  vs  class 1£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 12  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 18£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 18£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 7£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  5   2 :  2   3 :  0   4 :  0   5 :  3   6 :  0   7 :  0   8 :  11   9 :  0   10 :  6   11 :  10   12 :  0   13 :  0   14 :  6   15 :  0   16 :  0   17 :  0   

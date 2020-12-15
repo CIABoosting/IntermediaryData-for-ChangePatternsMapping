@@ -1,0 +1,13 @@
+ProtocolHelper:0.4633333333333333
+GetMoreProtocol:0.21666666666666667
+QueryProtocol:0.21666666666666667
+CommandProtocol:0.21666666666666667
+BSONDocumentBufferCodec:0.21333333333333335
+WriteProtocol:0.21333333333333335
+CommandHelper:0.21333333333333335
+InternalStreamConnectionTest:0.2
+MaxDocumentSizeTest:0.19666666666666666
+MaxMessageSizeTest:0.19666666666666666
+DBDecoderAdapter:0.18333333333333332
+WriteCommandProtocol:0.17
+KillCursorProtocol:0.14

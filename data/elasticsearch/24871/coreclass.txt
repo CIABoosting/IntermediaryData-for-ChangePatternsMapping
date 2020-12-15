@@ -1,0 +1,15 @@
+Client:0.6
+Match:0.5266666666666666
+PercolateResponse:0.3933333333333333
+PercolateRequest:0.37333333333333335
+SimplePercolatorTests:0.30666666666666664
+PercolateRequestBuilder:0.24
+AbstractClient:0.17
+ConcurrentPercolatorTests:0.17
+Fields:0.16
+TransportPercolateAction:0.155
+RecoveryPercolatorTests:0.145
+TTLPercolatorTests:0.10666666666666667
+PercolatorStressBenchmark:0.09666666666666666
+RestPercolateAction:0.056666666666666664
+RestPercolateExistingDocHandler:0.02

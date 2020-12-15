@@ -1,0 +1,11 @@
+RedissonPromise:0.64
+RedisConnection:0.42
+MasterSlaveConnectionManager:0.26
+RSemaphore:0.24666666666666667
+RedisClient:0.23
+RedissonMultiLock:0.21
+RedissonNode:0.20333333333333334
+ConnectionWatchdog:0.16
+RedisClientTest:0.14
+LockPubSub:0.11333333333333333
+SemaphorePubSub:0.06333333333333334

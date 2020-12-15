@@ -1,0 +1,17 @@
+ItemProcessor:0.8966666666666666
+PassthroughItemProcessor:0.569555315055315
+SimpleStepFactoryBeanTests:0.2833333333333333
+SkipLimitStepFactoryBeanTests:0.24666666666666667
+StatefulRetryStepFactoryBeanTests:0.22166666666666668
+ChunkMessageItemWriterIntegrationTests:0.22
+ItemOrientedStepHandler:0.21
+FileToMessagesJobFactoryBean:0.19666666666666666
+SimpleItemHandler:0.18666666666666668
+SkipLimitStepFactoryBean:0.18333333333333332
+AbstractStepFactoryBean:0.15333333333333332
+RepeatOperationsStepFactoryBeanTests:0.11
+StatefulRetryItemHandler:0.09666666666666666
+FlatFileOrderAggregatorTests:0.09
+OrderProcessor:0.07333333333333333
+CompositeItemProcessorTests:0.006666666666666667
+CompositeItemProcessor:0.0

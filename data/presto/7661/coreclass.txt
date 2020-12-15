@@ -1,0 +1,17 @@
+Block:0.6866666666666666
+VariableWidthBlock:0.2833333333333333
+VariableWidthBlockBuilder:0.23333333333333334
+GroupByIdBlock:0.21666666666666667
+AbstractArrayBlock:0.21666666666666667
+AbstractInterleavedBlock:0.21666666666666667
+AbstractArrayElementBlock:0.21666666666666667
+RunLengthEncodedBlock:0.21555555555555558
+TestFixedWidthBlock:0.21
+SliceArrayBlock:0.21
+AbstractTestBlock:0.20666666666666667
+FixedWidthBlock:0.2
+FixedWidthBlockBuilder:0.18333333333333332
+TestVariableWidthBlock:0.17
+LazySliceArrayBlock:0.15666666666666668
+LazyFixedWidthBlock:0.08
+TestSliceArrayBlock:0.006666666666666667

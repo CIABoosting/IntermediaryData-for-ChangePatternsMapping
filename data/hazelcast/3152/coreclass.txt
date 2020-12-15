@@ -1,0 +1,15 @@
+InternalPartitionService:0.54
+InternalPartitionServiceImpl:0.41333333333333333
+PartitionReplicaVersions:0.39666666666666667
+PartitionReplicaManager:0.38666666666666666
+Backup:0.38333333333333336
+ReplicaSyncRequest:0.35
+ReplicaSyncResponse:0.22666666666666666
+CheckReplicaVersion:0.22
+ReplicaSyncInfoTest:0.20666666666666667
+AbstractPartitionLostListenerTest:0.18333333333333332
+PartitionReplicaManagerTest:0.15333333333333332
+OperationBackupHandler:0.15
+ReplicaSyncRetryResponse:0.11833333333333333
+CheckReplicaVersionTask:0.06
+ReplicaSyncTimeoutProcessor:0.0025

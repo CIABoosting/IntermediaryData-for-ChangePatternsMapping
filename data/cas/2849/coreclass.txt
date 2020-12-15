@@ -1,0 +1,16 @@
+U2F:0.7366666666666667
+MultifactorAuthenticationProperties:0.37333333333333335
+U2FDeviceRepository:0.23777777777777775
+CasCoreServicesConfiguration:0.19333333333333333
+U2FConfiguration:0.19
+U2FJpaDeviceRepository:0.17666666666666667
+U2FJpaConfiguration:0.14
+CasRestConfiguration:0.13333333333333333
+GoogleAuthenticatorAuthenticationHandler:0.13333333333333333
+CasCoreTicketsSchedulingConfiguration:0.12
+U2FAuthenticationHandler:0.11333333333333333
+TokenAuthenticationWebflowConfiguration:0.11
+U2FInMemoryDeviceRepository:0.09821428571428571
+Swivel:0.09666666666666666
+U2FDeviceRepositoryCleanerScheduler:0.08333333333333333
+DefaultWebApplicationResponseBuilderLocator:0.03333333333333333

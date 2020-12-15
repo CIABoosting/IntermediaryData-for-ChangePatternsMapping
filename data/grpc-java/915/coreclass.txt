@@ -1,0 +1,17 @@
+Builder:0.6066666666666667
+ServiceDescriptor:0.5533333333333333
+FileDescriptorIndex:0.19444444444444445
+AnotherDynamicServiceGrpc:0.16333333333333333
+DynamicServiceGrpc:0.16
+ReflectableServiceGrpc:0.15333333333333332
+BenchmarkServiceGrpc:0.15333333333333332
+MetricsServiceGrpc:0.15333333333333332
+LoadBalancerGrpc:0.15333333333333332
+TestServiceGrpc:0.15333333333333332
+ReconnectServiceGrpc:0.15333333333333332
+UnimplementedServiceGrpc:0.15333333333333332
+HealthGrpc:0.15333333333333332
+WorkerServiceGrpc:0.15333333333333332
+ServerReflectionGrpc:0.15333333333333332
+ServerReflectionIndex:0.13
+ServiceDescriptorTest:0.06666666666666667

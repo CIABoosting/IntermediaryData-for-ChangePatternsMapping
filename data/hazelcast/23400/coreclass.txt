@@ -1,0 +1,16 @@
+IOUtil:0.7166666666666667
+ContextAwareDataInput:0.36
+ObjectDataOutput:0.3572222222222222
+ObjectDataInput:0.3572222222222222
+ContextAwareDataOutput:0.2475
+EventData:0.17
+OfferOperation:0.16666666666666666
+OfferBackupOperation:0.1525
+AddAllOperation:0.14
+RemoveOperation:0.14
+CompareAndRemoveOperation:0.14
+MultiMapCollectionResponse:0.13333333333333333
+MultiMapResponse:0.13333333333333333
+ContainsOperation:0.12
+SerializableCollectionContainer:0.12
+MapEntrySet:0.11333333333333333

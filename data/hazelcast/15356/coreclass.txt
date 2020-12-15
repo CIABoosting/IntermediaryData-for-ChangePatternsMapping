@@ -1,0 +1,14 @@
+MapReduceUtil:0.43
+ClusterJoinTest:0.36333333333333334
+MapReduceTest:0.2966666666666667
+ClientMapReduceTest:0.23666666666666666
+MapCombineTask:0.20666666666666667
+SingleExecutionProcessor:0.16104545454545455
+PartitionProcessor:0.1161111111111111
+ObjectCombiner:0.10333333333333333
+DataSerializableIntermediateCombiner:0.08
+ListSetCombiner:0.006666666666666667
+MultiMapCombiner:0.006666666666666667
+CustomCombiner:0.006666666666666667
+TestCombiner:0.006666666666666667
+TestIntermediateCombiner:0.006666666666666667

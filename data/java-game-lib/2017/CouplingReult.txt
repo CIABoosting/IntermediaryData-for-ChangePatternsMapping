@@ -1,0 +1,302 @@
+Compared Result of  two versions
+Number of New Class: 185
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.lwjgl.openal.AL: 
+new Added class 1 : org.lwjgl.openal.AL10: 
+new Added class 2 : org.lwjgl.openal.ALC: 
+new Added class 3 : org.lwjgl.opengl.ARBBufferObject: 
+new Added class 4 : org.lwjgl.opengl.ARBColorBufferFloat: 
+new Added class 5 : org.lwjgl.opengl.ARBDepthTexture: 
+new Added class 6 : org.lwjgl.opengl.ARBDrawBuffers: 
+new Added class 7 : org.lwjgl.opengl.ARBFragmentProgram: 
+new Added class 8 : org.lwjgl.opengl.ARBFragmentShader: 
+new Added class 9 : org.lwjgl.opengl.ARBHalfFloatPixel: 
+new Added class 10 : org.lwjgl.opengl.ARBImaging: 
+new Added class 11 : org.lwjgl.opengl.ARBMatrixPalette: 
+new Added class 12 : org.lwjgl.opengl.ARBMultisample: 
+new Added class 13 : org.lwjgl.opengl.ARBMultitexture: 
+new Added class 14 : org.lwjgl.opengl.ARBOcclusionQuery: 
+new Added class 15 : org.lwjgl.opengl.ARBPixelBufferObject: 
+new Added class 16 : org.lwjgl.opengl.ARBPointParameters: 
+new Added class 17 : org.lwjgl.opengl.ARBPointSprite: 
+new Added class 18 : org.lwjgl.opengl.ARBProgram: 
+new Added class 19 : org.lwjgl.opengl.ARBShaderObjects: 
+new Added class 20 : org.lwjgl.opengl.ARBShadingLanguage100: 
+new Added class 21 : org.lwjgl.opengl.ARBShadow: 
+new Added class 22 : org.lwjgl.opengl.ARBShadowAmbient: 
+new Added class 23 : org.lwjgl.opengl.ARBTextureBorderClamp: 
+new Added class 24 : org.lwjgl.opengl.ARBTextureCompression: 
+new Added class 25 : org.lwjgl.opengl.ARBTextureCubeMap: 
+new Added class 26 : org.lwjgl.opengl.ARBTextureEnvCombine: 
+new Added class 27 : org.lwjgl.opengl.ARBTextureEnvDot3: 
+new Added class 28 : org.lwjgl.opengl.ARBTextureFloat: 
+new Added class 29 : org.lwjgl.opengl.ARBTextureMirroredRepeat: 
+new Added class 30 : org.lwjgl.opengl.ARBTextureRectangle: 
+new Added class 31 : org.lwjgl.opengl.ARBTransposeMatrix: 
+new Added class 32 : org.lwjgl.opengl.ARBVertexBlend: 
+new Added class 33 : org.lwjgl.opengl.ARBVertexBufferObject: 
+new Added class 34 : org.lwjgl.opengl.ARBVertexProgram: 
+new Added class 35 : org.lwjgl.opengl.ARBVertexShader: 
+new Added class 36 : org.lwjgl.opengl.ARBWindowPos: 
+new Added class 37 : org.lwjgl.opengl.ATIDrawBuffers: 
+new Added class 38 : org.lwjgl.opengl.ATIElementArray: 
+new Added class 39 : org.lwjgl.opengl.ATIEnvmapBumpmap: 
+new Added class 40 : org.lwjgl.opengl.ATIFragmentShader: 
+new Added class 41 : org.lwjgl.opengl.ATIMapObjectBuffer: 
+new Added class 42 : org.lwjgl.opengl.ATIPnTriangles: 
+new Added class 43 : org.lwjgl.opengl.ATISeparateStencil: 
+new Added class 44 : org.lwjgl.opengl.ATITextureCompression3DC: 
+new Added class 45 : org.lwjgl.opengl.ATITextureFloat: 
+new Added class 46 : org.lwjgl.opengl.ATITextureMirrorOnce: 
+new Added class 47 : org.lwjgl.opengl.ATIVertexArrayObject: 
+new Added class 48 : org.lwjgl.opengl.ATIVertexAttribArrayObject: 
+new Added class 49 : org.lwjgl.opengl.ATIVertexStreams: 
+new Added class 50 : org.lwjgl.opengl.AWTCanvasImplementation: 
+new Added class 51 : org.lwjgl.opengl.AWTGLCanvas: 
+new Added class 52 : org.lwjgl.opengl.AWTSurfaceLock: 
+new Added class 53 : org.lwjgl.test.opengl.awt.AWTTest: 
+new Added class 54 : org.lwjgl.test.devil.BasicTest: 
+new Added class 55 : org.lwjgl.BufferChecks: 
+new Added class 56 : org.lwjgl.BufferUtils: 
+new Added class 57 : org.lwjgl.opengl.ContextCapabilities: 
+new Added class 58 : org.lwjgl.test.opengl.awt.DemoBox: 
+new Added class 59 : org.lwjgl.util.Display: 
+new Added class 60 : org.lwjgl.opengl.DisplayImplementation: 
+new Added class 61 : org.lwjgl.opengl.EXTAbgr: 
+new Added class 62 : org.lwjgl.opengl.EXTBgra: 
+new Added class 63 : org.lwjgl.opengl.EXTBlendEquationSeparate: 
+new Added class 64 : org.lwjgl.opengl.EXTBlendFuncSeparate: 
+new Added class 65 : org.lwjgl.opengl.EXTBlendSubtract: 
+new Added class 66 : org.lwjgl.opengl.EXTCgShader: 
+new Added class 67 : org.lwjgl.opengl.EXTCompiledVertexArray: 
+new Added class 68 : org.lwjgl.opengl.EXTDepthBoundsTest: 
+new Added class 69 : org.lwjgl.opengl.EXTDrawRangeElements: 
+new Added class 70 : org.lwjgl.opengl.EXTFogCoord: 
+new Added class 71 : org.lwjgl.opengl.EXTFramebufferObject: 
+new Added class 72 : org.lwjgl.opengl.EXTMultiDrawArrays: 
+new Added class 73 : org.lwjgl.opengl.EXTPackedPixels: 
+new Added class 74 : org.lwjgl.opengl.EXTPalettedTexture: 
+new Added class 75 : org.lwjgl.opengl.EXTPixelBufferObject: 
+new Added class 76 : org.lwjgl.opengl.EXTPointParameters: 
+new Added class 77 : org.lwjgl.opengl.EXTRescaleNormal: 
+new Added class 78 : org.lwjgl.opengl.EXTSecondaryColor: 
+new Added class 79 : org.lwjgl.opengl.EXTSeparateSpecularColor: 
+new Added class 80 : org.lwjgl.opengl.EXTSharedTexturePalette: 
+new Added class 81 : org.lwjgl.opengl.EXTStencilTwoSide: 
+new Added class 82 : org.lwjgl.opengl.EXTStencilWrap: 
+new Added class 83 : org.lwjgl.opengl.EXTTextureCompressionS3TC: 
+new Added class 84 : org.lwjgl.opengl.EXTTextureEnvCombine: 
+new Added class 85 : org.lwjgl.opengl.EXTTextureEnvDot3: 
+new Added class 86 : org.lwjgl.opengl.EXTTextureFilterAnisotropic: 
+new Added class 87 : org.lwjgl.opengl.EXTTextureLODBias: 
+new Added class 88 : org.lwjgl.opengl.EXTTextureMirrorClamp: 
+new Added class 89 : org.lwjgl.opengl.EXTTextureRectangle: 
+new Added class 90 : org.lwjgl.opengl.EXTVertexShader: 
+new Added class 91 : org.lwjgl.opengl.EXTVertexWeighting: 
+new Added class 92 : org.lwjgl.util.GL: 
+new Added class 93 : org.lwjgl.opengl.GL11: 
+new Added class 94 : org.lwjgl.opengl.GL12: 
+new Added class 95 : org.lwjgl.opengl.GL13: 
+new Added class 96 : org.lwjgl.opengl.GL14: 
+new Added class 97 : org.lwjgl.opengl.GL15: 
+new Added class 98 : org.lwjgl.opengl.GL20: 
+new Added class 99 : org.lwjgl.opengl.GLChecks: 
+new Added class 100 : org.lwjgl.opengl.GLContext: 
+new Added class 101 : org.lwjgl.util.GLImpl: 
+new Added class 102 : org.lwjgl.opengl.HPOcclusionTest: 
+new Added class 103 : org.lwjgl.opengl.IBMRasterposClip: 
+new Added class 104 : org.lwjgl.util.IGL: 
+new Added class 105 : org.lwjgl.devil.IL: 
+new Added class 106 : org.lwjgl.devil.ILU: 
+new Added class 107 : org.lwjgl.devil.ILUT: 
+new Added class 108 : org.lwjgl.input.Keyboard: 
+new Added class 109 : org.lwjgl.opengl.LinuxAWTGLCanvasPeerInfo: 
+new Added class 110 : org.lwjgl.opengl.LinuxCanvasImplementation: 
+new Added class 111 : org.lwjgl.opengl.LinuxContextImplementation: 
+new Added class 112 : org.lwjgl.opengl.LinuxDisplay: 
+new Added class 113 : org.lwjgl.opengl.LinuxDisplayPeerInfo: 
+new Added class 114 : org.lwjgl.opengl.LinuxPbufferPeerInfo: 
+new Added class 115 : org.lwjgl.opengl.LinuxPeerInfo: 
+new Added class 116 : org.lwjgl.LWJGLUtil: 
+new Added class 117 : org.lwjgl.opengl.MacOSXAWTGLCanvasPeerInfo: 
+new Added class 118 : org.lwjgl.opengl.MacOSXCanvasImplementation: 
+new Added class 119 : org.lwjgl.opengl.MacOSXCanvasPeerInfo: 
+new Added class 120 : org.lwjgl.opengl.MacOSXContextImplementation: 
+new Added class 121 : org.lwjgl.opengl.MacOSXDisplay: 
+new Added class 122 : org.lwjgl.opengl.MacOSXDisplayPeerInfo: 
+new Added class 123 : org.lwjgl.opengl.MacOSXPbufferPeerInfo: 
+new Added class 124 : org.lwjgl.opengl.MacOSXPeerInfo: 
+new Added class 125 : org.lwjgl.opengl.glu.MipMap: 
+new Added class 126 : org.lwjgl.opengl.MouseEventQueue: 
+new Added class 127 : org.lwjgl.opengl.NVCopyDepthToColor: 
+new Added class 128 : org.lwjgl.opengl.NVDepthClamp: 
+new Added class 129 : org.lwjgl.opengl.NVEvaluators: 
+new Added class 130 : org.lwjgl.opengl.NVFence: 
+new Added class 131 : org.lwjgl.opengl.NVFloatBuffer: 
+new Added class 132 : org.lwjgl.opengl.NVFogDistance: 
+new Added class 133 : org.lwjgl.opengl.NVFragmentProgram: 
+new Added class 134 : org.lwjgl.opengl.NVFragmentProgram2: 
+new Added class 135 : org.lwjgl.opengl.NVHalfFloat: 
+new Added class 136 : org.lwjgl.opengl.NVLightMaxExponent: 
+new Added class 137 : org.lwjgl.opengl.NVMultisampleFilterHint: 
+new Added class 138 : org.lwjgl.opengl.NVOcclusionQuery: 
+new Added class 139 : org.lwjgl.opengl.NVPackedDepthStencil: 
+new Added class 140 : org.lwjgl.opengl.NVPixelDataRange: 
+new Added class 141 : org.lwjgl.opengl.NVPointSprite: 
+new Added class 142 : org.lwjgl.opengl.NVPrimitiveRestart: 
+new Added class 143 : org.lwjgl.opengl.NVProgram: 
+new Added class 144 : org.lwjgl.opengl.NVRegisterCombiners: 
+new Added class 145 : org.lwjgl.opengl.NVRegisterCombiners2: 
+new Added class 146 : org.lwjgl.opengl.NVTexgenReflection: 
+new Added class 147 : org.lwjgl.opengl.NVTextureCompressionVTC: 
+new Added class 148 : org.lwjgl.opengl.NVTextureEnvCombine4: 
+new Added class 149 : org.lwjgl.opengl.NVTextureExpandNormal: 
+new Added class 150 : org.lwjgl.opengl.NVTextureRectangle: 
+new Added class 151 : org.lwjgl.opengl.NVTextureShader: 
+new Added class 152 : org.lwjgl.opengl.NVTextureShader2: 
+new Added class 153 : org.lwjgl.opengl.NVTextureShader3: 
+new Added class 154 : org.lwjgl.opengl.NVVertexArrayRange: 
+new Added class 155 : org.lwjgl.opengl.NVVertexArrayRange2: 
+new Added class 156 : org.lwjgl.opengl.NVVertexProgram: 
+new Added class 157 : org.lwjgl.opengl.NVVertexProgram2Option: 
+new Added class 158 : org.lwjgl.opengl.NVVertexProgram3: 
+new Added class 159 : org.lwjgl.opengl.Pbuffer: 
+new Added class 160 : org.lwjgl.test.opengl.pbuffers.PbufferTest: 
+new Added class 161 : org.lwjgl.opengl.PeerInfo: 
+new Added class 162 : org.lwjgl.opengl.glu.Project: 
+new Added class 163 : org.lwjgl.opengl.RenderTexture: 
+new Added class 164 : org.lwjgl.test.opengl.shaders.Shader: 
+new Added class 165 : org.lwjgl.test.opengl.shaders.ShaderFP: 
+new Added class 166 : org.lwjgl.test.opengl.shaders.ShaderFSH: 
+new Added class 167 : org.lwjgl.test.opengl.shaders.ShadersTest: 
+new Added class 168 : org.lwjgl.test.opengl.shaders.ShaderVP: 
+new Added class 169 : org.lwjgl.test.opengl.shaders.ShaderVSH: 
+new Added class 170 : org.lwjgl.opengl.StateTracker: 
+new Added class 171 : org.lwjgl.opengl.SUNSliceAccum: 
+new Added class 172 : org.lwjgl.test.SysTest: 
+new Added class 173 : org.lwjgl.test.opengl.pbuffers.UniqueRenderer: 
+new Added class 174 : org.lwjgl.test.opengl.pbuffers.UniqueRendererRTT: 
+new Added class 175 : org.lwjgl.opengl.Util: 
+new Added class 176 : org.lwjgl.opengl.Win32AWTGLCanvasPeerInfo: 
+new Added class 177 : org.lwjgl.opengl.Win32CanvasImplementation: 
+new Added class 178 : org.lwjgl.opengl.Win32ContextImplementation: 
+new Added class 179 : org.lwjgl.opengl.Win32Display: 
+new Added class 180 : org.lwjgl.opengl.Win32DisplayPeerInfo: 
+new Added class 181 : org.lwjgl.opengl.Win32PbufferPeerInfo: 
+new Added class 182 : org.lwjgl.opengl.Win32PeerInfo: 
+new Added class 183 : org.lwjgl.test.WindowCreationTest: 
+new Added class 184 : org.lwjgl.util.model.loaders.XMLLoader: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 18£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 18£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:8  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 161£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 170£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 58  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 59  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 75  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 100  vs  class 57£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 100  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 101  vs  class 104£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 105  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 105  vs  class 106£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 105  vs  class 107£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 107  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 107  vs  class 106£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 108  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 109  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 109  vs  class 52£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 109  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 109  vs  class 115£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 110  vs  class 50£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 110  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 110  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:5  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 110  vs  class 161£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 111  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:6  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 111  vs  class 161£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:6  r17:0  
+class 112  vs  class 60£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:11  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 161£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 113  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 113  vs  class 115£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 114  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 114  vs  class 115£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 115  vs  class 161£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 116  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 117  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 117  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 117  vs  class 119£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 118  vs  class 50£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 118  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 118  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 118  vs  class 161£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 119  vs  class 52£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 119  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 119  vs  class 124£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 120  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:7  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 120  vs  class 161£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:6  r17:0  
+class 121  vs  class 60£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 121  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:10  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 121  vs  class 126£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:8  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 121  vs  class 161£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 122  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 122  vs  class 119£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 122  vs  class 121£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 123  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 123  vs  class 124£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 124  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 124  vs  class 161£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 125  vs  class 175£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 126  vs  class 121£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 133  vs  class 143£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 156  vs  class 143£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 159  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 159  vs  class 161£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:6  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 159  vs  class 163£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 160  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 161  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 162  vs  class 175£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 164  vs  class 167£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 165  vs  class 164£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 166  vs  class 164£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 167  vs  class 164£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:9  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 168  vs  class 164£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 169  vs  class 164£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 173  vs  class 159£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 174  vs  class 159£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 174  vs  class 163£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 176  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 176  vs  class 52£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 176  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 176  vs  class 182£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 177  vs  class 50£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 177  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 177  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 177  vs  class 161£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 178  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:6  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 178  vs  class 161£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:4  r17:0  
+class 179  vs  class 60£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 179  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:4  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 179  vs  class 161£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 179  vs  class 180£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 179  vs  class 181£º  r0:0  r1:0  r2:0  r3:4  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 180  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 180  vs  class 182£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 181  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 181  vs  class 182£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 182  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 182  vs  class 161£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 183  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  26   2 :  7   3 :  9   4 :  0   5 :  13   6 :  6   7 :  116   8 :  46   9 :  0   10 :  19   11 :  15   12 :  0   13 :  8   14 :  14   15 :  0   16 :  16   17 :  0   

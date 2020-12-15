@@ -1,0 +1,7 @@
+ConfigSupport:0.3933333333333333
+MasterSlaveConnectionManager:0.3233333333333333
+ClusterConnectionManager:0.2966666666666667
+SentinelConnectionManager:0.29
+SingleConnectionManager:0.07333333333333333
+ElasticacheConnectionManager:0.05
+ReplicatedConnectionManager:0.04666666666666667

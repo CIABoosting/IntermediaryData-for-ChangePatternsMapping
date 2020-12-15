@@ -1,0 +1,16 @@
+Transport:0.5566666666666666
+HttpEngine:0.42333333333333334
+HttpConnection:0.3233333333333333
+RouteSelector:0.26666666666666666
+Connection:0.22333333333333333
+HttpURLConnectionImpl:0.21666666666666667
+ConnectionPoolTest:0.21333333333333335
+SpdyInputStream:0.19
+SpdyTransport:0.17666666666666667
+Job:0.15
+ConnectionPool:0.14333333333333334
+AbstractHttpInputStream:0.13
+FixedLengthInputStream:0.1
+ChunkedInputStream:0.1
+HttpTransport:0.09333333333333334
+UnknownLengthHttpInputStream:0.03

@@ -1,0 +1,17 @@
+CodeGenerationUtils:0.4633333333333333
+HazelcastClientInstanceImpl:0.42
+ClientListProxy:0.33666666666666667
+ClientTxnMapProxy:0.33666666666666667
+ClientQueueProxy:0.3233333333333333
+ClientMultiMapProxy:0.32
+ClientReplicatedMapProxy:0.3
+ClientMapProxy:0.29333333333333333
+NearCachedClientMapProxy:0.27666666666666667
+ClientTxnMultiMapProxy:0.27
+ClientSetProxy:0.24666666666666667
+XAResourceProxy:0.23333333333333334
+CodecCodeGenerator:0.21666666666666667
+CacheListenerRegistrationMessageTask:0.21333333333333335
+StackTraceElementCodec:0.19666666666666666
+ClientMapReduceProxy:0.19666666666666666
+AbstractClientCacheProxy:0.19

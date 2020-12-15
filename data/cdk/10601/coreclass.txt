@@ -1,0 +1,14 @@
+GenerateEMCluster:0.41
+GenerateKMeanClusterTest:0.21333333333333335
+GenerateEMClusterTest:0.15333333333333332
+GenerateDensityBasedClustererModelTest:0.14
+GenerateSMOregModelTest:0.13666666666666666
+WFilterUnSupervisedResampleTest:0.13333333333333333
+WFilterSupervisedResampleTest:0.13
+WFilterUnSupervisedRandomizeTest:0.12666666666666668
+GenerateJ48WModelTest:0.12666666666666668
+GenerateMultilayerPerceptronModelTest:0.12666666666666668
+GenerateNaiveBayesModelTest:0.12
+GenerateLinearRegressionWModelTest:0.12
+GenerateSimpleLinearRegressionModelTest:0.12
+GenerateSMOModelTest:0.11333333333333333

@@ -1,0 +1,17 @@
+PartitionContainer:0.30666666666666664
+OperationServiceImpl:0.2966666666666667
+LockOperation:0.22
+UnlockOperation:0.22
+BasePutOperation:0.20333333333333334
+MapTest:0.18
+MapProxySupport:0.16666666666666666
+MapService:0.14333333333333334
+PutOperation:0.09333333333333334
+ObjectMapProxy:0.09333333333333334
+LockAwareOperation:0.07944444444444444
+AbstractKeyBasedOperation:0.07333333333333333
+PartitionIteratingOperation:0.05444444444444444
+PutIfAbsentOperation:0.03
+SetOperation:0.03
+RemoveOperation:0.03
+PutTransientOperation:0.03

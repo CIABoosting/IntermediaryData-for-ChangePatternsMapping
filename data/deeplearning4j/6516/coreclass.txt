@@ -1,0 +1,14 @@
+OutputLayer:0.63
+MultiLayerNetwork:0.63
+LayerBuilderTest:0.20666666666666667
+MultiLayerTestRNN:0.15
+GradientCheckTests:0.14666666666666667
+MultiLayerTest:0.14
+DefaultLayerFactory:0.1322222222222222
+GradientCheckUtil:0.12855555555555553
+TestPreProcessors:0.12833333333333333
+GRUTest:0.1
+TestSetGetParameters:0.07333333333333333
+RnnToFeedForwardPreProcessor:0.06
+FeedForwardToRnnPreProcessor:0.06
+OutputLayerTest:0.04666666666666667

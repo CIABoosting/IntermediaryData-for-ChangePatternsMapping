@@ -1,0 +1,12 @@
+HivePartition:0.5133333333333333
+AbstractTestHiveClient:0.3433333333333333
+TestBackgroundHiveSplitLoader:0.24333333333333335
+HiveBucketing:0.22
+HiveTableLayoutHandle:0.20333333333333334
+HiveMetadata:0.19
+BucketSplitInfo:0.18
+TestHiveBucketing:0.16333333333333333
+TestHiveMetadata:0.14333333333333334
+HivePartitionResult:0.11333333333333333
+HiveBucketFilter:0.06
+HivePartitionManager:0.056666666666666664

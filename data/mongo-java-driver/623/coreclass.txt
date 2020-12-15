@@ -1,0 +1,16 @@
+DB:0.55
+DBCollection:0.5166666666666667
+DBCursor:0.38
+UpdateRequest:0.25666666666666665
+MapReduceCommand:0.25
+Builder:0.20666666666666667
+DBTest:0.19833333333333333
+AggregationOptions:0.16111111111111112
+DatabaseTestCase:0.14
+BulkUpdateRequestBuilder:0.11666666666666667
+ReplaceRequest:0.11333333333333333
+BulkWriteRequestBuilder:0.1
+BulkWriteHelper:0.09666666666666666
+DBObjectCollationHelper:0.07666666666666666
+GroupCommand:0.075
+RemoveRequest:0.06666666666666667

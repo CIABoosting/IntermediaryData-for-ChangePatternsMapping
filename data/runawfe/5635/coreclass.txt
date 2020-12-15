@@ -1,0 +1,15 @@
+TaskHandler:0.7333333333333333
+BotTask:0.57
+AdminScriptRunner:0.39
+WorkflowBotTaskExecutor:0.24333333333333335
+FilesSupplierConfig:0.21333333333333335
+EmbeddedFileDataProvider:0.18666666666666668
+FileDataProvider:0.18666666666666668
+OfficeFilesSupplierHandler:0.14333333333333334
+IFileDataProvider:0.14333333333333334
+WfeScriptForBotStations:0.13833333333333334
+CancelProcessTaskHandler:0.09
+AdminScriptConstants:0.06
+TaskHandlerBase:0.056666666666666664
+AddEmbeddedFileForBotTask:0.04
+BotTaskFileDoesNotExistException:0.017388888888888888

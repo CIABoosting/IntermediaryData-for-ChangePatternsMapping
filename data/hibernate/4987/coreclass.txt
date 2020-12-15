@@ -1,0 +1,16 @@
+PersistenceContext:0.56
+EntityPersister:0.49333333333333335
+NaturalIdRegionAccessStrategy:0.47556349206349213
+AbstractEntityPersister:0.4633333333333333
+StatefulPersistenceContext:0.35
+UnionSubclassEntityPersister:0.32
+CustomPersister:0.29
+EntityEntry:0.2633333333333333
+NoopEntityPersister:0.25
+SessionFactoryImpl:0.21
+JoinedSubclassEntityPersister:0.20666666666666667
+SingleTableEntityPersister:0.17333333333333334
+PersisterFactoryImpl:0.17333333333333334
+DefaultResolveNaturalIdEventListener:0.16583333333333333
+PersisterFactory:0.058333333333333334
+NaturalIdResolutionCache:0.03666666666666667

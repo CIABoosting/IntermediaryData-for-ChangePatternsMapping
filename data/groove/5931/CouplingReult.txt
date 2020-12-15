@@ -1,0 +1,59 @@
+Compared Result of  two versions
+Number of New Class: 32
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : groove.algebra.AbstractBoolAlgebra: 
+new Added class 1 : groove.test.algebra.AlgebraTest: 
+new Added class 2 : groove.grammar.aspect.AspectGraph: 
+new Added class 3 : groove.algebra.BigIntAlgebra: 
+new Added class 4 : groove.algebra.BigRealAlgebra: 
+new Added class 5 : groove.algebra.BoolSignature: 
+new Added class 6 : groove.grammar.Condition: 
+new Added class 7 : groove.match.rete.ConditionChecker: 
+new Added class 8 : groove.match.plan.ConditionSearchItem: 
+new Added class 9 : groove.algebra.IntSignature: 
+new Added class 10 : groove.algebra.JavaIntAlgebra: 
+new Added class 11 : groove.algebra.JavaRealAlgebra: 
+new Added class 12 : groove.test.algebra.NonFinalAlgebraTest: 
+new Added class 13 : groove.algebra.Operator: 
+new Added class 14 : groove.grammar.rule.OperatorNode: 
+new Added class 15 : groove.match.plan.OperatorNodeSearchItem: 
+new Added class 16 : groove.match.plan.PlanSearchEngine: 
+new Added class 17 : groove.algebra.PointBoolAlgebra: 
+new Added class 18 : groove.algebra.PointIntAlgebra: 
+new Added class 19 : groove.algebra.PointRealAlgebra: 
+new Added class 20 : groove.transform.Proof: 
+new Added class 21 : groove.algebra.RealSignature: 
+new Added class 22 : groove.test.rule.RuleApplicationTest: 
+new Added class 23 : groove.grammar.rule.RuleFactory: 
+new Added class 24 : groove.grammar.model.RuleModel: 
+new Added class 25 : groove.match.plan.SearchPlan: 
+new Added class 26 : groove.algebra.Signature: 
+new Added class 27 : groove.algebra.TermBoolAlgebra: 
+new Added class 28 : groove.algebra.TermIntAlgebra: 
+new Added class 29 : groove.algebra.TermRealAlgebra: 
+new Added class 30 : groove.test.type.TypeCheckTest: 
+new Added class 31 : groove.grammar.type.TypeGraph: 
+testing relationship 
+class 2  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 26£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 31£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:1  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:9  r9:0  r10:8  r11:0  r12:0  r13:0  r14:2  r15:0  r16:8  r17:0  
+class 9  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 26£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 26£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 24  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:7  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 31£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  3   3 :  0   4 :  3   5 :  14   6 :  0   7 :  0   8 :  47   9 :  0   10 :  8   11 :  5   12 :  0   13 :  4   14 :  5   15 :  0   16 :  8   17 :  0   

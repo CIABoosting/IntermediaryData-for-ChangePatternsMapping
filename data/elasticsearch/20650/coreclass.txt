@@ -1,0 +1,12 @@
+InternalAggregations:0.3466666666666667
+AggregationBuilders:0.32666666666666666
+Bucket:0.3233333333333333
+InternalRange:0.23
+InternalGeoHashGrid:0.23
+InternalSignificantTerms:0.17333333333333334
+InternalTerms:0.17333333333333334
+PercolatorService:0.15
+SearchPhaseController:0.12333333333333334
+TransportAggregationModule:0.09666666666666666
+AggregationModule:0.07
+ReduceContext:0.06333333333333334

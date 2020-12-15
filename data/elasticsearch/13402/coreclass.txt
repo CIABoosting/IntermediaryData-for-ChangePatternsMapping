@@ -1,0 +1,11 @@
+AbstractQueryTestCase:0.43333333333333335
+Parser:0.37666666666666665
+MatchNoneQueryBuilder:0.2733333333333333
+TemplateQueryBuilderTests:0.19
+MatchNoneQueryParser:0.16666666666666666
+ConstantScoreQueryBuilderTests:0.16333333333333333
+WrapperQueryBuilderTests:0.12
+MatchNoneQueryBuilderTests:0.11333333333333333
+TypeQueryParser:0.11
+GeoDistanceRangeQueryParser:0.10333333333333333
+WrapperQueryParser:0.10333333333333333

@@ -1,0 +1,16 @@
+Config:0.76
+HazelcastInstance:0.5233333333333333
+ExecutionServiceImpl:0.2866666666666667
+HazelcastClientInstanceImpl:0.28
+ServiceManagerImpl:0.25222222222222224
+XmlConfigBuilder:0.25
+TaskScheduler:0.2305555555555555
+InternalExecutionService:0.22166666666666668
+HazelcastInstanceImpl:0.2188888888888889
+HazelcastOSGiInstanceImpl:0.2188888888888889
+DelegatingTaskScheduler:0.21666666666666667
+DelegatingTaskDecorator:0.21333333333333335
+HazelcastInstanceProxy:0.17111111111111113
+HazelcastClientProxy:0.17111111111111113
+XMLConfigBuilderTest:0.15666666666666668
+FactoryIdHelper:0.05

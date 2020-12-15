@@ -1,0 +1,75 @@
+Compared Result of  two versions
+Number of New Class: 40
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.modeling.forcefield.AngleBending: 
+new Added class 1 : org.openscience.cdk.modeling.forcefield.BondStretching: 
+new Added class 2 : org.openscience.cdk.tools.CDKValencyChecker: 
+new Added class 3 : org.openscience.cdk.io.CMLReader: 
+new Added class 4 : org.openscience.cdk.geometry.CrystalGeometryTools: 
+new Added class 5 : org.openscience.cdk.debug.DebugRingSet: 
+new Added class 6 : org.openscience.cdk.ringsearch.FiguerasSSSRFinder: 
+new Added class 7 : org.openscience.cdk.modeling.builder3d.ForceFieldConfigurator: 
+new Added class 8 : org.openscience.cdk.io.INChIReader: 
+new Added class 9 : org.openscience.cdk.tools.IonizationPotentialTool: 
+new Added class 10 : org.openscience.cdk.interfaces.IRingSet: 
+new Added class 11 : org.openscience.cdk.tools.IValencyChecker: 
+new Added class 12 : org.openscience.cdk.modeling.builder3d.MM2BasedParameterSetReader: 
+new Added class 13 : org.openscience.cdk.modeling.builder3d.MMFF94BasedParameterSetReader: 
+new Added class 14 : org.openscience.cdk.modeling.builder3d.MMFF94ParametersCall: 
+new Added class 15 : org.openscience.cdk.charges.MMFF94PartialCharges: 
+new Added class 16 : org.openscience.cdk.smiles.smarts.parser.ParserTest: 
+new Added class 17 : org.openscience.cdk.qsar.descriptors.atomic.RDFProtonDescriptor_G3R: 
+new Added class 18 : org.openscience.cdk.qsar.descriptors.atomic.RDFProtonDescriptor_GDR: 
+new Added class 19 : org.openscience.cdk.qsar.descriptors.atomic.RDFProtonDescriptor_GHR: 
+new Added class 20 : org.openscience.cdk.qsar.descriptors.atomic.RDFProtonDescriptor_GHR_topol: 
+new Added class 21 : org.openscience.cdk.qsar.descriptors.atomic.RDFProtonDescriptor_GSR: 
+new Added class 22 : org.openscience.cdk.ringsearch.RingPartitioner: 
+new Added class 23 : org.openscience.cdk.layout.RingPlacer: 
+new Added class 24 : org.openscience.cdk.RingSet: 
+new Added class 25 : org.openscience.cdk.tools.manipulator.RingSetManipulator: 
+new Added class 26 : org.openscience.cdk.RingSetTest: 
+new Added class 27 : org.openscience.cdk.qsar.descriptors.molecular.RotatableBondsCountDescriptor: 
+new Added class 28 : org.openscience.cdk.smiles.smarts.SMARTSQueryTool: 
+new Added class 29 : org.openscience.cdk.smiles.SmilesGeneratorTest: 
+new Added class 30 : org.openscience.cdk.smiles.SmilesParser: 
+new Added class 31 : org.openscience.cdk.smiles.SmilesParserTest: 
+new Added class 32 : org.openscience.cdk.graph.SpanningTree: 
+new Added class 33 : org.openscience.cdk.ringsearch.SSSRFinder: 
+new Added class 34 : org.openscience.cdk.qsar.descriptors.atomic.StabilizationPlusChargeDescriptor: 
+new Added class 35 : org.openscience.cdk.modeling.forcefield.StretchBendInteractions: 
+new Added class 36 : org.openscience.cdk.atomtype.SybylAtomTypeMatcher: 
+new Added class 37 : org.openscience.cdk.atomtype.SybylAtomTypeMatcherTest: 
+new Added class 38 : org.openscience.cdk.modeling.forcefield.Torsions: 
+new Added class 39 : org.openscience.cdk.modeling.forcefield.VanDerWaalsInteractions: 
+testing relationship 
+class 0  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 11£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 6  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 28£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:0  r14:12  r15:0  r16:1  r17:0  
+class 23  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:10  r15:0  r16:2  r17:0  
+class 24  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 25  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:9  r15:0  r16:1  r17:0  
+class 26  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:37  r12:0  r13:18  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:110  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 33  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:5  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:24  r9:0  r10:8  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:12  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  3   3 :  0   4 :  0   5 :  12   6 :  0   7 :  0   8 :  28   9 :  0   10 :  138   11 :  103   12 :  0   13 :  53   14 :  38   15 :  0   16 :  4   17 :  0   

@@ -1,0 +1,11 @@
+Kernel:0.705
+CombineKernel:0.26666666666666666
+ComplementKernel:0.24
+SunshineOctree:0.23666666666666666
+TraceEyeRayKernel:0.18666666666666668
+InterruptableIsVisibleKernel:0.18666666666666668
+InterruptableKernel:0.16333333333333333
+InterruptableTraceRayKernel:0.13666666666666666
+CombineInitKernel:0.11333333333333333
+GenLightRayKernel:0.10666666666666667
+GenEyeRayKernel:0.08333333333333333

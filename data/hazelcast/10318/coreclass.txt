@@ -1,0 +1,16 @@
+TestHazelcastInstanceFactory:0.5166666666666667
+MockConnection:0.31333333333333335
+MapReduceTest:0.2833333333333333
+AbstractPartitionLostListenerTest:0.2733333333333333
+ClientConnection:0.26666666666666666
+HazelcastClientInstanceImpl:0.25333333333333335
+MockConnectionManager:0.21666666666666667
+ClientConnectionManagerImpl:0.21333333333333335
+HazelcastClient:0.20333333333333334
+HazelcastTestSupport:0.16333333333333333
+MockJoiner:0.15
+TestNodeRegistry:0.13777777777777775
+ConnectionListenerImpl:0.13666666666666666
+MockNodeContext:0.13333333333333333
+TestEnvironment:0.09
+AddressHelper:0.07

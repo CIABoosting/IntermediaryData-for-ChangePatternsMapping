@@ -1,0 +1,15 @@
+IndexShardReference:0.5124523809523811
+IndexShard:0.5
+Action:0.34
+ClusterService:0.31666666666666665
+InternalTestCluster:0.29333333333333333
+TransportReplicationAction:0.21333333333333335
+DiscoveryWithServiceDisruptionsIT:0.20166666666666666
+ReplicationPhase:0.20166666666666666
+TransportReplicationActionTests:0.19666666666666666
+PublishClusterStateActionTests:0.18
+ShardStateAction:0.15333333333333332
+PrimaryPhase:0.14
+PublishClusterStateAction:0.13444444444444442
+AsyncReplicaAction:0.12333333333333334
+IndexShardReferenceImpl:0.08333333333333333

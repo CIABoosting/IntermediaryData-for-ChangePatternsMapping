@@ -1,0 +1,23 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.hazelcast.client.impl.protocol.task.map.AbstractMapPutMessageTask: 
+new Added class 1 : com.hazelcast.map.impl.operation.EntryOperator: 
+new Added class 2 : com.hazelcast.monitor.impl.LocalMapStatsImpl: 
+new Added class 3 : com.hazelcast.monitor.impl.LocalMapStatsImplTest: 
+new Added class 4 : com.hazelcast.monitor.impl.LocalMultiMapStatsImplTest: 
+new Added class 5 : com.hazelcast.client.impl.protocol.task.map.MapGetMessageTask: 
+new Added class 6 : com.hazelcast.map.impl.proxy.MapProxySupport: 
+new Added class 7 : com.hazelcast.client.impl.protocol.task.map.MapRemoveMessageTask: 
+new Added class 8 : com.hazelcast.map.impl.MapServiceContextImpl: 
+new Added class 9 : com.hazelcast.multimap.impl.MultiMapProxySupport: 
+new Added class 10 : com.hazelcast.multimap.impl.txn.TxnPutOperation: 
+new Added class 11 : com.hazelcast.multimap.impl.txn.TxnRemoveAllOperation: 
+new Added class 12 : com.hazelcast.multimap.impl.txn.TxnRemoveOperation: 
+testing relationship 
+class 1  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:24  r9:0  r10:29  r11:24  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  25   9 :  0   10 :  35   11 :  24   12 :  0   13 :  4   14 :  0   15 :  0   16 :  3   17 :  0   

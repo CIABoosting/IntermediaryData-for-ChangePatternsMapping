@@ -1,0 +1,65 @@
+Compared Result of  two versions
+Number of New Class: 59
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.appli.ARINC661App2Test: 
+new Added class 1 : arinc661.appli.ARINC661App4Test: 
+new Added class 2 : arinc661.appli.ARINC661AppPrefs2Test: 
+new Added class 3 : arinc661.appli.ARINC661AppPrefsTest: 
+new Added class 4 : arinc661.appli.ARINC661AppTest: 
+new Added class 5 : arinc661.appli.ARINC661ChangeLookAndFeelTest: 
+new Added class 6 : arinc661.appli.ARINC661ServerInAppTest: 
+new Added class 7 : arinc661.server.model.arinc.ARINCGpArcCircleTest: 
+new Added class 8 : arinc661.server.encoding.BasicServerEngineBinaryEncodingTest: 
+new Added class 9 : arinc661.server.encoding.BasicServerEngineEncoding2Test: 
+new Added class 10 : arinc661.server.encoding.BasicServerEngineEncoding3Test: 
+new Added class 11 : arinc661.server.encoding.BasicServerEngineEncodingTest: 
+new Added class 12 : arinc661.server.parser.CheckRenderersDefinitionTest: 
+new Added class 13 : arinc661.server.parser.CheckServerDefinitionTest: 
+new Added class 14 : embedclient.arinc661.client.ConfigParser: 
+new Added class 15 : arinc661.server.engine.CyclicNotificationServer2Test: 
+new Added class 16 : arinc661.server.engine.CyclicNotificationServer3Test: 
+new Added class 17 : arinc661.server.engine.CyclicNotificationServer4Test: 
+new Added class 18 : arinc661.swing.server.model.stdrenderer.DataScalingFR180Test: 
+new Added class 19 : arinc661.appli.writer.DefaultXMLExporterTest: 
+new Added class 20 : arinc661.server.parser.DFHandlerTest: 
+new Added class 21 : arinc661.server.parser.DFHandler_5Test: 
+new Added class 22 : arinc661.appli.editor.EditorOpenDFSynthTest: 
+new Added class 23 : arinc661.server.extensions.ExtensionMapsTest: 
+new Added class 24 : arinc661.appli.extensions.ExtensionPropertyLoaderInEditorTest: 
+new Added class 25 : arinc661.javafx.server.extensions.ExtensionServer19Test: 
+new Added class 26 : arinc661.appli.extensions.ExtensionServerFactoryInEditorTest: 
+new Added class 27 : arinc661.server.extensions.ExtensionServerFactoryTest: 
+new Added class 28 : arinc661.appli.extensions.ExtensionServerWidgetsFactoryInEditorTest: 
+new Added class 29 : arinc661.appli.extensions.ExtensionServerWidgetsInEditorTest: 
+new Added class 30 : arinc661.server.extensions.ExtensionTest: 
+new Added class 31 : plugin.editor.look.action.GenerateDF4Widgets: 
+new Added class 32 : arinc661.common.parser.GraphicsConfigHandlerTest: 
+new Added class 33 : arinc661.javafx.editor.writer.JFXDefaultXMLExporterTest: 
+new Added class 34 : arinc661.javafx.editor.JFXEditorOpenDFExtensions2Test: 
+new Added class 35 : arinc661.javafx.editor.JFXEditorOpenDFExtensionsTest: 
+new Added class 36 : arinc661.javafx.server.model.maps.JFXMapItemLegendOptimizedTest: 
+new Added class 37 : arinc661.javafx.server.model.maps.JFXMapItemRectangleRendererOptimizedTest: 
+new Added class 38 : arinc661.javafx.server.model.maps.JFXMapItemSegmentArcRendererOptimizedTest: 
+new Added class 39 : arinc661.javafx.server.model.maps.JFXMapItemSymbolRendererOptimized2Test: 
+new Added class 40 : arinc661.javafx.server.model.maps.JFXMapItemSymbolRendererOptimizedTest: 
+new Added class 41 : arinc661.javafx.server.JFXServerWrapper4Test: 
+new Added class 42 : arinc661.javafx.server.JFXServerWrapper5Test: 
+new Added class 43 : arinc661.swing.server.model.stdrenderer.LabelRendererTest: 
+new Added class 44 : arinc661.server.model.LayerHelperTest: 
+new Added class 45 : arinc661.appli.writer.LayerSizeConverter2Test: 
+new Added class 46 : arinc661.appli.writer.LayerSizeConverterTest: 
+new Added class 47 : arinc661.appli.editor.LayerTreeEditorGroupUngroupTest: 
+new Added class 48 : arinc661.LibrariesDependencyTest: 
+new Added class 49 : arinc661.swing.server.model.stdrenderer.MapHorzPanel2Test: 
+new Added class 50 : arinc661.swing.server.parser.MapItemsUIHandler2Test: 
+new Added class 51 : arinc661.common.parser.PicturesHandlerTest: 
+new Added class 52 : arinc661.server.parser.ServerBinaryDFHandler7Test: 
+new Added class 53 : arinc661.server.parser.ServerBinaryDFHandler_2Test: 
+new Added class 54 : arinc661.server.engine.ServerMessageProcessor2Test: 
+new Added class 55 : arinc661.server.model.xml.ServerXMLWidgetMethodHandlesTest: 
+new Added class 56 : arinc661.server.extensions.StandAloneServerExtMapsTest: 
+new Added class 57 : arinc661.swing.server.StandAloneServerGUI2Test: 
+new Added class 58 : arinc661.server.parser.UIDefinitionParserTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

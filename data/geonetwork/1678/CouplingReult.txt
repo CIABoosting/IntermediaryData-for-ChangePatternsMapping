@@ -1,0 +1,35 @@
+Compared Result of  two versions
+Number of New Class: 29
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.geonetwork.domain.ebxml.test.informationmodel.event.AdhocQueryTest: 
+new Added class 1 : org.geonetwork.domain.ebxml.test.informationmodel.association.AssociationTest: 
+new Added class 2 : org.geonetwork.domain.ebxml.test.informationmodel.classification.ClassificationNodeTest: 
+new Added class 3 : org.geonetwork.domain.ebxml.test.informationmodel.classification.ClassificationSchemeTest: 
+new Added class 4 : org.geonetwork.domain.ebxml.test.informationmodel.classification.ClassificationTest: 
+new Added class 5 : org.geonetwork.domain.ebxml.test.informationmodel.provenance.EmailAddressTest: 
+new Added class 6 : org.geonetwork.domain.ebxml.test.informationmodel.core.ExternalIdentifierTest: 
+new Added class 7 : org.geonetwork.domain.ebxml.test.informationmodel.core.ExternalLinkTest: 
+new Added class 8 : org.geonetwork.domain.ebxml.test.informationmodel.core.ExtrinsicObjectTest: 
+new Added class 9 : org.geonetwork.domain.ebxml.test.informationmodel.cooperatingregistries.FederationTest: 
+new Added class 10 : org.geonetwork.domain.ebxml.test.informationmodel.core.datatype.InternationalStringTest: 
+new Added class 11 : org.geonetwork.domain.ebxml.test.informationmodel.core.datatype.LocalizedStringTest: 
+new Added class 12 : org.geonetwork.domain.ebxml.test.informationmodel.event.NotifyActionTest: 
+new Added class 13 : org.geonetwork.domain.ebxml.test.informationmodel.core.ObjectRefTest: 
+new Added class 14 : org.geonetwork.domain.ebxml.test.informationmodel.provenance.OrganizationTest: 
+new Added class 15 : org.geonetwork.domain.ebxml.test.informationmodel.provenance.PersonNameTest: 
+new Added class 16 : org.geonetwork.domain.ebxml.test.informationmodel.provenance.PersonTest: 
+new Added class 17 : org.geonetwork.domain.ebxml.test.informationmodel.provenance.PostalAddressTest: 
+new Added class 18 : org.geonetwork.domain.ebxml.test.informationmodel.event.QueryExpressionTest: 
+new Added class 19 : org.geonetwork.domain.ebxml.test.informationmodel.core.RegistryObjectTest: 
+new Added class 20 : org.geonetwork.domain.ebxml.test.informationmodel.core.RegistryPackageTest: 
+new Added class 21 : org.geonetwork.domain.ebxml.test.informationmodel.cooperatingregistries.RegistryTest: 
+new Added class 22 : org.geonetwork.domain.ebxml.test.informationmodel.service.ServiceBindingTest: 
+new Added class 23 : org.geonetwork.domain.ebxml.test.informationmodel.service.ServiceTest: 
+new Added class 24 : org.geonetwork.domain.ebxml.test.informationmodel.core.SlotTest: 
+new Added class 25 : org.geonetwork.domain.ebxml.test.informationmodel.service.SpecificationLinkTest: 
+new Added class 26 : org.geonetwork.domain.ebxml.test.informationmodel.event.SubscriptionTest: 
+new Added class 27 : org.geonetwork.domain.ebxml.test.informationmodel.provenance.TelephoneNumberTest: 
+new Added class 28 : org.geonetwork.domain.ebxml.test.informationmodel.provenance.UserTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

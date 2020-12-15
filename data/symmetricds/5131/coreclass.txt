@@ -1,0 +1,13 @@
+IExtractBatchSource:0.528611111111111
+ProtocolDataReader:0.4633333333333333
+IProtocolDataWriterListener:0.35866666666666663
+IncomingBatch:0.31666666666666665
+StagingDataWriter:0.26
+DataLoaderService:0.24888888888888885
+CsvDataReaderTest:0.23333333333333334
+FileCsvDataWriterTest:0.19
+DataExtractorService:0.18333333333333332
+ProtocolDataWriter:0.13
+ExtractDataReader:0.11333333333333333
+AbstractProtocolDataWriter:0.06333333333333334
+DataReaderStatistics:0.06

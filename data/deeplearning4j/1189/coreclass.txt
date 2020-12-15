@@ -1,0 +1,9 @@
+BaseLayer:0.3466666666666667
+BaseOutputLayer:0.32
+ConvolutionParamInitializer:0.27
+ConvolutionLayer:0.26
+DefaultParamInitializer:0.25666666666666665
+EmbeddingLayer:0.20333333333333334
+NoBiasGradientCheckTests:0.18
+CuDNNGradientChecks:0.12333333333333334
+DenseLayer:0.11666666666666667

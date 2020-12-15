@@ -1,0 +1,16 @@
+Suggest:0.36333333333333334
+SearchService:0.31333333333333335
+Suggestion:0.30333333333333334
+ShardFetchSearchRequest:0.2966666666666667
+SearchPhaseController:0.2633333333333333
+SearchDfsQueryThenFetchAsyncAction:0.24333333333333335
+InternalSearchHit:0.24
+SearchScrollQueryAndFetchAsyncAction:0.23333333333333334
+SearchScrollQueryThenFetchAsyncAction:0.21666666666666667
+AbstractSearchAsyncAction:0.19666666666666666
+SearchDfsQueryAndFetchAsyncAction:0.19666666666666666
+CompletionSuggestion:0.16333333333333333
+SearchQueryAndFetchAsyncAction:0.14333333333333334
+SearchQueryThenFetchAsyncAction:0.13666666666666666
+CompletionSuggester:0.1
+CompletionSuggestSearchIT:0.07

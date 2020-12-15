@@ -1,0 +1,11 @@
+JdbcCoordinator:0.7133333333333334
+SqlStatementWrapper:0.5266666666666666
+Loader:0.30666666666666664
+JdbcCoordinatorImpl:0.27666666666666667
+ResultSetReturnImpl:0.26
+QueryTranslatorImpl:0.19
+QueryLoader:0.18666666666666668
+DynamicBatchingCollectionLoader:0.11
+DynamicEntityLoader:0.11
+ValidateSomeEntityColumns:0.10666666666666667
+CursorFromCallableTest:0.10666666666666667

@@ -1,0 +1,124 @@
+Compared Result of  two versions
+Number of New Class: 70
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opengis.go.display.primitive.AggregateGraphic: 
+new Added class 1 : org.opengis.go.display.event.AggregationChangeEvent: 
+new Added class 2 : org.opengis.go.display.event.AggregationListener: 
+new Added class 3 : org.opengis.go.display.style.ArrowStyle: 
+new Added class 4 : org.opengis.spatialschema.geometry.Boundary: 
+new Added class 5 : org.opengis.util.CodeList: 
+new Added class 6 : org.opengis.crs.crs.CoordinateReferenceSystem: 
+new Added class 7 : org.opengis.go.display.style.DashArray: 
+new Added class 8 : org.opengis.crs.datum.Datum: 
+new Added class 9 : org.opengis.crs.crs.DerivedCRS: 
+new Added class 10 : org.opengis.crs.crs.DerivedCRSType: 
+new Added class 11 : org.opengis.spatialschema.geometry.DirectPosition: 
+new Added class 12 : org.opengis.go.display.DisplayCapabilities: 
+new Added class 13 : org.opengis.go.display.style.Editability: 
+new Added class 14 : org.opengis.spatialschema.geometry.Envelope: 
+new Added class 15 : org.opengis.go.display.event.EventHandler: 
+new Added class 16 : org.opengis.go.display.event.EventManager: 
+new Added class 17 : org.opengis.go.display.event.EventManagerSupport: 
+new Added class 18 : org.opengis.metadata.extent.Extent: 
+new Added class 19 : org.opengis.go.display.style.Fill: 
+new Added class 20 : org.opengis.go.display.style.FillPattern: 
+new Added class 21 : org.opengis.go.display.style.FillStyle: 
+new Added class 22 : org.opengis.spatialschema.geometry.Geometry: 
+new Added class 23 : org.opengis.go.display.primitive.GeometryNotSupportedException: 
+new Added class 24 : org.opengis.go.spatial.GlobalPathType: 
+new Added class 25 : org.opengis.go.display.primitive.Graphic: 
+new Added class 26 : org.opengis.go.display.event.GraphicChangeEvent: 
+new Added class 27 : org.opengis.go.display.primitive.GraphicCompositeCurve: 
+new Added class 28 : org.opengis.go.display.primitive.GraphicCurveSegment: 
+new Added class 29 : org.opengis.go.display.event.GraphicEvent: 
+new Added class 30 : org.opengis.go.display.primitive.GraphicIcon: 
+new Added class 31 : org.opengis.go.display.event.GraphicKeyEvent: 
+new Added class 32 : org.opengis.go.display.primitive.GraphicLabel: 
+new Added class 33 : org.opengis.go.display.event.GraphicListener: 
+new Added class 34 : org.opengis.go.display.event.GraphicListenerSupport: 
+new Added class 35 : org.opengis.go.display.event.GraphicMouseEvent: 
+new Added class 36 : org.opengis.go.display.primitive.GraphicRing: 
+new Added class 37 : org.opengis.go.display.primitive.GraphicScaledImage: 
+new Added class 38 : org.opengis.go.display.style.GraphicStyle: 
+new Added class 39 : org.opengis.go.display.primitive.GraphicSurfaceBoundary: 
+new Added class 40 : org.opengis.go.display.style.Halo: 
+new Added class 41 : org.opengis.go.display.style.Highlight: 
+new Added class 42 : org.opengis.crs.Identifier: 
+new Added class 43 : org.opengis.go.display.style.Inheritance: 
+new Added class 44 : org.opengis.go.display.event.KeyHandler: 
+new Added class 45 : org.opengis.go.display.event.KeyManager: 
+new Added class 46 : org.opengis.go.display.event.KeyManagerSupport: 
+new Added class 47 : org.opengis.go.display.style.LabelPlacement: 
+new Added class 48 : org.opengis.go.display.style.LineCap: 
+new Added class 49 : org.opengis.go.display.style.LineJoin: 
+new Added class 50 : org.opengis.go.display.style.LinePattern: 
+new Added class 51 : org.opengis.go.display.style.LineStyle: 
+new Added class 52 : org.opengis.go.display.style.LineSymbolizer: 
+new Added class 53 : org.opengis.go.display.style.Mark: 
+new Added class 54 : org.opengis.go.display.event.MouseHandler: 
+new Added class 55 : org.opengis.go.display.event.MouseManager: 
+new Added class 56 : org.opengis.go.display.event.MouseManagerSupport: 
+new Added class 57 : org.opengis.util.NoSuchEnumerationException: 
+new Added class 58 : org.opengis.go.display.primitive.OrderedAggregateGraphic: 
+new Added class 59 : org.opengis.go.spatial.PathType: 
+new Added class 60 : org.opengis.go.display.style.PointSymbolizer: 
+new Added class 61 : org.opengis.go.display.style.PolygonSymbolizer: 
+new Added class 62 : org.opengis.util.SimpleEnumerationType: 
+new Added class 63 : org.opengis.go.display.style.Stroke: 
+new Added class 64 : org.opengis.go.display.style.TextSymbolizer: 
+new Added class 65 : org.opengis.go.spatial.UnprojectedPathType: 
+new Added class 66 : org.opengis.go.spatial.VectorPathType: 
+new Added class 67 : org.opengis.go.display.style.Viewability: 
+new Added class 68 : org.opengis.go.display.style.XAnchor: 
+new Added class 69 : org.opengis.go.display.style.YAnchor: 
+testing relationship 
+class 0  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 62£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 50£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 15£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:1  r6:0  r7:0  r8:10  r9:0  r10:8  r11:0  r12:0  r13:0  r14:11  r15:0  r16:1  r17:0  
+class 17  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 62£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 62£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 24  vs  class 57£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 59£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 29£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 29£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:8  r11:8  r12:0  r13:4  r14:1  r15:0  r16:0  r17:0  
+class 34  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:7  r15:0  r16:0  r17:0  
+class 34  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:8  r15:0  r16:0  r17:0  
+class 35  vs  class 29£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 27£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 39  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 44  vs  class 15£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 45  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 46  vs  class 17£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 46  vs  class 44£º  r0:0  r1:0  r2:0  r3:5  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:14  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 46  vs  class 45£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 62£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 49  vs  class 62£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 50  vs  class 62£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 62£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 62£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 54  vs  class 15£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 55  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 17£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 54£º  r0:0  r1:0  r2:0  r3:9  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:29  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 56  vs  class 55£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 58  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 59  vs  class 62£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 62  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 65  vs  class 57£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 65  vs  class 59£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 66  vs  class 57£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 66  vs  class 59£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 68  vs  class 62£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 69  vs  class 62£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  19   2 :  19   3 :  16   4 :  0   5 :  4   6 :  0   7 :  3   8 :  14   9 :  0   10 :  16   11 :  51   12 :  0   13 :  4   14 :  37   15 :  0   16 :  1   17 :  0   

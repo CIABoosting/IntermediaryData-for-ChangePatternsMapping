@@ -1,0 +1,7 @@
+StatementAnalyzer:0.5
+TestAnalyzer:0.26
+AbstractTestDistributedQueries:0.24666666666666667
+TestRedisDistributed:0.23666666666666666
+TestRedisDistributedHash:0.23666666666666666
+TestKafkaDistributed:0.2
+TestCassandraDistributed:0.2

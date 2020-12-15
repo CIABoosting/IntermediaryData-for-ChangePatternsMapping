@@ -1,0 +1,11 @@
+ItemStream:0.5933333333333334
+ItemReader:0.5566666666666666
+DelegatingItemReader:0.28
+SimpleStreamManager:0.22444444444444447
+ItemStreamAdapter:0.21305555555555555
+SimpleStreamManagerTests:0.20666666666666667
+AbstractDataSourceItemReaderIntegrationTests:0.20666666666666667
+AbstractJdbcItemReaderIntegrationTests:0.19
+DrivingQueryItemReaderTests:0.17333333333333334
+ItemReaderAdapter:0.11
+AbstractItemReader:0.0

@@ -1,0 +1,16 @@
+FactoryImpl:0.41
+ClientHandlerService:0.3466666666666667
+LockProxyImpl:0.33666666666666667
+SemaphoreClientProxy:0.31666666666666665
+HazelcastClientListTest:0.31333333333333335
+Prefix:0.31333333333333335
+HazelcastClientSemaphoreTest:0.31333333333333335
+HazelcastClientQueueTest:0.31333333333333335
+HazelcastClientSetTest:0.31333333333333335
+LockClientProxy:0.3
+HazelcastClientMultiMapTest:0.29
+HazelcastClientMapTest:0.15333333333333332
+HazelcastClientAtomicNumberTest:0.14333333333333334
+HazelcastClientTopicTest:0.13
+HazelcastClientCountDownLatchTest:0.13
+HazelcastClientLockTest:0.10666666666666667

@@ -1,0 +1,12 @@
+ElasticsearchIntegrationTest:0.47333333333333333
+GetActionTests:0.38
+CompressSourceMappingTests:0.31
+HighlighterSearchTests:0.3
+UpdateMappingIntegrationTests:0.2833333333333333
+DefaultSourceMappingTests:0.25333333333333335
+SimpleAllMapperTests:0.25
+RecoveryFromGatewayTests:0.19666666666666666
+InnerHitsTests:0.18
+SearchSourceCompressTests:0.16666666666666666
+TypeParser:0.09333333333333334
+ParseMappingTypeLevelTests:0.02

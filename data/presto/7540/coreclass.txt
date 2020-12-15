@@ -1,0 +1,10 @@
+ArrayType:0.7
+TestArrayOperators:0.23333333333333334
+TestUnnestOperator:0.21333333333333335
+TestMapOperators:0.19666666666666666
+TestMapAggAggregation:0.18666666666666668
+TestHistogram:0.15666666666666668
+TestBigintArrayType:0.14
+JsonToArrayCast:0.11666666666666667
+TestArrayMinAggregation:0.11333333333333333
+TestFieldSetFilteringRecordSet:0.10666666666666667

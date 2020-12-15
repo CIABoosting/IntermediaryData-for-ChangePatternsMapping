@@ -1,0 +1,12 @@
+MultiDecoder:0.3225396825396825
+NestedMultiDecoder:0.3
+RedisDecoder:0.23666666666666666
+MapScanResultReplayDecoder:0.18666666666666668
+PubSubMessageDecoder:0.08666666666666667
+PubSubPatternMessageDecoder:0.08666666666666667
+PubSubStatusDecoder:0.08666666666666667
+KeyValueObjectDecoder:0.08666666666666667
+ObjectMapReplayDecoder:0.08666666666666667
+ObjectListReplayDecoder:0.08666666666666667
+StringListReplayDecoder:0.08666666666666667
+StringMapReplayDecoder:0.08666666666666667

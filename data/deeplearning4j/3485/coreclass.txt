@@ -1,0 +1,12 @@
+InMemoryLookupTable:0.62
+SequenceVectors:0.2633333333333333
+WordVectorsImpl:0.24666666666666667
+BasicModelUtils:0.23083333333333333
+GravesLSTMOutputTest:0.2
+DBOW:0.1975
+ConvolutionLayerTest:0.19333333333333333
+WordVectorSerializerTest:0.19
+ParallelTransformerIterator:0.18333333333333332
+DM:0.16
+OutputLayerTest:0.15333333333333332
+DeepWalkGradientCheck:0.06333333333333334

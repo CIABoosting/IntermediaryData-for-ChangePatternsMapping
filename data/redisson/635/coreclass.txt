@@ -1,0 +1,12 @@
+RedisClient:0.38
+RedisClientConfig:0.3
+MasterSlaveServersConfig:0.23666666666666666
+ClusterNodeInfo:0.23083333333333333
+SentinelServersConfig:0.215
+ReplicatedServersConfig:0.16333333333333333
+ClusterServersConfig:0.16333333333333333
+SingleServerConfig:0.16
+SentinelConnectionManager:0.14
+RedisRedirectException:0.13
+WeightedRoundRobinBalancer:0.13
+RedisNodes:0.12

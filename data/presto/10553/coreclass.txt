@@ -1,0 +1,17 @@
+Encoder:0.8066666666666666
+SnappyBlock:0.3566666666666667
+UncompressedEncoder:0.23666666666666666
+SnappyBlockEncoding:0.21666666666666667
+BlockUtils:0.16666666666666666
+BlocksFileWriter:0.14666666666666667
+RunLengthEncoder:0.14333333333333334
+BlocksIterableAdapter:0.1411111111111111
+ColumnFileHandle:0.13333333333333333
+TestSnappyBlockSerde:0.13333333333333333
+TestFileBlocksSerde:0.10333333333333333
+SnappyEncoder:0.07666666666666666
+DictionaryEncoder:0.07333333333333333
+TestDictionaryEncodedBlockSerde:0.03666666666666667
+TestUncompressedBlockSerde:0.02
+TestRunLengthEncodedBlockSerde:0.02
+StatsBuilder:0.016666666666666666

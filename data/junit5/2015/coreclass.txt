@@ -1,0 +1,17 @@
+MethodBasedTestExtensionContext:0.2866666666666667
+EnigmaException:0.27666666666666667
+BeforeAndAfterEachTests:0.22666666666666666
+BeforeAndAfterTestExecutionCallbackTests:0.22
+ExceptionInBeforeEachMethodTestCase:0.18266666666666664
+ThrowableCollector:0.17333333333333334
+ExceptionThrowingBeforeTestExecutionCallback:0.07333333333333333
+ExceptionThrowingBeforeEachCallback:0.07333333333333333
+FooMethodLevelCallbacks:0.06
+FooTestExecutionCallbacks:0.06
+ExceptionInTestMethodTestCase:0.05
+ExceptionInAfterEachMethodTestCase:0.03
+ExceptionInAfterTestExecutionCallbackTestCase:0.01
+ExceptionInAfterEachCallbackTestCase:0.01
+ExceptionThrowingAfterEachCallback:0.0
+ExceptionThrowingAfterTestExecutionCallback:0.0
+TestExtensionContext:0.0

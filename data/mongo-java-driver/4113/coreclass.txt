@@ -1,0 +1,11 @@
+MongoAsyncConnection:0.5333333333333333
+SingleChannelAsyncMongoConnection:0.45
+SingleServerMongoConnection:0.42
+MongoCollectionStream:0.3233333333333333
+SingleChannelSyncMongoConnection:0.2833333333333333
+DatabaseAdminImpl:0.27666666666666667
+MongoSyncConnection:0.255
+ReplicaSetMongoConnection:0.23
+CollectionAdminImpl:0.19666666666666666
+MongoDatabaseImpl:0.11666666666666667
+ClientAdminImpl:0.11333333333333333

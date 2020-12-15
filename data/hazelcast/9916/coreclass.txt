@@ -1,0 +1,14 @@
+PartitionedCluster:0.48333333333333334
+MockConnection:0.37
+MockConnectionManager:0.3466666666666667
+MapReadQuorumTest:0.21333333333333335
+TransactionalMapReadWriteQuorumTest:0.20666666666666667
+ClientMapWriteQuorumTest:0.20333333333333334
+ClientMapReadWriteQuorumTest:0.20333333333333334
+TransactionalMapWriteQuorumTest:0.19666666666666666
+TransactionalMapReadQuorumTest:0.19666666666666666
+MapReadWriteQuorumTest:0.18666666666666668
+MapWriteQuorumTest:0.18666666666666668
+ClientTransactionalMapQuorumTest:0.18
+ClientMapReadQuorumTest:0.18
+MockNodeContext:0.11

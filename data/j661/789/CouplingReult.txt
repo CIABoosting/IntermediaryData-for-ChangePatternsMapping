@@ -1,0 +1,40 @@
+Compared Result of  two versions
+Number of New Class: 22
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.appli.AppliConfiguration: 
+new Added class 1 : arinc661.appli.ARINC661App: 
+new Added class 2 : arinc661.server.parser.css.ARINCCSSParser: 
+new Added class 3 : arinc661.appli.ARINCSettings: 
+new Added class 4 : embedclient.arinc661.common.ARINCStarterWrapper: 
+new Added class 5 : arinc661.common.parser.BinaryDFParser: 
+new Added class 6 : plugin.cockpit.actions.ConfigCockpitAction: 
+new Added class 7 : embedclient.arinc661.client.ConfigParser: 
+new Added class 8 : plugin.client.script.gui.ConfigurationLoader: 
+new Added class 9 : arinc661.appli.actions.ConverterRulesParser: 
+new Added class 10 : arinc661.server.parser.css.CSSPropertiesParser: 
+new Added class 11 : arinc661.server.parser.ImagesParser: 
+new Added class 12 : plugin.client.script.gui.JSScriptPanel: 
+new Added class 13 : arinc661.client.parser.PicturesParser: 
+new Added class 14 : plugin.client.script.gui.PluginScriptPanel: 
+new Added class 15 : plugin.img.actions.SavePPTAction: 
+new Added class 16 : plugin.client.script.ScriptConfigurationHandler: 
+new Added class 17 : arinc661.server.parser.ServerConfigurationParser: 
+new Added class 18 : plugin.client.script.UAScriptManager: 
+new Added class 19 : arinc661.server.parser.UIDefinitionParser: 
+new Added class 20 : arinc661.appli.editor.widgets.WidgetDefaultsParser: 
+new Added class 21 : plugin.client.script.gui.XULPanel: 
+testing relationship 
+class 1  vs  class 0£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:16  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:1  r15:0  r16:1  r17:0  
+class 3  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:2  r10:36  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:39  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 8  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 9  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:6  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 14  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:7  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 19  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  1   4 :  0   5 :  1   6 :  0   7 :  0   8 :  17   9 :  2   10 :  107   11 :  8   12 :  0   13 :  12   14 :  6   15 :  0   16 :  1   17 :  0   

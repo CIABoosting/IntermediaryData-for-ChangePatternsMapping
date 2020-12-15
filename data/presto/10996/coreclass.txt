@@ -1,0 +1,12 @@
+ExpressionInterpreter:0.47
+TupleAnalyzer:0.27
+Rewriter:0.265
+TestExpressionInterpreter:0.25
+InterpretedProjectionFunction:0.24
+InterpretedFilterFunction:0.21666666666666667
+SplitManager:0.21333333333333335
+FunctionAssertions:0.19666666666666666
+TestInterpretedFilterFunction:0.16333333333333333
+TestInterpretedProjectionFunction:0.15333333333333332
+Visitor:0.13
+SimplifyExpressions:0.09333333333333334

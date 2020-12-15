@@ -1,0 +1,12 @@
+Jedis:0.5233333333333333
+ShardedJedis:0.3
+BinaryJedisCommands:0.2833333333333333
+JedisCommands:0.2833333333333333
+Commands:0.2833333333333333
+BinaryJedis:0.25
+Client:0.23
+Pipeline:0.22
+SafeEncoder:0.20333333333333334
+BinaryClient:0.19
+BinaryShardedJedis:0.18333333333333332
+SlowlogCommandsTest:0.016666666666666666

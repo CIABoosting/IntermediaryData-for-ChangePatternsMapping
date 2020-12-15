@@ -1,0 +1,14 @@
+Builder:0.49333333333333335
+MultiLayerNetwork:0.48333333333333334
+NeuralNetConfiguration:0.25333333333333335
+MultiLayerConfiguration:0.22
+PreProcessorDeSerializer:0.20666666666666667
+ConvolutionInputPreProcessor:0.17333333333333334
+MultiLayerNeuralNetConfigurationTest:0.14666666666666667
+ZeroMeanPrePreProcessor:0.11
+ZeroMeanAndUnitVariancePrePreProcessor:0.11
+ListBuilder:0.11
+ComposableOutputPostProcessor:0.07666666666666666
+ComposableInputPreProcessor:0.05333333333333334
+ConvolutionPostProcessor:0.03333333333333333
+PreProcessorSerializer:0.023333333333333334

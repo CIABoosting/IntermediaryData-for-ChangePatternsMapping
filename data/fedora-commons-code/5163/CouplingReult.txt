@@ -1,0 +1,39 @@
+Compared Result of  two versions
+Number of New Class: 28
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : fedora.server.utilities.AxisUtility: 
+new Added class 1 : fedora.server.resourceIndex.BaseTripleGenerator: 
+new Added class 2 : fedora.server.management.BESecurityServlet: 
+new Added class 3 : fedora.client.console.ConsoleSendButtonListener: 
+new Added class 4 : fedora.server.journal.xmlhelpers.ContextXmlWriter: 
+new Added class 5 : fedora.client.objecteditor.DatastreamPane: 
+new Added class 6 : fedora.server.storage.DefaultDOManager: 
+new Added class 7 : fedora.server.storage.replication.DefaultDOReplicator: 
+new Added class 8 : fedora.server.storage.DefaultExternalContentManager: 
+new Added class 9 : fedora.server.storage.translation.FOXMLDODeserializer: 
+new Added class 10 : fedora.client.LoginDialog: 
+new Added class 11 : fedora.client.objecteditor.MechanismInputPanel: 
+new Added class 12 : fedora.server.resourceIndex.MethodInfoStore: 
+new Added class 13 : fedora.server.security.MethodRoleConfig: 
+new Added class 14 : fedora.server.journal.readerwriter.multifile.MockServerForJournalTesting: 
+new Added class 15 : fedora.server.journal.readerwriter.multifile.MultiFileFollowingJournalReader: 
+new Added class 16 : fedora.server.journal.readerwriter.multifile.MultiFileJournalWriter: 
+new Added class 17 : fedora.server.security.PolicyFinderModule: 
+new Added class 18 : fedora.server.resourceIndex.ResourceIndexImplTrippiIntegrationTest: 
+new Added class 19 : fedora.server.resourceIndex.ResourceIndexIntegrationTest: 
+new Added class 20 : fedora.server.resourceIndex.ResourceIndexRebuilder: 
+new Added class 21 : fedora.server.utilities.status.ServerStatusTool: 
+new Added class 22 : fedora.server.storage.lowlevel.Test: 
+new Added class 23 : fedora.test.api.TestAPIA: 
+new Added class 24 : fedora.test.integration.TestCommandLineUtilities: 
+new Added class 25 : fedora.server.resourceIndex.TestResourceIndexTimings: 
+new Added class 26 : fedora.test.api.TestXACMLPolicies: 
+new Added class 27 : fedora.common.http.WebClient: 
+testing relationship 
+class 2  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  3   6 :  0   7 :  0   8 :  0   9 :  0   10 :  3   11 :  3   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

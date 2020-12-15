@@ -1,0 +1,13 @@
+Context:0.71
+ContextImpl:0.4033333333333333
+VertxTestBase:0.22333333333333333
+DatagramSocketImpl:0.22
+HttpClientImpl:0.21666666666666667
+HttpServerImpl:0.17666666666666667
+NetServerImpl:0.17666666666666667
+DnsClientImpl:0.16666666666666666
+AbstractVerticle:0.16
+EventLoopContext:0.13333333333333333
+WorkerContext:0.13333333333333333
+VertxThreadFactory:0.12
+MultiThreadedWorkerContext:0.03666666666666667

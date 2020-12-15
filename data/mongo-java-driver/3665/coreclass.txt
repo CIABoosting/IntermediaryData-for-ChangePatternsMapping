@@ -1,0 +1,12 @@
+ReadPreference:0.5533333333333333
+ReplicaSetServerStateListener:0.28
+ReadPreferenceTest:0.27
+DefaultReplicaSetCluster:0.14194444444444446
+PrimaryReadPreference:0.13666666666666666
+SecondaryReadPreference:0.1
+NearestReadPreference:0.1
+PrimaryPreferredReadPreference:0.09
+SecondaryPreferredReadPreference:0.09
+PrimaryServerSelector:0.013333333333333334
+ReadPreferenceServerSelector:0.01
+ServerSelector:0.0

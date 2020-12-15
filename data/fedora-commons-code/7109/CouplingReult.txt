@@ -1,0 +1,51 @@
+Compared Result of  two versions
+Number of New Class: 30
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : fedora.server.security.BackendPolicies: 
+new Added class 1 : fedora.server.security.BackendSecuritySpec: 
+new Added class 2 : fedora.server.security.BERoleConfig: 
+new Added class 3 : fedora.server.security.BESecurityConfig: 
+new Added class 4 : fedora.server.security.BMechRoleConfig: 
+new Added class 5 : fedora.client.deployment.xml.BObjMETSSerializer: 
+new Added class 6 : fedora.server.security.DefaultAuthorization: 
+new Added class 7 : fedora.server.management.DefaultManagement: 
+new Added class 8 : fedora.server.test.DigitalObjectTest: 
+new Added class 9 : fedora.server.storage.types.Disseminator: 
+new Added class 10 : fedora.server.storage.translation.DOTranslationUtility: 
+new Added class 11 : fedora.client.deployment.xml.DSInputSpecGenerator: 
+new Added class 12 : fedora.server.storage.service.DSInputSpecParser: 
+new Added class 13 : fedora.server.storage.translation.FOXMLDODeserializer: 
+new Added class 14 : fedora.server.storage.translation.FOXMLDOSerializer: 
+new Added class 15 : fedora.common.xml.namespace.FOXMLNamespace: 
+new Added class 16 : fedora.client.deployment.xml.MethodMapGenerator: 
+new Added class 17 : fedora.server.security.MethodRoleConfig: 
+new Added class 18 : fedora.server.storage.translation.METSFedoraExtDODeserializer: 
+new Added class 19 : fedora.server.storage.translation.METSFedoraExtDOSerializer: 
+new Added class 20 : fedora.server.test.METSToFOXMLTest: 
+new Added class 21 : fedora.server.validation.RelsExtValidator: 
+new Added class 22 : fedora.server.test.RepositoryReaderTest: 
+new Added class 23 : fedora.client.deployment.xml.ServiceDefinitionMETSSerializer: 
+new Added class 24 : fedora.client.deployment.xml.ServiceDeploymentMETSSerializer: 
+new Added class 25 : fedora.client.deployment.xml.ServiceProfileSerializer: 
+new Added class 26 : fedora.server.storage.translation.TranslationTest: 
+new Added class 27 : fedora.client.objecteditor.Util: 
+new Added class 28 : fedora.client.deployment.xml.WSDLGenerator: 
+new Added class 29 : fedora.server.storage.service.WSDLParser: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:8  r15:0  r16:8  r17:0  
+class 3  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:15  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 13  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 9£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 18  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 9£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:13  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  0   3 :  2   4 :  0   5 :  2   6 :  0   7 :  0   8 :  3   9 :  0   10 :  2   11 :  57   12 :  0   13 :  7   14 :  13   15 :  0   16 :  9   17 :  0   

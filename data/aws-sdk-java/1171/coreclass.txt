@@ -1,0 +1,14 @@
+LaunchConfiguration:0.6
+AmazonCognitoIdentityAsyncClient:0.49333333333333335
+JobFlowInstancesConfig:0.3
+AmazonCognitoIdentity:0.2833333333333333
+Ec2InstanceAttributes:0.2833333333333333
+AmazonCognitoIdentityAsync:0.2833333333333333
+CreateLaunchConfigurationRequest:0.26666666666666666
+AmazonCognitoIdentityClient:0.2633333333333333
+IdentityDescription:0.25333333333333335
+Ec2InstanceAttributesJsonUnmarshaller:0.17666666666666667
+IdentityDescriptionJsonUnmarshaller:0.17
+LaunchConfigurationStaxUnmarshaller:0.17
+RunJobFlowRequestMarshaller:0.08666666666666667
+CreateLaunchConfigurationRequestMarshaller:0.006666666666666667

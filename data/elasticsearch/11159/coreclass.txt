@@ -1,0 +1,17 @@
+Node:0.53
+ESIntegTestCase:0.45666666666666667
+NetworkModule:0.33
+NettyHttpServerTransport:0.30666666666666664
+NettyHttpChannel:0.195
+TribeIT:0.18
+ContextAndHeaderTransportTests:0.17666666666666667
+NettyHttpChannelTests:0.14666666666666667
+CorsRegexIT:0.12333333333333334
+CorsRegexDefaultIT:0.11
+NettyPipeliningDisabledIT:0.11
+NettyPipeliningEnabledIT:0.11
+NetworkModuleTests:0.10666666666666667
+DetailedErrorsDisabledIT:0.09333333333333334
+HttpPublishPortIT:0.07666666666666666
+RecoveryWithUnsupportedIndicesIT:0.07666666666666666
+DetailedErrorsEnabledIT:0.07666666666666666

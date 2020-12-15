@@ -1,0 +1,10 @@
+MongoConnectionManager:0.7333333333333333
+MonotonicallyConsistentMongoServerBinding:0.31
+AbstractConnectionManager:0.2570714285714286
+MongoConnectionManagerImpl:0.22111111111111115
+DelayedCloseMongoSyncConnection:0.17
+CommandOperation:0.12666666666666668
+GetMoreOperation:0.12666666666666668
+QueryOperation:0.12666666666666668
+KillCursorOperation:0.12333333333333334
+WriteOperation:0.10666666666666667

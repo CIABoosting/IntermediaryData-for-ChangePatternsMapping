@@ -1,0 +1,15 @@
+ParseRule:0.5366666666666666
+RubyParser:0.4266666666666667
+RubyElement:0.38666666666666666
+ParseError:0.32
+RubyTokenizer:0.30666666666666664
+RubyOutlineContentProvider:0.22
+NoEmptyNameRule:0.16666666666666666
+UpperCaseNameRule:0.16666666666666666
+NullRule:0.16642857142857143
+TC_RubyParser:0.15
+RubyToken:0.15
+RubyAbstractEditor:0.14
+NoDuplicateRule:0.11333333333333333
+TC_RubyTokenizer:0.1
+ParseRuleFactory:0.07

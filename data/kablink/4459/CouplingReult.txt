@@ -1,0 +1,41 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.sitescape.team.module.binder.impl.AbstractBinderProcessor: 
+new Added class 1 : com.sitescape.team.module.binder.impl.AbstractEntryProcessor: 
+new Added class 2 : com.sitescape.team.module.folder.impl.AbstractFolderCoreProcessor: 
+new Added class 3 : com.sitescape.team.module.folder.impl.AbstractFolderModule: 
+new Added class 4 : com.sitescape.team.portlet.forum.AddEntryController: 
+new Added class 5 : com.sitescape.team.module.binder.impl.BinderModuleImpl: 
+new Added class 6 : com.sitescape.team.domain.DefinableEntity: 
+new Added class 7 : com.sitescape.team.module.definition.impl.DefinitionModuleImpl: 
+new Added class 8 : com.sitescape.team.module.binder.EntryProcessor: 
+new Added class 9 : com.sitescape.team.module.file.impl.FileModuleImpl: 
+new Added class 10 : com.sitescape.team.module.file.FilesErrors: 
+new Added class 11 : com.sitescape.team.util.FileUploadItem: 
+new Added class 12 : com.sitescape.team.module.folder.FolderModule: 
+new Added class 13 : com.sitescape.team.module.shared.FolderUtils: 
+new Added class 14 : com.sitescape.team.ObjectKeys: 
+new Added class 15 : com.sitescape.team.module.profile.impl.ProfileModuleImpl: 
+new Added class 16 : com.sitescape.team.fi.connection.ResourceDriver: 
+new Added class 17 : com.sitescape.team.ssfs.server.impl.SiteScapeFileSystemLibrary: 
+testing relationship 
+class 0  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:20  r15:0  r16:2  r17:0  
+class 0  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:2  r14:2  r15:0  r16:0  r17:0  
+class 0  vs  class 11£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:3  r14:1  r15:0  r16:0  r17:0  
+class 1  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 1  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:9  r14:2  r15:0  r16:0  r17:0  
+class 1  vs  class 11£º  r0:0  r1:0  r2:0  r3:6  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:21  r12:0  r13:11  r14:1  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:8  r15:0  r16:0  r17:0  
+class 2  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:1  r15:0  r16:0  r17:0  
+class 3  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 3  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:75  r15:0  r16:21  r17:0  
+class 9  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:5  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:1  r14:16  r15:0  r16:2  r17:0  
+class 9  vs  class 11£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:11  r14:10  r15:0  r16:25  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  2   3 :  12   4 :  0   5 :  17   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  58   12 :  0   13 :  38   14 :  139   15 :  0   16 :  53   17 :  0   

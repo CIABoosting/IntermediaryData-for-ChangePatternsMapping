@@ -1,0 +1,16 @@
+RowBlock:0.55
+ArrayBlock:0.5166666666666667
+MapBlock:0.23833333333333334
+AbstractArrayBlock:0.23
+AbstractRowBlock:0.23
+RowBlockBuilder:0.22333333333333333
+ArrayBlockBuilder:0.22333333333333333
+ParquetReader:0.21333333333333335
+PrestoThriftBigintArray:0.21333333333333335
+RowBlockEncoding:0.15666666666666668
+ArrayBlockEncoding:0.15666666666666668
+StructStreamReader:0.14
+BenchmarkData:0.14
+ListStreamReader:0.14
+ListCoercer:0.09333333333333334
+StructCoercer:0.09333333333333334

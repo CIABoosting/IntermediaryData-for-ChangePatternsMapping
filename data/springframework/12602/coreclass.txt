@@ -1,0 +1,15 @@
+ServiceDependency:0.5566666666666666
+DependencyServiceListener:0.4266666666666667
+OsgiLifecycleNotificationTest:0.29333333333333333
+DependencyWaiterApplicationContextExecutor:0.2633333333333333
+DependencyServiceManager:0.16333333333333333
+DefaultServiceDependency:0.14333333333333334
+OsgiServiceDependencySatisfiedEvent:0.05333333333333334
+OsgiServiceDependencyWaitingEvent:0.05333333333333334
+EventSenderRetryTemplate:0.05
+OsgiServiceDependencyEvent:0.03666666666666667
+OsgiServiceDependencyTimedOutEvent:0.03
+BootstrappingDependencyEvent:0.02666666666666667
+DepedencyEventTest:0.016666666666666666
+AbstractEventTest:0.0
+ContextExecutorStateAccessor:0.0

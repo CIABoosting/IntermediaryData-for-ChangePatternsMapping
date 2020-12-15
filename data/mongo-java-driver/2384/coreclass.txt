@@ -1,0 +1,9 @@
+Connection:0.8988888888888887
+ConnectionProvider:0.43444444444444447
+DelayedCloseConnection:0.36666666666666664
+PooledConnectionProvider:0.21333333333333335
+ClusterDescription:0.14666666666666667
+DefaultServer:0.08666666666666667
+PooledConnectionProviderTest:0.03
+TestConnectionProvider:0.01
+MongoQueryCursorExhaustTest:0.007777777777777778

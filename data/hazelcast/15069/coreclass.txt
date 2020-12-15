@@ -1,0 +1,13 @@
+CacheRecordStore:0.4
+CacheProxy:0.36666666666666664
+ICacheRecordStore:0.3525
+CacheClearOperation:0.26666666666666666
+CacheClearOperationFactory:0.26
+CacheRemoveOperation:0.24083333333333334
+CacheContainsKeyOperation:0.1988888888888889
+AbstractCacheOperation:0.19333333333333333
+CacheDataSerializerHook:0.17388888888888887
+ClusterWideIterator:0.155
+CachePutBackupOperation:0.14976190476190476
+EvictionTask:0.14833333333333334
+CacheClearRequest:0.08166666666666667

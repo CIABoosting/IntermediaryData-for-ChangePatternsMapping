@@ -1,0 +1,11 @@
+Target:0.5266666666666666
+MadvocConfig:0.36333333333333334
+MadvocParamsInjector:0.25333333333333335
+InjectorsManager:0.25
+RequestScopeInjector:0.23
+BaseScopeInjector:0.17666666666666667
+ApplicationScopeInjector:0.043333333333333335
+ServletContextScopeInjector:0.043333333333333335
+ActionPathMacroInjector:0.03
+SessionScopeInjector:0.023333333333333334
+MadvocContextScopeInjector:0.016666666666666666

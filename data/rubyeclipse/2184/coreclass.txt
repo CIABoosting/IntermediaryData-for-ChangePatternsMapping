@@ -1,0 +1,13 @@
+ConvertLocalToFieldPage:0.36
+LocalVariableInliner:0.28
+InlineLocalPage:0.24666666666666667
+RefactoringActionGroup:0.18
+InlineLocalRefactoring:0.15666666666666668
+LocalValueReplaceProvider:0.15333333333333332
+SplitTempRefactoring:0.13333333333333333
+TempInlinerTester:0.11666666666666667
+InlineTempConditionTester:0.10666666666666667
+InlineTempAction:0.08
+ConvertTempToFieldAction:0.08
+ConvertLocalToFieldRefactoring:0.07333333333333333
+SplitLocalPage:0.03

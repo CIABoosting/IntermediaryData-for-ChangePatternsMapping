@@ -1,0 +1,7 @@
+JPF:0.69
+JPF_java_util_concurrent_atomic_AtomicIntegerFieldUpdater:0.34
+JPF_java_util_concurrent_atomic_AtomicLongFieldUpdater:0.34
+IfInstruction:0.22333333333333333
+JPF_java_util_concurrent_atomic_AtomicReferenceFieldUpdater:0.21333333333333335
+Hang:0.19666666666666666
+StackTracker:0.13

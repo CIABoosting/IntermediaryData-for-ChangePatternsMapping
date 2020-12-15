@@ -1,0 +1,13 @@
+BasicProcessingFilterTests:0.33
+BasicLookupStrategyTests:0.31333333333333335
+RememberMeProcessingFilterTests:0.30666666666666664
+HttpSecurityBeanDefinitionParserTests:0.30333333333333334
+AclImplTests:0.30333333333333334
+AclImplementationSecurityCheckTests:0.30333333333333334
+JdbcMutableAclServiceTests:0.3
+AnonymousProcessingFilterTests:0.2733333333333333
+FilterChainProxyConfigTests:0.24666666666666667
+EhCacheBasedAclCacheTests:0.23333333333333334
+ExceptionTranslationFilterTests:0.23
+DigestProcessingFilterTests:0.21333333333333335
+MockEntryPoint:0.18259259259259258

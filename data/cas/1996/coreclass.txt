@@ -1,0 +1,10 @@
+OidcClientRegistrationRequest:0.47333333333333333
+LdapPasswordManagementService:0.21333333333333335
+CouchbaseClientFactory:0.2
+JpaServiceRegistryConfiguration:0.2
+JpaTicketRegistryConfiguration:0.2
+OidcIdTokenGeneratorService:0.18
+OidcServerDiscoverySettingsFactory:0.16
+GoogleAuthenticatorJpaConfiguration:0.12
+OpenIdConfiguration:0.12
+OidcDynamicClientRegistrationEndpointController:0.10666666666666667

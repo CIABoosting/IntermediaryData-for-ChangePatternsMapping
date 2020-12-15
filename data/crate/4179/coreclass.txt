@@ -1,0 +1,15 @@
+JobCollectContext:0.5333333333333333
+JobExecutionContext:0.33
+LuceneDocCollector:0.29333333333333333
+JobContextService:0.24666666666666667
+NonSortingBucketMerger:0.215
+JobCollectContextTest:0.21
+CrateSearchContext:0.20333333333333334
+LuceneDocCollectorTest:0.2
+MapSideDataCollectOperation:0.19333333333333333
+SQLTransportIntegrationTest:0.15333333333333332
+ShardCollectService:0.13333333333333333
+TransportCloseContextNodeAction:0.12333333333333334
+NodeFetchOperationTest:0.11
+LuceneDocFetcher:0.07
+NodeFetchOperation:0.043333333333333335

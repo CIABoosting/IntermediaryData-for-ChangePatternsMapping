@@ -1,0 +1,13 @@
+ElasticsearchResponse:0.47333333333333333
+ElasticsearchResponseException:0.37
+Connection:0.3333333333333333
+AbstractStaticConnectionPool:0.19666666666666666
+Transport:0.18333333333333332
+Sniffer:0.18
+SnifferTests:0.16
+SnifferTask:0.12666666666666668
+RequestLogger:0.09666666666666666
+SniffingConnectionPool:0.08
+SniffResponse:0.07333333333333333
+StatefulConnection:0.06666666666666667
+StaticConnectionPool:0.05

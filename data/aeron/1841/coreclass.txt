@@ -1,0 +1,14 @@
+Catalog:0.4975
+ControlResponsePoller:0.31666666666666665
+AbstractListRecordingsSession:0.26
+ListRecordingsSession:0.25
+ListRecordingsForUriSession:0.25
+ArchiveConductor:0.22333333333333333
+ArchiveSystemTest:0.19333333333333333
+TestUtil:0.175
+ListRecordingsForUriSessionTest:0.16
+FailControlResponseListener:0.15
+ControlResponseAdapter:0.14333333333333334
+ControlResponseListener:0.13
+ControlSessionProxy:0.10333333333333333
+ListRecordingsSessionTest:0.05

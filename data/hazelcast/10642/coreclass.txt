@@ -1,0 +1,9 @@
+MapPartitionLostListenerConfig:0.45
+MapPartitionLostListenerTest:0.25
+ListenerTest:0.21333333333333335
+MapConfigTest:0.15666666666666668
+MapPartitionLostListenerConfigReadOnly:0.13666666666666666
+PartitionLostListenerTest:0.03
+ClientPartitionLostListenerTest:0.02666666666666667
+ClientMapPartitionLostListenerTest:0.02
+MigrationListenerAdapterTest:0.016666666666666666

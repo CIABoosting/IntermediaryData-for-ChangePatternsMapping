@@ -1,0 +1,16 @@
+Builder:0.5566666666666666
+ManagedChannelBuilder:0.38666666666666666
+NettyChannelBuilder:0.38333333333333336
+OkHttpChannelBuilder:0.22666666666666666
+InProcessChannelBuilder:0.22333333333333333
+ManagedChannelImplTest:0.19
+ManagedChannelImplIdlenessTest:0.18666666666666668
+OkHttpChannelBuilderTest:0.17666666666666667
+ForwardingChannelBuilder:0.15
+HandshakerServiceChannel:0.14333333333333334
+ShadingTest:0.12666666666666668
+LoadWorkerTest:0.11666666666666667
+CompressionTest:0.11666666666666667
+StressTestClientTest:0.10666666666666667
+TransportCompressionTest:0.10666666666666667
+Tester:0.09

@@ -1,0 +1,8 @@
+ConnectionPool:0.42
+MasterSlaveConnectionManager:0.3433333333333333
+ConnectionManager:0.2991666666666667
+MasterSlaveEntry:0.27666666666666667
+CommandExecutorService:0.26666666666666666
+CommandBatchExecutorService:0.23666666666666666
+SubscribesConnectionEntry:0.19
+SentinelConnectionManager:0.18666666666666668

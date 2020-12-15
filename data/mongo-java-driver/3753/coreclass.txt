@@ -1,0 +1,16 @@
+MongoConnectionManager:0.64
+MongoAsyncConnection:0.52
+DefaultMongoAsyncConnection:0.42333333333333334
+MongoConnectionManagerImpl:0.21166666666666667
+MongoResponseCallback:0.20333333333333334
+MongoServerBindings:0.15666666666666668
+AsyncWriteOperation:0.14666666666666667
+AsyncGetMoreOperation:0.14
+QueryResultSingleResultCallback:0.13333333333333333
+AsyncQueryOperation:0.12
+AsyncCommandOperation:0.12
+CachingAuthenticatorAsyncTest:0.1
+MongoConnectionManagerForWrites:0.09
+MongoConnectionManagerForReads:0.08666666666666667
+MongoAsyncBatchInsertTest:0.07333333333333333
+MongoSyncConnection:0.02

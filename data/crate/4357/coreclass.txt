@@ -1,0 +1,8 @@
+BulkCreateIndicesRequest:0.47333333333333333
+BulkCreateIndicesResponse:0.41333333333333333
+TransportBulkCreateIndicesAction:0.35333333333333333
+SymbolBasedBulkShardProcessor:0.235
+BulkShardProcessor:0.20666666666666667
+TransportBulkCreateIndicesActionTest:0.15333333333333332
+BulkCreateIndicesRequestTest:0.13
+BulkCreateIndicesResponseTest:0.12333333333333334

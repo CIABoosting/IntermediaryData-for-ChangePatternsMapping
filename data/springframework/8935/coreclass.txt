@@ -1,0 +1,16 @@
+BundleFactoryBean:0.54
+VirtualBundleFactoryBean:0.51
+BundleTemplate:0.32666666666666666
+BundleAction:0.19666666666666666
+BundleFactoryBeanParserTest:0.15666666666666668
+BundleBeanDefinitionParser:0.13666666666666666
+VirtualBundleBeanDefinitionParser:0.1
+ServiceUnavailableException:0.07333333333333333
+ChainedBundleAction:0.03777777777777778
+OsgiException:0.023333333333333334
+ServiceException:0.023333333333333334
+InstallBundleAction:0.023333333333333334
+StopBundleAction:0.0
+StartBundleAction:0.0
+UpdateBundleAction:0.0
+UninstallBundleAction:0.0

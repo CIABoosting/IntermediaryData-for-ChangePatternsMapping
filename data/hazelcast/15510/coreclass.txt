@@ -1,0 +1,14 @@
+ExecutionServiceImpl:0.32
+BuildInfo:0.31
+HealthMetrics:0.24
+HazelcastCacheManager:0.21
+BasicOperationService:0.21
+HealthMonitor:0.20333333333333334
+ClientInvocationServiceImpl:0.19333333333333333
+AbstractExecutorThreadFactory:0.16666666666666666
+ResponsePacketHandler:0.15333333333333332
+ClientLockWithTerminationTest:0.14333333333333334
+GcMetrics:0.1196164021164021
+BuildInfoProviderTest:0.11
+ManagedThread:0.02
+TestCacheManager:0.016666666666666666

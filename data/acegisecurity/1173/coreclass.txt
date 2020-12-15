@@ -1,0 +1,9 @@
+DefaultInitialDirContextFactory:0.55
+LdapTestServer:0.3933333333333333
+PasswordComparisonAuthenticatorTests:0.37666666666666665
+InitialDirContextFactoryTests:0.2833333333333333
+FilterBasedLdapUserSearchTests:0.25
+DefaultLdapAuthoritiesPopulatorTests:0.11666666666666667
+BindAuthenticatorTests:0.09333333333333334
+LdapAuthenticationProviderTests:0.06
+AbstractLdapServerTestCase:0.013333333333333334

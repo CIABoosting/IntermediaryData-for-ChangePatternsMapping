@@ -1,0 +1,17 @@
+Interpreter:0.36
+InputPort:0.3233333333333333
+OOITBuilder:0.31
+SemanticVerifier:0.2833333333333333
+OLParser:0.28
+Type:0.26666666666666666
+CorrelationEngine:0.22666666666666666
+TypeImpl:0.22333333333333333
+AggregatedOperation:0.21666666666666667
+CommCore:0.21333333333333335
+LocalListener:0.17
+CommChannelHandlerRunnable:0.16
+AggregationConfiguration:0.08
+TypeLink:0.07444444444444444
+InterfaceExtender:0.04666666666666667
+ForwardSolicitResponseProcess:0.02
+ForwardNotificationProcess:0.016666666666666666

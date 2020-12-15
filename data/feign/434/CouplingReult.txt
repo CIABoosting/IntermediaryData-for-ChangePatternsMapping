@@ -1,0 +1,29 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : feign.codec.Decoder: 
+new Added class 1 : feign.codec.Encoder: 
+new Added class 2 : feign.Feign: 
+new Added class 3 : feign.FeignException: 
+new Added class 4 : feign.FeignTest: 
+new Added class 5 : feign.examples.GitHubExample: 
+new Added class 6 : feign.gson.GsonModule: 
+new Added class 7 : feign.gson.GsonModuleTest: 
+new Added class 8 : feign.Logger: 
+new Added class 9 : feign.LoggerTest: 
+new Added class 10 : feign.MethodHandler: 
+new Added class 11 : feign.ReflectiveFeign: 
+new Added class 12 : feign.codec.SAXDecoder: 
+new Added class 13 : feign.codec.SAXDecoderTest: 
+new Added class 14 : feign.codec.StringDecoder: 
+new Added class 15 : feign.Util: 
+new Added class 16 : feign.UtilTest: 
+testing relationship 
+class 3  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:6  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  0   4 :  0   5 :  2   6 :  6   7 :  0   8 :  1   9 :  0   10 :  1   11 :  2   12 :  0   13 :  3   14 :  0   15 :  0   16 :  0   17 :  0   

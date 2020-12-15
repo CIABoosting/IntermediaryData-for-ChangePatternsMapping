@@ -1,0 +1,16 @@
+DefaultOAuth2User:0.43333333333333335
+ClientRegistrationProperties:0.3433333333333333
+Builder:0.2733333333333333
+JwtClaimAccessor:0.26666666666666666
+GitHubOAuth2User:0.24666666666666667
+NimbusOAuth2UserService:0.24333333333333335
+ProviderDetails:0.20333333333333334
+AuthorizationCodeAuthenticationFilterConfigurer:0.18333333333333332
+ClaimAccessor:0.18
+OAuth2AuthenticationToken:0.15666666666666668
+AuthorizationCodeAuthenticationProvider:0.12
+SecurityTestConfig:0.11333333333333333
+OAuth2LoginSecurityConfiguration:0.09
+AbstractToken:0.09
+UserInfoEndpointConfig:0.056666666666666664
+OAuth2LoginAutoConfiguration:0.0

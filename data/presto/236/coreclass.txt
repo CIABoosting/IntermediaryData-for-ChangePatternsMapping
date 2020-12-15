@@ -1,0 +1,15 @@
+Visitor:0.4266666666666667
+PagesSpatialIndexSupplier:0.38
+JoinNode:0.2966666666666667
+TestSpatialJoins:0.2733333333333333
+PagesIndex:0.26666666666666666
+ExpressionVerifier:0.25666666666666665
+TransformSpatialPredicateToJoin:0.22
+TestSpatialJoinOperator:0.205
+SpatialIndexBuilderOperator:0.17
+SpatialIndexBuilderOperatorFactory:0.13
+SpatialJoinUtils:0.13
+TestSpatialJoinPlanning:0.08666666666666667
+TestTransformSpatialPredicateToJoin:0.06333333333333334
+PagesRTreeIndex:0.061111111111111116
+SpatialPredicate:0.045

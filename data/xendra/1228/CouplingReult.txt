@@ -1,0 +1,23 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.compiere.model.MAcctProcessor: 
+new Added class 1 : org.compiere.model.MAlertProcessor: 
+new Added class 2 : org.compiere.model.MAllocationLine: 
+new Added class 3 : org.compiere.model.MBOE: 
+new Added class 4 : org.compiere.model.MCashFlowProcessor: 
+new Added class 5 : org.compiere.model.MLdapProcessor: 
+new Added class 6 : org.compiere.model.MQEquipmentProcessor: 
+new Added class 7 : org.compiere.model.MRequestProcessor: 
+new Added class 8 : org.compiere.model.MScheduler: 
+new Added class 9 : org.compiere.wf.MWorkflowProcessor: 
+new Added class 10 : org.xendra.apps.form.VBoeGen: 
+new Added class 11 : org.compiere.model.X_C_AllocationLine: 
+new Added class 12 : org.compiere.model.X_C_BOELine: 
+testing relationship 
+class 2  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:11  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:18  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  0   4 :  0   5 :  1   6 :  0   7 :  0   8 :  2   9 :  0   10 :  0   11 :  35   12 :  0   13 :  2   14 :  0   15 :  0   16 :  0   17 :  0   

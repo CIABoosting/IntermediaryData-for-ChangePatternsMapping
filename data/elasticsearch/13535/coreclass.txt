@@ -1,0 +1,15 @@
+SearchContext:0.5372777777777777
+FunctionScoreQuery:0.32666666666666666
+FiltersFunctionScoreQuery:0.29333333333333333
+CustomBoostFactorScorer:0.24666666666666667
+PercolateContext:0.23333333333333334
+FilteredSearchContext:0.23333333333333334
+DefaultSearchContext:0.22333333333333333
+FunctionScoreQueryBuilder:0.2
+FunctionScoreQueryBuilderTests:0.18666666666666668
+CustomBoostFactorWeight:0.16944444444444443
+FunctionScoreTests:0.15333333333333332
+TestSearchContext:0.1511111111111111
+FiltersFunctionFactorScorer:0.07
+FunctionFactorScorer:0.05
+QueryPhaseTests:0.03666666666666667

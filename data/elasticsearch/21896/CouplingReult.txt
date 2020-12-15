@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.index.mapper.core.BooleanFieldMapper: 
+new Added class 1 : org.elasticsearch.index.mapper.core.CompletionFieldMapper: 
+new Added class 2 : org.elasticsearch.index.mapper.geo.GeoPointFieldMapper: 
+new Added class 3 : org.elasticsearch.index.mapper.internal.IdFieldMapper: 
+new Added class 4 : org.elasticsearch.index.mapper.internal.IndexFieldMapper: 
+new Added class 5 : org.elasticsearch.index.mapper.object.ObjectMapper: 
+new Added class 6 : org.elasticsearch.index.mapper.internal.ParentFieldMapper: 
+new Added class 7 : org.elasticsearch.index.mapper.internal.RoutingFieldMapper: 
+new Added class 8 : org.elasticsearch.search.highlight.vectorhighlight.SourceScoreOrderFragmentsBuilder: 
+new Added class 9 : org.elasticsearch.search.highlight.vectorhighlight.SourceSimpleFragmentsBuilder: 
+new Added class 10 : org.elasticsearch.index.mapper.core.StringFieldMapper: 
+new Added class 11 : org.elasticsearch.index.mapper.internal.TypeFieldMapper: 
+new Added class 12 : org.elasticsearch.index.mapper.internal.UidFieldMapper: 
+testing relationship 
+class 2  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:6  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  1   6 :  0   7 :  0   8 :  6   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  1   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,15 @@
+Unnest:0.41
+UnnestNode:0.24666666666666667
+UnnestOperator:0.24
+AbstractTestQueries:0.23
+TestSqlParser:0.22
+RelationPlanner:0.20666666666666667
+NodePrinter:0.2
+TupleAnalyzer:0.19666666666666666
+Visitor:0.19333333333333333
+AstBuilder:0.19
+ChildReplacer:0.18
+Rewriter:0.16
+UnnestOperatorFactory:0.08
+TestStatementBuilder:0.05333333333333334
+TestUnnestOperator:0.05

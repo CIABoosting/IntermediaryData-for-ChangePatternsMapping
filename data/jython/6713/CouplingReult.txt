@@ -1,0 +1,52 @@
+Compared Result of  two versions
+Number of New Class: 25
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.python.util.CompileProxiesTask: 
+new Added class 1 : org.python.expose.generate.ExposeTask: 
+new Added class 2 : org.python.util.FileNameMatchingTask: 
+new Added class 3 : org.python.util.GlobMatchingTask: 
+new Added class 4 : org.python.util.JycompileAntTask: 
+new Added class 5 : org.python.core.MakeProxies: 
+new Added class 6 : org.python.compiler.PyIntegerConstant: 
+new Added class 7 : org.python.compiler.PyFloatConstant: 
+new Added class 8 : org.python.compiler.PyComplexConstant: 
+new Added class 9 : org.python.compiler.PyStringConstant: 
+new Added class 10 : org.python.compiler.PyUnicodeConstant: 
+new Added class 11 : org.python.compiler.PyLongConstant: 
+new Added class 12 : org.python.compiler.PyCodeConstant: 
+new Added class 13 : org.python.compiler.Module: 
+new Added class 14 : org.python.core.Py: 
+new Added class 15 : org.python.core.FixedFileWrapper: 
+new Added class 16 : org.python.core.JavaCode: 
+new Added class 17 : org.python.core.JavaFunc: 
+new Added class 18 : org.python.core.PyJavaType: 
+new Added class 19 : org.python.core.PySystemState: 
+new Added class 20 : org.python.core.PySystemStateFunctions: 
+new Added class 21 : org.python.core.PyAttributeDeleted: 
+new Added class 22 : org.python.core.Shadow: 
+new Added class 23 : org.python.core.PyType: 
+new Added class 24 : org.python.core.util.StringUtil: 
+testing relationship 
+class 0  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:23  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 14  vs  class 23£º  r0:0  r1:0  r2:0  r3:4  r4:3  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 23£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:14  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:15  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  5   2 :  0   3 :  4   4 :  29   5 :  4   6 :  2   7 :  2   8 :  14   9 :  0   10 :  0   11 :  36   12 :  0   13 :  2   14 :  4   15 :  0   16 :  0   17 :  0   

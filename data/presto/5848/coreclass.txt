@@ -1,0 +1,13 @@
+PartitionedOutputOperatorFactory:0.41
+LocalQueryRunner:0.36
+TestDriver:0.2833333333333333
+TaskOutputOperatorFactory:0.27666666666666667
+TaskOutputOperator:0.25666666666666665
+PartitionedOutputOperator:0.19777777777777777
+LocalExecutionPlanner:0.19
+LocalExchangeSinkOperatorFactory:0.16666666666666666
+LocalExchangeSinkOperator:0.15
+NullOutputFactory:0.0
+PartitionedOutputFactory:0.0
+OutputFactory:0.0
+TaskOutputFactory:0.0

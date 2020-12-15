@@ -1,0 +1,59 @@
+Compared Result of  two versions
+Number of New Class: 33
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.semanticdesktop.aperture.vocabulary.DATA_GEN: 
+new Added class 1 : org.semanticdesktop.aperture.extractor.excel.ExcelExtractor: 
+new Added class 2 : org.semanticdesktop.aperture.extractor.Extractor: 
+new Added class 3 : org.semanticdesktop.aperture.accessor.file.FileAccessor: 
+new Added class 4 : org.semanticdesktop.aperture.accessor.base.FileDataObjectBase: 
+new Added class 5 : org.semanticdesktop.aperture.accessor.base.FolderDataObjectBase: 
+new Added class 6 : org.semanticdesktop.aperture.extractor.html.HtmlExtractor: 
+new Added class 7 : org.semanticdesktop.aperture.accessor.http.HttpAccessor: 
+new Added class 8 : org.semanticdesktop.aperture.vocabulary.ICAL: 
+new Added class 9 : org.semanticdesktop.aperture.crawler.ical.IcalCrawler: 
+new Added class 10 : org.semanticdesktop.aperture.util.MailUtil: 
+new Added class 11 : org.semanticdesktop.aperture.extractor.mime.MimeExtractor: 
+new Added class 12 : org.semanticdesktop.aperture.extractor.office.OfficeExtractor: 
+new Added class 13 : org.semanticdesktop.aperture.extractor.opendocument.OpenDocumentExtractor: 
+new Added class 14 : org.semanticdesktop.aperture.extractor.openxml.OpenXmlExtractor: 
+new Added class 15 : org.semanticdesktop.aperture.extractor.pdf.PdfExtractor: 
+new Added class 16 : org.semanticdesktop.aperture.extractor.plaintext.PlainTextExtractor: 
+new Added class 17 : org.semanticdesktop.aperture.extractor.util.PoiUtil: 
+new Added class 18 : org.semanticdesktop.aperture.extractor.powerpoint.PowerPointExtractor: 
+new Added class 19 : org.semanticdesktop.aperture.extractor.presentations.PresentationsExtractor: 
+new Added class 20 : org.semanticdesktop.aperture.extractor.publisher.PublisherExtractor: 
+new Added class 21 : org.semanticdesktop.aperture.extractor.quattro.QuattroExtractor: 
+new Added class 22 : org.semanticdesktop.aperture.rdf.rdf2go.RDF2GoValueFactory: 
+new Added class 23 : org.semanticdesktop.aperture.extractor.rtf.RtfExtractor: 
+new Added class 24 : org.semanticdesktop.aperture.extractor.util.ThreadedExtractorWrapper: 
+new Added class 25 : org.semanticdesktop.aperture.rdf.ValueFactory: 
+new Added class 26 : org.semanticdesktop.aperture.vocabulary.VCARD: 
+new Added class 27 : org.semanticdesktop.aperture.extractor.visio.VisioExtractor: 
+new Added class 28 : org.semanticdesktop.aperture.util.VocabularyWriter: 
+new Added class 29 : org.semanticdesktop.aperture.extractor.word.WordExtractor: 
+new Added class 30 : org.semanticdesktop.aperture.extractor.wordperfect.WordPerfectExtractor: 
+new Added class 31 : org.semanticdesktop.aperture.extractor.works.WorksExtractor: 
+new Added class 32 : org.semanticdesktop.aperture.extractor.xml.XmlExtractor: 
+testing relationship 
+class 1  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:5  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 27  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  20   3 :  0   4 :  0   5 :  0   6 :  0   7 :  26   8 :  1   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  1   15 :  0   16 :  0   17 :  0   

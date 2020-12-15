@@ -1,0 +1,17 @@
+StandAloneSession:0.5333333333333333
+PrivateKeyContainer:0.4326746031746032
+ProviderHandler:0.395
+CardKeys:0.395
+OCSPServletStandAlone:0.27
+PrivateKeyContainerKeyStore:0.18
+SigningEntityContainer:0.17666666666666667
+IStandAloneSession:0.16333333333333333
+KeyRenewer:0.09333333333333334
+SigningEntity:0.08333333333333333
+OCSPServletBase:0.08
+P11ProviderHandler:0.05333333333333334
+PrivateKeyContainerCard:0.051666666666666666
+CardProviderHandler:0.03916666666666667
+SWProviderHandler:0.03916666666666667
+SignerThread:0.013333333333333334
+StandAloneSessionFactory:0.0033333333333333335

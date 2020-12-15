@@ -1,0 +1,11 @@
+ParameterAveragingTrainingMaster:0.625
+Builder:0.19
+LoggingEarlyStoppingListener:0.16
+VaeReconstructionErrorWithKeyFunctionAdapter:0.16
+GraphFeedForwardWithKeyFunctionAdapter:0.16
+ScoreExamplesWithKeyFunctionAdapter:0.14666666666666667
+ScoreFlatMapFunctionAdapter:0.14666666666666667
+IterativeReduceFlatMapAdapter:0.14666666666666667
+VaeReconstructionProbWithKeyFunctionAdapter:0.14666666666666667
+ScoreExamplesFunctionAdapter:0.14666666666666667
+IEvaluateFlatMapFunctionAdapter:0.14666666666666667

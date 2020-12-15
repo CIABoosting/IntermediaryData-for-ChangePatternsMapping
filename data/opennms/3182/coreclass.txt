@@ -1,0 +1,17 @@
+OnmsAlarm:0.5866666666666667
+AlarmDao:0.5533333333333333
+PostgresqlDB:0.4
+Cache:0.19666666666666666
+LazyAlarm:0.19
+AlarmDaoJdbc:0.18
+EventMappingQuery:0.13
+EventSaveOrUpdate:0.11333333333333333
+FindByEventId:0.09333333333333334
+AlarmFactory:0.08333333333333333
+AlarmMappingQuery:0.08
+FindByAlarmId:0.06722222222222221
+FindAll:0.03222222222222222
+AlarmSaveOrUpdate:0.016666666666666666
+AlarmDelete:0.01
+AlarmSave:0.0
+AlarmUpdate:0.0

@@ -1,0 +1,19 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.google.zxing.common.AbstractBlackBoxTestCase: 
+new Added class 1 : com.google.zxing.common.BitMatrixTestCase: 
+new Added class 2 : com.google.zxing.oned.CodaBarWriterTestCase: 
+new Added class 3 : com.google.zxing.oned.Code128WriterTestCase: 
+new Added class 4 : com.google.zxing.oned.EAN13WriterTestCase: 
+new Added class 5 : com.google.zxing.oned.EAN8WriterTestCase: 
+new Added class 6 : com.google.zxing.multi.qrcode.MultiQRCodeTestCase: 
+new Added class 7 : com.google.zxing.oned.rss.expanded.RSSExpandedImage2binaryTestCase: 
+new Added class 8 : com.google.zxing.oned.rss.expanded.RSSExpandedImage2resultTestCase: 
+new Added class 9 : com.google.zxing.oned.rss.expanded.RSSExpandedImage2stringTestCase: 
+new Added class 10 : com.google.zxing.oned.rss.expanded.RSSExpandedInternalTestCase: 
+new Added class 11 : com.google.zxing.oned.rss.expanded.TestCaseUtil: 
+new Added class 12 : com.google.zxing.oned.UPCAWriterTestCase: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

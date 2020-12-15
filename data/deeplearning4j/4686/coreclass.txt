@@ -1,0 +1,15 @@
+AsyncDataSetIterator:0.49166666666666664
+AsyncMultiDataSetIterator:0.35
+AggregatingSentenceIterator:0.23
+BaseEarlyStoppingTrainer:0.22
+ShadowCopyThread:0.21333333333333335
+BaseGraphVertex:0.21
+BackPropMLPTest:0.20333333333333334
+AbstractCache:0.17666666666666667
+CoOccurrencesCalculatorThread:0.1718232323232323
+Builder:0.14111111111111113
+AdaGradUpdater:0.13666666666666666
+AdamUpdater:0.13666666666666666
+AdaDeltaUpdater:0.13666666666666666
+IteratorRunnable:0.11722222222222221
+ASCIICoOccurrenceReader:0.09

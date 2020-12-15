@@ -1,0 +1,17 @@
+BinaryChannel:0.63
+ITransport:0.5738888888888889
+ITransferModeListener:0.3883333333333333
+IBytestreamConnection:0.335
+DataTransferManager:0.32666666666666666
+BytestreamTransport:0.275
+Socks5Transport:0.26
+BinaryPacketProto:0.15
+SocketConnection:0.12333333333333334
+TransferModeDispatch:0.11444444444444445
+DataTransferCollector:0.09666666666666666
+BinaryChannelTransferObject:0.06666666666666667
+BinaryChannelConnection:0.058333333333333334
+WrappedBidirectionalSocks5BytestreamSession:0.042777777777777776
+IBBTransport:0.02
+RosterViewTransferModeListener:0.016666666666666666
+IBytestreamConnectionListener:0.006666666666666667

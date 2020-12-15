@@ -1,0 +1,15 @@
+SpanNearQueryBuilder:0.41
+SpanNotQueryBuilder:0.4
+SpanFirstQueryBuilder:0.37666666666666665
+SpanContainingQueryBuilder:0.3566666666666667
+SpanWithinQueryBuilder:0.35
+SpanOrQueryBuilder:0.2966666666666667
+SpanMultiTermQueryBuilder:0.2833333333333333
+SpanFirstQueryParser:0.1
+SpanNotQueryBuilderTest:0.07333333333333333
+SpanOrQueryBuilderTest:0.02611111111111111
+SpanMultiTermQueryBuilderTest:0.0033333333333333335
+SpanNearQueryBuilderTest:0.0022222222222222222
+SpanWithinQueryBuilderTest:0.0011111111111111111
+SpanContainingQueryBuilderTest:0.0011111111111111111
+SpanFirstQueryBuilderTest:0.0011111111111111111

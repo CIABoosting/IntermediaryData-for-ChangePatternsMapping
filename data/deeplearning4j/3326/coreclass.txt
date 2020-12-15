@@ -1,0 +1,6 @@
+VariationalAutoencoder:0.7
+ReconstructionDistribution:0.415
+VariationalAutoencoderParamInitializer:0.3011111111111111
+GaussianReconstructionDistribution:0.16333333333333333
+BernoulliReconstructionDistribution:0.16333333333333333
+VaeGradientCheckTests:0.10333333333333333

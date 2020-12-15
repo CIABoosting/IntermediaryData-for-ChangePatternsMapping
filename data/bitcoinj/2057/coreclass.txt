@@ -1,0 +1,13 @@
+BlockTest:0.38333333333333336
+BlockChainTest:0.31333333333333335
+FilteredBlockAndPartialMerkleTreeTests:0.22333333333333333
+ChainSplitTest:0.19
+TestWithNetworkConnections:0.16666666666666666
+PeerGroupTest:0.16
+ECKeyTest:0.16
+LazyParseByteCacheTest:0.16
+BoundedOverheadBlockStoreTest:0.15333333333333332
+DiskBlockStoreTest:0.13
+FullPrunedBlockChainTest:0.10666666666666667
+VersionMessageTest:0.09
+SPVBlockStoreTest:0.09

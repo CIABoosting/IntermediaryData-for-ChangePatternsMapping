@@ -1,0 +1,14 @@
+BlockEncoding:0.7633333333333333
+FixedWidthBlockEncoding:0.18333333333333332
+ArrayBlockEncoding:0.16744444444444442
+SliceArrayBlockEncoding:0.15
+DictionaryBlockEncoding:0.14444444444444443
+LazyBlockEncoding:0.13944444444444445
+ByteArrayBlockEncoding:0.13333333333333333
+IntArrayBlockEncoding:0.13333333333333333
+LongArrayBlockEncoding:0.13333333333333333
+ShortArrayBlockEncoding:0.13333333333333333
+VariableWidthBlockEncoding:0.12666666666666668
+RunLengthBlockEncoding:0.11333333333333333
+InterleavedBlockEncoding:0.09666666666666666
+LazySliceArrayBlockEncoding:0.09

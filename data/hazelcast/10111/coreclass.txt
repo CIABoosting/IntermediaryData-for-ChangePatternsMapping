@@ -1,0 +1,17 @@
+Packet:0.3775
+CacheEntryListener:0.31666666666666665
+AbstractCacheRecordStore:0.28
+MessageFlyweight:0.25
+ClientEndpointImpl:0.25
+SerializationTest:0.22
+BufferPoolImpl:0.21166666666666667
+SerializationServiceImpl:0.19666666666666666
+CacheKeyIteratorOperation:0.16333333333333333
+CacheReplicationOperation:0.16333333333333333
+SlowLockOperation:0.16333333333333333
+QueryEntryTest:0.16333333333333333
+ByteArrayInputOutputFactory:0.16333333333333333
+BufferPoolTest:0.16333333333333333
+PacketTransportTest:0.16
+UnsafeInputOutputFactory:0.13
+DataAnswer:0.09

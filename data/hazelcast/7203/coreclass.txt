@@ -1,0 +1,11 @@
+SerializationService:0.6366666666666667
+AbstractSerializationService:0.2833333333333333
+Node:0.235
+AbstractSerializationServiceTest:0.22666666666666666
+HazelcastClientInstanceImpl:0.20666666666666667
+QueryEntryTest:0.20666666666666667
+MorphingPortableReaderTest:0.2
+StringSerializationTest:0.19666666666666666
+CacheSerializationTest:0.14
+SerializationWithSafeV1CompatibilityTest:0.09333333333333334
+SerializationWithUnSafeV1CompatibilityTest:0.09333333333333334

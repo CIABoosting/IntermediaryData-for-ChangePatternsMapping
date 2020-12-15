@@ -1,0 +1,10 @@
+MultiLayerNetwork:0.6733333333333333
+BatchNormalization:0.45666666666666667
+BaseLayer:0.23666666666666666
+DefaultLayerFactory:0.23083333333333333
+ConvolutionLayerSetup:0.21138888888888888
+MultiLayerTestRNN:0.18666666666666668
+GravesBidirectionalLSTMParamInitializer:0.17
+GravesLSTMParamInitializer:0.16777777777777778
+SubsamplingLayerTest:0.15666666666666668
+LocalResponseTest:0.11666666666666667

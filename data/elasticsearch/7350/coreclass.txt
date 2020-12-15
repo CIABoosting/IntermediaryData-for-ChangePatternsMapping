@@ -1,0 +1,15 @@
+Repository:0.6033333333333334
+BlobStoreRepository:0.46
+Context:0.23333333333333334
+SnapshotsService:0.22
+SharedClusterSnapshotRestoreIT:0.19333333333333333
+SnapshotShardsService:0.19
+IndexShardTests:0.18666666666666668
+StoreRecovery:0.16333333333333333
+BlobStoreRepositoryTests:0.12666666666666668
+RestoreOnlyRepository:0.12
+AzureRepository:0.09
+URLRepository:0.09
+PartSliceStream:0.03
+SnapshotContext:0.02666666666666667
+RestoreContext:0.01

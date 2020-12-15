@@ -1,0 +1,16 @@
+ServletDefinition:0.5633333333333334
+FilterDefinition:0.46
+ServletPipelineRequestDispatcherTest:0.2633333333333333
+ServletDefinitionPathsTest:0.24833333333333332
+FilterDefinitionTest:0.23166666666666666
+ServletKeyBindingBuilderImpl:0.20166666666666666
+FilterKeyBindingBuilderImpl:0.20166666666666666
+ManagedServletPipeline:0.18166666666666667
+AllTests:0.15333333333333332
+ManagedFilterPipeline:0.15333333333333332
+ServletDefinitionTest:0.1075
+FiltersModuleBuilder:0.09666666666666666
+ServletsModuleBuilder:0.09666666666666666
+RegexUriPatternMatcher:0.04
+ServletStyleUriPatternMatcher:0.04
+UriPatternMatcher:0.04

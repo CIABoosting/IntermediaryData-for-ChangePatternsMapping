@@ -1,0 +1,15 @@
+GetMore:0.2833333333333333
+MongoRequestMessage:0.27
+SingleChannelMongoClient:0.24666666666666667
+OutputBuffer:0.18666666666666668
+MongoCursor:0.16333333333333333
+MongoGetMoreTest:0.10744444444444443
+MongoGetMoreMessage:0.1
+MongoKillCursor:0.07
+MongoChannelTest:0.07
+MongoChannel:0.04666666666666667
+QueryResult:0.03
+GetMoreResult:0.017388888888888888
+MongoCursorNotFoundException:0.016666666666666666
+SingleServerMongoClientTest:0.011111111111111112
+MongoKillCursorsMessage:0.009166666666666667

@@ -1,0 +1,16 @@
+Linkd:0.47
+LinkableNode:0.42
+SnmpCollection:0.38
+Scheduler:0.36666666666666664
+LinkdEventProcessor:0.3233333333333333
+DiscoveryLink:0.2833333333333333
+LinkdConfigFactory:0.25333333333333335
+ReadyRunnable:0.24116666666666664
+DbEventWriter:0.21666666666666667
+CdpCacheTableEntry:0.17666666666666667
+Dot1dStpPortTableEntry:0.17666666666666667
+DbVlanEntry:0.17
+Dot1dTpFdbTableEntry:0.10666666666666667
+QBridgeDot1dTpFdbTableEntry:0.09111111111111111
+IpNetToMediaTableEntry:0.07
+Dot1dBasePortTableEntry:0.06444444444444446

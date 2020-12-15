@@ -1,0 +1,9 @@
+Rewriter:0.35
+QueryPlanner:0.29333333333333333
+AbstractTestQueries:0.28
+PlanVisitor:0.26
+NodePrinter:0.24666666666666667
+EffectivePredicateExtractor:0.19666666666666666
+PlanNodeRewriter:0.14666666666666667
+Visitor:0.11333333333333333
+RewritingVisitor:0.08

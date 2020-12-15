@@ -1,0 +1,11 @@
+DataSourceFactory:0.48
+Poller:0.35333333333333333
+LegacyDatabaseConnectionFactory:0.27133333333333337
+HibernateDaoTestConfig:0.23333333333333334
+DefaultPollerBackEnd:0.23333333333333334
+C3P0ConnectionFactory:0.13972222222222222
+BaseIntegrationTestCase:0.09666666666666666
+DataSourceFactoryBean:0.056666666666666664
+ClosableDataSource:0.045
+PollerFrontEndIntegrationTest:0.04
+DefaultPollerSettings:0.0

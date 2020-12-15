@@ -1,0 +1,15 @@
+HiveSplit:0.5133333333333333
+HiveClient:0.34
+BenchmarkHiveFileFormats:0.30666666666666664
+CachingHiveMetastore:0.23333333333333334
+HiveRecordSet:0.21666666666666667
+TestHiveFileFormats:0.15666666666666668
+HiveSplitSourceProvider:0.14333333333333334
+HiveRecordCursorProvider:0.12333333333333334
+TestHiveSplit:0.08333333333333333
+DwrfRecordCursorProvider:0.07666666666666666
+ParquetRecordCursorProvider:0.07333333333333333
+OrcRecordCursorProvider:0.06
+GenericHiveRecordCursorProvider:0.056666666666666664
+ColumnarBinaryHiveRecordCursorProvider:0.05333333333333334
+ColumnarTextHiveRecordCursorProvider:0.04666666666666667

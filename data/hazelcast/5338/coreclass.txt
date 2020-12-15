@@ -1,0 +1,16 @@
+NearCacheInvalidator:0.4506666666666666
+BatchInvalidator:0.35
+InvalidationQueue:0.2966666666666667
+BatchNearCacheInvalidation:0.29
+MapProxySupport:0.28
+NearCacheInvalidationListener:0.24
+SingleNearCacheInvalidation:0.20172222222222222
+NonStopInvalidator:0.18666666666666668
+NearCacheProvider:0.17666666666666667
+AbstractNearCacheInvalidator:0.17
+ClientNearCacheInvalidationListenerImpl:0.15666666666666668
+MapBatchInvalidationEventSender:0.15041847041847042
+EventSender:0.08666666666666667
+AbstractMapAllPartitionsMessageTask:0.08
+NonStopInvalidatorTest:0.07333333333333333
+InvalidationHandler:0.04

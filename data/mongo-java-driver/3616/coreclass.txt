@@ -1,0 +1,10 @@
+Connection:0.7733333333333333
+AuthenticatingConnection:0.20333333333333334
+DefaultServerConnection:0.20333333333333334
+DefaultConnection:0.19333333333333333
+GetMoreOperation:0.18666666666666668
+PooledConnection:0.16333333333333333
+DelayedCloseConnection:0.14333333333333334
+WriteOperation:0.12
+CommandOperation:0.11
+QueryOperation:0.11

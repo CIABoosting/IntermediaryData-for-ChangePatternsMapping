@@ -1,0 +1,15 @@
+OperatorAssertion:0.6666666666666666
+TestDistinctLimitOperator:0.29333333333333333
+TestWindowOperator:0.25333333333333335
+TestTopNRowNumberOperator:0.24666666666666667
+TestOrderByOperator:0.24
+TestUnnestOperator:0.23666666666666666
+TestHashJoinOperator:0.23
+TestRowNumberOperator:0.22333333333333333
+TestNestedLoopJoinOperator:0.22
+TestHashSemiJoinOperator:0.16333333333333333
+TestTopNOperator:0.16
+TestAggregationOperator:0.14666666666666667
+TestGroupIdOperator:0.14666666666666667
+TestLimitOperator:0.12333333333333334
+TestMarkDistinctOperator:0.09333333333333334

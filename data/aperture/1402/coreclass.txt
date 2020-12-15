@@ -1,0 +1,16 @@
+DataObjectFactory:0.55
+AbstractJavaMailCrawler:0.32666666666666666
+MailUtil:0.27666666666666667
+ImapStreamPool:0.2611111111111111
+SimpleCrawlerHandler:0.26
+MimeSubCrawler:0.25
+AbstractExampleCrawler:0.19666666666666666
+TestBasicSubCrawlerHandler:0.18666666666666668
+ImapCrawler:0.18666666666666668
+DataObjectFactoryTest:0.17
+CompressorSubCrawlerHandler:0.13666666666666666
+TestSubCrawlers:0.10333333333333333
+MimeSubCrawlerFactory:0.09
+TestCrawlers:0.08
+TestDefaultSubCrawlerRegistry:0.07
+MimeSubCrawlerTest:0.016666666666666666

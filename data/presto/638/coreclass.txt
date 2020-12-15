@@ -1,0 +1,10 @@
+SplitSource:0.69
+BufferingSplitSource:0.3988888888888889
+LocalQueryRunner:0.38
+MockSplitSource:0.22166666666666668
+NextBatchResult:0.21666666666666667
+TestSourcePartitionedScheduler:0.21666666666666667
+TestBufferingSplitSource:0.2
+SampledSplitSource:0.17333333333333334
+SplitManager:0.16777777777777778
+ConnectorAwareSplitSource:0.15333333333333332

@@ -1,0 +1,10 @@
+PagingIterator:0.66
+IteratorPageDownstream:0.37666666666666665
+PassThroughPagingIterator:0.34
+SortedPagingIterator:0.24333333333333335
+IteratorPageDownstreamTest:0.23333333333333334
+SortedMergeIterator:0.19344444444444447
+PageDownstreamFactory:0.19333333333333333
+PassThroughPagingIteratorTest:0.12
+PlainSortedMergeIterator:0.10888888888888891
+SortedPagingIteratorTest:0.07333333333333333

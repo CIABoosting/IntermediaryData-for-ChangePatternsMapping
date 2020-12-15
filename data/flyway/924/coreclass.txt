@@ -1,0 +1,11 @@
+MigrationExecutor:0.6033333333333334
+PostgreSQLMigrationMediumTest:0.31333333333333335
+NoTransactionResolvedMigration:0.31
+DbMigrate:0.20333333333333334
+NoTransactionMigrationResolver:0.18666666666666668
+NoTransactionMigrationExecutor:0.12
+MyCustomMigrationResolver:0.08
+SampleResolver:0.08
+SqlMigrationExecutor:0.043333333333333335
+SpringJdbcMigrationExecutor:0.043333333333333335
+JdbcMigrationExecutor:0.043333333333333335

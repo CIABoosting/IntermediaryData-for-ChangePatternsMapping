@@ -1,0 +1,17 @@
+Compared Result of  two versions
+Number of New Class: 11
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.apereo.cas.config.CasSamlSPBoxConfiguration: 
+new Added class 1 : org.apereo.cas.config.CasSamlSPDropboxConfiguration: 
+new Added class 2 : org.apereo.cas.config.CasSamlSPNetPartnerConfiguration: 
+new Added class 3 : org.apereo.cas.config.CasSamlSPOffice365Configuration: 
+new Added class 4 : org.apereo.cas.config.CasSamlSPSalesforceConfiguration: 
+new Added class 5 : org.apereo.cas.config.CasSamlSPSaManageConfiguration: 
+new Added class 6 : org.apereo.cas.config.CasSamlSPServiceNowConfiguration: 
+new Added class 7 : org.apereo.cas.config.CasSamlSPWebexConfiguration: 
+new Added class 8 : org.apereo.cas.config.CasSamlSPWorkdayConfiguration: 
+new Added class 9 : org.apereo.cas.configuration.model.support.saml.sps.SamlServiceProviderProperties: 
+new Added class 10 : org.apereo.cas.util.SamlSPUtils: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

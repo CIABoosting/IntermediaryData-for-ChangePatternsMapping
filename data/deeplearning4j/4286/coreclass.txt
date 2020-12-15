@@ -1,0 +1,10 @@
+Layer:0.55
+DefaultParamInitializer:0.22972222222222224
+BatchNormalizationParamInitializer:0.2
+ConvolutionParamInitializer:0.2
+EmptyParamInitializer:0.13
+PretrainParamInitializer:0.1
+GRUParamInitializer:0.08
+GravesLSTMParamInitializer:0.08
+GravesBidirectionalLSTMParamInitializer:0.08
+DenseLayer:0.056666666666666664

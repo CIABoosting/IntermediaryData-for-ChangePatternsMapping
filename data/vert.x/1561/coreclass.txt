@@ -1,0 +1,11 @@
+GoAway:0.36666666666666664
+Pool:0.3
+Http2ClientConnection:0.2833333333333333
+Push:0.2833333333333333
+Http2ClientStream:0.2733333333333333
+Http2ServerResponseImpl:0.27166666666666667
+Http2ConnectionBase:0.26
+VertxHttp2ConnectionHandler:0.23333333333333334
+ConnQueue:0.22476190476190477
+HttpClientRequestBase:0.22
+HttpClientRequestPushPromise:0.18333333333333332

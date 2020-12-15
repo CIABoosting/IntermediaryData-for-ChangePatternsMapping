@@ -1,0 +1,21 @@
+Compared Result of  two versions
+Number of New Class: 15
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.index.query.ExistsQueryBuilder: 
+new Added class 1 : org.elasticsearch.index.query.GeoBoundingBoxQueryBuilder: 
+new Added class 2 : org.elasticsearch.index.query.GeoDistanceQueryBuilder: 
+new Added class 3 : org.elasticsearch.index.query.GeoDistanceRangeQueryBuilder: 
+new Added class 4 : org.elasticsearch.index.query.GeohashCellQuery: 
+new Added class 5 : org.elasticsearch.index.query.GeoPolygonQueryBuilder: 
+new Added class 6 : org.elasticsearch.index.query.GeoShapeQueryBuilder: 
+new Added class 7 : org.elasticsearch.index.query.MatchNoneQueryBuilder: 
+new Added class 8 : org.elasticsearch.index.query.ParentIdQueryBuilder: 
+new Added class 9 : org.elasticsearch.index.query.PercolatorQueryBuilder: 
+new Added class 10 : org.elasticsearch.index.query.ScriptQueryBuilder: 
+new Added class 11 : org.elasticsearch.search.SearchModule: 
+new Added class 12 : org.elasticsearch.index.query.SimpleQueryStringBuilder: 
+new Added class 13 : org.elasticsearch.index.query.TemplateQueryBuilder: 
+new Added class 14 : org.elasticsearch.index.query.TypeQueryBuilder: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

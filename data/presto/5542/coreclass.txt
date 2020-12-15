@@ -1,0 +1,15 @@
+AbstractTestHiveClient:0.37
+HiveType:0.3566666666666667
+TestHiveIntegrationSmokeTest:0.3466666666666667
+HiveWriteUtils:0.32666666666666666
+ColumnarTextHiveRecordCursor:0.3176111111111112
+ColumnarBinaryHiveRecordCursor:0.3176111111111112
+AbstractTestParquetReader:0.30333333333333334
+TestSerDeUtils:0.2633333333333333
+HiveUtil:0.25333333333333335
+GenericHiveRecordCursor:0.24166666666666667
+SerDeUtils:0.21333333333333335
+AbstractTestHiveFileFormats:0.16333333333333333
+ParquetPageSourceFactory:0.16166666666666665
+TinyintFieldSetter:0.012222222222222221
+SmallintFieldSetter:0.012222222222222221

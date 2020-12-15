@@ -1,0 +1,16 @@
+SearchQueryIT:0.31333333333333335
+OpenCloseIndexIT:0.2733333333333333
+IndexShardTests:0.25
+SimpleIndexTemplateIT:0.22
+Gateway:0.21
+NettyTransport:0.19333333333333333
+ContextSuggestSearchIT:0.18
+IndexNameExpressionResolverTests:0.17666666666666667
+TransportOpenIndexAction:0.16333333333333333
+TransportUpdateSettingsAction:0.16333333333333333
+TransportCloseIndexAction:0.16333333333333333
+IndicesQueryParser:0.13
+ScoreFunctionParserMapper:0.13
+PercentilesBucketBuilder:0.13
+MultiDataPathUpgraderTests:0.13
+BasicAnalysisBackwardCompatibilityIT:0.11

@@ -1,0 +1,12 @@
+Compared Result of  two versions
+Number of New Class: 6
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opensolaris.opengrok.analysis.AnalyzerGuru: 
+new Added class 1 : org.opensolaris.opengrok.history.BazaarRepository: 
+new Added class 2 : org.opensolaris.opengrok.history.FileHistoryCache: 
+new Added class 3 : org.opensolaris.opengrok.history.GitRepository: 
+new Added class 4 : org.opensolaris.opengrok.history.MercurialRepository: 
+new Added class 5 : org.opensolaris.opengrok.analysis.archive.ZipAnalyzerFactory: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

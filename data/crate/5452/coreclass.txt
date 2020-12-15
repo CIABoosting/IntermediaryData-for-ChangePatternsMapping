@@ -1,0 +1,14 @@
+Planner:0.32666666666666666
+SelectAnalysis:0.3233333333333333
+GroupProjection:0.25666666666666665
+PlannerContextBuilder:0.20666666666666667
+SelectStatementAnalyzer:0.2
+SelectAnalyzerTest:0.19333333333333333
+GroupByAggregateTest:0.18
+ProjectionVisitor:0.17333333333333334
+ProjectionToProjectorVisitor:0.15
+TestingHelpers:0.14666666666666667
+ProjectionToProjectorVisitorTest:0.14166666666666666
+PlannerTest:0.11333333333333333
+HavingSymbolValidator:0.03666666666666667
+HavingSymbolConverter:0.006666666666666667

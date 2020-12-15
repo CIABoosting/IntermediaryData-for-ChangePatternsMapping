@@ -1,0 +1,232 @@
+Compared Result of  two versions
+Number of New Class: 119
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.server.model.helpers.AbstractBehaviorRenderer: 
+new Added class 1 : arinc661.server.model.helpers.builtin.AbstractContainer: 
+new Added class 2 : arinc661.server.jfx.model.rendererhelper.AbstractFXMLController: 
+new Added class 3 : arinc661.server.jfx.model.rendererhelper.AbstractFXMLRenderer: 
+new Added class 4 : arinc661.server.model.helpers.builtin.AbstractInteractiveWidget: 
+new Added class 5 : arinc661.server.jfx.model.maps.helpers.AbstractJFXProjectedMapItemRenderer: 
+new Added class 6 : arinc661.server.model.AbstractLayer: 
+new Added class 7 : arinc661.server.swing.model.rendererhelper.AbstractMapRenderer: 
+new Added class 8 : arinc661.server.model.helpers.builtin.AbstractMapWidget: 
+new Added class 9 : arinc661.server.model.painter.AbstractRenderingPainter: 
+new Added class 10 : arinc661.server.wm.AbstractServerCockpit: 
+new Added class 11 : arinc661.server.wm.AbstractServerDisplay: 
+new Added class 12 : arinc661.server.wm.AbstractServerWindow: 
+new Added class 13 : arinc661.server.model.stdrenderer.ActiveAreaRendererTest: 
+new Added class 14 : arinc661.server.jfx.model.stdrenderer.ArcCircleRenderer: 
+new Added class 15 : arinc661.server.jfx.model.stdrenderer.ArcEllipseRenderer: 
+new Added class 16 : arinc661.common.a661.ARINC661Application: 
+new Added class 17 : arinc661.common.conf.ARINCFonts: 
+new Added class 18 : arinc661.server.engine.ARINCLayerEvent: 
+new Added class 19 : arinc661.server.model.arinc.ARINCMapHorz: 
+new Added class 20 : arinc661.server.model.arinc.ARINCMapVert: 
+new Added class 21 : arinc661.common.a661.ARINCRuntimeMessage: 
+new Added class 22 : arinc661.common.a661.ARINCWidgetEvent: 
+new Added class 23 : arinc661.client.engine.BasicClientEngine: 
+new Added class 24 : arinc661.server.jfx.wm.BasicWindowManager: 
+new Added class 25 : arinc661.common.a661.CDSNotificationStruct: 
+new Added class 26 : arinc661.common.com.Channel: 
+new Added class 27 : arinc661.testutils.ClientAPIUtilities: 
+new Added class 28 : arinc661.client.model.ClientDefinitionFile: 
+new Added class 29 : arinc661.client.api.maps.ClientMapUtilities: 
+new Added class 30 : arinc661.testutils.ClientMessageDecoder: 
+new Added class 31 : arinc661.client.engine.ClientMessageProcessor: 
+new Added class 32 : arinc661.client.engine.gui.ClientWidgetPanel: 
+new Added class 33 : arinc661.client.parser.ClientXMLDFHandler: 
+new Added class 34 : arinc661.server.ui.synth2.ColorFilter: 
+new Added class 35 : arinc661.server.jfx.model.stdrenderer.ComboBoxEditRenderer: 
+new Added class 36 : arinc661.server.swing.model.painter.CSSPropertiesRenderer: 
+new Added class 37 : arinc661.server.model.stdrenderer.CursorOverRendererTest: 
+new Added class 38 : plugin.client.debug.model.DebugDFLoaderListener: 
+new Added class 39 : arinc661.common.a661.DecoderListener: 
+new Added class 40 : arinc661.server.wm.devices.DevicesPainter: 
+new Added class 41 : arinc661.server.wm.devices.DevicesProvider: 
+new Added class 42 : arinc661.common.a661.DFConstants: 
+new Added class 43 : arinc661.javafx.behaviors.DFHandlerWithJFXBehavior2Test: 
+new Added class 44 : org.w3c.css.sac.DocumentHandler: 
+new Added class 45 : arinc661.server.jfx.model.stdrenderer.EditBoxMultilineRenderer: 
+new Added class 46 : arinc661.server.jfx.model.stdrenderer.EditBoxNumericBCDRenderer: 
+new Added class 47 : arinc661.server.jfx.conf.JFXClippings: 
+new Added class 48 : arinc661.server.jfx.wm.JFXCockpitProvider: 
+new Added class 49 : arinc661.server.jfx.conf.JFXConfiguration: 
+new Added class 50 : arinc661.server.jfx.model.stdrenderer.JFXCursorEventsExtensionRenderer: 
+new Added class 51 : arinc661.appli.editor.framework.jfx.JFXEditorLayerManager: 
+new Added class 52 : arinc661.appli.editor.framework.jfx.JFXEditorOverlay: 
+new Added class 53 : arinc661.server.jfx.factory.JFXFactory: 
+new Added class 54 : arinc661.javafx.gestures.JFXGesturesTest: 
+new Added class 55 : arinc661.server.jfx.conf.JFXImage: 
+new Added class 56 : arinc661.server.jfx.model.maps.helpers.JFXItemsRenderersHelper: 
+new Added class 57 : arinc661.javafx.server.model.painter.JFXLayerPainterTest: 
+new Added class 58 : arinc661.server.jfx.conf.JFXLineStyles: 
+new Added class 59 : arinc661.server.jfx.model.maps.conf.JFXMapSymbol: 
+new Added class 60 : arinc661.server.jfx.model.painter.JFXPainterUtils: 
+new Added class 61 : arinc661.server.jfx.model.maps.JFXProjectedMapItemRenderer: 
+new Added class 62 : arinc661.server.jfx.model.painter.JFXRendererBridge: 
+new Added class 63 : arinc661.server.jfx.wm.JFXServerCockpit: 
+new Added class 64 : arinc661.server.jfx.wm.JFXServerDisplay: 
+new Added class 65 : arinc661.server.jfx.parser.JFXServerGraphicsConfigHandler: 
+new Added class 66 : arinc661.server.jfx.wm.JFXServerWindow: 
+new Added class 67 : arinc661.server.jfx.model.symbols.JFXSymbolCommand: 
+new Added class 68 : arinc661.javafx.editor.JFXTreeEditorCopyPasteTest: 
+new Added class 69 : arinc661.server.jfx.parser.JFXUIDefinitionParser: 
+new Added class 70 : arinc661.server.wm.devices.KnobDevice: 
+new Added class 71 : arinc661.server.model.painter.LayerRendererBridge: 
+new Added class 72 : arinc661.common.a661.LayerRequest: 
+new Added class 73 : arinc661.appli.editor.LayerTreeEditor: 
+new Added class 74 : arinc661.server.jfx.model.stdrenderer.MapHorzContainerRenderer: 
+new Added class 75 : arinc661.server.jfx.model.stdrenderer.MapItemsPaneRenderer: 
+new Added class 76 : arinc661.server.jfx.model.stdrenderer.MapSourceRenderer: 
+new Added class 77 : plugin.client.maps.gui.MapsPanel: 
+new Added class 78 : arinc661.server.jfx.model.stdrenderer.NumericReadoutRenderer: 
+new Added class 79 : arinc661.server.jfx.model.stdrenderer.PopUpMenuButtonRenderer: 
+new Added class 80 : arinc661.server.jfx.model.stdrenderer.PopUpMenuRenderer: 
+new Added class 81 : arinc661.common.a661.ProtocolInputDecoder: 
+new Added class 82 : arinc661.common.a661.ProtocolInputDecoderTest: 
+new Added class 83 : arinc661.server.jfx.model.stdrenderer.RadioBoxRenderer: 
+new Added class 84 : arinc661.server.model.painter.RendererSymbolsTest: 
+new Added class 85 : arinc661.server.model.painter.RendererSymbols_2Test: 
+new Added class 86 : arinc661.server.model.painter.RendererTest: 
+new Added class 87 : plugin.client.debug.actions.ScenarioDecoderAction: 
+new Added class 88 : plugin.client.debug.gui.ScenarioViewer: 
+new Added class 89 : arinc661.server.jfx.model.stdrenderer.ScrollPanelRenderer: 
+new Added class 90 : arinc661.server.parser.ServerBinaryDFHandler: 
+new Added class 91 : arinc661.server.conf.ServerBlinkings: 
+new Added class 92 : arinc661.server.wm.ServerCockpitMultiAppli3_Test: 
+new Added class 93 : arinc661.server.wm.ServerCockpitMultiAppli4_Test: 
+new Added class 94 : arinc661.server.wm.ServerCockpitMultiAppli5_Test: 
+new Added class 95 : arinc661.server.wm.ServerCockpitMultiLayerTest: 
+new Added class 96 : arinc661.server.model.ServerContainer: 
+new Added class 97 : arinc661.server.conf.ServerHalos: 
+new Added class 98 : arinc661.server.model.ServerInteractiveWidget: 
+new Added class 99 : arinc661.server.model.ServerMapWidget: 
+new Added class 100 : arinc661.server.parser.ServerXMLDFHandler: 
+new Added class 101 : arinc661.server.model.xml.ServerXMLObjectAttribute: 
+new Added class 102 : arinc661.common.a661.SetParameterStruct: 
+new Added class 103 : arinc661.server.jfx.model.stdrenderer.SliderRenderer: 
+new Added class 104 : glg2d.StringDrawer: 
+new Added class 105 : arinc661.server.swing.wm.SwingServerDisplay: 
+new Added class 106 : arinc661.server.swing.wm.SwingServerWindow: 
+new Added class 107 : arinc661.server.jfx.model.stdrenderer.SymbolAnimatedRenderer: 
+new Added class 108 : arinc661.server.jfx.model.stdrenderer.SymbolRenderer: 
+new Added class 109 : plugin.editor.look.synth.fromsynth.model.SynthProperty: 
+new Added class 110 : arinc661.server.ui.synth2.SynthTabbedPaneUI: 
+new Added class 111 : arinc661.server.jfx.model.stdrenderer.TabbedPanelGroupRenderer: 
+new Added class 112 : arinc661.server.jfx.model.stdrenderer.TabPanelRenderer: 
+new Added class 113 : arinc661.appli.editor.helpers.TreeEditorCopyHelper: 
+new Added class 114 : arinc661.common.a661.UARequestStruct: 
+new Added class 115 : plugin.server.ogl.geom.VertexArray: 
+new Added class 116 : arinc661.server.jfx.model.stdrenderer.WatchDogRenderer: 
+new Added class 117 : arinc661.server.engine.WidgetEventStruct: 
+new Added class 118 : arinc661.server.swing.wm.WindowsWindowManager: 
+testing relationship 
+class 1  vs  class 96£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 98£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 56£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 61£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 99£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 71£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:14  r12:0  r13:12  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:6  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:3  r17:0  
+class 23  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 23  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 102£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 39£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:5  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 26  vs  class 81£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:11  r9:0  r10:12  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:20  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 77£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:11  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 39£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 72£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 81£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:5  r9:0  r10:6  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:5  r9:0  r10:3  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 39£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 28£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:9  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 71£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 63£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 52£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 51  vs  class 60£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:8  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 73£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-1  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 47£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 60£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 71£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 97£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 59£º  r0:0  r1:0  r2:0  r3:6  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 76£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 62  vs  class 71£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 62  vs  class 96£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 63  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 64  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 64  vs  class 63£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 64  vs  class 66£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 65  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 66  vs  class 12£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 66  vs  class 62£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 66  vs  class 64£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 68  vs  class 73£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 68  vs  class 96£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 71  vs  class 96£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 73  vs  class 96£º  r0:0  r1:0  r2:0  r3:9  r4:8  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:28  r12:0  r13:15  r14:2  r15:0  r16:1  r17:0  
+class 73  vs  class 113£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:-10  r9:0  r10:24  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 74  vs  class 7£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 74  vs  class 99£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 75  vs  class 7£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 75  vs  class 61£º  r0:0  r1:0  r2:0  r3:5  r4:5  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 75  vs  class 99£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 76  vs  class 75£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 77  vs  class 102£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 79  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 79  vs  class 80£º  r0:0  r1:0  r2:0  r3:2  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 81  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:8  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:2  r17:0  
+class 81  vs  class 39£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:44  r9:0  r10:44  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 81  vs  class 42£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 82  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 82  vs  class 81£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 84  vs  class 108£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 85  vs  class 108£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 87  vs  class 81£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 87  vs  class 88£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 88  vs  class 87£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 92  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 92  vs  class 105£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 92  vs  class 106£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 93  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 93  vs  class 105£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 93  vs  class 106£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 94  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 94  vs  class 105£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 94  vs  class 106£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 95  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 95  vs  class 105£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 100  vs  class 96£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 105  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 105  vs  class 106£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 12£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 105£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 111  vs  class 112£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 112  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 113  vs  class 96£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:1  r14:8  r15:0  r16:0  r17:0  
+class 118  vs  class 105£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  10   2 :  7   3 :  70   4 :  22   5 :  13   6 :  0   7 :  0   8 :  117   9 :  0   10 :  138   11 :  188   12 :  0   13 :  132   14 :  17   15 :  0   16 :  7   17 :  0   

@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 9
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : tod.impl.dbgrid.dispatch.DispatcherCollector: 
+new Added class 1 : tod.utils.DummyCollector: 
+new Added class 2 : tod.impl.evdb1.GridEventCollector1: 
+new Added class 3 : tod.core.transport.HighLevelEventReader: 
+new Added class 4 : tod.core.transport.HighLevelEventWriter: 
+new Added class 5 : tod.core.ILogCollector: 
+new Added class 6 : tod.impl.local.LocalCollector: 
+new Added class 7 : tod.impl.common.event.OpcodeEvent: 
+new Added class 8 : tod.utils.PrintThroughCollector: 
+testing relationship 
+class 0  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-2  r9:0  r10:19  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:18  r15:0  r16:17  r17:0  
+class 8  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:20  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  3   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  -2   9 :  0   10 :  39   11 :  0   12 :  0   13 :  0   14 :  19   15 :  0   16 :  17   17 :  0   

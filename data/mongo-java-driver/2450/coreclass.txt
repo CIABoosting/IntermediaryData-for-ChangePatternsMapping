@@ -1,0 +1,12 @@
+ServerSelector:0.8833333333333333
+CompositeServerSelector:0.25
+BaseCluster:0.23666666666666666
+LatencyMinimizingServerSelector:0.17333333333333334
+ReadPreferenceServerSelector:0.16
+CompositeServerSelectorTest:0.12
+SingleServerClusterTest:0.11666666666666667
+ServerAddressSelector:0.10666666666666667
+ReadPreferenceServerSelectorTest:0.09666666666666666
+LatencyMinimizingServerSelectorTest:0.08333333333333333
+ServerAddressSelectorTest:0.08
+PrimaryServerSelector:0.06

@@ -1,0 +1,17 @@
+Id:0.6033333333333334
+ShardingProjector:0.2866666666666667
+InsertFromValuesAnalyzedStatement:0.26666666666666666
+InsertFromValuesAnalyzerTest:0.22333333333333333
+ProjectionToProjectorVisitor:0.19333333333333333
+IdTest:0.18333333333333332
+DocKey:0.14166666666666666
+BulkDeleteBenchmark:0.13666666666666666
+BulkShardProcessorTest:0.12333333333333334
+IndexWriterProjectorUnitTest:0.11333333333333333
+IndexWriterProjector:0.09666666666666666
+ShardingProjectorTest:0.09
+IndexWriterProjectorTest:0.08333333333333333
+AbstractIndexWriterProjector:0.08
+DocKeys:0.08
+TransportSQLActionTest:0.07333333333333333
+ColumnIndexWriterProjector:0.02

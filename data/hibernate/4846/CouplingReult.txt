@@ -1,0 +1,12 @@
+Compared Result of  two versions
+Number of New Class: 6
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.hibernate.envers.test.integration.data.LobSerializables: 
+new Added class 1 : org.hibernate.envers.test.entities.manytomany.MapOwningEntity: 
+new Added class 2 : org.hibernate.envers.test.entities.manytomany.unidirectional.MapUniEntity: 
+new Added class 3 : org.hibernate.envers.test.integration.modifiedflags.entities.PartialModifiedFlagsEntity: 
+new Added class 4 : org.hibernate.envers.test.integration.naming.quotation.QuotedFieldsEntity: 
+new Added class 5 : org.hibernate.envers.test.entities.collection.StringMapEntity: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

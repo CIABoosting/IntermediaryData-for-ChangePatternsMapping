@@ -1,0 +1,14 @@
+JPPFClient:0.38666666666666666
+AbstractJPPFClient:0.3069444444444444
+TaskServerConnectionHandler:0.28650000000000003
+JPPFResultCollector:0.28650000000000003
+ClassServerDelegateImpl:0.28650000000000003
+FutureResultCollector:0.27666666666666667
+AbstractJPPFClientConnection:0.24833333333333332
+LoadBalancer:0.24733333333333335
+ClientProportionalBundler:0.24733333333333335
+AbstractClassServerDelegate:0.22166666666666668
+JPPFClientConnectionImpl:0.17503968253968252
+JPPFExecutorService:0.1475
+AbstractGenericClient:0.11166666666666666
+AsynchronousResultProcessor:0.10733333333333334

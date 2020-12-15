@@ -1,0 +1,14 @@
+MultiLayerNetwork:0.8166666666666667
+LFWDataSetIterator:0.46
+RecordReaderDataSetIterator:0.29333333333333333
+CifarDataSetIterator:0.2733333333333333
+MultipleEpochsIterator:0.22
+WordVectorSerializer:0.20666666666666667
+FeedForwardToCnnPreProcessor:0.17833333333333334
+DataSetIteratorTest:0.15333333333333332
+ManualTests:0.14666666666666667
+ConvolutionLayerTest:0.14333333333333334
+RBMTests:0.13666666666666666
+KernelValidationUtil:0.12
+MultipleEpochsIteratorTest:0.08
+MultiLayerTest:0.07666666666666666

@@ -1,0 +1,40 @@
+Compared Result of  two versions
+Number of New Class: 20
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.jumpmind.db.model.Column: 
+new Added class 1 : org.jumpmind.db.platform.db2.Db2Builder: 
+new Added class 2 : org.jumpmind.db.sql.jdbc.DefaultNativeConnectionExtractor: 
+new Added class 3 : org.jumpmind.db.platform.DefaultValueHelper: 
+new Added class 4 : org.jumpmind.db.platform.derby.DerbyBuilder: 
+new Added class 5 : org.jumpmind.db.platform.firebird.FirebirdBuilder: 
+new Added class 6 : org.jumpmind.db.sql.jdbc.ILobHandler: 
+new Added class 7 : org.jumpmind.db.sql.jdbc.INativeConnectionExtractor: 
+new Added class 8 : org.jumpmind.db.platform.interbase.InterbaseBuilder: 
+new Added class 9 : org.jumpmind.db.util.Jdbc3Utils: 
+new Added class 10 : org.jumpmind.db.sql.jdbc.JdbcSqlReadCursor: 
+new Added class 11 : org.jumpmind.db.sql.jdbc.JdbcSqlTemplate: 
+new Added class 12 : org.jumpmind.db.sql.jdbc.JdbcSqlTransaction: 
+new Added class 13 : org.jumpmind.db.platform.mssql.MsSqlBuilder: 
+new Added class 14 : org.jumpmind.db.platform.oracle.OracleBuilder: 
+new Added class 15 : org.jumpmind.db.platform.oracle.OracleLobHandler: 
+new Added class 16 : org.jumpmind.db.platform.oracle.OraclePlatform: 
+new Added class 17 : org.jumpmind.db.sql.jdbc.StatementCreatorUtil: 
+new Added class 18 : org.jumpmind.db.platform.sybase.SybaseBuilder: 
+new Added class 19 : org.jumpmind.db.model.TypeMap: 
+testing relationship 
+class 1  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:6  r15:0  r16:5  r17:0  
+class 2  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:3  r17:0  
+class 5  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:8  r15:0  r16:4  r17:0  
+class 8  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:8  r15:0  r16:4  r17:0  
+class 10  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:6  r11:0  r12:0  r13:0  r14:2  r15:0  r16:5  r17:0  
+class 11  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:7  r11:0  r12:0  r13:0  r14:1  r15:0  r16:2  r17:0  
+class 13  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:4  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:2  r14:7  r15:0  r16:8  r17:0  
+class 14  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:7  r15:0  r16:11  r17:0  
+class 15  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:2  r17:0  
+class 18  vs  class 0£º  r0:0  r1:0  r2:0  r3:1  r4:3  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:1  r14:14  r15:0  r16:8  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  1   4 :  7   5 :  1   6 :  0   7 :  0   8 :  8   9 :  0   10 :  13   11 :  18   12 :  0   13 :  5   14 :  61   15 :  0   16 :  52   17 :  0   

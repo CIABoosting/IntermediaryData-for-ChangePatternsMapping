@@ -1,0 +1,68 @@
+Compared Result of  two versions
+Number of New Class: 38
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.controller.AddAtomModule: 
+new Added class 1 : org.openscience.cdk.controller.undoredo.AddAtomsAndBondsEdit: 
+new Added class 2 : org.openscience.cdk.controller.AddBondModule: 
+new Added class 3 : org.openscience.cdk.controller.AddRingModule: 
+new Added class 4 : org.openscience.cdk.controller.undoredo.AdjustBondOrdersEdit: 
+new Added class 5 : org.openscience.cdk.controller.AlterBondStereoModule: 
+new Added class 6 : org.openscience.cdk.controller.AtomAtomMappingModule: 
+new Added class 7 : org.openscience.cdk.controller.undoredo.ChangeAtomSymbolEdit: 
+new Added class 8 : org.openscience.cdk.controller.undoredo.ChangeChargeEdit: 
+new Added class 9 : org.openscience.cdk.controller.undoredo.ChangeCoordsEdit: 
+new Added class 10 : org.openscience.cdk.controller.ChangeFormalChargeModule: 
+new Added class 11 : org.openscience.cdk.controller.undoredo.ChangeHydrogenCountEdit: 
+new Added class 12 : org.openscience.cdk.controller.undoredo.ChangeIsotopeEdit: 
+new Added class 13 : org.openscience.cdk.controller.undoredo.ClearAllEdit: 
+new Added class 14 : org.openscience.cdk.controller.ControllerHub: 
+new Added class 15 : org.openscience.cdk.controller.ControllerModel: 
+new Added class 16 : org.openscience.cdk.controller.ControllerParameters: 
+new Added class 17 : org.openscience.cdk.controller.undoredo.ConvertToRadicalEdit: 
+new Added class 18 : org.openscience.cdk.controller.CycleSymbolModule: 
+new Added class 19 : org.openscience.cdk.controller.DrawBondModule: 
+new Added class 20 : org.openscience.cdk.controller.HighlightModule: 
+new Added class 21 : org.openscience.cdk.controller.IChemModelRelay: 
+new Added class 22 : org.openscience.cdk.controller.undoredo.LoadNewModelEdit: 
+new Added class 23 : org.openscience.cdk.controller.undoredo.MakeReactantOrProductInExistingReactionEdit: 
+new Added class 24 : org.openscience.cdk.controller.undoredo.MakeReactantOrProductInNewReactionEdit: 
+new Added class 25 : org.openscience.cdk.controller.undoredo.MergeMoleculesEdit: 
+new Added class 26 : org.openscience.cdk.controller.undoredo.MoveAtomEdit: 
+new Added class 27 : org.openscience.cdk.controller.MoveModule: 
+new Added class 28 : org.openscience.cdk.controller.PhantomBondGenerator: 
+new Added class 29 : org.openscience.cdk.controller.undoredo.RemoveAtomsAndBondsEdit: 
+new Added class 30 : org.openscience.cdk.controller.RemoveModule: 
+new Added class 31 : org.openscience.cdk.controller.undoredo.ReplaceAtomEdit: 
+new Added class 32 : org.openscience.cdk.controller.RotateModule: 
+new Added class 33 : org.openscience.cdk.controller.SelectLassoModule: 
+new Added class 34 : org.openscience.cdk.controller.SelectSquareModule: 
+new Added class 35 : org.openscience.cdk.controller.SwingEventRelay: 
+new Added class 36 : org.openscience.cdk.controller.SwingMouseEventRelay: 
+new Added class 37 : org.openscience.cdk.controller.ZoomModule: 
+testing relationship 
+class 0  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 1  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 2  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 3  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 4  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:4  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 6  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 7  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 8  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 10  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 14  vs  class 21£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:25  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 19  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 20  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:7  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 25  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 27  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 28  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 29  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 30  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 32  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 33  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 34  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 37  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  1   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  33   9 :  0   10 :  23   11 :  0   12 :  0   13 :  0   14 :  31   15 :  0   16 :  0   17 :  0   

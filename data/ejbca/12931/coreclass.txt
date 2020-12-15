@@ -1,0 +1,14 @@
+BasePublisher:0.64
+LdapPublisher:0.49
+ValidationAuthorityPublisher:0.29333333333333333
+PublisherDataHandler:0.25333333333333335
+PublisherTest:0.24
+PublisherSessionLocal:0.23
+PublisherSessionBean:0.22
+PublisherProxySessionRemote:0.215
+CustomPublisherContainer:0.19333333333333333
+GeneralPurposeCustomPublisherTest:0.18
+GeneralPurposeCustomPublisher:0.14666666666666667
+PublisherProxySessionBean:0.12666666666666668
+ICustomPublisher:0.125
+DummyCustomPublisher:0.09666666666666666

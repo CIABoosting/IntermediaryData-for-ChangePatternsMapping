@@ -1,0 +1,15 @@
+SemaphoreDataSerializerHook:0.3671111111111111
+InitOperation:0.25666666666666665
+DrainOperation:0.25666666666666665
+ReduceOperation:0.25666666666666665
+ReleaseOperation:0.25666666666666665
+SemaphoreDeadMemberOperation:0.23
+AcquireOperation:0.23
+SemaphoreReplicationOperation:0.12666666666666668
+AcquireBackupOperation:0.12333333333333334
+DeadMemberBackupOperation:0.12333333333333334
+InitBackupOperation:0.12333333333333334
+ReleaseBackupOperation:0.12333333333333334
+ReduceBackupOperation:0.12333333333333334
+DrainBackupOperation:0.12333333333333334
+AvailableOperation:0.11666666666666667

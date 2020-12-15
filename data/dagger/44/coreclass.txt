@@ -1,0 +1,12 @@
+ModuleAdapter:0.46
+ObjectGraph:0.44666666666666666
+InjectAdapterProcessor:0.3
+DaggerObjectGraph:0.25666666666666665
+GraphAnalysisProcessor:0.22333333333333333
+ModuleTest:0.2
+ModuleAdapterProcessor:0.17
+TestingModuleAdapter:0.16333333333333333
+ModuleAdapterGenerationTest:0.14666666666666667
+LazyInjectionTest:0.11
+InjectedClass:0.02
+InjectAdapterGenerationTest:0.0033333333333333335

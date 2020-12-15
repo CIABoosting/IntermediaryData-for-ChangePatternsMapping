@@ -1,0 +1,17 @@
+ParameterConstants:0.6466666666666666
+Node:0.52
+Constants:0.42333333333333334
+TriggerRouterService:0.36333333333333334
+OutgoingBatches:0.32666666666666666
+OutgoingBatchService:0.26
+DataService:0.24666666666666667
+IOutgoingBatchService:0.24666666666666667
+NodeService:0.23
+ConfigurationService:0.20333333333333334
+PushHeartbeatListener:0.14666666666666667
+ManageIncomingBatchListener:0.12666666666666668
+NodeServiceSqlMap:0.12083333333333333
+NodeRowMapper:0.11416666666666667
+DefaultOfflineServerListener:0.08666666666666667
+OutgoingBatchServiceSqlMap:0.08333333333333333
+InfoUriHandler:0.07333333333333333

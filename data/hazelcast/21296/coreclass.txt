@@ -1,0 +1,17 @@
+NearCacheConfig:0.5033333333333333
+MapConfig:0.42333333333333334
+NearCache:0.42
+ClientNearCache:0.25333333333333335
+MapContainer:0.22666666666666666
+OffHeapRecordFactory:0.19
+ObjectRecordFactory:0.19
+DataRecordFactory:0.19
+XmlConfigBuilder:0.18333333333333332
+XmlClientConfigBuilder:0.17333333333333334
+DefaultRecordStore:0.17333333333333334
+EntryProcessorTest:0.16333333333333333
+SizeEstimatorTest:0.13
+MapConfigAdapter:0.12333333333333334
+InterceptorTest:0.12333333333333334
+ClientIssueTest:0.12333333333333334
+InMemoryFormatTest:0.08666666666666667

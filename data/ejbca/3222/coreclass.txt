@@ -1,0 +1,14 @@
+BasePublisher:0.5865555555555556
+LdapPublisher:0.47
+RSASignSessionBean:0.26
+LocalCertificateStoreSessionBean:0.24666666666666667
+LocalPublisherSessionBean:0.23333333333333334
+CustomPublisherContainer:0.22666666666666666
+TestPublisher:0.21666666666666667
+CAInterfaceBean:0.21
+DummyCustomPublisher:0.19333333333333333
+ICustomPublisher:0.185
+StoreCertPreparer:0.15333333333333332
+ExternalOCSPPublisher:0.13083333333333333
+CARepublishCommand:0.12333333333333334
+RevokePreparer:0.11666666666666667

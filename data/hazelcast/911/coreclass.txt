@@ -1,0 +1,11 @@
+AbstractCacheRecordStore:0.42
+AbstractHazelcastCacheManager:0.33
+AbstractHazelcastCachingProvider:0.26472222222222225
+CacheStatsHandler:0.24666666666666667
+HazelcastServerCachingProvider:0.22333333333333333
+HazelcastServerCacheManager:0.22
+HazelcastClientCachingProvider:0.19
+JsrTestUtil:0.18
+HazelcastClientCacheManager:0.17777777777777778
+CachingProviderTest:0.14666666666666667
+CacheStatsTest:0.10666666666666667

@@ -1,0 +1,61 @@
+Compared Result of  two versions
+Number of New Class: 33
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.columba.mail.folder.AbstractLocalFolder: 
+new Added class 1 : org.columba.mail.folder.AbstractMessageFolder: 
+new Added class 2 : org.columba.mail.folder.AbstractRemoteFolder: 
+new Added class 3 : org.columba.addressbook.gui.frame.AddressbookFrameController: 
+new Added class 4 : org.compiere.apps.AMenu: 
+new Added class 5 : org.compiere.apps.ThreadPOSNotifyServer: 
+new Added class 6 : org.columba.mail.folder.headercache.BerkeleyDBHeaderList: 
+new Added class 7 : org.columba.calendar.item.BirthdayCalendarItem: 
+new Added class 8 : org.columba.mail.folder.mbox.CachedMboxFolder: 
+new Added class 9 : org.columba.mail.folder.mh.CachedMHFolder: 
+new Added class 10 : org.columba.calendar.config.CalendarConfig: 
+new Added class 11 : org.columba.calendar.base.CalendarItem: 
+new Added class 12 : org.columba.calendar.config.CalendarList: 
+new Added class 13 : org.columba.core.gui.frame.DefaultContainer: 
+new Added class 14 : org.columba.mail.folder.headercache.DefaultHeaderBinding: 
+new Added class 15 : org.columba.core.gui.frame.DockFrameController: 
+new Added class 16 : org.columba.mail.gui.tree.FolderTreeModel: 
+new Added class 17 : org.columba.calendar.base.api.ICalendarItem: 
+new Added class 18 : org.columba.calendar.config.api.IConfig: 
+new Added class 19 : org.columba.mail.folder.imap.IMAPFolder: 
+new Added class 20 : org.columba.mail.folder.imap.IMAPRootFolder: 
+new Added class 21 : org.columba.calendar.item.LocalCalendarItem: 
+new Added class 22 : org.columba.calendar.store.LocalCalendarStore: 
+new Added class 23 : org.columba.mail.folder.LocalRootFolder: 
+new Added class 24 : org.columba.mail.folder.search.LuceneQueryEngine: 
+new Added class 25 : org.columba.mail.folder.mbox.MboxDataStorage: 
+new Added class 26 : org.columba.mail.folder.outbox.OutboxFolder: 
+new Added class 27 : org.columba.core.plugin.PluginManager: 
+new Added class 28 : org.columba.mail.folder.headercache.PostgresDBHeaderList: 
+new Added class 29 : org.columba.core.gui.statusbar.PrintManagerDialog: 
+new Added class 30 : org.columba.mail.folder.virtual.VirtualFolder: 
+new Added class 31 : org.columba.calendar.item.WebICalCalendarItem: 
+new Added class 32 : org.columba.core.gui.docking.XMLPersister: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 15£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 25£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 18£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 17£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:2  r14:1  r15:0  r16:1  r17:0  
+class 16  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 20£º  r0:0  r1:0  r2:0  r3:2  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 19£º  r0:0  r1:0  r2:0  r3:8  r4:5  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 21  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:2  r17:0  
+class 26  vs  class 6£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 1£º  r0:0  r1:1  r2:0  r3:6  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  11   2 :  2   3 :  19   4 :  8   5 :  4   6 :  2   7 :  0   8 :  4   9 :  0   10 :  2   11 :  20   12 :  0   13 :  10   14 :  4   15 :  0   16 :  3   17 :  0   

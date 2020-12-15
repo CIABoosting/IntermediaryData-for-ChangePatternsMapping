@@ -1,0 +1,21 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : sicret.rules.RuleAcrylicAcids: 
+new Added class 1 : sicret.rules.RuleC10_C20AliphaticAlcohols: 
+new Added class 2 : sicret.rules.RuleCarbamoylHalide: 
+new Added class 3 : sicret.rules.RuleCatecholsResorcinolsHydroquinones: 
+new Added class 4 : sicret.rules.RuleDi_Tri_Nitrobenzenes: 
+new Added class 5 : sicret.test.RuleHalogenatedAlkanesAndAlkenesTest: 
+new Added class 6 : sicret.rules.RuleHalonitrobenzene: 
+new Added class 7 : sicret.rules.RuleHasOnlyC_H_O: 
+new Added class 8 : sicret.rules.RuleLactonesFusedOrUnsaturated: 
+new Added class 9 : sicret.rules.RuleLogP: 
+new Added class 10 : sicret.rules.RuleOandPQuinones: 
+new Added class 11 : sicret.test.RulesTestCase: 
+new Added class 12 : sicret.rules.RuleTriAndTetraHalogenatedBenzenes: 
+new Added class 13 : sicret.test.SicretDataTest: 
+testing relationship 
+class 5  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  1   12 :  0   13 :  3   14 :  0   15 :  0   16 :  0   17 :  0   

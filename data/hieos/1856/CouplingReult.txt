@@ -1,0 +1,44 @@
+Compared Result of  two versions
+Number of New Class: 20
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.vangent.hieos.DocViewer.client.services.rpc.AuthenticationRemoteService: 
+new Added class 1 : com.vangent.hieos.DocViewer.client.services.rpc.AuthenticationRemoteServiceAsync: 
+new Added class 2 : com.vangent.hieos.DocViewer.server.services.rpc.authentication.AuthenticationRemoteServiceImpl: 
+new Added class 3 : com.vangent.hieos.DocViewer.client.services.proxy.AuthenticationService: 
+new Added class 4 : com.vangent.hieos.DocViewer.client.services.rpc.ConfigRemoteService: 
+new Added class 5 : com.vangent.hieos.DocViewer.client.services.rpc.ConfigRemoteServiceAsync: 
+new Added class 6 : com.vangent.hieos.DocViewer.server.services.rpc.config.ConfigRemoteServiceImpl: 
+new Added class 7 : com.vangent.hieos.DocViewer.client.services.rpc.DocumentRemoteService: 
+new Added class 8 : com.vangent.hieos.DocViewer.client.services.rpc.DocumentRemoteServiceAsync: 
+new Added class 9 : com.vangent.hieos.DocViewer.server.services.rpc.document.DocumentRemoteServiceImpl: 
+new Added class 10 : com.vangent.hieos.DocViewer.client.view.document.DocumentViewContainer: 
+new Added class 11 : com.vangent.hieos.DocViewer.client.entrypoint.DocViewer: 
+new Added class 12 : com.vangent.hieos.DocViewer.client.controller.DocViewerController: 
+new Added class 13 : com.vangent.hieos.DocViewer.server.servlets.docview.DocViewServlet: 
+new Added class 14 : com.vangent.hieos.DocViewer.client.view.patient.PatientList: 
+new Added class 15 : com.vangent.hieos.DocViewer.client.view.patient.PatientViewContainer: 
+new Added class 16 : com.vangent.hieos.DocViewer.client.services.rpc.PDSRemoteService: 
+new Added class 17 : com.vangent.hieos.DocViewer.client.services.rpc.PDSRemoteServiceAsync: 
+new Added class 18 : com.vangent.hieos.DocViewer.server.services.rpc.pds.PDSRemoteServiceImpl: 
+new Added class 19 : com.vangent.hieos.DocViewer.server.framework.ServletUtilMixin: 
+testing relationship 
+class 2  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:11  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 11  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:11  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 15  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  4   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  18   9 :  0   10 :  42   11 :  3   12 :  0   13 :  1   14 :  5   15 :  0   16 :  0   17 :  0   

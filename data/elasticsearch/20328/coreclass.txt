@@ -1,0 +1,14 @@
+QueryParseContext:0.5033333333333333
+IndexQueryParserService:0.3233333333333333
+PercolatorTests:0.29333333333333333
+IndexAliasesTests:0.29333333333333333
+ExplainActionTests:0.25333333333333335
+RecoveryPercolatorTests:0.25333333333333335
+SimpleIndexTemplateTests:0.24666666666666667
+SimpleNestedTests:0.24666666666666667
+MultiPercolatorTests:0.19666666666666666
+ConcurrentPercolatorTests:0.13666666666666666
+TTLPercolatorTests:0.13666666666666666
+PercolatorQueriesRegistry:0.13666666666666666
+AliasValidator:0.11666666666666667
+PercolatorFacetsAndAggregationsTests:0.11333333333333333

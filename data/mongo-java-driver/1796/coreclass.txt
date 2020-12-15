@@ -1,0 +1,14 @@
+QueryOperation:0.4866666666666667
+DBCollection:0.35
+CountOperation:0.33666666666666667
+FindAndRemoveOperation:0.31333333333333335
+FindAndUpdateOperation:0.2966666666666667
+FindAndReplaceOperation:0.2966666666666667
+NewMongoCollectionImpl:0.27
+CollectionHelper:0.23666666666666666
+DBCursor:0.22166666666666668
+MongoCollectionView:0.21
+AggregateOperation:0.19333333333333333
+AggregateToCollectionOperation:0.12666666666666668
+DistinctOperation:0.12666666666666668
+AggregateExplainOperation:0.12666666666666668

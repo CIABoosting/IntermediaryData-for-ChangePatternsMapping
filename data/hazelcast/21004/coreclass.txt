@@ -1,0 +1,15 @@
+MapService:0.45
+EntryTaskScheduler:0.41
+PutBackupOperation:0.39666666666666667
+MapReplicationOperation:0.28
+TxnSetOperation:0.24666666666666667
+QueryTest:0.21
+TransactionalMapProxySupport:0.2
+BasePutOperation:0.19666666666666666
+SecondsBasedEntryTaskScheduler:0.18666666666666668
+MergeOperation:0.175
+EntryProcessorExecutor:0.16
+EvictionTest:0.14666666666666667
+EvictionProcessor:0.11333333333333333
+MapStoreDeleteProcessor:0.03
+MapStoreWriteProcessor:0.03

@@ -1,0 +1,8 @@
+InternalTestCluster:0.5766666666666667
+NetworkPartition:0.2
+SlowClusterStateProcessing:0.17
+LongGCDisruption:0.17
+BlockClusterStateProcessing:0.16333333333333333
+SingleNodeDisruption:0.16333333333333333
+NoOpDisruptionScheme:0.15833333333333333
+ServiceDisruptionScheme:0.15833333333333333

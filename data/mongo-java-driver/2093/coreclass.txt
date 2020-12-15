@@ -1,0 +1,16 @@
+CommandResult:0.5666666666666667
+DB:0.54
+ProtocolHelper:0.30333333333333334
+CommandResultTest:0.2733333333333333
+CommandOperationHelper:0.26666666666666666
+CommandHelper:0.21638888888888885
+InternalStreamConnection:0.20333333333333334
+X509Authenticator:0.19094444444444444
+NativeAuthenticator:0.17622222222222222
+CreateIndexesOperation:0.15666666666666668
+DropIndexOperation:0.14333333333333334
+DropCollectionOperation:0.14333333333333334
+Fixture:0.14
+MongoServerException:0.14
+ShutdownHook:0.10666666666666667
+MongoExceptions:0.1

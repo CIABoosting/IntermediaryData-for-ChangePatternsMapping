@@ -1,0 +1,17 @@
+HazelcastClientProxy:0.29
+ClientListenerServiceImpl:0.27666666666666667
+ClientInvocationServiceImpl:0.26666666666666666
+ClientCallFuture:0.24333333333333335
+HazelcastClient:0.24333333333333335
+ProxyManager:0.24
+TransactionContextProxy:0.20892857142857144
+TransactionProxy:0.20333333333333334
+ClientClusterServiceImpl:0.19666666666666666
+ClusterListenerThread:0.19
+ClientHelper:0.17
+ClientTransactionManager:0.15
+ClientContext:0.11666666666666667
+ClientPartitionServiceImpl:0.11333333333333333
+ClientConnectionManagerImpl:0.11
+ClientOutOfMemoryHandler:0.10333333333333333
+LifecycleServiceImpl:0.07666666666666666

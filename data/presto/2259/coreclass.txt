@@ -1,0 +1,11 @@
+TypedHistogram:0.38666666666666666
+Histogram:0.32666666666666666
+MultiKeyValuePairs:0.24666666666666667
+MapTransformKeyFunction:0.23
+MapTransformValueFunction:0.23
+MapConcatFunction:0.2
+MultimapAggregationFunction:0.14
+HistogramStateSerializer:0.10333333333333333
+JsonToMapCast:0.043333333333333335
+EmptyMapConstructor:0.04
+MapToMapCast:0.03666666666666667

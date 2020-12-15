@@ -1,0 +1,15 @@
+Compared Result of  two versions
+Number of New Class: 9
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.test.integration.search.customscore.CustomScoreSearchTests: 
+new Added class 1 : org.elasticsearch.test.integration.search.functionscore.DecayFunctionScoreTests: 
+new Added class 2 : org.elasticsearch.index.query.QueryBuilders: 
+new Added class 3 : org.elasticsearch.test.integration.search.rescore.QueryRescorerTests: 
+new Added class 4 : org.elasticsearch.test.integration.search.functionscore.RandomScoreFunctionTests: 
+new Added class 5 : org.elasticsearch.test.integration.search.child.SimpleChildQuerySearchTests: 
+new Added class 6 : org.elasticsearch.test.unit.index.query.SimpleIndexQueryParserTests: 
+new Added class 7 : org.elasticsearch.test.integration.percolator.SimplePercolatorTests: 
+new Added class 8 : org.elasticsearch.test.integration.search.sort.SimpleSortTests: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

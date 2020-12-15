@@ -1,0 +1,50 @@
+Compared Result of  two versions
+Number of New Class: 28
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : net.bytebuddy.benchmark.AbstractBlackHoleTest: 
+new Added class 1 : net.bytebuddy.instrumentation.type.auxiliary.AuxiliaryType: 
+new Added class 2 : net.bytebuddy.agent.ByteBuddyAgent: 
+new Added class 3 : net.bytebuddy.agent.ByteBuddyAgentTest: 
+new Added class 4 : net.bytebuddy.dynamic.scaffold.inline.ClassFileLocator: 
+new Added class 5 : net.bytebuddy.dynamic.scaffold.inline.Compound: 
+new Added class 6 : net.bytebuddy.dynamic.scaffold.inline.FlatDynamicTypeBuilder: 
+new Added class 7 : net.bytebuddy.dynamic.scaffold.inline.FlatDynamicTypeBuilderTest: 
+new Added class 8 : net.bytebuddy.dynamic.scaffold.inline.FlatInstrumentedType: 
+new Added class 9 : net.bytebuddy.dynamic.scaffold.inline.FlatInstrumentedTypeTest: 
+new Added class 10 : net.bytebuddy.instrumentation.Instrumentation: 
+new Added class 11 : net.bytebuddy.instrumentation.SpecialMethodInvocation: 
+new Added class 12 : net.bytebuddy.instrumentation.Simple: 
+new Added class 13 : net.bytebuddy.instrumentation.Target: 
+new Added class 14 : net.bytebuddy.instrumentation.Factory: 
+new Added class 15 : net.bytebuddy.instrumentation.AbstractBase: 
+new Added class 16 : net.bytebuddy.instrumentation.Context: 
+new Added class 17 : net.bytebuddy.instrumentation.Compound: 
+new Added class 18 : net.bytebuddy.dynamic.scaffold.inline.MethodFlatteningResolver: 
+new Added class 19 : net.bytebuddy.dynamic.scaffold.inline.MethodNameTransformer: 
+new Added class 20 : net.bytebuddy.dynamic.scaffold.inline.Resolution: 
+new Added class 21 : net.bytebuddy.NamingStrategy: 
+new Added class 22 : net.bytebuddy.utility.RandomString: 
+new Added class 23 : net.bytebuddy.dynamic.scaffold.inline.RebaseInstrumentationTarget: 
+new Added class 24 : net.bytebuddy.utility.ToolsJarRule: 
+new Added class 25 : net.bytebuddy.dynamic.scaffold.TypeExtensionDelegate: 
+new Added class 26 : net.bytebuddy.dynamic.scaffold.TypeWriter: 
+new Added class 27 : net.bytebuddy.dynamic.scaffold.MethodPool: 
+testing relationship 
+class 2  vs  class 10£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:3  r6:0  r7:0  r8:6  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:7  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 6  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 8  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 12  vs  class 11£º  r0:0  r1:0  r2:1  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 18  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 25  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 25  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  4   3 :  2   4 :  0   5 :  10   6 :  0   7 :  0   8 :  22   9 :  0   10 :  0   11 :  4   12 :  0   13 :  4   14 :  9   15 :  0   16 :  2   17 :  0   

@@ -1,0 +1,13 @@
+ClusterServiceImpl:0.69
+TcpIpJoiner:0.25
+JoinCheckOperation:0.24833333333333332
+AbstractJoiner:0.22166666666666668
+SplitBrainHandler:0.22
+LiteMemberJoinTest:0.20333333333333334
+MulticastJoiner:0.19666666666666666
+MockJoiner:0.18666666666666668
+MasterDiscoveryOperation:0.17
+JoinRequestOperation:0.17
+HeartbeatOperation:0.13333333333333333
+SetMasterOperation:0.13333333333333333
+MasterConfirmationOperation:0.12

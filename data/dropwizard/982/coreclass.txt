@@ -1,0 +1,10 @@
+AppenderFactory:0.5383333333333333
+AbstractAppenderFactory:0.45
+NullFilterFactory:0.35481349206349205
+AsyncAccessEventAppenderFactory:0.35481349206349205
+SyslogAppenderFactory:0.17666666666666667
+FilterFactory:0.14466666666666667
+AsyncAppenderFactory:0.08159523809523808
+ThresholdFilterFactory:0.043333333333333335
+LogbackAccessRequestLogFactory:0.03666666666666667
+AsyncLoggingEventAppenderFactory:0.0

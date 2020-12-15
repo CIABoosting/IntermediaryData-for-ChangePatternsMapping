@@ -1,0 +1,15 @@
+Compared Result of  two versions
+Number of New Class: 9
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.hazelcast.multimap.ComplexValue: 
+new Added class 1 : com.hazelcast.map.impl.tx.MapTransactionStressTest: 
+new Added class 2 : com.hazelcast.multimap.MultiMapListenerTest: 
+new Added class 3 : com.hazelcast.multimap.MultiMapLockTest: 
+new Added class 4 : com.hazelcast.multimap.MultiMapReturnedCollectionTest: 
+new Added class 5 : com.hazelcast.multimap.MultiMapTest: 
+new Added class 6 : com.hazelcast.multimap.MultiMapTransactionStressTest: 
+new Added class 7 : com.hazelcast.multimap.standalone.SimpleMultiMapTest: 
+new Added class 8 : com.hazelcast.multimap.TxnMultiMapTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

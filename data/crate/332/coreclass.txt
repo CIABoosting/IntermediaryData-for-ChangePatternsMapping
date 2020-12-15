@@ -1,0 +1,15 @@
+QueriedRelation:0.29
+SimplePortal:0.26666666666666666
+BatchPortal:0.2633333333333333
+BulkPortal:0.23666666666666666
+Session:0.22333333333333333
+RelationAnalyzer:0.2
+Portal:0.19031746031746033
+SubselectRewriterTest:0.18333333333333332
+ExplainAnalyzedStatement:0.17333333333333334
+AnalyzerDispatcher:0.17
+AnalyzedDeleteStatement:0.15944444444444442
+AnalyzedUpdateStatement:0.15944444444444442
+InsertFromSubQueryAnalyzer:0.12666666666666668
+ShowCreateTableAnalyzedStatement:0.11166666666666666
+AnalyzedStatement:0.10333333333333333

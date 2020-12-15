@@ -1,0 +1,23 @@
+Compared Result of  two versions
+Number of New Class: 15
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.vqwiki.lex.BackLinkLex: 
+new Added class 1 : org.vqwiki.lex.EchoLex: 
+new Added class 2 : org.vqwiki.lex.alt.ExFormatLex: 
+new Added class 3 : org.vqwiki.lex.alt.ExFormatLexConvert: 
+new Added class 4 : org.vqwiki.lex.alt.ExLayoutLex: 
+new Added class 5 : org.vqwiki.lex.alt.ExLayoutLexConvert: 
+new Added class 6 : org.vqwiki.lex.FormatLex: 
+new Added class 7 : org.vqwiki.lex.alt.FritzLex: 
+new Added class 8 : org.vqwiki.lex.HTMLLinkLex: 
+new Added class 9 : org.vqwiki.lex.JavaLex: 
+new Added class 10 : org.vqwiki.lex.LayoutLex: 
+new Added class 11 : org.vqwiki.lex.LinkLex: 
+new Added class 12 : org.vqwiki.TestDatabaseHandler: 
+new Added class 13 : org.vqwiki.TestDiff: 
+new Added class 14 : org.vqwiki.lex.TestLexer: 
+testing relationship 
+class 2  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:16  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:24  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  40   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,16 @@
+Injector:0.71
+InjectorImpl:0.35333333333333333
+InjectorTest:0.17
+ServletTest:0.16
+ConstantConversionTest:0.15666666666666668
+GuiceObjectFactory:0.14
+BoundProviderTest:0.12666666666666668
+ClientServiceWithGuice:0.12333333333333334
+NotRequiredTest:0.11
+BoundInstanceInjectionTest:0.09333333333333334
+CircularDependencyTest:0.09
+ProviderInjectionTest:0.09
+GenericInjectionTest:0.08666666666666667
+ImplicitBindingTest:0.08666666666666667
+BindingAnnotationTest:0.08666666666666667
+IntegrationTest:0.08333333333333333

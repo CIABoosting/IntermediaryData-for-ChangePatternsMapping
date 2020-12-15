@@ -1,0 +1,13 @@
+Request:0.6533333333333333
+AsyncHttpProviderUtils:0.45666666666666667
+NettyAsyncHttpProvider:0.36666666666666664
+ApacheAsyncHttpProvider:0.20333333333333334
+GrizzlyAsyncHttpProvider:0.20333333333333334
+ReaperFuture:0.185
+RequestBuilderBase:0.18
+JDKAsyncHttpProvider:0.17666666666666667
+ApacheClientRunnable:0.16666666666666666
+RequestImpl:0.16
+AsyncHttpUrlConnection:0.15666666666666668
+PerRequestTimeoutTest:0.15666666666666668
+NettyRequestThrottleTimeoutTest:0.10333333333333333

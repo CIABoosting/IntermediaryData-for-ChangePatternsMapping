@@ -1,0 +1,15 @@
+FixedSplitSource:0.5833333333333334
+BaseJdbcClient:0.25333333333333335
+TestSourcePartitionedScheduler:0.17
+LocalFileSplitManager:0.15666666666666668
+CassandraSplitManager:0.15333333333333332
+MongoSplitManager:0.10666666666666667
+KafkaSplitManager:0.10666666666666667
+SystemSplitManager:0.09666666666666666
+JmxSplitManager:0.08666666666666667
+TpchSplitManager:0.08666666666666667
+RedisSplitManager:0.08666666666666667
+AtopSplitManager:0.08666666666666667
+ExampleSplitManager:0.08666666666666667
+LocalFileModule:0.08666666666666667
+BlackHoleSplitManager:0.08

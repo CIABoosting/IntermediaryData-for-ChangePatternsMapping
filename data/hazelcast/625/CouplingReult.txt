@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.hazelcast.spi.impl.AbstractCompletableFutureTest: 
+new Added class 1 : com.hazelcast.cache.stats.CacheStatsTest: 
+new Added class 2 : com.hazelcast.executor.CompletableFutureTest: 
+new Added class 3 : com.hazelcast.durableexecutor.DurableSingleNodeTest: 
+new Added class 4 : com.hazelcast.test.starter.HazelcastProxyFactory: 
+new Added class 5 : com.hazelcast.xa.HazelcastXACompatibilityTest: 
+new Added class 6 : com.hazelcast.internal.partition.impl.InternalMigrationListenerTest: 
+new Added class 7 : com.hazelcast.map.MapListenerTest: 
+new Added class 8 : com.hazelcast.mapreduce.MapReduceTest: 
+new Added class 9 : com.hazelcast.internal.partition.impl.MigrationCommitServiceTest: 
+new Added class 10 : com.hazelcast.internal.serialization.impl.PortablePositionFactoryTest: 
+new Added class 11 : com.hazelcast.map.QueryBounceTest: 
+new Added class 12 : com.hazelcast.replicatedmap.ReplicatedMapTest: 
+new Added class 13 : com.hazelcast.nio.serialization.SerializationTest: 
+new Added class 14 : com.hazelcast.executor.SingleNodeTest: 
+new Added class 15 : com.hazelcast.query.SqlPredicateTest: 
+new Added class 16 : com.hazelcast.nio.serialization.StringSerializationTest: 
+testing relationship 
+class 0  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  1   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

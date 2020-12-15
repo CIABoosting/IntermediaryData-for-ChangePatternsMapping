@@ -1,0 +1,12 @@
+MigrationTestCase:0.51
+MavenLargeTest:0.36333333333333334
+Main:0.29333333333333333
+ClassPathScanner:0.27
+CommandLineLargeTest:0.22333333333333333
+FlywayMediumTest:0.20333333333333334
+SqlMigrationResolverSmallTest:0.19666666666666666
+ClassPathScannerSmallTest:0.19333333333333333
+CompositeMigrationResolverSmallTest:0.14
+FileSystemScanner:0.07
+StatusTask:0.03
+HistoryTask:0.02

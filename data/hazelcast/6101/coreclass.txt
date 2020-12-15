@@ -1,0 +1,13 @@
+MapStoreWithCounter:0.6333333333333333
+WriteBehindMapStoreWithEvictionsTest:0.3466666666666667
+WriteBehindWithEntryProcessorTest:0.30333333333333334
+WriteBehindFailAndRetryTest:0.27666666666666667
+WriteBehindQueueTest:0.27
+WriteBehindQueues:0.17666666666666667
+WriteBehindFlushTest:0.14
+WriteBehindOnBackupsTest:0.10666666666666667
+WriteBehindStoreAllUpdatesTest:0.09666666666666666
+WriteBehindItemCounterTest:0.09333333333333334
+WriteBehindWriteDelaySecondsTest:0.08333333333333333
+WriteBehindMapStoreWithLoadAllTest:0.05333333333333334
+WriteBehindWriteBatchingTest:0.023333333333333334

@@ -1,0 +1,10 @@
+ClientEndpoint:0.4
+TransactionProxy:0.33
+CreateTransactionRequest:0.22
+QueuePortableHook:0.165
+TxnOfferRequest:0.16
+Router:0.15
+ClientQueuePerformanceTest:0.12666666666666668
+TransactionContextProxy:0.09666666666666666
+ClientTxnPortableHook:0.06277777777777778
+ClientTxnTest:0.016666666666666666

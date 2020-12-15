@@ -1,0 +1,12 @@
+BoundTransportAddress:0.53
+NettyTransport:0.35
+NettyHttpServerTransport:0.25666666666666665
+LocalTransport:0.21333333333333335
+LocalTransportChannel:0.19305555555555554
+TransportInfo:0.17
+HttpInfo:0.16166666666666665
+NettyHttpServerPipeliningTests:0.15333333333333332
+NettyPipeliningDisabledIT:0.13666666666666666
+NettyPipeliningEnabledIT:0.13666666666666666
+NettyTransportMultiPortIntegrationIT:0.13666666666666666
+NettySizeHeaderFrameDecoderTests:0.10666666666666667

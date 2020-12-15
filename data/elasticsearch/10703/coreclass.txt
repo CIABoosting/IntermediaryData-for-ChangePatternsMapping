@@ -1,0 +1,16 @@
+BulkIndexByScrollResponse:0.5066666666666667
+AbstractBulkByScrollRequest:0.2833333333333333
+AbstractAsyncBulkIndexByScrollActionTestCase:0.28
+ReindexScriptTests:0.2633333333333333
+AbstractAsyncBulkByScrollAction:0.25333333333333335
+AbstractAsyncBulkIndexByScrollAction:0.24666666666666667
+ReindexResponse:0.24
+RoundTripTests:0.16666666666666666
+TransportUpdateByQueryAction:0.08666666666666667
+TransportReindexAction:0.08
+ReindexBasicTests:0.07
+ReindexMetadataTests:0.04
+ReindexParentChildTests:0.02
+UpdateByQueryMetadataTests:0.012777777777777779
+UpdateByQueryWithScriptTests:0.0016666666666666668
+AbstractBaseReindexRestHandler:0.0011111111111111111

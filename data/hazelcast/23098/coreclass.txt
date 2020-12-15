@@ -1,0 +1,12 @@
+NodeEngine:0.54
+PartitionService:0.5333333333333333
+Node:0.2916666666666667
+NodeEngineImpl:0.2733333333333333
+DynamicClusterTest:0.26666666666666666
+MigrationRequestOperation:0.22333333333333333
+InvocationImpl:0.21333333333333335
+PartitionServiceImpl:0.19333333333333333
+FinalizeJoinOperation:0.16666666666666666
+PartitionClientProxy:0.13
+PartitionServiceProxy:0.12166666666666667
+LoggingServiceImpl:0.12166666666666667

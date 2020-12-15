@@ -1,0 +1,10 @@
+Engine:0.67
+Searcher:0.6
+IndexThrottle:0.4666666666666667
+DocSearcher:0.29
+ChildrenQueryTests:0.23666666666666666
+DocEngineSearcher:0.22
+ParentConstantScoreQueryTests:0.16444444444444445
+ParentQueryTests:0.15333333333333332
+NoOpLock:0.14833333333333334
+ChildrenConstantScoreQueryTests:0.13444444444444445

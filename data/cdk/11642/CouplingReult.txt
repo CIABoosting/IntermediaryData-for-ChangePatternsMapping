@@ -1,0 +1,36 @@
+Compared Result of  two versions
+Number of New Class: 30
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.qsar.descriptors.atomic.AtomDegreeDescriptor: 
+new Added class 1 : org.openscience.cdk.qsar.descriptors.atomic.AtomHybridizationDescriptor: 
+new Added class 2 : org.openscience.cdk.qsar.descriptors.atomic.AtomHybridizationVSEPRDescriptor: 
+new Added class 3 : org.openscience.cdk.qsar.descriptors.atomic.AtomValenceDescriptor: 
+new Added class 4 : org.openscience.cdk.qsar.descriptors.atomic.BondsToAtomDescriptor: 
+new Added class 5 : org.openscience.cdk.qsar.descriptors.atomic.CovalentRadiusDescriptor: 
+new Added class 6 : org.openscience.cdk.qsar.descriptors.atomic.DistanceToAtomDescriptor: 
+new Added class 7 : org.openscience.cdk.qsar.descriptors.atomic.EffectiveAtomPolarizabilityDescriptor: 
+new Added class 8 : org.openscience.cdk.qsar.descriptors.atomic.InductiveAtomicHardnessDescriptor: 
+new Added class 9 : org.openscience.cdk.qsar.descriptors.atomic.InductiveAtomicSoftnessDescriptor: 
+new Added class 10 : org.openscience.cdk.qsar.descriptors.atomic.IPAtomicHOSEDescriptor: 
+new Added class 11 : org.openscience.cdk.qsar.descriptors.atomic.IPAtomicLearningDescriptor: 
+new Added class 12 : org.openscience.cdk.qsar.descriptors.atomic.IsProtonInAromaticSystemDescriptor: 
+new Added class 13 : org.openscience.cdk.qsar.descriptors.atomic.IsProtonInConjugatedPiSystemDescriptor: 
+new Added class 14 : org.openscience.cdk.qsar.descriptors.atomic.PartialPiChargeDescriptor: 
+new Added class 15 : org.openscience.cdk.qsar.descriptors.atomic.PartialSigmaChargeDescriptor: 
+new Added class 16 : org.openscience.cdk.qsar.descriptors.atomic.PartialTChargeMMFF94Descriptor: 
+new Added class 17 : org.openscience.cdk.qsar.descriptors.atomic.PartialTChargePEOEDescriptor: 
+new Added class 18 : org.openscience.cdk.qsar.descriptors.atomic.PeriodicTablePositionDescriptor: 
+new Added class 19 : org.openscience.cdk.qsar.descriptors.atomic.PiElectronegativityDescriptor: 
+new Added class 20 : org.openscience.cdk.qsar.descriptors.atomic.ProtonAffinityHOSEDescriptor: 
+new Added class 21 : org.openscience.cdk.qsar.descriptors.atomic.ProtonTotalPartialChargeDescriptor: 
+new Added class 22 : org.openscience.cdk.qsar.descriptors.atomic.RDFProtonDescriptor_G3R: 
+new Added class 23 : org.openscience.cdk.qsar.descriptors.atomic.RDFProtonDescriptor_GDR: 
+new Added class 24 : org.openscience.cdk.qsar.descriptors.atomic.RDFProtonDescriptor_GHR: 
+new Added class 25 : org.openscience.cdk.qsar.descriptors.atomic.RDFProtonDescriptor_GHR_topol: 
+new Added class 26 : org.openscience.cdk.qsar.descriptors.atomic.RDFProtonDescriptor_GSR: 
+new Added class 27 : org.openscience.cdk.qsar.descriptors.atomic.SigmaElectronegativityDescriptor: 
+new Added class 28 : org.openscience.cdk.qsar.descriptors.atomic.StabilizationPlusChargeDescriptor: 
+new Added class 29 : org.openscience.cdk.qsar.descriptors.atomic.VdWRadiusDescriptor: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

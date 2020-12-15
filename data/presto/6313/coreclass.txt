@@ -1,0 +1,13 @@
+ColumnMetadata:0.45
+AbstractTestQueries:0.4266666666666667
+HiveColumnHandle:0.30333333333333334
+TestHiveIntegrationSmokeTest:0.2866666666666667
+ConnectorTableLayout:0.27666666666666667
+AbstractTestHiveClient:0.24666666666666667
+CassandraColumnHandle:0.20666666666666667
+HiveMetadata:0.19
+HiveTableLayoutHandle:0.18
+StatementAnalyzer:0.16333333333333333
+HivePartitionManager:0.07333333333333333
+HivePartitionResult:0.06
+Optimizer:0.05

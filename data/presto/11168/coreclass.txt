@@ -1,0 +1,12 @@
+LocalQueryRunner:0.45
+BenchmarkSuite:0.3333333333333333
+NewHashJoinBenchmark:0.3123174603174604
+NewHandTpchQuery1:0.3123174603174604
+NewHashBuildBenchmark:0.3123174603174604
+NewHashBuildAndJoinBenchmark:0.242
+NewHandTpchQuery6:0.21666666666666667
+NewInMemoryOrderByBenchmark:0.17333333333333334
+NewRawStreamingBenchmark:0.16
+NewPredicateFilterBenchmark:0.15
+NewTop100Benchmark:0.15
+AbstractSqlBenchmark:0.02666666666666667

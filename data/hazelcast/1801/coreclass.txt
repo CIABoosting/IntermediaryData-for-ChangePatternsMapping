@@ -1,0 +1,16 @@
+ClientMapProxy:0.49666666666666665
+QueryCacheEndToEndProvider:0.39
+RegisterMapListenerFunction:0.3534941077441077
+KeyToData:0.3534941077441077
+MapProxyImpl:0.3466666666666667
+SubscriberAccumulator:0.31866666666666665
+ClientConfig:0.31666666666666665
+MapProxySupport:0.29
+ClientMapEventHandler:0.24666666666666667
+DestroyQueryCacheOperation:0.24333333333333335
+NodeQueryCacheContext:0.22666666666666666
+DefaultQueryCache:0.175
+ClientMapPartitionLostEventHandler:0.17
+DefaultAccumulatorInfoSupplier:0.16
+ClientQueryCacheMemoryLeakTest:0.09333333333333334
+QueryCacheMemoryLeakTest:0.06527777777777777

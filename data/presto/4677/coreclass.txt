@@ -1,0 +1,13 @@
+ColumnStatistics:0.5
+MetadataReader:0.49333333333333335
+HiveClientConfig:0.2966666666666667
+TestTupleDomainOrcPredicate:0.26
+DwrfMetadataReader:0.23
+HiveSessionProperties:0.22333333333333333
+OrcStorageManager:0.19
+OrcMetadataReader:0.17333333333333334
+StripeReader:0.16666666666666666
+TupleDomainOrcPredicate:0.15666666666666668
+TestHiveClientConfig:0.09666666666666666
+DwrfPageSourceFactory:0.07666666666666666
+OrcPageSourceFactory:0.07333333333333333

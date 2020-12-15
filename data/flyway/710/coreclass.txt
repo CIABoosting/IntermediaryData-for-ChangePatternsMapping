@@ -1,0 +1,11 @@
+MigrationTestCase:0.41333333333333333
+MySQLMigrationTestCase:0.24666666666666667
+ClassPathScannerSmallTest:0.22333333333333333
+DbSupportFactory:0.22
+RedshiftMigrationMediumTest:0.19666666666666666
+SQLiteMigrationMediumTest:0.19666666666666666
+VerticaMigrationMediumTest:0.19666666666666666
+SqlMigrationResolverSmallTest:0.19666666666666666
+PostgreSQLMigrationMediumTest:0.18333333333333332
+MySQLMigrationMediumTest:0.11333333333333333
+SybaseASE:0.09

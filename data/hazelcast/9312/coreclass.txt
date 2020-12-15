@@ -1,0 +1,15 @@
+ClientListenerService:0.41
+ReplicatedMapService:0.3433333333333333
+ReplicationPublisher:0.34
+HazelcastClientInstanceImpl:0.27666666666666667
+ClientReplicatedMapProxy:0.2733333333333333
+ClientMessageTemplate:0.25666666666666665
+ClientInvocation:0.23333333333333334
+ClientListenerServiceImpl:0.2
+ProxyManager:0.19
+ClientProxy:0.19
+CreateProxyMessageTask:0.17
+ClientCreateRequest:0.15
+ReplicationListener:0.14
+ClientExceptionFactory:0.07666666666666666
+ClientProtocolErrorCodes:0.04816666666666666

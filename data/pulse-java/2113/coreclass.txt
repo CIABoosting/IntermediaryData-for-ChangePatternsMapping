@@ -1,0 +1,8 @@
+UpdateStatisticsDatabaseTask:0.53
+UpdateStatisticsDatabaseTaskConfiguration:0.39
+OperatingSystemPerVisitAggregator:0.22333333333333333
+UserAgentPerVisitAggregator:0.22333333333333333
+DataAggregationJoblet:0.14938888888888888
+AbstractRegexVersionedPerVisitAggregator:0.14333333333333334
+AbstractRegexVersionedByOtherARVsComparator:0.12666666666666668
+AbstractBaseAggregator:0.04

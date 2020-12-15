@@ -1,0 +1,10 @@
+AmazonCloudWatch:0.4827777777777778
+AbstractAmazonCloudWatch:0.4
+MetricDatum:0.3933333333333333
+AmazonCloudWatchAsync:0.38145634920634913
+AbstractAmazonCloudWatchAsync:0.3233333333333333
+AmazonCloudWatchClient:0.2633333333333333
+StaxResponseHandler:0.23833333333333334
+AmazonCloudWatchAsyncClient:0.20333333333333334
+PutMetricDataRequestMarshaller:0.15111111111111108
+MetricDatumStaxUnmarshaller:0.13777777777777775

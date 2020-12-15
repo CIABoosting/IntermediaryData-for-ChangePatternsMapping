@@ -1,0 +1,13 @@
+ElasticsearchIntegrationTest:0.33
+MergeSchedulerProvider:0.3233333333333333
+ConcurrentMergeSchedulerProvider:0.30666666666666664
+InternalEngineTests:0.27
+SerialMergeSchedulerProvider:0.26
+LongFieldDataBenchmark:0.24666666666666667
+MergeSchedulerModule:0.23048989898989902
+LongFieldDataTests:0.21333333333333335
+InternalEngine:0.21
+CompletionPostingsFormatTest:0.19666666666666666
+VersionsTests:0.19666666666666666
+FilterFieldDataTest:0.15333333333333332
+DefaultPostingsFormatTests:0.11333333333333333

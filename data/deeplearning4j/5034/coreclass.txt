@@ -1,0 +1,7 @@
+RnnToCnnPreProcessor:0.3433333333333333
+RnnToFeedForwardPreProcessor:0.31333333333333335
+FeedForwardToRnnPreProcessor:0.31333333333333335
+CnnToFeedForwardPreProcessor:0.30333333333333334
+CnnToRnnPreProcessor:0.28
+TestPreProcessors:0.20333333333333334
+GradientCheckTestsComputationGraph:0.19

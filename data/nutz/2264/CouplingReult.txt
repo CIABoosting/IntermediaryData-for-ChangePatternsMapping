@@ -1,0 +1,22 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.nutz.ioc.loader.annotation.AnnotationIocLoader: 
+new Added class 1 : org.nutz.lang.born.BorningException: 
+new Added class 2 : org.nutz.lang.born.ConstructorBorning: 
+new Added class 3 : org.nutz.aop.DefaultClassDefiner: 
+new Added class 4 : org.nutz.ioc.aop.impl.DefaultMirrorFactory: 
+new Added class 5 : org.nutz.lang.born.DynamicConstructorBorning: 
+new Added class 6 : org.nutz.lang.reflect.FastClassFactory: 
+new Added class 7 : org.nutz.lang.reflect.Util: 
+new Added class 8 : org.nutz.lang.reflect.ConstructorComparator: 
+new Added class 9 : org.nutz.lang.reflect.MethodComparator: 
+new Added class 10 : org.nutz.dao.impl.ext.LazyAnnotationEntityMaker: 
+new Added class 11 : org.nutz.mvc.impl.processor.MethodInvokeProcessor: 
+new Added class 12 : org.nutz.mvc.Mvcs: 
+new Added class 13 : org.nutz.dao.impl.sql.run.NutDaoExecutor: 
+new Added class 14 : org.nutz.lang.util.NutMap: 
+new Added class 15 : org.nutz.ioc.impl.ObjectMakerImpl: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

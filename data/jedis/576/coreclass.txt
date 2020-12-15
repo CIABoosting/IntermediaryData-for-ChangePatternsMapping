@@ -1,0 +1,6 @@
+JedisCluster:0.75
+JedisClusterTest:0.34
+JedisClusterInfoCache:0.2823809523809524
+JedisClusterConnectionHandler:0.19
+JedisRandomConnectionHandler:0.16333333333333333
+JedisSlotBasedConnectionHandler:0.07666666666666666

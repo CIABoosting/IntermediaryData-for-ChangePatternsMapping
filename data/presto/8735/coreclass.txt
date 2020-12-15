@@ -1,0 +1,11 @@
+ParquetHiveRecordCursor:0.26666666666666666
+HiveUtil:0.22333333333333333
+ParquetMapEntryJsonConverter:0.19666666666666666
+ParquetListJsonConverter:0.19444444444444442
+ParquetMapJsonConverter:0.19444444444444442
+ParquetJsonColumnConverter:0.18666666666666668
+ParquetStructJsonConverter:0.18666666666666668
+ParquetListEntryJsonConverter:0.18666666666666668
+ColumnarTextHiveRecordCursor:0.18
+PrestoReadSupport:0.16666666666666666
+LazyBinaryBlockLoader:0.15

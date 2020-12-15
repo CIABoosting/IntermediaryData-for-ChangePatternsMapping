@@ -1,0 +1,11 @@
+RedisConnection:0.6633333333333333
+RedisAsyncConnection:0.44666666666666666
+BaseLoadBalancer:0.26666666666666666
+RedissonMap:0.25333333333333335
+RMap:0.24333333333333335
+RedissonMapTest:0.23333333333333334
+SingleConnectionManager:0.20333333333333334
+MasterSlaveConnectionManager:0.17
+LoadBalancer:0.1527777777777778
+RoundRobinLoadBalancer:0.0
+RandomLoadBalancer:0.0

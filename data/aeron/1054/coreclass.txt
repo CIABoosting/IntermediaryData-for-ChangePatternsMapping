@@ -1,0 +1,16 @@
+Aeron:0.4066666666666667
+ControlSession:0.39
+ClientConductor:0.32666666666666666
+ReplaySession:0.3233333333333333
+ControlResponsePoller:0.2866666666666667
+ControlRequestListener:0.22166666666666668
+ControlSessionDemuxer:0.21
+ArchiveConductor:0.21
+ReplaySessionTest:0.17333333333333334
+ArchiveProxy:0.16333333333333333
+CounterTest:0.15333333333333332
+ControlRequestAdapter:0.11333333333333333
+AeronArchive:0.11
+BasicArchiveTest:0.03666666666666667
+AvailableCounterHandler:0.006944444444444445
+UnavailableCounterHandler:0.006944444444444445

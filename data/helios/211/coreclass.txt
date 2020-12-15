@@ -1,0 +1,11 @@
+HeliosSoloDeployment:0.4766666666666667
+GracePeriodTest:0.24
+SupervisorTest:0.23666666666666666
+HeliosSoloDeploymentTest:0.22333333333333333
+TaskRunnerTest:0.21333333333333335
+SyslogRedirectingContainerDecorator:0.21
+HealthCheckTest:0.20666666666666667
+ExecHealthChecker:0.20333333333333334
+PollingDockerClient:0.14333333333333334
+ExecHealthCheckerTest:0.09333333333333334
+BindVolumeContainerDecorator:0.06333333333333334

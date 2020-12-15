@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.neotropic.inventory.modules.ipam.nodes.IPAMRootNode: 
+new Added class 1 : com.neotropic.inventory.modules.mpls.actions.RelateGenericNetworkElementToInterface: 
+new Added class 2 : com.neotropic.inventory.modules.ipam.nodes.actions.RelateIPToBDIInterfaceAction: 
+new Added class 3 : com.neotropic.inventory.modules.ipam.nodes.actions.RelateSubnetToVRFAction: 
+new Added class 4 : com.neotropic.inventory.modules.mpls.actions.RelateToInterfaceAction: 
+new Added class 5 : com.neotropic.inventory.modules.ipam.nodes.actions.RelateToIPAddressAction: 
+new Added class 6 : com.neotropic.inventory.modules.ipam.nodes.actions.RelateToVlanAction: 
+new Added class 7 : com.neotropic.inventory.modules.ipam.nodes.actions.ReleaseFromBDIInterfaceAction: 
+new Added class 8 : com.neotropic.inventory.modules.mpls.actions.ReleaseFromInterface: 
+new Added class 9 : com.neotropic.inventory.modules.ipam.nodes.actions.ReleaseFromIPAddresAction: 
+new Added class 10 : com.neotropic.inventory.modules.ipam.nodes.actions.ReleaseFromVlanAction: 
+new Added class 11 : com.neotropic.inventory.modules.mpls.actions.ReleaseGenericPortFromInterfaceAction: 
+new Added class 12 : com.neotropic.inventory.modules.ipam.nodes.actions.ReleaseSubnetFromVRFAction: 
+new Added class 13 : com.neotropic.inventory.modules.ipam.nodes.SubnetNode: 
+new Added class 14 : com.neotropic.inventory.modules.ipam.nodes.SubnetPoolChildren: 
+new Added class 15 : com.neotropic.inventory.modules.ipam.nodes.SubnetPoolNode: 
+new Added class 16 : com.neotropic.inventory.modules.ipam.windows.VlansFrame: 
+new Added class 17 : com.neotropic.inventory.modules.ipam.windows.VRFsFrame: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

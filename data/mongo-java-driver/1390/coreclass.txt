@@ -1,0 +1,15 @@
+MongoCollectionImpl:0.44
+BulkWriteResult:0.37
+DeleteOperation:0.2841666666666667
+UpdateResult:0.23666666666666666
+WriteError:0.22666666666666666
+BulkWriteBatchCombiner:0.21666666666666667
+AcknowledgedUpdateResult:0.21
+DeleteResult:0.205
+BaseWriteOperation:0.17
+AcknowledgedDeleteResult:0.14333333333333334
+BulkWriteHelper:0.13
+ReplaceAcceptanceTest:0.11666666666666667
+MongoWriteException:0.09333333333333334
+UnacknowledgedUpdateResult:0.06333333333333334
+UnacknowledgedDeleteResult:0.02666666666666667

@@ -1,0 +1,8 @@
+BenchmarkPageProcessor:0.3566666666666667
+FilterAndProjectOperator:0.3433333333333333
+Tpch1FilterAndProject:0.26666666666666666
+PageProcessorCompiler:0.24
+ScanFilterAndProjectOperator:0.23666666666666666
+PageProcessor:0.0982063492063492
+TpchQuery6Processor:0.054444444444444455
+GenericPageProcessor:0.04777777777777778

@@ -1,0 +1,10 @@
+HiveType:0.4266666666666667
+SerDeUtils:0.2833333333333333
+TestColumn:0.2833333333333333
+HiveClient:0.28
+AbstractTestHiveClient:0.27666666666666667
+ColumnarBinaryHiveRecordCursor:0.27
+ColumnarTextHiveRecordCursor:0.25666666666666665
+GenericHiveRecordCursor:0.23333333333333334
+AbstractTestHiveFileFormats:0.16666666666666666
+TestHiveFileFormats:0.1

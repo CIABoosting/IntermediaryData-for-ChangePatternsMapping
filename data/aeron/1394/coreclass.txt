@@ -1,0 +1,14 @@
+Configuration:0.4866666666666667
+NetworkPublication:0.36666666666666664
+ExclusivePublication:0.3433333333333333
+Aeron:0.34
+LogBufferDescriptor:0.32666666666666666
+Publication:0.31
+Context:0.24666666666666667
+PublicationTest:0.21333333333333335
+IpcPublication:0.21
+ClientConductorTest:0.19666666666666666
+DriverConductor:0.1911111111111111
+DriverConductorTest:0.19
+ClientConductor:0.18333333333333332
+PubAndSubTest:0.16666666666666666

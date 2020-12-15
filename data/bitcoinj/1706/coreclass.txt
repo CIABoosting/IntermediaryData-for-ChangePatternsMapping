@@ -1,0 +1,16 @@
+Wallet:0.66
+InsufficientMoneyException:0.43666666666666665
+WalletTest:0.3
+PaymentChannelClient:0.29333333333333333
+PaymentChannelClientState:0.2733333333333333
+StoredPaymentChannelServerStates:0.2544444444444445
+PaymentChannelServer:0.22333333333333333
+BlockChainTest:0.22
+WalletTool:0.20666666666666667
+PaymentChannelServerState:0.19666666666666666
+ChannelConnectionTest:0.17666666666666667
+PaymentChannelClientConnection:0.17
+FeeCalculation:0.15333333333333332
+PaymentChannelStateTest:0.15
+ForwardingService:0.09333333333333334
+CouldNotAdjustDownwards:0.0033333333333333335

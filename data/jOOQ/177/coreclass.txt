@@ -1,0 +1,11 @@
+Tools:0.6083333333333333
+SelectQueryImpl:0.39
+ScalarSubquery:0.235
+AbstractContext:0.22666666666666666
+DerivedTable:0.20944444444444443
+Values:0.19666666666666666
+CommonTableExpressionImpl:0.19666666666666666
+QuantifiedSelectImpl:0.19
+IsDistinctFrom:0.14333333333333334
+ExistsCondition:0.13666666666666666
+Native:0.12

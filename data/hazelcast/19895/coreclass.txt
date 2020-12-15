@@ -1,0 +1,16 @@
+RequestPartitionResult:0.38
+DefaultContext:0.3177777777777778
+JobProcessInformationImpl:0.22666666666666666
+MapReduceTest:0.22
+RequestPartitionMapping:0.20333333333333334
+MapCombineTask:0.19666666666666666
+KeyValueJob:0.18444444444444444
+RequestPartitionReducing:0.18
+RequestPartitionProcessed:0.17333333333333334
+JobSupervisor:0.17333333333333334
+ReducerTask:0.16666666666666666
+MapReduceDataSerializerHook:0.16333333333333333
+AbstractJobTracker:0.16
+CollectingCombinerFactory:0.14833333333333334
+PartitionProcessor:0.11666666666666667
+MapReduceUtil:0.08666666666666667

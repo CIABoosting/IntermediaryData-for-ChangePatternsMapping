@@ -1,0 +1,12 @@
+DrivingQueryItemReader:0.5333333333333333
+FooItemReader:0.38666666666666666
+DrivingQueryItemReaderTests:0.19333333333333333
+CommonItemReaderTests:0.17
+HibernateCursorItemReaderCommonTests:0.043333333333333335
+StaxEventItemReaderCommonTests:0.03666666666666667
+MultiResourceItemReaderFlatFileTests:0.03666666666666667
+FlatFileItemReaderCommonTests:0.03666666666666667
+MultiResourceItemReaderXmlTests:0.03666666666666667
+SingleColumnJdbcDrivingQueryItemReaderCommonTests:0.03
+IbatisItemReaderCommonTests:0.02
+JdbcCursorItemReaderCommonTests:0.016666666666666666

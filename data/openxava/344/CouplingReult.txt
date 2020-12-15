@@ -1,0 +1,108 @@
+Compared Result of  two versions
+Number of New Class: 68
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openxava.test.model.xejb.AdditionalDetailBean: 
+new Added class 1 : org.openxava.test.model.Address: 
+new Added class 2 : org.openxava.test.model.xejb.CarrierBean: 
+new Added class 3 : org.openxava.test.model.xejb.ClerkBean: 
+new Added class 4 : org.openxava.test.model.xejb.CustomerBean: 
+new Added class 5 : org.openxava.test.tests.CustomersTest: 
+new Added class 6 : org.openxava.test.tests.CustomersWithSectionTest: 
+new Added class 7 : org.openxava.converters.DateUtilSQLConverter: 
+new Added class 8 : org.openxava.test.model.xejb.DeliveryBean: 
+new Added class 9 : org.openxava.test.model.xejb.DeliveryDetailBean: 
+new Added class 10 : org.openxava.test.model.xejb.DeliveryPlaceBean: 
+new Added class 11 : org.openxava.test.model.xejb.DeliveryTypeBean: 
+new Added class 12 : org.openxava.test.model.Detail: 
+new Added class 13 : org.openxava.test.model.xejb.DrivingLicenceBean: 
+new Added class 14 : org.openxava.test.model.xejb.Family2Bean: 
+new Added class 15 : org.openxava.test.model.xejb.FilterBySubfamilyBean: 
+new Added class 16 : org.openxava.test.model.IAdditionalDetail: 
+new Added class 17 : org.openxava.test.model.ICarrier: 
+new Added class 18 : org.openxava.test.model.IClerk: 
+new Added class 19 : org.openxava.test.model.ICustomer: 
+new Added class 20 : org.openxava.test.model.IDelivery: 
+new Added class 21 : org.openxava.test.model.IDeliveryDetail: 
+new Added class 22 : org.openxava.test.model.IDeliveryPlace: 
+new Added class 23 : org.openxava.test.model.IDeliveryType: 
+new Added class 24 : org.openxava.test.model.IDrivingLicence: 
+new Added class 25 : org.openxava.test.model.IFamily2: 
+new Added class 26 : org.openxava.test.model.IFilterBySubfamily: 
+new Added class 27 : org.openxava.test.model.IInvoice: 
+new Added class 28 : org.openxava.test.model.IInvoiceDetail: 
+new Added class 29 : org.openxava.test.model.xejb.InvoiceBean: 
+new Added class 30 : org.openxava.test.model.xejb.InvoiceDetailBean: 
+new Added class 31 : org.openxava.test.model.IOffice: 
+new Added class 32 : org.openxava.test.model.IOffice2: 
+new Added class 33 : org.openxava.test.model.IProduct: 
+new Added class 34 : org.openxava.test.model.IProduct2: 
+new Added class 35 : org.openxava.test.model.IProduct3: 
+new Added class 36 : org.openxava.test.model.IReceptionist: 
+new Added class 37 : org.openxava.test.model.ISeller: 
+new Added class 38 : org.openxava.test.model.ISellerLevel: 
+new Added class 39 : org.openxava.test.model.IService: 
+new Added class 40 : org.openxava.test.model.IServiceType: 
+new Added class 41 : org.openxava.test.model.IShipment: 
+new Added class 42 : org.openxava.test.model.IState: 
+new Added class 43 : org.openxava.test.model.ISubfamily: 
+new Added class 44 : org.openxava.test.model.ISubfamily2: 
+new Added class 45 : org.openxava.test.model.ITransportCharge: 
+new Added class 46 : org.openxava.test.model.IWarehouse: 
+new Added class 47 : org.openxava.tab.meta.MetaConsult: 
+new Added class 48 : org.openxava.model.meta.MetaModel: 
+new Added class 49 : org.openxava.tab.meta.MetaTab: 
+new Added class 50 : org.openxava.mapping.ModelMapping: 
+new Added class 51 : org.openxava.test.model.xejb.Office2Bean: 
+new Added class 52 : org.openxava.test.model.xejb.OfficeBean: 
+new Added class 53 : org.openxava.test.model.xejb.Product2Bean: 
+new Added class 54 : org.openxava.test.model.xejb.Product3Bean: 
+new Added class 55 : org.openxava.test.model.xejb.ProductBean: 
+new Added class 56 : org.openxava.test.model.xejb.ReceptionistBean: 
+new Added class 57 : org.openxava.test.model.xejb.SellerBean: 
+new Added class 58 : org.openxava.test.model.xejb.SellerLevelBean: 
+new Added class 59 : org.openxava.test.model.xejb.ServiceBean: 
+new Added class 60 : org.openxava.test.model.xejb.ServiceTypeBean: 
+new Added class 61 : org.openxava.test.model.xejb.ShipmentBean: 
+new Added class 62 : org.openxava.test.model.xejb.StateBean: 
+new Added class 63 : org.openxava.test.model.xejb.Subfamily2Bean: 
+new Added class 64 : org.openxava.test.model.xejb.SubfamilyBean: 
+new Added class 65 : org.openxava.test.model.SubfamilyInfo: 
+new Added class 66 : org.openxava.test.model.xejb.TransportChargeBean: 
+new Added class 67 : org.openxava.test.model.xejb.WarehouseBean: 
+testing relationship 
+class 0  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 49£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:5  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 49  vs  class 47£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:5  r14:1  r15:0  r16:1  r17:0  
+class 49  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:2  r17:0  
+class 49  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 54  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 55  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 58  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 59  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 62  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 63  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 64  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 66  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 67  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  1   4 :  0   5 :  31   6 :  0   7 :  0   8 :  89   9 :  0   10 :  5   11 :  6   12 :  0   13 :  5   14 :  2   15 :  0   16 :  3   17 :  0   

@@ -1,0 +1,47 @@
+Compared Result of  two versions
+Number of New Class: 23
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.renderer.visitor.AbstractAWTRenderingVisitor: 
+new Added class 1 : org.openscience.cdk.controller.AddBondModule: 
+new Added class 2 : org.openscience.cdk.controller.AddRingModule: 
+new Added class 3 : org.openscience.cdk.renderer.generators.AtomMassGenerator: 
+new Added class 4 : org.openscience.cdk.renderer.generators.BasicAtomGenerator: 
+new Added class 5 : org.openscience.cdk.renderer.generators.BasicBondGenerator: 
+new Added class 6 : org.openscience.cdk.renderer.generators.BasicGenerator: 
+new Added class 7 : org.openscience.cdk.renderer.color.CDK2DAtomColors: 
+new Added class 8 : org.openscience.cdk.controller.ChangeFormalChargeModule: 
+new Added class 9 : org.openscience.cdk.renderer.generators.ControllerFeedbackGenerator: 
+new Added class 10 : org.openscience.cdk.controller.ControllerHub: 
+new Added class 11 : org.openscience.cdk.controller.ControllerModel: 
+new Added class 12 : org.openscience.cdk.renderer.generators.HighlightGenerator: 
+new Added class 13 : org.openscience.cdk.controller.HighlightModule: 
+new Added class 14 : org.openscience.cdk.controller.IControllerModel: 
+new Added class 15 : org.openscience.cdk.renderer.IntermediateRenderer: 
+new Added class 16 : org.openscience.cdk.renderer.ISimpleRenderer2D: 
+new Added class 17 : org.openscience.cdk.renderer.Java2DRenderer: 
+new Added class 18 : org.openscience.cdk.controller.RemoveModule: 
+new Added class 19 : org.openscience.cdk.renderer.Renderer: 
+new Added class 20 : org.openscience.cdk.renderer.Renderer2DModel: 
+new Added class 21 : org.openscience.cdk.renderer.generators.RingGenerator: 
+new Added class 22 : org.openscience.cdk.renderer.visitor.TransformingDrawVisitor: 
+testing relationship 
+class 3  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 9  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 10  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 11  vs  class 14£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:6  r17:0  
+class 15  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:7  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 17  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:19  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 19  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 21  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  1   3 :  0   4 :  0   5 :  3   6 :  0   7 :  0   8 :  36   9 :  0   10 :  19   11 :  6   12 :  0   13 :  0   14 :  13   15 :  0   16 :  6   17 :  0   

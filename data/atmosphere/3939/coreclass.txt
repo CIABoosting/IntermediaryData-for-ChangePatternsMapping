@@ -1,0 +1,12 @@
+AsyncIOWriter:0.5533333333333333
+WebSocketResponseFilter:0.55
+AtmosphereResponse:0.48
+WebSocketAdapter:0.215
+NoOpsWebSocketResponseFilter:0.19666666666666666
+JettyWebSocket:0.16
+TomcatWebSocket:0.13
+NettyCometSupport:0.11333333333333333
+Jetty8WebSocket:0.10666666666666667
+GrizzlyWebSocket:0.09333333333333334
+SSEAtmosphereInterceptor:0.08666666666666667
+JSONPAtmosphereInterceptor:0.08666666666666667

@@ -1,0 +1,23 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.springsource.loaded.agent.CglibPluginCapturing: 
+new Added class 1 : org.springsource.loaded.ClassRenamer: 
+new Added class 2 : org.springsource.loaded.agent.ClassVisitingConstructorAppender: 
+new Added class 3 : org.springsource.loaded.ConstructorCopier: 
+new Added class 4 : org.springsource.loaded.DispatcherBuilder: 
+new Added class 5 : org.springsource.loaded.pluginhelpers.EmptyCtor: 
+new Added class 6 : org.springsource.loaded.test.infra.FakeMethodVisitor: 
+new Added class 7 : org.springsource.loaded.MethodCopier: 
+new Added class 8 : org.springsource.loaded.MethodInvokerRewriter: 
+new Added class 9 : org.springsource.loaded.test.infra.MethodPrinter: 
+new Added class 10 : org.springsource.loaded.agent.ModifyDefineInClassLoaderForClassArtifactsType: 
+new Added class 11 : org.springsource.loaded.test.ReloadingJVM: 
+new Added class 12 : remote.Serialize: 
+new Added class 13 : org.springsource.loaded.SystemClassReflectionInvestigator: 
+new Added class 14 : org.springsource.loaded.SystemClassReflectionRewriter: 
+new Added class 15 : org.springsource.loaded.SystemClassReflectionGenerator: 
+new Added class 16 : org.springsource.loaded.TypeRewriter: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

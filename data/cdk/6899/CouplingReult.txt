@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.applications.jchempaint.action.AboutAction: 
+new Added class 1 : org.openscience.cdk.applications.jchempaint.action.ChemAction: 
+new Added class 2 : org.openscience.cdk.applications.jchempaint.action.EditAtomContainerPropsAction: 
+new Added class 3 : org.openscience.cdk.applications.jchempaint.action.EditDictRefsAction: 
+new Added class 4 : org.openscience.cdk.applications.jchempaint.action.HelpAction: 
+new Added class 5 : org.openscience.cdk.applications.jchempaint.action.InsertSmilesAction: 
+new Added class 6 : org.openscience.cdk.applications.jchempaint.action.LicenseAction: 
+new Added class 7 : org.openscience.cdk.applications.jchempaint.action.ModelPropsAction: 
+new Added class 8 : org.openscience.cdk.applications.jchempaint.action.ModifyDisplaySettingsAction: 
+new Added class 9 : org.openscience.cdk.applications.jchempaint.action.NewAction: 
+new Added class 10 : org.openscience.cdk.applications.jchempaint.action.ShowChemObjectDumpAction: 
+new Added class 11 : org.openscience.cdk.applications.jchempaint.action.ShowDictionariesAction: 
+new Added class 12 : org.openscience.cdk.applications.jchempaint.action.ValidateAction: 
+new Added class 13 : org.openscience.cdk.applications.jchempaint.action.WebLinkAction: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

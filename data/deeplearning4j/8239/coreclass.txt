@@ -1,0 +1,15 @@
+Classifier:0.47833333333333333
+BaseMultiLayerNetwork:0.43
+Word2Vec:0.37
+NeuralNetworkOptimizer:0.36
+OutputLayer:0.34
+MultiLayerConfiguration:0.27
+SemanticHashing:0.2633333333333333
+MultipleEpochsIterator:0.24666666666666667
+Builder:0.23666666666666666
+Tsne:0.23333333333333334
+StackedDenoisingAutoEncoder:0.14
+Glove:0.13666666666666666
+DefaultStepFunction:0.13666666666666666
+DBN:0.12666666666666668
+StackedAutoEncoder:0.08

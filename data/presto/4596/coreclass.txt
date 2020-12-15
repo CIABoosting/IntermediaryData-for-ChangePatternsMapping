@@ -1,0 +1,11 @@
+LocalQueryRunner:0.35333333333333333
+InMemoryNodeManager:0.3
+DiscoveryNodeManager:0.29
+TestNodeScheduler:0.27666666666666667
+TestingPrestoServer:0.24666666666666667
+InternalNodeManager:0.24166666666666667
+PrestoServer:0.22666666666666666
+ConnectorAwareNodeManager:0.18666666666666668
+SplitSource:0.18666666666666668
+ConnectorAwareSplitSource:0.15666666666666668
+SampledSplitSource:0.15

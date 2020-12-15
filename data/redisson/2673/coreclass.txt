@@ -1,0 +1,16 @@
+CommandExecutor:0.33666666666666667
+BaseLoadBalancer:0.31
+NodeSource:0.31
+RedissonMap:0.29
+RedissonScoredSortedSet:0.27
+MasterSlaveConnectionManager:0.27
+CommandExecutorService:0.25666666666666665
+RedissonSet:0.22
+MasterSlaveEntry:0.21
+ConnectionManager:0.18833333333333332
+CommandBatchExecutorService:0.17666666666666667
+SingleEntry:0.17333333333333334
+LoadBalancer:0.16166666666666665
+ListScanResult:0.14666666666666667
+RedisClientResult:0.10666666666666667
+MapScanResult:0.07111111111111112

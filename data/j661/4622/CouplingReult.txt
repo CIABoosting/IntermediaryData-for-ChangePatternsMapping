@@ -1,0 +1,60 @@
+Compared Result of  two versions
+Number of New Class: 34
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.server.model.helpers.AbstractBehavior: 
+new Added class 1 : arinc661.server.swing.wm.devices.AbstractCursor: 
+new Added class 2 : arinc661.server.model.arinc.AbstractInteractiveContainer: 
+new Added class 3 : arinc661.server.wm.superlayer.AbstractServerCockpit: 
+new Added class 4 : arinc661.server.engine.AbstractServerEngine: 
+new Added class 5 : arinc661.server.wm.superlayer.AbstractServerWindow: 
+new Added class 6 : arinc661.server.model.arinc.ARINCCheckButton: 
+new Added class 7 : arinc661.server.model.arinc.ARINCCursorOver: 
+new Added class 8 : arinc661.server.model.arinc.ARINCCursorOverlay: 
+new Added class 9 : arinc661.server.model.arinc.ARINCPopUpMenuButton: 
+new Added class 10 : arinc661.server.model.arinc.ARINCPopUpPanelButton: 
+new Added class 11 : arinc661.server.model.arinc.ARINCSlider: 
+new Added class 12 : arinc661.server.swing.model.stdrenderer.BlinkingContainerRenderer: 
+new Added class 13 : arinc661.server.ui.synth2.CachedPainter: 
+new Added class 14 : arinc661.testutils.DummyGraphics: 
+new Added class 15 : arinc661.server.model.core.LayerRef: 
+new Added class 16 : arinc661.server.model.painter.PainterUtils: 
+new Added class 17 : arinc661.testutils.RawBufferClient: 
+new Added class 18 : plugin.common.scenario.action.ReaderEventQueue: 
+new Added class 19 : arinc661.server.model.painter.RenderingLayerImpl: 
+new Added class 20 : plugin.client.script.ScriptConfigurationHandler: 
+new Added class 21 : arinc661.server.wm.devices.ServerDevices: 
+new Added class 22 : arinc661.server.model.ServerInteractiveWidget: 
+new Added class 23 : arinc661.server.model.core.ServerLayer: 
+new Added class 24 : arinc661.server.swing.wm.devices.SwingDevices: 
+new Added class 25 : arinc661.server.swing.conf.SwingHalos: 
+new Added class 26 : arinc661.server.swing.model.painter.SwingRendererBridge: 
+new Added class 27 : arinc661.server.swing.parser.SwingServerGraphicsConfigHandler: 
+new Added class 28 : arinc661.server.swing.wm.SwingServerWindow: 
+new Added class 29 : arinc661.server.swing.factory.SwingZoomManager: 
+new Added class 30 : arinc661.server.ui.synth2.Synth2LookAndFeel: 
+new Added class 31 : arinc661.server.swing.ui.synth2ui.SynthMultiLineLabelUI: 
+new Added class 32 : arinc661.testutils.TestUtilities: 
+new Added class 33 : plugin.common.scenario.action.WriterEventQueue: 
+testing relationship 
+class 0  vs  class 22£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 21£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 22£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 15£º  r0:0  r1:0  r2:0  r3:2  r4:4  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:2  r15:0  r16:5  r17:0  
+class 4  vs  class 21£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:19  r12:0  r13:0  r14:8  r15:0  r16:1  r17:0  
+class 5  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:4  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:6  r15:0  r16:0  r17:0  
+class 10  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 23£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 23£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:2  r14:1  r15:0  r16:0  r17:0  
+class 24  vs  class 21£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 22£º  r0:0  r1:0  r2:0  r3:2  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:2  r15:0  r16:4  r17:0  
+class 26  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:3  r15:0  r16:3  r17:0  
+class 27  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-1  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 26£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:4  r14:0  r15:0  r16:1  r17:0  
+record  0 :  0   1 :  3   2 :  3   3 :  10   4 :  6   5 :  6   6 :  0   7 :  0   8 :  6   9 :  0   10 :  5   11 :  57   12 :  0   13 :  12   14 :  24   15 :  0   16 :  14   17 :  0   

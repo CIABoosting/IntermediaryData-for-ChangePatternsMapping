@@ -1,0 +1,8 @@
+AbstractChannelReplicator:0.593
+StatelessChronicleMap:0.46
+StatelessServerConnector:0.33666666666666667
+EntryCallback:0.20333333333333334
+TcpSocketChannelEntryReader:0.19666666666666666
+TcpSocketChannelEntryWriter:0.18333333333333332
+UdpSocketChannelEntryReader:0.12666666666666668
+UdpSocketChannelEntryWriter:0.11

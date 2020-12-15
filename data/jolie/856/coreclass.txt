@@ -1,0 +1,12 @@
+CommCore:0.5
+CommChannelFactory:0.36
+CommListenerFactory:0.36
+JolieClassLoader:0.2966666666666667
+BTL2CapChannelFactory:0.13
+LocalSocketListenerFactory:0.07666666666666666
+RMICommChannelFactory:0.07666666666666666
+RMIListenerFactory:0.07666666666666666
+LocalSocketCommChannelFactory:0.07666666666666666
+BTL2CapListenerFactory:0.07666666666666666
+SocketListenerFactory:0.02361111111111111
+SocketCommChannelFactory:0.02361111111111111

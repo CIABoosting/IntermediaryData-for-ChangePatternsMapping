@@ -1,0 +1,14 @@
+MethodDefinition:0.6233333333333333
+ByteCodeUtils:0.48333333333333334
+AccumulatorCompiler:0.26666666666666666
+StateCompiler:0.23333333333333334
+JoinCompiler:0.22
+ByteCodeGeneratorContext:0.15666666666666668
+CursorProcessorCompiler:0.14166666666666666
+PageProcessorCompiler:0.135
+ByteCodeExpressionVisitor:0.13333333333333333
+OrderingCompiler:0.12333333333333334
+ByteCodeExpressionAssertions:0.11333333333333333
+NullIfCodeGenerator:0.07666666666666666
+InCodeGenerator:0.06
+SwitchCodeGenerator:0.04666666666666667

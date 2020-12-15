@@ -1,0 +1,17 @@
+IndexMetaData:0.6833333333333333
+FilterAllocationDecider:0.25
+SameShardAllocationDecider:0.24
+DiskThresholdDeciderTests:0.22333333333333333
+DiskThresholdSettings:0.19833333333333333
+SnapshotInProgressAllocationDecider:0.18333333333333332
+DiskThresholdDecider:0.175
+AwarenessAllocationDecider:0.16333333333333333
+RebalanceOnlyWhenActiveAllocationDecider:0.14
+EnableAllocationDecider:0.13666666666666666
+ConcurrentRebalanceAllocationDecider:0.13666666666666666
+ShardsLimitAllocationDecider:0.13
+DiskThresholdDeciderUnitTests:0.12
+ClusterRebalanceAllocationDecider:0.115
+ClusterAllocationExplainTests:0.10666666666666667
+FilterAllocationDeciderTests:0.1
+ClusterAllocationExplainIT:0.08333333333333333

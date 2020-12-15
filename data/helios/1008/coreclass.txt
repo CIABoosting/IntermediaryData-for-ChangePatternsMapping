@@ -1,0 +1,14 @@
+ServerAuthentication:0.72
+SystemTestBase:0.47
+AuthenticationPlugin:0.46
+MasterMain:0.32
+CrtHandshakeResource:0.28650000000000003
+MasterService:0.23666666666666666
+MasterAuthenticationTest:0.21333333333333335
+CrtAuthenticationPlugin:0.20333333333333334
+CrtAuthenticationPluginTest:0.185
+CrtServerAuthentication:0.13333333333333333
+BasicAuthenticationPlugin:0.07
+BasicServerAuthentication:0.058333333333333334
+TestPlugin:0.016666666666666666
+FixedPasswordAuthentication:0.01

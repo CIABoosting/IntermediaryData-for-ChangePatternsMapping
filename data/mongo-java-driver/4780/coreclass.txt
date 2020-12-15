@@ -1,0 +1,16 @@
+ReplicaSetNode:0.5033333333333333
+ReplicaSet:0.49333333333333335
+ReplicaSetStatus:0.42
+Mongo:0.32666666666666666
+DBTCPConnector:0.25
+DBPortPool:0.18666666666666668
+MyPort:0.18333333333333332
+ReadPreferenceTest:0.155
+ReplicaSetHolder:0.14
+Updater:0.12666666666666668
+NearestReadPreference:0.10333333333333333
+SecondaryReadPreference:0.10333333333333333
+PrimaryPreferredReadPreference:0.10333333333333333
+SecondaryPreferredReadPreference:0.10333333333333333
+ReplicaSetStatusDomainModelTest:0.07666666666666666
+UpdatableReplicaSetNode:0.04666666666666667

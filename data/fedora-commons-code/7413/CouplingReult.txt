@@ -1,0 +1,74 @@
+Compared Result of  two versions
+Number of New Class: 40
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : fedora.client.AllUnitTests: 
+new Added class 1 : fedora.common.xml.format.ATOM1_0Format: 
+new Added class 2 : fedora.server.messaging.AtomAPIMMessage: 
+new Added class 3 : fedora.server.storage.translation.AtomDODeserializer: 
+new Added class 4 : fedora.server.storage.translation.AtomDOSerializer: 
+new Added class 5 : fedora.client.utility.export.AutoExporter: 
+new Added class 6 : fedora.client.utility.ingest.AutoIngestor: 
+new Added class 7 : fedora.server.search.Condition: 
+new Added class 8 : fedora.common.Constants: 
+new Added class 9 : fedora.server.storage.translation.ConvertObjectSerialization: 
+new Added class 10 : fedora.server.storage.types.DatastreamDef: 
+new Added class 11 : fedora.client.objecteditor.DatastreamsPane: 
+new Added class 12 : fedora.server.access.DefaultAccess: 
+new Added class 13 : fedora.server.validation.DOValidatorImpl: 
+new Added class 14 : fedora.server.validation.DOValidatorModule: 
+new Added class 15 : fedora.server.validation.DOValidatorXMLSchemaTest: 
+new Added class 16 : fedora.client.objecteditor.EditingPane: 
+new Added class 17 : fedora.client.utility.export.Export: 
+new Added class 18 : fedora.client.export.ExportOptionsDialog: 
+new Added class 19 : fedora.client.FedoraClient: 
+new Added class 20 : fedora.server.messaging.FedoraMessage: 
+new Added class 21 : fedora.test.FedoraServerTestCase: 
+new Added class 22 : fedora.server.messaging.FedoraTypes: 
+new Added class 23 : fedora.server.search.FieldSearchQuery: 
+new Added class 24 : fedora.server.search.FieldSearchResult: 
+new Added class 25 : fedora.utilities.FileUtils: 
+new Added class 26 : fedora.client.utility.ingest.Ingest: 
+new Added class 27 : fedora.utilities.NamespaceContextImpl: 
+new Added class 28 : fedora.utilities.NamespaceContextImplTest: 
+new Added class 29 : fedora.client.ObjectFormatDialog: 
+new Added class 30 : fedora.server.search.Operator: 
+new Added class 31 : fedora.client.objecteditor.RDFTupleEditor: 
+new Added class 32 : fedora.test.api.TestAPIM: 
+new Added class 33 : fedora.server.storage.translation.TestAtomDODeserializer: 
+new Added class 34 : fedora.server.storage.translation.TestAtomDOSerializer: 
+new Added class 35 : fedora.test.integration.TestCommandLineFormats: 
+new Added class 36 : fedora.test.api.TestRESTAPI: 
+new Added class 37 : fedora.server.utilities.TypeUtility: 
+new Added class 38 : fedora.client.utility.ingest.XMLBuilder: 
+new Added class 39 : fedora.common.xml.namespace.XMLNamespace: 
+testing relationship 
+class 3  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:1  r8:8  r9:0  r10:0  r11:18  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-1  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:1  r17:0  
+class 26  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 21£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 21£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  11   3 :  0   4 :  0   5 :  3   6 :  1   7 :  3   8 :  7   9 :  0   10 :  4   11 :  58   12 :  0   13 :  4   14 :  2   15 :  0   16 :  1   17 :  0   

@@ -1,0 +1,15 @@
+HiveRecordCursor:0.42333333333333334
+AbstractTestHiveClient:0.30666666666666664
+GenericHiveRecordCursor:0.30333333333333334
+ColumnarTextHiveRecordCursor:0.29333333333333333
+ColumnarBinaryHiveRecordCursor:0.29333333333333333
+ParquetHiveRecordCursor:0.24333333333333335
+ColumnarBinaryHiveRecordCursorProvider:0.2
+ColumnarTextHiveRecordCursorProvider:0.2
+TestPreparer:0.18666666666666668
+HivePageSourceProvider:0.14333333333333334
+HiveUtil:0.10333333333333333
+HiveRecordCursorProvider:0.06333333333333334
+ColumnMapping:0.056666666666666664
+GenericHiveRecordCursorProvider:0.05
+ParquetRecordCursorProvider:0.019166666666666665

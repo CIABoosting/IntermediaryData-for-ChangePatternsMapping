@@ -1,0 +1,81 @@
+Compared Result of  two versions
+Number of New Class: 38
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : net.bioclipse.BioclipseApplication: 
+new Added class 1 : net.bioclipse.model.BioclipseItem: 
+new Added class 2 : net.bioclipse.model.BioclipseItemFactory: 
+new Added class 3 : net.bioclipse.model.BioclipseItemPropertySource: 
+new Added class 4 : net.bioclipse.model.BioclipseItemType: 
+new Added class 5 : net.bioclipse.BioclipsePerspective: 
+new Added class 6 : net.bioclipse.model.BioclipseRootFolder: 
+new Added class 7 : net.bioclipse.model.BioclipseSubItem: 
+new Added class 8 : net.bioclipse.model.CDKItemPropertySource: 
+new Added class 9 : net.bioclipse.model.CMLItemPropertySource: 
+new Added class 10 : net.bioclipse.plugins.bc_SpecViewer.views.ContinuousSpectrumView: 
+new Added class 11 : net.bioclipse.util.FileNameValidator: 
+new Added class 12 : net.bioclipse.util.FileUtils: 
+new Added class 13 : net.bioclipse.model.type.FolderFactory: 
+new Added class 14 : net.bioclipse.util.folderUtils: 
+new Added class 15 : net.bioclipse.model.IBioclipseItem: 
+new Added class 16 : net.bioclipse.interfaces.IBioclipseView: 
+new Added class 17 : net.bioclipse.plugins.bc_SpecViewer.views.InnerSpectrumListView: 
+new Added class 18 : net.bioclipse.actions.InstallSampleDataAction: 
+new Added class 19 : net.bioclipse.plugins.views.JchemView: 
+new Added class 20 : net.bioclipse.plugins.views.JmolView: 
+new Added class 21 : net.bioclipse.wizards.NewFileWizard: 
+new Added class 22 : net.bioclipse.wizards.NewFolderWizard: 
+new Added class 23 : net.bioclipse.wizards.NewMoleculeFromSMILESWizard: 
+new Added class 24 : net.bioclipse.wizards.NewMoleculeWizard: 
+new Added class 25 : net.bioclipse.action.contribution.PeakPickingAction: 
+new Added class 26 : net.bioclipse.plugins.bc_SpecViewer.views.PeakSpectrumView: 
+new Added class 27 : net.bioclipse.action.contribution.QsarActionDelegate: 
+new Added class 28 : net.bioclipse.action.contribution.Renderer3DActionDelegate: 
+new Added class 29 : net.bioclipse.model.type.RootFolderFactory: 
+new Added class 30 : net.bioclipse.model.SpectrumItemChangeListener: 
+new Added class 31 : net.bioclipse.model.type.SpectrumItemFactory: 
+new Added class 32 : net.bioclipse.model.SpectrumItemPropertySource: 
+new Added class 33 : net.bioclipse.plugins.bc_SpecViewer.views.SpectrumListSelectionChangedListener: 
+new Added class 34 : net.bioclipse.plugins.SpectrumPerspective: 
+new Added class 35 : net.bioclipse.plugins.views.Structure2DView: 
+new Added class 36 : net.bioclipse.plugins.views.twoDJframe: 
+new Added class 37 : net.bioclipse.model.type.UnknownFactory: 
+testing relationship 
+class 1  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:2  r12:0  r13:2  r14:2  r15:0  r16:0  r17:0  
+class 1  vs  class 15£º  r0:0  r1:0  r2:1  r3:4  r4:0  r5:5  r6:0  r7:0  r8:5  r9:0  r10:0  r11:11  r12:0  r13:6  r14:1  r15:0  r16:0  r17:0  
+class 3  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:7  r9:0  r10:0  r11:0  r12:0  r13:0  r14:6  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:9  r9:0  r10:3  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 8  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 30£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 13  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 30£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 15£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 25  vs  class 16£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 30£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 16£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 16£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 29  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 31  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 37  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  7   2 :  4   3 :  10   4 :  3   5 :  27   6 :  0   7 :  0   8 :  28   9 :  0   10 :  5   11 :  37   12 :  0   13 :  18   14 :  20   15 :  0   16 :  0   17 :  0   

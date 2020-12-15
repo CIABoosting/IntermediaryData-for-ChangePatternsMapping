@@ -1,0 +1,17 @@
+Aggregation:0.4866666666666667
+GroupingCollector:0.28
+GroupByPlannerTest:0.2
+NestedLoopConsumerTest:0.19
+SymbolPrinterTest:0.19
+ProjectionBuilder:0.17666666666666667
+Visitor:0.17
+SelectPlannerTest:0.15666666666666668
+GlobalAggregateConsumer:0.15333333333333332
+ProjectionToProjectorVisitorTest:0.15
+InputFactoryTest:0.14
+AggregateCollector:0.1308730158730159
+GroupingIntegerCollectorBenchmark:0.11333333333333333
+GroupingBytesRefCollectorBenchmark:0.11333333333333333
+GroupProjectionTest:0.10333333333333333
+MergeNodeTest:0.07666666666666666
+AggregateCollectorBenchmark:0.07333333333333333

@@ -1,0 +1,13 @@
+PipelineAggregatorBuilder:0.5566666666666666
+BucketMetricsPipelineAggregatorBuilder:0.34
+MovAvgPipelineAggregatorBuilder:0.2
+DerivativePipelineAggregatorBuilder:0.19
+CumulativeSumPipelineAggregatorBuilder:0.19
+ExtendedStatsBucketPipelineAggregatorBuilder:0.16333333333333333
+PercentilesBucketPipelineAggregatorBuilder:0.15666666666666668
+SumBucketPipelineAggregatorBuilder:0.13
+AvgBucketPipelineAggregatorBuilder:0.13
+MinBucketPipelineAggregatorBuilder:0.13
+MaxBucketPipelineAggregatorBuilder:0.13
+StatsBucketPipelineAggregatorBuilder:0.13
+MetaDataIT:0.12

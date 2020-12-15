@@ -1,0 +1,13 @@
+BlockBuilder:0.7233333333333334
+ArrayBlockBuilder:0.38
+PageBuilder:0.30666666666666664
+VariableWidthBlockBuilder:0.23
+InterleavedBlockBuilder:0.19
+ArrayElementBlockWriter:0.18833333333333332
+BlockUtil:0.18666666666666668
+FixedWidthBlockBuilder:0.18333333333333332
+IntArrayBlockBuilder:0.14666666666666667
+ShortArrayBlockBuilder:0.14666666666666667
+LongArrayBlockBuilder:0.14666666666666667
+ByteArrayBlockBuilder:0.14666666666666667
+TestOrcPageSourceMemoryTracking:0.13666666666666666

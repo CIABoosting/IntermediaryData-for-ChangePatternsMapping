@@ -1,0 +1,13 @@
+Compared Result of  two versions
+Number of New Class: 7
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : jblobstore.filestore.util.FileSystemFileStore: 
+new Added class 1 : jblobstore.filestore.local.LocalFileStoreFactory: 
+new Added class 2 : jblobstore.filestore.local.LocalFileSystemAdapter: 
+new Added class 3 : jblobstore.filestore.memory.MemoryFileStoreFactory: 
+new Added class 4 : jblobstore.filestore.memory.MemoryFileSystemAdapter: 
+new Added class 5 : jblobstore.filestore.srb.SRBFileStoreFactory: 
+new Added class 6 : jblobstore.filestore.srb.SRBFileSystemAdapter: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

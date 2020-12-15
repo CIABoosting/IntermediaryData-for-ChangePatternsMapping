@@ -1,0 +1,15 @@
+Status:0.47
+BulkIndexByScrollResponse:0.45666666666666667
+RoundTripTests:0.23
+ReindexFailureTests:0.19333333333333333
+RestReindexAction:0.19
+AbstractAsyncBulkIndexByScrollAction:0.185
+ReindexAction:0.16966666666666666
+AsyncIndexBySearchAction:0.15333333333333332
+IndexBySearchResponseMatcher:0.15
+RestUpdateByQueryAction:0.11333333333333333
+ReindexCancelTests:0.09666666666666666
+ReindexRequestBuilder:0.08666666666666667
+TransportReindexAction:0.06
+AbstractBaseReindexRestHandler:0.023333333333333334
+BulkIndexByScrollResponseContentListener:0.01

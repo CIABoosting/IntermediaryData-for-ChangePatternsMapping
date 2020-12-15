@@ -1,0 +1,11 @@
+WeightInitUtil:0.67
+DefaultLayerFactory:0.47
+DefaultParamInitializer:0.24
+ParamInitializer:0.15333333333333332
+ConvolutionParamInitializer:0.12666666666666668
+BatchNormalizationParamInitializer:0.11666666666666667
+GravesBidirectionalLSTMParamInitializer:0.07666666666666666
+EmptyParamInitializer:0.05
+GravesLSTMParamInitializer:0.043333333333333335
+GRUParamInitializer:0.016666666666666666
+PretrainParamInitializer:0.013333333333333334

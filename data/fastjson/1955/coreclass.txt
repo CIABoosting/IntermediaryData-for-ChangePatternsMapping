@@ -1,0 +1,14 @@
+Filter:0.3983333333333333
+JSONPathParser:0.36
+JSONPath_field_access_filter_like_simple:0.2633333333333333
+JSONPath_field_access_filter_like:0.18
+GetJSONObjectTest:0.08666666666666667
+JSONPath_field_access_filter_in_int:0.056666666666666664
+FilterSegement:0.043333333333333335
+NotNullSegement:0.04
+NullSegement:0.04
+StringOpSegement:0.03666666666666667
+IntObjInSegement:0.03666666666666667
+IntOpSegement:0.03666666666666667
+RangeSegement:0.03666666666666667
+MultiIndexSegement:0.02

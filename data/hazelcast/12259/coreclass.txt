@@ -1,0 +1,17 @@
+InternalOperationService:0.58
+BasicInvocation:0.4666666666666667
+OperationScheduler:0.4083333333333333
+HazelcastTestSupport:0.36
+BasicOperationService:0.3566666666666667
+BasicOperationServiceTest:0.31333333333333335
+ClientEngineImpl:0.2525
+InvokeOnPartitions:0.25083333333333335
+ClientPacketProcessor:0.22
+BasicOperationHandler:0.18333333333333332
+CleanupThread:0.17833333333333334
+OutOfMemoryErrorDispatcher:0.17
+IsStillExecutingOperation:0.15
+RepartitioningStressTest:0.14666666666666667
+PacketTransceiverImpl:0.043333333333333335
+BasicOperationHandlerFactory:0.03
+BasicResponsePacketHandler:0.016666666666666666

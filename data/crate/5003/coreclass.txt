@@ -1,0 +1,14 @@
+SelectAnalyzerTest:0.39
+ColumnUnknownException:0.34
+SysShardsTest:0.32
+SQLTypeMappingTest:0.30333333333333334
+BulkShardProcessor:0.27416666666666667
+ColumnPolicyIntegrationTest:0.2733333333333333
+ObjectColumnTest:0.2733333333333333
+InsertFromValuesAnalyzerTest:0.21333333333333335
+AnalyzedTableElements:0.19333333333333333
+AbstractDataAnalyzedStatement:0.19
+TestingTableInfo:0.18666666666666668
+AbstractTableInfo:0.17666666666666667
+NestedAnalyzedStatement:0.14333333333333334
+PartitionPropertiesAnalyzer:0.13666666666666666

@@ -1,0 +1,14 @@
+CacheRecord:0.54
+CacheConfig:0.37666666666666665
+CacheSimpleConfig:0.36333333333333334
+CacheMaxSizeConfig:0.35333333333333333
+AbstractCacheRecordStore:0.31
+ICacheRecordStore:0.31
+CacheRecordHashMap:0.3
+CacheRecordMap:0.26
+CacheSimpleConfigReadOnly:0.23666666666666666
+XmlConfigBuilder:0.16
+CacheRecordStore:0.14666666666666667
+TestJCache:0.1
+EvictableSamplingEntry:0.01
+MaxSizeEvictionChecker:0.0025

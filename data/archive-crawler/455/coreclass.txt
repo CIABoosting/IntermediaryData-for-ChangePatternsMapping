@@ -1,0 +1,16 @@
+CrawlURI:0.5433333333333333
+CrawlOrder:0.34
+CrawlerHandler:0.25666666666666665
+SimplePreconditionEnforcer:0.24666666666666667
+XMLConfig:0.23333333333333334
+ARCWriter:0.21333333333333335
+CrawlScope:0.21333333333333335
+SimplePreselector:0.18
+BasicScope:0.16
+SimpleFrontier:0.15
+CrawlController:0.15
+FetcherHTTPSimple:0.14
+CandidateURI:0.12666666666666668
+SimpleScheduler:0.12333333333333334
+NullFilter:0.0
+SimplePostselector:0.0

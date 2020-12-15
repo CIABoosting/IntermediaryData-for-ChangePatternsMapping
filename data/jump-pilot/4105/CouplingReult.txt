@@ -1,0 +1,16 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.vividsolutions.jcs.plugin.qa.CloseVertexFinderPlugIn: 
+new Added class 1 : com.vividsolutions.jcs.plugin.qa.CoverageGapInFencePlugIn: 
+new Added class 2 : com.vividsolutions.jcs.plugin.qa.CoverageGapPlugIn: 
+new Added class 3 : com.vividsolutions.jcs.plugin.qa.CoverageOverlapFinderPlugIn: 
+new Added class 4 : com.vividsolutions.jcs.plugin.qa.DiffGeometryPlugIn: 
+new Added class 5 : com.vividsolutions.jcs.plugin.qa.DiffSegmentsPlugIn: 
+new Added class 6 : com.vividsolutions.jcs.plugin.qa.MatchedSegmentsPlugIn: 
+new Added class 7 : com.vividsolutions.jcs.plugin.qa.OffsetBoundaryCornerFinderPlugIn: 
+new Added class 8 : com.vividsolutions.jcs.plugin.qa.OverlapFinderPlugIn: 
+new Added class 9 : com.vividsolutions.jcs.plugin.qa.UpdateCoverageGapInFencePlugIn: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

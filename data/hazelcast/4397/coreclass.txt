@@ -1,0 +1,12 @@
+ClusterServiceImpl:0.48333333333333334
+Node:0.38
+ClusterJoinManager:0.34
+TcpIpJoiner:0.2733333333333333
+MockJoiner:0.23
+MulticastJoiner:0.23
+MemberInfoUpdateOperation:0.22666666666666666
+NodeMulticastListener:0.21
+MemberListTest:0.20333333333333334
+FinalizeJoinOperation:0.18666666666666668
+AbstractJoiner:0.16333333333333333
+NodeShutdownHookThread:0.06

@@ -1,0 +1,9 @@
+QueryManagerConfig:0.54
+ServerMainModule:0.41
+HeartbeatFailureDetector:0.25
+TestingPrestoServer:0.22666666666666666
+NativeConnectorFactory:0.21333333333333335
+PrestoServer:0.20333333333333334
+TestDistributedQueries:0.18
+TestQueryManagerConfig:0.15333333333333332
+AbstractConfigurationAwareModule:0.15

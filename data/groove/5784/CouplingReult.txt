@@ -1,0 +1,92 @@
+Compared Result of  two versions
+Number of New Class: 50
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : groove.gui.jgraph.AspectJGraph: 
+new Added class 1 : groove.grammar.aspect.AspectNode: 
+new Added class 2 : groove.util.parse.ATermTree: 
+new Added class 3 : groove.gui.dialog.BoundedModelCheckingDialog: 
+new Added class 4 : groove.util.collect.CollectionOfCollections: 
+new Added class 5 : groove.gui.dialog.ConfigDialog: 
+new Added class 6 : groove.transform.criticalpair.ConfluenceAnalyzer: 
+new Added class 7 : groove.transform.criticalpair.ConfluentPair: 
+new Added class 8 : groove.io.conceptual.type.Container: 
+new Added class 9 : groove.lts.DefaultGraphNextState: 
+new Added class 10 : groove.grammar.host.DefaultHostEdge: 
+new Added class 11 : groove.control.term.Derivation: 
+new Added class 12 : groove.io.conceptual.lang.ecore.EcoreResource: 
+new Added class 13 : groove.match.rete.EdgeCheckerNode: 
+new Added class 14 : groove.graph.EdgeComparator: 
+new Added class 15 : groove.explore.ExploreResult: 
+new Added class 16 : groove.sts.Gate: 
+new Added class 17 : groove.grammar.GrammarProperties: 
+new Added class 18 : groove.io.conceptual.lang.groove.GrammarVisitor: 
+new Added class 19 : groove.grammar.groovy.GraphManager: 
+new Added class 20 : groove.gui.display.GraphTab: 
+new Added class 21 : groove.prolog.GrooveEnvironment: 
+new Added class 22 : groove.io.conceptual.lang.groove.GrooveResource: 
+new Added class 23 : groove.io.conceptual.lang.gxl.GxlToType: 
+new Added class 24 : groove.graph.iso.IsoChecker: 
+new Added class 25 : groove.gui.jgraph.JAttr: 
+new Added class 26 : groove.gui.jgraph.JEdgeView: 
+new Added class 27 : groove.io.graph.LayoutIO: 
+new Added class 28 : groove.transform.criticalpair.LazyCriticalPairSet: 
+new Added class 29 : groove.transform.criticalpair.RuleTuple: 
+new Added class 30 : groove.sts.Location: 
+new Added class 31 : groove.io.conceptual.lang.groove.MetaToGroove: 
+new Added class 32 : groove.io.conceptual.Name: 
+new Added class 33 : groove.graph.iso.PaigeTarjanMcKay: 
+new Added class 34 : groove.match.rete.QuantifierCountChecker: 
+new Added class 35 : groove.match.RandomValueOracle: 
+new Added class 36 : groove.lts.RecipeTransition: 
+new Added class 37 : groove.match.rete.ReteNetwork: 
+new Added class 38 : groove.match.rete.ReteSimpleMatch: 
+new Added class 39 : groove.gui.SimulatorModel: 
+new Added class 40 : groove.gui.MyGTSListener: 
+new Added class 41 : groove.util.collect.SmallCollection: 
+new Added class 42 : groove.sts.SwitchRelation: 
+new Added class 43 : groove.gui.display.TextTab: 
+new Added class 44 : groove.io.conceptual.type.Tuple: 
+new Added class 45 : groove.grammar.type.TypeNode: 
+new Added class 46 : groove.grammar.host.ValueNode: 
+new Added class 47 : groove.match.rete.ValueNodeChecker: 
+new Added class 48 : groove.sts.Variable: 
+new Added class 49 : groove.gui.look.VisualAttributeMap: 
+testing relationship 
+class 6  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-3  r9:0  r10:6  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 45£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:3  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 39£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 20  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:5  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 8£º  r0:0  r1:0  r2:0  r3:2  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 44£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 41£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:20  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 30  vs  class 42£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 31  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 31  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 33  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 34  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 13£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 34£º  r0:0  r1:0  r2:0  r3:2  r4:2  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 45£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 37  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 47£º  r0:0  r1:0  r2:0  r3:2  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 39  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 39  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:1  r15:0  r16:0  r17:0  
+class 39  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 42  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 42  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 46  vs  class 45£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 47  vs  class 38£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  8   4 :  16   5 :  10   6 :  0   7 :  0   8 :  21   9 :  0   10 :  7   11 :  54   12 :  0   13 :  6   14 :  20   15 :  0   16 :  2   17 :  0   

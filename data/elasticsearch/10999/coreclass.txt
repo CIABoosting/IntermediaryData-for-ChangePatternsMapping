@@ -1,0 +1,10 @@
+LinearInterpolation:0.37666666666666665
+StupidBackoff:0.36
+Laplace:0.36
+SmoothingModel:0.31333333333333335
+LaplaceScorer:0.08333333333333333
+LinearInterpoatingScorer:0.08
+StupidBackoffScorer:0.06
+LinearInterpolationModelTests:0.006666666666666667
+LaplaceModelTests:0.0033333333333333335
+StupidBackoffModelTests:0.0033333333333333335

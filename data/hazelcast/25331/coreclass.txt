@@ -1,0 +1,17 @@
+Address:0.48333333333333334
+Connection:0.42
+Q:0.35333333333333333
+Node:0.32666666666666666
+Packet:0.25666666666666665
+AddressPicker:0.21777777777777782
+RequestBasedCall:0.21666666666666667
+OutRunnable:0.21
+ResponseQueueCall:0.20666666666666667
+AndOrPredicate:0.2
+ConnectionManager:0.19
+HazelcastClientClusterTest:0.18
+ClientAuthenticateHandler:0.165
+ConnectionManagerTest:0.16333333333333333
+SelectorBase:0.16
+ClientService:0.15111111111111108
+ClientOperationHandler:0.11

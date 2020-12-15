@@ -1,0 +1,10 @@
+RecordStore:0.8
+PutAllBackupOperation:0.3466666666666667
+DefaultRecordStore:0.34
+EntryBackupOperation:0.2866666666666667
+PutBackupOperation:0.24444444444444446
+PutAllOperation:0.24333333333333335
+PartitionWideEntryBackupOperation:0.1877777777777778
+MultipleEntryBackupOperation:0.1877777777777778
+MapStoreTest:0.11
+ValueSetterEntryProcessor:0.06

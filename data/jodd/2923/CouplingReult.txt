@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : jodd.bean.BeanException: 
+new Added class 1 : jodd.db.oom.DbOomException: 
+new Added class 2 : jodd.db.oom.sqlgen.DbSqlBuilderException: 
+new Added class 3 : jodd.db.DbSqlException: 
+new Added class 4 : jodd.decora.DecoraException: 
+new Added class 5 : jodd.mail.EmailAttachmentBuilder: 
+new Added class 6 : jodd.io.findfile.FindFileException: 
+new Added class 7 : jodd.htmlstapler.HtmlStaplerException: 
+new Added class 8 : jodd.http.HttpException: 
+new Added class 9 : jodd.jtx.JtxException: 
+new Added class 10 : jodd.madvoc.MadvocException: 
+new Added class 11 : jodd.mail.MailException: 
+new Added class 12 : jodd.methref.MethrefException: 
+new Added class 13 : jodd.paramo.ParamoException: 
+new Added class 14 : jodd.petite.PetiteException: 
+new Added class 15 : jodd.typeconverter.TypeConversionException: 
+new Added class 16 : jodd.vtor.VtorException: 
+testing relationship 
+class 1  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,14 @@
+BroadcasterConfig:0.4866666666666667
+BroadcastFilter:0.3
+Filter:0.28
+TrackMessageSizeFilter:0.14833333333333334
+JavaScriptProtocol:0.1
+SlipFilter:0.03666666666666667
+VoidAtmosphereResource:0.02666666666666667
+DoNohingFilter:0.02666666666666667
+PerRequestFilter:0.02666666666666667
+AbortFilter:0.02666666666666667
+BroadcastFilterAdapter:0.013333333333333334
+StringFilterAggregator:0.013333333333333334
+PerRequestBroadcastFilter:0.0033333333333333335
+XSSHtmlFilter:0.0

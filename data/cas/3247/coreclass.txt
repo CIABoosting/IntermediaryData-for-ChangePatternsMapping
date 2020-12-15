@@ -1,0 +1,14 @@
+Beans:0.66
+AbstractJpaProperties:0.31333333333333335
+PasswordManagementConfiguration:0.19333333333333333
+JpaServiceRegistryConfiguration:0.16333333333333333
+CasJdbcAuthenticationConfiguration:0.15333333333333332
+JpaEventsConfiguration:0.13
+CasSupportJdbcAuditConfiguration:0.13
+GoogleAuthenticatorJpaConfiguration:0.13
+JdbcMultifactorAuthnTrustConfiguration:0.13
+JpaTicketRegistryConfiguration:0.13
+CasJdbcMonitorConfiguration:0.10666666666666667
+CasJdbcUserDetailsManagerConfigurer:0.08666666666666667
+CasJdbcThrottlingConfiguration:0.08666666666666667
+JdbcCloudConfigBootstrapConfiguration:0.08

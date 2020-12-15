@@ -1,0 +1,14 @@
+StatementClient:0.48
+PrestoStatement:0.32666666666666666
+QueryExecutor:0.2866666666666667
+QueryRunner:0.26
+AbstractTestingPrestoClient:0.24666666666666667
+Console:0.24
+PrestoDriverUri:0.2025
+StatusPrinter:0.19333333333333333
+BenchmarkQueryRunner:0.17
+ClientOptions:0.13666666666666666
+TestProgressMonitor:0.12666666666666668
+TestPrestoDriverUri:0.09333333333333334
+TestTableNameCompleter:0.09
+TestQueryExecutor:0.02666666666666667

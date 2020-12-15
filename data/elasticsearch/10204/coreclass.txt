@@ -1,0 +1,16 @@
+NodeInfo:0.5233333333333333
+NodesInfoRequest:0.4066666666666667
+Pipeline:0.2866666666666667
+NodesInfoResponse:0.22666666666666666
+PutPipelineTransportAction:0.21833333333333332
+NodesInfoRequestBuilder:0.21
+PipelineStore:0.16
+NodeService:0.16
+TransportClusterStatsAction:0.13666666666666666
+TransportNodesInfoAction:0.12666666666666668
+NodeInfoStreamingTests:0.11333333333333333
+PipelineFactoryTests:0.10833333333333334
+IngestService:0.10333333333333333
+RestNodesInfoAction:0.07
+CompoundProcessor:0.028333333333333332
+PipelineStoreTests:0.02

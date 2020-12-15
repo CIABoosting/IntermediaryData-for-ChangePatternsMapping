@@ -1,0 +1,207 @@
+Compared Result of  two versions
+Number of New Class: 111
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.springframework.osgi.context.support.AbstractBundleXmlApplicationContextTest: 
+new Added class 1 : org.springframework.osgi.test.AbstractConfigurableBundleCreatorTests: 
+new Added class 2 : org.springframework.osgi.test.AbstractOnTheFlyBundleCreatorTests: 
+new Added class 3 : org.springframework.osgi.context.support.AbstractOsgiBundleApplicationContext: 
+new Added class 4 : org.springframework.osgi.test.AbstractOsgiTests: 
+new Added class 5 : org.springframework.osgi.context.support.AbstractRefreshableOsgiBundleApplicationContextTest: 
+new Added class 6 : org.springframework.osgi.samples.weather.extension.bundle.Artifact: 
+new Added class 7 : org.springframework.osgi.service.exporter.support.BeanNameServicePropertiesResolver: 
+new Added class 8 : org.springframework.osgi.service.exporter.BeanNameServicePropertiesResolverTest: 
+new Added class 9 : org.springframework.osgi.config.BundleBeanDefinitionParser: 
+new Added class 10 : org.springframework.osgi.context.BundleContextAware: 
+new Added class 11 : org.springframework.osgi.context.support.BundleContextAwareProcessor: 
+new Added class 12 : org.springframework.osgi.context.support.BundleContextAwareProcessorTest: 
+new Added class 13 : org.springframework.osgi.iandt.testingFramework.BundleCreationTst: 
+new Added class 14 : org.springframework.osgi.util.BundleDelegatingClassLoader: 
+new Added class 15 : org.springframework.osgi.util.BundleDelegatingClassLoaderTest: 
+new Added class 16 : org.springframework.osgi.bundle.BundleFactoryBean: 
+new Added class 17 : org.springframework.osgi.samples.petclinic.Clinic: 
+new Added class 18 : org.springframework.osgi.test.ConfigurableBundleCreatorTestsTest: 
+new Added class 19 : org.springframework.osgi.test.internal.util.ConfigurableByteArrayOutputStream: 
+new Added class 20 : org.springframework.osgi.context.ConfigurableOsgiBundleApplicationContext: 
+new Added class 21 : org.springframework.osgi.mock.DefaultBundleContextProperties: 
+new Added class 22 : org.springframework.osgi.service.importer.internal.support.DefaultRetryCallback: 
+new Added class 23 : org.springframework.osgi.samples.weather.extension.bundle.Dependency: 
+new Added class 24 : org.springframework.osgi.config.DummyListener: 
+new Added class 25 : org.springframework.osgi.service.importer.internal.collection.DynamicCollection: 
+new Added class 26 : org.springframework.osgi.internal.service.collection.DynamicCollectionTest: 
+new Added class 27 : org.springframework.osgi.service.importer.internal.collection.DynamicList: 
+new Added class 28 : org.springframework.osgi.internal.service.collection.DynamicListTest: 
+new Added class 29 : org.springframework.osgi.test.platform.EquinoxPlatform: 
+new Added class 30 : org.springframework.osgi.test.platform.FelixPlatform: 
+new Added class 31 : org.springframework.osgi.iandt.lifecycle.GuineaPig: 
+new Added class 32 : org.springframework.osgi.iandt.io.IoTests: 
+new Added class 33 : org.springframework.osgi.test.internal.JarCreatorTests: 
+new Added class 34 : org.springframework.osgi.samples.petclinic.jdbc.JdbcClinic: 
+new Added class 35 : org.springframework.osgi.test.JUnitTestActivator: 
+new Added class 36 : org.springframework.osgi.test.JUnitTestActivatorTest: 
+new Added class 37 : org.springframework.osgi.test.platform.KnopflerfishPlatform: 
+new Added class 38 : org.springframework.osgi.iandt.lifecycle.LifecycleTest: 
+new Added class 39 : org.springframework.osgi.service.importer.support.LocalBundleContext: 
+new Added class 40 : org.springframework.osgi.service.importer.support.LocalBundleContextAdvice: 
+new Added class 41 : org.springframework.osgi.util.LogUtils: 
+new Added class 42 : org.springframework.osgi.samples.weather.extension.bundle.MavenBundleManager: 
+new Added class 43 : org.springframework.osgi.test.provisioning.internal.MavenPackagedArtifactFinder: 
+new Added class 44 : org.springframework.osgi.mock.MockBundle: 
+new Added class 45 : org.springframework.osgi.mock.MockBundleActivator: 
+new Added class 46 : org.springframework.osgi.mock.MockBundleActivatorTest: 
+new Added class 47 : org.springframework.osgi.mock.MockBundleContext: 
+new Added class 48 : org.springframework.osgi.mock.MockBundleContextTest: 
+new Added class 49 : org.springframework.osgi.mock.MockBundleTest: 
+new Added class 50 : org.springframework.osgi.mock.MockFilter: 
+new Added class 51 : org.springframework.osgi.mock.MockFilterTest: 
+new Added class 52 : org.springframework.osgi.mock.MockServiceReference: 
+new Added class 53 : org.springframework.osgi.mock.MockServiceReferenceTest: 
+new Added class 54 : org.springframework.osgi.mock.MockServiceRegistration: 
+new Added class 55 : org.springframework.osgi.mock.MockServiceRegistrationTest: 
+new Added class 56 : org.springframework.osgi.samples.simpleservice.MyService: 
+new Added class 57 : org.springframework.osgi.io.OsgiBundleResource: 
+new Added class 58 : org.springframework.osgi.io.OsgiBundleResourceLoader: 
+new Added class 59 : org.springframework.osgi.io.OsgiBundleResourceLoaderTest: 
+new Added class 60 : org.springframework.osgi.io.OsgiBundleResourcePatternResolver: 
+new Added class 61 : org.springframework.osgi.io.OsgiBundleResourcePatternResolverTest: 
+new Added class 62 : org.springframework.osgi.io.OsgiBundleResourceTest: 
+new Added class 63 : org.springframework.osgi.service.OsgiFilterUtilsTest: 
+new Added class 64 : org.springframework.osgi.test.internal.support.OsgiJUnitService: 
+new Added class 65 : org.springframework.osgi.test.internal.OsgiJUnitTest: 
+new Added class 66 : org.springframework.osgi.config.OsgiNamespaceHandler: 
+new Added class 67 : org.springframework.osgi.test.platform.OsgiPlatform: 
+new Added class 68 : org.springframework.osgi.util.OsgiPlatformDetector: 
+new Added class 69 : org.springframework.osgi.iandt.testingFramework.OsgiPlatformTest: 
+new Added class 70 : org.springframework.osgi.compendium.internal.OsgiPropertyPlaceholder: 
+new Added class 71 : org.springframework.osgi.config.OsgiPropertyPlaceholderDefinitionParser: 
+new Added class 72 : org.springframework.osgi.compendium.config.OsgiPropertyPlaceholderNamespaceHandlerTest: 
+new Added class 73 : org.springframework.osgi.config.OsgiReferenceNamespaceHandlerTest: 
+new Added class 74 : org.springframework.osgi.service.importer.internal.collection.OsgiServiceCollection: 
+new Added class 75 : org.springframework.osgi.internal.service.interceptor.OsgiServiceDynamicInterceptorTest: 
+new Added class 76 : org.springframework.osgi.service.exporter.support.OsgiServiceFactoryBean: 
+new Added class 77 : org.springframework.osgi.service.exporter.support.OsgiServiceFactoryBeanTest: 
+new Added class 78 : org.springframework.osgi.internal.service.interceptor.OsgiServiceInvokerTest: 
+new Added class 79 : org.springframework.osgi.service.importer.OsgiServiceLifecycleListener: 
+new Added class 80 : org.springframework.osgi.service.importer.internal.collection.OsgiServiceList: 
+new Added class 81 : org.springframework.osgi.service.exporter.OsgiServicePropertiesResolver: 
+new Added class 82 : org.springframework.osgi.internal.service.interceptor.OsgiServiceStaticInterceptorTest: 
+new Added class 83 : org.springframework.osgi.util.OsgiServiceUtils: 
+new Added class 84 : org.springframework.osgi.service.OsgiServiceUtilsTest: 
+new Added class 85 : org.springframework.osgi.samples.weather.extension.bundle.PackageSpecification: 
+new Added class 86 : org.springframework.osgi.samples.weather.extension.bundle.Project: 
+new Added class 87 : org.springframework.osgi.iandt.propertyplaceholder.PropertyPlaceholderTest: 
+new Added class 88 : org.springframework.osgi.config.ReferenceBeanDefinitionParser: 
+new Added class 89 : org.springframework.osgi.service.importer.internal.support.RetryCallback: 
+new Added class 90 : org.springframework.osgi.service.importer.internal.support.RetryTemplate: 
+new Added class 91 : org.springframework.osgi.iandt.serviceproxy.ServiceCollectionTest: 
+new Added class 92 : org.springframework.osgi.service.importer.internal.aop.ServiceDynamicInterceptor: 
+new Added class 93 : org.springframework.osgi.service.importer.internal.aop.ServiceInvoker: 
+new Added class 94 : org.springframework.osgi.iandt.serviceproxy.ServiceListTst: 
+new Added class 95 : org.springframework.osgi.iandt.serviceProxyFactoryBean.ServiceProxyFactoryBeanTest: 
+new Added class 96 : org.springframework.osgi.iandt.serviceproxy.ServiceProxyTst: 
+new Added class 97 : org.springframework.osgi.extensions.annotation.ServiceReferenceInjectionBeanPostProcessor: 
+new Added class 98 : org.springframework.osgi.service.importer.internal.aop.ServiceStaticInterceptor: 
+new Added class 99 : org.springframework.osgi.service.importer.internal.support.ServiceWrapper: 
+new Added class 100 : org.springframework.osgi.samples.weather.dao.StaticDataWeatherDaoImpl: 
+new Added class 101 : org.springframework.osgi.test.internal.StreamCorruption: 
+new Added class 102 : org.springframework.osgi.test.internal.TestRunnerService: 
+new Added class 103 : org.springframework.osgi.test.internal.util.TestUtils: 
+new Added class 104 : org.springframework.osgi.samples.weather.extension.bundle.VirtualBundleFactoryBean: 
+new Added class 105 : org.springframework.osgi.samples.weather.dao.WeatherDao: 
+new Added class 106 : org.springframework.osgi.samples.weather.dao.WeatherData: 
+new Added class 107 : org.springframework.osgi.samples.weather.test.WeatherListener: 
+new Added class 108 : org.springframework.osgi.samples.weather.service.WeatherService: 
+new Added class 109 : org.springframework.osgi.samples.weather.service.WeatherServiceImpl: 
+new Added class 110 : org.springframework.osgi.samples.weather.test.WeatherServiceTest: 
+testing relationship 
+class 1  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 20£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 60£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 67£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:6  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 81£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 10£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 10£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:3  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 89£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 79£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 25£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 17£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 65£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 102£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:2  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:2  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 102£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:3  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 39£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 42  vs  class 6£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:3  r15:0  r16:3  r17:0  
+class 42  vs  class 85£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 42  vs  class 86£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:5  r15:0  r16:8  r17:0  
+class 47  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 54£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 47£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:7  r9:0  r10:33  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 49  vs  class 44£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 52£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:9  r9:0  r10:18  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 54  vs  class 52£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 55  vs  class 52£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 55  vs  class 54£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:8  r9:0  r10:16  r11:8  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 59  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 57£º  r0:0  r1:0  r2:0  r3:1  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 58£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 57£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 60£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:6  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 62  vs  class 57£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:13  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 64  vs  class 65£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:4  r17:0  
+class 64  vs  class 102£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 69  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 70  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 71  vs  class 70£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 72  vs  class 70£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:3  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 74  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:12  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 75  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 75  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:6  r9:0  r10:13  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 76  vs  class 7£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 76  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 76  vs  class 81£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:5  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 77  vs  class 76£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:7  r9:0  r10:42  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 78  vs  class 93£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 80  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 80  vs  class 27£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 80  vs  class 74£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 82  vs  class 98£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:6  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 86  vs  class 6£º  r0:0  r1:0  r2:1  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 87  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 90  vs  class 89£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:2  r17:0  
+class 91  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 91  vs  class 74£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 92  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 92  vs  class 93£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 92  vs  class 99£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 94  vs  class 80£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 94  vs  class 91£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 96  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 96  vs  class 92£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 97  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 98  vs  class 93£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 100  vs  class 105£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 100  vs  class 106£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 101  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 104  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 104  vs  class 86£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 107  vs  class 79£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 109  vs  class 105£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 109  vs  class 106£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 109  vs  class 108£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 110  vs  class 108£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  9   2 :  18   3 :  20   4 :  9   5 :  10   6 :  17   7 :  0   8 :  115   9 :  0   10 :  168   11 :  68   12 :  0   13 :  33   14 :  19   15 :  0   16 :  17   17 :  0   

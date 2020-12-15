@@ -1,0 +1,12 @@
+ServiceDependentOsgiApplicationContext:0.5266666666666666
+ApplicationContextCloser:0.41333333333333333
+ApplicationContextCreator:0.38
+ServiceDependentOsgiBundleXmlApplicationContext:0.27666666666666667
+MapTestingBundleXmlApplicationContext:0.24333333333333335
+ApplicationContextCloserTest:0.19
+ContextLoaderListener:0.18333333333333332
+ApplicationContextCreatorTest:0.17333333333333334
+ConfigurableOsgiBundleApplicationContext:0.16166666666666665
+AbstractRefreshableOsgiBundleApplicationContextTest:0.13666666666666666
+TestService:0.0
+ErrorHandlingTest:0.0

@@ -1,0 +1,17 @@
+IngestDocument:0.43
+RandomDocumentPicks:0.39666666666666667
+IngestActionFilter:0.25333333333333335
+MetaDataProcessor:0.23333333333333334
+IngestDocumentTests:0.22
+WriteableIngestDocument:0.18666666666666668
+PipelineExecutionServiceTests:0.14666666666666667
+GeoIpProcessorTests:0.14333333333333334
+IngestClientIT:0.13666666666666666
+SimulatePipelineRequestParsingTests:0.13
+IngestDocumentMatcher:0.12
+RenameProcessorTests:0.11
+MetaDataProcessorTests:0.08333333333333333
+SimulateExecutionServiceTests:0.0625
+WriteableIngestDocumentTests:0.06
+PipelineExecutionService:0.05
+FieldPath:0.016666666666666666

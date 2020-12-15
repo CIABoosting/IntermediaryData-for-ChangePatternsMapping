@@ -1,0 +1,6 @@
+PipelineAggregatorBuilder:0.63
+StatsBucketPipelineAggregatorBuilder:0.35333333333333333
+BucketMetricsPipelineAggregatorBuilder:0.32666666666666666
+DerivativePipelineAggregatorBuilder:0.26666666666666666
+ExtendedStatsBucketPipelineAggregatorBuilder:0.26666666666666666
+ExtendedStatsBucketParser:0.20955555555555555

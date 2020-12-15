@@ -1,0 +1,10 @@
+QueryExplainer:0.43666666666666665
+PlanFragmenter:0.4066666666666667
+QueryRunner:0.3762222222222222
+LocalQueryRunner:0.37
+ThriftQueryRunnerWithServers:0.30666666666666664
+TestingPrestoServer:0.27666666666666667
+StandaloneQueryRunner:0.24
+DistributedQueryRunner:0.22333333333333333
+AbstractTestQueryFramework:0.21666666666666667
+SqlQueryExecution:0.21333333333333335

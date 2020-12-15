@@ -1,0 +1,16 @@
+Loader:0.43
+AbstractEntityPersister:0.4166666666666667
+EntityLoader:0.3933333333333333
+Dialect:0.39
+UniqueEntityLoader:0.34777777777777774
+AbstractEntityManagerImpl:0.31
+DefaultLoadEventListener:0.24666666666666667
+HSQLDialect:0.19
+QueryParameters:0.17888888888888888
+PessimisticWriteSelectLockingStrategy:0.14333333333333334
+PessimisticReadSelectLockingStrategy:0.14333333333333334
+LockTest:0.13666666666666666
+BatchingEntityLoader:0.10111111111111112
+SelectLockingStrategy:0.09666666666666666
+AbstractEntityLoader:0.08
+NamedQueryLoader:0.02666666666666667

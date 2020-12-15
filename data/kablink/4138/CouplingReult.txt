@@ -1,0 +1,54 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.sitescape.team.module.admin.impl.AdminModuleImpl: 
+new Added class 1 : com.sitescape.team.domain.Binder: 
+new Added class 2 : com.sitescape.team.module.binder.BinderComparator: 
+new Added class 3 : com.sitescape.team.web.util.DashboardHelper: 
+new Added class 4 : com.sitescape.team.module.dashboard.impl.DashboardModuleImpl: 
+new Added class 5 : com.sitescape.team.module.profile.impl.DefaultProfileCoreProcessor: 
+new Added class 6 : com.sitescape.team.module.workspace.impl.DefaultWorkspaceCoreProcessor: 
+new Added class 7 : com.sitescape.team.module.shared.EntityIndexUtils: 
+new Added class 8 : com.sitescape.team.portlet.administration.ExportDefinitionController: 
+new Added class 9 : com.sitescape.team.module.folder.impl.FolderModuleImpl: 
+new Added class 10 : com.sitescape.team.ObjectKeys: 
+new Added class 11 : com.sitescape.team.module.profile.impl.ProfileModuleImpl: 
+new Added class 12 : com.sitescape.team.domain.User: 
+new Added class 13 : com.sitescape.team.domain.Workspace: 
+new Added class 14 : com.sitescape.team.module.workspace.impl.WorkspaceModuleImpl: 
+new Added class 15 : com.sitescape.team.web.tree.WsDomTreeBuilder: 
+new Added class 16 : com.sitescape.team.module.zone.impl.ZoneModuleImpl: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:6  r4:2  r5:1  r6:5  r7:0  r8:0  r9:0  r10:0  r11:37  r12:0  r13:5  r14:14  r15:0  r16:2  r17:0  
+class 0  vs  class 12£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:13  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:1  r14:47  r15:0  r16:0  r17:0  
+class 3  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:13  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:12  r15:0  r16:1  r17:0  
+class 5  vs  class 12£º  r0:0  r1:0  r2:0  r3:5  r4:7  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:23  r12:0  r13:1  r14:8  r15:0  r16:0  r17:0  
+class 5  vs  class 13£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:8  r15:0  r16:1  r17:0  
+class 6  vs  class 12£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:6  r15:0  r16:0  r17:0  
+class 7  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 9  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:5  r8:0  r9:0  r10:0  r11:33  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 13£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 11  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 12£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:1  r6:2  r7:0  r8:0  r9:0  r10:0  r11:46  r12:0  r13:3  r14:14  r15:0  r16:0  r17:0  
+class 11  vs  class 13£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 1£º  r0:0  r1:1  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 1£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 13£º  r0:0  r1:0  r2:0  r3:7  r4:2  r5:4  r6:2  r7:2  r8:0  r9:0  r10:0  r11:39  r12:0  r13:0  r14:14  r15:0  r16:5  r17:0  
+class 15  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:0  r11:6  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 15  vs  class 13£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:2  r17:0  
+class 16  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:37  r12:0  r13:2  r14:4  r15:0  r16:0  r17:0  
+class 16  vs  class 13£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:66  r12:0  r13:0  r14:27  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  36   4 :  17   5 :  12   6 :  12   7 :  7   8 :  5   9 :  0   10 :  0   11 :  369   12 :  0   13 :  29   14 :  165   15 :  0   16 :  14   17 :  0   

@@ -1,0 +1,6 @@
+BasicAuthenticationEntryPoint:0.455
+DigestAuthenticationEntryPoint:0.2733333333333333
+SimpleUrlAuthenticationFailureHandler:0.26666666666666666
+AuthorizationCodeRequestRedirectFilter:0.26
+AccessDeniedHandlerImpl:0.18
+BasicAuthenticationEntryPointTests:0.15666666666666668

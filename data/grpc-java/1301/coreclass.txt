@@ -1,0 +1,14 @@
+ClientTransport:0.74
+PendingStream:0.27
+InProcessTransport:0.23
+OkHttpClientTransport:0.21666666666666667
+DelayedClientTransportTest:0.2
+ManagedChannelImplTest:0.2
+ClientCallImpl:0.195
+TransportSetTest:0.18666666666666668
+NettyClientTransport:0.18
+TestUtils:0.1715
+ClientCallImplTest:0.16666666666666666
+ManagedChannelImplTransportManagerTest:0.14666666666666667
+DelayedClientTransport:0.12666666666666668
+FailingClientTransport:0.06333333333333334

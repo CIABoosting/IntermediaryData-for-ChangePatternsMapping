@@ -1,0 +1,23 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.search.child.ChildQuerySearchIT: 
+new Added class 1 : org.elasticsearch.index.mapper.FieldMapper: 
+new Added class 2 : org.elasticsearch.search.fetch.innerhits.InnerHitsContext: 
+new Added class 3 : org.elasticsearch.index.fielddata.ParentChildFieldDataTests: 
+new Added class 4 : org.elasticsearch.search.child.ParentFieldLoadingIT: 
+new Added class 5 : org.elasticsearch.index.mapper.internal.ParentFieldMapper: 
+new Added class 6 : org.elasticsearch.index.mapper.internal.ParentFieldMapperTests: 
+new Added class 7 : org.elasticsearch.search.aggregations.bucket.ParentIdAggIT: 
+new Added class 8 : org.elasticsearch.index.mapper.parent.ParentMappingTests: 
+new Added class 9 : org.elasticsearch.index.query.QueryBuilders: 
+new Added class 10 : org.elasticsearch.search.SearchModule: 
+new Added class 11 : org.elasticsearch.search.SearchService: 
+new Added class 12 : org.elasticsearch.search.Reaper: 
+new Added class 13 : org.elasticsearch.index.get.ShardGetService: 
+testing relationship 
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:24  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:3  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:1  r16:2  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  3   7 :  0   8 :  0   9 :  0   10 :  0   11 :  3   12 :  0   13 :  24   14 :  2   15 :  1   16 :  2   17 :  0   

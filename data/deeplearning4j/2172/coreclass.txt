@@ -1,0 +1,13 @@
+Model:0.5433333333333333
+MultiLayerNetwork:0.4866666666666667
+ComputationGraph:0.3
+FrozenLayer:0.2633333333333333
+LayerUpdater:0.24333333333333335
+BarnesHutTsne:0.23
+TestUpdaters:0.23
+SimpleOptimizableModel:0.23
+BaseOptimizer:0.21333333333333335
+VariationalAutoencoder:0.18666666666666668
+BaseLayer:0.18
+BatchNormalizationTest:0.17
+GradientCheckUtil:0.13666666666666666

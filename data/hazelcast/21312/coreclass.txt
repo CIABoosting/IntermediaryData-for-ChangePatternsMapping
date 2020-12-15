@@ -1,0 +1,14 @@
+SecurityContext:0.54
+SecureRequest:0.3917619047619048
+InstancePermission:0.2966666666666667
+IdGeneratorPermission:0.14666666666666667
+SemaphorePermission:0.14666666666666667
+LockPermission:0.14666666666666667
+AtomicNumberPermission:0.14666666666666667
+MapPermission:0.14666666666666667
+ListPermission:0.14666666666666667
+CountDownLatchPermission:0.14666666666666667
+ExecutorServicePermission:0.14666666666666667
+QueuePermission:0.14666666666666667
+TopicPermission:0.14666666666666667
+ClientPacketProcessor:0.1

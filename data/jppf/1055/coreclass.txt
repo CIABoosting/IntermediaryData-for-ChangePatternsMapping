@@ -1,0 +1,14 @@
+NetworkUtils:0.39142857142857146
+NodeNioServer:0.35333333333333333
+JPPFNode:0.32666666666666666
+ChannelInputSource:0.24
+StreamInputSource:0.24
+SocketWrapperInputSource:0.23666666666666666
+AbstractSocketWrapper:0.21
+NodeShutdownHook:0.19
+TaskQueueChecker:0.15083333333333335
+IdleState:0.11
+WaitInitialBundleState:0.11
+SendInitialBundleState:0.11
+SendingBundleState:0.11
+WaitingResultsState:0.11

@@ -1,0 +1,48 @@
+Compared Result of  two versions
+Number of New Class: 21
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.server.engine.AbstractServerEngine: 
+new Added class 1 : arinc661.common.model.core.ARINCLayer: 
+new Added class 2 : arinc661.server.engine.BasicServerEngine: 
+new Added class 3 : arinc661.server.parser.cockpit.CockpitConfigurationHandler: 
+new Added class 4 : arinc661.server.model.ConcreteLayer: 
+new Added class 5 : arinc661.server.model.stdrenderer.EditBoxNumericRenderer: 
+new Added class 6 : arinc661.server.model.stdrenderer.EditBoxTextRenderer: 
+new Added class 7 : arinc661.appli.editor.engine.EditorApplications: 
+new Added class 8 : arinc661.appli.editor.EditorOpenDFTest: 
+new Added class 9 : arinc661.server.model.stdrenderer.LabelRendererTest: 
+new Added class 10 : arinc661.common.conf.LoggerProvider: 
+new Added class 11 : arinc661.common.conf.Logging: 
+new Added class 12 : arinc661.server.model.stdrenderer.MapHorzPanelRenderer: 
+new Added class 13 : arinc661.testutils.ServerComUtilities: 
+new Added class 14 : arinc661.server.engine.ServerEngine: 
+new Added class 15 : arinc661.server.wm.ServerWindow: 
+new Added class 16 : arinc661.server.model.stdrenderer.SliderRenderer: 
+new Added class 17 : plugin.editor.look.synth.parser.SynthLookGeneratorTest: 
+new Added class 18 : arinc661.server.ui.synth2.SynthSliderUI: 
+new Added class 19 : plugin.editor.look.synth.parser.SynthToLookModelParser: 
+new Added class 20 : plugin.editor.look.synth.tosynth.writer.ToSynthGeneratorTest: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 4£º  r0:0  r1:0  r2:0  r3:4  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 14£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 4£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:4  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 3  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:6  r12:0  r13:4  r14:0  r15:0  r16:1  r17:0  
+class 7  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 8  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-6  r9:0  r10:31  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:9  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:25  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 4£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:12  r14:10  r15:0  r16:7  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-2  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  1   3 :  9   4 :  5   5 :  8   6 :  0   7 :  0   8 :  26   9 :  0   10 :  50   11 :  60   12 :  0   13 :  40   14 :  15   15 :  0   16 :  8   17 :  0   

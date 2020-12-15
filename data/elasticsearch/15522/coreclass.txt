@@ -1,0 +1,13 @@
+QueryBuilder:0.71
+QueryParseContext:0.3566666666666667
+EmptyQueryBuilder:0.28
+FilteredQueryBuilder:0.20666666666666667
+AndQueryBuilder:0.2
+AbstractQueryBuilder:0.2
+OrQueryBuilder:0.2
+BoolQueryBuilder:0.18166666666666667
+ConstantScoreQueryBuilder:0.15333333333333332
+NotQueryBuilder:0.15
+FuzzyQueryParser:0.11666666666666667
+BoolQueryParser:0.11
+TermsQueryParser:0.10666666666666667

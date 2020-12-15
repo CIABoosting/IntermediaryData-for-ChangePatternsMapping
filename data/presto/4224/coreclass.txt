@@ -1,0 +1,15 @@
+WindowAssertions:0.41333333333333333
+TestAggregateWindowFunction:0.26
+TestMultipleWindowSpecifications:0.23
+AbstractTestWindowFunction:0.18333333333333332
+TestFirstValueFunction:0.17666666666666667
+TestNthValueFunction:0.17666666666666667
+TestLastValueFunction:0.17666666666666667
+TestCumulativeDistributionFunction:0.13
+TestLeadFunction:0.13
+TestPercentRankFunction:0.13
+TestLagFunction:0.13
+TestRowNumberFunction:0.11666666666666667
+TestNTileFunction:0.09333333333333334
+TestDenseRankFunction:0.09333333333333334
+TestRankFunction:0.09333333333333334

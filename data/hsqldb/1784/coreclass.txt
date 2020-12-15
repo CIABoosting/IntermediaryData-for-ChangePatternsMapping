@@ -1,0 +1,11 @@
+Trace:0.45
+Database:0.36666666666666664
+Like:0.29333333333333333
+DatabaseCommandInterpreter:0.2866666666666667
+Parser:0.27666666666666667
+jdbcDatabaseMetaData:0.25666666666666665
+jdbcResultSetMetaData:0.25333333333333335
+Expression:0.21
+ScriptReaderBinary:0.18
+Session:0.16666666666666666
+RowOutputTextQuoted:0.11

@@ -1,0 +1,10 @@
+OutputLayer:0.41
+BaseMultiLayerNetwork:0.4
+Sigmoid:0.305
+OutputLayerGradient:0.27666666666666667
+LossFunctionTests:0.2733333333333333
+OutputLayerOptimizer:0.26777777777777784
+BaseLayer:0.25666666666666665
+SoftMax:0.19666666666666666
+BaseActivationFunction:0.15333333333333332
+DBNTest:0.01

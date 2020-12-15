@@ -1,0 +1,10 @@
+ICacheService:0.69
+AbstractCacheService:0.41
+PreJoinCacheConfig:0.29444444444444445
+AbstractHazelcastCacheManager:0.29
+CacheCreateConfigOperation:0.22
+HazelcastClientCacheManager:0.21777777777777782
+HazelcastServerCacheManager:0.20777777777777778
+InvocationUtil:0.11666666666666667
+InvokeOnMemberFunction:0.10666666666666667
+CacheDataSerializerHook:0.09666666666666666

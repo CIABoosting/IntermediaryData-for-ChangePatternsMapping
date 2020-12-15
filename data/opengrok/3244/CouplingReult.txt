@@ -1,0 +1,32 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opensolaris.opengrok.index.CommandLineOptions: 
+new Added class 1 : org.opensolaris.opengrok.search.context.Context: 
+new Added class 2 : org.opensolaris.opengrok.index.DefaultIndexChangedListener: 
+new Added class 3 : org.opensolaris.opengrok.web.EftarFile: 
+new Added class 4 : org.opensolaris.opengrok.web.EftarFileReader: 
+new Added class 5 : org.opensolaris.opengrok.search.context.HistoryContext: 
+new Added class 6 : org.opensolaris.opengrok.index.Indexer: 
+new Added class 7 : org.opensolaris.opengrok.management.client.NotificationsFrame: 
+new Added class 8 : org.opensolaris.opengrok.management.OGAgent: 
+new Added class 9 : org.opensolaris.opengrok.OpenGrokLogger: 
+new Added class 10 : org.opensolaris.opengrok.management.client.OpenGrokTrayApp: 
+new Added class 11 : org.opensolaris.opengrok.history.RCSget: 
+new Added class 12 : org.opensolaris.opengrok.search.Search: 
+new Added class 13 : org.opensolaris.opengrok.search.SearchEngine: 
+new Added class 14 : org.opensolaris.opengrok.management.client.SettingsFrame: 
+new Added class 15 : org.opensolaris.opengrok.search.Summarizer: 
+new Added class 16 : org.opensolaris.opengrok.analysis.TagFilter: 
+new Added class 17 : org.opensolaris.opengrok.web.Util: 
+testing relationship 
+class 6  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  1   7 :  0   8 :  13   9 :  0   10 :  7   11 :  13   12 :  0   13 :  12   14 :  0   15 :  0   16 :  0   17 :  0   

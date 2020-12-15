@@ -1,0 +1,9 @@
+DataType:0.63
+BaseJdbcClient:0.4
+JdbcRecordSink:0.30666666666666664
+CassandraRecordSink:0.30666666666666664
+JdbcRecordCursor:0.25666666666666665
+TestMySqlTypeMapping:0.20666666666666667
+TestPostgresSqlTypeMapping:0.20666666666666667
+RecordPageSink:0.20666666666666667
+RecordSink:0.2

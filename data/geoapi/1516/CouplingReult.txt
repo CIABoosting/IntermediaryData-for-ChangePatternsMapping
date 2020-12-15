@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opengis.webservice.capability.CapabilitiesService: 
+new Added class 1 : org.opengis.metadata.citation.CitationFactory: 
+new Added class 2 : org.opengis.metadata.citation.Contact: 
+new Added class 3 : org.opengis.metadata.identification.DataIdentification: 
+new Added class 4 : org.opengis.metadata.DescriptionsTest: 
+new Added class 5 : org.opengis.metadata.distribution.DigitalTransferOptions: 
+new Added class 6 : org.opengis.style.ExternalGraphic: 
+new Added class 7 : org.opengis.style.ExternalMark: 
+new Added class 8 : org.opengis.style.FeatureTypeStyle: 
+new Added class 9 : org.opengis.metadata.MetaData: 
+new Added class 10 : org.opengis.metadata.MetadataExtensionInformation: 
+new Added class 11 : org.opengis.observation.Observation: 
+new Added class 12 : org.opengis.metadata.citation.OnLineResource: 
+new Added class 13 : org.opengis.sld.RemoteOWS: 
+new Added class 14 : org.opengis.style.Rule: 
+new Added class 15 : org.opengis.sld.SLDFactory: 
+new Added class 16 : org.opengis.sld.SLDLibrary: 
+new Added class 17 : org.opengis.style.StyleFactory: 
+new Added class 18 : org.opengis.style.StyleVisitor: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

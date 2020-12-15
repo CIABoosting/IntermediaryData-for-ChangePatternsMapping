@@ -1,0 +1,14 @@
+StorageManager:0.49666666666666665
+StaticTupleAppendingCursor:0.2906666666666667
+TestColumnMappingTupleStream:0.26666666666666666
+RetryDriver:0.24333333333333335
+HiveImportManager:0.21666666666666667
+HiveImportRegistry:0.19666666666666666
+TupleStreamImporter:0.165
+StaticTupleAppendingTupleStream:0.1547222222222222
+MergeCursor:0.14
+SumQuery:0.13666666666666666
+ImportHiveTableQuery:0.11333333333333333
+TestStreamWriterTupleValueSink:0.09666666666666666
+ConvertCsv:0.09
+ServerMainModule:0.08

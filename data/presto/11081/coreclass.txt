@@ -1,0 +1,13 @@
+TestDiscoveryNodeManager:0.28
+DualSplit:0.25
+InMemoryNodeManager:0.23111111111111116
+TestingPrestoServer:0.20333333333333334
+DiscoveryNodeManager:0.20333333333333334
+HttpLocationFactory:0.19666666666666666
+InformationSchemaSplitManager:0.19
+PeriodicImportRunnable:0.19
+PrestoServer:0.1613888888888889
+SystemSplitManager:0.12666666666666668
+SystemSplit:0.1175
+DualSplitManager:0.09666666666666666
+TestSqlStageExecution:0.09333333333333334

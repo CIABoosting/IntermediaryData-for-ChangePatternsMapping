@@ -1,0 +1,35 @@
+Compared Result of  two versions
+Number of New Class: 24
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : uk.co.real_logic.aeron.samples.AeronStat: 
+new Added class 1 : uk.co.real_logic.aeron.samples.BasicSubscriber: 
+new Added class 2 : uk.co.real_logic.aeron.driver.DriverConnectionPadding1: 
+new Added class 3 : uk.co.real_logic.aeron.driver.DriverConnectionConductorFields: 
+new Added class 4 : uk.co.real_logic.aeron.driver.DriverConnectionPadding2: 
+new Added class 5 : uk.co.real_logic.aeron.driver.DriverConnectionHotFields: 
+new Added class 6 : uk.co.real_logic.aeron.driver.DriverConnectionPadding3: 
+new Added class 7 : uk.co.real_logic.aeron.driver.DriverConnection: 
+new Added class 8 : uk.co.real_logic.aeron.samples.EmbeddedPingPong: 
+new Added class 9 : uk.co.real_logic.aeron.samples.EmbeddedThroughput: 
+new Added class 10 : uk.co.real_logic.aeron.samples.raw.HackSelectReceiveSendUdpPong: 
+new Added class 11 : uk.co.real_logic.aeron.samples.LowLatencyMediaDriver: 
+new Added class 12 : uk.co.real_logic.aeron.driver.MediaDriver: 
+new Added class 13 : uk.co.real_logic.aeron.samples.Ping: 
+new Added class 14 : uk.co.real_logic.aeron.samples.Pong: 
+new Added class 15 : uk.co.real_logic.aeron.samples.RateSubscriber: 
+new Added class 16 : uk.co.real_logic.aeron.samples.raw.ReceiveSendUdpPong: 
+new Added class 17 : uk.co.real_logic.aeron.samples.raw.SelectReceiveSendUdpPong: 
+new Added class 18 : uk.co.real_logic.aeron.samples.raw.SendHackSelectReceiveUdpPing: 
+new Added class 19 : uk.co.real_logic.aeron.samples.raw.SendReceiveUdpPing: 
+new Added class 20 : uk.co.real_logic.aeron.samples.raw.SendSelectReceiveUdpPing: 
+new Added class 21 : uk.co.real_logic.aeron.samples.StreamingPublisher: 
+new Added class 22 : uk.co.real_logic.aeron.samples.raw.TransferToPing: 
+new Added class 23 : uk.co.real_logic.aeron.samples.raw.TransferToPong: 
+testing relationship 
+class 3  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  5   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

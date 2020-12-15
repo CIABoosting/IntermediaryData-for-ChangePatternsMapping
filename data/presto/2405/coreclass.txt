@@ -1,0 +1,17 @@
+SingleLongDecimalWithOverflowState:0.33
+SingleDigestAndPercentileState:0.21333333333333335
+SingleDigestAndPercentileArrayState:0.21
+GroupedMinMaxNState:0.16333333333333333
+GroupedDigestAndPercentileArrayState:0.16333333333333333
+GroupedDigestAndPercentileState:0.16333333333333333
+GroupedMinMaxByNState:0.16333333333333333
+GroupedState:0.16333333333333333
+GroupedHyperLogLogState:0.16333333333333333
+GroupedArrayAggregationState:0.16333333333333333
+SingleState:0.16
+SingleHyperLogLogState:0.16
+SingleMinMaxByNState:0.16
+SingleMinMaxNState:0.16
+SingleArrayAggregationState:0.16
+GroupedLongDecimalWithOverflowAndLongState:0.13
+GroupedLongDecimalWithOverflowState:0.11666666666666667

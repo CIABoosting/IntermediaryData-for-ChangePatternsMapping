@@ -1,0 +1,17 @@
+Builder:0.5766666666666667
+Settings:0.44
+TimeValue:0.38333333333333336
+ByteSizeValue:0.3466666666666667
+SharedClusterSnapshotRestoreTests:0.25
+BigArraysTests:0.23666666666666666
+DedicatedClusterSnapshotRestoreTests:0.19
+IndexRecoveryTests:0.19
+CorruptedFileTest:0.17333333333333334
+RecoverySettingsTest:0.15666666666666668
+RepositoriesTests:0.14
+RelocationTests:0.12666666666666668
+ByteSizeValueTests:0.12
+ClusterSettingsTests:0.12
+SnapshotBackwardsCompatibilityTest:0.11333333333333333
+BufferedTranslogTests:0.08333333333333333
+SettingsValidatorTests:0.08333333333333333

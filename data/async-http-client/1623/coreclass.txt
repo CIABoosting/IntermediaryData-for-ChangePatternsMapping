@@ -1,0 +1,16 @@
+Request:0.59
+HttpTxContext:0.43666666666666665
+UriComponents:0.34
+RequestImpl:0.2733333333333333
+AsyncHttpProviderUtils:0.24
+ResumableAsyncHandler:0.23666666666666666
+HttpProtocol:0.19666666666666666
+AsyncProvidersBasicTest:0.19
+RequestBuilderBase:0.18
+RequestBuilderTest:0.17666666666666667
+NettyRequestFactory:0.12
+AsyncHttpClientFilter:0.11666666666666667
+ProxyFilter:0.10666666666666667
+RedirectHandler:0.09666666666666666
+AuthorizationHandler:0.09333333333333334
+ResumableAsyncHandlerTest:0.08

@@ -1,0 +1,14 @@
+FloatStream:0.34
+DoubleStream:0.34
+StreamReaders:0.26666666666666666
+LongStreamDwrf:0.26416666666666666
+OrcRecordReader:0.21666666666666667
+ByteStreamReader:0.215
+BooleanStreamReader:0.215
+SliceDirectStreamReader:0.20333333333333334
+FloatStreamReader:0.19916666666666666
+DoubleStreamReader:0.19916666666666666
+TimestampStreamReader:0.19333333333333333
+LongDirectStreamReader:0.16333333333333333
+LongDictionaryStreamReader:0.15666666666666668
+SliceDictionaryStreamReader:0.15666666666666668

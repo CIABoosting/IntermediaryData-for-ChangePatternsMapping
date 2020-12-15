@@ -1,0 +1,9 @@
+ComparisonExpression:0.36
+RelationPlanner:0.305
+PushDownNegationsExpressionRewriter:0.3027420634920635
+Rewriter:0.29333333333333333
+ExpressionUtils:0.27666666666666667
+LogicalBinaryExpression:0.17333333333333334
+DomainTranslator:0.14
+ExtractCommonPredicatesExpressionRewriter:0.12
+SimplifyExpressions:0.08666666666666667

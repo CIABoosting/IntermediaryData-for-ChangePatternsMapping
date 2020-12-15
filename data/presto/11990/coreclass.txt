@@ -1,0 +1,13 @@
+SqlStageExecution:0.4766666666666667
+HttpRemoteTask:0.43333333333333335
+StageExecutionNode:0.365
+AbstractTestQueries:0.34
+SqlQueryExecution:0.34
+TestDistributedQueries:0.27
+SqlTaskManager:0.21333333333333335
+SqlTaskExecution:0.19666666666666666
+TaskWorker:0.18666666666666668
+StageExecutionPlan:0.18444444444444444
+SqlQueryManager:0.17666666666666667
+ExchangePageIterator:0.15
+SplitWorker:0.0475

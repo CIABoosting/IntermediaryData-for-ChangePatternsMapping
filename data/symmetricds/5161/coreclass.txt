@@ -1,0 +1,17 @@
+ParameterConstants:0.5397777777777778
+StagingDataWriter:0.4666666666666667
+StagedResource:0.43333333333333335
+AbstractSymmetricEngine:0.31333333333333335
+IProtocolDataWriterListener:0.29055555555555557
+StagingManager:0.29
+IStagedResource:0.29
+ProtocolDataReader:0.26
+DataLoaderService:0.23666666666666666
+AbstractProtocolDataWriter:0.18666666666666668
+ClientSymmetricEngine:0.18333333333333332
+IStagingManager:0.16333333333333333
+DataExtractorService:0.14666666666666667
+LoadIntoDatabaseOnArrivalListener:0.03
+StagingDataWriterTest:0.01
+ThresholdFileWriter:0.01
+ThresholdFileWriterTest:0.0

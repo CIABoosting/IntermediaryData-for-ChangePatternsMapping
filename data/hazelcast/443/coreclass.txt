@@ -1,0 +1,17 @@
+PacketFilter:0.8433333333333334
+FirewallingConnectionManager:0.47
+MembershipManager:0.4066666666666667
+ClusterServiceImpl:0.3566666666666667
+MembershipUpdateTest:0.22333333333333333
+PacketFiltersUtil:0.21333333333333335
+PromoteLiteMemberTest:0.20666666666666667
+MembershipFailureTest:0.20666666666666667
+MemberListJoinVersionTest:0.15
+DirtyBackupTest:0.10666666666666667
+AntiEntropyCorrectnessTest:0.09333333333333334
+OperationPacketFilter:0.07666666666666666
+PacketDelayProps:0.03333333333333333
+BackupPacketDropFilter:0.02666666666666667
+EndpointAwarePacketFilter:0.02666666666666667
+BackupPacketReorderFilter:0.02666666666666667
+EndpointAgnosticPacketFilter:0.006666666666666667

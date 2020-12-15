@@ -1,0 +1,13 @@
+MovAvgPipelineAggregatorBuilder:0.5466666666666666
+LinearModel:0.25
+HoltWintersModel:0.20166666666666666
+EwmaModel:0.19833333333333333
+BucketScriptPipelineAggregatorBuilder:0.19666666666666666
+BucketSelectorPipelineAggregatorBuilder:0.19666666666666666
+HoltLinearModel:0.19
+SimpleModel:0.14166666666666666
+HoltWintersModelBuilder:0.14
+HoltLinearModelBuilder:0.12333333333333334
+EWMAModelBuilder:0.11
+LinearModelBuilder:0.07666666666666666
+SimpleModelBuilder:0.07666666666666666

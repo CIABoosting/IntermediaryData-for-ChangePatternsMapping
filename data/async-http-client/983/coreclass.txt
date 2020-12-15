@@ -1,0 +1,16 @@
+Body:0.5766666666666667
+MultipartPart:0.33
+BodyChunkedInput:0.26666666666666666
+MessageEndMultipartPart:0.25333333333333335
+MultipartBodyTest:0.17
+ByteArrayMultipartPart:0.16666666666666666
+ByteArrayBodyGeneratorTest:0.14
+FeedableBodyGeneratorTest:0.12
+MultipartBody:0.07666666666666666
+PushBody:0.06666666666666667
+StreamedBody:0.06
+ByteBody:0.04666666666666667
+FileMultipartPart:0.043333333333333335
+SimpleFeedableBodyGenerator:0.03333333333333333
+InputStreamBody:0.02666666666666667
+ByteBufVisitor:0.01

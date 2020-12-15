@@ -1,0 +1,14 @@
+Transport:0.6866666666666666
+NettyTransport:0.31
+DelegateTransport:0.2966666666666667
+LocalTransport:0.2733333333333333
+MessageChannelHandler:0.25333333333333335
+FailAndRetryMockTransport:0.23
+TransportService:0.22333333333333333
+TransportInfo:0.20333333333333334
+NettyTransportChannel:0.20333333333333334
+ClientChannelPipelineFactory:0.11666666666666667
+ServerChannelPipelineFactory:0.11666666666666667
+NettyTransportTests:0.07666666666666666
+Fields:0.07
+NettyTransportMultiPortIntegrationTests:0.023333333333333334

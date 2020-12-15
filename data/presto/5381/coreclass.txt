@@ -1,0 +1,10 @@
+DistributedQueryRunner:0.55
+PrestoServer:0.26666666666666666
+TestDistributedQueriesNoHashGeneration:0.2087619047619048
+TestingPrestoServer:0.20333333333333334
+TestQueues:0.2
+ConditionalModule:0.15194444444444447
+TpchQueryRunner:0.14333333333333334
+TestFileResourceGroupConfigurationManager:0.14333333333333334
+CoordinatorModule:0.135
+FileResourceGroupsModule:0.11

@@ -1,0 +1,16 @@
+QueueContainer:0.48333333333333334
+PollOperation:0.29333333333333333
+QueueService:0.2833333333333333
+TxOfferOperation:0.2733333333333333
+TxPollOperation:0.2633333333333333
+TransactionalQueueOperation:0.26
+OfferOperation:0.23666666666666666
+OperationServiceImpl:0.21333333333333335
+QueueItem:0.17333333333333334
+QueueMigrationOperation:0.16
+AddAllOperation:0.15333333333333332
+TransactionalQueueProxySupport:0.15
+CompareAndRemoveOperation:0.14333333333333334
+ClearOperation:0.13666666666666666
+RemoveOperation:0.12333333333333334
+DrainOperation:0.12333333333333334

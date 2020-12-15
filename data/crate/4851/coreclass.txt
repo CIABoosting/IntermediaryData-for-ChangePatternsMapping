@@ -1,0 +1,15 @@
+Setup:0.42
+SQLTypeMappingTest:0.3433333333333333
+TransportSQLActionTest:0.33
+SelectStatementAnalyzerTest:0.29333333333333333
+ExpressionAnalyzer:0.2875
+TransportSQLActionSingleNodeTest:0.24666666666666667
+BaseAnalyzerTest:0.23777777777777775
+GroupByAggregateTest:0.22666666666666666
+PartitionedTableIntegrationTest:0.22333333333333333
+ExpressionAnalyzerNormalizeTest:0.21
+PlannerTest:0.2
+AbstractDynamicTableInfo:0.17666666666666667
+TestModule:0.12004545454545451
+TestMetaDataModule:0.11333333333333333
+DocTableInfoTest:0.013333333333333334

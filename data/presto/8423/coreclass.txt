@@ -1,0 +1,10 @@
+GroupByHash:0.5333333333333333
+TestGroupByHash:0.20666666666666667
+RowNumberOperator:0.17
+TopNRowNumberOperator:0.15666666666666668
+KeyValuePairs:0.13333333333333333
+ArrayDistinctFunction:0.13333333333333333
+BenchmarkGroupByHash:0.13
+ChannelSetBuilder:0.12333333333333334
+MarkDistinctHash:0.11666666666666667
+GroupByHashAggregationBuilder:0.11666666666666667

@@ -1,0 +1,12 @@
+Connector:0.7466666666666667
+ConnectorManager:0.16666666666666666
+TpchConnectorFactory:0.13
+IndexedTpchConnectorFactory:0.12333333333333334
+SampledTpchConnectorFactory:0.12333333333333334
+JmxConnectorFactory:0.12
+CassandraConnector:0.11666666666666667
+SystemConnector:0.11666666666666667
+JdbcConnector:0.11666666666666667
+ExampleConnector:0.11666666666666667
+KafkaConnector:0.11666666666666667
+HiveConnector:0.11666666666666667

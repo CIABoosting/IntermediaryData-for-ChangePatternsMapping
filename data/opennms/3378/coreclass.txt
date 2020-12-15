@@ -1,0 +1,17 @@
+FindById:0.3781693121693122
+OnmsUserNotification:0.37
+LazyUserNotification:0.36
+HibernateDaoTestConfig:0.32666666666666666
+NotificationMappingQuery:0.29
+UserNotificationFactory:0.2833333333333333
+UserNotificationDaoJdbc:0.27
+NotificationDaoJdbc:0.21
+JdbcDaoTestConfig:0.19055555555555556
+AbstractDaoTestCase:0.19
+UserNotificationDelete:0.18333333333333332
+UserNotificationMappingQuery:0.13666666666666666
+DaoTestConfig:0.12
+NotificationSaveOrUpdate:0.11333333333333333
+UserNotificationSaveOrUpdate:0.08666666666666667
+NotificationDaoTest:0.08333333333333333
+UserNotificationDaoTest:0.050833333333333335

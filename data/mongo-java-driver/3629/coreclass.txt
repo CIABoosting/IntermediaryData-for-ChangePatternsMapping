@@ -1,0 +1,13 @@
+Pool:0.71
+BufferPool:0.39666666666666667
+PooledConnection:0.25222222222222224
+SimplePool:0.22333333333333333
+PowerOfTwoByteBufferPool:0.21666666666666667
+PooledByteBufferOutputBuffer:0.20666666666666667
+DefaultConnection:0.18
+PooledAsyncConnection:0.16333333333333333
+PooledInputBuffer:0.16333333333333333
+SimplePoolTest:0.12333333333333334
+DefaultAsyncConnectionPool:0.09333333333333334
+ResponseHeaderCallback:0.08333333333333333
+DefaultConnectionPool:0.06

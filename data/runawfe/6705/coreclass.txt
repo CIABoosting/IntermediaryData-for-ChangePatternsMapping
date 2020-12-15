@@ -1,0 +1,17 @@
+Process:0.44666666666666666
+CachingLogic:0.41333333333333333
+Utils:0.38
+ComplexVariable:0.35333333333333333
+ExecutionContext:0.22
+MapDelegableVariableProvider:0.2
+MapFormat:0.17333333333333334
+BaseCacheCtrl:0.16
+BotInvokerServiceBean:0.15333333333333332
+ChangeListener:0.14
+GroovyScriptBinding:0.13
+TransactionalExecutor:0.11666666666666667
+BotInvokerFactory:0.1
+DirtyTransactionSynchronization:0.09
+EjbTransactionSupport:0.08666666666666667
+ChangeListenerGuard:0.06666666666666667
+DirtyTransactionsStorage:0.013333333333333334

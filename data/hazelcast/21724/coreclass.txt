@@ -1,0 +1,15 @@
+HazelcastInstance:0.5966666666666667
+DistributedObject:0.5366666666666666
+PartitionService:0.5366666666666666
+HazelcastClient:0.37666666666666665
+HazelcastInstanceImpl:0.30666666666666664
+PartitionStrategy:0.27051984126984113
+ClientProxy:0.24333333333333335
+HazelcastClientProxy:0.23666666666666666
+HazelcastInstanceProxy:0.19333333333333333
+PartitionKeyUtil:0.16666666666666666
+IdGeneratorProxy:0.12
+ClientTxnProxy:0.11333333333333333
+PartitionControlledIdTest:0.09333333333333334
+AbstractDistributedObject:0.08
+PartitionServiceProxy:0.07777777777777778

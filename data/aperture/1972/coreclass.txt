@@ -1,0 +1,14 @@
+ExtractorServiceActivator:0.31333333333333335
+ApertureRuntimeActivator:0.22666666666666666
+CrawlerServiceActivator:0.15333333333333332
+SecurityServiceActivator:0.15333333333333332
+DataSourceServiceActivator:0.04666666666666667
+DataOpenerServiceActivator:0.04666666666666667
+DataSourceDetectorServiceActivator:0.04666666666666667
+AccessorServiceActivator:0.04666666666666667
+MimeIdentifierServiceActivator:0.04666666666666667
+LinkExtractorServiceActivator:0.04666666666666667
+CrawlerServiceListener:0.019007936507936505
+DeciderListener:0.019007936507936505
+ManagerListener:0.019007936507936505
+SubCrawlerServiceListener:0.019007936507936505

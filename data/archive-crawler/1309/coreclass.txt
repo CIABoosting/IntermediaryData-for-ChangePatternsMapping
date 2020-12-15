@@ -1,0 +1,13 @@
+HttpMethod:0.5658333333333333
+HttpMethodBase:0.44666666666666666
+HttpConnection:0.33
+MultiThreadedHttpConnectionManager:0.26666666666666666
+HttpClient:0.25666666666666665
+HttpConnectionAdapter:0.24333333333333335
+SimpleHttpServer:0.21333333333333335
+WrappedOutputStream:0.185
+ConnectionPool:0.15333333333333332
+FetchHTTP:0.13666666666666666
+ReferenceQueueThread:0.11666666666666667
+ConnectionSource:0.05333333333333334
+HttpConnectionWithReference:0.0025

@@ -1,0 +1,10 @@
+AbstractLdapIntegrationTests:0.35
+DefaultLdapAuthoritiesPopulatorTests:0.2866666666666667
+DefaultInitialDirContextFactoryTests:0.27666666666666667
+SpringSecurityLdapTemplateTests:0.24
+LdapUserDetailsManagerTests:0.21666666666666667
+LdapUtilsTests:0.20333333333333334
+BindAuthenticatorTests:0.19666666666666666
+PasswordComparisonAuthenticatorTests:0.19
+PasswordComparisonAuthenticatorMockTests:0.13333333333333333
+MockAuthenticator:0.1

@@ -1,0 +1,9 @@
+Builder:0.6
+NeuralNetConfiguration:0.4266666666666667
+TestOptimizers:0.29333333333333333
+LayerwiseConfigurationTest:0.22333333333333333
+BackPropMLPTest:0.20666666666666667
+UpdaterCreator:0.15666666666666668
+TestUpdaters:0.15333333333333332
+OutputLayerTest:0.15
+GradientCheckTests:0.12

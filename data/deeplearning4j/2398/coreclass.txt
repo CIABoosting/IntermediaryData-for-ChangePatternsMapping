@@ -1,0 +1,11 @@
+Builder:0.64
+ParallelWrapper:0.4666666666666667
+RecordReaderDataSetIterator:0.34
+Model:0.26666666666666666
+SimpleOptimizableModel:0.20083333333333334
+FrozenLayer:0.19933333333333333
+VariationalAutoencoder:0.18466666666666667
+BarnesHutTsne:0.1575
+BaseLayer:0.1575
+IteratorRunnable:0.13333333333333333
+ParameterServerParallelWrapperTest:0.08666666666666667

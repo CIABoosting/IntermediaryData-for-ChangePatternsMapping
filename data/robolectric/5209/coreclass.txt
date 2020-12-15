@@ -1,0 +1,9 @@
+InstrumentingClassLoaderTest:0.5133333333333333
+Setup:0.3333333333333333
+MethodInterceptingSetup:0.2866666666666667
+ClassInstrumentor:0.25666666666666665
+AsmInstrumentingClassLoader:0.22333333333333333
+Util:0.2
+MethodInterceptingClassRemappingSetup:0.2
+FakeClass:0.1276190476190476
+ClassRemappingSetup:0.10666666666666667

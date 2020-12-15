@@ -1,0 +1,16 @@
+SocketIOSession:0.6633333333333333
+Transport:0.62
+SocketIOSessionOutbound:0.3883333333333333
+SessionImpl:0.29333333333333333
+SocketIOAtmosphereInterceptor:0.2833333333333333
+SocketIOWebSocketEventListener:0.24666666666666667
+SocketIOWebSocketSessionWrapperImpl:0.21
+Jetty8WebSocket:0.20666666666666667
+SocketIOSessionManagerImpl:0.16333333333333333
+XHRSessionHelper:0.14666666666666667
+JSONPPollingTransport:0.08333333333333333
+AbstractTransport:0.08
+XHRTransport:0.07333333333333333
+SocketIOSessionFactory:0.04666666666666667
+WebSocketTransport:0.04666666666666667
+SocketIOProtocol:0.03666666666666667

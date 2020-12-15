@@ -1,0 +1,11 @@
+IngestDocument:0.49
+GeoIpProcessor:0.32
+UserAgentProcessor:0.29333333333333333
+AttachmentProcessor:0.29
+GeoIpProcessorTests:0.19666666666666666
+AttachmentProcessorTests:0.17666666666666667
+GeoIpProcessorFactoryTests:0.13333333333333333
+AttachmentProcessorFactoryTests:0.11333333333333333
+Factory:0.05333333333333334
+UserAgentProcessorFactoryTests:0.02666666666666667
+UserAgentProcessorTests:0.02666666666666667

@@ -1,0 +1,93 @@
+Compared Result of  two versions
+Number of New Class: 46
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.applications.jchempaint.BCJCPPopupController: 
+new Added class 1 : net.bioclipse.plugins.Bc_jmolPlugin: 
+new Added class 2 : net.bioclipse.plugins.actions.Bonds10Action: 
+new Added class 3 : net.bioclipse.plugins.actions.Bonds15Action: 
+new Added class 4 : net.bioclipse.plugins.actions.Bonds20Action: 
+new Added class 5 : net.bioclipse.plugins.actions.BondsNoneAction: 
+new Added class 6 : bc_cdk.CDKConstants: 
+new Added class 7 : net.bioclipse.plugins.adapter.cdk.CdkJmolAdapter: 
+new Added class 8 : net.bioclipse.model.CDKResource: 
+new Added class 9 : net.bioclipse.plugins.views.ChemObjectTreeView: 
+new Added class 10 : net.bioclipse.plugins.bc_spectrum.views.spectrumCharts.ContinuousSpectrumView: 
+new Added class 11 : net.bioclipse.action.contribution.ConvertActionDelegate: 
+new Added class 12 : net.bioclipse.plugins.dialogs.ConvertMoleculeDialog: 
+new Added class 13 : net.bioclipse.plugins.actions.DeselectAllAction: 
+new Added class 14 : spok.parser.JcampToCMLSpectrumMapper: 
+new Added class 15 : net.bioclipse.editors.jmol.JmolCompletionProcessor: 
+new Added class 16 : net.bioclipse.plugins.views.JmolPanel: 
+new Added class 17 : net.bioclipse.model.JmolResource: 
+new Added class 18 : net.bioclipse.model.JmolResourcePropertySource: 
+new Added class 19 : net.bioclipse.editors.jmol.JmolRuleScanner: 
+new Added class 20 : net.bioclipse.plugins.views.JmolView: 
+new Added class 21 : net.bioclipse.plugins.utils.MetadataUtils: 
+new Added class 22 : net.bioclipse.plugins.views.MolListContentProvider: 
+new Added class 23 : net.bioclipse.plugins.views.MolListView: 
+new Added class 24 : net.bioclipse.wizards.NewMoleculeFromSMILESWizard: 
+new Added class 25 : net.bioclipse.wizards.NewMoleculeFromSMILESWizardPage: 
+new Added class 26 : net.bioclipse.wizards.NewMoleculeWizard: 
+new Added class 27 : net.bioclipse.wizards.NewMoleculeWizardPage: 
+new Added class 28 : net.bioclipse.action.contribution.PeakPickingAction: 
+new Added class 29 : net.bioclipse.plugins.bc_spectrum.views.spectrumCharts.PeakSpectrumView: 
+new Added class 30 : net.bioclipse.plugins.bc_spectrum.views.peakTable.PeakView: 
+new Added class 31 : net.bioclipse.plugins.actions.RibbonsAction: 
+new Added class 32 : net.bioclipse.action.contribution.RunJmolScriptActionDelegate: 
+new Added class 33 : net.bioclipse.plugins.actions.SelectAllAction: 
+new Added class 34 : net.bioclipse.plugins.actions.Spacefill0Action: 
+new Added class 35 : net.bioclipse.plugins.actions.Spacefill100Action: 
+new Added class 36 : net.bioclipse.plugins.actions.Spacefill20Action: 
+new Added class 37 : net.bioclipse.plugins.actions.Spacefill25Action: 
+new Added class 38 : net.bioclipse.plugins.bc_spectrum.views.metaData.SpectrumMetadataView: 
+new Added class 39 : net.bioclipse.model.SpectrumResource: 
+new Added class 40 : net.bioclipse.model.SpectrumResourcePropertySource: 
+new Added class 41 : net.bioclipse.plugins.views.Structure2DView: 
+new Added class 42 : net.bioclipse.model.ktable.TownExampleModel: 
+new Added class 43 : net.bioclipse.model.ktable.TownExampleRenderer: 
+new Added class 44 : net.bioclipse.plugins.views.twoDJframe: 
+new Added class 45 : net.bioclipse.plugins.actions.WireframeAction: 
+testing relationship 
+class 2  vs  class 20£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 20£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 20£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 20£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 39£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:4  r17:1  
+class 11  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 13  vs  class 20£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 20  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 17£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 38£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:7  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 23  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 24£º  r0:0  r1:0  r2:0  r3:7  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 26£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 28  vs  class 39£º  r0:0  r1:0  r2:0  r3:2  r4:1  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 39£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:2  r17:1  
+class 30  vs  class 39£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:2  r15:0  r16:3  r17:0  
+class 31  vs  class 20£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 17£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 20£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 20£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 20£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 20£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 20£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 20£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 39£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:1  r6:0  r7:0  r8:2  r9:0  r10:4  r11:0  r12:0  r13:0  r14:1  r15:0  r16:2  r17:0  
+class 39  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 39  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 41  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 45  vs  class 20£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  35   4 :  14   5 :  4   6 :  0   7 :  0   8 :  24   9 :  0   10 :  17   11 :  46   12 :  0   13 :  26   14 :  15   15 :  0   16 :  11   17 :  2   

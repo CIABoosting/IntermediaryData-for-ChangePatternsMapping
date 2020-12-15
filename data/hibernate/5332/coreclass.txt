@@ -1,0 +1,16 @@
+SchemaExport:0.36666666666666664
+HqlParserTest:0.35
+JBossStandaloneJtaExampleTest:0.2966666666666667
+InterceptorTest:0.28
+DriverManagerConnectionProviderImpl:0.25333333333333335
+BaseCoreFunctionalTestCase:0.24
+LegacyTestCase:0.19666666666666666
+ProgrammaticConfTest:0.19
+SequenceHiLoGeneratorNoIncrementTest:0.17666666666666667
+ProxyBreakingTest:0.157984126984127
+OrmVersionTest:0.13666666666666666
+InterceptFieldClassFileTransformerTest:0.12
+SessionFactoryObserverTest:0.09333333333333334
+IdentifierGeneratorStrategyProviderTest:0.09333333333333334
+PersisterClassProviderTest:0.09333333333333334
+DataSourceInjectionTest:0.09333333333333334

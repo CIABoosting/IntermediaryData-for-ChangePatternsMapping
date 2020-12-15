@@ -1,0 +1,14 @@
+AdviceTest:0.44666666666666666
+SuppressionHandler:0.435
+CodeTranslationVisitor:0.3566666666666667
+AdviceVisitor:0.31833333333333336
+DispatchingVisitor:0.30666666666666664
+CodeCopier:0.3044444444444444
+Dispatcher:0.2633333333333333
+Resolved:0.2
+WithExceptionHandling:0.17666666666666667
+AsmVisitorWrapperForDeclaredMethodsTest:0.15333333333333332
+Suppressing:0.10666666666666667
+ForMethodExit:0.1
+MetaDataHandler:0.07
+ForMethodEnter:0.06333333333333334

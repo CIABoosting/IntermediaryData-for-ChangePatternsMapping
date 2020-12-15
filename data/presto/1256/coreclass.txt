@@ -1,0 +1,17 @@
+AccumulatorFactory:0.7866666666666666
+GroupedAccumulator:0.5166666666666667
+AbstractTestQueries:0.47333333333333333
+GenericAccumulatorFactory:0.42333333333333334
+PagesIndex:0.23333333333333334
+H2QueryRunner:0.20666666666666667
+AccumulatorCompiler:0.2
+HashAggregationOperator:0.19666666666666666
+Visitor:0.19666666666666666
+InternalAggregationFunction:0.18333333333333332
+InMemoryHashAggregationBuilder:0.18333333333333332
+Aggregator:0.15944444444444442
+GenericAccumulatorFactoryBinder:0.14666666666666667
+AccumulatorFactoryBinder:0.12333333333333334
+OrderingGroupedAccumulator:0.07
+OrderingAccumulator:0.051666666666666666
+LazyAccumulatorFactoryBinder:0.016666666666666666

@@ -1,0 +1,16 @@
+RecordStore:0.71
+MapDataStore:0.5566666666666666
+WriteBehindStore:0.33666666666666667
+StoreWorker:0.3333333333333333
+DefaultWriteBehindProcessor:0.2966666666666667
+DefaultRecordStore:0.2833333333333333
+EmptyMapDataStore:0.24666666666666667
+WriteThroughStore:0.24666666666666667
+MapServiceContextImpl:0.21666666666666667
+MapProxySupport:0.19333333333333333
+MapFlushBackupOperation:0.17983333333333335
+MapReplicationOperation:0.14333333333333334
+MapFlushMessageTask:0.12
+MapFlushOperation:0.12
+ClientWriteBehindFlushTest:0.02666666666666667
+WriteBehindFlushTest:0.02666666666666667

@@ -1,0 +1,36 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : net.bytebuddy.matcher.AbstractElementMatcherTest: 
+new Added class 1 : net.bytebuddy.matcher.AnnotationTypeMatcher: 
+new Added class 2 : net.bytebuddy.matcher.AnnotationTypeMatcherTest: 
+new Added class 3 : net.bytebuddy.matcher.BooleanMatcher: 
+new Added class 4 : net.bytebuddy.matcher.BooleanMatcherTest: 
+new Added class 5 : net.bytebuddy.dynamic.scaffold.BridgeMethodResolver: 
+new Added class 6 : net.bytebuddy.dynamic.scaffold.Factory: 
+new Added class 7 : net.bytebuddy.dynamic.scaffold.Simple: 
+new Added class 8 : net.bytebuddy.dynamic.scaffold.ConflictHandler: 
+new Added class 9 : net.bytebuddy.dynamic.scaffold.BridgeTarget: 
+new Added class 10 : net.bytebuddy.dynamic.scaffold.Resolved: 
+new Added class 11 : net.bytebuddy.dynamic.scaffold.Candidate: 
+new Added class 12 : net.bytebuddy.matcher.ElementMatchers: 
+new Added class 13 : net.bytebuddy.matcher.MethodExceptionTypeMatcher: 
+new Added class 14 : net.bytebuddy.matcher.MethodParameterTypesMatcher: 
+new Added class 15 : net.bytebuddy.matcher.MethodSortMatcher: 
+new Added class 16 : net.bytebuddy.matcher.ModifierMatcher: 
+new Added class 17 : net.bytebuddy.utility.ObjectPropertyAssertion: 
+new Added class 18 : net.bytebuddy.matcher.StringMatcher: 
+testing relationship 
+class 2  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 7  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-1  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  3   3 :  0   4 :  0   5 :  7   6 :  2   7 :  0   8 :  2   9 :  0   10 :  1   11 :  -1   12 :  0   13 :  6   14 :  1   15 :  0   16 :  1   17 :  0   

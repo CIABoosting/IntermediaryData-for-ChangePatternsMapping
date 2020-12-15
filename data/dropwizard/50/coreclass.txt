@@ -1,0 +1,16 @@
+CliTest:0.49
+DbFastForwardCommandTest:0.19666666666666666
+DbStatusCommandTest:0.19
+DbMigrateCommandTest:0.19
+DbLocksCommandTest:0.19
+DbDumpCommandTest:0.18333333333333332
+DbRollbackCommandTest:0.16333333333333333
+DbPrepareRollbackCommandTest:0.14333333333333334
+DbCommandTest:0.11333333333333333
+DbGenerateDocsCommandTest:0.11333333333333333
+CommandTest:0.11333333333333333
+DbTestCommandTest:0.11333333333333333
+DbTagCommandTest:0.11333333333333333
+DbCalculateChecksumCommandTest:0.11333333333333333
+DbDropAllCommandTest:0.11333333333333333
+DbClearChecksumsCommandTest:0.11333333333333333

@@ -1,0 +1,16 @@
+DocumentMapper:0.45666666666666667
+Builder:0.4
+DocumentMapperParser:0.37333333333333335
+MapperBuilders:0.29
+MapperService:0.24666666666666667
+SourceToParse:0.20666666666666667
+TranslogRecoveryPerformer:0.19666666666666666
+DynamicMappingTests:0.19
+ShardTermVectorsService:0.18333333333333332
+InternalParseContext:0.18
+DocumentParser:0.17666666666666667
+MultiFieldTests:0.16
+IndexTypeMapperTests:0.16
+SimpleMapperTests:0.15666666666666668
+TranslogHandler:0.12
+PercolatorService:0.09666666666666666

@@ -1,0 +1,13 @@
+TestQueries:0.3983333333333333
+HashAggregationIterator:0.2633333333333333
+HashAggregationOperator:0.26
+LocalExecutionPlanner:0.25666666666666665
+SqlTaskExecution:0.25
+Visitor:0.22
+TestQueryManagerConfig:0.2
+HashAggregationBenchmark:0.19983333333333334
+SplitWorker:0.14
+SqlTaskManager:0.10666666666666667
+AbstractSqlBenchmark:0.1
+QueryManagerConfig:0.06666666666666667
+TestHashAggregationOperator:0.04555555555555555

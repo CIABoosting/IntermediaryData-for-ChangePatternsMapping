@@ -1,0 +1,13 @@
+BufferRotator:0.5862222222222222
+MediaDriver:0.39354761904761904
+MappedBufferRotator:0.2866666666666667
+DriverConnectedSubscription:0.27
+DriverPublication:0.25333333333333335
+LossHandler:0.22
+AeronTest:0.2
+DataFrameHandler:0.13333333333333333
+MappedBufferManagement:0.11166666666666666
+SenderControlStrategy:0.08444444444444445
+BufferAndFrameUtils:0.08333333333333333
+UnicastSenderControlStrategy:0.07
+DefaultMulticastSenderControlStrategy:0.07

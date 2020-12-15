@@ -1,0 +1,13 @@
+PartitionFunctionBinding:0.49333333333333335
+LocalExecutionPlanner:0.4266666666666667
+LocalQueryRunner:0.3466666666666667
+PlanFragment:0.19361111111111112
+Rewriter:0.17666666666666667
+StageExecutionPlan:0.15444444444444444
+PartitionFunction:0.15333333333333332
+TaskTestUtils:0.13
+NodePartitioningManager:0.11333333333333333
+RoundRobinBucketFunction:0.07333333333333333
+NodePartitionMap:0.03666666666666667
+HashBucketFunction:0.0033333333333333335
+SingleBucketFunction:0.0

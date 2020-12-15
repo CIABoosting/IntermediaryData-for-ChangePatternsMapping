@@ -1,0 +1,16 @@
+FieldMapper:0.6633333333333333
+DocumentMapper:0.54
+MapperService:0.48333333333333334
+FieldTypeLookup:0.24666666666666667
+MappedFieldTypeReference:0.21666666666666667
+NumberFieldMapper:0.21
+SimpleStringMappingTests:0.18666666666666668
+GeoPointFieldMapperTests:0.18333333333333332
+UpdateMappingTests:0.18333333333333332
+NumberFieldType:0.17
+FieldTypeLookupTests:0.15333333333333332
+UpdateMappingIntegrationIT:0.13666666666666666
+TimestampMappingTests:0.13
+GeoShapeFieldMapperTests:0.13
+JavaMultiFieldMergeTests:0.09
+UpdateMappingOnClusterIT:0.07

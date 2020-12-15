@@ -1,0 +1,16 @@
+ManagementCenterService:0.49333333333333335
+Node:0.48333333333333334
+EntryOperation:0.25
+ExecuteScriptRequest:0.24333333333333335
+PartitionWideEntryOperation:0.22666666666666666
+MapConfigRequest:0.21
+MapContainer:0.21
+HazelcastClient:0.20694444444444446
+ThreadDumpRequest:0.19666666666666666
+ProxyEventProcessor:0.13666666666666666
+HazelcastInstanceFactory:0.11
+IncrementorEntryProcessor:0.09
+ServiceLoader:0.07666666666666666
+EntryProcessorTest:0.06666666666666667
+RemoveEntryProcessor:0.03333333333333333
+ValueReaderEntryProcessor:0.03

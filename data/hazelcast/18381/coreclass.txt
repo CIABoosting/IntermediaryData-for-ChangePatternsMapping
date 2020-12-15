@@ -1,0 +1,13 @@
+InternalPartitionService:0.6
+InternalPartitionServiceImpl:0.41
+ReplicaSyncRequest:0.3466666666666667
+PartitionReplicaVersions:0.2833333333333333
+BackupTest:0.25
+ReplicaSyncEntryProcessor:0.23
+CheckReplicaVersion:0.2
+ReplicaSyncRetryResponse:0.2
+LocalPartitionListener:0.19666666666666666
+FinalizeMigrationOperation:0.19333333333333333
+PromoteFromBackupOperation:0.15333333333333332
+SyncReplicaVersionTask:0.12333333333333334
+GroupProperties:0.043333333333333335

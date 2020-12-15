@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.qedeq.kernel.bo.module.ControlVisitor: 
+new Added class 1 : org.qedeq.kernel.bo.service.DefaultKernelQedeqBoTest: 
+new Added class 2 : org.qedeq.kernel.bo.log.DefaultModuleEventListenerTest: 
+new Added class 3 : org.qedeq.kernel.bo.test.DummyInternalKernalServices: 
+new Added class 4 : org.qedeq.kernel.bo.logic.model.DynamicDirectInterpreterTest: 
+new Added class 5 : org.qedeq.kernel.bo.service.heuristic.DynamicHeuristicCheckerPluginTest: 
+new Added class 6 : org.qedeq.kernel.bo.service.logic.FormalProofCheckerPluginTest: 
+new Added class 7 : org.qedeq.kernel.bo.latex.GenerateLatexTest: 
+new Added class 8 : org.qedeq.kernel.bo.service.unicode.GenerateUtf8Test: 
+new Added class 9 : org.qedeq.kernel.bo.service.heuristic.HeuristicCheckerPluginTest: 
+new Added class 10 : org.qedeq.kernel.bo.service.ModuleConstantsExistenceCheckerTest: 
+new Added class 11 : org.qedeq.kernel.bo.log.ModuleEventListenerLogTest: 
+new Added class 12 : org.qedeq.kernel.bo.logic.proof.checker.ProofCheckerTest: 
+new Added class 13 : org.qedeq.kernel.bo.logic.proof.finder.ProofFinderTest: 
+new Added class 14 : org.qedeq.kernel.bo.service.latex.Qedeq2LatexTest: 
+new Added class 15 : org.qedeq.kernel.bo.service.QedeqBoFactoryAssert: 
+new Added class 16 : org.qedeq.kernel.bo.service.logic.QedeqBoFormalLogicCheckerTest: 
+new Added class 17 : org.qedeq.kernel.bo.service.logic.SimpleProofFinderPluginTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

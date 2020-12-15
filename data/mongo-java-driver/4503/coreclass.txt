@@ -1,0 +1,12 @@
+ReadPreference:0.52
+MongoUpdateMessage:0.31666666666666665
+MongoFind:0.30333333333333334
+MongoRequestMessage:0.28
+TaggableReadPreference:0.25333333333333335
+DocumentSerializer:0.19
+MongoQueryMessage:0.19
+PrimaryReadPreference:0.16333333333333333
+MongoQuery:0.15666666666666668
+MongoDeleteMessage:0.07666666666666666
+MongoFindAndReplace:0.04
+MongoFindAndRemove:0.0

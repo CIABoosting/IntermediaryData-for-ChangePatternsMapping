@@ -1,0 +1,15 @@
+Builder:0.6
+ServerConnection:0.48
+UpdatePayment:0.4666666666666667
+ServerConnectionEventHandler:0.37
+ChannelConnectionTest:0.32
+PaymentChannelServer:0.31666666666666665
+IPaymentChannelClient:0.23166666666666666
+UpdatePaymentOrBuilder:0.22166666666666668
+RecordingServerConnection:0.22
+PaymentChannelClient:0.2
+UpdatePair:0.16666666666666666
+ExamplePaymentChannelServer:0.13666666666666666
+ServerHandler:0.13
+PaymentChannelClientConnection:0.10111111111111112
+NativePaymentChannelServerConnectionEventHandler:0.06444444444444446

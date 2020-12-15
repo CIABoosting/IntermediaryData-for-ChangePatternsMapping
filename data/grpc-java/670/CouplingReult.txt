@@ -1,0 +1,92 @@
+Compared Result of  two versions
+Number of New Class: 59
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.grpc.benchmarks.proto.BenchmarkServiceGrpc: 
+new Added class 1 : io.grpc.benchmarks.proto.Control: 
+new Added class 2 : io.grpc.benchmarks.proto.PoissonParamsOrBuilder: 
+new Added class 3 : io.grpc.benchmarks.proto.PoissonParams: 
+new Added class 4 : io.grpc.benchmarks.proto.UniformParamsOrBuilder: 
+new Added class 5 : io.grpc.benchmarks.proto.UniformParams: 
+new Added class 6 : io.grpc.benchmarks.proto.DeterministicParamsOrBuilder: 
+new Added class 7 : io.grpc.benchmarks.proto.DeterministicParams: 
+new Added class 8 : io.grpc.benchmarks.proto.ParetoParamsOrBuilder: 
+new Added class 9 : io.grpc.benchmarks.proto.ParetoParams: 
+new Added class 10 : io.grpc.benchmarks.proto.ClosedLoopParamsOrBuilder: 
+new Added class 11 : io.grpc.benchmarks.proto.ClosedLoopParams: 
+new Added class 12 : io.grpc.benchmarks.proto.LoadParamsOrBuilder: 
+new Added class 13 : io.grpc.benchmarks.proto.LoadParams: 
+new Added class 14 : io.grpc.benchmarks.proto.SecurityParamsOrBuilder: 
+new Added class 15 : io.grpc.benchmarks.proto.SecurityParams: 
+new Added class 16 : io.grpc.benchmarks.proto.ClientConfigOrBuilder: 
+new Added class 17 : io.grpc.benchmarks.proto.ClientConfig: 
+new Added class 18 : io.grpc.benchmarks.proto.ClientStatusOrBuilder: 
+new Added class 19 : io.grpc.benchmarks.proto.ClientStatus: 
+new Added class 20 : io.grpc.benchmarks.proto.MarkOrBuilder: 
+new Added class 21 : io.grpc.benchmarks.proto.Mark: 
+new Added class 22 : io.grpc.benchmarks.proto.ClientArgsOrBuilder: 
+new Added class 23 : io.grpc.benchmarks.proto.ClientArgs: 
+new Added class 24 : io.grpc.benchmarks.proto.ServerConfigOrBuilder: 
+new Added class 25 : io.grpc.benchmarks.proto.ServerConfig: 
+new Added class 26 : io.grpc.benchmarks.proto.ServerArgsOrBuilder: 
+new Added class 27 : io.grpc.benchmarks.proto.ServerArgs: 
+new Added class 28 : io.grpc.benchmarks.proto.ServerStatusOrBuilder: 
+new Added class 29 : io.grpc.benchmarks.proto.ServerStatus: 
+new Added class 30 : io.grpc.benchmarks.proto.CoreRequestOrBuilder: 
+new Added class 31 : io.grpc.benchmarks.proto.CoreRequest: 
+new Added class 32 : io.grpc.benchmarks.proto.CoreResponseOrBuilder: 
+new Added class 33 : io.grpc.benchmarks.proto.CoreResponse: 
+new Added class 34 : io.grpc.benchmarks.proto.VoidOrBuilder: 
+new Added class 35 : io.grpc.benchmarks.proto.Void: 
+new Added class 36 : io.grpc.benchmarks.proto.Messages: 
+new Added class 37 : io.grpc.benchmarks.proto.PayloadOrBuilder: 
+new Added class 38 : io.grpc.benchmarks.proto.Payload: 
+new Added class 39 : io.grpc.benchmarks.proto.EchoStatusOrBuilder: 
+new Added class 40 : io.grpc.benchmarks.proto.EchoStatus: 
+new Added class 41 : io.grpc.benchmarks.proto.SimpleRequestOrBuilder: 
+new Added class 42 : io.grpc.benchmarks.proto.SimpleRequest: 
+new Added class 43 : io.grpc.benchmarks.proto.SimpleResponseOrBuilder: 
+new Added class 44 : io.grpc.benchmarks.proto.SimpleResponse: 
+new Added class 45 : io.grpc.benchmarks.proto.StreamingInputCallRequestOrBuilder: 
+new Added class 46 : io.grpc.benchmarks.proto.StreamingInputCallRequest: 
+new Added class 47 : io.grpc.benchmarks.proto.StreamingInputCallResponseOrBuilder: 
+new Added class 48 : io.grpc.benchmarks.proto.StreamingInputCallResponse: 
+new Added class 49 : io.grpc.benchmarks.proto.ResponseParametersOrBuilder: 
+new Added class 50 : io.grpc.benchmarks.proto.ResponseParameters: 
+new Added class 51 : io.grpc.benchmarks.proto.StreamingOutputCallRequestOrBuilder: 
+new Added class 52 : io.grpc.benchmarks.proto.StreamingOutputCallRequest: 
+new Added class 53 : io.grpc.benchmarks.proto.StreamingOutputCallResponseOrBuilder: 
+new Added class 54 : io.grpc.benchmarks.proto.StreamingOutputCallResponse: 
+new Added class 55 : io.grpc.benchmarks.proto.ReconnectInfoOrBuilder: 
+new Added class 56 : io.grpc.benchmarks.proto.ReconnectInfo: 
+new Added class 57 : io.grpc.benchmarks.proto.Services: 
+new Added class 58 : io.grpc.benchmarks.proto.Stats: 
+testing relationship 
+class 3  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 18£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 20£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 22£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 24£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 26£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 28£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 30£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 32£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 34£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 37£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 39£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 42  vs  class 41£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 44  vs  class 43£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 46  vs  class 45£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 47£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 50  vs  class 49£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 51£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 54  vs  class 53£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 55£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  27   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

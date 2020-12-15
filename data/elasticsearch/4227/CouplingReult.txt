@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.search.profile.aggregation.AggregationProfileShardResultTests: 
+new Added class 1 : org.elasticsearch.action.delete.DeleteResponse: 
+new Added class 2 : org.elasticsearch.action.delete.DeleteResponseTests: 
+new Added class 3 : org.elasticsearch.index.get.GetFieldTests: 
+new Added class 4 : org.elasticsearch.action.get.GetResponseTests: 
+new Added class 5 : org.elasticsearch.index.get.GetResultTests: 
+new Added class 6 : org.elasticsearch.action.index.IndexResponseTests: 
+new Added class 7 : org.elasticsearch.search.internal.InternalSearchHitsTests: 
+new Added class 8 : org.elasticsearch.search.internal.InternalSearchHitTests: 
+new Added class 9 : org.elasticsearch.search.profile.query.QueryProfileShardResultTests: 
+new Added class 10 : org.elasticsearch.action.support.replication.ReplicationResponseTests: 
+new Added class 11 : org.elasticsearch.search.profile.SearchProfileShardResultsTests: 
+new Added class 12 : org.elasticsearch.search.internal.SearchSortValuesTests: 
+new Added class 13 : org.elasticsearch.action.search.ShardSearchFailureTests: 
+new Added class 14 : org.elasticsearch.action.update.UpdateResponseTests: 
+new Added class 15 : org.elasticsearch.common.xcontent.XContentHelper: 
+new Added class 16 : org.elasticsearch.common.xcontent.support.XContentHelperTests: 
+testing relationship 
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  1   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  10   12 :  0   13 :  0   14 :  2   15 :  0   16 :  0   17 :  0   

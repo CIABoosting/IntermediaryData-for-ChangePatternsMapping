@@ -1,0 +1,13 @@
+Gradient:0.6966666666666667
+NeuralNetConfiguration:0.5966666666666667
+RBM:0.2
+BaseOptimizer:0.19
+BaseLayer:0.18666666666666668
+DenoisingAutoEncoder:0.16
+DefaultLayerFactory:0.16
+RBMTests:0.14666666666666667
+IterationGradientDescent:0.11333333333333333
+DefaultParamInitializer:0.06
+DefaultGradient:0.05333333333333334
+PretrainParamInitializer:0.05
+DenoisingAutoEncoderTest:0.02

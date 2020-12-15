@@ -1,0 +1,16 @@
+Consumer:0.56
+TickerChannel:0.36
+CircularBuffer:0.25666666666666665
+TickerChannelTest:0.25666666666666665
+Channels:0.25
+QueueChannel:0.24916666666666662
+TickerChannelConsumer:0.24333333333333335
+ChannelTest:0.23333333333333334
+TickerIntChannel:0.1411111111111111
+TickerChannelIntConsumer:0.14
+TickerChannelDoubleConsumer:0.12333333333333334
+TickerChannelFloatConsumer:0.12333333333333334
+TickerChannelLongConsumer:0.12333333333333334
+TickerDoubleChannel:0.10333333333333333
+TickerLongChannel:0.10333333333333333
+TickerFloatChannel:0.10333333333333333

@@ -1,0 +1,17 @@
+DistributedObject:0.6266666666666667
+ClientPortableHook:0.42809523809523814
+ClientEngine:0.41666666666666663
+HazelcastClient:0.4
+ProxyManager:0.29333333333333333
+ClientEngineImpl:0.2733333333333333
+ClientTxnMapProxy:0.25333333333333335
+AuthenticationRequest:0.24
+GenericError:0.23333333333333334
+IdGeneratorProxy:0.1761111111111111
+ClientTxnMultiMapProxy:0.17333333333333334
+ClientPortableFactory:0.17333333333333334
+ClientTxnSetProxy:0.17333333333333334
+ClientTxnQueueProxy:0.17333333333333334
+ClientTxnListProxy:0.17333333333333334
+ClientIssueTest:0.12
+SerializableCollection:0.11333333333333333

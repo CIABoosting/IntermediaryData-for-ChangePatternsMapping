@@ -1,0 +1,16 @@
+Configuration:0.36333333333333334
+Context:0.31333333333333335
+DriverConductor:0.31
+SendChannelEndpoint:0.3
+NetworkConnection:0.28
+Sender:0.26
+LossDetectorTest:0.25
+NetworkPublication:0.25
+RetransmitHandlerTest:0.23666666666666666
+ReceiverTest:0.22166666666666668
+Receiver:0.20166666666666666
+RetransmitHandler:0.20111111111111113
+DriverConductorTest:0.19
+SenderTest:0.18333333333333332
+RetransmitAction:0.16666666666666666
+LossDetector:0.16

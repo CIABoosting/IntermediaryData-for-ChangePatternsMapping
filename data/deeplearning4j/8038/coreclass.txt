@@ -1,0 +1,13 @@
+NeuralNetConfiguration:0.5866666666666667
+MultiLayerNetwork:0.44
+MultiLayerConfiguration:0.37666666666666665
+RDDMiniBatches:0.33
+DefaultParamInitializer:0.25333333333333335
+BaseLayer:0.18666666666666668
+ConvolutionParamInitializer:0.18333333333333332
+Master:0.13333333333333333
+LSTMParamInitializer:0.13
+DL4jWorker:0.13
+RecursiveParamInitializer:0.11666666666666667
+PretrainParamInitializer:0.09333333333333334
+MiniBatchTests:0.07666666666666666

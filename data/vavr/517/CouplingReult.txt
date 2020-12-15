@@ -1,0 +1,31 @@
+Compared Result of  two versions
+Number of New Class: 21
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : javaslang.collection.AbstractMapTest: 
+new Added class 1 : javaslang.collection.Array: 
+new Added class 2 : javaslang.collection.ArrayModule: 
+new Added class 3 : javaslang.collection.Collections: 
+new Added class 4 : client.GwtTestCollections: 
+new Added class 5 : javaslang.collection.LinkedHashMap: 
+new Added class 6 : javaslang.collection.LinkedHashMapTest: 
+new Added class 7 : javaslang.collection.LinkedHashSet: 
+new Added class 8 : javaslang.collection.LinkedHashSetTest: 
+new Added class 9 : javaslang.control.OptionTest: 
+new Added class 10 : javaslang.collection.Traversable: 
+new Added class 11 : javaslang.collection.TreeMapTest: 
+new Added class 12 : javaslang.control.Try: 
+new Added class 13 : javaslang.Tuple1Test: 
+new Added class 14 : javaslang.Tuple2Test: 
+new Added class 15 : javaslang.Tuple3Test: 
+new Added class 16 : javaslang.Tuple4Test: 
+new Added class 17 : javaslang.Tuple5Test: 
+new Added class 18 : javaslang.Tuple6Test: 
+new Added class 19 : javaslang.Tuple7Test: 
+new Added class 20 : javaslang.Tuple8Test: 
+testing relationship 
+class 6  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:7  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:6  r11:2  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:29  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  0   4 :  0   5 :  37   6 :  0   7 :  0   8 :  3   9 :  0   10 :  6   11 :  4   12 :  0   13 :  4   14 :  2   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,14 @@
+TestSets:0.3933333333333333
+TestSemPredEvalParser:0.37333333333333335
+TestParserExec:0.37333333333333335
+BaseTest:0.37333333333333335
+TestParserErrors:0.37333333333333335
+TestLexerErrors:0.33666666666666667
+TestFullContextParsing:0.33666666666666667
+TestCompositeParsers:0.31333333333333335
+TestLexerExec:0.31
+TestLeftRecursion:0.12
+TestParseTrees:0.10666666666666667
+TestListeners:0.1
+TestSemPredEvalLexer:0.1
+TestCompositeLexers:0.0025

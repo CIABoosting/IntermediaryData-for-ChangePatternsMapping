@@ -1,0 +1,16 @@
+PartitionFunctionBinding:0.5866666666666667
+PlanFragment:0.42333333333333334
+Fragmenter:0.42333333333333334
+Visitor:0.23833333333333334
+ExchangeNode:0.23333333333333334
+ChildReplacer:0.23333333333333334
+FragmentProperties:0.21666666666666667
+LocalQueryRunner:0.21333333333333335
+PlanPrinter:0.20666666666666667
+Rewriter:0.2
+TestStageStateMachine:0.18333333333333332
+MockRemoteTaskFactory:0.17
+TestSourcePartitionedScheduler:0.16666666666666666
+TestPhasedExecutionSchedule:0.14
+LocalExecutionPlanner:0.13753968253968255
+PlanFragmenter:0.13

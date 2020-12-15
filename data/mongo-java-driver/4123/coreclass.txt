@@ -1,0 +1,16 @@
+MongoDatabase:0.6266666666666667
+MongoCollectionStream:0.4266666666666667
+MongoDatabaseImpl:0.3933333333333333
+MongoCollectionImpl:0.26
+MongoCollectionCursor:0.26
+AbstractMongoClient:0.23333333333333334
+MongoCollectionBase:0.205
+MongoCollectionBaseImpl:0.2
+DatabaseAdminImpl:0.17666666666666667
+SingleServerMongoClient:0.16111111111111112
+SingleChannelSyncMongoClient:0.15333333333333332
+SingleServerAsyncMongoClient:0.14333333333333334
+SingleChannelAsyncMongoClient:0.13666666666666666
+RenameCollection:0.10333333333333333
+MongoGetMoreTest:0.09333333333333334
+RenameCollectionOptions:0.02666666666666667

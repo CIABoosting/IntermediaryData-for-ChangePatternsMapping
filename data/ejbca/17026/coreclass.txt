@@ -1,0 +1,16 @@
+CertTools:0.7
+X509CA:0.2816666666666667
+OCSPUtil:0.23
+ExtraAlgorithmsPKCS12Test:0.21333333333333335
+HsmResponseThread:0.19666666666666666
+KeyStoreContainerBase:0.19333333333333333
+KeyStoreTools:0.18666666666666668
+StandaloneOcspResponseGeneratorSessionTest:0.18666666666666668
+CaInitCommandTest:0.17666666666666667
+OCSPUnidClient:0.17333333333333334
+ProtocolOcspHttpTest:0.17
+ProtocolOcspSignedHttpTest:0.16333333333333333
+OcspTester:0.145
+WebAuthenticationProviderSessionBeanTest:0.12333333333333334
+CaImportCRLCommand:0.12333333333333334
+ProtocolOcspHttpPerfTest:0.11666666666666667

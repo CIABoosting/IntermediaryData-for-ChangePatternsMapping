@@ -1,0 +1,32 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.action.search.AbstractSearchAsyncAction: 
+new Added class 1 : org.elasticsearch.index.reindex.ClientScrollableHitSource: 
+new Added class 2 : org.elasticsearch.search.internal.InternalSearchHit: 
+new Added class 3 : org.elasticsearch.search.internal.InternalSearchHitTests: 
+new Added class 4 : org.elasticsearch.index.engine.LiveVersionMapTests: 
+new Added class 5 : org.elasticsearch.action.search.SearchDfsQueryAndFetchAsyncAction: 
+new Added class 6 : org.elasticsearch.action.search.SearchDfsQueryThenFetchAsyncAction: 
+new Added class 7 : org.elasticsearch.action.search.SearchPhaseController: 
+new Added class 8 : org.elasticsearch.search.preference.SearchPreferenceIT: 
+new Added class 9 : org.elasticsearch.action.search.SearchQueryThenFetchAsyncAction: 
+new Added class 10 : org.elasticsearch.action.search.SearchScrollQueryThenFetchAsyncAction: 
+new Added class 11 : org.elasticsearch.search.SearchShardTarget: 
+new Added class 12 : org.elasticsearch.action.search.ShardSearchFailure: 
+new Added class 13 : org.elasticsearch.action.search.TransportSearchHelper: 
+testing relationship 
+class 2  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:1  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:1  r13:13  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 9  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 10  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:13  r9:2  r10:3  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  0   3 :  0   4 :  0   5 :  4   6 :  0   7 :  0   8 :  18   9 :  2   10 :  16   11 :  6   12 :  1   13 :  13   14 :  12   15 :  0   16 :  1   17 :  0   

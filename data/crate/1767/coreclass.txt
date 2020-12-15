@@ -1,0 +1,14 @@
+CompositeCollector:0.32666666666666666
+RemoteCollectorTest:0.27
+ShardCollectSource:0.25333333333333335
+RowsCollector:0.22833333333333333
+FileReadingCollectorTest:0.21
+RemoteCollector:0.20666666666666667
+BatchIteratorCollectorBridge:0.18333333333333332
+SyncBatchItCollector:0.11
+AsyncBatchItCollector:0.11
+NodeStatsCollectSource:0.10333333333333333
+BatchConsumer:0.10333333333333333
+CrateDocCollectorBuilder:0.043333333333333335
+MultiConsumer:0.04
+Builder:0.03

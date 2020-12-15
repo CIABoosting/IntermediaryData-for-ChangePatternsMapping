@@ -1,0 +1,13 @@
+Value:0.38
+EvictionEntry:0.27
+ReadOnlyAccessDelegate:0.23
+IMapRegionCache:0.2252777777777778
+AbstractHazelcastCacheRegionFactory:0.20333333333333334
+AbstractAccessDelegate:0.17333333333333334
+HazelcastNaturalIdRegion:0.17
+LocalRegionCache:0.16666666666666666
+HazelcastTimestamper:0.16111111111111112
+HazelcastInstanceLoader:0.15666666666666668
+CleanupService:0.14
+HazelcastAccessor:0.12666666666666668
+HazelcastClientLoader:0.12

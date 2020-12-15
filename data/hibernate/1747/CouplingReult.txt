@@ -1,0 +1,22 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.hibernate.userguide.mapping.basic.BlobTest: 
+new Added class 1 : org.hibernate.userguide.mapping.basic.ClobTest: 
+new Added class 2 : org.hibernate.test.schemaupdate.foreignkeys.crossschema.CrossSchemaForeignKeyGenerationTest: 
+new Added class 3 : org.hibernate.userguide.multitenancy.DatabaseMultiTenancyTest: 
+new Added class 4 : org.hibernate.test.type.Java8DateTimeTests: 
+new Added class 5 : org.hibernate.userguide.mapping.basic.NationalizedTest: 
+new Added class 6 : org.hibernate.userguide.mapping.basic.NClobCharArrayTest: 
+new Added class 7 : org.hibernate.userguide.mapping.basic.NClobStringTest: 
+new Added class 8 : org.hibernate.userguide.mapping.basic.NClobTest: 
+new Added class 9 : org.hibernate.test.cfg.persister.PersisterClassProviderTest: 
+new Added class 10 : org.hibernate.test.schemafilter.SchemaFilterTest: 
+new Added class 11 : org.hibernate.userguide.multitenancy.SchemaMultiTenancyTest: 
+new Added class 12 : org.hibernate.test.schemaupdate.SchemaUpdateFormatterTest: 
+new Added class 13 : org.hibernate.test.schemaupdate.SchemaUpdateWithFunctionIndexTest: 
+new Added class 14 : org.hibernate.test.schemaupdate.SchemaUpdateWithViewsTest: 
+new Added class 15 : org.hibernate.test.id.uuid.interpretation.UUIDBasedIdInterpretationTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

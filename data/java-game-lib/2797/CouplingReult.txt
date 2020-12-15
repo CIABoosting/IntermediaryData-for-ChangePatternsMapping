@@ -1,0 +1,45 @@
+Compared Result of  two versions
+Number of New Class: 36
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.lwjgl.openal.AL10: 
+new Added class 1 : org.lwjgl.openal.AL11: 
+new Added class 2 : org.lwjgl.opengl.ARB_buffer_object: 
+new Added class 3 : org.lwjgl.opengl.ARB_imaging: 
+new Added class 4 : org.lwjgl.opengl.ARB_occlusion_query: 
+new Added class 5 : org.lwjgl.opengl.ARB_program: 
+new Added class 6 : org.lwjgl.opengl.ARB_shader_objects: 
+new Added class 7 : org.lwjgl.opengl.ARB_texture_compression: 
+new Added class 8 : org.lwjgl.opengl.ARB_vertex_program: 
+new Added class 9 : org.lwjgl.opengl.ARB_vertex_shader: 
+new Added class 10 : org.lwjgl.opengl.ATI_envmap_bumpmap: 
+new Added class 11 : org.lwjgl.opengl.ATI_vertex_array_object: 
+new Added class 12 : org.lwjgl.opengl.ATI_vertex_attrib_array_object: 
+new Added class 13 : org.lwjgl.opengl.EXT_draw_buffers2: 
+new Added class 14 : org.lwjgl.opengl.EXT_framebuffer_object: 
+new Added class 15 : org.lwjgl.opengl.EXT_gpu_shader4: 
+new Added class 16 : org.lwjgl.opengl.EXT_paletted_texture: 
+new Added class 17 : org.lwjgl.opengl.EXT_texture_integer: 
+new Added class 18 : org.lwjgl.opengl.EXT_timer_query: 
+new Added class 19 : org.lwjgl.opengl.EXT_vertex_shader: 
+new Added class 20 : org.lwjgl.opengl.GL11: 
+new Added class 21 : org.lwjgl.opengl.GL13: 
+new Added class 22 : org.lwjgl.opengl.GL15: 
+new Added class 23 : org.lwjgl.opengl.GL20: 
+new Added class 24 : org.lwjgl.util.generator.JavaMethodsGenerator: 
+new Added class 25 : org.lwjgl.NondirectBufferWrapper: 
+new Added class 26 : org.lwjgl.opengl.NV_evaluators: 
+new Added class 27 : org.lwjgl.opengl.NV_fence: 
+new Added class 28 : org.lwjgl.opengl.NV_fragment_program: 
+new Added class 29 : org.lwjgl.opengl.NV_gpu_program4: 
+new Added class 30 : org.lwjgl.opengl.NV_occlusion_query: 
+new Added class 31 : org.lwjgl.opengl.NV_program: 
+new Added class 32 : org.lwjgl.opengl.NV_register_combiners: 
+new Added class 33 : org.lwjgl.opengl.NV_register_combiners2: 
+new Added class 34 : org.lwjgl.opengl.NV_transform_feedback: 
+new Added class 35 : org.lwjgl.opengl.NV_vertex_program: 
+testing relationship 
+class 8  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 31£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 31£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  3   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

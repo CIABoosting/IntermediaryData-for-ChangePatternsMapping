@@ -1,0 +1,10 @@
+SZoneConfig:0.64
+AbstractZoneModule:0.31333333333333335
+SessionManager:0.21666666666666667
+UserPreloadInterceptor:0.18
+LoginPostAction:0.13
+DispatchServer:0.11333333333333333
+DigestBasedHardAuthenticationFilter:0.09333333333333334
+DigestBasedSoftAuthenticationFilter:0.09333333333333334
+PWCallback:0.06
+CrossContextConstants:0.05222222222222222

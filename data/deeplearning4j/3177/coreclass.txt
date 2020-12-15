@@ -1,0 +1,16 @@
+MultiLayerNetwork:0.4633333333333333
+ConvolutionLayer:0.44
+Builder:0.43333333333333335
+NeuralNetConfiguration:0.37
+Layer:0.3233333333333333
+VariationalAutoencoder:0.28
+ActivationLayer:0.22666666666666666
+TrainModule:0.21666666666666667
+LayerBuilderTest:0.21666666666666667
+BaseLayer:0.21333333333333335
+FlowIterationListener:0.2
+RemoteFlowIterationListener:0.19
+EmbeddingLayer:0.18666666666666668
+TrainModuleUtils:0.17
+LayerBuildTest:0.16666666666666666
+LSTMHelpers:0.11

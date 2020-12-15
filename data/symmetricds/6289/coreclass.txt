@@ -1,0 +1,17 @@
+DirectorySpec:0.73
+FileSystemSyncStatusPersister:0.3
+FileSystemDirectorySnapshotPersister:0.3
+FileSyncServlet:0.27051984126984113
+GroupConfig:0.2164345839345839
+DirectoryChangeTracker:0.11666666666666667
+SyncClient:0.11666666666666667
+Node:0.1
+Config:0.04583333333333333
+SyncStatus:0.03333333333333333
+DirectorySpecSnapshot:0.018888888888888886
+ISyncStatusPersister:0.006666666666666667
+IServerNodeLocker:0.006666666666666667
+IDirectorySnapshotPersister:0.006666666666666667
+ISyncClientListener:0.0
+GroupLink:0.0
+FileChange:0.0

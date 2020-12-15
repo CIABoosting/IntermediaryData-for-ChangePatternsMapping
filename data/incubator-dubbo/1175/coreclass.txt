@@ -1,0 +1,5 @@
+AbstractLoadBalance:0.5366666666666666
+LeastActiveLoadBalance:0.21666666666666667
+RoundRobinLoadBalance:0.07666666666666666
+RandomLoadBalance:0.056666666666666664
+ConsistentHashLoadBalance:0.04

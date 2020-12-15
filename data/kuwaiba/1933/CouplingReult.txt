@@ -1,0 +1,17 @@
+Compared Result of  two versions
+Number of New Class: 11
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.inventory.communications.CommunicationsStub: 
+new Added class 1 : org.inventory.models.physicalconnections.windows.ConnectLinksFrame: 
+new Added class 2 : org.inventory.core.visual.actions.CustomMoveAction: 
+new Added class 3 : com.neotropic.inventory.modules.contracts.nodes.actions.ReleaseFromContractAction: 
+new Added class 4 : com.neotropic.inventory.modules.mpls.actions.ReleaseFromInterface: 
+new Added class 5 : com.neotropic.inventory.modules.ipam.nodes.actions.ReleaseFromIPAddresAction: 
+new Added class 6 : org.kuwaiba.management.services.nodes.actions.ReleaseFromServiceAction: 
+new Added class 7 : com.neotropic.inventory.modules.mpls.actions.ReleaseFromVlanAction: 
+new Added class 8 : com.neotropic.inventory.modules.mpls.actions.ReleaseGenericPortFromInterface: 
+new Added class 9 : org.inventory.models.physicalconnections.actions.ReleaseMirrorPortAction: 
+new Added class 10 : com.neotropic.inventory.modules.ipam.nodes.actions.ReleaseSubnetFromVRFAction: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

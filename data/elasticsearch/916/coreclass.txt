@@ -1,0 +1,10 @@
+Engine:0.37222222222222223
+InternalEngine:0.35333333333333333
+IndexShardTests:0.35
+Store:0.32666666666666666
+InternalEngineTests:0.24
+StoreRecovery:0.2138888888888889
+IndexShardTestCase:0.19
+EngineTestCase:0.17666666666666667
+TestTranslog:0.13333333333333333
+CombinedDeletionPolicy:0.11

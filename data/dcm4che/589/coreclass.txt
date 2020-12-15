@@ -1,0 +1,11 @@
+DicomObject:0.7266666666666667
+BasicDicomObject:0.45666666666666667
+Association:0.36
+AbstractDicomObject:0.23166666666666666
+SAXWriter:0.2
+Txt2DcmSR:0.2
+DicomInputStream:0.19666666666666666
+Dcm2Txt:0.19333333333333333
+ContentHandlerAdapter:0.17
+FilteredDicomObject:0.16666666666666666
+TranscoderInputHandler:0.13

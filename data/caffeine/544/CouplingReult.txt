@@ -1,0 +1,59 @@
+Compared Result of  two versions
+Number of New Class: 28
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.github.benmanes.caffeine.cache.simulator.policy.linked.AbstractLinkedPolicy: 
+new Added class 1 : com.github.benmanes.caffeine.cache.simulator.policy.linked.Node: 
+new Added class 2 : com.github.benmanes.caffeine.cache.AccessOrderDeque: 
+new Added class 3 : com.github.benmanes.caffeine.cache.AccessOrder: 
+new Added class 4 : com.github.benmanes.caffeine.cache.tracing.async.AsyncTracerTest: 
+new Added class 5 : com.github.benmanes.caffeine.cache.BoundedBuffer: 
+new Added class 6 : com.github.benmanes.caffeine.cache.BoundedLocalCache: 
+new Added class 7 : com.github.benmanes.caffeine.cache.KeySet: 
+new Added class 8 : com.github.benmanes.caffeine.cache.KeyIterator: 
+new Added class 9 : com.github.benmanes.caffeine.cache.Values: 
+new Added class 10 : com.github.benmanes.caffeine.cache.ValueIterator: 
+new Added class 11 : com.github.benmanes.caffeine.cache.EntrySet: 
+new Added class 12 : com.github.benmanes.caffeine.cache.EntryIterator: 
+new Added class 13 : com.github.benmanes.caffeine.jcache.CacheProxy: 
+new Added class 14 : com.github.benmanes.caffeine.cache.Caffeine: 
+new Added class 15 : com.github.benmanes.caffeine.EliminationStack: 
+new Added class 16 : com.github.benmanes.caffeine.cache.LinkedDequeTest: 
+new Added class 17 : com.github.benmanes.caffeine.cache.LocalAsyncLoadingCache: 
+new Added class 18 : com.github.benmanes.caffeine.cache.MultiThreadedTest: 
+new Added class 19 : com.github.benmanes.caffeine.cache.AsyncThrasher: 
+new Added class 20 : com.github.benmanes.caffeine.cache.AsyncCacheOperation: 
+new Added class 21 : com.github.benmanes.caffeine.cache.Node: 
+new Added class 22 : com.github.benmanes.caffeine.cache.buffer.OneShotBuffer: 
+new Added class 23 : com.google.common.cache.PopulatedCachesTest: 
+new Added class 24 : com.github.benmanes.caffeine.cache.Ticker: 
+new Added class 25 : com.github.benmanes.caffeine.cache.UnboundedLocalCache: 
+new Added class 26 : com.github.benmanes.caffeine.cache.WriteOrderDeque: 
+new Added class 27 : com.github.benmanes.caffeine.cache.WriteOrder: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:11  r12:0  r13:2  r14:3  r15:0  r16:3  r17:0  
+class 0  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:13  r12:0  r13:0  r14:6  r15:0  r16:0  r17:0  
+class 1  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:29  r9:0  r10:0  r11:3  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 2  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:-1  r15:0  r16:1  r17:0  
+class 6  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:77  r12:0  r13:0  r14:18  r15:0  r16:0  r17:0  
+class 6  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:50  r12:0  r13:27  r14:9  r15:0  r16:9  r17:0  
+class 6  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:6  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-25  r9:0  r10:39  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 14  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 15  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:15  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:15  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 27£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:7  r17:0  
+class 25  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:-1  r15:0  r16:1  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  0   4 :  4   5 :  9   6 :  0   7 :  0   8 :  26   9 :  0   10 :  48   11 :  187   12 :  0   13 :  30   14 :  38   15 :  0   16 :  21   17 :  0   

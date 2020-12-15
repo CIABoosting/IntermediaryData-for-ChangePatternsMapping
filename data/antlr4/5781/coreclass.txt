@@ -1,0 +1,17 @@
+BaseTest:0.4166666666666667
+TestLeftRecursion:0.3433333333333333
+TestSemPredEvalParser:0.3233333333333333
+TestParseErrors:0.3233333333333333
+TestParserExec:0.31666666666666665
+TestTokenTypeAssignment:0.30333333333333334
+TestNonGreedyLoops:0.3
+TestLexerErrors:0.29333333333333333
+TestToolSyntaxErrors:0.29333333333333333
+TestFullContextParsing:0.29333333333333333
+TestParseTrees:0.29333333333333333
+TestListeners:0.29
+TestSemPredEvalLexer:0.29
+TestCompositeGrammars:0.25666666666666665
+TestLexerExec:0.25333333333333335
+TestSets:0.25333333333333335
+TestPerformance:0.25

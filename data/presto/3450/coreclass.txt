@@ -1,0 +1,15 @@
+FilterUtil:0.37666666666666665
+AccessControl:0.3559999999999999
+DenyAllAccessControl:0.29
+AllowAllAccessControl:0.29
+LocalQueryRunner:0.27666666666666667
+AccessControlManager:0.25
+Visitor:0.23
+ColumnJdbcTable:0.16333333333333333
+AllowAllSystemAccessControl:0.1571031746031746
+SystemAccessControl:0.1571031746031746
+CatalogSystemTable:0.14666666666666667
+TableJdbcTable:0.10666666666666667
+SchemaJdbcTable:0.1
+ShowQueriesRewrite:0.09
+CatalogJdbcTable:0.08666666666666667

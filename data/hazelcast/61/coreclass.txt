@@ -1,0 +1,14 @@
+Ringbuffer:0.5133333333333333
+ArrayRingbuffer:0.4633333333333333
+RingbufferContainer:0.36
+RingbufferSplitBrainTest:0.36
+MergeOperation:0.28
+MergingValueFactory:0.23333333333333334
+RingbufferContainerTest:0.20333333333333334
+RingbufferContainerSerializationTest:0.16
+MergeBackupOperation:0.14166666666666666
+RingbufferTTLTest:0.1
+RingbufferExpirationPolicy:0.08666666666666667
+SplitBrainDataSerializerHook:0.08333333333333333
+Merger:0.07416666666666667
+SplitBrainRingbufferStore:0.03333333333333333

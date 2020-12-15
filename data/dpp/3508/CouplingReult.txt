@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 12
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : de.fu_berlin.inf.dpp.stf.server.bot.widget.ContextMenuHelper: 
+new Added class 1 : de.fu_berlin.inf.dpp.stf.server.rmi.superbot.component.contextmenu.sarosview.impl.ContextMenusInSessionArea: 
+new Added class 2 : de.fu_berlin.inf.dpp.stf.test.reproducebugs.EditDuringInvitationTest: 
+new Added class 3 : de.fu_berlin.inf.dpp.stf.test.editing.Editing3ProjectsTest: 
+new Added class 4 : de.fu_berlin.inf.dpp.stf.test.invitation.InviteAndLeaveStressTest: 
+new Added class 5 : de.fu_berlin.inf.dpp.stf.server.rmi.remotebot.impl.RemoteWorkbenchBot: 
+new Added class 6 : de.fu_berlin.inf.dpp.stf.server.bot.SarosSWTBot: 
+new Added class 7 : de.fu_berlin.inf.dpp.stf.server.bot.widget.SarosSWTBotRadio: 
+new Added class 8 : de.fu_berlin.inf.dpp.stf.test.invitation.permutation.Share3UsersLeavingSessionTest: 
+new Added class 9 : de.fu_berlin.inf.dpp.stf.test.invitation.SVNStateInitializationTest: 
+new Added class 10 : de.fu_berlin.inf.dpp.stf.test.filefolderoperations.SVNStateUpdatesTest: 
+new Added class 11 : de.fu_berlin.inf.dpp.stf.test.filefolderoperations.TestSuite: 
+testing relationship 
+class 5  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:18  r9:0  r10:6  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  2   6 :  0   7 :  0   8 :  18   9 :  0   10 :  6   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

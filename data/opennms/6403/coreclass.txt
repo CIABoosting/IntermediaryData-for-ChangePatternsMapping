@@ -1,0 +1,17 @@
+RrdStrategy:0.5666666666666667
+RrdUtils:0.3
+DefaultRrdDao:0.2916666666666667
+NullRrdStrategy:0.2733333333333333
+QueuingRrdStrategy:0.26666666666666666
+ThresholdEntity:0.26
+JRobinRrdStrategy:0.26
+ThresholdController:0.24666666666666667
+SnmpThresholder:0.22
+JMXThresholder:0.17333333333333334
+LatencyThresholderIntegrationTest:0.16666666666666666
+JniRrdStrategy:0.15666666666666668
+SnmpThresholderIntegrationTest:0.15333333333333332
+ThresholderTestCase:0.15
+DefaultRrdDaoTest:0.14
+GroupPersister:0.10333333333333333
+ResourceTypeUtils:0.09666666666666666

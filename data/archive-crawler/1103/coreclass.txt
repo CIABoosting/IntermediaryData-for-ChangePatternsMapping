@@ -1,0 +1,14 @@
+ARCWriter:0.37
+ArchiveUtils:0.34
+ReplayInputStream:0.3333333333333333
+RecordingInputStream:0.32666666666666666
+RecordingOutputStream:0.32666666666666666
+ARCWriterTest:0.20833333333333334
+HttpRecorder:0.2
+ARCWriterProcessor:0.19333333333333333
+ARCWriterPool:0.12333333333333334
+TmpDirTestCase:0.12
+RecordingOutputStreamTest:0.08333333333333333
+ARCWriterPoolTest:0.08277777777777776
+ARCSocketFactory:0.06
+ARCSocketFactoryTest:0.03

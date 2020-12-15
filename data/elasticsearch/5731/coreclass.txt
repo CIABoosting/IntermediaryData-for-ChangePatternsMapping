@@ -1,0 +1,10 @@
+RoutingAllocation:0.37
+RestoreInProgressUpdater:0.36
+MockRepository:0.30333333333333334
+RestoreService:0.26666666666666666
+AllocationService:0.24666666666666667
+TransportRestoreSnapshotAction:0.23
+RecoveryListener:0.22333333333333333
+CleanRestoreStateTaskExecutor:0.1850793650793651
+MetaDataDeleteIndexService:0.16
+SharedClusterSnapshotRestoreIT:0.13333333333333333

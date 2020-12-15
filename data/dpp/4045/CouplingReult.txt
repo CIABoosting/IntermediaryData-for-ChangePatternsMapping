@@ -1,0 +1,22 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : de.fu_berlin.inf.dpp.util.CausedIOException: 
+new Added class 1 : de.fu_berlin.inf.dpp.feedback.FileSubmitter: 
+new Added class 2 : de.fu_berlin.inf.dpp.util.FileUtils: 
+new Added class 3 : de.fu_berlin.inf.dpp.util.FileZipper: 
+new Added class 4 : de.fu_berlin.inf.dpp.project.ProjectDeltaVisitor: 
+new Added class 5 : de.fu_berlin.inf.dpp.project.ResourceActivityFilter: 
+new Added class 6 : de.fu_berlin.inf.dpp.project.internal.SharedResourcesManager: 
+new Added class 7 : de.fu_berlin.inf.dpp.util.StopWatch: 
+new Added class 8 : de.fu_berlin.inf.dpp.util.ThreadAccessRecorder: 
+new Added class 9 : de.fu_berlin.inf.dpp.util.ThreadAccessRecorderTest: 
+new Added class 10 : de.fu_berlin.inf.dpp.util.Utils: 
+new Added class 11 : de.fu_berlin.inf.dpp.util.UtilTestSuite: 
+new Added class 12 : de.fu_berlin.inf.dpp.net.internal.XStreamExtensionProvider: 
+testing relationship 
+class 3  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:13  r12:0  r13:13  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  2   11 :  15   12 :  0   13 :  15   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,11 @@
+QueryInfo:0.6333333333333333
+QueryStateMachine:0.31
+SqlQueryExecution:0.28
+MockQueryExecution:0.21
+QueryPlanner:0.21
+Rewriter:0.18666666666666668
+TestQueryStateMachine:0.17333333333333334
+TestTableWriterOperator:0.12333333333333334
+CreateHandle:0.11
+DeleteHandle:0.11
+InsertHandle:0.04666666666666667

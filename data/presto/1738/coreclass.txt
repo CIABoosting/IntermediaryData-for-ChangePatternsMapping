@@ -1,0 +1,14 @@
+RowType:0.6033333333333334
+ColumnarRow:0.2833333333333333
+SerDeUtils:0.2633333333333333
+StructStreamReader:0.24
+Visitor:0.22333333333333333
+OperatorAssertion:0.21666666666666667
+ParquetReader:0.21
+TestSimpleRowType:0.21
+TestRowOperators:0.17666666666666667
+BlockEncodingManager:0.15666666666666668
+StructuralTestUtil:0.14333333333333334
+TestColumnarRow:0.14
+RowToRowCast:0.13
+RowConstructorCodeGenerator:0.11333333333333333

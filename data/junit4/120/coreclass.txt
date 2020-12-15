@@ -1,0 +1,5 @@
+VerifierRuleTest:0.35
+ErrorCollector:0.34
+UsesErrorCollectorCheckThrowsMatchingClass:0.08916666666666667
+UsesErrorCollectorCheckThrowsNothingThrown:0.08916666666666667
+UsesErrorCollectorCheckThrowsClassMismatch:0.08916666666666667

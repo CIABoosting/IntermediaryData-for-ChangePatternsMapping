@@ -1,0 +1,14 @@
+IndexShard:0.6
+Delete:0.5033333333333333
+Index:0.5033333333333333
+Create:0.46
+DeleteByQuery:0.26666666666666666
+InternalEngineTests:0.2633333333333333
+InternalIndexShard:0.24
+IndexingOperation:0.23333333333333334
+InternalEngine:0.23
+TransportShardDeleteByQueryAction:0.19666666666666666
+TransportShardBulkAction:0.18666666666666668
+TransportDeleteAction:0.18666666666666668
+TransportIndexAction:0.17
+TransportShardDeleteAction:0.17

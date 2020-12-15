@@ -1,0 +1,14 @@
+OkBuffer:0.6
+RealBufferedSink:0.29
+RealBufferedSource:0.28
+InflaterSource:0.2733333333333333
+Okio:0.27
+OkBufferTest:0.21
+GzipSourceTest:0.18666666666666668
+DeflaterSink:0.18
+RealBufferedSinkTest:0.17333333333333334
+GzipSource:0.17333333333333334
+InflaterSourceTest:0.16333333333333333
+RealBufferedSourceTest:0.14
+DeflaterSinkTest:0.13666666666666666
+OkioTest:0.13666666666666666

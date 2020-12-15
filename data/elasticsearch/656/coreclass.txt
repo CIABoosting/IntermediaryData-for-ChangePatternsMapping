@@ -1,0 +1,17 @@
+SearchHit:0.48
+Request:0.4266666666666667
+Breakdown:0.4166666666666667
+EvalQueryQuality:0.39
+RatedSearchHit:0.29
+PrecisionAtK:0.27666666666666667
+RankEvalRequest:0.21
+RestHighLevelClient:0.19803968253968254
+RestHighLevelClientTests:0.19666666666666666
+RestRankEvalAction:0.16666666666666666
+MeanReciprocalRank:0.15666666666666668
+RankEvalResponseTests:0.14666666666666667
+RatedSearchHitTests:0.13666666666666666
+RankEvalResponse:0.13
+EvalQueryQualityTests:0.12
+RequestTests:0.08666666666666667
+ParsedEvalQueryQuality:0.0

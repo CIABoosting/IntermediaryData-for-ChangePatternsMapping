@@ -1,0 +1,10 @@
+AbstractConduit:0.37
+PipelineInvocationImpl:0.36666666666666664
+DocSource:0.23416666666666666
+DocSink:0.21166666666666667
+SynchronousPipeline:0.19
+NullDocHandler:0.12
+AbstractDocSink:0.12
+AbstractDocSource:0.09666666666666666
+ConduitFactory:0.036166666666666666
+RAMConduitFactory:0.0

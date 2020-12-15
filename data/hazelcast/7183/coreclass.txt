@@ -1,0 +1,8 @@
+MapContainer:0.43
+TransactionalMapProxySupport:0.30333333333333334
+NearCacheProvider:0.3
+PutAllOperation:0.25333333333333335
+PutFromLoadAllOperation:0.25333333333333335
+NearCacheBatchInvalidationOperation:0.14333333333333334
+NearCacheSingleInvalidationOperation:0.14333333333333334
+ClientMapNearCacheTest:0.10333333333333333

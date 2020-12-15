@@ -1,0 +1,16 @@
+Flyweight:0.56
+HeaderFlyweight:0.3466666666666667
+CompletelyIdentifiedMessageFlyweight:0.31
+DataHeaderFlyweight:0.30333333333333334
+ChannelMessageFlyweight:0.29
+ReceiverMessageFlyweight:0.2833333333333333
+NakFlyweight:0.25
+ClientAdminThread:0.24666666666666667
+StatusMessageFlyweight:0.23333333333333334
+FlyweightTest:0.19666666666666666
+UdpTransport:0.16333333333333333
+ErrorHeaderFlyweight:0.16
+NioSelectorTest:0.14666666666666667
+ClientAdminThreadCursor:0.14
+MediaDriverAdminThreadTest:0.12
+ReceiverThreadCursor:0.11333333333333333

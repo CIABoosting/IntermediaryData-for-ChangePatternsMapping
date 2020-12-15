@@ -1,0 +1,12 @@
+S3BlobStore:0.35
+DefaultS3OutputStream:0.2833333333333333
+S3Repository:0.27666666666666667
+AbstractS3SnapshotRestoreTest:0.26
+S3OutputStream:0.22666666666666666
+MockDefaultS3OutputStream:0.19666666666666666
+S3BlobContainer:0.19
+InternalAwsS3Service:0.17333333333333334
+DummyS3Service:0.15
+S3BlobStoreContainerTests:0.09333333333333334
+AwsS3Service:0.08333333333333333
+TestAwsS3Service:0.043333333333333335

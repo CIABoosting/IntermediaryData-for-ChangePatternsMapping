@@ -1,0 +1,17 @@
+RoutingNodes:0.6066666666666667
+UnassignedShards:0.5566666666666666
+RoutingAllocation:0.30333333333333334
+PrimaryShardAllocatorTests:0.2633333333333333
+Balancer:0.25416666666666665
+MoveAllocationCommand:0.22666666666666666
+AllocationService:0.20666666666666667
+ReplicaShardAllocatorTests:0.20166666666666666
+GatewayAllocator:0.19666666666666666
+CancelAllocationCommand:0.19666666666666666
+ClusterRebalanceRoutingTests:0.17
+NoopGatewayAllocator:0.16666666666666666
+BalancedShardsAllocator:0.15
+Result:0.13333333333333333
+ReplicaShardAllocator:0.10666666666666667
+DelayedShardsMockGatewayAllocator:0.10666666666666667
+FakeShardsAllocator:0.10333333333333333

@@ -1,0 +1,8 @@
+Store:0.62
+VerifyingIndexInput:0.37333333333333335
+BasicBackwardsCompatibilityTest:0.31666666666666665
+RateLimitingInputStream:0.31
+CorruptedFileTest:0.21666666666666667
+RestoreContext:0.13
+SnapshotContext:0.11666666666666667
+StoreTest:0.03666666666666667

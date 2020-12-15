@@ -1,0 +1,10 @@
+MongoCollectionImpl:0.55
+AggregateIterableImpl:0.35
+FindIterableImpl:0.33133333333333337
+MapReduceIterableImpl:0.29
+MongoIterableImpl:0.29
+DistinctIterableImpl:0.26699999999999996
+ListIndexesIterableImpl:0.26366666666666666
+ListCollectionsIterableImpl:0.17
+ListDatabasesIterableImpl:0.17
+WrappedMapReduceReadOperation:0.07666666666666666

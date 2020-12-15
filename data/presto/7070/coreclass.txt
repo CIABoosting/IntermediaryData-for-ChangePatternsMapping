@@ -1,0 +1,9 @@
+DriverContext:0.42
+NestedLoopJoinPages:0.34
+SharedLookupSource:0.2966666666666667
+PipelineContext:0.25
+NestedLoopJoinPagesBuilder:0.24333333333333335
+NestedLoopBuildOperator:0.24
+ParallelHashBuilderOperator:0.14666666666666667
+HashBuilderOperator:0.14666666666666667
+OperatorContext:0.11

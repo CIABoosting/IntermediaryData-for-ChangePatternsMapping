@@ -1,0 +1,11 @@
+ClientMessage:0.6333333333333333
+ClientConnectionManager:0.5366666666666666
+ClientConnectionManagerImpl:0.4
+ClientProperty:0.32022222222222224
+SmartClientInvocationService:0.23333333333333334
+AuthCallback:0.19666666666666666
+SmartClientListenerService:0.18333333333333332
+XATransactionProxy:0.17
+TransactionProxy:0.16833333333333333
+ClientConnectionManagerTranslateTest:0.11
+ClientRegressionWithRealNetworkTest:0.04

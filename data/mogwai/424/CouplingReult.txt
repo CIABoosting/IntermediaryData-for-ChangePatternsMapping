@@ -1,0 +1,41 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : de.mogwai.common.web.component.taglib.facelets.BaseComponentHandler: 
+new Added class 1 : de.mogwai.common.web.component.input.BaseInputComponent: 
+new Added class 2 : de.mogwai.common.web.component.taglib.facelets.input.BaseInputHandler: 
+new Added class 3 : de.mogwai.common.web.component.renderkit.html.input.BaseInputRenderer: 
+new Added class 4 : de.mogwai.common.web.component.taglib.jsp.input.BaseInputTag: 
+new Added class 5 : de.mogwai.common.web.component.renderkit.html.input.CheckboxListRenderer: 
+new Added class 6 : de.mogwai.common.web.component.taglib.jsp.input.CheckboxListTag: 
+new Added class 7 : de.mogwai.common.web.component.renderkit.html.input.CheckboxRenderer: 
+new Added class 8 : de.mogwai.common.web.component.taglib.jsp.input.CheckboxTag: 
+new Added class 9 : de.mogwai.common.web.component.renderkit.html.input.ComboboxRenderer: 
+new Added class 10 : de.mogwai.common.web.component.taglib.jsp.input.ComboboxTag: 
+new Added class 11 : de.mogwai.common.web.component.renderkit.html.input.DatepickerRenderer: 
+new Added class 12 : de.mogwai.common.web.component.renderkit.html.input.RadiobuttonRenderer: 
+new Added class 13 : de.mogwai.common.web.component.taglib.jsp.input.RadiobuttonTag: 
+new Added class 14 : de.mogwai.common.web.component.renderkit.html.input.RadioListRenderer: 
+new Added class 15 : de.mogwai.common.web.component.taglib.jsp.input.RadioListTag: 
+new Added class 16 : de.mogwai.common.web.component.renderkit.html.input.TextareaRenderer: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:2  r14:4  r15:0  r16:5  r17:0  
+class 4  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:11  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 5  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 7  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:2  r17:0  
+class 9  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 12  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 14  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  8   2 :  0   3 :  5   4 :  1   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  28   12 :  0   13 :  19   14 :  4   15 :  0   16 :  11   17 :  0   

@@ -1,0 +1,15 @@
+Builder:0.5366666666666666
+MultiMatchQueryBuilder:0.3566666666666667
+IndexShardRoutingTable:0.22666666666666666
+PendingClusterStatesQueueTests:0.22333333333333333
+BulkRequestTests:0.22333333333333333
+IndexModule:0.22333333333333333
+FieldStatsRequest:0.22333333333333333
+IndexNameExpressionResolverTests:0.17666666666666667
+SimpleIndexTemplateIT:0.17
+RestSearchScrollAction:0.16
+RestAnalyzeAction:0.16
+CommonGramsTokenFilterFactory:0.14666666666666667
+ClusterRebalanceRoutingTests:0.13666666666666666
+NettyTransportIT:0.12
+RebalanceAfterActiveTests:0.08666666666666667

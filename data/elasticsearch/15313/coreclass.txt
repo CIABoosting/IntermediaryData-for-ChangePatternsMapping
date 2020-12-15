@@ -1,0 +1,12 @@
+NodesStatsRequest:0.5766666666666667
+NodesInfoRequest:0.5766666666666667
+InternalTestCluster:0.44333333333333336
+NodeService:0.31
+NodesStatsRequestBuilder:0.2
+NodesInfoRequestBuilder:0.2
+TransportClusterStatsAction:0.19666666666666666
+TransportNodesInfoAction:0.13
+TransportNodesStatsAction:0.13
+GenericStatsLeak:0.09333333333333334
+RestNodesStatsAction:0.08666666666666667
+RestNodesInfoAction:0.08666666666666667

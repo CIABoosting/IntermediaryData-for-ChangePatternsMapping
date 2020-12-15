@@ -1,0 +1,14 @@
+B:0.7733333333333333
+A:0.76
+ObjectGraph:0.36333333333333334
+InjectionTest:0.2866666666666667
+Linker:0.26
+RuntimeAggregatingPlugin:0.26
+TestModuleB:0.2063968253968254
+ReflectiveModuleAdapter:0.18666666666666668
+ClassloadingPlugin:0.18333333333333332
+FullGraphProcessor:0.15833333333333333
+ReflectivePlugin:0.14
+ModuleIncludesTest:0.04777777777777778
+TwoAtInjectConstructors:0.03666666666666667
+TestModuleA:0.0033333333333333335

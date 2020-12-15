@@ -1,0 +1,16 @@
+WriteBehindQueue:0.58
+MapDataStore:0.5666666666666667
+DelayedEntry:0.4166666666666667
+WriteBehindStore:0.36666666666666664
+CoalescedWriteBehindQueue:0.33666666666666667
+ClientMapStoreTest:0.27666666666666667
+DefaultWriteBehindProcessor:0.2733333333333333
+EmptyMapDataStore:0.25
+BasicRecordStoreLoader:0.23
+SynchronizedWriteBehindQueue:0.22666666666666666
+WriteBehindQueueTest:0.21666666666666667
+StoreWorker:0.17
+MapReplicationOperation:0.16666666666666666
+WriteThroughStore:0.15666666666666668
+MapDataStores:0.13666666666666666
+WriteBehindQueues:0.075

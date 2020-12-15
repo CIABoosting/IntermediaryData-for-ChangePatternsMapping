@@ -1,0 +1,15 @@
+ReplicatedMapDataSerializerHook:0.4866666666666667
+VersionResponsePair:0.2966666666666667
+PartitionStateGeneratorTest:0.2833333333333333
+PartitionRuntimeState:0.2833333333333333
+LockBasicTest:0.26
+ReplicateUpdateToCallerOperation:0.19
+PutOperation:0.19
+RemoveOperation:0.19
+ControlTask:0.12666666666666668
+FetchMostRecentPartitionTableTask:0.12666666666666668
+PutAllOperation:0.12666666666666668
+GetOperation:0.12166666666666667
+MergeOperation:0.12166666666666667
+SizeOperation:0.12166666666666667
+ReplicateUpdateOperation:0.05333333333333334

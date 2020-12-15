@@ -1,0 +1,83 @@
+Compared Result of  two versions
+Number of New Class: 44
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.jbpm.ui.par.ActionDescriptionContentProvider: 
+new Added class 1 : ru.runa.specific.alf.AlfHandlerProvider: 
+new Added class 2 : ru.runa.jbpm.ui.ApplicationWorkbenchAdvisor: 
+new Added class 3 : tk.eclipse.plugin.forms.BaseHtmlFormType: 
+new Added class 4 : tk.eclipse.plugin.htmleditor.gefutils.BooleanPropertyDescriptor: 
+new Added class 5 : org.jbpm.ui.custom.BSHCellEditorProvider: 
+new Added class 6 : org.jbpm.ui.dialog.BSHEditorDialog: 
+new Added class 7 : tk.eclipse.plugin.wysiwyg.CKEditorDialogCreatorHelper: 
+new Added class 8 : org.jbpm.ui.common.command.CopyGraphCommand: 
+new Added class 9 : org.jbpm.ui.dialog.CreateVariableDialog: 
+new Added class 10 : org.jbpm.ui.editor.DesignerEditor: 
+new Added class 11 : org.jbpm.ui.editor.DesignerGraphicalEditorPart: 
+new Added class 12 : org.jbpm.ui.DesignerLogger: 
+new Added class 13 : org.jbpm.ui.editor.DesignerVariableEditorPage: 
+new Added class 14 : org.jbpm.ui.util.EditorUtils: 
+new Added class 15 : org.jbpm.ui.view.ErrorLogView: 
+new Added class 16 : org.jbpm.ui.common.model.FormNode: 
+new Added class 17 : tk.eclipse.plugin.ftl.FreemarkerUtil: 
+new Added class 18 : org.jbpm.ui.jpdl3.From2JpdlModelConverter: 
+new Added class 19 : tk.eclipse.plugin.forms.FtlFormType: 
+new Added class 20 : tk.eclipse.plugin.wysiwyg.FtlTagSupportServlet: 
+new Added class 21 : org.jbpm.ui.wizard.GlobalValidatorsWizardPage: 
+new Added class 22 : org.jbpm.ui.par.GpdXmlContentProvider: 
+new Added class 23 : org.jbpm.ui.util.InfoPathSupport: 
+new Added class 24 : org.jbpm.ui.util.IOUtils: 
+new Added class 25 : tk.eclipse.plugin.ftl.MethodTag: 
+new Added class 26 : org.jbpm.ui.common.model.NotificationMessages: 
+new Added class 27 : org.jbpm.ui.custom.ParamBasedProvider: 
+new Added class 28 : org.jbpm.ui.ParContentProvider: 
+new Added class 29 : org.jbpm.ui.util.PhraseDecliner: 
+new Added class 30 : org.jbpm.ui.PluginConstants: 
+new Added class 31 : org.jbpm.ui.editor.ltk.PortabilityRefactoring: 
+new Added class 32 : org.jbpm.ui.editor.ltk.RenameRefactoringWizard: 
+new Added class 33 : org.jbpm.ui.dialog.SQLActionHandlerConfigDialog: 
+new Added class 34 : org.jbpm.ui.custom.SQLHandlerCellEditorProvider: 
+new Added class 35 : org.jbpm.ui.properties.StartImagePropertyDescriptor: 
+new Added class 36 : org.jbpm.ui.common.model.Swimlane: 
+new Added class 37 : org.jbpm.ui.common.action.SwimlaneActionsDelegate: 
+new Added class 38 : org.jbpm.ui.custom.SwimlaneAssignerCellEditorProvider: 
+new Added class 39 : org.jbpm.ui.jpdl3.model.TaskState: 
+new Added class 40 : org.jbpm.ui.util.ValidationUtil: 
+new Added class 41 : org.jbpm.ui.common.model.Variable: 
+new Added class 42 : org.jbpm.ui.par.VariablesXmlContentProvider: 
+new Added class 43 : tk.eclipse.plugin.wysiwyg.WYSIWYGHTMLEditor: 
+testing relationship 
+class 3  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:9  r15:0  r16:3  r17:0  
+class 3  vs  class 43£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 41£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:17  r12:0  r13:5  r14:0  r15:0  r16:1  r17:0  
+class 10  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:7  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 36£º  r0:0  r1:0  r2:0  r3:1  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 41£º  r0:0  r1:0  r2:0  r3:1  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:5  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 41£º  r0:0  r1:0  r2:0  r3:1  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 14  vs  class 10£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 10£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 41£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 23  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 24  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:7  r17:0  
+class 28  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 31£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 34  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 11£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 16£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:8  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:7  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:7  r15:0  r16:0  r17:0  
+class 42  vs  class 41£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  11   4 :  7   5 :  4   6 :  6   7 :  0   8 :  31   9 :  0   10 :  11   11 :  36   12 :  0   13 :  14   14 :  27   15 :  0   16 :  11   17 :  0   

@@ -1,0 +1,10 @@
+MasterSlaveEntry:0.4633333333333333
+ConnectionPool:0.36333333333333334
+MasterSlaveConnectionManager:0.25
+ClientConnectionsEntry:0.24
+RedisClient:0.22666666666666666
+LoadBalancerManager:0.22333333333333333
+BaseMasterSlaveServersConfig:0.21333333333333335
+SentinelConnectionManager:0.20333333333333334
+ClusterConnectionManager:0.19666666666666666
+ReplicatedConnectionManager:0.11666666666666667

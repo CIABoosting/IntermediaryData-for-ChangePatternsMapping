@@ -1,0 +1,108 @@
+Compared Result of  two versions
+Number of New Class: 60
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.springframework.batch.item.database.AbstractDataSourceItemReaderIntegrationTests: 
+new Added class 1 : org.springframework.batch.support.AbstractDelegatorTests: 
+new Added class 2 : org.springframework.batch.item.database.AbstractJdbcItemReaderIntegrationTests: 
+new Added class 3 : org.springframework.batch.support.AbstractMethodInvokingDelegator: 
+new Added class 4 : org.springframework.batch.execution.step.AbstractStep: 
+new Added class 5 : org.springframework.batch.item.database.BatchSqlUpdateItemWriterTests: 
+new Added class 6 : org.springframework.batch.item.database.support.ColumnMapExecutionContextRowMapperTests: 
+new Added class 7 : org.springframework.batch.item.transform.CompositeItemTransformerTests: 
+new Added class 8 : org.springframework.batch.item.database.CompositeKeyFooDao: 
+new Added class 9 : org.springframework.batch.support.DefaultPropertEditorRegistrarTests: 
+new Added class 10 : org.springframework.batch.item.file.transform.DelimitedLineTokenizer: 
+new Added class 11 : org.springframework.batch.item.database.DrivingQueryItemReaderTests: 
+new Added class 12 : org.springframework.batch.sample.tasklet.ExceptionThrowingItemReaderProxy: 
+new Added class 13 : org.springframework.batch.sample.tasklet.ExceptionThrowingItemReaderProxyTests: 
+new Added class 14 : org.springframework.batch.item.support.FileUtilsTests: 
+new Added class 15 : org.springframework.batch.item.file.FlatFileItemReader: 
+new Added class 16 : org.springframework.batch.item.file.FlatFileItemReaderBasicTests: 
+new Added class 17 : org.springframework.batch.item.file.FlatFileItemWriter: 
+new Added class 18 : org.springframework.batch.item.database.FooDao: 
+new Added class 19 : org.springframework.batch.item.database.FooItemReader: 
+new Added class 20 : org.springframework.batch.item.database.FooRowMapper: 
+new Added class 21 : org.springframework.batch.item.database.HibernateAwareItemWriterTests: 
+new Added class 22 : org.springframework.batch.item.database.HibernateCursorItemReaderIntegrationTests: 
+new Added class 23 : org.springframework.batch.item.database.HibernateCursorItemReaderStatefulIntegrationTests: 
+new Added class 24 : org.springframework.batch.item.database.IbatisItemReaderIntegrationTests: 
+new Added class 25 : org.springframework.batch.execution.step.ItemOrientedStep: 
+new Added class 26 : org.springframework.batch.execution.step.ItemOrientedStepTests: 
+new Added class 27 : org.springframework.batch.item.ItemReader: 
+new Added class 28 : org.springframework.batch.item.adapter.ItemReaderAdapterTests: 
+new Added class 29 : org.springframework.batch.item.ItemStreamExceptionTests: 
+new Added class 30 : org.springframework.batch.item.transform.ItemTransformerItemWriterTests: 
+new Added class 31 : org.springframework.batch.item.adapter.ItemWriterAdapterTests: 
+new Added class 32 : org.springframework.batch.item.database.JdbcCursorItemReaderIntegrationTests: 
+new Added class 33 : org.springframework.batch.execution.repository.dao.JdbcStepExecutionDao: 
+new Added class 34 : org.springframework.batch.core.JobInterruptedException: 
+new Added class 35 : org.springframework.batch.sample.tasklet.JobSupport: 
+new Added class 36 : org.springframework.batch.execution.step.support.LimitCheckingItemSkipPolicy: 
+new Added class 37 : org.springframework.batch.item.MarkFailedExceptionTests: 
+new Added class 38 : org.springframework.batch.item.database.MultipleColumnJdbcDrivingQueryItemReaderIntegrationTests: 
+new Added class 39 : org.springframework.batch.item.database.support.MultipleColumnJdbcKeyGeneratorIntegrationTests: 
+new Added class 40 : org.springframework.batch.sample.item.writer.OrderWriter: 
+new Added class 41 : org.springframework.batch.sample.item.writer.OrderWriterTests: 
+new Added class 42 : org.springframework.batch.item.adapter.PropertyExtractingDelegatingItemProccessorIntegrationTests: 
+new Added class 43 : org.springframework.batch.item.ResetFailedExceptionTests: 
+new Added class 44 : org.springframework.batch.sample.RestartFunctionalTests: 
+new Added class 45 : org.springframework.batch.execution.job.SimpleJob: 
+new Added class 46 : org.springframework.batch.execution.job.SimpleJobTests: 
+new Added class 47 : org.springframework.batch.repeat.exception.handler.SimpleLimitExceptionHandlerTests: 
+new Added class 48 : org.springframework.batch.item.database.SingleColumnJdbcDrivingQueryItemReaderIntegrationTests: 
+new Added class 49 : org.springframework.batch.item.database.support.SingleColumnJdbcKeyGeneratorIntegrationTests: 
+new Added class 50 : org.springframework.batch.item.database.SingleKeyFooDao: 
+new Added class 51 : org.springframework.batch.execution.step.support.SkipLimitExceededException: 
+new Added class 52 : org.springframework.batch.execution.step.support.SkipLimitReadFailurePolicyTests: 
+new Added class 53 : org.springframework.batch.item.validator.SpringValidator: 
+new Added class 54 : org.springframework.batch.item.validator.SpringValidatorTests: 
+new Added class 55 : org.springframework.batch.sample.tasklet.StepSupport: 
+new Added class 56 : org.springframework.batch.execution.step.TaskletStep: 
+new Added class 57 : org.springframework.batch.execution.step.TaskletStepTests: 
+new Added class 58 : org.springframework.batch.item.validator.ValidatingItemReaderTests: 
+new Added class 59 : org.springframework.batch.item.validator.Validator: 
+testing relationship 
+class 0  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:23  r9:0  r10:26  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 1  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:27  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:15  r9:0  r10:18  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 8  vs  class 18£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 27£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:12  r9:0  r10:52  r11:3  r12:0  r13:13  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 19  vs  class 27£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 22£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 34£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 25£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:24  r9:0  r10:57  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 46  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 46  vs  class 45£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:12  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 50  vs  class 18£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 59£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 54  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:7  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 54  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 55  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 56£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:13  r14:0  r15:0  r16:0  r17:0  
+class 58  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 58  vs  class 59£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  8   2 :  5   3 :  3   4 :  2   5 :  7   6 :  1   7 :  4   8 :  94   9 :  0   10 :  206   11 :  31   12 :  0   13 :  32   14 :  9   15 :  0   16 :  0   17 :  0   

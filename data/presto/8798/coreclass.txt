@@ -1,0 +1,8 @@
+TableWriterOperator:0.3433333333333333
+HiveRecordSink:0.21
+JdbcRecordSink:0.19333333333333333
+RecordPageSink:0.17
+CassandraRecordSink:0.14416666666666667
+RaptorPageSink:0.09916666666666667
+RecordSink:0.09916666666666667
+ConnectorPageSink:0.013333333333333334

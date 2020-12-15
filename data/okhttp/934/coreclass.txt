@@ -1,0 +1,11 @@
+Route:0.57
+RealConnection:0.2966666666666667
+RouteSelector:0.23333333333333334
+HttpEngine:0.22333333333333333
+ConnectionPool:0.21833333333333332
+Http1xStream:0.20333333333333334
+InterceptorTest:0.19
+HttpURLConnectionImpl:0.18666666666666668
+NetworkInterceptorChain:0.17944444444444446
+RouteSelectorTest:0.17666666666666667
+ConnectionPoolTest:0.13

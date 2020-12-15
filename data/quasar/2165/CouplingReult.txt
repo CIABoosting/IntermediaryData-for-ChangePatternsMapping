@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 9
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : co.paralleluniverse.actors.behaviors.BasicGenBehavior: 
+new Added class 1 : co.paralleluniverse.actors.behaviors.LocalGenEvent: 
+new Added class 2 : co.paralleluniverse.actors.behaviors.LocalGenServer: 
+new Added class 3 : co.paralleluniverse.actors.behaviors.Supervisor: 
+new Added class 4 : co.paralleluniverse.actors.behaviors.AddChildMessage: 
+new Added class 5 : co.paralleluniverse.actors.behaviors.RemoveChildMessage: 
+new Added class 6 : co.paralleluniverse.actors.behaviors.ChildSpec: 
+new Added class 7 : co.paralleluniverse.actors.behaviors.ChildEntry: 
+new Added class 8 : co.paralleluniverse.actors.behaviors.RestartHistory: 
+testing relationship 
+class 1  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:11  r15:0  r16:1  r17:0  
+class 3  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:27  r12:0  r13:0  r14:48  r15:0  r16:0  r17:0  
+class 4  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 7  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  0   3 :  1   4 :  1   5 :  3   6 :  0   7 :  0   8 :  6   9 :  0   10 :  0   11 :  29   12 :  0   13 :  0   14 :  63   15 :  0   16 :  1   17 :  0   

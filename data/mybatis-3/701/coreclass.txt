@@ -1,0 +1,9 @@
+StatementHandler:0.86
+Transaction:0.37200000000000005
+BatchExecutor:0.3333333333333333
+BaseStatementHandler:0.20666666666666667
+ReuseExecutor:0.18
+RoutingStatementHandler:0.17
+ManagedTransaction:0.15666666666666668
+JdbcTransaction:0.15666666666666668
+SimpleExecutor:0.14

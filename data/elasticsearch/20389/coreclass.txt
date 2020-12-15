@@ -1,0 +1,13 @@
+IndexedScript:0.6366666666666667
+IndexRequest:0.45666666666666667
+DeleteRequest:0.22333333333333333
+RestPutIndexedScriptAction:0.1025
+RestGetIndexedScriptAction:0.04
+RestDeleteIndexedScriptAction:0.013333333333333334
+RestDeleteSearchTemplateAction:0.006666666666666667
+TransportGetIndexedScriptAction:0.006666666666666667
+ScriptService:0.0033333333333333335
+RestPutSearchTemplateAction:0.0025
+TransportPutIndexedScriptAction:0.0
+RestGetSearchTemplateAction:0.0
+TransportDeleteIndexedScriptAction:0.0

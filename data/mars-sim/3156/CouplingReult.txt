@@ -1,0 +1,17 @@
+Compared Result of  two versions
+Number of New Class: 11
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.mars_sim.msp.core.person.ai.task.EatDessert: 
+new Added class 1 : org.mars_sim.msp.core.person.ai.task.EatMeal: 
+new Added class 2 : org.mars_sim.msp.core.person.ai.job.Jobimplements: 
+new Added class 3 : org.mars_sim.msp.core.person.ai.job.JobManager: 
+new Added class 4 : org.mars_sim.msp.core.person.ai.Mindimplements: 
+new Added class 5 : org.mars_sim.msp.core.person.PhysicalConditionimplements: 
+new Added class 6 : org.mars_sim.msp.core.person.ai.social.RelationshipManagerimplements: 
+new Added class 7 : org.mars_sim.msp.core.structure.Settlementextends: 
+new Added class 8 : org.mars_sim.msp.ui.swing.unit_window.person.TabPanelHealthextends: 
+new Added class 9 : org.mars_sim.msp.core.person.ai.task.Taskimplements: 
+new Added class 10 : org.mars_sim.msp.core.person.ai.task.TaskManagerimplements: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

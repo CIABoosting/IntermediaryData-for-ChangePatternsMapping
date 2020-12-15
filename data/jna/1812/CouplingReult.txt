@@ -1,0 +1,32 @@
+Compared Result of  two versions
+Number of New Class: 15
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.sun.jna.ArgumentsMarshalTest: 
+new Added class 1 : com.sun.jna.CallbackReference: 
+new Added class 2 : com.sun.jna.CallbacksTest: 
+new Added class 3 : com.sun.jna.platform.mac.Carbon: 
+new Added class 4 : com.sun.jna.platform.win32.DsGetDC: 
+new Added class 5 : com.sun.jna.Memory: 
+new Added class 6 : com.sun.jna.MemoryTest: 
+new Added class 7 : com.sun.jna.ReturnTypesTest: 
+new Added class 8 : com.sun.jna.Structure: 
+new Added class 9 : com.sun.jna.StructureBufferFieldTest: 
+new Added class 10 : com.sun.jna.StructureByValueTest: 
+new Added class 11 : com.sun.jna.StructureTest: 
+new Added class 12 : com.sun.jna.Union: 
+new Added class 13 : com.sun.jna.UnionTest: 
+new Added class 14 : com.sun.jna.platform.unix.X11: 
+testing relationship 
+class 0  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:1  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:10  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 5£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:28  r12:7  r13:10  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:5  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-1  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  5   4 :  2   5 :  1   6 :  10   7 :  0   8 :  0   9 :  0   10 :  0   11 :  58   12 :  8   13 :  34   14 :  0   15 :  0   16 :  0   17 :  0   

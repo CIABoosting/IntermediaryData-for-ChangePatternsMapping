@@ -1,0 +1,12 @@
+ImmutableAssertion:0.4266666666666667
+ImmutableAssertionTests:0.34
+TimeoutExpirationPolicy:0.20666666666666667
+TicketGrantingTicketExpirationPolicy:0.20333333333333334
+MultiTimeUseOrTimeoutExpirationPolicy:0.19333333333333333
+DefaultAssertionBuilder:0.17666666666666667
+ThrottledUseAndTimeoutExpirationPolicy:0.17
+HardTimeoutExpirationPolicy:0.17
+NeverExpiresExpirationPolicy:0.12333333333333334
+AlwaysExpiresExpirationPolicy:0.12333333333333334
+ConfigurationMetadataSearchResult:0.11666666666666667
+StringBean:0.07333333333333333

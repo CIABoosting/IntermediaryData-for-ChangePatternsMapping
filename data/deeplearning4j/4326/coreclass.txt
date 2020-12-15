@@ -1,0 +1,8 @@
+ReshapePreProcessor:0.29
+RnnToFeedForwardPreProcessor:0.19333333333333333
+FeedForwardToRnnPreProcessor:0.19333333333333333
+ComposableInputPreProcessor:0.15333333333333332
+UnitVarianceProcessor:0.14666666666666667
+BinomialSamplingPreProcessor:0.06333333333333334
+ZeroMeanAndUnitVariancePreProcessor:0.06333333333333334
+ZeroMeanPrePreProcessor:0.06333333333333334

@@ -1,0 +1,17 @@
+Attacher:0.41
+PoolStrategy:0.29503968253968255
+ClassInjectorUsingReflectionTest:0.29
+ClassFileVersion:0.26666666666666666
+ByteBuddyAgent:0.25333333333333335
+AgentBuilderDefaultTest:0.23666666666666666
+ClassReloadingStrategy:0.23333333333333334
+ForModule:0.2227777777777778
+JavaTypeTest:0.21333333333333335
+ClassFileVersionKnownVersionsTest:0.21
+PseudoAttacherNoArgument:0.19333333333333333
+PseudoAttacher:0.193
+Dispatcher:0.17777777777777776
+Factory:0.15966666666666665
+JavaVersionRule:0.09666666666666666
+NoOpHotSpotStatement:0.013333333333333334
+NoOpStatement:0.01

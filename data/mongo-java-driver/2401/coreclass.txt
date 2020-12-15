@@ -1,0 +1,15 @@
+OperationHelper:0.43
+QueryResultToListCallback:0.30666666666666664
+DropIndexOperation:0.29
+UserExistsOperation:0.25333333333333335
+GetIndexesOperation:0.25333333333333335
+GroupOperation:0.25333333333333335
+MapReduceWithInlineResultsOperation:0.24666666666666667
+CreateIndexesOperation:0.2
+FindAndUpdateOperation:0.19666666666666666
+GetCollectionNamesOperation:0.19666666666666666
+MapReduceToCollectionOperation:0.19
+FindAndReplaceOperation:0.19
+FindAndRemoveOperation:0.19
+DropCollectionOperation:0.16666666666666666
+GetDatabaseNamesOperation:0.13666666666666666

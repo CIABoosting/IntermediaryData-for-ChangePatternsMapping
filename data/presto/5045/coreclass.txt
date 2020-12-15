@@ -1,0 +1,11 @@
+JdbcOutputTableHandle:0.5166666666666667
+ConnectorTableMetadata:0.44333333333333336
+AbstractTestHiveClient:0.37333333333333335
+HiveMetadata:0.29
+CassandraMetadata:0.21666666666666667
+BaseJdbcClient:0.20333333333333334
+LogicalPlanner:0.19333333333333333
+CassandraOutputTableHandle:0.14333333333333334
+CreateTableTask:0.11
+TestJdbcOutputTableHandle:0.09333333333333334
+TestBlackHoleMetadata:0.09333333333333334

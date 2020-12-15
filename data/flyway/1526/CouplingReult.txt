@@ -1,0 +1,16 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.googlecode.flyway.core.util.ClassPathResource: 
+new Added class 1 : com.googlecode.flyway.core.util.scanner.ClassPathScanner: 
+new Added class 2 : com.googlecode.flyway.commandline.largetest.CommandLineLargeTest: 
+new Added class 3 : com.googlecode.flyway.core.migration.CompositeMigrationResolver: 
+new Added class 4 : com.googlecode.flyway.core.util.FeatureDetector: 
+new Added class 5 : com.googlecode.flyway.commandline.Main: 
+new Added class 6 : com.googlecode.flyway.sample.appengine.MigrateServlet: 
+new Added class 7 : com.googlecode.flyway.core.dbsupport.oracle.OracleMigrationMediumTest: 
+new Added class 8 : com.googlecode.flyway.core.util.StringUtils: 
+new Added class 9 : com.googlecode.flyway.core.util.StringUtilsSmallTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

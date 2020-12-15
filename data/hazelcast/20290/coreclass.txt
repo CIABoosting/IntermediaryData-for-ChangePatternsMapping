@@ -1,0 +1,16 @@
+DefaultRecordStore:0.3933333333333333
+ClusterServiceImpl:0.31666666666666665
+IdGeneratorProxy:0.27
+SocketAcceptor:0.2694444444444445
+ManagedConnectionFactoryImpl:0.26
+TestApp:0.24
+ChatApplication:0.22333333333333333
+WaitingOp:0.22333333333333333
+SystemLogRecord:0.20333333333333334
+NearCache:0.18
+ClientNearCache:0.17666666666666667
+CacheRecord:0.17
+AddressHelper:0.13666666666666666
+NullObject:0.09333333333333334
+MonitoredThread:0.06
+SimulateLoadTask:0.03666666666666667

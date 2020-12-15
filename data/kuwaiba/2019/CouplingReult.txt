@@ -1,0 +1,77 @@
+Compared Result of  two versions
+Number of New Class: 37
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.inventory.core.visual.scene.AbstractScene: 
+new Added class 1 : org.inventory.communications.wsclient.AddObjectsToBookmarkFolder: 
+new Added class 2 : org.inventory.navigation.bookmarks.actions.AddObjectToBookmarkFolderAction: 
+new Added class 3 : org.inventory.navigation.bookmarks.nodes.properties.BookmarkNativeTypeProperty: 
+new Added class 4 : org.inventory.navigation.bookmarks.nodes.BookmarkNode: 
+new Added class 5 : org.inventory.navigation.bookmarks.nodes.BookmarkRootNode: 
+new Added class 6 : org.inventory.navigation.bookmarks.actions.BookmarksActionFactory: 
+new Added class 7 : org.inventory.navigation.bookmarks.windows.BookmarksFrame: 
+new Added class 8 : org.inventory.views.objectview.scene.ChildrenViewScene: 
+new Added class 9 : org.inventory.customization.classhierarchy.scene.ClassHierarchyScene: 
+new Added class 10 : org.inventory.customization.classhierarchy.ClassHierarchyService: 
+new Added class 11 : org.inventory.communications.CommunicationsStub: 
+new Added class 12 : org.inventory.communications.wsclient.CreateBookmarkFolderForUser: 
+new Added class 13 : org.inventory.navigation.bookmarks.actions.DeleteBookmarkFolderAction: 
+new Added class 14 : org.inventory.communications.wsclient.DeleteBookmarkFolders: 
+new Added class 15 : org.inventory.communications.wsclient.GetBookmarkFolder: 
+new Added class 16 : org.inventory.communications.wsclient.GetBookmarkFolderResponse: 
+new Added class 17 : org.inventory.communications.wsclient.GetBookmarkFoldersForUserResponse: 
+new Added class 18 : org.inventory.graphicalrepresentation.specialrelationships.scene.GraphicalRepSpecialRelationshipsScene: 
+new Added class 19 : org.inventory.graphicalrepresentation.specialrelationships.GraphicalRepSpecialRelationshipsTopComponent: 
+new Added class 20 : org.inventory.graphicalrepresentation.specialrelationships.GraphicalResSpecialRelationshipService: 
+new Added class 21 : org.inventory.customization.classhierarchy.scene.actions.HideSubclassAction: 
+new Added class 22 : org.inventory.updates.Installer: 
+new Added class 23 : org.inventory.communications.core.LocalBookmark: 
+new Added class 24 : org.inventory.graphicalrepresentation.specialrelationships.wrappers.LocalObjectLightWrapper: 
+new Added class 25 : com.neotropic.inventory.modules.mpls.scene.MPLSModuleScene: 
+new Added class 26 : org.inventory.navigation.bookmarks.actions.NewBookmarkFolderAction: 
+new Added class 27 : org.inventory.communications.wsclient.ObjectFactory: 
+new Added class 28 : org.inventory.models.physicalconnections.scene.PhysicalPathScene: 
+new Added class 29 : org.inventory.views.objectview.scene.RackViewScene: 
+new Added class 30 : org.inventory.updates.actions.RegisterUpdateCenterAction: 
+new Added class 31 : org.inventory.navigation.bookmarks.actions.RemoveObjectFromBookmarks: 
+new Added class 32 : org.inventory.communications.wsclient.RemoveObjectsFromBookmarkFolder: 
+new Added class 33 : com.neotropic.inventory.modules.sdh.scene.SDHModuleScene: 
+new Added class 34 : org.inventory.customization.classhierarchy.scene.actions.ShowSubclassAction: 
+new Added class 35 : org.inventory.design.topology.scene.TopologyViewScene: 
+new Added class 36 : org.inventory.communications.wsclient.UpdateBookmarkFolder: 
+testing relationship 
+class 2  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 23£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:9  r9:0  r10:7  r11:3  r12:0  r13:1  r14:2  r15:0  r16:1  r17:0  
+class 6  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:5  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 11  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:1  r17:0  
+class 19  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:9  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-2  r9:0  r10:8  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 24£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:6  r9:0  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 20  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:7  r15:0  r16:1  r17:0  
+class 21  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 25  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 27  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 27  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 27  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 27  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 27  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 27  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 28  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 35  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  8   2 :  0   3 :  3   4 :  1   5 :  6   6 :  9   7 :  0   8 :  39   9 :  0   10 :  26   11 :  14   12 :  0   13 :  2   14 :  30   15 :  0   16 :  3   17 :  0   

@@ -1,0 +1,12 @@
+ClientInvocationServiceImpl:0.45666666666666667
+HazelcastClient:0.36666666666666664
+ClientExecutionServiceImpl:0.35
+ClientConnectionManagerImpl:0.32666666666666666
+ClientNearCache:0.3233333333333333
+ClientProxy:0.30333333333333334
+ProxyManager:0.28
+ClientCallFuture:0.23
+ClusterListenerThread:0.14666666666666667
+ClientContext:0.14333333333333334
+ReSendTask:0.14
+ResponseThread:0.08666666666666667

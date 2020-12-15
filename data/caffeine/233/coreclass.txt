@@ -1,0 +1,14 @@
+AsMapTest:0.36
+BoundedLocalCache:0.3466666666666667
+Loader:0.3161111111111111
+UnboundedLocalCache:0.25
+LoadingCacheView:0.23
+IsValidBoundedLocalCache:0.22333333333333333
+EntrySetView:0.2111111111111111
+ValuesView:0.2111111111111111
+KeyIterator:0.21
+AbstractLinkedIterator:0.18444444444444444
+BulkLoader:0.1755
+AsyncBulkCompleter:0.16666666666666666
+LocalLoadingCache:0.14666666666666667
+IsValidUnboundedLocalCache:0.14666666666666667

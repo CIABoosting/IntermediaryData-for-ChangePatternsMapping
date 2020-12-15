@@ -1,0 +1,12 @@
+InternalPartitionServiceImpl:0.6433333333333333
+PartitionStateGenerator:0.43333333333333335
+PartitionStateManager:0.4166666666666667
+MigrationManager:0.27666666666666667
+ReplicaSyncRequest:0.23333333333333334
+ReplicaSyncRetryResponse:0.1761111111111111
+PartitionStateGeneratorImpl:0.12333333333333334
+PartitionStateGeneratorTest:0.10333333333333333
+PartitionStateOperation:0.08277777777777778
+IsReplicaVersionSync:0.03333333333333333
+FetchPartitionStateOperation:0.02666666666666667
+MigrationCycleOperation:0.0

@@ -1,0 +1,14 @@
+ElasticsearchTestCase:0.5166666666666667
+Log4jESLoggerTests:0.25333333333333335
+OldIndexBackwardsCompatibilityTests:0.24
+LoggingConfigurationTests:0.22666666666666666
+FileUtils:0.20666666666666667
+FileSystemUtilsTests:0.19666666666666666
+TribeUnitTests:0.19
+SitePluginTests:0.18666666666666668
+SimpleNodesInfoTests:0.1592063492063492
+PluginLuceneCheckerTests:0.15333333333333332
+RestoreBackwardsCompatTests:0.14333333333333334
+PluginServiceTests:0.13666666666666666
+RoutingBackwardCompatibilityUponUpgradeTests:0.13666666666666666
+NamingConventionTests:0.07666666666666666

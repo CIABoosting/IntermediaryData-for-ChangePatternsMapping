@@ -1,0 +1,77 @@
+Compared Result of  two versions
+Number of New Class: 48
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : jolie.lang.parse.ast.AssignStatement: 
+new Added class 1 : jolie.lang.parse.ast.CompareConditionNode: 
+new Added class 2 : jolie.lang.parse.ast.CompensateStatement: 
+new Added class 3 : jolie.lang.parse.ast.ConstantIntegerExpression: 
+new Added class 4 : jolie.lang.parse.ast.ConstantRealExpression: 
+new Added class 5 : jolie.lang.parse.ast.ConstantStringExpression: 
+new Added class 6 : jolie.lang.parse.ast.DeepCopyStatement: 
+new Added class 7 : jolie.lang.parse.ast.DefinitionCallStatement: 
+new Added class 8 : jolie.lang.parse.ast.DefinitionNode: 
+new Added class 9 : jolie.lang.parse.ast.EmbeddedServiceNode: 
+new Added class 10 : jolie.lang.parse.ast.ExecutionInfo: 
+new Added class 11 : jolie.lang.parse.ast.ExpressionConditionNode: 
+new Added class 12 : jolie.lang.parse.ast.ForEachStatement: 
+new Added class 13 : jolie.lang.parse.ast.ForStatement: 
+new Added class 14 : jolie.lang.parse.ast.InputPortInfo: 
+new Added class 15 : jolie.lang.parse.ast.InstallFixedVariableExpressionNode: 
+new Added class 16 : jolie.lang.parse.ast.InstallFunctionNode: 
+new Added class 17 : jolie.lang.parse.ast.InstallStatement: 
+new Added class 18 : jolie.lang.parse.ast.InterfaceDefinition: 
+new Added class 19 : jolie.lang.parse.ast.IsTypeExpressionNode: 
+new Added class 20 : jolie.lang.parse.ast.LinkInStatement: 
+new Added class 21 : jolie.lang.parse.ast.LinkOutStatement: 
+new Added class 22 : jolie.lang.parse.ast.NotConditionNode: 
+new Added class 23 : jolie.lang.parse.ast.NotificationOperationStatement: 
+new Added class 24 : jolie.lang.parse.ast.OneWayOperationStatement: 
+new Added class 25 : jolie.lang.parse.ast.OperationDeclaration: 
+new Added class 26 : jolie.lang.parse.ast.PointerStatement: 
+new Added class 27 : jolie.lang.parse.ast.PostDecrementStatement: 
+new Added class 28 : jolie.lang.parse.ast.PostIncrementStatement: 
+new Added class 29 : jolie.lang.parse.ast.PreDecrementStatement: 
+new Added class 30 : jolie.lang.parse.ast.PreIncrementStatement: 
+new Added class 31 : jolie.lang.parse.ast.ProductExpressionNode: 
+new Added class 32 : jolie.lang.parse.ast.RequestResponseOperationDeclaration: 
+new Added class 33 : jolie.lang.parse.ast.RequestResponseOperationStatement: 
+new Added class 34 : jolie.lang.parse.ast.RunStatement: 
+new Added class 35 : jolie.lang.parse.ast.Scope: 
+new Added class 36 : jolie.lang.parse.ast.SolicitResponseOperationStatement: 
+new Added class 37 : jolie.lang.parse.ast.SpawnStatement: 
+new Added class 38 : jolie.lang.parse.ast.SynchronizedStatement: 
+new Added class 39 : jolie.lang.parse.ast.ThrowStatement: 
+new Added class 40 : jolie.lang.parse.ast.TypeCastExpressionNode: 
+new Added class 41 : jolie.lang.parse.ast.types.TypeDefinition: 
+new Added class 42 : jolie.lang.parse.ast.types.TypeDefinitionLink: 
+new Added class 43 : jolie.lang.parse.ast.types.TypeInlineDefinition: 
+new Added class 44 : jolie.lang.parse.ast.UndefStatement: 
+new Added class 45 : jolie.lang.parse.ast.VariableExpressionNode: 
+new Added class 46 : jolie.lang.parse.ast.VariablePathNode: 
+new Added class 47 : jolie.lang.parse.ast.WhileStatement: 
+testing relationship 
+class 0  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 12  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 15  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 17  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 18  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 19  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 24  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 26  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 27  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 28  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 29  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 30  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 32  vs  class 25£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 41£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 33  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 36  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 36  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 37  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 42  vs  class 41£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:3  r9:0  r10:6  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 43  vs  class 41£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 44  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 45  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  0   3 :  0   4 :  0   5 :  27   6 :  0   7 :  0   8 :  53   9 :  0   10 :  6   11 :  0   12 :  0   13 :  0   14 :  27   15 :  0   16 :  2   17 :  0   

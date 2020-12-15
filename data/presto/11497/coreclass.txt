@@ -1,0 +1,12 @@
+Select:0.33
+TupleAnalyzer:0.26666666666666666
+QueryUtil:0.25
+StatementAnalyzer:0.22
+Visitor:0.215
+NodeRewriter:0.20333333333333334
+AstVisitor:0.16666666666666666
+DefaultTraversalVisitor:0.16666666666666666
+Formatter:0.16333333333333333
+RewritingVisitor:0.16
+AllColumns:0.15666666666666668
+TreePrinter:0.10333333333333333

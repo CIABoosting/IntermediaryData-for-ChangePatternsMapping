@@ -1,0 +1,15 @@
+OidcAuthorizationRequestSupport:0.31
+LdapServiceRegistryDao:0.29333333333333333
+OidcConfiguration:0.25333333333333335
+DefaultLdapRegisteredServiceMapper:0.24
+MongoAuthenticationHandler:0.22333333333333333
+Pac4jConfiguration:0.18666666666666668
+OidcConsentApprovalViewResolver:0.1782063492063492
+ClientAuthenticationHandler:0.14333333333333334
+CasMongoAuthenticationConfiguration:0.13666666666666666
+MemcachedMonitor:0.13
+OidcAccessTokenResponseGenerator:0.12333333333333334
+LdapServiceRegistryConfiguration:0.11333333333333333
+ClientAuthenticationHandlerTests:0.10666666666666667
+OidcCasClientRedirectActionBuilder:0.09333333333333334
+MemcachedMonitorConfiguration:0.07666666666666666

@@ -1,0 +1,36 @@
+Compared Result of  two versions
+Number of New Class: 29
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.gargoylesoftware.htmlunit.javascript.host.css.BrowserConfiguration: 
+new Added class 1 : com.gargoylesoftware.htmlunit.javascript.host.canvas.CanvasRenderingContext2DTest: 
+new Added class 2 : com.gargoylesoftware.htmlunit.CodeStyleTest: 
+new Added class 3 : com.gargoylesoftware.htmlunit.javascript.host.DeviceStorage: 
+new Added class 4 : com.gargoylesoftware.htmlunit.javascript.host.event.DeviceStorageChangeEvent: 
+new Added class 5 : com.gargoylesoftware.htmlunit.javascript.host.Element: 
+new Added class 6 : com.gargoylesoftware.htmlunit.javascript.host.event.EventTest: 
+new Added class 7 : com.gargoylesoftware.htmlunit.javascript.host.file.FileHandle: 
+new Added class 8 : com.gargoylesoftware.htmlunit.javascript.host.file.FileRequest: 
+new Added class 9 : com.gargoylesoftware.htmlunit.javascript.host.html.HTMLAllCollection: 
+new Added class 10 : com.gargoylesoftware.htmlunit.html.HtmlSerializer: 
+new Added class 11 : com.gargoylesoftware.htmlunit.javascript.host.html.HTMLSpanElement: 
+new Added class 12 : com.gargoylesoftware.htmlunit.javascript.host.html.HTMLUnknownElement: 
+new Added class 13 : com.gargoylesoftware.htmlunit.javascript.configuration.JavaScriptConfiguration: 
+new Added class 14 : com.gargoylesoftware.htmlunit.source.JQueryExtractor: 
+new Added class 15 : com.gargoylesoftware.htmlunit.javascript.host.file.LockedFile: 
+new Added class 16 : com.gargoylesoftware.htmlunit.javascript.host.event.MozMmsEvent: 
+new Added class 17 : com.gargoylesoftware.htmlunit.javascript.host.moz.MozMobileMessageManager: 
+new Added class 18 : com.gargoylesoftware.htmlunit.javascript.host.event.MozSmsEvent: 
+new Added class 19 : com.gargoylesoftware.htmlunit.javascript.host.moz.MozSmsFilter: 
+new Added class 20 : com.gargoylesoftware.htmlunit.javascript.host.moz.MozSmsSegmentInfo: 
+new Added class 21 : com.gargoylesoftware.htmlunit.javascript.NamedNodeMap: 
+new Added class 22 : com.gargoylesoftware.htmlunit.NotYetImplementedTest: 
+new Added class 23 : com.gargoylesoftware.htmlunit.javascript.RecursiveFunctionObject: 
+new Added class 24 : com.gargoylesoftware.htmlunit.javascript.host.css.StyleAttributes: 
+new Added class 25 : com.gargoylesoftware.htmlunit.runners.TestCaseCorrector: 
+new Added class 26 : com.gargoylesoftware.htmlunit.javascript.host.event.UIEventTest: 
+new Added class 27 : com.gargoylesoftware.htmlunit.javascript.host.xml.XMLHttpRequestEventTarget: 
+new Added class 28 : com.gargoylesoftware.htmlunit.javascript.host.dom.XPathNSResolver: 
+testing relationship 
+class 5  vs  class 21£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  1   4 :  0   5 :  1   6 :  0   7 :  0   8 :  3   9 :  0   10 :  0   11 :  1   12 :  0   13 :  1   14 :  0   15 :  0   16 :  0   17 :  0   

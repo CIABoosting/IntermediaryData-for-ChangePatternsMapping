@@ -1,0 +1,11 @@
+ClusterDescription:0.5833333333333334
+Mongo:0.4
+DefaultClusterFactory:0.22333333333333333
+DiscoveringCluster:0.21
+ClusterFactory:0.20888888888888887
+MongoClients:0.15
+TestClusterableServerFactory:0.11666666666666667
+DirectClusterTest:0.1
+DirectCluster:0.09333333333333334
+ClusterDescriptionTest:0.03333333333333333
+MongoConstructorsTest:0.023333333333333334

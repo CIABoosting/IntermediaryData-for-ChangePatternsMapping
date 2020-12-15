@@ -1,0 +1,13 @@
+QueryRunner:0.7333333333333333
+AbstractTestQueries:0.43666666666666665
+AbstractTestSampledQueries:0.31
+AbstractTestIndexedQueries:0.30666666666666664
+LocalQueryRunner:0.30666666666666664
+AbstractTestDistributedQueries:0.30666666666666664
+AbstractTestQueryFramework:0.3
+DistributedQueryRunner:0.20333333333333337
+TestLocalQueriesSampled:0.12333333333333334
+TestLocalQueriesIndexed:0.07666666666666666
+TestLocalQueries:0.07
+TestRaptorDistributedQueries:0.06666666666666667
+TestDistributedQueriesIndexed:0.04666666666666667

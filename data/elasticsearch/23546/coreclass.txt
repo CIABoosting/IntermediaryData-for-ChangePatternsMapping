@@ -1,0 +1,13 @@
+MutableShardRouting:0.6166666666666667
+RoutingNode:0.4266666666666667
+RoutingNodes:0.39666666666666667
+AllocationService:0.22
+ClusterRebalanceAllocationDecider:0.19
+BalanceConfigurationTests:0.18666666666666668
+EvenShardsCountAllocator:0.16
+LocalGatewayAllocator:0.14333333333333334
+MoveAllocationCommand:0.12333333333333334
+AllocateAllocationCommand:0.12333333333333334
+CancelAllocationCommand:0.12333333333333334
+BlobReuseExistingGatewayAllocator:0.11333333333333333
+ConcurrentRebalanceAllocationDecider:0.11333333333333333

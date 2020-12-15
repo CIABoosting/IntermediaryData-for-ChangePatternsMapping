@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.maps3D.server.model.maps3d.proj.AbstractMap3DProjection: 
+new Added class 1 : arinc661.maps3D.jfx.helpers.AbstractProjectedMap3DItemRenderer: 
+new Added class 2 : arinc661.maps3D.server.model.arinc.ARINCMap3D: 
+new Added class 3 : arinc661.maps3D.server.model.maps3d.conf.JFXMapSymbol3D: 
+new Added class 4 : arinc661.maps3D.jfx.factory.JFXModel3DManager: 
+new Added class 5 : arinc661.maps3D.MainLibrariesDependencyTest: 
+new Added class 6 : arinc661.maps3D.jfx.stdrenderer.Map3DItemListRenderer: 
+new Added class 7 : arinc661.maps3D.jfx.stdrenderer.Map3DSourceRenderer: 
+new Added class 8 : arinc661.maps3D.server.model.maps3d.conf.Maps3DModelConstants: 
+new Added class 9 : arinc661.maps3D.MapsDependencyTest: 
+new Added class 10 : arinc661.maps3D.MapsExtensionsDependencyTest: 
+new Added class 11 : org.fxyz.shapes.composites.PolyLine3D: 
+new Added class 12 : arinc661.maps3D.server.model.maps3d.ProjectedMap3DItemRenderer: 
+new Added class 13 : arinc661.maps3D.jfx.map3ditems.SymbolRotated3DRenderer: 
+testing relationship 
+class 1  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 0£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 12£º  r0:0  r1:0  r2:0  r3:4  r4:4  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 3£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  1   3 :  7   4 :  4   5 :  0   6 :  0   7 :  0   8 :  3   9 :  0   10 :  2   11 :  10   12 :  0   13 :  7   14 :  0   15 :  0   16 :  0   17 :  0   

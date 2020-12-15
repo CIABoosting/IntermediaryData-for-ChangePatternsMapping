@@ -1,0 +1,12 @@
+AccessTokenRequestDataHolder:0.61
+OidcServerDiscoverySettings:0.2813333333333334
+OidcConfiguration:0.2
+OAuth20AuthorizeEndpointController:0.19333333333333333
+BaseOAuth20Controller:0.16666666666666666
+OidcAuthorizeEndpointController:0.15
+AccessTokenRefreshTokenGrantRequestExtractor:0.14
+OAuth20CasAuthenticationBuilder:0.14
+AccessTokenAuthorizationCodeGrantRequestExtractor:0.12666666666666668
+BaseAccessTokenGrantRequestExtractor:0.11
+AccessTokenPasswordGrantRequestExtractor:0.09
+OidcConstants:0.056666666666666664

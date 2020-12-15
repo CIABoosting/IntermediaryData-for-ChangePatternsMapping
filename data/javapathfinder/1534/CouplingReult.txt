@@ -1,0 +1,66 @@
+Compared Result of  two versions
+Number of New Class: 60
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : mango.scanner.bytecode.AALOAD: 
+new Added class 1 : mango.scanner.bytecodeSynthetic.AbstractUconPlace: 
+new Added class 2 : mango.scanner.bytecodeSynthetic.ACATCHHANDLER: 
+new Added class 3 : mango.scanner.bytecodeSynthetic.ATHROWCREATOR: 
+new Added class 4 : mango.scanner.bytecodeSynthetic.ATHROWHANDLER: 
+new Added class 5 : mango.scanner.bytecodeSynthetic.BadPlace: 
+new Added class 6 : mango.scanner.bytecode.D2F: 
+new Added class 7 : mango.scanner.bytecode.D2I: 
+new Added class 8 : mango.scanner.bytecode.D2L: 
+new Added class 9 : mango.scanner.bytecode.DADD: 
+new Added class 10 : mango.scanner.bytecode.DCMPG: 
+new Added class 11 : mango.scanner.bytecode.DCMPL: 
+new Added class 12 : mango.scanner.bytecode.DDIV: 
+new Added class 13 : mango.scanner.bytecode.DMUL: 
+new Added class 14 : mango.scanner.bytecode.DNEG: 
+new Added class 15 : mango.scanner.bytecode.DREM: 
+new Added class 16 : mango.scanner.bytecode.DSUB: 
+new Added class 17 : mango.scanner.bytecode.F2D: 
+new Added class 18 : mango.scanner.bytecode.F2I: 
+new Added class 19 : mango.scanner.bytecode.F2L: 
+new Added class 20 : mango.scanner.bytecode.FADD: 
+new Added class 21 : mango.scanner.bytecode.FCMPG: 
+new Added class 22 : mango.scanner.bytecode.FCMPL: 
+new Added class 23 : mango.scanner.bytecode.FDIV: 
+new Added class 24 : mango.scanner.bytecode.FMUL: 
+new Added class 25 : mango.scanner.bytecode.FNEG: 
+new Added class 26 : mango.scanner.bytecode.FREM: 
+new Added class 27 : mango.scanner.bytecode.FSUB: 
+new Added class 28 : mango.scanner.bytecode.IADD: 
+new Added class 29 : mango.scanner.bytecode.IDIV: 
+new Added class 30 : mango.scanner.bytecode.IFEQ: 
+new Added class 31 : mango.scanner.bytecode.IFGE: 
+new Added class 32 : mango.scanner.bytecode.IFGT: 
+new Added class 33 : mango.scanner.bytecode.IFLE: 
+new Added class 34 : mango.scanner.bytecode.IFLT: 
+new Added class 35 : mango.scanner.bytecode.IFNE: 
+new Added class 36 : mango.scanner.bytecode.IF_ACMPEQ: 
+new Added class 37 : mango.scanner.bytecode.IF_ACMPNE: 
+new Added class 38 : mango.scanner.bytecode.IF_ICMPEQ: 
+new Added class 39 : mango.scanner.bytecode.IF_ICMPGE: 
+new Added class 40 : mango.scanner.bytecode.IF_ICMPGT: 
+new Added class 41 : mango.scanner.bytecode.IF_ICMPLE: 
+new Added class 42 : mango.scanner.bytecode.IF_ICMPLT: 
+new Added class 43 : mango.scanner.bytecode.IF_ICMPNE: 
+new Added class 44 : mango.scanner.bytecode.IMUL: 
+new Added class 45 : mango.scanner.bytecode.INEG: 
+new Added class 46 : mango.scanner.bytecodeSynthetic.INVOKETARGET: 
+new Added class 47 : mango.scanner.bytecode.IREM: 
+new Added class 48 : mango.scanner.bytecode.ISUB: 
+new Added class 49 : mango.scanner.bytecode.L2D: 
+new Added class 50 : mango.scanner.bytecode.L2F: 
+new Added class 51 : mango.scanner.bytecode.L2I: 
+new Added class 52 : mango.scanner.bytecode.LADD: 
+new Added class 53 : mango.scanner.bytecode.LCMP: 
+new Added class 54 : mango.scanner.bytecode.LDIV: 
+new Added class 55 : mango.scanner.bytecode.LMUL: 
+new Added class 56 : mango.scanner.bytecode.LNEG: 
+new Added class 57 : mango.scanner.bytecode.LREM: 
+new Added class 58 : mango.scanner.bytecode.LSUB: 
+new Added class 59 : mango.scanner.bytecodeSynthetic.OSplace: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

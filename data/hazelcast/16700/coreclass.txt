@@ -1,0 +1,16 @@
+Data:0.43666666666666665
+IOUtil:0.32666666666666666
+AbstractIOSelector:0.26
+SerializationServiceImpl:0.25
+ByteArrayObjectDataInput:0.23
+NodeIOService:0.22
+UnsafeInputOutputFactory:0.21333333333333335
+WriteHandler:0.21
+TcpIpConnectionManager:0.21
+SocketAcceptor:0.18166666666666667
+DataAdapter:0.17
+SerializationServiceBuilder:0.15
+SocketConnector:0.12333333333333334
+FactoryIdHelper:0.12
+SymmetricCipherBuilder:0.056666666666666664
+PortableSerializer:0.045

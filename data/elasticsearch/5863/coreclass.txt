@@ -1,0 +1,11 @@
+RangeAggregator:0.6366666666666667
+AbstractRangeBuilder:0.31666666666666665
+GeoDistanceAggregationBuilder:0.28
+Unmapped:0.22666666666666666
+DateRangeAggregationBuilder:0.19333333333333333
+RangeAggregationBuilder:0.17666666666666667
+IndicesRequestCacheIT:0.15
+GeoDistanceRangeAggregatorFactory:0.11333333333333333
+AbstractRangeAggregatorFactory:0.08333333333333333
+RangeAggregatorFactory:0.023333333333333334
+DateRangeAggregatorFactory:0.013333333333333334

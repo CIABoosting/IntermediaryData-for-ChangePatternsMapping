@@ -1,0 +1,5 @@
+EarlyStoppingParallelTrainer:0.5333333333333333
+ParallelWrapper:0.4266666666666667
+MaxScoreIterationTerminationCondition:0.4066666666666667
+TestParallelEarlyStopping:0.17
+TestParallelEarlyStoppingUI:0.17

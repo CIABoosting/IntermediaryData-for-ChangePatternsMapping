@@ -1,0 +1,10 @@
+MultiLayerNetwork:0.5433333333333333
+NeuralNetConfiguration:0.47
+BaseOptimizer:0.3616666666666667
+Builder:0.27666666666666667
+StochasticGradientDescent:0.27
+TestUpdaters:0.2633333333333333
+Layer:0.22
+ScoreIterationListener:0.19666666666666666
+NesterovsUpdater:0.13
+BaseUpdater:0.11916666666666667

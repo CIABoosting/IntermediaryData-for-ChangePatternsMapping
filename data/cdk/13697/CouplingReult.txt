@@ -1,0 +1,43 @@
+Compared Result of  two versions
+Number of New Class: 37
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.interfaces.AbstractChemObjectTest: 
+new Added class 1 : org.openscience.cdk.BondTest: 
+new Added class 2 : org.openscience.cdk.CrystalTest: 
+new Added class 3 : org.openscience.cdk.debug.DebugIsotopeTest: 
+new Added class 4 : org.openscience.cdk.debug.DebugLonePairTest: 
+new Added class 5 : org.openscience.cdk.debug.DebugMappingTest: 
+new Added class 6 : org.openscience.cdk.debug.DebugMoleculeTest: 
+new Added class 7 : org.openscience.cdk.debug.DebugPDBAtomTest: 
+new Added class 8 : org.openscience.cdk.debug.DebugPDBPolymerTest: 
+new Added class 9 : org.openscience.cdk.debug.DebugPseudoAtomTest: 
+new Added class 10 : org.openscience.cdk.debug.DebugRingTest: 
+new Added class 11 : org.openscience.cdk.debug.DebugSingleElectronTest: 
+new Added class 12 : org.openscience.cdk.debug.DebugStrandTest: 
+new Added class 13 : org.openscience.cdk.MappingTest: 
+new Added class 14 : org.openscience.cdk.MoleculeTest: 
+new Added class 15 : org.openscience.cdk.nonotify.NNAtomContainerTest: 
+new Added class 16 : org.openscience.cdk.nonotify.NNAtomTest: 
+new Added class 17 : org.openscience.cdk.nonotify.NNAtomTypeTest: 
+new Added class 18 : org.openscience.cdk.nonotify.NNBioPolymerTest: 
+new Added class 19 : org.openscience.cdk.nonotify.NNBondTest: 
+new Added class 20 : org.openscience.cdk.nonotify.NNCrystalTest: 
+new Added class 21 : org.openscience.cdk.nonotify.NNElementTest: 
+new Added class 22 : org.openscience.cdk.nonotify.NNIsotopeTest: 
+new Added class 23 : org.openscience.cdk.nonotify.NNLonePairTest: 
+new Added class 24 : org.openscience.cdk.nonotify.NNMappingTest: 
+new Added class 25 : org.openscience.cdk.nonotify.NNMoleculeTest: 
+new Added class 26 : org.openscience.cdk.nonotify.NNPDBPolymerTest: 
+new Added class 27 : org.openscience.cdk.nonotify.NNPseudoAtomTest: 
+new Added class 28 : org.openscience.cdk.nonotify.NNRingTest: 
+new Added class 29 : org.openscience.cdk.nonotify.NNSingleElectronTest: 
+new Added class 30 : org.openscience.cdk.nonotify.NNStrandTest: 
+new Added class 31 : org.openscience.cdk.protein.data.PDBAtomTest: 
+new Added class 32 : org.openscience.cdk.protein.data.PDBPolymerTest: 
+new Added class 33 : org.openscience.cdk.PseudoAtomTest: 
+new Added class 34 : org.openscience.cdk.RingTest: 
+new Added class 35 : org.openscience.cdk.SingleElectronTest: 
+new Added class 36 : org.openscience.cdk.StrandTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

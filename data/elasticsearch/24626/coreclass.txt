@@ -1,0 +1,9 @@
+DecayFunctionBuilder:0.5466666666666666
+DecayFunctionScoreTests:0.28
+NumericFieldDataScoreFunction:0.2327777777777778
+GeoFieldDataScoreFunction:0.2327777777777778
+DecayFunctionParser:0.21333333333333335
+GaussScoreFunction:0.15
+LinearDecayScoreFunction:0.15
+ExponentialDecayScoreFunction:0.15
+AbstractDistanceScoreFunction:0.11666666666666667

@@ -1,0 +1,9 @@
+TicketRegistryCleaner:0.8161111111111111
+NoOpTicketRegistryCleaner:0.5133333333333333
+HazelcastTicketRegistryConfiguration:0.19333333333333333
+CouchbaseTicketRegistryConfiguration:0.17333333333333334
+DefaultTicketRegistryCleaner:0.17
+MongoDbTicketRegistryConfiguration:0.17
+CasCoreUtilConfiguration:0.09
+MemcachedTicketRegistryConfiguration:0.08
+CasCoreTicketsSchedulingConfiguration:0.07666666666666666

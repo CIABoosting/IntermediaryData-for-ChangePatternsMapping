@@ -1,0 +1,11 @@
+MergeProjector:0.42
+FilterProjector:0.23666666666666666
+AbstractIndexWriterProjector:0.20666666666666667
+UpdateProjector:0.20333333333333334
+WriterProjector:0.20333333333333334
+ResultProviderBase:0.20333333333333334
+SimpleTopNProjector:0.2
+SortingTopNProjector:0.19666666666666666
+AggregationProjector:0.19666666666666666
+GroupingProjector:0.17
+FetchProjector:0.17

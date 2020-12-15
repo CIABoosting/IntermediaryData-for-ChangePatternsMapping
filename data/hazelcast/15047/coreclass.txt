@@ -1,0 +1,17 @@
+CacheConfig:0.36
+NearCacheConfig:0.3
+ClientCacheProxy:0.29333333333333333
+HazelcastCacheManager:0.23666666666666666
+HazelcastCachingProvider:0.23666666666666666
+ClientCallFuture:0.22333333333333333
+ProxyManager:0.19666666666666666
+HazelcastServerCacheManager:0.19666666666666666
+SimpleCacheTest:0.17333333333333334
+CachePortableHook:0.16966666666666666
+CacheGetRequest:0.16111111111111112
+HazelcastClientCacheManager:0.15666666666666668
+HazelcastClientCachingProvider:0.13666666666666666
+CachePutRequest:0.11444444444444443
+SimpleMapTestFromClient:0.09333333333333334
+ExecutionCallbackNode:0.056666666666666664
+ClientCacheDistributedObject:0.03666666666666667

@@ -1,0 +1,13 @@
+IndicesRequestTests:0.2866666666666667
+Async:0.25666666666666665
+SearchDfsQueryThenFetchAsyncAction:0.24333333333333335
+AbstractSearchAsyncAction:0.24
+SearchModule:0.21333333333333335
+SearchScrollQueryThenFetchAsyncAction:0.20333333333333334
+SearchScrollQueryAndFetchAsyncAction:0.2
+SearchDfsQueryAndFetchAsyncAction:0.19111111111111112
+SearchQueryThenFetchAsyncAction:0.16
+SearchQueryAndFetchAsyncAction:0.15333333333333332
+TransportSearchAction:0.13333333333333333
+TransportSearchScrollAction:0.10666666666666667
+TransportClearScrollAction:0.01

@@ -1,0 +1,15 @@
+JdbcCursorItemReader:0.31333333333333335
+StaxEventItemWriter:0.31
+FlatFileItemWriter:0.28
+FlatFileItemReader:0.2633333333333333
+StaxEventItemReader:0.24666666666666667
+StaxEventItemReaderTests:0.21666666666666667
+SingleColumnJdbcKeyGenerator:0.21616666666666665
+MultipleColumnJdbcKeyGenerator:0.21616666666666665
+HibernateCursorItemReader:0.20333333333333334
+IbatisKeyGenerator:0.2
+FlatFileItemWriterTests:0.2
+StaxEventItemWriterTests:0.14
+FlatFileItemReaderAdvancedTests:0.13666666666666666
+ExecutionContextUserSupportTests:0.08333333333333333
+ExecutionContextUserSupport:0.07666666666666666

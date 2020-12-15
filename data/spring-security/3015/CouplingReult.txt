@@ -1,0 +1,22 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.springframework.security.access.vote.AbstractAclVoterTests: 
+new Added class 1 : org.springframework.security.taglibs.authz.AuthorizeTagCustomGrantedAuthorityTests: 
+new Added class 2 : org.springframework.security.web.authentication.DefaultLoginPageGeneratingFilterTests: 
+new Added class 3 : org.springframework.security.web.authentication.www.DigestAuthenticationFilterTests: 
+new Added class 4 : org.springframework.security.access.expression.method.ExpressionBasedPreInvocationAdvice: 
+new Added class 5 : org.springframework.security.core.authority.GrantedAuthorityImplTests: 
+new Added class 6 : org.springframework.security.config.http.HttpSecurityBeanDefinitionParserTests: 
+new Added class 7 : org.springframework.security.config.method.InterceptMethodsBeanDefinitionDecoratorTests: 
+new Added class 8 : org.springframework.security.remoting.dns.JndiDnsResolverTest: 
+new Added class 9 : org.springframework.security.core.authority.mapping.MapBasedAttributes2GrantedAuthoritiesMapper: 
+new Added class 10 : org.springframework.security.access.intercept.method.MapBasedMethodSecurityMetadataSourceTests: 
+new Added class 11 : org.springframework.security.acls.domain.ObjectIdentityImplTests: 
+new Added class 12 : org.springframework.security.acls.domain.ObjectIdentityRetrievalStrategyImplTests: 
+new Added class 13 : org.springframework.security.config.http.RememberMeBeanDefinitionParser: 
+new Added class 14 : org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests: 
+new Added class 15 : org.springframework.security.access.hierarchicalroles.TestHelperTests: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

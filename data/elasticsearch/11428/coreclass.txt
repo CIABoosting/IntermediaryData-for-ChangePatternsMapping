@@ -1,0 +1,17 @@
+BoolQueryBuilder:0.44666666666666666
+BulkRequest:0.43666666666666665
+SpanNearQueryBuilder:0.32666666666666666
+DisMaxQueryBuilder:0.3
+AbstractQueryBuilder:0.29333333333333333
+SpanOrQueryBuilder:0.28
+AndMatcher:0.23338888888888884
+OrMatcher:0.23338888888888884
+FunctionScoreQueryBuilderTests:0.21666666666666667
+BoolQueryBuilderTests:0.20666666666666667
+AbstractQueryTestCase:0.2
+BulkRequestTests:0.19333333333333333
+BulkProcessor:0.17
+DisMaxQueryBuilderTests:0.12333333333333334
+SpanNearQueryBuilderTests:0.11666666666666667
+SpanOrQueryBuilderTests:0.11333333333333333
+ClientInvocationHandler:0.0

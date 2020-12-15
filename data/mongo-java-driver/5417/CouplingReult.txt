@@ -1,0 +1,35 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.bson.types.BasicBSONList: 
+new Added class 1 : org.bson.BasicBSONObject: 
+new Added class 2 : com.mongodb.BasicDBObjectBuilder: 
+new Added class 3 : org.bson.BSONTest: 
+new Added class 4 : com.mongodb.Bytes: 
+new Added class 5 : com.mongodb.ByteTest: 
+new Added class 6 : com.mongodb.framework.Circular: 
+new Added class 7 : org.bson.util.ClassMap: 
+new Added class 8 : com.mongodb.DBCallback: 
+new Added class 9 : com.mongodb.DBCollection: 
+new Added class 10 : com.mongodb.DBObjectTest: 
+new Added class 11 : com.mongodb.DBPortPool: 
+new Added class 12 : com.mongodb.gridfs.GridFSTest: 
+new Added class 13 : com.mongodb.MapReduceOutput: 
+new Added class 14 : com.mongodb.OutMessage: 
+new Added class 15 : com.mongodb.PerformanceTest: 
+new Added class 16 : com.mongodb.ReflectionDBObject: 
+new Added class 17 : com.mongodb.util.ThreadPoolTest: 
+new Added class 18 : com.mongodb.util.UniqueListTest: 
+testing relationship 
+class 5  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-5  r12:0  r13:11  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:5  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-4  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-4  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 14  vs  class 9£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  1   4 :  1   5 :  6   6 :  1   7 :  0   8 :  8   9 :  0   10 :  4   11 :  -11   12 :  0   13 :  29   14 :  1   15 :  0   16 :  0   17 :  0   

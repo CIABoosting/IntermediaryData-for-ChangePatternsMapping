@@ -1,0 +1,15 @@
+ConnectionFactory:0.5866666666666667
+DefaultServer:0.41333333333333333
+Mongo:0.37333333333333335
+MongoClients:0.23
+AsyncConnectionFactory:0.22977777777777775
+IsMasterServerStateNotifier:0.22333333333333333
+DefaultConnectionFactory:0.18333333333333332
+DefaultClusterableServerFactory:0.17
+CachingAuthenticatorAsyncTest:0.12
+DefaultAsyncConnectionProvider:0.10333333333333333
+DefaultConnectionProvider:0.09666666666666666
+DefaultSingleServerClusterTest:0.09666666666666666
+DefaultAsyncConnectionFactory:0.08333333333333333
+SimpleAsyncConnectionPool:0.05
+SimpleConnectionPool:0.05

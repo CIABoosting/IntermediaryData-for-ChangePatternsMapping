@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.joda.time.format.AbstractDateTimeFormatter: 
+new Added class 1 : org.joda.time.partial.AbstractPartial: 
+new Added class 2 : org.joda.time.format.DateTimeFormat: 
+new Added class 3 : org.joda.time.format.DateTimeFormatterBuilder: 
+new Added class 4 : org.joda.time.format.DateTimePrinter: 
+new Added class 5 : org.joda.time.format.ISODateTimeFormat: 
+new Added class 6 : org.joda.time.partial.TestTimeOfDay: 
+new Added class 7 : org.joda.time.partial.TestYearMonthDay: 
+new Added class 8 : org.joda.time.partial.TimeOfDay: 
+new Added class 9 : org.joda.time.partial.YearMonthDay: 
+testing relationship 
+class 0  vs  class 4£º  r0:0  r1:0  r2:0  r3:5  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-6  r12:0  r13:9  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:6  r14:0  r15:0  r16:30  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:9  r15:0  r16:0  r17:0  
+class 6  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:441  r12:0  r13:76  r14:4  r15:0  r16:0  r17:0  
+class 7  vs  class 9£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:344  r12:0  r13:63  r14:3  r15:0  r16:0  r17:0  
+class 8  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  0   3 :  8   4 :  2   5 :  1   6 :  2   7 :  0   8 :  0   9 :  0   10 :  0   11 :  781   12 :  0   13 :  154   14 :  16   15 :  0   16 :  30   17 :  0   

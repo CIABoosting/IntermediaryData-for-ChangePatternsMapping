@@ -1,0 +1,9 @@
+PercolateRequest:0.4633333333333333
+PercolateRequestBuilder:0.39
+XContentFactory:0.31333333333333335
+PercolateShardRequest:0.25333333333333335
+TransportPercolateAction:0.17333333333333334
+SimplePercolatorTests:0.08
+PercolatorService:0.07666666666666666
+RestPercolateAction:0.03166666666666667
+RestPercolatingExistingDocumentAction:0.03

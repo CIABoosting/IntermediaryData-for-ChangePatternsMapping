@@ -1,0 +1,11 @@
+GrpclbConstants:0.51
+ResolutionResults:0.49333333333333335
+DnsNameResolverTest:0.3466666666666667
+GrpclbLoadBalancerTest:0.27
+CompositeResolver:0.22333333333333333
+MockResolver:0.21666666666666667
+GrpclbLoadBalancer:0.2086111111111111
+NameResolverListenerImpl:0.2
+JndiResolver:0.19333333333333333
+JdkResolver:0.16666666666666666
+DnsNameResolver:0.16615079365079366

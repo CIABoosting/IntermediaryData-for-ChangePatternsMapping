@@ -1,0 +1,15 @@
+Channel:0.42333333333333334
+DataLoaderService:0.33666666666666667
+DataProcessor:0.3233333333333333
+AbstractDataLoaderServiceTest:0.31
+IDataLoaderFactory:0.3017857142857143
+NodeChannel:0.27666666666666667
+IDataLoaderService:0.22166666666666668
+ConfigurationService:0.22
+AbstractWriterTest:0.20666666666666667
+CsvDataReaderTest:0.16666666666666666
+LoadIntoDatabaseOnArrivalListener:0.15333333333333332
+ExtensionPointManager:0.11555555555555555
+ConfigurationServiceSqlMap:0.11
+DataContext:0.09666666666666666
+DefaultDataLoaderFactory:0.04666666666666667

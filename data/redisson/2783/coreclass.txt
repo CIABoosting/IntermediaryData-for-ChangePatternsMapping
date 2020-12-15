@@ -1,0 +1,12 @@
+LoadBalancer:0.5245119047619048
+ConnectionManager:0.5126071428571429
+RedissonMap:0.37333333333333335
+CommandExecutorService:0.35
+BaseLoadBalancer:0.33
+CommandExecutor:0.23833333333333334
+MasterSlaveConnectionManager:0.23
+RedissonSet:0.21666666666666667
+CommandBatchExecutorService:0.20666666666666667
+MasterSlaveEntry:0.17333333333333334
+ListScanResult:0.09333333333333334
+MapScanResult:0.09333333333333334

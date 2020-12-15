@@ -1,0 +1,14 @@
+AlignmentOperator:0.3566666666666667
+Builder:0.27666666666666667
+BlockAssertions:0.25
+BlocksFileReader:0.24666666666666667
+DatabaseLocalStorageManager:0.23333333333333334
+RaptorColumnHandle:0.21333333333333335
+RaptorMetadata:0.21333333333333335
+TestDatabaseLocalStorageManager:0.16
+EncodedBlockIterable:0.15666666666666668
+BlockUtils:0.14666666666666667
+TestAlignmentOperator:0.12666666666666668
+RaptorDataStreamProvider:0.11666666666666667
+InformationSchemaDataStreamProvider:0.10333333333333333
+InternalTable:0.1

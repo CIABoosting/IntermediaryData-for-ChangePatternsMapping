@@ -1,0 +1,7 @@
+Rewriter:0.76
+InsertSemiJoinRewriter:0.37333333333333335
+InPredicateRewriter:0.23666666666666666
+TestLogicalPlanner:0.12
+UnusedApplyRemover:0.10666666666666667
+PruneUnreferencedOutputs:0.10333333333333333
+TransformUncorrelatedInPredicateSubqueryToSemiJoin:0.006666666666666667

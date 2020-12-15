@@ -1,0 +1,11 @@
+IOSMethodBinding:0.41
+ArrayRewriter:0.37333333333333335
+OperatorRewriter:0.35333333333333333
+NilCheckResolver:0.30333333333333334
+ImplementationImportCollector:0.29333333333333333
+DebugASTPrinter:0.2866666666666667
+StatementGenerator:0.2833333333333333
+TreeVisitor:0.27
+StaticVarRewriter:0.26
+ComplexExpressionExtractor:0.25333333333333335
+Autoboxer:0.21333333333333335

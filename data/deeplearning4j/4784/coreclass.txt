@@ -1,0 +1,6 @@
+SparkComputationGraph:0.45888888888888896
+ParameterAveragingTrainingMaster:0.36
+TestCompareParameterAveragingSparkVsSingleMachine:0.29
+ParameterAveragingAggregationTuple:0.2720555555555556
+ParameterAveragingElementAddFunction:0.13
+ParameterAveragingElementCombineFunction:0.07333333333333333

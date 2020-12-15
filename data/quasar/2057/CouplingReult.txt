@@ -1,0 +1,37 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : co.paralleluniverse.actors.ActorTest: 
+new Added class 1 : co.paralleluniverse.strands.channels.Channels: 
+new Added class 2 : co.paralleluniverse.strands.channels.ChannelTest: 
+new Added class 3 : co.paralleluniverse.actors.behaviors.GenServerTest: 
+new Added class 4 : co.paralleluniverse.actors.Mailbox: 
+new Added class 5 : co.paralleluniverse.actors.MailboxConfig: 
+new Added class 6 : co.paralleluniverse.fibers.instrument.MethodDatabase: 
+new Added class 7 : co.paralleluniverse.actors.PrimitiveChannelRingBenchmark: 
+new Added class 8 : co.paralleluniverse.strands.channels.QueueChannel: 
+new Added class 9 : co.paralleluniverse.strands.channels.QueueDoubleChannel: 
+new Added class 10 : co.paralleluniverse.strands.channels.QueueFloatChannel: 
+new Added class 11 : co.paralleluniverse.strands.channels.QueueIntChannel: 
+new Added class 12 : co.paralleluniverse.strands.channels.QueueLongChannel: 
+new Added class 13 : co.paralleluniverse.strands.channels.QueueObjectChannel: 
+new Added class 14 : co.paralleluniverse.strands.channels.QueuePrimitiveChannel: 
+new Added class 15 : co.paralleluniverse.actors.behaviors.RequestReplyHelper: 
+new Added class 16 : co.paralleluniverse.actors.RingBenchmark: 
+new Added class 17 : co.paralleluniverse.strands.channels.SingleConsumerQueueChannel: 
+new Added class 18 : co.paralleluniverse.strands.channels.TickerChannelTest: 
+testing relationship 
+class 0  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:12  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 4  vs  class 17£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 14£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 14£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 14£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 14£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 17£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  8   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  17   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  3   17 :  0   

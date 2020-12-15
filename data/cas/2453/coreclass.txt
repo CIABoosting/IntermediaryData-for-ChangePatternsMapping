@@ -1,0 +1,12 @@
+MongoDb:0.35
+MultifactorAuthenticationProperties:0.33
+GAuthMultifactorProperties:0.24666666666666667
+U2FConfiguration:0.22333333333333333
+GoogleAuthenticatorMongoDbConfiguration:0.19666666666666666
+U2FAuthenticationEventExecutionPlanConfiguration:0.17
+U2FJpaConfiguration:0.17
+TrustedDevicesController:0.12
+MultifactorAuthenticationTrustStorageCleaner:0.013333333333333334
+MultifactorAuthenticationVerifyTrustAction:0.013333333333333334
+MultifactorAuthenticationSetTrustAction:0.013333333333333334
+MultifactorAuthenticationTrustController:0.013333333333333334

@@ -1,0 +1,14 @@
+UpsertById:0.38
+ProjectionToProjectorVisitor:0.37666666666666665
+ESDelete:0.23
+Planner:0.23
+ShardCollectorProvider:0.22
+TransportActionProvider:0.2
+DeleteStatementPlanner:0.1586111111111111
+ProjectionToProjectorVisitorTest:0.14
+LuceneShardCollectorProvider:0.11666666666666667
+Initializer:0.11
+ShardCollectSource:0.095
+CollectSourceResolver:0.04666666666666667
+BlobShardCollectorProvider:0.04666666666666667
+Builder:0.023333333333333334

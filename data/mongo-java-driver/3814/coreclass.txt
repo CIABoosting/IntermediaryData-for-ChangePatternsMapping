@@ -1,0 +1,6 @@
+SingleServerMongoConnector:0.27
+SingleChannelAsyncMongoConnector:0.27
+SingleChannelSyncMongoConnector:0.27
+DelegatingMongoConnector:0.23333333333333334
+ReleaseIgnoringMongoPoolableConnector:0.23333333333333334
+MongoConnector:0.08738888888888888

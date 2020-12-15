@@ -1,0 +1,34 @@
+Compared Result of  two versions
+Number of New Class: 15
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.index.replication.ESIndexLevelReplicationTestCase: 
+new Added class 1 : org.elasticsearch.indices.cluster.IndicesClusterStateService: 
+new Added class 2 : org.elasticsearch.indices.recovery.RecoveriesCollection: 
+new Added class 3 : org.elasticsearch.recovery.RecoveriesCollectionTests: 
+new Added class 4 : org.elasticsearch.index.replication.RecoveryDuringReplicationTests: 
+new Added class 5 : org.elasticsearch.indices.recovery.RecoverySource: 
+new Added class 6 : org.elasticsearch.indices.recovery.RecoverySourceHandler: 
+new Added class 7 : org.elasticsearch.indices.recovery.RecoverySourceHandlerTests: 
+new Added class 8 : org.elasticsearch.indices.recovery.RecoveryStatusTests: 
+new Added class 9 : org.elasticsearch.indices.recovery.RecoveryTarget: 
+new Added class 10 : org.elasticsearch.indices.recovery.RecoveryTargetHandler: 
+new Added class 11 : org.elasticsearch.indices.recovery.RecoveryTargetService: 
+new Added class 12 : org.elasticsearch.recovery.RelocationIT: 
+new Added class 13 : org.elasticsearch.indices.recovery.RemoteRecoveryTargetHandler: 
+new Added class 14 : org.elasticsearch.indices.recovery.SharedFSRecoverySourceHandler: 
+testing relationship 
+class 1  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 1  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 2  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 4  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 9  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:3  r17:0  
+class 13  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  2   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  4   9 :  0   10 :  5   11 :  12   12 :  0   13 :  3   14 :  12   15 :  0   16 :  4   17 :  0   

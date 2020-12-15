@@ -1,0 +1,12 @@
+Address:0.58
+Packet:0.41
+JoinRequest:0.28
+ClusterTest:0.27
+SymmetricCipherPacketWriter:0.25666666666666665
+Node:0.23333333333333334
+JoinInfo:0.22666666666666666
+AsymmetricCipherPacketWriter:0.22333333333333333
+ClusterManager:0.22194444444444447
+WriteHandler:0.16777777777777778
+ReadHandler:0.15333333333333332
+MulticastService:0.13

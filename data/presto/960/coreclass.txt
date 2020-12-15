@@ -1,0 +1,16 @@
+BlockUtil:0.59
+LongArrayBlock:0.2733333333333333
+IntArrayBlock:0.2633333333333333
+ShortArrayBlock:0.2633333333333333
+FixedWidthBlock:0.2633333333333333
+ByteArrayBlock:0.2633333333333333
+RunLengthEncodedBlock:0.25333333333333335
+FixedWidthBlockBuilder:0.23
+IntArrayBlockBuilder:0.22333333333333333
+ShortArrayBlockBuilder:0.22333333333333333
+LongArrayBlockBuilder:0.22333333333333333
+ByteArrayBlockBuilder:0.22333333333333333
+AbstractArrayBlock:0.22
+AbstractMapBlock:0.22
+AbstractRowBlock:0.22
+DictionaryBlock:0.2086111111111111

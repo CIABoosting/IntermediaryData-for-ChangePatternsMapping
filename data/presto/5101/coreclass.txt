@@ -1,0 +1,11 @@
+HiveMetadata:0.44666666666666666
+HiveMetastore:0.4247619047619048
+ThriftHiveMetastore:0.4247619047619048
+ExtendedHiveMetastore:0.2733333333333333
+HiveMetastoreClient:0.2733333333333333
+MockHiveMetastoreClient:0.24333333333333335
+InMemoryHiveMetastore:0.24333333333333335
+BridgingHiveMetastore:0.24333333333333335
+ThriftHiveMetastoreStats:0.21
+CachingHiveMetastore:0.20333333333333334
+ThriftHiveMetastoreClient:0.15

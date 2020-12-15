@@ -1,0 +1,11 @@
+AppenderFactory:0.8633333333333333
+DefaultLoggingFactory:0.27
+FileAppenderFactory:0.22666666666666666
+AbstractAppenderFactory:0.20333333333333334
+FileAppenderFactoryTest:0.19666666666666666
+SyslogAppenderFactory:0.18666666666666668
+SyslogAppenderFactoryTest:0.17
+DefaultLoggingFactoryPrintErrorMessagesTest:0.13666666666666666
+LoggerConfiguration:0.10666666666666667
+ConsoleAppenderFactory:0.08333333333333333
+ConsoleAppenderFactoryTest:0.08

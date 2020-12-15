@@ -1,0 +1,12 @@
+ICacheRecordStore:0.4107619047619048
+MapServiceContext:0.4107619047619048
+AbstractCacheService:0.3466666666666667
+CacheBasicAbstractTest:0.34
+CachePartitionSegment:0.31333333333333335
+PartitionContainer:0.31
+RingbufferAsyncAddWithBackoffStressTest:0.27
+AbstractCacheRecordStore:0.19
+MapServiceContextImpl:0.14666666666666667
+MapManagedService:0.14333333333333334
+WriteBehindFlushTest:0.13666666666666666
+PhoneHomeTest:0.07

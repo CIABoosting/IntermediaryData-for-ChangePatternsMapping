@@ -1,0 +1,13 @@
+ReadPreference:0.37
+DBCursor:0.35
+ReadPreferenceTest:0.3466666666666667
+Node:0.3333333333333333
+DBTCPConnector:0.2966666666666667
+Tag:0.27
+MyPort:0.20166666666666666
+NearestReadPreference:0.1
+SecondaryReadPreference:0.1
+SecondaryPreferredReadPreference:0.09666666666666666
+TaggableReadPreference:0.07333333333333333
+PrimaryPreferredReadPreference:0.06333333333333334
+PrimaryReadPreference:0.03

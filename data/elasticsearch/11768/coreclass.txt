@@ -1,0 +1,13 @@
+IndexShard:0.35333333333333333
+Engine:0.33666666666666667
+EngineConfig:0.3333333333333333
+ShardIndexingService:0.26666666666666666
+PercolatorQueriesRegistry:0.2633333333333333
+GetResult:0.24
+InternalEngineTests:0.22333333333333333
+InternalEngine:0.20666666666666667
+ShadowEngineTests:0.17666666666666667
+EngineMergeScheduler:0.16666666666666666
+IndexThrottle:0.11
+IndexingOperationListener:0.09753968253968254
+StatsHolder:0.03

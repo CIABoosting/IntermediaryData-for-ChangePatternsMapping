@@ -1,0 +1,12 @@
+DriverPublication:0.44333333333333336
+LossHandler:0.42333333333333334
+DriverConductor:0.39666666666666667
+DriverConnection:0.39
+SendChannelEndpoint:0.32
+SenderTest:0.2633333333333333
+DataFrameDispatcher:0.22666666666666666
+ReceiverTest:0.22166666666666668
+LossHandlerTest:0.2
+CountersManager:0.19666666666666666
+UnicastSenderControlStrategy:0.09
+DefaultMulticastSenderControlStrategy:0.09

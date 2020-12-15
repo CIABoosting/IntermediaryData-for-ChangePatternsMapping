@@ -1,0 +1,17 @@
+ClassFileLocator:0.3
+Compound:0.2633333333333333
+ForFolder:0.25166666666666665
+ClassFileLocatorForJarFileTest:0.24666666666666667
+ForClassLoader:0.20777777777777778
+ForJarFile:0.2
+Simple:0.195
+ForModuleFile:0.19
+ClassFileLocatorCompoundTest:0.17333333333333334
+AgentBased:0.14976190476190476
+ClassFileLocatorForFolderTest:0.08
+WeaklyReferenced:0.07666666666666666
+ClassFileLocatorForClassLoaderTest:0.04666666666666667
+ClassFileLocatorForClassLoaderWeaklyReferencedTest:0.04
+ClassFileLocatorSimpleTest:0.03333333333333333
+ClassFileLocatorNoOpTest:0.03
+ClosableClassLoader:0.0

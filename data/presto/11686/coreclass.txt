@@ -1,0 +1,15 @@
+ColumnMetadata:0.57
+TableMetadata:0.44333333333333336
+SchemaTableMetadata:0.2633333333333333
+AbstractTestHiveClient:0.25666666666666665
+HiveColumnHandle:0.24
+HiveClient:0.22
+TpchMetadata:0.21666666666666667
+MetadataManager:0.21333333333333335
+TestAnalyzer:0.20666666666666667
+InMemoryMetadata:0.20333333333333334
+StatementAnalyzer:0.18666666666666668
+NativeMetadata:0.17333333333333334
+ColumnMetadataListBuilder:0.15
+LogicalPlanner:0.10666666666666667
+ColumnMetadataMapper:0.07666666666666666

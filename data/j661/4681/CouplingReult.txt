@@ -1,0 +1,57 @@
+Compared Result of  two versions
+Number of New Class: 51
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.common.model.AbstractWidgetFactoryTest: 
+new Added class 1 : arinc661.common.parser.AbstractWidgetRefHandler2Test: 
+new Added class 2 : arinc661.swing.server.model.stdrenderer.ActiveAreaRendererTest: 
+new Added class 3 : arinc661.javafx.editor.ARINC661AppUndoRedoTest: 
+new Added class 4 : arinc661.client.engine.BasicClientEngine2Test: 
+new Added class 5 : arinc661.client.encoding.BasicClientEngineBinaryEncodingTest: 
+new Added class 6 : arinc661.client.encoding.BasicClientEngineEncodingTest: 
+new Added class 7 : arinc661.client.engine.BasicClientEngineTest: 
+new Added class 8 : arinc661.swing.server.engine.BasicServerEngine5Test: 
+new Added class 9 : arinc661.server.encoding.BasicServerEngineBinaryEncodingTest: 
+new Added class 10 : arinc661.server.encoding.BasicServerEngineEncoding2Test: 
+new Added class 11 : arinc661.server.encoding.BasicServerEngineEncoding3Test: 
+new Added class 12 : arinc661.server.encoding.BasicServerEngineEncodingTest: 
+new Added class 13 : arinc661.server.engine.BasicServerEngineTest: 
+new Added class 14 : arinc661.client.arincextensions.ClientARINCExtensionsTest: 
+new Added class 15 : arinc661.client.engine.ClientEngineParserTest: 
+new Added class 16 : arinc661.client.ClientWrapper2Test: 
+new Added class 17 : arinc661.client.ClientWrapperNetworkTest: 
+new Added class 18 : arinc661.client.arincextensions.ClientXMLDFHandlerExtensionNotAllowedTest: 
+new Added class 19 : arinc661.client.arincextensions.ClientXMLDFHandlerWithExtension2Test: 
+new Added class 20 : arinc661.client.arincextensions.ClientXMLDFHandlerWithExtension3Test: 
+new Added class 21 : arinc661.client.arincextensions.ClientXMLDFHandlerWithExtensionTest: 
+new Added class 22 : arinc661.client.parser.ClientXMLDFHandler_KO3Test: 
+new Added class 23 : arinc661.client.parser.ClientXMLDFHandler_KOTest: 
+new Added class 24 : arinc661.server.parser.CockpitConfigurationHandlerTest: 
+new Added class 25 : arinc661.appli.writer.DefaultBinaryExporter3Test: 
+new Added class 26 : arinc661.appli.writer.DefaultXMLExporter4Test: 
+new Added class 27 : arinc661.server.parser.DFHandlerTest: 
+new Added class 28 : arinc661.server.parser.DFHandler_2Test: 
+new Added class 29 : arinc661.server.parser.DFHandler_3Test: 
+new Added class 30 : arinc661.server.parser.DFHandler_4Test: 
+new Added class 31 : arinc661.server.parser.DFHandler_5Test: 
+new Added class 32 : arinc661.server.parser.DFHandler_KO3Test: 
+new Added class 33 : arinc661.server.parser.DFHandler_KOTest: 
+new Added class 34 : arinc661.appli.editor.actions.EditorScaleLayerTest: 
+new Added class 35 : arinc661.server.extensions.Extension10Test: 
+new Added class 36 : arinc661.javafx.editor.writer.JFXDefaultXMLExporter4Test: 
+new Added class 37 : arinc661.javafx.editor.writer.JFXDefaultXMLExporterTest: 
+new Added class 38 : arinc661.javafx.editor.JFXEditorDeleteTest: 
+new Added class 39 : arinc661.javafx.editor.JFXEditorSaveDFTest: 
+new Added class 40 : arinc661.appli.editor.LayerTreeEditorCopyPasteAllow2Test: 
+new Added class 41 : arinc661.appli.editor.LayerTreeEditorCreateAllow2Test: 
+new Added class 42 : arinc661.server.engine.ServerARINCExtensionsTest: 
+new Added class 43 : arinc661.server.parser.ServerBinaryDFHandler9Test: 
+new Added class 44 : arinc661.swing.server.parser.ServerBinaryDFHandlerSymbols2Test: 
+new Added class 45 : arinc661.swing.server.parser.ServerBinaryDFHandlerSymbolsTest: 
+new Added class 46 : arinc661.server.parser.ServerBinaryDFHandler_2Test: 
+new Added class 47 : arinc661.server.com.ServerEngineCommTest: 
+new Added class 48 : arinc661.server.com.ServerEngineComm_Events2Test: 
+new Added class 49 : arinc661.server.com.ServerEngineComm_EventsTest: 
+new Added class 50 : arinc661.client.api.StatefullAPIImpl4Test: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

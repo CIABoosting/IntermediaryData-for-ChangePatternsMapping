@@ -1,0 +1,12 @@
+SessionState:0.48
+ClusteredSessionService:0.32
+WebFilter:0.2633333333333333
+SessionUpdateEntryProcessor:0.25333333333333335
+WebFilterBasicTest:0.22666666666666666
+GetSessionStateEntryProcessor:0.21666666666666667
+GetAttributeEntryProcessor:0.21666666666666667
+GetAttributeNamesEntryProcessor:0.21666666666666667
+HazelcastInstanceLoader:0.21333333333333335
+DeleteSessionEntryProcessor:0.2
+DeferredFailoverClusterTest:0.14666666666666667
+WebFilterSessionCleanupTest:0.14333333333333334

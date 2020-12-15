@@ -1,0 +1,12 @@
+DatabaseInfo:0.65
+DatabaseWriter:0.36666666666666664
+MsSqlDdlBuilder:0.23111111111111116
+OracleDdlBuilder:0.23111111111111116
+Db2DdlBuilder:0.2111111111111111
+AbstractDatabasePlatform:0.20333333333333334
+IDatabasePlatform:0.20083333333333334
+DerbyDdlBuilder:0.1877777777777778
+OracleDatabasePlatform:0.1
+MsSqlDatabasePlatform:0.08333333333333333
+DerbyDatabasePlatform:0.08333333333333333
+Db2DatabasePlatform:0.08333333333333333

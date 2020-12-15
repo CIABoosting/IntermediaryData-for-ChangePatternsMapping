@@ -1,0 +1,13 @@
+ReadPreference:0.4866666666666667
+ReplicaSetMonitor:0.41333333333333333
+ReplicaSetServerBinding:0.24666666666666667
+ReplicaSetMonitorTest:0.22
+ReadPreferenceTest:0.15666666666666668
+PrimaryReadPreference:0.12666666666666668
+NearestReadPreference:0.07666666666666666
+SecondaryReadPreference:0.07666666666666666
+MongoReadPreferenceException:0.05333333333333334
+PrimaryPreferredReadPreference:0.04666666666666667
+SecondaryPreferredReadPreference:0.04666666666666667
+MongoReplicaSetException:0.02666666666666667
+MongoNoPrimaryException:0.02095238095238095

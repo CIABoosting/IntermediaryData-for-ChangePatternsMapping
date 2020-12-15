@@ -1,0 +1,11 @@
+HiveClientConfig:0.5425555555555555
+OrcInputStream:0.25333333333333335
+OrcPageSourceFactory:0.22666666666666666
+DwrfPageSourceFactory:0.21666666666666667
+FileOrcDataSource:0.16666666666666666
+AbstractOrcDataSource:0.14333333333333334
+HdfsSliceLoader:0.12
+TestHiveClientConfig:0.1
+HdfsOrcDataSource:0.1
+SliceBufferReference:0.0811111111111111
+HiveSessionProperties:0.07333333333333333

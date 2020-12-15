@@ -1,0 +1,34 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.mars_sim.msp.core.person.ai.mission.BuildingConstructionMissionextends: 
+new Added class 1 : org.mars_sim.msp.core.person.ai.mission.BuildingSalvageMissionextends: 
+new Added class 2 : org.mars_sim.msp.core.vehicle.LightUtilityVehicle: 
+new Added class 3 : org.mars_sim.msp.ui.swing.unit_display_info.LUVDisplayInfoBean: 
+new Added class 4 : org.mars_sim.msp.core.person.ai.task.MaintainGroundVehicleGarageextends: 
+new Added class 5 : org.mars_sim.msp.core.person.ai.task.MineSiteextends: 
+new Added class 6 : org.mars_sim.msp.core.person.ai.mission.Miningextends: 
+new Added class 7 : org.mars_sim.msp.core.person.ai.mission.RescueSalvageVehicleextends: 
+new Added class 8 : org.mars_sim.msp.core.person.ai.task.meta.SleepMeta: 
+new Added class 9 : org.mars_sim.msp.ui.swing.unit_window.vehicle.TabPanelCrewextends: 
+new Added class 10 : org.mars_sim.msp.core.vehicle.Vehicle: 
+new Added class 11 : org.mars_sim.msp.core.structure.building.function.VehicleMaintenanceextends: 
+new Added class 12 : org.mars_sim.msp.ui.swing.tool.monitor.VehicleTableModelextends: 
+new Added class 13 : org.mars_sim.msp.ui.swing.unit_window.vehicle.VehicleWindow: 
+testing relationship 
+class 0  vs  class 2£º  r0:0  r1:0  r2:0  r3:1  r4:2  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:14  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:18  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 2£º  r0:0  r1:0  r2:0  r3:1  r4:2  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:13  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:17  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 5  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:15  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 2£º  r0:0  r1:0  r2:0  r3:1  r4:2  r5:2  r6:0  r7:0  r8:19  r9:0  r10:0  r11:6  r12:0  r13:1  r14:3  r15:0  r16:0  r17:0  
+class 6  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:23  r9:0  r10:1  r11:29  r12:0  r13:4  r14:14  r15:0  r16:4  r17:0  
+class 9  vs  class 10£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 11  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:8  r15:0  r16:2  r17:0  
+class 12  vs  class 10£º  r0:0  r1:0  r2:0  r3:1  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 10£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:1  r13:1  r14:11  r15:1  r16:1  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  8   4 :  8   5 :  7   6 :  4   7 :  0   8 :  57   9 :  0   10 :  2   11 :  132   12 :  1   13 :  20   14 :  40   15 :  1   16 :  8   17 :  0   

@@ -1,0 +1,15 @@
+FieldSortBuilder:0.35
+GeoDistanceSortBuilder:0.30333333333333334
+SortBuilder:0.3
+QueryShardContext:0.29
+FieldSortIT:0.2866666666666667
+RandomSortDataGenerator:0.26
+GeoDistanceSortBuilderIT:0.23666666666666666
+ScriptSortBuilder:0.23
+ScriptSortBuilderTests:0.19833333333333333
+AbstractSortTestCase:0.15
+SortParseElement:0.12666666666666668
+ScoreSortBuilder:0.09666666666666665
+FieldSortBuilderTests:0.08333333333333333
+GeoDistanceSortBuilderTests:0.06361111111111112
+SortBuilderParser:0.0

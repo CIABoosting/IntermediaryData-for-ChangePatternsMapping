@@ -1,0 +1,17 @@
+ServiceDescriptor:0.7133333333333334
+LoadBalancerDescriptorWrapper:0.2868393458393458
+WorkerServiceDescriptorWrapper:0.2868393458393458
+UnimplementedServiceDescriptorWrapper:0.2868393458393458
+BenchmarkServiceDescriptorWrapper:0.2868393458393458
+HealthDescriptorWrapper:0.2868393458393458
+TestServiceDescriptorWrapper:0.2868393458393458
+MetricsServiceDescriptorWrapper:0.2868393458393458
+ReconnectServiceDescriptorWrapper:0.2868393458393458
+BenchmarkServiceGrpc:0.13
+MetricsServiceGrpc:0.13
+LoadBalancerGrpc:0.13
+TestServiceGrpc:0.13
+ReconnectServiceGrpc:0.13
+UnimplementedServiceGrpc:0.13
+HealthGrpc:0.13
+WorkerServiceGrpc:0.13

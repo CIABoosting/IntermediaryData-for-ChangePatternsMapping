@@ -1,0 +1,6 @@
+SpaceToDepth:0.65
+Builder:0.5
+SpaceToDepthLayer:0.44333333333333336
+ConvolutionLayerSetupTest:0.23
+CNNGradientCheckTest:0.21
+KerasSpaceToDepth:0.17333333333333334

@@ -1,0 +1,45 @@
+Compared Result of  two versions
+Number of New Class: 29
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.grpc.testing.ClientConfig: 
+new Added class 1 : io.grpc.examples.routeguide.Feature: 
+new Added class 2 : io.grpc.examples.helloworld.HelloRequest: 
+new Added class 3 : io.grpc.examples.helloworld.HelloResponse: 
+new Added class 4 : io.grpc.grpclb.InitialLoadBalanceRequest: 
+new Added class 5 : io.grpc.grpclb.InitialLoadBalanceResponse: 
+new Added class 6 : io.grpc.testing.integration.Messages: 
+new Added class 7 : io.grpc.testing.integration.PayloadOrBuilder: 
+new Added class 8 : io.grpc.testing.integration.Payload: 
+new Added class 9 : io.grpc.testing.integration.SimpleRequestOrBuilder: 
+new Added class 10 : io.grpc.testing.integration.SimpleRequest: 
+new Added class 11 : io.grpc.testing.integration.SimpleResponseOrBuilder: 
+new Added class 12 : io.grpc.testing.integration.SimpleResponse: 
+new Added class 13 : io.grpc.testing.integration.SimpleContextOrBuilder: 
+new Added class 14 : io.grpc.testing.integration.SimpleContext: 
+new Added class 15 : io.grpc.testing.integration.StreamingInputCallRequestOrBuilder: 
+new Added class 16 : io.grpc.testing.integration.StreamingInputCallRequest: 
+new Added class 17 : io.grpc.testing.integration.StreamingInputCallResponseOrBuilder: 
+new Added class 18 : io.grpc.testing.integration.StreamingInputCallResponse: 
+new Added class 19 : io.grpc.testing.integration.ResponseParametersOrBuilder: 
+new Added class 20 : io.grpc.testing.integration.ResponseParameters: 
+new Added class 21 : io.grpc.testing.integration.StreamingOutputCallRequestOrBuilder: 
+new Added class 22 : io.grpc.testing.integration.StreamingOutputCallRequest: 
+new Added class 23 : io.grpc.testing.integration.StreamingOutputCallResponseOrBuilder: 
+new Added class 24 : io.grpc.testing.integration.StreamingOutputCallResponse: 
+new Added class 25 : io.grpc.testing.integration.ReconnectInfoOrBuilder: 
+new Added class 26 : io.grpc.testing.integration.ReconnectInfo: 
+new Added class 27 : io.grpc.examples.routeguide.RouteNote: 
+new Added class 28 : io.grpc.grpclb.Server: 
+testing relationship 
+class 8  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 11£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 15£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 17£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 19£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 21£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 23£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 25£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  10   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

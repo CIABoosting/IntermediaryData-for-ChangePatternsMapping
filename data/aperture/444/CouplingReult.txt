@@ -1,0 +1,36 @@
+Compared Result of  two versions
+Number of New Class: 24
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.semanticdesktop.aperture.accessor.AccessVocabulary: 
+new Added class 1 : org.semanticdesktop.aperture.datasource.config.ConfigurationUtil: 
+new Added class 2 : org.semanticdesktop.aperture.vocabulary.DATA: 
+new Added class 3 : org.semanticdesktop.aperture.vocabulary.DATASOURCE: 
+new Added class 4 : org.semanticdesktop.aperture.datasource.base.DataSourceBase: 
+new Added class 5 : org.semanticdesktop.aperture.crawler.filesystem.FileSystemCrawlerFactory: 
+new Added class 6 : org.semanticdesktop.aperture.datasource.filesystem.FileSystemDataSource: 
+new Added class 7 : org.semanticdesktop.aperture.datasource.filesystem.FileSystemDataSourceFactory: 
+new Added class 8 : org.semanticdesktop.aperture.crawler.imap.ImapCrawlerFactory: 
+new Added class 9 : org.semanticdesktop.aperture.datasource.imap.ImapDataSource: 
+new Added class 10 : org.semanticdesktop.aperture.datasource.imap.ImapDataSourceFactory: 
+new Added class 11 : org.semanticdesktop.aperture.outlook.OutlookAccessor: 
+new Added class 12 : org.semanticdesktop.aperture.outlook.OutlookCrawlerFactory: 
+new Added class 13 : org.semanticdesktop.aperture.outlook.OutlookDataSource: 
+new Added class 14 : org.semanticdesktop.aperture.outlook.OutlookDataSourceFactory: 
+new Added class 15 : org.semanticdesktop.aperture.outlook.OutlookResource: 
+new Added class 16 : org.semanticdesktop.aperture.datasource.config.RegExpPattern: 
+new Added class 17 : org.semanticdesktop.aperture.datasource.SourceVocabulary: 
+new Added class 18 : org.semanticdesktop.aperture.datasource.config.SubstringPattern: 
+new Added class 19 : org.semanticdesktop.aperture.crawler.impl.TestDefaultCrawlerRegistry: 
+new Added class 20 : org.semanticdesktop.aperture.datasource.impl.TestDefaultDataSourceRegistry: 
+new Added class 21 : org.semanticdesktop.aperture.crawler.web.WebCrawlerFactory: 
+new Added class 22 : org.semanticdesktop.aperture.datasource.web.WebDataSource: 
+new Added class 23 : org.semanticdesktop.aperture.datasource.web.WebDataSourceFactory: 
+testing relationship 
+class 0  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 15£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:1  r15:0  r16:4  r17:0  
+class 13  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  5   2 :  0   3 :  2   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  4   12 :  0   13 :  0   14 :  1   15 :  0   16 :  4   17 :  0   

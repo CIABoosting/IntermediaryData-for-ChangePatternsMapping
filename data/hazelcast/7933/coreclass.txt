@@ -1,0 +1,11 @@
+NearCacheInvalidator:0.5343333333333333
+MapContainer:0.49666666666666665
+PutAllOperation:0.39
+PutFromLoadAllOperation:0.32
+MapAddNearCacheEntryListenerMessageTask:0.175
+MapAddNearCacheEntryListenerRequest:0.14333333333333334
+ClientNearCacheInvalidationListenerImpl:0.135
+MapOperation:0.12666666666666668
+NearCacheProvider:0.11
+BatchNearCacheInvalidation:0.101
+NearCachedClientMapProxy:0.09

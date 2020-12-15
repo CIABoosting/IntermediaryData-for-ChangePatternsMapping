@@ -1,0 +1,14 @@
+Analyzer:0.36666666666666664
+InnerVisitor:0.29
+AnalyzedStatementVisitor:0.29
+AlterTableOperation:0.2866666666666667
+OperationTest:0.28
+AnalyzerDispatcher:0.25
+TestStatementBuilder:0.24666666666666667
+AstBuilder:0.22666666666666666
+ShardedTable:0.22166666666666668
+BlobTableInfo:0.2
+AstVisitor:0.18
+OptimizeTableAnalyzer:0.17666666666666667
+AlterTableOperationTest:0.07333333333333333
+PartitionPropertiesAnalyzerTest:0.07333333333333333

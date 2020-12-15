@@ -1,0 +1,10 @@
+OidcConfiguration:0.28
+CouchbaseServiceRegistryDao:0.23666666666666666
+OAuth20UserProfileControllerController:0.23666666666666666
+DynamoDbServiceRegistryDao:0.21666666666666667
+MongoServiceRegistryDao:0.21666666666666667
+JpaServiceRegistryDaoImpl:0.21666666666666667
+InMemoryServiceRegistry:0.21666666666666667
+BaseOidcScopeAttributeReleasePolicy:0.21133333333333332
+OAuth20CasAuthenticationBuilder:0.12
+AbstractServiceRegistryDao:0.0

@@ -1,0 +1,18 @@
+Compared Result of  two versions
+Number of New Class: 12
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.apache.struts2.views.velocity.components.AbstractDirective: 
+new Added class 1 : org.apache.struts2.dispatcher.multipart.AbstractMultiPartRequest: 
+new Added class 2 : com.opensymphony.xwork2.config.entities.AllowedMethods: 
+new Added class 3 : org.apache.struts2.components.template.BaseTemplateEngine: 
+new Added class 4 : com.opensymphony.xwork2.util.finder.ClassFinder: 
+new Added class 5 : org.apache.struts2.dispatcher.mapper.DefaultActionMapper: 
+new Added class 6 : com.opensymphony.xwork2.util.GlobalLocalizedTextProvider: 
+new Added class 7 : org.apache.struts2.result.ServletDispatcherResult: 
+new Added class 8 : org.apache.struts2.result.ServletRedirectResult: 
+new Added class 9 : org.apache.struts2.components.ServletUrlRenderer: 
+new Added class 10 : com.opensymphony.xwork2.util.StrutsLocalizedTextProvider: 
+new Added class 11 : org.apache.struts2.views.jsp.TagUtils: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

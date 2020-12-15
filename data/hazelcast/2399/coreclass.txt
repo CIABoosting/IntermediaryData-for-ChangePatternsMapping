@@ -1,0 +1,17 @@
+NearCachedClientMapProxy:0.38333333333333336
+AbstractClientInternalCacheProxy:0.35
+RepairingTask:0.33666666666666667
+ClientContext:0.32
+RepairingHandler:0.31
+AbstractNearCacheRecordStore:0.29
+MetaDataFetcher:0.2733333333333333
+MemberMapMetaDataFetcher:0.19666666666666666
+MapNearCacheManager:0.17
+Pre38NearCacheEventHandler:0.17
+ClientMapMetaDataFetcher:0.16966666666666666
+ClientCacheMetaDataFetcher:0.16966666666666666
+InvalidationAcceptorFilter:0.12
+ResultHolder:0.11666666666666667
+RepairableNearCacheEventHandler:0.09805555555555553
+ConnectedServerVersionAwareNearCacheEventHandler:0.03666666666666667
+MaxSizeEvictionChecker:0.0025

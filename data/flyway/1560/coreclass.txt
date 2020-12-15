@@ -1,0 +1,11 @@
+Flyway:0.53
+DriverDataSource:0.4533333333333333
+JdbcTemplate:0.38666666666666666
+H2DbSupport:0.25
+HsqlDbSupport:0.23666666666666666
+AbstractFlywayTask:0.20333333333333334
+FlywayMediumTest:0.14666666666666667
+H2MigrationMediumTest:0.12333333333333334
+AbstractFlywayMojo:0.1
+H2ConcurrentMigrationMediumTest:0.07666666666666666
+OpenConnectionCountDriverDataSource:0.03888888888888889

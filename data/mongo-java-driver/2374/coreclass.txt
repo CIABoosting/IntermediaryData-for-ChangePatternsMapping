@@ -1,0 +1,17 @@
+Mongo:0.47
+DBCollection:0.41333333333333333
+CallableWithConnection:0.3272804232804233
+OperationHelper:0.27
+DB:0.24
+DBTest:0.21666666666666667
+MongoCollectionView:0.19
+MapReduceResultsIterable:0.175
+UserOperationTest:0.15666666666666668
+CountOperation:0.13666666666666666
+MapReduceWithInlineResultsOperation:0.13333333333333333
+CollectionHelper:0.11666666666666667
+ClientAdministrationImpl:0.11
+UserExistsOperation:0.10333333333333333
+GroupOperation:0.10333333333333333
+GetDatabaseNamesOperation:0.07333333333333333
+DistinctOperation:0.016666666666666666

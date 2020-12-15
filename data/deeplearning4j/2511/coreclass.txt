@@ -1,0 +1,14 @@
+Builder:0.3644444444444444
+SequenceElement:0.31666666666666665
+AsyncDataSetIterator:0.31666666666666665
+ParagraphVectors:0.2833333333333333
+VocabWord:0.27
+MagicQueue:0.27
+ParameterAveragingTrainingMaster:0.26
+ParallelWrapper:0.24
+Trainer:0.22666666666666666
+QueueHandler:0.22666666666666666
+WordVectorSerializer:0.21333333333333335
+MultipleEpochsIterator:0.20666666666666667
+ParagraphVectorsTest:0.1
+ParallelWrapperTest:0.08333333333333333

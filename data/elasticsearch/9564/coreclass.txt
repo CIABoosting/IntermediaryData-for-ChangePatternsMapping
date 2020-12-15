@@ -1,0 +1,12 @@
+DiscoveryNodes:0.53
+ClusterStateHealth:0.35333333333333333
+OperationRouting:0.26
+DiskThresholdDecider:0.25083333333333335
+AsyncShardFetch:0.21666666666666667
+MetaDataUpdateSettingsService:0.21333333333333335
+AllocationService:0.21333333333333335
+ReplicaShardAllocator:0.21333333333333335
+SniffNodesSampler:0.2
+TribeIT:0.16333333333333333
+IndexPrimaryRelocationIT:0.12333333333333334
+GatewayService:0.11

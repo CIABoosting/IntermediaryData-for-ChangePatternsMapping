@@ -1,0 +1,12 @@
+XmppConnectionService:0.68
+Content:0.44666666666666666
+JingleConnection:0.3433333333333333
+JingleSocks5Transport:0.30833333333333335
+JingleInbandTransport:0.26166666666666666
+JingleTransport:0.25
+DownloadableFile:0.24666666666666667
+FileDownloader:0.18666666666666668
+HttpDownloadConnection:0.17666666666666667
+HttpUploadConnection:0.12333333333333334
+FileUploader:0.12
+AbstractConnectionManager:0.12

@@ -1,0 +1,13 @@
+Flyway:0.58
+ClassPathScanner:0.3
+MetaDataTable:0.2866666666666667
+ClassPathScannerSmallTest:0.2633333333333333
+FeatureDetector:0.2633333333333333
+SqlMigrationResolver:0.17666666666666667
+CompositeMigrationResolver:0.17
+MainMediumTest:0.13666666666666666
+JarFileLocationScanner:0.11
+JdbcMigrationResolverSmallTest:0.09333333333333334
+JavaMigrationResolverSmallTest:0.09333333333333334
+SpringJdbcMigrationResolverSmallTest:0.09333333333333334
+DbCleaner:0.08666666666666667

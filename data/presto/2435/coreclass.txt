@@ -1,0 +1,10 @@
+AbstractTestQueries:0.5433333333333333
+ApplyNode:0.42
+PlanVisitor:0.29
+NodePrinter:0.23
+ScalarAggregationToJoinRewriter:0.22
+TestLogicalPlanner:0.22
+Rewriter:0.2
+Visitor:0.14
+PlanOptimizers:0.14
+TestTransformExistsApplyToScalarApply:0.14

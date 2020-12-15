@@ -1,0 +1,10 @@
+TermVectorRequest:0.53
+TermVectorResponse:0.37
+GetTermVectorTests:0.3
+Client:0.27166666666666667
+TermVectorWriter:0.2536111111111111
+AbstractClient:0.17
+Document:0.15
+TermVectorRequestBuilder:0.14666666666666667
+ShardTermVectorService:0.14666666666666667
+RestTermVectorAction:0.0525

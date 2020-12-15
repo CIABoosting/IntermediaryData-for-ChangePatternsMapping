@@ -1,0 +1,15 @@
+Terminal:0.7333333333333333
+InstallPluginCommand:0.34
+CliTool:0.27666666666666667
+RemovePluginCommand:0.19666666666666666
+PluginCli:0.19666666666666666
+InstallPluginCommandTests:0.18
+CliToolTests:0.17666666666666667
+ConsoleTerminal:0.16333333333333333
+Start:0.14
+ListPluginsCommandTests:0.13666666666666666
+RemovePluginCommandTests:0.12666666666666668
+PluginCliTests:0.11333333333333333
+ListPluginsCommand:0.09666666666666666
+SystemTerminal:0.04
+MockTerminal:0.03

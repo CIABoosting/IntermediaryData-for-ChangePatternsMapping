@@ -1,0 +1,6 @@
+QuerySpec:0.33
+RelationAnalyzer:0.26666666666666666
+Visitor:0.2346666666666667
+NonDistributedGroupByConsumer:0.15666666666666668
+InsertFromSubQueryAnalyzer:0.15333333333333332
+ReduceOnCollectorGroupByConsumer:0.14666666666666667

@@ -1,0 +1,17 @@
+MyMockedClusterServiceModule:0.3623161375661375
+SnapshotIntegrationTest:0.3333333333333333
+AnalyzedStatementVisitor:0.29
+CreateSnapshot:0.2833333333333333
+Formatter:0.27472222222222226
+AstVisitor:0.27
+Builder:0.2632777777777778
+InnerVisitor:0.25333333333333335
+TransportBaseSQLAction:0.24666666666666667
+TestMetaDataModule:0.2252301587301587
+AnalyzerDispatcher:0.22333333333333333
+TransportActionProvider:0.17333333333333334
+DropRepositoryStatementAnalyzer:0.17
+CreateRepositoryAnalyzer:0.17
+SnapshotAnalyzerTest:0.11
+DropSnapshotAnalyzer:0.09333333333333334
+SnapshotDDLDispatcher:0.04

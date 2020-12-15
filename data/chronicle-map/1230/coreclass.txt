@@ -1,0 +1,13 @@
+TcpTransportAndNetworkConfig:0.31666666666666665
+TcpSocketChannelEntryWriter:0.30333333333333334
+ReplicatedChronicleMap:0.2763333333333334
+AbstractChannelReplicator:0.27
+EntryExternalizable:0.2678888888888889
+ChannelProvider:0.25
+EntryCallback:0.25
+TcpReplicationSoakTest:0.24333333333333335
+TcpReplicator:0.22166666666666668
+TcpSocketChannelEntryReader:0.20944444444444443
+UdpChannelReplicator:0.19666666666666666
+Throttler:0.11
+UdpSocketChannelEntryWriter:0.043333333333333335

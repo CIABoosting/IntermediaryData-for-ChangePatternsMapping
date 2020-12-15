@@ -1,0 +1,17 @@
+MockEventIpcManager:0.43666666666666665
+DatabaseConnectionFactory:0.37666666666666665
+EventTranslator:0.27
+PassiveStatusKeeper:0.24333333333333335
+Notifd:0.24333333333333335
+Poller:0.23333333333333334
+NotificationManager:0.23
+MockQueryManager:0.23
+DataManager:0.22
+EventTranslatorConfigFactory:0.21666666666666667
+PollablesTest:0.21666666666666667
+EventTranslatorTest:0.21
+LegacyDatabaseConnectionFactory:0.18
+DefaultQueryManager:0.17666666666666667
+QueryManager:0.1308730158730159
+MockNotificationManager:0.02666666666666667
+DatabaseConnectionFactoryTest:0.016666666666666666

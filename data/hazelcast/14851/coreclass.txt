@@ -1,0 +1,15 @@
+CacheService:0.43333333333333335
+CacheRecord:0.41333333333333333
+HazelcastAbstractCachingProvider:0.2833333333333333
+CacheRecordStore:0.2733333333333333
+CacheStatisticsMXBeanImpl:0.27
+CacheConcurrentHashMap:0.25666666666666665
+CacheEntryProcessorEntry:0.25083333333333335
+CachePartitionSegment:0.22
+HazelcastCacheManager:0.21666666666666667
+AbstractCacheProxy:0.21666666666666667
+BasicCacheTest:0.20333333333333334
+AbstractBaseCacheProxy:0.18333333333333332
+CacheProxy:0.16666666666666666
+HazelcastServerCachingProvider:0.15
+HazelcastClientCachingProvider:0.11666666666666667

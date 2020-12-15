@@ -1,0 +1,13 @@
+NearCacheConfig:0.51
+EvictionConfig:0.49333333333333335
+CacheSimpleConfig:0.29333333333333333
+CacheConfig:0.29333333333333333
+InvalidConfigurationClientTest:0.25333333333333335
+InvalidConfigurationTest:0.20666666666666667
+ClientNearCacheTestSupport:0.18666666666666668
+ConfigXmlGenerator:0.17333333333333334
+AbstractClientInternalCacheProxy:0.17166666666666666
+XmlClientConfigBuilder:0.14333333333333334
+EntryCountNearCacheMaxSizeChecker:0.006666666666666667
+SampleableNearCacheRecordMap:0.0
+NearCacheRecordMap:0.0

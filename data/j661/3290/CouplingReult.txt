@@ -1,0 +1,45 @@
+Compared Result of  two versions
+Number of New Class: 25
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.server.parser.cockpit.AbstractServerCockpitConfigurationHandler: 
+new Added class 1 : plugin.editor.script.actions.ApplyScriptAction2Test: 
+new Added class 2 : plugin.cockpit.actions.CockpitConfigurationHandler: 
+new Added class 3 : plugin.cockpit.actions.ConfigCockpitAction: 
+new Added class 4 : arinc661.appli.writer.DefaultXMLExporterTest: 
+new Added class 5 : arinc661.server.parser.DFHandlerTest: 
+new Added class 6 : arinc661.server.parser.DFHandler_5Test: 
+new Added class 7 : arinc661.server.parser.DFHandler_KO2Test: 
+new Added class 8 : arinc661.testutils.FrameworkManager: 
+new Added class 9 : arinc661.server.jfx.model.painter.JFXRendererBridge: 
+new Added class 10 : plugin.common.scenario.gui.jfx.JFXScenarioPanel: 
+new Added class 11 : arinc661.server.model.painter.LayerRendererBridge: 
+new Added class 12 : arinc661.server.jfx.model.stdrenderer.MapItemsPaneRenderer: 
+new Added class 13 : plugin.cockpit.actions.MultiAppliGenerator2Test: 
+new Added class 14 : plugin.cockpit.actions.MultiAppliGenerator3Test: 
+new Added class 15 : plugin.cockpit.actions.MultiAppliGeneratorTest: 
+new Added class 16 : plugin.common.scenario.action.ScenarioListener: 
+new Added class 17 : plugin.common.scenario.action.ScenarioManager: 
+new Added class 18 : plugin.common.scenario.action.ScenarioManagerImpl: 
+new Added class 19 : plugin.common.scenario.action.ScenarioWriter: 
+new Added class 20 : arinc661.server.parser.ServerConfigurationParser: 
+new Added class 21 : arinc661.server.swing.model.painter.SwingRendererBridge: 
+new Added class 22 : plugin.common.scenario.gui.swing.SwingScenarioPanel: 
+new Added class 23 : arinc661.server.parser.WidgetsRefHandler: 
+new Added class 24 : plugin.editor.look.model.types.XSDNativeTypeTest: 
+testing relationship 
+class 2  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 17£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:7  r9:0  r10:13  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 22  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  3   3 :  0   4 :  0   5 :  4   6 :  0   7 :  0   8 :  7   9 :  0   10 :  13   11 :  20   12 :  0   13 :  8   14 :  1   15 :  0   16 :  1   17 :  0   

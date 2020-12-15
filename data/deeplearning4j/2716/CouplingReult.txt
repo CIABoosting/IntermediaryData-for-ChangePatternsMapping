@@ -1,0 +1,34 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.deeplearning4j.spark.util.BaseDoubleFlatMapFunctionAdaptee: 
+new Added class 1 : org.deeplearning4j.spark.util.BasePairFlatMapFunctionAdaptee: 
+new Added class 2 : org.deeplearning4j.spark.impl.common.score.BaseVaeScoreWithKeyFunctionAdapter: 
+new Added class 3 : org.deeplearning4j.spark.impl.multilayer.scoring.FeedForwardWithKeyFunction: 
+new Added class 4 : org.deeplearning4j.spark.impl.multilayer.scoring.FeedForwardWithKeyFunctionAdapter: 
+new Added class 5 : org.deeplearning4j.spark.impl.graph.scoring.GraphFeedForwardWithKeyFunction: 
+new Added class 6 : org.deeplearning4j.spark.impl.graph.scoring.GraphFeedForwardWithKeyFunctionAdapter: 
+new Added class 7 : org.deeplearning4j.spark.impl.common.repartition.MapTupleToPairFlatMap: 
+new Added class 8 : org.deeplearning4j.spark.impl.common.repartition.MapTupleToPairFlatMapAdapter: 
+new Added class 9 : org.deeplearning4j.spark.impl.multilayer.scoring.ScoreExamplesFunction: 
+new Added class 10 : org.deeplearning4j.spark.impl.multilayer.scoring.ScoreExamplesFunctionAdapter: 
+new Added class 11 : org.deeplearning4j.spark.impl.multilayer.scoring.ScoreExamplesWithKeyFunction: 
+new Added class 12 : org.deeplearning4j.spark.impl.multilayer.scoring.ScoreExamplesWithKeyFunctionAdapter: 
+new Added class 13 : org.deeplearning4j.spark.data.shuffle.SplitDataSetExamplesPairFlatMapFunction: 
+new Added class 14 : org.deeplearning4j.spark.data.shuffle.SplitDataSetExamplesPairFlatMapFunctionAdapter: 
+new Added class 15 : org.deeplearning4j.spark.impl.multilayer.scoring.VaeReconstructionErrorWithKeyFunction: 
+new Added class 16 : org.deeplearning4j.spark.impl.multilayer.scoring.VaeReconstructionErrorWithKeyFunctionAdapter: 
+new Added class 17 : org.deeplearning4j.spark.impl.multilayer.scoring.VaeReconstructionProbWithKeyFunction: 
+new Added class 18 : org.deeplearning4j.spark.impl.multilayer.scoring.VaeReconstructionProbWithKeyFunctionAdapter: 
+testing relationship 
+class 3  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  9   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,14 @@
+RubyDebuggerProxy:0.49666666666666665
+ICommandFactory:0.36388888888888893
+RubyDebugTarget:0.2733333333333333
+VariableReader:0.19594444444444445
+MultiReaderStrategy:0.17333333333333334
+RubyDebugCommandFactory:0.16
+ClassicDebuggerCommandFactory:0.16
+EvalReader:0.12666666666666668
+RubyLineBreakpoint:0.11666666666666667
+XmlStreamReader:0.11
+BreakpointAddedReader:0.07
+RubyProcessingException:0.06111111111111111
+AbstractReadStrategy:0.04
+SingleReaderStrategy:0.019166666666666665

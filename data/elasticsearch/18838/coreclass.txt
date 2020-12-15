@@ -1,0 +1,16 @@
+IndexShard:0.5233333333333333
+Engine:0.46
+OptimizeRequest:0.41
+IndexStatsTests:0.33
+UpgradeTest:0.23333333333333334
+InternalEngine:0.23
+SimpleChildQuerySearchTests:0.21333333333333335
+SharedClusterSnapshotRestoreTests:0.20666666666666667
+RecoveryFromGatewayTests:0.19666666666666666
+InternalEngineTests:0.18666666666666668
+OptimizeRequestBuilder:0.13333333333333333
+UpdateSettingsTests:0.13333333333333333
+RestOptimizeAction:0.11
+RestUpgradeAction:0.09666666666666666
+SnapshotBackwardsCompatibilityTest:0.08333333333333333
+Defaults:0.0

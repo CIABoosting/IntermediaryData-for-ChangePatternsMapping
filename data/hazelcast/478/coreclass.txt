@@ -1,0 +1,14 @@
+RingbufferContainer:0.6033333333333334
+RingbufferService:0.35333333333333333
+ReadResultSetImpl:0.32
+PortableReadResultSet:0.27666666666666667
+RingbufferCacheEventJournalImpl:0.2758333333333333
+EventJournalReadOperation:0.2633333333333333
+RingbufferMapEventJournalImpl:0.24916666666666668
+ReplicationOperation:0.22666666666666666
+MapEventJournalSubscribeOperation:0.21972222222222224
+CacheEventJournalSubscribeOperation:0.21972222222222224
+CacheEventJournalSubscribeTask:0.14
+MapEventJournalSubscribeTask:0.14
+CacheEventJournalReadTask:0.11333333333333333
+MapEventJournalReadTask:0.11333333333333333

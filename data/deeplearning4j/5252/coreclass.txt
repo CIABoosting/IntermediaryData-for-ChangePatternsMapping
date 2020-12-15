@@ -1,0 +1,9 @@
+Builder:0.46
+GloveJobIterator:0.24666666666666667
+Word2VecJobIterator:0.24666666666666667
+SentenceIteratorConverter:0.22615079365079369
+BagOfWordsVectorizerTest:0.21666666666666667
+LegacyGlove:0.20333333333333334
+TfIdfVectorizerTest:0.2
+VocabConstructor:0.178
+BaseTextVectorizer:0.09

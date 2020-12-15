@@ -1,0 +1,15 @@
+TermsAggregationBuilder:0.42
+SignificantTermsAggregationBuilder:0.35333333333333333
+LongTermsTests:0.29333333333333333
+DoubleTermsTests:0.29333333333333333
+StringTermsTests:0.29333333333333333
+GeoGridAggregationBuilder:0.29333333333333333
+ChildrenIT:0.25333333333333335
+GeoHashGridIT:0.25
+TermsDocCountErrorIT:0.24333333333333335
+BucketCountThresholds:0.24
+ReverseNestedIT:0.19666666666666666
+AbstractTermsTestCase:0.13666666666666666
+TermsTests:0.1
+GeoHashGridTests:0.08333333333333333
+SignificantTermsTests:0.08

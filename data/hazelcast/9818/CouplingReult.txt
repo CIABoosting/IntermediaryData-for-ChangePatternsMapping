@@ -1,0 +1,33 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.hazelcast.hibernate.CacheHitMissNonStrictTest: 
+new Added class 1 : com.hazelcast.hibernate.CacheHitMissReadOnlyTest: 
+new Added class 2 : com.hazelcast.hibernate.CacheHitMissReadWriteTest: 
+new Added class 3 : com.hazelcast.hibernate.CustomPropertiesTest: 
+new Added class 4 : com.hazelcast.hibernate.serialization.ExpiryMarkerTest: 
+new Added class 5 : com.hazelcast.hibernate.instance.HazelcastInstanceFactory: 
+new Added class 6 : com.hazelcast.hibernate.region.HazelcastQueryResultsRegionTest: 
+new Added class 7 : com.hazelcast.hibernate.serialization.HibernateSerializationHookAvailableTest: 
+new Added class 8 : com.hazelcast.hibernate.serialization.HibernateSerializationHookNonAvailableTest: 
+new Added class 9 : com.hazelcast.hibernate.HibernateStatisticsTestSupport: 
+new Added class 10 : com.hazelcast.hibernate.HibernateTestSupport: 
+new Added class 11 : com.hazelcast.hibernate.local.LocalRegionCacheTest: 
+new Added class 12 : com.hazelcast.hibernate.LocalRegionFactoryDefaultTest: 
+new Added class 13 : com.hazelcast.hibernate.distributed.LockEntryProcessorTest: 
+new Added class 14 : com.hazelcast.hibernate.RegionFactoryDefaultNightlyTest: 
+new Added class 15 : com.hazelcast.hibernate.RegionFactoryDefaultTest: 
+new Added class 16 : com.hazelcast.hibernate.distributed.UnlockEntryProcessorTest: 
+new Added class 17 : com.hazelcast.hibernate.distributed.UpdateEntryProcessorTest: 
+new Added class 18 : com.hazelcast.hibernate.serialization.ValueTest: 
+testing relationship 
+class 0  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 15£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  8   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

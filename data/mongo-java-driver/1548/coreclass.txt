@@ -1,0 +1,11 @@
+Mongo:0.6166666666666667
+Connection:0.58
+GetMoreProtocol:0.22666666666666666
+MongoQueryCursor:0.20333333333333334
+TestConnection:0.2
+QueryResultSingleResultCallback:0.17
+DefaultServerConnection:0.15333333333333332
+MongoAsyncQueryCursor:0.14666666666666667
+GetMoreMessage:0.13666666666666666
+KillCursorProtocol:0.06666666666666667
+KillCursorsMessage:0.06666666666666667

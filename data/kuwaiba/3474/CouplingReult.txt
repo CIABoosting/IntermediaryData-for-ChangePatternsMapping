@@ -1,0 +1,37 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.kuwaiba.apis.persistence.application.ApplicationEntityManager: 
+new Added class 1 : org.kuwaiba.services.persistence.impl.neo4j.ApplicationEntityManagerImpl: 
+new Added class 2 : com.neotropic.kuwaiba.sync.connectors.snmp.bgp.BGPSynchronizer: 
+new Added class 3 : com.neotropic.kuwaiba.sync.connectors.snmp.vlan.CiscoVlansSinchronizer: 
+new Added class 4 : org.kuwaiba.services.persistence.util.Constants: 
+new Added class 5 : com.neotropic.kuwaiba.scheduling.sync.DefaultSyncReader: 
+new Added class 6 : org.kuwaiba.interfaces.ws.KuwaibaService: 
+new Added class 7 : org.kuwaiba.apis.persistence.exceptions.MetadataObjectNotFoundException: 
+new Added class 8 : com.neotropic.kuwaiba.modules.mpls.MPLSModule: 
+new Added class 9 : com.neotropic.kuwaiba.sync.connectors.ssh.mpls.parsers.MplsSyncASR9001Parser: 
+new Added class 10 : com.neotropic.kuwaiba.sync.connectors.ssh.mpls.parsers.MplsSyncDefaultParser: 
+new Added class 11 : com.neotropic.kuwaiba.sync.connectors.ssh.mpls.MplsSyncProvider: 
+new Added class 12 : com.neotropic.kuwaiba.modules.cpemanager.QinQModule: 
+new Added class 13 : com.neotropic.kuwaiba.modules.sdh.SDHContainerLinkDefinition: 
+new Added class 14 : com.neotropic.kuwaiba.sync.connectors.snmp.vlan.SnmpCiscoVlansSyncProvider: 
+new Added class 15 : org.kuwaiba.services.persistence.util.Util: 
+new Added class 16 : org.kuwaiba.beans.WebserviceBean: 
+new Added class 17 : org.kuwaiba.beans.WebserviceBeanImpl: 
+testing relationship 
+class 1  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:45  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-18  r9:0  r10:329  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-8  r9:0  r10:20  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:4  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 15  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:4  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:56  r9:0  r10:701  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 8£º  r0:0  r1:0  r2:0  r3:5  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 16£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  5   4 :  0   5 :  0   6 :  0   7 :  59   8 :  31   9 :  0   10 :  1050   11 :  5   12 :  0   13 :  5   14 :  2   15 :  0   16 :  0   17 :  0   

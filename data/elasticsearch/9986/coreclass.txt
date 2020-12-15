@@ -1,0 +1,14 @@
+IndicesStoreIntegrationIT:0.35333333333333333
+MetaStateServiceTests:0.2966666666666667
+CorruptedFileIT:0.2866666666666667
+IndexShardTests:0.27
+ShardPathTests:0.25333333333333335
+OldIndexBackwardsCompatibilityIT:0.25333333333333335
+MetaDataWriteDataNodesIT:0.19
+FsDirectoryServiceTests:0.18
+DiskUsageTests:0.15666666666666668
+CorruptedTranslogIT:0.14
+ClusterRerouteIT:0.14
+IndexStoreTests:0.11
+Murmur3FieldMapperUpgradeTests:0.0
+SizeFieldMapperUpgradeTests:0.0

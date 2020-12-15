@@ -1,0 +1,15 @@
+RecordStore:0.7611111111111112
+MapService:0.48
+MapStoreWrapper:0.2966666666666667
+DefaultRecordStore:0.2866666666666667
+HazelcastHttpSession:0.28
+WebFilter:0.2733333333333333
+TestFullApplicationContext:0.27
+SecondsBasedEntryTaskScheduler:0.26666666666666666
+PartitionWideEntryOperation:0.24666666666666667
+ResponseWrapper:0.23
+RequestWrapper:0.21333333333333335
+MapStoreWriteProcessor:0.16666666666666666
+EntryProcessorExecutor:0.16666666666666666
+MapStoreTest:0.14666666666666667
+MapStoreDeleteProcessor:0.13666666666666666

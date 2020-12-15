@@ -1,0 +1,13 @@
+ShardManager:0.7
+ShardNode:0.45
+RaptorMetadata:0.37666666666666665
+ShardManagerDao:0.30527777777777776
+DatabaseShardManager:0.30333333333333334
+TestShardManagerDao:0.21333333333333335
+RaptorSplitManager:0.18666666666666668
+TestRaptorMetadata:0.17666666666666667
+TestRaptorSplitManager:0.15
+Mapper:0.13
+ShardManagerDaoUtils:0.11
+MetadataModule:0.07333333333333333
+TestDatabaseShardManager:0.03333333333333333

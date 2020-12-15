@@ -1,0 +1,12 @@
+DB:0.79
+ReadPreference:0.5933333333333334
+DBTCPConnector:0.21666666666666667
+OutMessage:0.2
+ReplicaSet:0.19333333333333333
+SecondaryPreferredReadPreference:0.13666666666666666
+SecondaryReadPreference:0.13
+PrimaryPreferredReadPreference:0.10666666666666667
+TaggableReadPreference:0.10333333333333333
+NearestReadPreference:0.1
+TaggedReadPreference:0.08333333333333333
+PrimaryReadPreference:0.06333333333333334

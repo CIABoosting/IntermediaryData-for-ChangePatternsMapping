@@ -1,0 +1,9 @@
+HttpSecurityBeanDefinitionParser:0.41
+SecurityContextRepository:0.3903333333333333
+HttpSecurityBeanDefinitionParserTests:0.30333333333333334
+SessionFixationProtectionFilter:0.25333333333333335
+AbstractAuthenticationProcessingFilter:0.25166666666666665
+AbstractProcessingFilterTests:0.25
+FormLoginBeanDefinitionParser:0.15666666666666668
+SessionFixationProtectionFilterTests:0.13
+HttpSessionSecurityContextRepository:0.12666666666666668

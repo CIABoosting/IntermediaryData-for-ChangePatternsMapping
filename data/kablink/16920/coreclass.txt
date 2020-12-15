@@ -1,0 +1,17 @@
+GwtTaskHelper:0.44
+GwtServerHelper:0.39
+UIData:0.35
+TaskListItemHelper:0.3
+GwtRpcServiceImpl:0.29333333333333333
+TaskInfo:0.28
+DeletePurgeEntriesHelper:0.24666666666666667
+SimpleListOfTasksWidget:0.16333333333333333
+DeletePurgeFolderEntriesCmdBase:0.14666666666666667
+PurgeTasksCmd:0.13666666666666666
+DeleteTasksCmd:0.13666666666666666
+SaveTaskCompletedCmd:0.13333333333333333
+SaveTaskStatusCmd:0.13333333333333333
+DeleteFolderEntriesCmd:0.09
+PurgeFolderEntriesCmd:0.09
+SaveTaskDueDateCmd:0.07666666666666666
+DeletePurgeCallback:0.006666666666666667

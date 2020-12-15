@@ -1,0 +1,11 @@
+BindingUtil:0.46
+Types:0.45
+NameTable:0.38
+StatementGenerator:0.29333333333333333
+OperatorRewriter:0.20666666666666667
+Functionizer:0.20333333333333334
+ImplementationImportCollector:0.19333333333333333
+ComplexExpressionExtractor:0.19
+CastResolver:0.17
+AbstractMethodRewriter:0.13
+SuperMethodInvocationRewriter:0.11333333333333333

@@ -1,0 +1,15 @@
+OidcRegisteredService:0.5233333333333333
+OidcConfiguration:0.3433333333333333
+CasProtocolViewsConfiguration:0.2833333333333333
+OidcCallbackAuthorizeViewResolver:0.27
+OAuth20AuthorizeEndpointController:0.22333333333333333
+OidcServerDiscoverySettingsFactory:0.205
+OidcClientRegistrationRequest:0.18
+OAuth20ConsentApprovalViewResolver:0.17333333333333334
+OidcProfileScopeToAttributesFilter:0.16
+OidcDynamicClientRegistrationEndpointController:0.15494444444444444
+OidcConsentApprovalViewResolver:0.14666666666666667
+OidcWellKnownEndpointController:0.11333333333333333
+OidcAuthorizeEndpointController:0.11
+ChainingAttributeReleasePolicy:0.04
+OAuth20ProfileScopeToAttributesFilter:0.0

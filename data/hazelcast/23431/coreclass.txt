@@ -1,0 +1,17 @@
+QueueContainer:0.62
+QueueStoreWrapper:0.35333333333333333
+QueueItem:0.30111111111111116
+QueueService:0.2966666666666667
+OfferOperation:0.25
+CompareAndRemoveOperation:0.24583333333333332
+AddAllOperation:0.24
+RemoveOperation:0.24
+ObjectQueueProxy:0.2377777777777778
+OfferBackupOperation:0.23666666666666666
+ContainsOperation:0.23666666666666666
+QueueIterator:0.235
+QueueProxySupport:0.21333333333333335
+IteratorOperation:0.19666666666666666
+DrainOperation:0.18666666666666668
+QueueMigrationOperation:0.16
+QueueEventFilter:0.14166666666666666

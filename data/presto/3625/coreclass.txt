@@ -1,0 +1,14 @@
+ParquetColumnReader:0.38
+ParquetReader:0.35333333333333333
+ParquetPageSourceFactory:0.23583333333333334
+ParquetPageSource:0.20444444444444446
+TestHiveFileFormats:0.18666666666666668
+ParquetLongDecimalColumnReader:0.14333333333333334
+ParquetShortDecimalColumnReader:0.14333333333333334
+ParquetBinaryColumnReader:0.12
+ParquetTimestampColumnReader:0.12
+ParquetDoubleColumnReader:0.12
+ParquetFloatColumnReader:0.12
+ParquetBooleanColumnReader:0.12
+ParquetIntColumnReader:0.12
+ParquetLongColumnReader:0.12

@@ -1,0 +1,8 @@
+BinderTest:0.4633333333333333
+BindingProcessor:0.4266666666666667
+Builder:0.4033333333333333
+HasImplementedByThatNeedsAnotherImplementedBy:0.03333333333333333
+HasImplementedByThatWantsExplicit:0.03333333333333333
+JustAnInterface:0.03333333333333333
+ImplementsHasImplementedByThatWantsExplicit:0.0011111111111111111
+ImplementsHasImplementedByThatNeedsAnotherImplementedBy:0.0011111111111111111

@@ -1,0 +1,14 @@
+IsNullPredicateTest:0.36
+SelectStatementAnalyzerTest:0.33
+Operator:0.32666666666666666
+Comparison:0.32
+AbstractScalarFunctionsTest:0.2833333333333333
+LuceneQueryBuilderTest:0.27666666666666667
+NotPredicateTest:0.27
+ObjectColumnTest:0.26
+CmpOperatorTest:0.24666666666666667
+TransportSQLActionTest:0.23333333333333334
+InnerExpressionAnalyzer:0.21333333333333335
+WhereClauseAnalyzer:0.19666666666666666
+DeleteStatementPlanner:0.13666666666666666
+SymbolToTrueVisitor:0.09666666666666666

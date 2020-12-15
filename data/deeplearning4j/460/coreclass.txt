@@ -1,0 +1,12 @@
+SubsamplingLayer:0.5333333333333333
+TestGraphNodes:0.30333333333333334
+MaskedReductionUtil:0.29333333333333333
+SubsamplingLayerTest:0.2866666666666667
+CudnnSubsamplingHelper:0.27
+ElementWiseVertexTest:0.25333333333333335
+BackPropMLPTest:0.24
+ShiftVertexTest:0.23333333333333334
+TestMemoryReports:0.19666666666666666
+WorkspaceTests:0.19666666666666666
+TestComputationGraphNetwork:0.16
+TransferLearningCompGraphTest:0.11

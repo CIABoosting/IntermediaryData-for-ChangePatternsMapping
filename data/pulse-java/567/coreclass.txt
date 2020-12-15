@@ -1,0 +1,14 @@
+Command:0.45
+ServiceRequestImpl:0.3566666666666667
+IStreamFilter:0.335
+UploadedFileImpl:0.3
+AbstractDAVServlet:0.28583333333333333
+InputStreamFilterChain:0.17666666666666667
+OutputStreamFilterChain:0.07333333333333333
+StreamFilterChainConfig:0.07
+StreamException:0.04833333333333333
+UnacceptableStreamException:0.016666666666666666
+StreamFilterConfig:0.013333333333333334
+MimeSniffingFilter:0.0044444444444444444
+TestOutputStreamFilterChain:0.0
+XSSStreamException:0.0

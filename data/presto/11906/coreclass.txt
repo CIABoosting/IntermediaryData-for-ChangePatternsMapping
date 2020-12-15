@@ -1,0 +1,14 @@
+PlanOptimizer:0.79
+LogicalPlanner:0.41
+PlanOptimizersFactory:0.31
+SqlQueryExecution:0.3
+LocalQueryRunner:0.17416666666666666
+ServerMainModule:0.11
+AbstractSqlBenchmark:0.10666666666666667
+SqlQueryExecutionFactory:0.1
+SimplifyExpressions:0.04
+TableAliasSelector:0.03
+PruneUnreferencedOutputs:0.016666666666666666
+CoalesceLimits:0.016666666666666666
+UnaliasSymbolReferences:0.016666666666666666
+PruneRedundantProjections:0.016666666666666666

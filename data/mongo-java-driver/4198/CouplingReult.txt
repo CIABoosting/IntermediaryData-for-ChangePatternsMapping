@@ -1,0 +1,44 @@
+Compared Result of  two versions
+Number of New Class: 21
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.mongodb.acceptancetest.index.AddIndexAcceptanceTest: 
+new Added class 1 : org.mongodb.serialization.serializers.BsonDocumentBufferSerializerTest: 
+new Added class 2 : org.mongodb.acceptancetest.crud.CollectionAcceptanceTest: 
+new Added class 3 : org.mongodb.acceptancetest.crud.DatabaseAcceptanceTest: 
+new Added class 4 : org.mongodb.serialization.serializers.DocumentSerializerTest: 
+new Added class 5 : org.mongodb.acceptancetest.index.DropIndexAcceptanceTest: 
+new Added class 6 : org.mongodb.acceptancetest.crud.FilterAcceptanceTest: 
+new Added class 7 : org.mongodb.acceptancetest.crud.FindAndRemoveAcceptanceTest: 
+new Added class 8 : org.mongodb.GetLastErrorTest: 
+new Added class 9 : org.mongodb.acceptancetest.crud.InsertMongoDocumentAcceptanceTest: 
+new Added class 10 : org.mongodb.impl.MongoCollectionTest: 
+new Added class 11 : org.mongodb.impl.Concrete: 
+new Added class 12 : org.mongodb.impl.ConcreteSerializer: 
+new Added class 13 : org.mongodb.MongoCursorTest: 
+new Added class 14 : org.mongodb.MongoDatabase: 
+new Added class 15 : org.mongodb.MongoFindTest: 
+new Added class 16 : org.mongodb.MongoGetMoreTest: 
+new Added class 17 : org.mongodb.MongoSaveTest: 
+new Added class 18 : org.mongodb.MongoStreamTest: 
+new Added class 19 : org.mongodb.Concrete: 
+new Added class 20 : org.mongodb.ConcreteSerializer: 
+testing relationship 
+class 0  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:8  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:16  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 19£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 12  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 20  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:6  r15:0  r16:2  r17:0  
+class 20  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:3  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  1   4 :  0   5 :  4   6 :  7   7 :  0   8 :  11   9 :  0   10 :  33   11 :  18   12 :  0   13 :  2   14 :  15   15 :  0   16 :  7   17 :  0   

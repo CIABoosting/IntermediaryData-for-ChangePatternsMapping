@@ -1,0 +1,7 @@
+CasCoreTicketsConfiguration:0.41
+TicketRegistryCleaner:0.38
+InMemory:0.37
+CachingTicketRegistry:0.24333333333333335
+DefaultTicketRegistryCleaner:0.21333333333333335
+CachedTicketExpirationPolicy:0.2
+CachedTicketRemovalListener:0.09

@@ -1,0 +1,13 @@
+SearchContext:0.5146666666666667
+PercolatorService:0.26666666666666666
+ContextIndexSearcher:0.24666666666666667
+IndexAliasesService:0.24666666666666667
+MatchedFiltersFetchSubPhase:0.23333333333333334
+ScriptSortParser:0.19
+GeoDistanceSortParser:0.19
+FilterFacetParser:0.19
+IndexQueryParserService:0.17472222222222222
+SortParseElement:0.13333333333333333
+FilterParseElement:0.12
+FacetParseElement:0.08333333333333333
+MatchedFiltersTests:0.07333333333333333

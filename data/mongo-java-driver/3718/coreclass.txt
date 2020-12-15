@@ -1,0 +1,11 @@
+Cluster:0.6
+MongoQueryCursor:0.27666666666666667
+ReplicaSetCluster:0.22333333333333333
+ReplicaSetServerStateListener:0.22
+MultiServerCluster:0.19
+SingleServerCluster:0.18
+MongosHighAvailabilityCluster:0.13
+MonotonicSession:0.12666666666666668
+ClusterSession:0.10333333333333333
+AsyncClusterSession:0.10333333333333333
+MongoAsyncQueryCursor:0.10333333333333333

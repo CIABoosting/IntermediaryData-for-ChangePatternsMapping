@@ -1,0 +1,27 @@
+Compared Result of  two versions
+Number of New Class: 21
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.geonetwork.gaap.domain.web.request.CreateGroup: 
+new Added class 1 : org.geonetwork.gaap.domain.web.request.CreateUser: 
+new Added class 2 : org.geonetwork.gaap.domain.web.request.DeleteGroup: 
+new Added class 3 : org.geonetwork.gaap.domain.web.request.DeleteMetadataPermission: 
+new Added class 4 : org.geonetwork.gaap.domain.web.request.DeleteUser: 
+new Added class 5 : org.geonetwork.gaap.domain.web.request.FilterMetadata: 
+new Added class 6 : org.geonetwork.gaap.domain.web.request.FilterMetadataByGroups: 
+new Added class 7 : org.geonetwork.gaap.domain.web.request.GetGroup: 
+new Added class 8 : org.geonetwork.gaap.domain.web.request.GetGroups: 
+new Added class 9 : org.geonetwork.gaap.domain.web.request.GetMetadataPermissions: 
+new Added class 10 : org.geonetwork.gaap.domain.web.request.GetOperation: 
+new Added class 11 : org.geonetwork.gaap.domain.web.request.GetOperations: 
+new Added class 12 : org.geonetwork.gaap.domain.web.request.GetUser: 
+new Added class 13 : org.geonetwork.gaap.domain.web.request.GetUserByUsername: 
+new Added class 14 : org.geonetwork.gaap.domain.web.request.GetUsers: 
+new Added class 15 : org.geonetwork.gaap.domain.web.request.Logout: 
+new Added class 16 : org.geonetwork.gaap.domain.web.request.SaveMetadataPermission: 
+new Added class 17 : org.geonetwork.gaap.domain.web.request.SaveMetadataPermissions: 
+new Added class 18 : org.geonetwork.gaap.domain.web.request.UpdateGroup: 
+new Added class 19 : org.geonetwork.gaap.domain.web.request.UpdateOperation: 
+new Added class 20 : org.geonetwork.gaap.domain.web.request.UpdateUser: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

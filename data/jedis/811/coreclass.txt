@@ -1,0 +1,14 @@
+ScanParams:0.6866666666666666
+Client:0.44
+Jedis:0.43333333333333335
+ScanResult:0.39
+JedisCommands:0.2833333333333333
+MultiKeyCommands:0.2833333333333333
+ShardedJedis:0.22666666666666666
+SortedSetCommandsTest:0.215
+JedisCluster:0.21333333333333335
+HashesCommandsTest:0.205
+SetCommandsTest:0.205
+AllKindOfValuesCommandsTest:0.205
+Commands:0.20083333333333334
+BinaryClient:0.16333333333333333

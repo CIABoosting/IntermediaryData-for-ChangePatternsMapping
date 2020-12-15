@@ -1,0 +1,13 @@
+FindOptions:0.5066666666666667
+MongoCollection:0.35783333333333334
+DBCursor:0.3566666666666667
+CountOptions:0.3233333333333333
+DBCollection:0.30666666666666664
+MongoCollectionImpl:0.25666666666666665
+FilterAcceptanceTest:0.15333333333333332
+ReplaceAcceptanceTest:0.14666666666666667
+FindAndDeleteAcceptanceTest:0.14
+UpdateAcceptanceTest:0.14
+QueryAcceptanceTest:0.13333333333333333
+MongoCollectionTest:0.11333333333333333
+InsertAcceptanceTest:0.09

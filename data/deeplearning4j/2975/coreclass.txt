@@ -1,0 +1,12 @@
+ReconstructionDistribution:0.57
+VariationalAutoencoder:0.37
+LossFunctionWrapper:0.35
+AbstractCache:0.3011111111111111
+CompositeReconstructionDistribution:0.2833333333333333
+VocabConstructor:0.23333333333333334
+GaussianReconstructionDistribution:0.22666666666666666
+BaseVaeReconstructionProbWithKeyFunction:0.22666666666666666
+BernoulliReconstructionDistribution:0.18777777777777777
+ExponentialReconstructionDistribution:0.18777777777777777
+TestMiscFunctions:0.13
+TestVAE:0.09666666666666666

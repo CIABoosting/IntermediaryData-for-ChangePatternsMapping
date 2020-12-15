@@ -1,0 +1,17 @@
+CacheRecordStore:0.36
+AbstractCacheService:0.3325
+CacheConfig:0.3233333333333333
+CacheService:0.29333333333333333
+CacheEventHandler:0.25083333333333335
+CacheBackupEntryProcessorOperation:0.25083333333333335
+CachePartitionSegment:0.24833333333333332
+AbstractCacheRecordStore:0.23666666666666666
+CachePutAllBackupOperation:0.23
+CacheGetOperation:0.19666666666666666
+CachePutOperation:0.19666666666666666
+CacheRemoveOperation:0.19666666666666666
+CacheReplaceOperation:0.19666666666666666
+CacheGetAndReplaceOperation:0.19666666666666666
+CachePutIfAbsentOperation:0.19666666666666666
+CachePutAllOperation:0.16
+CacheEntryProcessorOperation:0.13666666666666666

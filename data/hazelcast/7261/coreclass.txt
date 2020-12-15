@@ -1,0 +1,9 @@
+Bits:0.46
+UnsafeObjectDataOutput:0.36666666666666664
+UnsafeObjectDataInput:0.3566666666666667
+StandardMemoryAccessor:0.30333333333333334
+DefaultSerializationServiceBuilder:0.2633333333333333
+AlignmentAwareMemoryAccessor:0.2633333333333333
+SwCounter:0.14077777777777778
+TestIgnoreRuleAccordingToUnalignedMemoryAccessSupport:0.1
+UnsafeBasedMemoryAccessor:0.1

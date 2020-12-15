@@ -1,0 +1,16 @@
+HazelcastInstance:0.42
+ClientHandlerService:0.3566666666666667
+QueuePeekHandler:0.06
+QueuePollHandler:0.056666666666666664
+QueueEntriesHandler:0.05333333333333334
+GetInstancesHandler:0.05333333333333334
+GetMembersHandler:0.05333333333333334
+QueueRemainingCapacityHandler:0.05333333333333334
+QueueSizeHandler:0.05333333333333334
+QueueRemoveHandler:0.05333333333333334
+NewIdHandler:0.05
+GetClusterTimeHandler:0.05
+DestroyHandler:0.043333333333333335
+QueueAddListenerHandler:0.03666666666666667
+QueueRemoveListenerHandler:0.03666666666666667
+ClientTransactionOperationHandler:0.02

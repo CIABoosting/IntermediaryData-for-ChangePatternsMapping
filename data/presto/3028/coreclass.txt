@@ -1,0 +1,10 @@
+SpillerFactory:0.5866666666666667
+FileSingleStreamSpiller:0.4033333333333333
+GenericSpiller:0.37
+SpillableHashAggregationBuilder:0.35333333333333333
+TestBinaryFileSpiller:0.28
+FileSingleStreamSpillerFactory:0.17694444444444443
+GenericSpillerFactory:0.10888888888888888
+SingleStreamSpillerFactory:0.07666666666666666
+DummySpillerFactory:0.0
+FailingSpillerFactory:0.0

@@ -1,0 +1,16 @@
+ItemWriter:0.7233333333333334
+ItemReader:0.3144444444444444
+ItemReaderRetryPolicyTests:0.24333333333333335
+StubItemWriter:0.22166666666666668
+HibernateAwareItemWriter:0.22111111111111115
+DelegatingItemWriter:0.17333333333333334
+ItemWriterStub:0.17
+AbstractItemWriter:0.12666666666666668
+ItemReaderRetryCallbackTests:0.12333333333333334
+PropertyExtractingDelegatingItemWriter:0.11
+ItemReaderRepeatCallbackTests:0.09333333333333334
+CompositeItemWriter:0.08666666666666667
+CompositeItemWriterTests:0.07333333333333333
+ItemReaderAdapter:0.04
+ItemWriterAdapter:0.0
+AbstractItemReader:0.0

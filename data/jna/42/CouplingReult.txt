@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.sun.jna.platform.win32.COM.COMException: 
+new Added class 1 : com.sun.jna.platform.win32.COM.COMUtils: 
+new Added class 2 : com.sun.jna.platform.win32.COM.util.Factory: 
+new Added class 3 : com.sun.jna.platform.win32.COM.util.IConnectionPoint: 
+new Added class 4 : com.sun.jna.platform.win32.COM.util.ObjectFactory: 
+new Added class 5 : com.sun.jna.platform.win32.COM.util.ProxyObject: 
+new Added class 6 : com.sun.jna.platform.win32.COM.util.ProxyObjectFactory_Test: 
+new Added class 7 : com.sun.jna.platform.win32.COM.util.MsWordApp: 
+new Added class 8 : com.sun.jna.platform.win32.COM.util.ProxyObjectObjectFactory_Test: 
+new Added class 9 : com.sun.jna.platform.win32.COM.util.MsWordApp: 
+testing relationship 
+class 2  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 5  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:7  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 7  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:11  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:8  r7:0  r8:0  r9:0  r10:0  r11:17  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:11  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 5£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:9  r7:0  r8:0  r9:0  r10:0  r11:22  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  1   3 :  2   4 :  0   5 :  0   6 :  18   7 :  7   8 :  24   9 :  0   10 :  4   11 :  41   12 :  0   13 :  0   14 :  3   15 :  0   16 :  1   17 :  0   

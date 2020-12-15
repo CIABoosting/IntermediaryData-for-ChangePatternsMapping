@@ -1,0 +1,46 @@
+Compared Result of  two versions
+Number of New Class: 26
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opengis.referencing.cs.AxisDirection: 
+new Added class 1 : org.opengis.referencing.cs.CartesianCS: 
+new Added class 2 : org.opengis.referencing.crs.CompoundCRS: 
+new Added class 3 : org.opengis.referencing.operation.CoordinateOperation: 
+new Added class 4 : org.opengis.referencing.crs.CoordinateReferenceSystem: 
+new Added class 5 : org.opengis.referencing.datum.Datum: 
+new Added class 6 : org.opengis.referencing.crs.DerivedCRS: 
+new Added class 7 : org.opengis.referencing.datum.Ellipsoid: 
+new Added class 8 : org.opengis.referencing.crs.GeneralDerivedCRS: 
+new Added class 9 : org.opengis.parameter.GeneralParameterDescriptor: 
+new Added class 10 : org.opengis.util.GenericName: 
+new Added class 11 : org.opengis.referencing.crs.GeocentricCRS: 
+new Added class 12 : org.opengis.referencing.crs.GeographicCRS: 
+new Added class 13 : org.opengis.referencing.IdentifiedObject: 
+new Added class 14 : org.opengis.tools.taglet.Note: 
+new Added class 15 : org.opengis.referencing.operation.OperationMethod: 
+new Added class 16 : org.opengis.parameter.ParameterDescriptor: 
+new Added class 17 : org.opengis.parameter.ParameterDescriptorGroup: 
+new Added class 18 : org.opengis.parameter.ParameterValue: 
+new Added class 19 : org.opengis.parameter.ParameterValueGroup: 
+new Added class 20 : org.opengis.geometry.coordinate.Position: 
+new Added class 21 : org.opengis.referencing.ReferenceSystem: 
+new Added class 22 : org.opengis.referencing.crs.SingleCRS: 
+new Added class 23 : org.opengis.referencing.operation.SingleOperation: 
+new Added class 24 : org.opengis.referencing.datum.VerticalDatumType: 
+new Added class 25 : org.opengis.metadata.extent.VerticalExtent: 
+testing relationship 
+class 2  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 21£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 22£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  14   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

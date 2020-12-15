@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : ru.runa.wfe.user.Actor: 
+new Added class 1 : ru.runa.wfe.security.logic.AuthorizationLogic: 
+new Added class 2 : ru.runa.wfe.service.AuthorizationService: 
+new Added class 3 : ru.runa.wfe.service.impl.AuthorizationServiceBean: 
+new Added class 4 : ru.runa.wfe.service.delegate.AuthorizationServiceDelegate: 
+new Added class 5 : ru.runa.wfe.commons.dbpatch.DBPatch: 
+new Added class 6 : ru.runa.wfe.service.interceptors.EjbExceptionSupport: 
+new Added class 7 : ru.runa.wfe.user.Group: 
+new Added class 8 : ru.runa.wfe.commons.logic.InitializerLogic: 
+new Added class 9 : ru.runa.wf.web.tag.ListProcessesDefinitionsFormTag: 
+new Added class 10 : ru.runa.wfe.security.dao.PermissionDAO: 
+new Added class 11 : ru.runa.wfe.security.dao.PermissionMapping: 
+new Added class 12 : ru.runa.wfe.service.impl.SystemServiceBean: 
+testing relationship 
+class 3  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-10  r9:0  r10:19  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:1  r3:1  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:9  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  1   3 :  1   4 :  0   5 :  1   6 :  1   7 :  0   8 :  -10   9 :  0   10 :  28   11 :  11   12 :  0   13 :  3   14 :  0   15 :  0   16 :  0   17 :  0   

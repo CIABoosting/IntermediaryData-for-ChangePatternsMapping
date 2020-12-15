@@ -1,0 +1,16 @@
+Connection:0.64
+CollectionUtil:0.4066666666666667
+WKTReader:0.3244444444444445
+ShapefileReader:0.31333333333333335
+ReaderWriterFileDataSource:0.2977777777777778
+ShapefileWriter:0.24444444444444444
+WritableDataStoreDataSource:0.23
+SaveToPostGISDataSource:0.2
+WKTWriter:0.19666666666666666
+DataSource:0.16333333333333333
+DataStoreDataSource:0.16
+DummyDataSource:0.15333333333333332
+StandardReaderWriterFileDataSource:0.14
+DataStoreQueryDataSource:0.13
+Playground:0.08333333333333333
+DelegatingCompressedFileHandler:0.06

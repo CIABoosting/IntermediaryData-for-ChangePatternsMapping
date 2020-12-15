@@ -1,0 +1,10 @@
+TrainingMaster:0.5358333333333334
+CifarDataSetIterator:0.46
+TrainingWorker:0.4461111111111111
+ParameterAveragingTrainingMaster:0.3466666666666667
+ParameterAveragingTrainingWorker:0.3
+Builder:0.22666666666666666
+MultipleEpochsIterator:0.21
+TfidfVectorizer:0.16
+DataSetIteratorTest:0.08
+MultipleEpochsIteratorTest:0.07

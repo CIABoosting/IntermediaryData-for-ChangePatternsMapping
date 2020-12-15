@@ -1,0 +1,34 @@
+Compared Result of  two versions
+Number of New Class: 26
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.itracker.web.forms.AdminActionForm: 
+new Added class 1 : org.itracker.web.forms.AssignIssueForm: 
+new Added class 2 : org.itracker.web.forms.ComponentForm: 
+new Added class 3 : org.itracker.web.forms.ConfigurationForm: 
+new Added class 4 : org.itracker.web.forms.CustomFieldForm: 
+new Added class 5 : org.itracker.web.forms.CustomFieldValueForm: 
+new Added class 6 : org.itracker.web.forms.DisplayReportForm: 
+new Added class 7 : org.itracker.web.forms.ForgotPasswordForm: 
+new Added class 8 : org.itracker.web.forms.ImportForm: 
+new Added class 9 : org.itracker.web.forms.IssueForm: 
+new Added class 10 : org.itracker.web.forms.IssueRelationForm: 
+new Added class 11 : org.itracker.web.forms.ITrackerForm: 
+new Added class 12 : org.itracker.web.forms.LanguageForm: 
+new Added class 13 : org.itracker.web.forms.LoginForm: 
+new Added class 14 : org.itracker.web.forms.MoveIssueForm: 
+new Added class 15 : org.itracker.web.forms.ProjectForm: 
+new Added class 16 : org.itracker.web.forms.ProjectScriptForm: 
+new Added class 17 : org.itracker.web.forms.RemoveHistoryForm: 
+new Added class 18 : org.itracker.web.forms.RemoveRelationForm: 
+new Added class 19 : org.itracker.web.forms.ReportForm: 
+new Added class 20 : org.itracker.web.forms.SearchForm: 
+new Added class 21 : org.itracker.web.forms.TaskForm: 
+new Added class 22 : org.itracker.web.forms.UserForm: 
+new Added class 23 : org.itracker.web.forms.VersionForm: 
+new Added class 24 : org.itracker.web.forms.WatchIssueForm: 
+new Added class 25 : org.itracker.web.forms.WorkflowScriptForm: 
+testing relationship 
+class 9  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

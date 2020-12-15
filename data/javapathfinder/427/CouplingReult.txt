@@ -1,0 +1,18 @@
+Compared Result of  two versions
+Number of New Class: 12
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : gov.nasa.jpf.symbc.bytecode.IFGE: 
+new Added class 1 : gov.nasa.jpf.symbc.bytecode.IFGT: 
+new Added class 2 : gov.nasa.jpf.symbc.bytecode.IFLE: 
+new Added class 3 : gov.nasa.jpf.symbc.bytecode.IFLT: 
+new Added class 4 : gov.nasa.jpf.symbc.bytecode.IF_ICMPGE: 
+new Added class 5 : gov.nasa.jpf.symbc.bytecode.IF_ICMPGT: 
+new Added class 6 : gov.nasa.jpf.symbc.bytecode.IF_ICMPLE: 
+new Added class 7 : gov.nasa.jpf.symbc.bytecode.IF_ICMPLT: 
+new Added class 8 : gov.nasa.jpf.symbc.bytecode.IINC: 
+new Added class 9 : gov.nasa.jpf.symbc.bytecode.IMUL: 
+new Added class 10 : gov.nasa.jpf.symbc.bytecode.INEG: 
+new Added class 11 : gov.nasa.jpf.symbc.bytecode.ISUB: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

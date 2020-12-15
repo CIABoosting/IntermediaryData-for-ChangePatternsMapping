@@ -1,0 +1,15 @@
+Polarizability:0.4666666666666667
+CDKAtomTypeMatcherTest:0.41333333333333333
+DeduceBondOrderTestFromHybridization:0.4033333333333333
+DeduceBondSystemToolTest:0.32
+MDLV2000Reader:0.24666666666666667
+DeduceBondSystemTool:0.24
+ResonancePositiveChargeDescriptor:0.22672222222222221
+EffectiveAtomPolarizabilityDescriptor:0.17
+PolarizabilityTest:0.15333333333333332
+BCUTDescriptor:0.14333333333333334
+AutocorrelationDescriptorPolarizability:0.13333333333333333
+AbstractAtomTypeTest:0.09333333333333334
+MvalencycheckTests:0.09333333333333334
+MsmilesTests:0.09
+MqsarwekaTests:0.0

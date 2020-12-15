@@ -1,0 +1,15 @@
+FilteredSearchContext:0.5666666666666667
+PercolateContext:0.5533333333333333
+DefaultSearchContext:0.5533333333333333
+TestSearchContext:0.53
+QueryParseContext:0.43666666666666665
+SearchContext:0.3433333333333333
+SubSearchContext:0.3233333333333333
+BitsetFilterCache:0.1622222222222222
+InnerHitsParseElement:0.11083333333333334
+GeoDistanceSortParser:0.11
+SimpleNestedTests:0.09666666666666666
+ScriptSortParser:0.09
+SortParseElement:0.058333333333333334
+NestedQueryParser:0.056666666666666664
+NestedFilterParser:0.0044444444444444444

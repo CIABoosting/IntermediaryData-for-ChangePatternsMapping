@@ -1,0 +1,13 @@
+Replicator:0.495
+StatelessMapClient:0.4066666666666667
+Entry:0.39
+StatelessServerConnector:0.37
+ChronicleMapBuilder:0.36666666666666664
+Builder:0.22666666666666666
+TcpReplicator:0.19333333333333333
+Replicators:0.14
+TcpSocketChannelEntryWriter:0.12333333333333334
+TcpSocketChannelEntryReader:0.11333333333333333
+ChannelProviderBuilder:0.10666666666666667
+EntryCallback:0.09
+ChronicleChannel:0.0775

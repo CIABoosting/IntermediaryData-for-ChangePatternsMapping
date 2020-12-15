@@ -1,0 +1,14 @@
+Quantizer:0.47
+QuantizeFilter:0.31666666666666665
+VideoSharingSession:0.31
+ImageEncoder2:0.27051984126984113
+ImageDecoder2:0.27051984126984113
+PixelUtils:0.16
+DefaultEncoder2:0.15416666666666667
+OctTreeQuantizer:0.13333333333333333
+ImageEncoder:0.06666666666666667
+AbstractBufferedImageOp:0.023333333333333334
+ImageTransmitter:0.014444444444444444
+ImageDecoder:0.01
+WholeImageFilter:0.0033333333333333335
+DefaultDecoder2:0.0

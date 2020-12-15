@@ -1,0 +1,15 @@
+Engine:0.48
+IndexShard:0.42
+InternalEngine:0.3466666666666667
+InternalEngineTests:0.2833333333333333
+EngineConfig:0.25
+ShadowIndexShard:0.215
+ShadowEngine:0.20666666666666667
+ShadowEngineTests:0.18666666666666668
+IndexShardRecoveryPerformer:0.15666666666666668
+EngineFactory:0.15644444444444447
+StoreRecovery:0.14
+MockInternalEngine:0.10333333333333333
+IndexShardTests:0.08333333333333333
+InternalEngineFactory:0.016666666666666666
+MockEngineFactory:0.0

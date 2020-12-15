@@ -1,0 +1,7 @@
+NodeClient:0.46
+NodeClientHeadersTests:0.21333333333333335
+AbstractBaseReindexRestHandler:0.15
+RestReindexAction:0.13666666666666666
+RestUpdateByQueryAction:0.09666666666666666
+RestDeleteByQueryAction:0.043333333333333335
+AbstractBulkByQueryRestHandler:0.04

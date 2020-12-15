@@ -1,0 +1,11 @@
+FilterableRequestSpecification:0.30833333333333335
+LogIfValidationFailsITest:0.30666666666666664
+AuthenticationITest:0.27666666666666667
+RequestLoggingTest:0.27
+ProxySpecification:0.2633333333333333
+LoggingITest:0.23
+ProxyITest:0.22333333333333333
+SpecificationBuilderITest:0.21333333333333335
+MockMvcRequestSpecificationMergingTest:0.21333333333333335
+LoggingIfValidationFailsTest:0.19666666666666666
+RequestPrinter:0.15333333333333332

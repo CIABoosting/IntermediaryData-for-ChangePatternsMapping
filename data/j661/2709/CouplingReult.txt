@@ -1,0 +1,59 @@
+Compared Result of  two versions
+Number of New Class: 33
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.server.model.rendererhelper.AbstractARINCPanel: 
+new Added class 1 : arinc661.server.model.helpers.AbstractMapItemList: 
+new Added class 2 : arinc661.server.model.rendererhelper.AbstractUnsizedRenderer: 
+new Added class 3 : arinc661.server.model.stdrenderer.ArcCircleRenderer: 
+new Added class 4 : arinc661.server.model.stdrenderer.ArcEllipseRenderer: 
+new Added class 5 : arinc661.server.model.stdrenderer.CrownRenderer: 
+new Added class 6 : arinc661.common.ext.DefaultARINCUtils: 
+new Added class 7 : arinc661.server.ui.synth2.DefaultSynthStyle: 
+new Added class 8 : arinc661.testutils.DummyGraphics: 
+new Added class 9 : arinc661.server.model.stdrenderer.LineRenderer: 
+new Added class 10 : arinc661.server.model.stdrenderer.MapHorzContainerRenderer: 
+new Added class 11 : arinc661.server.model.stdrenderer.MapLegacyRenderer: 
+new Added class 12 : arinc661.server.ui.synth2.ObjectHandler: 
+new Added class 13 : plugin.editor.look.action.OpenLookCapacitiesAction: 
+new Added class 14 : plugin.editor.look.action.OpenLookDefinitionAction: 
+new Added class 15 : arinc661.server.ui.synth2.PainterInfo: 
+new Added class 16 : arinc661.server.model.painter.PainterUtils: 
+new Added class 17 : arinc661.server.ui.synth2.ParsedSynthStyle: 
+new Added class 18 : arinc661.server.model.stdrenderer.PolarLineRenderer: 
+new Added class 19 : arinc661.server.model.stdrenderer.PolylineRenderer: 
+new Added class 20 : arinc661.server.model.stdrenderer.RectangleRenderer: 
+new Added class 21 : arinc661.server.parser.ServerWidgetsHandler: 
+new Added class 22 : arinc661.server.model.stdrenderer.SymbolAnimatedRenderer: 
+new Added class 23 : arinc661.server.model.stdrenderer.SymbolRenderer: 
+new Added class 24 : arinc661.server.ui.synth2.Synth2LookAndFeel: 
+new Added class 25 : arinc661.server.ui.synth2.Synth2Parser: 
+new Added class 26 : plugin.editor.look.action.SynthConverterAction: 
+new Added class 27 : arinc661.server.model.stdrenderer.ToggleButtonRenderer: 
+new Added class 28 : plugin.editor.look.action.ToSynthConverterAction: 
+new Added class 29 : arinc661.server.model.painter.TransformedComponent: 
+new Added class 30 : arinc661.server.model.stdrenderer.TriangleRenderer: 
+new Added class 31 : arinc661.server.ui.UIDefinition: 
+new Added class 32 : arinc661.server.model.rendererhelper.UnsizedPanel: 
+testing relationship 
+class 0  vs  class 32£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 7£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:6  r15:0  r16:0  r17:0  
+class 17  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:11  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:8  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 17£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:2  r7:0  r8:26  r9:0  r10:1  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  13   2 :  0   3 :  2   4 :  1   5 :  2   6 :  2   7 :  0   8 :  34   9 :  0   10 :  4   11 :  11   12 :  0   13 :  16   14 :  6   15 :  0   16 :  0   17 :  0   

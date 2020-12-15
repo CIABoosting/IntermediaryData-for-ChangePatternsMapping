@@ -1,0 +1,9 @@
+HazelcastTestSupport:0.52
+QueryIndexingTest:0.25
+ScheduledExecutorServiceTest:0.23666666666666666
+CardinalityEstimatorAdvancedTest:0.23666666666666666
+MapInvalidationMetaDataMigrationTest:0.22
+SystemLogPluginTest:0.2
+ListSplitBrainTest:0.19333333333333333
+QueueSplitBrainTest:0.18333333333333332
+MigrationTest:0.15666666666666668

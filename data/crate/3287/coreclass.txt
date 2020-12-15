@@ -1,0 +1,16 @@
+CountPhase:0.4866666666666667
+FetchPhase:0.4266666666666667
+ExecutionPhase:0.3983333333333333
+FetchReference:0.3466666666666667
+Context:0.34
+LuceneDocCollectorBenchmark:0.25
+ColumnRegistrar:0.2
+TestingHelpers:0.2
+LiteralValueFormatter:0.18166666666666667
+Visitor:0.16
+FetchPushDown:0.13666666666666666
+FetchContextTest:0.12333333333333334
+CountNodeTest:0.09
+TestingTableInfo:0.08666666666666667
+FetchPhaseTest:0.07333333333333333
+InnerAnalysisContext:0.023333333333333334

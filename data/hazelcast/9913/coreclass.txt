@@ -1,0 +1,12 @@
+PartitionedCluster:0.67
+ClientMapReadWriteQuorumTest:0.23
+ClientMapWriteQuorumTest:0.23
+MapReadWriteQuorumTest:0.21333333333333335
+MapWriteQuorumTest:0.21333333333333335
+TransactionalMapReadWriteQuorumTest:0.21
+MapReadQuorumTest:0.21
+TransactionalMapReadQuorumTest:0.2
+TransactionalMapWriteQuorumTest:0.2
+ClientTransactionalMapQuorumTest:0.18666666666666668
+ClientMapReadQuorumTest:0.18666666666666668
+MockNodeContext:0.14333333333333334

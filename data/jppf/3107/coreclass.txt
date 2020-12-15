@@ -1,0 +1,17 @@
+JPPFClientConnection:0.8
+JPPFConnectionPool:0.4
+JPPFPriorityQueue:0.33
+AbstractJPPFClient:0.29333333333333333
+JPPFClient:0.25
+AbstractGenericClient:0.23
+AbstractJPPFClientConnection:0.22333333333333333
+SubmissionManagerClient:0.20666666666666667
+BaseJPPFClientConnection:0.2
+TaskServerConnectionHandler:0.14
+RemoteRunnable:0.14
+JPPFClientConnectionImpl:0.06
+RegisteredClassLoader:0.041666666666666664
+ClientQueueListenerAdapter:0.006666666666666667
+ClientQueueEventDispatcher:0.006666666666666667
+ClientQueueListener:0.006666666666666667
+ClientQueueEvent:0.006666666666666667

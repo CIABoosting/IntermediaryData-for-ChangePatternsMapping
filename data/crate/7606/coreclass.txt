@@ -1,0 +1,16 @@
+GroupByRow:0.43666666666666665
+AsyncBroadcastAction:0.38666666666666666
+SQLGroupByResult:0.29333333333333333
+CountAggState:0.24111111111111114
+SQLReduceJobStatus:0.18666666666666668
+AvgAggState:0.18166666666666667
+SQLMapperResultRequest:0.1577777777777778
+AggExpr:0.15333333333333332
+RecievePartialResultHandler:0.15333333333333332
+SQLReduceJobResponse:0.10333333333333333
+SQLReduceJobRequest:0.1
+TransportSQLReduceHandler:0.09
+TransportDistributedSQLAction:0.09
+SQLReduceJobStatusTest:0.09
+ParameterInfo:0.04
+ColumnDescription:0.0

@@ -1,0 +1,15 @@
+OrcReader:0.5266666666666666
+OrcRecordReader:0.35333333333333333
+HiveClientConfig:0.31
+OrcPageSource:0.28
+HiveSessionProperties:0.22333333333333333
+OrcTestingUtil:0.18333333333333332
+OrcStorageManager:0.17666666666666667
+TestOrcPageSourceMemoryTracking:0.17222222222222222
+TestPreparer:0.16666666666666666
+OrcPageSourceFactory:0.12166666666666667
+BenchmarkData:0.10666666666666667
+TestHiveClientConfig:0.1
+DwrfPageSourceFactory:0.08333333333333333
+FileFormatDataSourceStats:0.056666666666666664
+GrowingTestColumn:0.023333333333333334

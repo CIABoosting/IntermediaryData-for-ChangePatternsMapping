@@ -1,0 +1,31 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.archive.crawler.framework.AnnotatedURI: 
+new Added class 1 : org.archive.crawler.framework.Config: 
+new Added class 2 : org.archive.crawler.datamodel.CrawlHost: 
+new Added class 3 : org.archive.crawler.framework.CrawlOrder: 
+new Added class 4 : org.archive.crawler.datamodel.CrawlURI: 
+new Added class 5 : org.archive.crawler.framework.DecoratingExtractor: 
+new Added class 6 : org.archive.crawler.datamodel.FilteringURISet: 
+new Added class 7 : org.archive.crawler.framework.HostCache: 
+new Added class 8 : org.archive.crawler.framework.Processor: 
+new Added class 9 : org.archive.crawler.framework.RegExpFilter: 
+new Added class 10 : org.archive.crawler.framework.RobotsExclusionPolicy: 
+new Added class 11 : org.archive.crawler.framework.URIDB: 
+new Added class 12 : org.archive.crawler.framework.URIFrontier: 
+new Added class 13 : org.archive.crawler.framework.URIManager: 
+new Added class 14 : org.archive.crawler.framework.URIPolicy: 
+new Added class 15 : org.archive.crawler.framework.URIScheduler: 
+new Added class 16 : org.archive.crawler.framework.URISelector: 
+new Added class 17 : org.archive.crawler.datamodel.UURI: 
+new Added class 18 : org.archive.crawler.framework.UURIFilter: 
+testing relationship 
+class 4  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 18£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 9  vs  class 18£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  3   3 :  0   4 :  0   5 :  2   6 :  0   7 :  0   8 :  1   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  1   17 :  0   

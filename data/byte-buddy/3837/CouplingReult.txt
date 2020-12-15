@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : net.bytebuddy.benchmark.AbstractBlackHoleTest: 
+new Added class 1 : net.bytebuddy.ByteBuddy: 
+new Added class 2 : net.bytebuddy.dynamic.scaffold.inline.ClassFileLocator: 
+new Added class 3 : net.bytebuddy.dynamic.scaffold.inline.Compound: 
+new Added class 4 : net.bytebuddy.dynamic.DynamicTypeDefaultTest: 
+new Added class 5 : net.bytebuddy.dynamic.scaffold.inline.FlatDynamicTypeBuilder: 
+new Added class 6 : net.bytebuddy.dynamic.scaffold.inline.TargetHandler: 
+new Added class 7 : net.bytebuddy.dynamic.scaffold.inline.MethodFlatteningResolver: 
+new Added class 8 : net.bytebuddy.dynamic.scaffold.inline.Resolution: 
+new Added class 9 : net.bytebuddy.NamingStrategy: 
+new Added class 10 : net.bytebuddy.dynamic.scaffold.TypeExtensionDelegate: 
+new Added class 11 : net.bytebuddy.dynamic.scaffold.TypeWriter: 
+new Added class 12 : net.bytebuddy.dynamic.scaffold.MethodPool: 
+testing relationship 
+class 1  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 1  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:18  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:7  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 5  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:3  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 5  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 7  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  1   3 :  0   4 :  0   5 :  3   6 :  0   7 :  0   8 :  29   9 :  0   10 :  3   11 :  0   12 :  0   13 :  0   14 :  14   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,31 @@
+Compared Result of  two versions
+Number of New Class: 25
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.semanticdesktop.aperture.addressbook.AppleAddressbookCrawlerTest: 
+new Added class 1 : org.semanticdesktop.aperture.extractor.excel.ExcelExtractorTest: 
+new Added class 2 : org.semanticdesktop.aperture.extractor.html.HtmlExtractorTest: 
+new Added class 3 : org.semanticdesktop.aperture.extractor.mime.MimeExtractorTest: 
+new Added class 4 : org.semanticdesktop.aperture.extractor.office.OfficeExtractorTest: 
+new Added class 5 : org.semanticdesktop.aperture.extractor.opendocument.OpenDocumentExtractorTest: 
+new Added class 6 : org.semanticdesktop.aperture.extractor.pdf.PdfExtractorTest: 
+new Added class 7 : org.semanticdesktop.aperture.extractor.plaintext.PlainTextExtractorTest: 
+new Added class 8 : org.semanticdesktop.aperture.extractor.powerpoint.PowerPointExtractorTest: 
+new Added class 9 : org.semanticdesktop.aperture.extractor.presentations.PresentationsExtractorTest: 
+new Added class 10 : org.semanticdesktop.aperture.extractor.publisher.PublisherExtractorTest: 
+new Added class 11 : org.semanticdesktop.aperture.extractor.quattro.QuattroExtractorTest: 
+new Added class 12 : org.semanticdesktop.aperture.extractor.rtf.RtfExtractorTest: 
+new Added class 13 : org.semanticdesktop.aperture.datasource.config.TestConfigurationUtil: 
+new Added class 14 : org.semanticdesktop.aperture.crawler.filesystem.TestFileSystemCrawler: 
+new Added class 15 : org.semanticdesktop.aperture.accessor.base.TestModelAccessData: 
+new Added class 16 : org.semanticdesktop.aperture.outlook.TestOutlookCrawlAll: 
+new Added class 17 : org.semanticdesktop.aperture.outlook.TestOutlookCrawler: 
+new Added class 18 : org.semanticdesktop.aperture.rdf.rdf2go.TestRdf2GoRdfContainer: 
+new Added class 19 : org.semanticdesktop.aperture.addressbook.ThunderbirdCrawlerTest: 
+new Added class 20 : org.semanticdesktop.aperture.extractor.visio.VisioExtractorTest: 
+new Added class 21 : org.semanticdesktop.aperture.extractor.word.WordExtractorTest: 
+new Added class 22 : org.semanticdesktop.aperture.extractor.wordperfect.WordPerfectExtractorTest: 
+new Added class 23 : org.semanticdesktop.aperture.extractor.works.WorksExtractorTest: 
+new Added class 24 : org.semanticdesktop.aperture.extractor.xml.XmlExtractorTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

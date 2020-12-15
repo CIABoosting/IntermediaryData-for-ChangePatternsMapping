@@ -1,0 +1,8 @@
+SparkComputationGraph:0.38333333333333336
+SparkDl4jMultiLayer:0.37333333333333335
+ScoreFlatMapFunction:0.35333333333333333
+ScoreFlatMapFunctionCGMultiDataSet:0.27666666666666667
+ScoreFlatMapFunctionCGDataSet:0.27666666666666667
+TestEarlyStoppingSparkCompGraph:0.22666666666666666
+TestEarlyStoppingSpark:0.22666666666666666
+TestDataVecDataSetFunctions:0.17333333333333334

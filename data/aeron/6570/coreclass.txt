@@ -1,0 +1,12 @@
+MediaSubscriptionEndpoint:0.5866666666666667
+DriverConductor:0.3933333333333333
+DriverConductorTest:0.27666666666666667
+CreateConnectedSubscriptionCmd:0.18333333333333332
+Receiver:0.15666666666666668
+DriverConnectedSubscription:0.15527777777777776
+ReceiverTest:0.14666666666666667
+ReceiverProxy:0.1
+AddSubscriptionCmd:0.05
+RemoveSubscriptionCmd:0.05
+DriverConductorProxy:0.01
+NewConnectedSubscriptionCmd:0.01

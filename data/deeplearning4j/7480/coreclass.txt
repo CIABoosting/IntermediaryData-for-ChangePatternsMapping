@@ -1,0 +1,9 @@
+BaseLayer:0.37
+ConvolutionLayer:0.3466666666666667
+RNTN:0.27666666666666667
+DefaultParamInitializer:0.26555555555555554
+OutputLayer:0.20333333333333334
+RBMTests:0.19666666666666666
+LSTMParamInitializer:0.15333333333333332
+RecursiveParamInitializer:0.1
+PretrainParamInitializer:0.1

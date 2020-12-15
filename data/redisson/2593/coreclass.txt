@@ -1,0 +1,13 @@
+RedisConnection:0.47
+ConnectionPool:0.43
+ClientConnectionsEntry:0.38666666666666666
+MasterConnectionPool:0.34
+MasterSlaveConnectionManager:0.30666666666666664
+BaseConfig:0.26
+MasterSlaveEntry:0.24333333333333335
+SentinelConnectionManager:0.21333333333333335
+ClusterConnectionManager:0.21333333333333335
+ConnectionManager:0.20083333333333334
+SingleEntry:0.17
+ElasticacheConnectionManager:0.09333333333333334
+SingleConnectionManager:0.06666666666666667

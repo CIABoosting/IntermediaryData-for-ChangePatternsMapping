@@ -1,0 +1,16 @@
+NettyResponseFuture:0.37083333333333335
+JDKFuture:0.2633333333333333
+ApacheResponseFuture:0.26166666666666666
+AsyncHttpProviderUtils:0.24833333333333332
+DateUtil:0.22
+OAuthSignatureCalculator:0.22
+IdleChannel:0.22
+NTLMEngine:0.20916666666666667
+GrizzlyAsyncHttpProvider:0.20333333333333334
+RealmBuilder:0.19333333333333333
+JDKDelegateFuture:0.16333333333333333
+PerRequestTimeoutTest:0.16333333333333333
+AsyncProvidersBasicTest:0.16
+IdleChannelDetector:0.14
+NettyAsyncResponseTest:0.13
+NettyConnectionsPool:0.11666666666666667

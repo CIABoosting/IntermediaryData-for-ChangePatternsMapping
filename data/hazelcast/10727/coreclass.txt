@@ -1,0 +1,15 @@
+Node:0.53
+HazelcastClientInstanceImpl:0.4166666666666667
+WebFilter:0.3433333333333333
+HazelcastInstanceProxy:0.3333333333333333
+AbstractWebFilterTest:0.26666666666666666
+HazelcastInstanceLoader:0.22777777777777777
+WebFilterSlowTests:0.2
+HazelcastClientProxy:0.19666666666666666
+WebFilterBasicTest:0.18333333333333332
+WebFilterSessionCleanupTest:0.17666666666666667
+RequestWrapper:0.17
+VersionCheck:0.12333333333333334
+NodeShutdownHookThread:0.11333333333333333
+TestServlet:0.09333333333333334
+WebDataSerializerHook:0.043333333333333335

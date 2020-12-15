@@ -1,0 +1,23 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.deeplearning4j.nn.modelimport.keras.layers.core.KerasActivation: 
+new Added class 1 : org.deeplearning4j.nn.modelimport.keras.layers.noise.KerasAlphaDropout: 
+new Added class 2 : org.deeplearning4j.nn.modelimport.keras.layers.normalization.KerasBatchNormalization: 
+new Added class 3 : org.deeplearning4j.nn.modelimport.keras.layers.core.KerasDense: 
+new Added class 4 : org.deeplearning4j.nn.modelimport.keras.layers.core.KerasDropout: 
+new Added class 5 : org.deeplearning4j.nn.modelimport.keras.layers.embeddings.KerasEmbedding: 
+new Added class 6 : org.deeplearning4j.nn.modelimport.keras.layers.core.KerasFlatten: 
+new Added class 7 : org.deeplearning4j.nn.modelimport.keras.layers.noise.KerasGaussianDropout: 
+new Added class 8 : org.deeplearning4j.nn.modelimport.keras.layers.noise.KerasGaussianNoise: 
+new Added class 9 : org.deeplearning4j.nn.modelimport.keras.layers.pooling.KerasGlobalPooling: 
+new Added class 10 : org.deeplearning4j.nn.modelimport.keras.layers.custom.KerasLRN: 
+new Added class 11 : org.deeplearning4j.nn.modelimport.keras.layers.core.KerasMerge: 
+new Added class 12 : org.deeplearning4j.nn.modelimport.keras.layers.custom.KerasPoolHelper: 
+new Added class 13 : org.deeplearning4j.nn.modelimport.keras.layers.pooling.KerasPooling1D: 
+new Added class 14 : org.deeplearning4j.nn.modelimport.keras.layers.pooling.KerasPooling2D: 
+new Added class 15 : org.deeplearning4j.nn.modelimport.keras.layers.pooling.KerasPoolingUtils: 
+new Added class 16 : org.deeplearning4j.nn.modelimport.keras.layers.core.KerasReshape: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

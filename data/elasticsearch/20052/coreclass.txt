@@ -1,0 +1,17 @@
+FieldMappersLookup:0.4
+SimpleIndexQueryParserTests:0.3933333333333333
+MappersLookup:0.35333333333333333
+Builder:0.31333333333333335
+DocumentMapper:0.3
+DocumentFieldMappers:0.2866666666666667
+ObjectMapper:0.2633333333333333
+MapperService:0.25666666666666665
+MultiFields:0.21444444444444447
+TransportGetFieldMappingsIndexAction:0.14166666666666666
+FieldDataWarmer:0.13666666666666666
+RootObjectMapper:0.10333333333333333
+NormsWarmer:0.09333333333333334
+FieldNameAnalyzer:0.09
+FieldMapperListener:0.08
+InternalFieldMapperListener:0.023333333333333334
+Aggregator:0.016666666666666666

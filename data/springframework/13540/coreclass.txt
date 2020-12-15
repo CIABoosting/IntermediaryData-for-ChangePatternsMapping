@@ -1,0 +1,15 @@
+StaticServiceProxyCreator:0.39
+ClientOnlyTcclTest:0.31
+ChainedClassLoader:0.25833333333333336
+ClassLoaderFactory:0.25
+OsgiServiceProxyFactoryBean:0.20333333333333334
+AbstractOsgiBundleApplicationContext:0.20333333333333334
+GreedyProxyTest:0.19666666666666666
+AbstractServiceProxyCreator:0.18666666666666668
+ServiceProviderTCCLInterceptor:0.17166666666666666
+CachingAopClassLoaderFactory:0.16
+OsgiServiceCollectionProxiesTest:0.16
+AbstractServiceImporterProxyFactoryBean:0.14333333333333334
+OsgiServiceCollectionProxyFactoryBean:0.14333333333333334
+InfrastructureProxyTest:0.12333333333333334
+ClassDependenciesVisibilityTest:0.04

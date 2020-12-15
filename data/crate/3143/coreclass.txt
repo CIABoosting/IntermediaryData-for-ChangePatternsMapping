@@ -1,0 +1,17 @@
+PagingIterator:0.6966666666666667
+PassThroughPagingIterator:0.30666666666666664
+OrderedDocCollector:0.24583333333333332
+MultiShardScoreDocCollector:0.24333333333333335
+IteratorPageDownstream:0.22666666666666666
+NestedLoopOperationTest:0.16
+SortedPagingIteratorTest:0.15666666666666668
+RecordingSortedMergeIterator:0.15
+SortedPagingIteratorBenchmark:0.13666666666666666
+IteratorPageDownstreamTest:0.13666666666666666
+PlainSortedMergeIterator:0.11666666666666667
+PassThroughPagingIteratorTest:0.11333333333333333
+PageDownstreamFactory:0.10666666666666667
+SortedPagingIterator:0.09666666666666666
+NumberedPeekingIterator:0.09666666666666666
+SortedMergeIterator:0.058333333333333334
+Indexed:0.023333333333333334

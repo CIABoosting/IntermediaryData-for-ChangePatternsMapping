@@ -1,0 +1,13 @@
+AliasMetaData:0.4866666666666667
+IndexTemplateMetaData:0.41
+PutIndexTemplateRequest:0.38666666666666666
+Builder:0.35333333333333333
+PutIndexTemplateRequestBuilder:0.3233333333333333
+TransportPutIndexTemplateAction:0.13333333333333333
+MetaDataCreateIndexService:0.13
+AliasValidator:0.12
+MetaDataIndexTemplateService:0.12
+PutRequest:0.11833333333333333
+SimpleIndexTemplateTests:0.09
+IndexTemplateFileLoadingTests:0.08333333333333333
+ToAndFromJsonMetaDataTests:0.025

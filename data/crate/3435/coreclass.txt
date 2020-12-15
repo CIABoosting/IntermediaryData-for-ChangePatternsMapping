@@ -1,0 +1,11 @@
+TransportActionProvider:0.4
+ColumnIndexWriterProjector:0.36
+SymbolBasedTransportShardUpsertAction:0.33666666666666667
+Visitor:0.27666666666666667
+ProjectionToProjectorVisitor:0.19333333333333333
+SQLTransportIntegrationTest:0.18333333333333332
+InsertIntoIntegrationTest:0.17666666666666667
+SymbolBasedBulkShardProcessor:0.17133333333333334
+RowShardResolver:0.11666666666666667
+SymbolToFieldExtractorContext:0.11333333333333333
+TransportExecutorModule:0.09333333333333334

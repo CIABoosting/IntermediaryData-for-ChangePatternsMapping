@@ -1,0 +1,14 @@
+PutFromLoadValidator:0.47333333333333333
+TransactionalAccessDelegate:0.43666666666666665
+Invalidation:0.37333333333333335
+PendingPut:0.26666666666666666
+TransactionalAccess:0.24333333333333335
+AbstractEntityRegionAccessStrategyTestCase:0.23333333333333334
+Invalidator:0.22
+AbstractCollectionRegionAccessStrategyTestCase:0.21333333333333335
+PutFromLoadValidatorUnitTestCase:0.20333333333333334
+PendingPutMap:0.2
+AbstractReadOnlyAccessTestCase:0.15
+AbstractTransactionalAccessTestCase:0.14
+NakedPut:0.12
+RegularPut:0.11333333333333333

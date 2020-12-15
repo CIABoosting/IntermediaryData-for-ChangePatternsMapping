@@ -1,0 +1,14 @@
+SQLResponse:0.6933333333333334
+SQLRequest:0.38
+RestSqlActionTest:0.2
+TransportSQLAction:0.15666666666666668
+RowsResponseBuilder:0.15
+SQLResponseTest:0.13333333333333333
+SQLRequestBuilder:0.13333333333333333
+ResponseBuilder:0.12666666666666668
+RowsResponseBuilderTest:0.11666666666666667
+RestSQLAction:0.07666666666666666
+Fields:0.07
+AffectedRowsResponseBuilder:0.04
+SQLTransportIntegrationTest:0.023333333333333334
+CrateClientTest:0.006666666666666667

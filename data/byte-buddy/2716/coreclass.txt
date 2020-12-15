@@ -1,0 +1,16 @@
+Default:0.37
+CacheProvider:0.33
+MethodExtractor:0.22666666666666666
+Chain:0.21666666666666667
+DebuggingWrapper:0.21166666666666667
+Simple:0.21
+TypeExtractor:0.18333333333333332
+ForInlining:0.17333333333333334
+Initialized:0.15333333333333332
+ForCreation:0.1511111111111111
+RenamingWrapper:0.14666666666666667
+AgentBuilderBinaryLocatorDefaultTest:0.13333333333333333
+TypePoolDefaultMethodDescriptionTest:0.12
+TypePoolDefaultTypeDescriptionTest:0.09666666666666666
+TypePoolLazyFacadeTypeDescriptionTest:0.09666666666666666
+BinaryLocator:0.09

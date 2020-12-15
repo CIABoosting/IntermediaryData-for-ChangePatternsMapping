@@ -1,0 +1,17 @@
+Interpreter:0.43
+OLParser:0.35
+AssignmentProcess:0.25666666666666665
+DeployParser:0.21666666666666667
+Scanner:0.20111111111111113
+InputOperation:0.19
+AbstractVariable:0.18333333333333332
+SleepProcess:0.18
+OutputOperation:0.16666666666666666
+Jolie:0.14666666666666667
+NotificationProcess:0.14666666666666667
+SleepInputHandler:0.13777777777777778
+SolicitResponseOperation:0.04
+NotificationOperation:0.04
+RequestResponseOperation:0.03
+CommandLineException:0.026388888888888885
+OneWayOperation:0.023333333333333334

@@ -1,0 +1,15 @@
+EngineConfig:0.4033333333333333
+InternalEngineTests:0.35333333333333333
+IndexShard:0.3466666666666667
+IndexStatsTests:0.32666666666666666
+ElasticsearchIntegrationTest:0.31333333333333335
+InternalEngine:0.23666666666666666
+IndexService:0.23
+Engine:0.23
+ShadowEngineTests:0.20333333333333334
+UpdateSettingsTests:0.18333333333333332
+IndexDynamicSettingsModule:0.13666666666666666
+ShadowIndexShard:0.11
+IndexShardModule:0.10666666666666667
+ApplyRefreshSettings:0.08
+EngineMergeScheduler:0.0033333333333333335

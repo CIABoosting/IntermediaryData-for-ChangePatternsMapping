@@ -1,0 +1,13 @@
+Connection:0.6866666666666666
+AsyncConnection:0.46711904761904766
+SimpleCommandMessage:0.4066666666666667
+CommandProtocol:0.3233333333333333
+WriteProtocol:0.23666666666666666
+DefaultServerConnection:0.23666666666666666
+QueryBatchCursor:0.23
+TestConnection:0.23
+CommandOperationHelper:0.20666666666666667
+AsyncQueryBatchCursor:0.19666666666666666
+CommandMonitoringTest:0.19666666666666666
+CommandHelper:0.16
+CommandProtocolExecutingCallback:0.11666666666666667

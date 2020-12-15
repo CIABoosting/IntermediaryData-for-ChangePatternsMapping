@@ -1,0 +1,13 @@
+Builder:0.6133333333333333
+SubsamplingLayer:0.58
+GlobalPoolingLayer:0.27
+MultiLayerNeuralNetConfigurationTest:0.19
+ConvolutionLayerTest:0.18666666666666668
+ZeroPaddingLayer:0.17666666666666667
+ListBuilder:0.16833333333333333
+SubsamplingLayerTest:0.16666666666666666
+ManualTests:0.15666666666666668
+ConvolutionLayerSetupTest:0.14666666666666667
+FlowIterationListenerTest:0.1
+ParallelWrapperTest:0.08
+ParallelWrapperMainTest:0.08

@@ -1,0 +1,15 @@
+AbstractPaymentMethod:0.6533333333333333
+WirecardEFTPaymentRequest:0.43
+WirecardCCPaymentRequest:0.43
+InvoicePayment:0.2
+PaymentDataProcessor:0.16
+InvoicePaymentRequest:0.11666666666666667
+WirecardCCPayment:0.07333333333333333
+WirecardEFTPayment:0.07333333333333333
+InvoicePaymentResponse:0.07
+PaymentProcessorResult:0.04666666666666667
+ShipmentMethodSelectionProcessor:0.03
+PaymentDataProcessorResult:0.013333333333333334
+PaymentAuthorizationProcessor:0.0033333333333333335
+PaymentMethodSelectionProcessor:0.0033333333333333335
+PaymentCaptureProcessor:0.0033333333333333335

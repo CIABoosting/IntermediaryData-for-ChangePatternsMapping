@@ -1,0 +1,13 @@
+BlobEnvironment:0.5733333333333334
+BlobContainer:0.4066666666666667
+BlobIndicesService:0.3933333333333333
+DigestBlob:0.37
+BlobShard:0.23666666666666666
+TransferFileRunnable:0.18
+BlobEnvironmentTest:0.15666666666666668
+CustomBlobPathTest:0.15666666666666668
+DigestBlobTests:0.11333333333333333
+InternalBlobTableInfoFactory:0.10666666666666667
+StartTransferRequestHandler:0.08666666666666667
+BlobContainerTest:0.08
+TransferChunkRequestHandler:0.07666666666666666

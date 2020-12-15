@@ -1,0 +1,17 @@
+ParamInitializer:0.5533333333333333
+MultiLayerNetwork:0.5166666666666667
+Model:0.3559999999999999
+ComputationGraph:0.3233333333333333
+BarnesHutTsne:0.29
+DefaultParamInitializer:0.2833333333333333
+MultiLayerTest:0.23
+BaseLayer:0.17666666666666667
+RastriginFunctionModel:0.17333333333333334
+SphereFunctionModel:0.17333333333333334
+RosenbrockFunctionModel:0.17333333333333334
+ConvolutionParamInitializer:0.10666666666666667
+GravesLSTMParamInitializer:0.07
+GRUParamInitializer:0.043333333333333335
+EmptyParamInitializer:0.043333333333333335
+BatchNormalizationParamInitializer:0.04
+GravesBidirectionalLSTMParamInitializer:0.03666666666666667

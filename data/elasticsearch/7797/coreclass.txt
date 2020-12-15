@@ -1,0 +1,12 @@
+Order:0.42333333333333334
+InternalOrder:0.28
+MinDocCountTests:0.2733333333333333
+TermsDocCountErrorIT:0.25333333333333335
+ShardSizeTermsIT:0.24
+InternalTerms:0.17
+TermsParser:0.17
+LongTermsTests:0.16
+DoubleTermsTests:0.16
+StringTermsTests:0.16
+Streams:0.15666666666666668
+TermsTests:0.08333333333333333

@@ -1,0 +1,19 @@
+Compared Result of  two versions
+Number of New Class: 8
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.jumpmind.symmetric.AbstractSymmetricEngine: 
+new Added class 1 : org.jumpmind.symmetric.common.Constants: 
+new Added class 2 : org.jumpmind.symmetric.service.impl.DataService: 
+new Added class 3 : org.jumpmind.symmetric.ISymmetricEngine: 
+new Added class 4 : org.jumpmind.symmetric.model.Node: 
+new Added class 5 : org.jumpmind.symmetric.service.impl.NodeService: 
+new Added class 6 : org.jumpmind.symmetric.web.SymmetricServlet: 
+new Added class 7 : org.jumpmind.symmetric.SymmetricWebServer: 
+testing relationship 
+class 0  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:17  r12:0  r13:15  r14:11  r15:0  r16:2  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:5  r6:0  r7:0  r8:5  r9:0  r10:0  r11:12  r12:0  r13:1  r14:1  r15:0  r16:0  r17:0  
+class 7  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  1   3 :  3   4 :  0   5 :  9   6 :  1   7 :  0   8 :  5   9 :  0   10 :  0   11 :  47   12 :  0   13 :  17   14 :  12   15 :  0   16 :  2   17 :  0   

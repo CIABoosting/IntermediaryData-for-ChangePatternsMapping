@@ -1,0 +1,12 @@
+Block:0.5533333333333333
+NetworkParameters:0.24
+AbstractBlockChain:0.22
+BlockChainTest:0.21
+FakeTxBuilder:0.17666666666666667
+FullBlockTestGenerator:0.16
+AbstractBitcoinNetParams:0.15333333333333332
+RegTestParams:0.09666666666666666
+MainNetParams:0.09333333333333334
+TestNet2Params:0.06333333333333334
+UnitTestParams:0.04
+BlockVersionOutOfDate:0.0075

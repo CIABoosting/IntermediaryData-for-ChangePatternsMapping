@@ -1,0 +1,12 @@
+PolicyStats:0.7266666666666667
+TinyLfu:0.36666666666666664
+LinkedPolicy:0.19
+SamplingPolicy:0.19
+FullySegmentedWindowTinyLfuPolicy:0.18666666666666668
+FrequentlyUsedPolicy:0.15333333333333332
+TableReporter:0.11
+SegmentedLruPolicy:0.10333333333333333
+WindowTinyLfuPolicy:0.09333333333333334
+CsvReporter:0.09333333333333334
+SimpleWindowTinyLfuPolicy:0.05333333333333334
+RandomWindowTinyLfuPolicy:0.05333333333333334

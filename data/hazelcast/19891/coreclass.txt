@@ -1,0 +1,16 @@
+Job:0.71
+KeyValueJobOperation:0.38666666666666666
+AbstractJob:0.31
+KeyValueJob:0.29333333333333333
+ReducingSubmittableJob:0.2687857142857143
+ClientMapReduceRequest:0.25666666666666665
+MappingJob:0.2105952380952381
+ReducingJob:0.2105952380952381
+AbstractJobTracker:0.19666666666666666
+JobTracker:0.14
+ReducingSubmittableJobImpl:0.13
+NodeJobTracker:0.11
+ReducingJobImpl:0.11
+MappingJobImpl:0.10333333333333333
+MapReduceTest:0.10333333333333333
+ClientMapReduceProxy:0.07666666666666666

@@ -1,0 +1,10 @@
+JoinProbe:0.6966666666666667
+LookupJoinOperator:0.2833333333333333
+JoinProbeCompiler:0.26666666666666666
+TwoChannelJoinProbe:0.22
+SimpleJoinProbe:0.20333333333333334
+TestJoinProbeCompiler:0.16333333333333333
+ReflectionJoinProbeFactory:0.13666666666666666
+JoinProbeFactory:0.12166666666666667
+SimpleJoinProbeFactory:0.04666666666666667
+TwoChannelJoinProbeFactory:0.0425

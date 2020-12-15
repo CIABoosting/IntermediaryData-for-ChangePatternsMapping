@@ -1,0 +1,15 @@
+CollisionJNI:0.62
+btBroadphasePair:0.44333333333333336
+btBroadphaseProxy:0.42333333333333334
+btCollisionObject:0.29
+btOverlappingPairCache:0.23
+btOverlapCallback:0.22
+btBroadphasePairArray:0.21666666666666667
+btRigidBody:0.20666666666666667
+btOverlappingPairCallback:0.2
+btCollisionDispatcher:0.19666666666666666
+btGhostPairCallback:0.19666666666666666
+btBroadphaseInterface:0.19666666666666666
+btHashedOverlappingPairCache:0.19
+btSortedOverlappingPairCache:0.19
+btNullPairCache:0.17

@@ -1,0 +1,10 @@
+AsyncQueryBatchCursor:0.4766666666666667
+OperationHelper:0.4
+DistinctOperation:0.25
+GroupOperation:0.21666666666666667
+ListCollectionsOperation:0.19333333333333333
+MapReduceWithInlineResultsOperation:0.18333333333333332
+ListIndexesOperation:0.16
+QueryResultSingleResultCallback:0.15444444444444444
+CommandResultSingleResultCallback:0.11333333333333333
+MapReduceInlineResultsAsyncCursor:0.06333333333333334

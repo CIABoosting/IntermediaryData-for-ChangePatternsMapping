@@ -1,0 +1,14 @@
+SimpleRouteMatcher:0.5133333333333333
+RouteContext:0.39
+MatcherFilter:0.3566666666666667
+StaticFiles:0.23333333333333334
+TemplateViewRouteImpl:0.1865
+Routes:0.1861111111111111
+ResponseTransformerRouteImpl:0.18265656565656563
+SparkFilter:0.14
+AfterFilters:0.11
+BeforeFilters:0.11
+EmbeddedJettyFactory:0.1
+EmbeddedServerFactory:0.06333333333333334
+EmbeddedServers:0.0225
+SingletonHolder:0.0

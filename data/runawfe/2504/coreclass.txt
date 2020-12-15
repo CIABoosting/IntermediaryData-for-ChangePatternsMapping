@@ -1,0 +1,15 @@
+JbpmExecutionLogic:0.53
+GraphSession:0.29
+JbpmDefinitionLogic:0.22666666666666666
+ProcessState:0.21333333333333335
+StartedSubprocesses:0.21333333333333335
+ShowHistoryFormTag:0.20666666666666667
+GraphConverter:0.20666666666666667
+JbpmCommonLogic:0.20083333333333334
+RestorePassedTransitionsFromLog:0.15666666666666668
+TaskCacheCtrl:0.14666666666666667
+TaskAssigner:0.04
+PeriodicChecker:0.03
+TimersRemover:0.02
+LogMover:0.01
+RestoreSubprocessesFromLog:0.006666666666666667

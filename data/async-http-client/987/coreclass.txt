@@ -1,0 +1,17 @@
+Body:0.5766666666666667
+Part:0.56
+MultipartBody:0.33666666666666667
+StringPart:0.26
+PartBase:0.24333333333333335
+MultipartUtils:0.22666666666666666
+FilePart:0.2253333333333333
+ByteArrayPart:0.212
+FeedableBodyGeneratorTest:0.18666666666666668
+BodyChunkedInput:0.16
+FilePartStallHandler:0.14
+ByteArrayBodyGeneratorTest:0.14
+MultipartBodyTest:0.13
+PushBody:0.06583333333333333
+ByteBody:0.06333333333333334
+InputStreamBody:0.06333333333333334
+StreamedBody:0.05

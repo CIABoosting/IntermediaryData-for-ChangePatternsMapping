@@ -1,0 +1,12 @@
+StochasticProcess:0.36
+Interpolation:0.33666666666666667
+BlackVarianceSurface:0.33666666666666667
+StochasticProcess1D:0.32666666666666666
+Interpolation2D:0.2966666666666667
+Interpolator2D:0.27051984126984113
+Calendar:0.25
+Linear:0.19722222222222224
+GeneralizedBlackScholesProcess:0.17
+EquityOptions:0.09
+BlackScholesMertonProcess:0.07
+BilinearInterpolation:0.04

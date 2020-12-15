@@ -1,0 +1,17 @@
+Builder:0.4033333333333333
+PageDownstreamContext:0.3933333333333333
+JobExecutionContext:0.38
+ExecutionNodesTask:0.21
+ExecutionSubContext:0.20366666666666666
+LuceneDocCollectorTest:0.19
+LocalDataCollectTest:0.18
+LuceneDocCollectorBenchmark:0.17
+JobContextServiceTest:0.15333333333333332
+NodeFetchOperation:0.15
+InnerStarter:0.14333333333333334
+JobExecutionContextTest:0.135
+TransportDistributedResultAction:0.12333333333333334
+InnerPreparer:0.12333333333333334
+RemoveContextCallback:0.1
+NodeFetchOperationTest:0.09666666666666666
+TransportCloseContextNodeAction:0.059166666666666666

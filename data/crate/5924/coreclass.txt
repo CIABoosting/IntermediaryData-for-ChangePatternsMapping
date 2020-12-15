@@ -1,0 +1,16 @@
+ExpressionToObjectVisitor:0.44333333333333336
+Literal:0.42333333333333334
+Formatter:0.31333333333333335
+CreateAnalyzerStatementAnalyzer:0.2633333333333333
+PartitionPropertiesAnalyzer:0.21
+ExpressionToStringVisitor:0.19
+DataStatementAnalyzer:0.18333333333333332
+CreateTableStatementAnalyzer:0.18
+TablePropertiesAnalysis:0.15
+CopyStatementAnalyzer:0.13333333333333333
+ObjectLiteral:0.08
+RefreshTableAnalyzer:0.05333333333333334
+SettingsApplier:0.0425
+BlobTableAnalyzer:0.04
+RefreshIntervalSettingApplier:0.023333333333333334
+NumberOfReplicasSettingApplier:0.0225

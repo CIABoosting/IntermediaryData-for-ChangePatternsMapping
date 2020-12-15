@@ -1,0 +1,55 @@
+Compared Result of  two versions
+Number of New Class: 44
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : groove.lts.AddTransitionListener: 
+new Added class 1 : groove.graph.AdjacencyMapGraph: 
+new Added class 2 : groove.test.graph.AdjacencyMapGraphTest: 
+new Added class 3 : groove.graph.algebra.AlgebraConstants: 
+new Added class 4 : groove.test.graph.AllGraphTests: 
+new Added class 5 : groove.util.AntlrGrapher: 
+new Added class 6 : groove.util.ArrayIterator: 
+new Added class 7 : groove.view.parse.ASTFrame: 
+new Added class 8 : groove.util.ControlledScenario: 
+new Added class 9 : groove.control.CtrlFactory: 
+new Added class 10 : groove.type.DefaultTypeGraph: 
+new Added class 11 : groove.trans.EdgeAnchorFactory: 
+new Added class 12 : groove.util.EmptyCommandLineOption: 
+new Added class 13 : groove.trans.ExistsCondition: 
+new Added class 14 : groove.control.parse.GCLNewChecker: 
+new Added class 15 : groove.control.parse.GCLNewLexer: 
+new Added class 16 : groove.util.HashIntSet: 
+new Added class 17 : groove.util.IntCell: 
+new Added class 18 : groove.test.IntSetSpeedTest: 
+new Added class 19 : groove.explore.result.InvariantViolatedAcceptor: 
+new Added class 20 : groove.explore.prettyparse.KeywordParser: 
+new Added class 21 : groove.view.parse.Label0Checker: 
+new Added class 22 : groove.view.parse.Label0Lexer: 
+new Added class 23 : groove.view.parse.Label0Parser: 
+new Added class 24 : groove.view.parse.LabelParseTest: 
+new Added class 25 : groove.util.ListEntryIterator: 
+new Added class 26 : groove.util.LongCell: 
+new Added class 27 : groove.verify.LTLFormula: 
+new Added class 28 : groove.util.MinimizedTreeIntSet: 
+new Added class 29 : groove.trans.NodeAnchorFactory: 
+new Added class 30 : groove.graph.NodeEdgeMapGraph: 
+new Added class 31 : groove.test.graph.NodeSetEdgeMapGraphTest: 
+new Added class 32 : groove.graph.NodeSetLabelEdgeMapGraph: 
+new Added class 33 : groove.gui.layout.NoLayouter: 
+new Added class 34 : groove.explore.result.PropertyAcceptor: 
+new Added class 35 : groove.io.RuleList: 
+new Added class 36 : groove.explore.result.RuleProperty: 
+new Added class 37 : groove.test.SetSpeedTest: 
+new Added class 38 : groove.util.SingularIterator: 
+new Added class 39 : groove.util.SplitTreeIntSet: 
+new Added class 40 : groove.util.StackedMap: 
+new Added class 41 : groove.test.StackedMapTest: 
+new Added class 42 : groove.test.verify.TemporalFormulaTest: 
+new Added class 43 : groove.util.Tokenizer: 
+testing relationship 
+class 4  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 31£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  2   7 :  0   8 :  0   9 :  0   10 :  0   11 :  9   12 :  0   13 :  5   14 :  0   15 :  0   16 :  0   17 :  0   

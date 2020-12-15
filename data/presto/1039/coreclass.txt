@@ -1,0 +1,12 @@
+OrcRecordReader:0.42
+StatisticsBuilder:0.33666666666666667
+WriteChecksumBuilder:0.27
+OrcWriteValidation:0.2
+StatisticsValidation:0.18833333333333332
+BooleanStatisticsBuilder:0.13861111111111113
+DoubleStatisticsBuilder:0.13861111111111113
+LongDecimalStatisticsBuilder:0.13333333333333333
+SliceColumnStatisticsBuilder:0.07666666666666666
+LongValueStatisticsBuilder:0.07666666666666666
+ColumnStatisticsValidation:0.05
+CountStatisticsBuilder:0.006666666666666667

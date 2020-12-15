@@ -1,0 +1,13 @@
+ParserInterpreter:0.5
+LeftRecursiveRule:0.45
+DFA:0.36666666666666664
+Parser:0.36
+StarLoopEntryState:0.333
+RuleStartState:0.333
+ATNSerializer:0.22
+ATNDeserializer:0.21666666666666667
+ParserATNFactory:0.21333333333333335
+InterpreterRuleContext:0.19
+Trees:0.15
+DOTGenerator:0.15
+TestATNParserPrediction:0.14666666666666667

@@ -1,0 +1,11 @@
+TestQueries:0.4633333333333333
+LocalExecutionPlanner:0.4066666666666667
+FunctionInfo:0.3933333333333333
+LongAverageFixedWidthAggregation:0.2966666666666667
+Visitor:0.2611111111111111
+NewHashAggregationBenchmark:0.16777777777777778
+FunctionRegistry:0.10333333333333333
+SplitWorker:0.09
+TestNewHashAggregationOperator:0.09
+NewHashAggregationOperator:0.03
+AbstractSqlBenchmark:0.006666666666666667

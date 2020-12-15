@@ -1,0 +1,11 @@
+MovableDataSource:0.5326666666666667
+MboxCrawler:0.43666666666666665
+AbstractJavaMailCrawler:0.38
+FileAccessor:0.3466666666666667
+CrawlerBase:0.25666666666666665
+MboxDataSourceFactory:0.21333333333333335
+FileSystemCrawler:0.16333333333333333
+FileSystemDataSourceFactory:0.08
+TestFileSystemDataSource:0.06311111111111112
+TestMboxCrawlerMovingFolder:0.04666666666666667
+TestMovingFoldersFileSystemCrawler:0.04666666666666667

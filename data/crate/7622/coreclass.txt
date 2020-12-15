@@ -1,0 +1,14 @@
+TransportSQLActionTest:0.4666666666666667
+GroupByRow:0.4266666666666667
+GroupByKey:0.3333333333333333
+SQLGroupByResult:0.3233333333333333
+TransportSQLReduceHandler:0.28
+DummyGroupKeyLookup:0.2305555555555555
+AsyncBroadcastAction:0.19333333333333333
+SQLGroupingCollector:0.16333333333333333
+GroupByRowComparator:0.16333333333333333
+TransportDistributedSQLAction:0.16
+RecievePartialResultHandler:0.06
+SQLReduceJobStatusTest:0.06
+SQLGroupByResultTest:0.05333333333333334
+SQLGroupingCollectorTest:0.05333333333333334

@@ -1,0 +1,13 @@
+ATNSimulator:0.5333333333333333
+LexerATNSimulator:0.5133333333333333
+ParserATNSimulator:0.45
+TestATNParserPrediction:0.2
+DummyParser:0.2
+TestPerformance:0.19666666666666666
+BaseTest:0.19333333333333333
+TestGraphNodes:0.19
+TestATNInterpreter:0.17666666666666667
+ParserInterpreter:0.16666666666666666
+TestJavaLR:0.14333333333333334
+LexerInterpreter:0.12333333333333334
+PredictionContextCache:0.02666666666666667

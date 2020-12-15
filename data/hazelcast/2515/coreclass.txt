@@ -1,0 +1,14 @@
+QueueContainer:0.35333333333333333
+DefaultRecordStore:0.3333333333333333
+TestQueueStore:0.31666666666666665
+ClientMapNearCacheTest:0.30333333333333334
+RingbufferContainer:0.29333333333333333
+RingbufferAbstractTest:0.2833333333333333
+NearCacheTest:0.2733333333333333
+EvictionChecker:0.25333333333333335
+QueueStoreTest:0.24666666666666667
+NearCacheDataRecordStore:0.23666666666666666
+ExpirationTimeTest:0.22
+RingbufferBasicDistributedTest:0.16
+NearCacheObjectRecordStore:0.15333333333333332
+ConfigConstructor:0.03666666666666667

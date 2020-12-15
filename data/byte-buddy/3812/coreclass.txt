@@ -1,0 +1,13 @@
+ByteBuddy:0.35333333333333333
+Default:0.33
+MethodAnnotationTarget:0.29333333333333333
+Factory:0.27666666666666667
+RebaseInstrumentationTarget:0.24666666666666667
+RebaseInstrumentationTargetTest:0.21666666666666667
+SubclassDynamicTypeBuilder:0.18
+TypeWriter:0.16111111111111112
+RebasedMethodSpecialMethodInvocation:0.15333333333333332
+ByteBuddyTest:0.11333333333333333
+OptionalMethodInterception:0.11
+RebaseInstrumentationTargetFactoryTest:0.05
+RebasedMethodSpecialMethodInvocationTest:0.013333333333333334

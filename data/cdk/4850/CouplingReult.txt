@@ -1,0 +1,186 @@
+Compared Result of  two versions
+Number of New Class: 89
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.test.applications.undoredo.AddHydrogenEditTest: 
+new Added class 1 : org.openscience.cdk.iupac.generator.tools.AdjacencyMatrixTools: 
+new Added class 2 : org.openscience.cdk.ringsearch.AllRingsFinder: 
+new Added class 3 : org.openscience.cdk.AminoAcid: 
+new Added class 4 : org.openscience.cdk.interfaces.AtomContainer: 
+new Added class 5 : org.openscience.cdk.test.AtomContainerTest: 
+new Added class 6 : org.openscience.cdk.qsar.AtomDegreeDescriptor: 
+new Added class 7 : org.openscience.cdk.qsar.AtomHybridizationDescriptor: 
+new Added class 8 : org.openscience.cdk.qsar.AtomHybridizationVSEPRDescriptor: 
+new Added class 9 : org.openscience.cdk.geometry.AtomTools: 
+new Added class 10 : org.openscience.cdk.tools.AtomTypeTools: 
+new Added class 11 : org.openscience.cdk.qsar.BondsToAtomDescriptor: 
+new Added class 12 : org.openscience.cdk.test.tools.BremserPredictorTest: 
+new Added class 13 : org.openscience.cdk.test.applications.undoredo.ChangeAtomSymbolEditTest: 
+new Added class 14 : org.openscience.cdk.test.applications.undoredo.ChangeChargeEditTest: 
+new Added class 15 : org.openscience.cdk.test.applications.undoredo.ChangeCoordsEditTest: 
+new Added class 16 : org.openscience.cdk.test.applications.undoredo.ChangeIsotopeEditTest: 
+new Added class 17 : org.openscience.cdk.io.cml.ChemFileCDO: 
+new Added class 18 : org.openscience.cdk.test.io.cml.CMLRoundTripTest: 
+new Added class 19 : org.openscience.cdk.graph.invariant.ConjugatedPiSystemsDetector: 
+new Added class 20 : org.openscience.cdk.graph.ConnectivityChecker: 
+new Added class 21 : org.openscience.cdk.test.graph.ConnectivityCheckerTest: 
+new Added class 22 : org.openscience.cdk.test.applications.undoredo.ConvertToPseudoAtomEditTest: 
+new Added class 23 : org.openscience.cdk.test.applications.undoredo.ConvertToRadicalEditTest: 
+new Added class 24 : org.openscience.cdk.test.io.CrystClustReaderTest: 
+new Added class 25 : org.openscience.cdk.io.CrystClustWriter: 
+new Added class 26 : org.openscience.cdk.qsar.DistanceToAtomDescriptor: 
+new Added class 27 : org.openscience.cdk.qsar.EffectivePolarizabilityDescriptor: 
+new Added class 28 : org.openscience.cdk.structgen.deterministic.EquivalentClassesDeterministicGenerator: 
+new Added class 29 : org.openscience.cdk.test.structgen.deterministic.EquivalentClassesDeterministicGeneratorTest: 
+new Added class 30 : org.openscience.cdk.io.iterator.event.EventChemFileCDO: 
+new Added class 31 : org.openscience.cdk.ringsearch.FiguerasSSSRFinder: 
+new Added class 32 : org.openscience.cdk.modeling.builder3d.ForceFieldConfigurator: 
+new Added class 33 : org.openscience.cdk.test.modeling.forcefield.ForceFieldTests: 
+new Added class 34 : org.openscience.cdk.modeling.forcefield.ForceFieldTools: 
+new Added class 35 : org.openscience.cdk.iupac.generator.FragmentWithAtomicValencies: 
+new Added class 36 : org.openscience.cdk.io.Gaussian03Reader: 
+new Added class 37 : org.openscience.cdk.io.Gaussian98Reader: 
+new Added class 38 : org.openscience.cdk.test.io.GhemicalReaderTest: 
+new Added class 39 : org.openscience.cdk.test.atomtype.HybridizationStateATMatcherTest: 
+new Added class 40 : org.openscience.cdk.layout.HydrogenPlacer: 
+new Added class 41 : org.openscience.cdk.io.ichi.IChIHandler: 
+new Added class 42 : org.openscience.cdk.io.inchi.INChIContentProcessorTool: 
+new Added class 43 : org.openscience.cdk.qsar.InductiveAtomicHardnessDescriptor: 
+new Added class 44 : org.openscience.cdk.qsar.InductiveAtomicSoftnessDescriptor: 
+new Added class 45 : org.openscience.cdk.charges.InductivePartialCharges: 
+new Added class 46 : org.openscience.cdk.isomorphism.IsomorphismTester: 
+new Added class 47 : org.openscience.cdk.qsar.IsProtonInAromaticSystemDescriptor: 
+new Added class 48 : org.openscience.cdk.qsar.IsProtonInConjugatedPiSystemDescriptor: 
+new Added class 49 : org.openscience.cdk.iupac.generator.IUPACNameGenerator: 
+new Added class 50 : org.openscience.cdk.LonePair: 
+new Added class 51 : org.openscience.cdk.test.io.MDLReaderTest: 
+new Added class 52 : org.openscience.cdk.io.MDLV3000Reader: 
+new Added class 53 : org.openscience.cdk.tools.MFAnalyser: 
+new Added class 54 : org.openscience.cdk.test.tools.MFAnalyserTest: 
+new Added class 55 : org.openscience.cdk.iupac.parser.MoleculeBuilder: 
+new Added class 56 : org.openscience.cdk.qsar.MomentOfInertiaDescriptor: 
+new Added class 57 : org.openscience.cdk.tools.Normalizer: 
+new Added class 58 : org.openscience.cdk.test.smiles.smarts.ParserTest: 
+new Added class 59 : org.openscience.cdk.structgen.stochastic.PartialFilledStructureMerger: 
+new Added class 60 : org.openscience.cdk.graph.PathTools: 
+new Added class 61 : org.openscience.cdk.test.graph.PathToolsTest: 
+new Added class 62 : org.openscience.cdk.test.io.PDBReaderTest: 
+new Added class 63 : org.openscience.cdk.qsar.PiContactDetectionDescriptor: 
+new Added class 64 : org.openscience.cdk.io.PMPReader: 
+new Added class 65 : org.openscience.cdk.charges.Polarizability: 
+new Added class 66 : org.openscience.cdk.qsar.ProtonTotalPartialChargeDescriptor: 
+new Added class 67 : org.openscience.cdk.PseudoAtom: 
+new Added class 68 : org.openscience.cdk.structgen.RandomGenerator: 
+new Added class 69 : org.openscience.cdk.test.qsar.RDFProtonDescriptorTest: 
+new Added class 70 : org.openscience.cdk.RingSet: 
+new Added class 71 : org.openscience.cdk.iupac.generator.sectionc.Rule102dot1: 
+new Added class 72 : org.openscience.cdk.iupac.generator.sectionc.Rule103dot1: 
+new Added class 73 : org.openscience.cdk.iupac.generator.sectiona.Rule2dot2: 
+new Added class 74 : org.openscience.cdk.tools.SaturationChecker: 
+new Added class 75 : org.openscience.cdk.test.limitations.tools.SaturationCheckerTest: 
+new Added class 76 : org.openscience.cdk.io.ShelXWriter: 
+new Added class 77 : org.openscience.cdk.structgen.SingleStructureRandomGenerator: 
+new Added class 78 : org.openscience.cdk.test.structgen.SingleStructureRandomGeneratorTest: 
+new Added class 79 : org.openscience.cdk.smiles.SmilesGenerator: 
+new Added class 80 : org.openscience.cdk.test.smiles.SmilesGeneratorTest: 
+new Added class 81 : org.openscience.cdk.test.smiles.SmilesParserTest: 
+new Added class 82 : org.openscience.cdk.layout.StructureDiagramGenerator: 
+new Added class 83 : org.openscience.cdk.layout.TemplateHandler: 
+new Added class 84 : org.openscience.cdk.modeling.builder3d.TemplateHandler3D: 
+new Added class 85 : org.openscience.cdk.isomorphism.UniversalIsomorphismTester: 
+new Added class 86 : org.openscience.cdk.test.io.VASPReaderTest: 
+new Added class 87 : org.openscience.cdk.structgen.VicinitySampler: 
+new Added class 88 : org.openscience.cdk.test.structgen.VicinitySamplerTest: 
+testing relationship 
+class 0  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 82£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:1  r15:0  r16:1  r17:0  
+class 2  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:3  r12:0  r13:3  r14:7  r15:0  r16:11  r17:0  
+class 2  vs  class 70£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:0  r3:5  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:52  r12:0  r13:99  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:65  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:11  r14:1  r15:0  r16:4  r17:0  
+class 10  vs  class 70£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 79£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:30  r9:0  r10:6  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 67£º  r0:0  r1:0  r2:0  r3:1  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 67£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:7  r14:2  r15:0  r16:10  r17:0  
+class 19  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:10  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 67£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:4  r12:0  r13:1  r14:1  r15:0  r16:0  r17:0  
+class 29  vs  class 28£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 82£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:5  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 67£º  r0:0  r1:0  r2:0  r3:1  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 70£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 32  vs  class 67£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 70£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:11  r9:0  r10:5  r11:0  r12:0  r13:0  r14:7  r15:0  r16:1  r17:0  
+class 33  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:9  r17:0  
+class 35  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 36  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:5  r14:4  r15:0  r16:3  r17:0  
+class 42  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:1  r15:0  r16:3  r17:0  
+class 45  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:14  r15:0  r16:10  r17:0  
+class 49  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:0  r14:4  r15:0  r16:8  r17:0  
+class 49  vs  class 35£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 49  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:6  r17:0  
+class 52  vs  class 67£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:7  r9:0  r10:2  r11:13  r12:0  r13:11  r14:2  r15:0  r16:2  r17:0  
+class 54  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 54  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:28  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:2  r17:0  
+class 59  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:10  r9:0  r10:8  r11:2  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 59  vs  class 74£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:6  r15:0  r16:12  r17:0  
+class 64  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 65  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:1  r15:0  r16:11  r17:0  
+class 68  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:17  r17:0  
+class 71  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:2  r17:0  
+class 72  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:2  r17:0  
+class 73  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:2  r15:0  r16:5  r17:0  
+class 74  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:4  r14:25  r15:0  r16:22  r17:0  
+class 74  vs  class 67£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 74  vs  class 70£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 75  vs  class 70£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 75  vs  class 74£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 77  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:7  r9:0  r10:9  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 77  vs  class 74£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 78  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 78  vs  class 77£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 78  vs  class 82£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 79  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 79  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:6  r14:35  r15:0  r16:84  r17:0  
+class 79  vs  class 67£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 79  vs  class 70£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:7  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 80  vs  class 4£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 80  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 80  vs  class 79£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-7  r12:0  r13:59  r14:0  r15:0  r16:0  r17:0  
+class 80  vs  class 82£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 81  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 81  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 81  vs  class 67£º  r0:0  r1:0  r2:0  r3:0  r4:4  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 81  vs  class 82£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:12  r14:0  r15:0  r16:0  r17:0  
+class 82  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:31  r12:0  r13:13  r14:0  r15:0  r16:0  r17:0  
+class 82  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 82  vs  class 70£º  r0:0  r1:0  r2:0  r3:7  r4:0  r5:1  r6:0  r7:0  r8:9  r9:0  r10:0  r11:9  r12:0  r13:1  r14:9  r15:0  r16:0  r17:0  
+class 82  vs  class 83£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 83  vs  class 4£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 84  vs  class 4£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:4  r15:0  r16:1  r17:0  
+class 85  vs  class 4£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:3  r14:24  r15:0  r16:27  r17:0  
+class 87  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:2  r15:0  r16:25  r17:0  
+class 87  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 88  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 88  vs  class 79£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 88  vs  class 82£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 88  vs  class 87£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  35   4 :  16   5 :  29   6 :  2   7 :  0   8 :  113   9 :  0   10 :  53   11 :  366   12 :  0   13 :  317   14 :  167   15 :  0   16 :  280   17 :  0   

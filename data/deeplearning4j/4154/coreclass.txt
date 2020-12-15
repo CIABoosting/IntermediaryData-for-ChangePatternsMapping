@@ -1,0 +1,12 @@
+ParameterAveragingTrainingMaster:0.53
+SparkDl4jMultiLayer:0.48
+ParameterAveragingTrainingWorker:0.31333333333333335
+SparkComputationGraph:0.2733333333333333
+Builder:0.2375
+TestCompareParameterAveragingSparkVsSingleMachine:0.20666666666666667
+CudnnConvolutionHelper:0.14333333333333334
+CudnnLocalResponseNormalizationHelper:0.11
+CudnnBatchNormalizationHelper:0.11
+CudnnSubsamplingHelper:0.11
+ParameterAveragingElementCombineFunction:0.05861111111111112
+ParameterAveragingElementAddFunction:0.05861111111111112

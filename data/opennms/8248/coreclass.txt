@@ -1,0 +1,13 @@
+TrapdIpMgr:0.5883333333333334
+Trapd:0.56
+TrapHandlerTest:0.44
+Eventd:0.4033333333333333
+TrapQueueProcessor:0.32666666666666666
+BroadcastEventProcessor:0.28
+EventdTest:0.2
+EventCreator:0.19666666666666666
+OpenNmsDaemonApplicationContextTest:0.14333333333333334
+EventdSpringTest:0.14333333333333334
+TrapdTest:0.09333333333333334
+JdbcTrapdIpMgr:0.04
+MockTrapdIpMgr:0.006666666666666667

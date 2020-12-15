@@ -1,0 +1,12 @@
+MongoConnection:0.5466666666666666
+DelegatingMongoConnector:0.44
+MongoSyncConnection:0.38
+NativeAuthenticator:0.32
+MongoAsyncConnection:0.31333333333333335
+SaslAuthenticator:0.22
+MongoNamespace:0.18105555555555555
+GSSAPIAuthenticator:0.14333333333333334
+Authenticator:0.14333333333333334
+MongoAsyncConnectionTest:0.09
+MongoSyncConnectionTest:0.09
+AbstractMongoConnectorTest:0.07

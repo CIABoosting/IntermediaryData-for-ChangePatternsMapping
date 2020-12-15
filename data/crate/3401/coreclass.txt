@@ -1,0 +1,12 @@
+BulkShardProcessor:0.52
+Builder:0.28
+BulkShardProcessorTest:0.27666666666666667
+BulkRetryCoordinator:0.25666666666666665
+UpsertByIdTask:0.17666666666666667
+UpdateProjector:0.12
+IndexWriterProjector:0.12
+UpsertByIdContext:0.11333333333333333
+BulkRequestExecutor:0.09
+RetryBulkActionListener:0.07
+UpsertByIdContextTest:0.04
+BulkRequestBuilder:0.0

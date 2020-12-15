@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 11
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : net.bioclipse.ui.views.ActionHistoryView: 
+new Added class 1 : net.bioclipse.ui.Activator: 
+new Added class 2 : net.bioclipse.biojava.business.BiojavaManager: 
+new Added class 3 : net.bioclipse.biojava.domain.BiojavaSequence: 
+new Added class 4 : net.bioclipse.core.domain.BioList: 
+new Added class 5 : net.bioclipse.recording.History: 
+new Added class 6 : net.bioclipse.biojava.business.IBiojavaManager: 
+new Added class 7 : net.bioclipse.recording.IHistoryListener: 
+new Added class 8 : net.bioclipse.core.util.LogUtils: 
+new Added class 9 : net.bioclipse.recording.RecordingAdvice: 
+new Added class 10 : net.bioclipse.biojava.domain.StringUtils: 
+testing relationship 
+class 0  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:5  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 2  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 6  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:5  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  0   4 :  0   5 :  10   6 :  1   7 :  0   8 :  1   9 :  0   10 :  2   11 :  0   12 :  0   13 :  0   14 :  3   15 :  0   16 :  1   17 :  0   

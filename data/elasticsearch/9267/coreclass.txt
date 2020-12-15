@@ -1,0 +1,12 @@
+SpanTermQueryBuilder:0.6841666666666667
+EmptyQueryBuilder:0.63
+GeoBoundingBoxQueryBuilder:0.32911111111111113
+RandomQueryBuilder:0.22916666666666666
+SearchSourceBuilderTests:0.18666666666666668
+NestedQueryBuilderTests:0.17333333333333334
+IndicesQueryBuilderTests:0.14
+SpanNotQueryBuilderTests:0.14
+HasParentQueryBuilderTests:0.13333333333333333
+SpanWithinQueryBuilderTests:0.12333333333333334
+SpanContainingQueryBuilderTests:0.12333333333333334
+SpanNearQueryBuilderTests:0.11666666666666667

@@ -1,0 +1,14 @@
+Query:0.5066666666666667
+QuerySpecification:0.3
+EvaluatingNormalizer:0.21333333333333335
+Formatter:0.19333333333333333
+TestSqlParser:0.19
+StatementAnalyzer:0.17
+ShowPartitions:0.12333333333333334
+AnalyzerTest:0.12
+TestSysNodesExpressions:0.10666666666666667
+TestStatementBuilder:0.07444444444444444
+TestModule:0.07
+NodeIdExpression:0.043333333333333335
+NodeNameExpression:0.043333333333333335
+TestMetaDataModule:0.03666666666666667

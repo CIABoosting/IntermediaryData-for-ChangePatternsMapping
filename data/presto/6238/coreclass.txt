@@ -1,0 +1,14 @@
+HiveMetadata:0.5966666666666667
+HiveSplitManager:0.5733333333333334
+HiveConnector:0.48
+HivePageSourceProvider:0.46
+NoAccessControl:0.33666666666666667
+SqlStandardAccessControl:0.31
+AbstractTestHiveClient:0.29333333333333333
+ReadOnlyAccessControl:0.29
+HivePageSinkProvider:0.2833333333333333
+TestHivePageSink:0.22333333333333333
+HiveHandleResolver:0.17333333333333334
+AbstractTestHiveClientS3:0.15
+HiveClientModule:0.11
+TestHiveConnectorFactory:0.02

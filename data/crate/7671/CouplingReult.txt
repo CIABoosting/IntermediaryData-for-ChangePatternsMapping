@@ -1,0 +1,36 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.cratedb.sql.parser.parser.CopyStatementNode: 
+new Added class 1 : org.cratedb.action.parser.visitors.DispatchingVisitor: 
+new Added class 2 : org.cratedb.action.parser.ESRequestBuilder: 
+new Added class 3 : org.cratedb.action.import_.ImportContext: 
+new Added class 4 : org.cratedb.import_.Importer: 
+new Added class 5 : org.cratedb.action.import_.parser.ImportParser: 
+new Added class 6 : org.cratedb.action.parser.visitors.InsertVisitor: 
+new Added class 7 : org.cratedb.action.import_.NodeImportResponse: 
+new Added class 8 : org.cratedb.sql.parser.unparser.NodeToString: 
+new Added class 9 : org.cratedb.action.sql.ParsedStatement: 
+new Added class 10 : org.cratedb.module.import_.test.RestImportActionTest: 
+new Added class 11 : org.cratedb.action.restore.parser.RestoreParser: 
+new Added class 12 : org.cratedb.sql.parser.parser.SQLGrammar: 
+new Added class 13 : org.cratedb.service.SQLParseService: 
+new Added class 14 : org.cratedb.action.parser.SQLResponseBuilder: 
+new Added class 15 : org.cratedb.action.sql.TransportSQLAction: 
+new Added class 16 : org.cratedb.integrationtests.TransportSQLActionTest: 
+testing relationship 
+class 1  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:1  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 2  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:14  r9:0  r10:11  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:1  r16:5  r17:0  
+class 5  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:1  r17:0  
+class 6  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 8  vs  class 0£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:7  r15:0  r16:17  r17:0  
+class 11  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:5  r16:6  r17:0  
+class 12  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:8  r17:0  
+class 13  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 14  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:9  r9:0  r10:4  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 15  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:12  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:16  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  1   4 :  0   5 :  3   6 :  0   7 :  0   8 :  24   9 :  1   10 :  18   11 :  28   12 :  0   13 :  15   14 :  23   15 :  6   16 :  37   17 :  0   

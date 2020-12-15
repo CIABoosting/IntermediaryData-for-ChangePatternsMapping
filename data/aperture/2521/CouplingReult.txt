@@ -1,0 +1,222 @@
+Compared Result of  two versions
+Number of New Class: 131
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.semanticdesktop.aperture.addressbook.AbstractAddressbookCrawlerTest: 
+new Added class 1 : org.semanticdesktop.aperture.subcrawler.base.AbstractArchiverSubCrawler: 
+new Added class 2 : org.semanticdesktop.aperture.crawler.mail.AbstractDataObjectFactoryTest: 
+new Added class 3 : org.semanticdesktop.aperture.mime.identifier.AbstractIdentificationTest: 
+new Added class 4 : org.semanticdesktop.aperture.subcrawler.base.AbstractSubCrawler: 
+new Added class 5 : org.semanticdesktop.aperture.accessor.base.AccessDataTest: 
+new Added class 6 : org.semanticdesktop.aperture.addressbook.AddressbookCrawler: 
+new Added class 7 : org.semanticdesktop.aperture.tika.ApertureDetector: 
+new Added class 8 : org.semanticdesktop.aperture.runtime.ApertureRuntime: 
+new Added class 9 : org.semanticdesktop.aperture.runtime.ApertureRuntimeTest: 
+new Added class 10 : org.semanticdesktop.aperture.subcrawler.ArchiveSubCrawlerTestBase: 
+new Added class 11 : org.semanticdesktop.aperture.util.ArrayMap: 
+new Added class 12 : org.semanticdesktop.aperture.subcrawler.base.BasicSubCrawlerHandler: 
+new Added class 13 : org.semanticdesktop.aperture.websites.bibsonomy.BibsonomyCrawler: 
+new Added class 14 : org.semanticdesktop.aperture.util.ByteArrayCharSequence: 
+new Added class 15 : org.semanticdesktop.aperture.security.trustdecider.dialog.CertificateDialog: 
+new Added class 16 : org.semanticdesktop.aperture.subcrawler.compress.CompressSubCrawler: 
+new Added class 17 : org.semanticdesktop.aperture.subcrawler.compress.CompressSubCrawlerTest: 
+new Added class 18 : org.semanticdesktop.aperture.accessor.base.CountingInputStream: 
+new Added class 19 : org.semanticdesktop.aperture.accessor.base.CountingInputStreamTest: 
+new Added class 20 : org.semanticdesktop.aperture.crawler.web.CrawlJob: 
+new Added class 21 : org.semanticdesktop.aperture.crawler.base.CrawlReportBase: 
+new Added class 22 : org.semanticdesktop.aperture.accessor.DataAccessor: 
+new Added class 23 : org.semanticdesktop.aperture.accessor.base.DataObjectBase: 
+new Added class 24 : org.semanticdesktop.aperture.security.trustdecider.Decision: 
+new Added class 25 : org.semanticdesktop.aperture.crawler.impl.DefaultCrawlerRegistry: 
+new Added class 26 : org.semanticdesktop.aperture.accessor.impl.DefaultDataAccessorRegistry: 
+new Added class 27 : org.semanticdesktop.aperture.detector.impl.DefaultDataSourceDetectorRegistry: 
+new Added class 28 : org.semanticdesktop.aperture.datasource.impl.DefaultDataSourceRegistry: 
+new Added class 29 : org.semanticdesktop.aperture.extractor.impl.DefaultExtractorRegistry: 
+new Added class 30 : org.semanticdesktop.aperture.hypertext.linkextractor.impl.DefaultLinkExtractorRegistry: 
+new Added class 31 : org.semanticdesktop.aperture.mime.identifier.impl.DefaultMimeTypeIdentifierRegistry: 
+new Added class 32 : org.semanticdesktop.aperture.websites.delicious.DeliciousCrawler: 
+new Added class 33 : org.semanticdesktop.aperture.extractor.excel.ExcelExtractorTest: 
+new Added class 34 : org.semanticdesktop.aperture.crawler.ExitCode: 
+new Added class 35 : org.semanticdesktop.aperture.accessor.base.FileAccessData: 
+new Added class 36 : org.semanticdesktop.aperture.opener.file.FileOpener: 
+new Added class 37 : org.semanticdesktop.aperture.crawler.filesystem.FileSystemCrawler: 
+new Added class 38 : org.semanticdesktop.aperture.websites.flickr.FlickrCrawler: 
+new Added class 39 : org.semanticdesktop.aperture.subcrawler.gzip.GZipSubCrawlerTest: 
+new Added class 40 : org.semanticdesktop.aperture.extractor.html.HtmlExtractor: 
+new Added class 41 : org.semanticdesktop.aperture.extractor.html.HtmlExtractorTest: 
+new Added class 42 : org.semanticdesktop.aperture.hypertext.linkextractor.html.HtmlLinkExtractorTest: 
+new Added class 43 : org.semanticdesktop.aperture.helper.html.HtmlParserUtil: 
+new Added class 44 : org.semanticdesktop.aperture.opener.http.HttpOpenerFactory: 
+new Added class 45 : org.semanticdesktop.aperture.crawler.ical.IcalCrawler: 
+new Added class 46 : org.semanticdesktop.aperture.crawler.ical.bundle.IcalCrawlerActivator: 
+new Added class 47 : org.semanticdesktop.aperture.crawler.ical.IcalSubCrawlerTest: 
+new Added class 48 : org.semanticdesktop.aperture.tika.IdentificationTestCase: 
+new Added class 49 : org.semanticdesktop.aperture.crawler.imap.ImapCrawler: 
+new Added class 50 : org.semanticdesktop.aperture.crawler.imap.ImapStreamPool: 
+new Added class 51 : org.semanticdesktop.aperture.rdf.util.InferenceUtilTest: 
+new Added class 52 : org.semanticdesktop.aperture.util.ListMap: 
+new Added class 53 : org.semanticdesktop.aperture.crawler.mbox.MboxCrawler: 
+new Added class 54 : org.semanticdesktop.aperture.subcrawler.mbox.bundle.MboxSubCrawlerActivator: 
+new Added class 55 : org.semanticdesktop.aperture.extractor.mime.MimeExtractor: 
+new Added class 56 : org.semanticdesktop.aperture.extractor.mp3.MP3FileExtractor: 
+new Added class 57 : org.semanticdesktop.aperture.rdf.MultipleValuesException: 
+new Added class 58 : org.semanticdesktop.aperture.crawler.NativeTest: 
+new Added class 59 : org.semanticdesktop.aperture.extractor.office.OfficeExtractorTest: 
+new Added class 60 : org.semanticdesktop.aperture.extractor.poiooxml.OOXMLExcelExtractorFactory: 
+new Added class 61 : org.semanticdesktop.aperture.extractor.poiooxml.OOXMLPowerPointExtractorFactory: 
+new Added class 62 : org.semanticdesktop.aperture.extractor.poiooxml.OOXMLWordExtractorFactory: 
+new Added class 63 : org.semanticdesktop.aperture.extractor.openxml.OpenXmlExtractor: 
+new Added class 64 : org.semanticdesktop.aperture.outlook.OutlookCrawler: 
+new Added class 65 : org.semanticdesktop.aperture.outlook.OutlookResource: 
+new Added class 66 : org.semanticdesktop.aperture.extractor.pdf.PdfExtractor: 
+new Added class 67 : org.semanticdesktop.aperture.extractor.pdf.PdfExtractorTest: 
+new Added class 68 : org.semanticdesktop.aperture.extractor.poiooxml.PoiOOXmlExtractor: 
+new Added class 69 : org.semanticdesktop.aperture.extractor.microsoft.util.PoiUtil: 
+new Added class 70 : org.semanticdesktop.aperture.extractor.presentations.PresentationsExtractor: 
+new Added class 71 : org.semanticdesktop.aperture.extractor.publisher.PublisherExtractor: 
+new Added class 72 : org.semanticdesktop.aperture.datasource.config.RegExpPattern: 
+new Added class 73 : org.semanticdesktop.aperture.util.RegistryReader: 
+new Added class 74 : org.semanticdesktop.aperture.crawler.samba.SambaCrawlerFactory: 
+new Added class 75 : org.semanticdesktop.aperture.crawler.samba.SambaCrawlerTest: 
+new Added class 76 : org.semanticdesktop.aperture.util.SimpleSAXParser: 
+new Added class 77 : org.semanticdesktop.aperture.security.socketfactory.standard.StandardSocketFactory: 
+new Added class 78 : org.semanticdesktop.aperture.tika.StreamingZipContainerDetector: 
+new Added class 79 : org.semanticdesktop.aperture.util.StreamMonitor: 
+new Added class 80 : org.semanticdesktop.aperture.test.subcrawler.SubCrawlerTestBase: 
+new Added class 81 : org.semanticdesktop.aperture.datasource.config.SubstringCondition: 
+new Added class 82 : org.semanticdesktop.aperture.datasource.config.SubstringPattern: 
+new Added class 83 : org.semanticdesktop.aperture.websites.Tag: 
+new Added class 84 : org.semanticdesktop.aperture.subcrawler.tar.TarSubCrawlerTest: 
+new Added class 85 : org.semanticdesktop.aperture.accessor.base.TestAccessDataImpl: 
+new Added class 86 : org.semanticdesktop.aperture.datasource.config.TestConfigurationUtil: 
+new Added class 87 : org.semanticdesktop.aperture.crawler.impl.TestDefaultCrawlerRegistry: 
+new Added class 88 : org.semanticdesktop.aperture.datasource.config.TestDomainBoundaries: 
+new Added class 89 : org.semanticdesktop.aperture.accessor.base.TestFileAccessData: 
+new Added class 90 : org.semanticdesktop.aperture.accessor.file.TestFileAccessor: 
+new Added class 91 : org.semanticdesktop.aperture.crawler.filesystem.TestFileSystemCrawler: 
+new Added class 92 : org.semanticdesktop.aperture.crawler.ical.TestIcalCrawler: 
+new Added class 93 : org.semanticdesktop.aperture.crawler.ical.TestIcalCrawlerIncremental: 
+new Added class 94 : org.semanticdesktop.aperture.test.TestIncrementalCrawlerHandler: 
+new Added class 95 : org.semanticdesktop.aperture.mime.identifier.magic.TestMagicMimeTypeIdentifier: 
+new Added class 96 : org.semanticdesktop.aperture.crawler.mbox.TestMboxCrawler: 
+new Added class 97 : org.semanticdesktop.aperture.crawler.mbox.TestMboxCrawlerMovingFolder: 
+new Added class 98 : org.semanticdesktop.aperture.crawler.mbox.TestMboxCrawlerMultiFolder: 
+new Added class 99 : org.semanticdesktop.aperture.accessor.base.TestModelAccessData: 
+new Added class 100 : org.semanticdesktop.aperture.accessor.base.TestNativeStoreModelAccessData: 
+new Added class 101 : org.semanticdesktop.aperture.outlook.TestOutlookCrawlAll: 
+new Added class 102 : org.semanticdesktop.aperture.outlook.TestOutlookCrawler: 
+new Added class 103 : org.semanticdesktop.aperture.subcrawler.TestSubCrawlerUtil: 
+new Added class 104 : org.semanticdesktop.aperture.subcrawler.TestSubCrawlerUtilIntegration: 
+new Added class 105 : org.semanticdesktop.aperture.accessor.base.TestSynchronizedAccessData: 
+new Added class 106 : org.semanticdesktop.aperture.subcrawler.vcard.TestVcardFileCrawlerCombination: 
+new Added class 107 : org.semanticdesktop.aperture.extractor.util.ThreadedExtractorWrapper: 
+new Added class 108 : org.semanticdesktop.aperture.subcrawler.base.ThreadedSubCrawlerWrapper: 
+new Added class 109 : org.semanticdesktop.aperture.addressbook.thunderbird.ThunderbirdCrawler: 
+new Added class 110 : org.semanticdesktop.aperture.tika.TikaMimeTypeIdentifierTest: 
+new Added class 111 : org.semanticdesktop.aperture.extractor.word.TmExtractorsWrapper: 
+new Added class 112 : org.semanticdesktop.aperture.outlook.VariantDate: 
+new Added class 113 : org.semanticdesktop.aperture.subcrawler.vcard.VcardSubCrawler: 
+new Added class 114 : org.semanticdesktop.aperture.subcrawler.vcard.VcardSubCrawlerTest: 
+new Added class 115 : org.semanticdesktop.aperture.crawler.web.WebCrawler: 
+new Added class 116 : org.semanticdesktop.aperture.extractor.word.WordExtractorTest: 
+new Added class 117 : org.semanticdesktop.aperture.extractor.works.WorksExtractor: 
+new Added class 118 : org.semanticdesktop.aperture.extractor.corel.util.WPFilterInputStream: 
+new Added class 119 : org.semanticdesktop.aperture.extractor.corel.util.WPStringExtractor: 
+new Added class 120 : org.semanticdesktop.aperture.x2r.X2RSubCrawlerUtil: 
+new Added class 121 : org.semanticdesktop.aperture.x2r.X2RSubCrawlerUtilTest: 
+new Added class 122 : org.semanticdesktop.aperture.extractor.xml.XmlExtractor: 
+new Added class 123 : org.semanticdesktop.aperture.rdf.util.XmlSafeModelTests: 
+new Added class 124 : org.semanticdesktop.aperture.rdf.util.XmlSafetyUtils: 
+new Added class 125 : org.semanticdesktop.aperture.rdf.util.XmlSafeReader: 
+new Added class 126 : org.semanticdesktop.aperture.rdf.util.XmlSafeWriter: 
+new Added class 127 : org.semanticdesktop.aperture.rdf.util.XmlSafeModel: 
+new Added class 128 : org.semanticdesktop.aperture.rdf.util.XmlSafeRDFContainer: 
+new Added class 129 : org.semanticdesktop.aperture.rdf.util.XmlSafeRDFContainerFactory: 
+new Added class 130 : org.semanticdesktop.aperture.subcrawler.zip.ZipSubCrawlerTest: 
+testing relationship 
+class 0  vs  class 94£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 23£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 80£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 94£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:37  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:5  r9:0  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 21  vs  class 76£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 76£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 76£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 76£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 76£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 76£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 76£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 76£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 11£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 76£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 39  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 45  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 80£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 49  vs  class 22£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 63  vs  class 76£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 64  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 64  vs  class 65£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:4  r14:3  r15:0  r16:1  r17:0  
+class 65  vs  class 64£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:20  r9:0  r10:5  r11:0  r12:0  r13:0  r14:19  r15:0  r16:5  r17:0  
+class 65  vs  class 112£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 82  vs  class 81£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 84  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 85  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 86  vs  class 72£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 86  vs  class 82£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 87  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 89  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 89  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 91  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:20  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 92  vs  class 45£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 92  vs  class 94£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 93  vs  class 45£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 93  vs  class 94£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:30  r12:0  r13:14  r14:0  r15:0  r16:4  r17:0  
+class 96  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 96  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:19  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 96  vs  class 94£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:40  r12:0  r13:23  r14:0  r15:0  r16:0  r17:0  
+class 97  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 97  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 97  vs  class 94£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:31  r12:0  r13:14  r14:0  r15:0  r16:0  r17:0  
+class 98  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 98  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 98  vs  class 94£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:11  r14:0  r15:0  r16:0  r17:0  
+class 99  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 100  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 101  vs  class 64£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 102  vs  class 64£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:10  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 105  vs  class 5£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 105  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 94£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 107  vs  class 79£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 108  vs  class 79£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 109  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 109  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 110  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 110  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 113  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 114  vs  class 80£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 114  vs  class 113£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:39  r12:0  r13:0  r14:0  r15:0  r16:2  r17:0  
+class 115  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 115  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 115  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 124  vs  class 125£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 124  vs  class 126£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 124  vs  class 127£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 124  vs  class 128£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 130  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  16   2 :  1   3 :  6   4 :  8   5 :  18   6 :  0   7 :  0   8 :  49   9 :  0   10 :  48   11 :  309   12 :  0   13 :  126   14 :  25   15 :  0   16 :  12   17 :  0   

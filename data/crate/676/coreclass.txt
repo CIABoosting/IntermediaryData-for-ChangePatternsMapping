@@ -1,0 +1,10 @@
+AlterTableOperation:0.4866666666666667
+TestStatementBuilder:0.42333333333333334
+RerouteOptionVisitor:0.38
+AnalyzedStatementVisitor:0.35
+InnerVisitor:0.3466666666666667
+AstBuilder:0.28
+AstVisitor:0.23666666666666666
+AlterTableOperationTest:0.23333333333333334
+DDLStatementDispatcher:0.08
+AlterTableRerouteAnalyzerTest:0.06666666666666667

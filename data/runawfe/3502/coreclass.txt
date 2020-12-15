@@ -1,0 +1,17 @@
+PermissionDAO:0.8666666666666667
+ExecutorDAO:0.64
+AFDaoHolder:0.5633333333333334
+ExecutorDAOHibernateImpl:0.3333333333333333
+JbpmExecutionLogic:0.24666666666666667
+AuthorizationLogic:0.22166666666666668
+ExecutorLogic:0.19
+CommonLogic:0.18666666666666668
+JbpmCommonLogic:0.18333333333333332
+JbpmDefinitionLogic:0.17
+DAOFactory:0.15666666666666668
+WFInitializerLogic:0.14333333333333334
+TaskStubFactory:0.13
+AFInitializerLogic:0.115
+PermissionDAOHibernateImpl:0.09666666666666666
+SetSubProcessPermissionsActionHandler:0.06666666666666667
+InstancePermissionsHelper:0.05

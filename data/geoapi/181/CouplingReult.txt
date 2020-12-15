@@ -1,0 +1,57 @@
+Compared Result of  two versions
+Number of New Class: 42
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opengis.coverage.grid.ByteInValuePacking: 
+new Added class 1 : org.opengis.coverage.grid.CannotCreateGridCoverageException: 
+new Added class 2 : org.opengis.coverage.CannotEvaluateException: 
+new Added class 3 : org.opengis.coverage.ColorInterpretation: 
+new Added class 4 : org.opengis.coverage.Coverage: 
+new Added class 5 : org.opengis.coverage.grid.FileFormatNotCompatibleWithGridCoverageException: 
+new Added class 6 : org.opengis.coverage.grid.Format: 
+new Added class 7 : org.opengis.crs.operation.GeneralOperationParameter: 
+new Added class 8 : org.opengis.crs.operation.GeneralParameterValue: 
+new Added class 9 : org.opengis.coverage.processing.GridAnalysis: 
+new Added class 10 : org.opengis.coverage.grid.GridCoverage: 
+new Added class 11 : org.opengis.coverage.grid.GridCoverageExchange: 
+new Added class 12 : org.opengis.coverage.processing.GridCoverageProcessor: 
+new Added class 13 : org.opengis.coverage.grid.GridCoverageReader: 
+new Added class 14 : org.opengis.coverage.grid.GridCoverageWriter: 
+new Added class 15 : org.opengis.coverage.grid.GridGeometry: 
+new Added class 16 : org.opengis.coverage.grid.GridNotEditableException: 
+new Added class 17 : org.opengis.coverage.grid.GridPacking: 
+new Added class 18 : org.opengis.coverage.grid.GridRange: 
+new Added class 19 : org.opengis.crs.Info: 
+new Added class 20 : org.opengis.crs.operation.InvalidParameterNameException: 
+new Added class 21 : org.opengis.crs.operation.InvalidParameterTypeException: 
+new Added class 22 : org.opengis.coverage.grid.InvalidParameterValueException: 
+new Added class 23 : org.opengis.coverage.grid.InvalidRangeException: 
+new Added class 24 : org.opengis.coverage.processing.InvalidSampleDimensionException: 
+new Added class 25 : org.opengis.crs.operation.MathTransformFactory: 
+new Added class 26 : org.opengis.coverage.MetadataNameNotFoundException: 
+new Added class 27 : org.opengis.crs.operation.Operation: 
+new Added class 28 : org.opengis.crs.operation.OperationMethod: 
+new Added class 29 : org.opengis.coverage.processing.OperationNotFoundException: 
+new Added class 30 : org.opengis.crs.operation.OperationParameter: 
+new Added class 31 : org.opengis.crs.operation.OperationParameterGroup: 
+new Added class 32 : org.opengis.coverage.PaletteInterpretation: 
+new Added class 33 : org.opengis.coverage.grid.Parameter: 
+new Added class 34 : org.opengis.coverage.grid.ParameterInfo: 
+new Added class 35 : org.opengis.coverage.grid.ParameterType: 
+new Added class 36 : org.opengis.crs.operation.ParameterValue: 
+new Added class 37 : org.opengis.crs.operation.ParameterValueGroup: 
+new Added class 38 : org.opengis.coverage.PointOutsideCoverageException: 
+new Added class 39 : org.opengis.coverage.SampleDimension: 
+new Added class 40 : org.opengis.coverage.SampleDimensionType: 
+new Added class 41 : org.opengis.coverage.grid.ValueInBytePacking: 
+testing relationship 
+class 7  vs  class 19£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 19£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  8   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,12 @@
+Translog:0.49666666666666665
+TranslogDeletionPolicy:0.38
+InternalEngine:0.2733333333333333
+ESTestCase:0.25333333333333335
+InternalEngineTests:0.21666666666666667
+IndexShardTests:0.20666666666666667
+TranslogTests:0.18666666666666668
+CombinedDeletionPolicyTests:0.18
+SnapshotMatchers:0.12555555555555556
+TranslogDeletionPolicyTests:0.12333333333333334
+CombinedDeletionPolicy:0.07333333333333333
+ContainingSeqNoRangeMatcher:0.06333333333333334

@@ -1,0 +1,15 @@
+Literal:0.3566666666666667
+CreateTableAnalysis:0.24666666666666667
+ValidationException:0.21666666666666667
+AbstractDataAnalysis:0.20666666666666667
+DataStatementAnalyzer:0.2
+ShortLiteral:0.19166666666666668
+ArrayLiteral:0.19166666666666668
+ByteLiteral:0.19166666666666668
+IntegerLiteral:0.19166666666666668
+SelectStatementAnalyzer:0.18666666666666668
+UpdateAnalysis:0.16833333333333333
+TablePropertiesAnalysis:0.16666666666666666
+CreateTableStatementAnalyzer:0.16333333333333333
+ExpressionToObjectVisitor:0.16333333333333333
+BlobTableAnalyzer:0.11

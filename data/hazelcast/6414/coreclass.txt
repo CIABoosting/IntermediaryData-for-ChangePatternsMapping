@@ -1,0 +1,14 @@
+ServiceConfig:0.45666666666666667
+LoginModuleConfig:0.29
+DistributedObjectTest:0.23
+SpringXmlConfigBuilder:0.22
+ServiceManagerImpl:0.21333333333333335
+TestFullApplicationContext:0.20666666666666667
+NodeStateTest:0.19666666666666666
+MapTransactionStressTest:0.175
+ProxyFactoryTest:0.14
+MultiMapTransactionStressTest:0.14
+OperationOutOfOrderBackupTest:0.12333333333333334
+MigrationAwareServiceEventTest:0.09333333333333334
+ServiceConfigTest:0.09333333333333334
+TestSecureApplicationContext:0.07333333333333333

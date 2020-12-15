@@ -1,0 +1,11 @@
+ElasticsearchIntegrationTest:0.57
+PercolatorTests:0.2966666666666667
+MetaDataWriteDataNodesTests:0.27666666666666667
+SharedClusterSnapshotRestoreTests:0.25666666666666665
+GatewayIndexStateTests:0.23666666666666666
+IndexAliasesTests:0.22666666666666666
+GetTermVectorsTests:0.21
+RecoveryPercolatorTests:0.20666666666666667
+UpdateMappingIntegrationTests:0.19666666666666666
+SimpleGetFieldMappingsTests:0.19666666666666666
+ConcurrentDynamicTemplateTests:0.16326190476190477

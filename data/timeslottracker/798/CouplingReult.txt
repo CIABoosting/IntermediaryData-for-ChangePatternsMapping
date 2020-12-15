@@ -1,0 +1,29 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : net.sf.timeslottracker.gui.reports.DateFilter: 
+new Added class 1 : net.sf.timeslottracker.gui.layouts.classic.tasksbydays.DaysTree: 
+new Added class 2 : net.sf.timeslottracker.search.LuceneSearch: 
+new Added class 3 : net.sf.timeslottracker.gui.layouts.classic.search.ResultsTableModel: 
+new Added class 4 : net.sf.timeslottracker.gui.layouts.classic.search.ResultWindow: 
+new Added class 5 : net.sf.timeslottracker.gui.layouts.classic.search.SearchPanel: 
+new Added class 6 : net.sf.timeslottracker.Starter: 
+new Added class 7 : net.sf.timeslottracker.gui.layouts.classic.tasks.TaskTreeTransferHandler: 
+new Added class 8 : net.sf.timeslottracker.gui.TextAreaRenderer: 
+new Added class 9 : net.sf.timeslottracker.gui.layouts.classic.today.TimeSlotValue: 
+new Added class 10 : net.sf.timeslottracker.gui.systemtray.TipOfTheDayService: 
+new Added class 11 : net.sf.timeslottracker.gui.layouts.classic.today.TodayImpl: 
+new Added class 12 : net.sf.timeslottracker.gui.layouts.classic.today.TodayTableModel: 
+new Added class 13 : net.sf.timeslottracker.gui.systemtray.TrayIconManager: 
+new Added class 14 : net.sf.timeslottracker.data.xml.XmlDataSource: 
+new Added class 15 : net.sf.timeslottracker.data.xml.XmlParser: 
+testing relationship 
+class 3  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:1  r9:0  r10:6  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:8  r14:3  r15:0  r16:2  r17:0  
+class 14  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  4   6 :  0   7 :  0   8 :  10   9 :  0   10 :  11   11 :  7   12 :  0   13 :  10   14 :  4   15 :  0   16 :  2   17 :  0   

@@ -1,0 +1,17 @@
+RankEvalSpec:0.39666666666666667
+RatedDocumentKey:0.36333333333333334
+RatedDocument:0.2833333333333333
+PrecisionAtN:0.25666666666666665
+DiscountedCumulativeGainAt:0.21333333333333335
+ReciprocalRank:0.17
+RankedListQualityMetric:0.16444444444444445
+RankEvalRequestTests:0.16
+RestRankEvalAction:0.1
+TransportRankEvalAction:0.09666666666666666
+RankEvalActionListener:0.05
+QuerySpecTests:0.04666666666666667
+RatedDocumentTests:0.04
+PrecisionAtNTests:0.013333333333333334
+ReciprocalRankTests:0.013333333333333334
+DiscountedCumulativeGainAtTests:0.01
+RatingMapping:0.01

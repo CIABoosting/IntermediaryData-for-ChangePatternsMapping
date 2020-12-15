@@ -1,0 +1,27 @@
+Compared Result of  two versions
+Number of New Class: 20
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.acegisecurity.ui.AbstractProcessingFilterTests: 
+new Added class 1 : org.acegisecurity.providers.anonymous.AnonymousProcessingFilterTests: 
+new Added class 2 : org.acegisecurity.taglibs.authz.AuthorizeTagAttributeTests: 
+new Added class 3 : org.acegisecurity.taglibs.authz.AuthorizeTagCustomGrantedAuthorityTests: 
+new Added class 4 : org.acegisecurity.taglibs.authz.AuthorizeTagExpressionLanguageTests: 
+new Added class 5 : org.acegisecurity.taglibs.authz.AuthorizeTagTests: 
+new Added class 6 : org.acegisecurity.taglibs.velocity.AuthzImplAttributeTest: 
+new Added class 7 : org.acegisecurity.taglibs.velocity.AuthzImplAuthorizeTagTest: 
+new Added class 8 : org.acegisecurity.ui.basicauth.BasicProcessingFilterTests: 
+new Added class 9 : org.acegisecurity.captcha.CaptchaChannelProcessorTemplateTests: 
+new Added class 10 : sample.contact.ClientApplication: 
+new Added class 11 : org.acegisecurity.context.rmi.ContextPropagatingRemoteInvocation: 
+new Added class 12 : org.acegisecurity.context.rmi.ContextPropagatingRemoteInvocationTests: 
+new Added class 13 : org.acegisecurity.ui.digestauth.DigestProcessingFilterTests: 
+new Added class 14 : org.acegisecurity.ui.ExceptionTranslationFilterTests: 
+new Added class 15 : org.acegisecurity.intercept.web.FilterSecurityInterceptorTests: 
+new Added class 16 : org.acegisecurity.context.HttpSessionContextIntegrationFilter: 
+new Added class 17 : org.acegisecurity.ui.rememberme.RememberMeProcessingFilterTests: 
+new Added class 18 : org.acegisecurity.context.SecurityContextHolder: 
+new Added class 19 : org.acegisecurity.providers.jaas.SecurityContextLoginModuleTests: 
+testing relationship 
+class 12  vs  class 11£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  1   4 :  0   5 :  1   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  6   12 :  0   13 :  1   14 :  0   15 :  0   16 :  0   17 :  0   

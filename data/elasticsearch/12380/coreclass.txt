@@ -1,0 +1,17 @@
+IngestDocument:0.5
+RandomDocumentPicks:0.48333333333333334
+SimulateDocumentSimpleResult:0.23666666666666666
+SimulateProcessorResult:0.21666666666666667
+MetaDataProcessor:0.21
+IngestDocumentTests:0.15333333333333332
+GrokProcessorTests:0.15
+GeoIpProcessorTests:0.14333333333333334
+DateProcessorTests:0.13333333333333333
+SimulatePipelineRequestParsingTests:0.13
+SimulateExecutionServiceTests:0.12666666666666668
+IngestClientIT:0.12333333333333334
+IngestDocumentMatcher:0.12333333333333334
+SimulatePipelineResponseTests:0.09333333333333334
+SimulateDocumentSimpleResultTests:0.08
+SimulateProcessorResultTests:0.08
+MetaDataProcessorTests:0.07666666666666666

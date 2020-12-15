@@ -1,0 +1,15 @@
+HazelcastClient:0.42
+ClientEndpoint:0.38333333333333336
+ConcurrentMapManager:0.3433333333333333
+ResponseQueueCall:0.27
+ProxyHelper:0.24666666666666667
+ClusterManager:0.21666666666666667
+IORunnable:0.19666666666666666
+ClientRequestHandler:0.1425
+Worker:0.14
+HazelcastClientClusterTest:0.12333333333333334
+MapUnlockHandler:0.1
+MapLockHandler:0.1
+MapUnlockMapHandler:0.1
+MapLockMapHandler:0.1
+RuntimeInterruptedException:0.05738095238095237

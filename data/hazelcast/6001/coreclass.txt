@@ -1,0 +1,14 @@
+TestPredicate:0.43
+MorphingPortableReader:0.27666666666666667
+MapReadWriteQuorumTest:0.2633333333333333
+MapWriteQuorumTest:0.2633333333333333
+ClientMapWriteQuorumTest:0.2633333333333333
+ClientMapReadWriteQuorumTest:0.2633333333333333
+AbstractMultipleEntryOperation:0.26
+MultipleEntryOperation:0.24666666666666667
+PartitionWideEntryOperation:0.24666666666666667
+MergePolicyTest:0.19666666666666666
+EntryProcessorTest:0.19666666666666666
+TestEntryListener:0.19666666666666666
+TestMapListener:0.13666666666666666
+StartServer:0.13666666666666666

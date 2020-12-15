@@ -1,0 +1,16 @@
+RedisCommands:0.8566666666666667
+RLexSortedSetReactive:0.45809523809523817
+RedissonLexSortedSetReactive:0.35
+RedissonLock:0.2966666666666667
+RedissonListReactive:0.29333333333333333
+RedissonSetCacheReactive:0.26
+CommandReactiveExecutor:0.23
+RedissonReactive:0.22666666666666666
+SentinelConnectionManager:0.22666666666666666
+RedissonSetReactive:0.21833333333333332
+RedissonLexSortedSetReactiveTest:0.21666666666666667
+RedissonReactiveClient:0.20083333333333334
+RedissonReadLock:0.16666666666666666
+RedissonWriteLock:0.16666666666666666
+ReplicatedConnectionManager:0.15333333333333332
+RedissonReadWriteLock:0.07333333333333333

@@ -1,0 +1,15 @@
+ScriptRuntime:0.5333333333333333
+Tests:0.41
+StandardTests:0.34
+TestUtils:0.33666666666666667
+MessageProvider:0.27051984126984113
+Interpreter:0.23166666666666666
+BodyCodegen:0.21
+PrimitiveTypeScopeResolutionTest:0.19333333333333333
+ShellTest:0.14
+DoctestsTest:0.13666666666666666
+JsTestsTest:0.1
+Bug448816Test:0.04
+DefaultMessageProvider:0.02
+Bug467396Test:0.006666666666666667
+ApplyOnPrimitiveNumberTest:0.0

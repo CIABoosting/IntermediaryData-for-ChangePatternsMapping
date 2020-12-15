@@ -1,0 +1,14 @@
+MultiMatchQuery:0.5133333333333333
+MatchQuery:0.42333333333333334
+QueryStringQueryBuilder:0.42333333333333334
+QueryStringIT:0.3433333333333333
+QueryStringQueryBuilderTests:0.3433333333333333
+MatchQueryBuilder:0.31666666666666665
+QueryShardContext:0.225
+MatchPhraseQueryBuilder:0.21666666666666667
+MatchPhrasePrefixQueryBuilder:0.2
+SearchQueryIT:0.18333333333333332
+HighlighterSearchIT:0.16666666666666666
+DisableGraphQueryTests:0.16166666666666665
+CrossFieldsQueryBuilder:0.15
+QueryStringWithAnalyzersTests:0.11333333333333333

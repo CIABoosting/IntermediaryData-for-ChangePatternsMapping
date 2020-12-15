@@ -1,0 +1,17 @@
+StringUtils:0.6166666666666667
+AbstractJPPFClassLoader:0.4766666666666667
+ClientConnection:0.21
+AbstractJPPFClassLoaderLifeCycle:0.20666666666666667
+DriverJobManagement:0.20333333333333334
+JcaClassServerDelegate:0.19666666666666666
+ResourceProvider:0.19333333333333333
+PolicyBuilder:0.18333333333333332
+LocalExecutionRunner:0.16666666666666666
+Task:0.16333333333333333
+WaitingProviderResponseState:0.14
+ClassServerDelegateImpl:0.13666666666666666
+WaitingNodeRequestState:0.12333333333333334
+RemoteNodeIO:0.10666666666666667
+LocalNodeIO:0.10666666666666667
+NonDelegatingClassLoader:0.10333333333333333
+ResourceCache:0.04

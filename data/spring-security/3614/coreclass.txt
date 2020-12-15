@@ -1,0 +1,7 @@
+SecurityContextHolder:0.37333333333333335
+HttpSessionSecurityContextRepository:0.35333333333333333
+SecurityContextPersistenceFilter:0.29333333333333333
+SecurityContextHolderStrategy:0.2127222222222222
+InheritableThreadLocalSecurityContextHolderStrategy:0.1075
+ThreadLocalSecurityContextHolderStrategy:0.1075
+GlobalSecurityContextHolderStrategy:0.1075

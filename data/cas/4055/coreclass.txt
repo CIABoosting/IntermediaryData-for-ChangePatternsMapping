@@ -1,0 +1,14 @@
+AccessToken:0.49666666666666665
+OidcConfiguration:0.37666666666666665
+CasOAuthConfiguration:0.3
+OAuth20AuthorizeController:0.17666666666666667
+BaseOAuthWrapperController:0.11666666666666667
+OAuth20AccessTokenController:0.09
+OidcAuthorizeEndpointController:0.04666666666666667
+OidcDynamicClientRegistrationEndpointController:0.043333333333333335
+OAuth20CallbackAuthorizeController:0.043333333333333335
+OidcJwksEndpointController:0.02666666666666667
+OidcWellKnownEndpointController:0.02666666666666667
+OAuth20ProfileController:0.023333333333333334
+OidcProfileEndpointController:0.02
+OidcAccessTokenEndpointController:0.01

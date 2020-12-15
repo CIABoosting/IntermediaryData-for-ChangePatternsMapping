@@ -1,0 +1,15 @@
+Interpreter:0.6
+CommChannel:0.33
+OOITBuilder:0.32
+Execution:0.31
+JolieAdapterProtocol:0.23166666666666666
+SelectorThread:0.22333333333333333
+RequestResponseProcess:0.19
+JavaService:0.18666666666666668
+OneWayProcess:0.18333333333333332
+NotificationProcess:0.15444444444444444
+InternalLink:0.14333333333333334
+CommChannelHandlerRunnable:0.14
+SocketListener:0.11
+JolieAdapterProtocolFactory:0.08666666666666667
+JavaServiceLoader:0.08

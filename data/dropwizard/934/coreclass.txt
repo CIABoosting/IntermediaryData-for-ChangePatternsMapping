@@ -1,0 +1,10 @@
+AppenderFactory:0.9066666666666666
+DefaultLoggingFactory:0.29
+FileAppenderFactory:0.25333333333333335
+FileAppenderFactoryTest:0.24666666666666667
+SyslogAppenderFactory:0.20333333333333334
+SyslogAppenderFactoryTest:0.16333333333333333
+ConsoleAppenderFactory:0.14
+ConsoleAppenderFactoryTest:0.08666666666666667
+Slf4jRequestLogFactory:0.02666666666666667
+LogbackAccessRequestLogFactory:0.0033333333333333335

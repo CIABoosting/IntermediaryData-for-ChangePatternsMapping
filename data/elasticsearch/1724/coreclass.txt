@@ -1,0 +1,17 @@
+RoutingAllocation:0.66
+AllocationService:0.45
+UnassignedInfo:0.37666666666666665
+MaxRetryAllocationDecider:0.24333333333333335
+PrimaryShardAllocatorTests:0.21333333333333335
+ReplicaShardAllocatorTests:0.21
+BalancedSingleShardTests:0.19666666666666666
+TransportClusterAllocationExplainAction:0.185
+UnassignedInfoTests:0.17333333333333334
+DiskThresholdDeciderTests:0.17333333333333334
+ClusterAllocationExplainActionTests:0.15333333333333332
+DiskThresholdDeciderUnitTests:0.14
+RareClusterStateIT:0.12666666666666668
+ClusterRerouteTests:0.11666666666666667
+FilterAllocationDeciderTests:0.10333333333333333
+MaxRetryAllocationDeciderTests:0.08333333333333333
+SameShardRoutingTests:0.07666666666666666

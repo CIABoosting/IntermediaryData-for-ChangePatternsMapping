@@ -1,0 +1,11 @@
+LegacyCacheSplitBrainTest:0.25
+AtomicLongSplitBrainTest:0.25
+AtomicReferenceSplitBrainTest:0.25
+ListSplitBrainTest:0.25
+LegacyMapSplitBrainTest:0.25
+SetSplitBrainTest:0.25
+RingbufferSplitBrainTest:0.25
+QueueSplitBrainTest:0.25
+MultiMapSplitBrainTest:0.2
+MapSplitBrainTest:0.2
+CacheSplitBrainTest:0.2

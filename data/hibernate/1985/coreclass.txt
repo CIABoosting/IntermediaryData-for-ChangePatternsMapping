@@ -1,0 +1,14 @@
+AbstractPersistentCollection:0.42
+Add:0.38
+Set:0.3275
+SimpleRemove:0.3
+Remove:0.3
+OrderByTest:0.21666666666666667
+CollectionType:0.20333333333333334
+ValueDelayedOperation:0.16716137566137568
+Put:0.15333333333333332
+SimpleAdd:0.15333333333333332
+PersistentBagTest:0.08333333333333333
+AbstractValueDelayedOperation:0.043333333333333335
+AbstractMapValueDelayedOperation:0.006666666666666667
+AbstractListValueDelayedOperation:0.006666666666666667

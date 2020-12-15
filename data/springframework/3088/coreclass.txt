@@ -1,0 +1,16 @@
+ResponseCreatingEventWriter:0.4666666666666667
+ResponseCreatingStreamWriter:0.45666666666666667
+MockWebServiceMessage:0.19333333333333333
+AbstractStaxEventPayloadEndpoint:0.19
+AbstractStaxStreamPayloadEndpoint:0.15333333333333332
+XomPayloadEndpointTest:0.14
+TestContentHandler:0.08777777777777777
+SaxPayloadEndpointTest:0.07583333333333334
+DomPayloadEndpointTest:0.07
+JDomPayloadEndpointTest:0.07
+Dom4JPayloadEndpointTest:0.07
+AbstractEndpointTestCase:0.06333333333333334
+StaxStreamPayloadEndpointTest:0.041388888888888885
+StaxEventPayloadEndpointTest:0.041388888888888885
+AbstractPayloadEndpointTestCase:0.03666666666666667
+AbstractMessageEndpointTestCase:0.016666666666666666

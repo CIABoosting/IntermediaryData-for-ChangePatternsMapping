@@ -1,0 +1,17 @@
+ChannelMap:0.6866666666666666
+ConfigurationService:0.23666666666666666
+NodeConcurrencyFilter:0.19833333333333333
+HttpTransportManager:0.18833333333333332
+DataExtractorService:0.18666666666666668
+FileOutgoingTransport:0.185
+PullResourceHandler:0.15
+InternalOutgoingTransport:0.14666666666666667
+HttpOutgoingTransport:0.14333333333333334
+OutgoingManagementService:0.13666666666666666
+MockOutgoingTransport:0.13666666666666666
+TransportManagerFactoryBean:0.12666666666666668
+ConfigurationServiceTest:0.12
+NodeConcurrencyFilterTest:0.11666666666666667
+InternalTransportManager:0.11333333333333333
+PullServlet:0.023333333333333334
+AbstractTransportResourceHandler:0.0125

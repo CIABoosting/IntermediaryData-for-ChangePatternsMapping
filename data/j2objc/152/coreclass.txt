@@ -1,0 +1,9 @@
+URLConnectionTest:0.6133333333333333
+Policy:0.3280952380952381
+FallbackTestClientSocketFactory:0.24666666666666667
+TlsFallbackDisabledScsvSSLSocket:0.17
+DelegatingSSLSocketFactory:0.04666666666666667
+DelegatingSSLSocket:0.03666666666666667
+LimitedProtocolsSocketFactory:0.016666666666666666
+RecordingTrustManager:0.01
+RecordingHostnameVerifier:0.0

@@ -1,0 +1,17 @@
+Compared Result of  two versions
+Number of New Class: 7
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.hazelcast.client.lock.ClientConditionTest: 
+new Added class 1 : com.hazelcast.concurrent.lock.ConditionTest: 
+new Added class 2 : com.hazelcast.core.ILock: 
+new Added class 3 : com.hazelcast.concurrent.lock.LockProxy: 
+new Added class 4 : com.hazelcast.concurrent.lock.LockStressTest: 
+new Added class 5 : com.hazelcast.concurrent.lock.LockTest: 
+new Added class 6 : com.hazelcast.topic.TopicTest: 
+testing relationship 
+class 0  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-2  r9:0  r10:6  r11:9  r12:0  r13:29  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:13  r12:0  r13:35  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:25  r12:0  r13:63  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  1   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  -2   9 :  0   10 :  6   11 :  47   12 :  0   13 :  127   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,14 @@
+MappedFieldType:0.47
+IndexShard:0.39
+CompletionFieldType:0.30666666666666664
+SignificantTermsAggregatorFactory:0.2633333333333333
+UidFieldMapper:0.24777777777777782
+FieldAndFieldType:0.24
+WildcardQueryBuilder:0.22166666666666668
+SpanTermQueryBuilder:0.22
+AllFieldType:0.185
+CrossFieldsQueryBuilder:0.17333333333333334
+TermQueryBuilderTests:0.1
+SpanTermQueryBuilderTests:0.09666666666666666
+MultiMatchQuery:0.06333333333333334
+MultiMatchQueryTests:0.05

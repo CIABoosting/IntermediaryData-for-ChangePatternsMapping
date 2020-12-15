@@ -1,0 +1,13 @@
+PartitionedOutputOperator:0.415
+SqlTask:0.36333333333333334
+SharedBuffer:0.36333333333333334
+PartitionedOutputOperatorFactory:0.29333333333333333
+SqlTaskExecution:0.29
+MockRemoteTask:0.21666666666666667
+LocalExecutionPlanner:0.215
+PagePartitioner:0.21
+TaskOutputOperatorFactory:0.19333333333333333
+TaskOutputOperator:0.19
+PartitionedOutputFactory:0.04
+SqlTaskExecutionFactory:0.03333333333333333
+TaskOutputFactory:0.015833333333333335

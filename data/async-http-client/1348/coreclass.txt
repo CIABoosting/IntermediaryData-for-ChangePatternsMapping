@@ -1,0 +1,13 @@
+Response:0.7133333333333334
+Request:0.71
+RequestBuilderBase:0.25333333333333335
+RequestImpl:0.20333333333333334
+AppendableBodyConsumer:0.2
+AsyncHttpProviderUtils:0.19833333333333333
+WebDavResponse:0.19
+NettyRequestFactory:0.18333333333333332
+ResponseBase:0.17
+HttpStatusWrapper:0.14666666666666667
+RequestBuilderTest:0.13
+NettyResponse:0.11666666666666667
+NonAsciiContentLengthTest:0.09666666666666666

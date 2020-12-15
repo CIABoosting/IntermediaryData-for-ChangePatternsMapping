@@ -1,0 +1,15 @@
+InternalConnection:0.6533333333333333
+StreamPipeline:0.37333333333333335
+InternalStreamConnection:0.32
+TestInternalConnection:0.22
+DefaultServer:0.21666666666666667
+DefaultConnectionPool:0.19
+InternalStreamConnectionFactory:0.16
+UsageTrackingInternalConnectionItemFactory:0.16
+DefaultServerMonitor:0.15666666666666668
+ServerMonitorRunnable:0.1561111111111111
+PooledConnection:0.15
+ConnectionInitializer:0.13166666666666665
+DefaultClusterableServerFactory:0.10666666666666667
+TestConnectionPool:0.10666666666666667
+UsageTrackingInternalConnection:0.10333333333333333

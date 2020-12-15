@@ -1,0 +1,10 @@
+CachingHiveMetastore:0.45666666666666667
+FunctionRegistry:0.3233333333333333
+ThriftMetadata:0.25333333333333335
+MongoSession:0.25
+ExpressionCompiler:0.17666666666666667
+LocalFileTables:0.16
+NetworkLocationCache:0.15333333333333332
+RedisJedisManager:0.15
+TableNameCompleter:0.15
+KafkaSimpleConsumerManager:0.11333333333333333

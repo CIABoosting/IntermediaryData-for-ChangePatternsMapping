@@ -1,0 +1,54 @@
+Compared Result of  two versions
+Number of New Class: 38
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : ru.runa.wfe.var.format.ActorFormat: 
+new Added class 1 : ru.runa.wfe.office.excel.CellExcelStorable: 
+new Added class 2 : ru.runa.wfe.definition.DefinitionVariableProvider: 
+new Added class 3 : ru.runa.wf.web.ftl.method.DisplayLinkedListsTag: 
+new Added class 4 : ru.runa.wf.web.ftl.method.DisplayLinkedMapsTag: 
+new Added class 5 : ru.runa.wf.web.ftl.method.DisplayListElementTag: 
+new Added class 6 : ru.runa.wf.web.ftl.method.DisplayMapElementTag: 
+new Added class 7 : ru.runa.wf.web.ftl.method.DisplayVariableTag: 
+new Added class 8 : ru.runa.wf.web.ftl.method.EditLinkedListsTag: 
+new Added class 9 : ru.runa.wf.web.ftl.method.EditListTag: 
+new Added class 10 : ru.runa.wfe.office.excel.handler.ExcelSaveHandler: 
+new Added class 11 : ru.runa.wfe.office.excel.ExcelStorable: 
+new Added class 12 : ru.runa.wfe.var.format.ExecutorFormat: 
+new Added class 13 : ru.runa.wfe.var.format.FileFormat: 
+new Added class 14 : ru.runa.wfe.var.format.FormatCommons: 
+new Added class 15 : ru.runa.wf.web.FormUtils: 
+new Added class 16 : ru.runa.wf.web.ftl.FreemarkerStartFormBuilder: 
+new Added class 17 : ru.runa.wf.web.ftl.FreemarkerTaskFormBuilder: 
+new Added class 18 : ru.runa.wfe.extension.handler.user.GetExecutorByRelationHandler: 
+new Added class 19 : ru.runa.wfe.extension.handler.user.GetExecutorsByRelationHandler: 
+new Added class 20 : ru.runa.wfe.commons.GroovyScriptExecutor: 
+new Added class 21 : ru.runa.wfe.var.format.GroupFormat: 
+new Added class 22 : ru.runa.wfe.office.excel.ListColumnExcelStorable: 
+new Added class 23 : ru.runa.wfe.var.format.ListFormat: 
+new Added class 24 : ru.runa.wfe.office.excel.ListRowExcelStorable: 
+new Added class 25 : ru.runa.wfe.var.format.MapFormat: 
+new Added class 26 : ru.runa.wfe.lang.MultiTaskNode: 
+new Added class 27 : ru.runa.wfe.graph.image.figure.uml.MultiTaskNodeFigure: 
+new Added class 28 : ru.runa.wfe.execution.Process: 
+new Added class 29 : ru.runa.wf.web.html.ProcessVariablesRowBuilder: 
+new Added class 30 : ru.runa.wf.web.html.ProcessVariableTDBuilder: 
+new Added class 31 : ru.runa.wfe.service.impl.ReceiveMessageBean: 
+new Added class 32 : ru.runa.wf.web.tag.ShowHistoryTag: 
+new Added class 33 : ru.runa.wf.web.html.TaskVariableTDBuilder: 
+new Added class 34 : ru.runa.wfe.var.format.VariableFormatContainer: 
+new Added class 35 : ru.runa.wf.web.ftl.method.ViewListTag: 
+new Added class 36 : ru.runa.wf.web.ftl.method.ViewUtil: 
+new Added class 37 : ru.runa.wf.web.tag.WFFormTag: 
+testing relationship 
+class 1  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 34£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 34£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 28£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  1   3 :  1   4 :  2   5 :  0   6 :  7   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

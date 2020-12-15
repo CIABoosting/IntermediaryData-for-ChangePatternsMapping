@@ -1,0 +1,16 @@
+ObjectiveCImplementationGenerator:0.44333333333333336
+ObjectiveCHeaderGenerator:0.37
+InitializationNormalizerTest:0.35333333333333333
+ObjectiveCHeaderGeneratorTest:0.33
+ObjectiveCImplementationGeneratorTest:0.30666666666666664
+SourceBuilder:0.29
+MetadataGenerator:0.2857222222222222
+NameTable:0.27666666666666667
+StatementGeneratorTest:0.26
+ObjectiveCSourceFileGenerator:0.25
+RewriterTest:0.23
+AnonymousClassConverterTest:0.21
+LineDirectivesTest:0.19
+StaticVarRewriter:0.18333333333333332
+ObjectiveCSourceFileGeneratorTest:0.16666666666666666
+StaticVarRewriterTest:0.09333333333333334

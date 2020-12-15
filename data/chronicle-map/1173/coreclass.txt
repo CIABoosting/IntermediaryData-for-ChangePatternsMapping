@@ -1,0 +1,16 @@
+StatelessChronicleMap:0.5
+TcpReplicator:0.43
+WriterWithSize:0.3233333333333333
+UdpTransportConfig:0.30333333333333334
+StatelessServerConnector:0.26
+MyTestClassMarshallable:0.24666666666666667
+TcpSocketChannelEntryWriter:0.21555555555555558
+ChannelProvider:0.19
+Attached:0.18666666666666668
+SerializerTest:0.14333333333333334
+Replicators:0.11
+UdpSocketChannelEntryWriter:0.10333333333333333
+BufferResizer:0.0867222222222222
+StatelessClientParameters:0.07333333333333333
+UdpReplicator:0.06
+OutBuffer:0.02666666666666667

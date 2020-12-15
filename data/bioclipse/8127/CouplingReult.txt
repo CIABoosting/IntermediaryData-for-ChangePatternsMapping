@@ -1,0 +1,163 @@
+Compared Result of  two versions
+Number of New Class: 110
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.formula.AdductFormula: 
+new Added class 1 : org.openscience.cdk.qsar.descriptors.molecular.ALOGPDescriptor: 
+new Added class 2 : org.openscience.cdk.aromaticity.AromaticityCalculator: 
+new Added class 3 : org.openscience.cdk.Atom: 
+new Added class 4 : org.openscience.cdk.AtomContainer: 
+new Added class 5 : org.openscience.cdk.tools.manipulator.AtomContainerManipulator: 
+new Added class 6 : org.openscience.cdk.qsar.descriptors.atomic.AtomHybridizationDescriptor: 
+new Added class 7 : org.openscience.cdk.isomorphism.AtomMappingTools: 
+new Added class 8 : org.openscience.cdk.AtomParity: 
+new Added class 9 : org.openscience.cdk.layout.AtomPlacer: 
+new Added class 10 : org.openscience.cdk.modeling.builder3d.AtomPlacer3D: 
+new Added class 11 : org.openscience.cdk.modeling.builder3d.AtomTetrahedralLigandPlacer3D: 
+new Added class 12 : org.openscience.cdk.geometry.AtomTools: 
+new Added class 13 : org.openscience.cdk.atomtype.mapper.AtomTypeMapper: 
+new Added class 14 : org.openscience.cdk.qsar.descriptors.bond.BondPartialPiChargeDescriptor: 
+new Added class 15 : org.openscience.cdk.qsar.descriptors.bond.BondPartialSigmaChargeDescriptor: 
+new Added class 16 : org.openscience.cdk.qsar.descriptors.bond.BondPartialTChargeDescriptor: 
+new Added class 17 : org.openscience.cdk.qsar.descriptors.bond.BondSigmaElectronegativityDescriptor: 
+new Added class 18 : org.openscience.cdk.graph.invariant.CanonicalLabeler: 
+new Added class 19 : org.openscience.cdk.atomtype.CDKAtomTypeMatcher: 
+new Added class 20 : org.openscience.cdk.aromaticity.CDKHueckelAromaticityDetector: 
+new Added class 21 : org.openscience.cdk.io.cml.CMLCoreModule: 
+new Added class 22 : org.openscience.cdk.io.formats.CMLFormat: 
+new Added class 23 : org.openscience.cdk.debug.DebugAdductFormula: 
+new Added class 24 : org.openscience.cdk.debug.DebugAtom: 
+new Added class 25 : org.openscience.cdk.debug.DebugAtomContainerSet: 
+new Added class 26 : org.openscience.cdk.debug.DebugAtomParity: 
+new Added class 27 : org.openscience.cdk.debug.DebugAtomType: 
+new Added class 28 : org.openscience.cdk.debug.DebugBond: 
+new Added class 29 : org.openscience.cdk.debug.DebugElectronContainer: 
+new Added class 30 : org.openscience.cdk.debug.DebugFragmentAtom: 
+new Added class 31 : org.openscience.cdk.debug.DebugLonePair: 
+new Added class 32 : org.openscience.cdk.debug.DebugMolecularFormula: 
+new Added class 33 : org.openscience.cdk.debug.DebugMolecularFormulaSet: 
+new Added class 34 : org.openscience.cdk.debug.DebugMoleculeSet: 
+new Added class 35 : org.openscience.cdk.debug.DebugPseudoAtom: 
+new Added class 36 : org.openscience.cdk.debug.DebugReactionScheme: 
+new Added class 37 : org.openscience.cdk.debug.DebugSingleElectron: 
+new Added class 38 : org.openscience.cdk.smiles.DeduceBondSystemTool: 
+new Added class 39 : org.openscience.cdk.qsar.DescriptorEngine: 
+new Added class 40 : org.openscience.cdk.dict.DictionaryHandler: 
+new Added class 41 : org.openscience.cdk.config.ElementPTFactory: 
+new Added class 42 : org.openscience.cdk.config.elements.ElementPTHandler: 
+new Added class 43 : org.openscience.cdk.dict.EntryReact: 
+new Added class 44 : org.openscience.cdk.config.fragments.EStateFragments: 
+new Added class 45 : org.openscience.cdk.fingerprint.Fingerprinter: 
+new Added class 46 : org.openscience.cdk.Fragment: 
+new Added class 47 : org.openscience.cdk.qsar.descriptors.molecular.FragmentComplexityDescriptor: 
+new Added class 48 : org.openscience.cdk.charges.GasteigerPEPEPartialCharges: 
+new Added class 49 : org.openscience.cdk.geometry.GeometryTools: 
+new Added class 50 : org.openscience.cdk.graph.invariant.GIMatrix: 
+new Added class 51 : org.openscience.cdk.fingerprint.GraphOnlyFingerprinter: 
+new Added class 52 : org.openscience.cdk.atomtype.IAtomTypeMatcher: 
+new Added class 53 : org.openscience.cdk.qsar.IDescriptor: 
+new Added class 54 : org.openscience.cdk.interfaces.IFragmentAtom: 
+new Added class 55 : org.openscience.cdk.inchi.InChIGenerator: 
+new Added class 56 : org.openscience.cdk.charges.InductivePartialCharges: 
+new Added class 57 : org.openscience.cdk.qsar.descriptors.atomic.IPAtomicHOSEDescriptor: 
+new Added class 58 : org.openscience.cdk.qsar.descriptors.atomic.IPAtomicLearningDescriptor: 
+new Added class 59 : org.openscience.cdk.qsar.descriptors.bond.IPBondLearningDescriptor: 
+new Added class 60 : org.openscience.cdk.qsar.descriptors.molecular.IPMolecularLearningDescriptor: 
+new Added class 61 : org.openscience.cdk.interfaces.IReaction: 
+new Added class 62 : org.openscience.cdk.config.IsotopeFactory: 
+new Added class 63 : org.openscience.cdk.formula.IsotopePattern: 
+new Added class 64 : org.openscience.cdk.formula.IsotopePatternSimilarity: 
+new Added class 65 : org.openscience.cdk.qsar.descriptors.molecular.KierHallSmartsDescriptor: 
+new Added class 66 : org.openscience.cdk.qsar.descriptors.molecular.LengthOverBreadthDescriptor: 
+new Added class 67 : org.openscience.cdk.qsar.descriptors.bond.MassNumberDifferenceDescriptor: 
+new Added class 68 : org.openscience.cdk.io.MDLWriter: 
+new Added class 69 : org.openscience.cdk.modeling.builder3d.ModelBuilder3D: 
+new Added class 70 : org.openscience.cdk.tools.manipulator.MolecularFormulaManipulator: 
+new Added class 71 : org.openscience.cdk.graph.invariant.MorganNumbersTools: 
+new Added class 72 : org.openscience.cdk.formula.rules.NitrogenRule: 
+new Added class 73 : org.openscience.cdk.nonotify.NNAdductFormula: 
+new Added class 74 : org.openscience.cdk.nonotify.NNAtomParity: 
+new Added class 75 : org.openscience.cdk.nonotify.NNMolecularFormula: 
+new Added class 76 : org.openscience.cdk.nonotify.NNMolecularFormulaSet: 
+new Added class 77 : org.openscience.cdk.nonotify.NNReactionScheme: 
+new Added class 78 : org.openscience.cdk.config.OWLBasedAtomTypeConfigurator: 
+new Added class 79 : org.openscience.cdk.qsar.descriptors.atomic.PartialPiChargeDescriptor: 
+new Added class 80 : org.openscience.cdk.qsar.descriptors.atomic.PartialTChargePEOEDescriptor: 
+new Added class 81 : org.openscience.cdk.io.PCCompoundXMLReader: 
+new Added class 82 : org.openscience.cdk.io.PCSubstanceXMLReader: 
+new Added class 83 : org.openscience.cdk.io.PDBReader: 
+new Added class 84 : org.openscience.cdk.PeriodicTableElement: 
+new Added class 85 : org.openscience.cdk.qsar.descriptors.atomic.PiElectronegativityDescriptor: 
+new Added class 86 : org.openscience.cdk.charges.Polarizability: 
+new Added class 87 : org.openscience.cdk.Polymer: 
+new Added class 88 : org.openscience.cdk.qsar.descriptors.atomic.ProtonAffinityHOSEDescriptor: 
+new Added class 89 : org.openscience.cdk.io.random.RandomAccessReader: 
+new Added class 90 : org.openscience.cdk.io.random.RecordReaderEvent: 
+new Added class 91 : org.openscience.cdk.formula.rules.RDBERule: 
+new Added class 92 : org.openscience.cdk.ReactionScheme: 
+new Added class 93 : org.openscience.cdk.tools.manipulator.ReactionSchemeManipulator: 
+new Added class 94 : org.openscience.cdk.tools.manipulator.RingSetManipulator: 
+new Added class 95 : org.openscience.cdk.qsar.descriptors.molecular.RotatableBondsCountDescriptor: 
+new Added class 96 : org.openscience.cdk.smiles.SmilesGenerator: 
+new Added class 97 : org.openscience.cdk.smiles.SmilesParser: 
+new Added class 98 : org.openscience.cdk.io.SMILESReader: 
+new Added class 99 : org.openscience.cdk.charges.StabilizationCharges: 
+new Added class 100 : org.openscience.cdk.qsar.descriptors.atomic.StabilizationPlusChargeDescriptor: 
+new Added class 101 : org.openscience.cdk.atomtype.StructGenMatcher: 
+new Added class 102 : org.openscience.cdk.layout.StructureDiagramGenerator: 
+new Added class 103 : org.openscience.cdk.tools.StructureResonanceGenerator: 
+new Added class 104 : org.openscience.cdk.fingerprint.SubstructureFingerprinter: 
+new Added class 105 : org.openscience.cdk.atomtype.SybylAtomTypeMatcher: 
+new Added class 106 : org.openscience.cdk.layout.TemplateHandler: 
+new Added class 107 : org.openscience.cdk.modeling.builder3d.TemplateHandler3D: 
+new Added class 108 : org.openscience.cdk.qsar.descriptors.molecular.XLogPDescriptor: 
+new Added class 109 : org.openscience.cdk.geometry.ZMatrixTools: 
+testing relationship 
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 62£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 3£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:11  r14:1  r15:0  r16:4  r17:0  
+class 14  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 52£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 61£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 92£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 84£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:14  r12:0  r13:15  r14:6  r15:0  r16:6  r17:0  
+class 42  vs  class 84£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:9  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 46  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 103£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 45£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 55  vs  class 62£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 62£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 64  vs  class 63£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:4  r14:2  r15:0  r16:4  r17:0  
+class 67  vs  class 62£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 69  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:4  r15:0  r16:1  r17:0  
+class 69  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:4  r14:8  r15:0  r16:14  r17:0  
+class 69  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:3  r14:6  r15:0  r16:2  r17:0  
+class 69  vs  class 107£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:8  r9:0  r10:2  r11:0  r12:0  r13:0  r14:6  r15:0  r16:0  r17:0  
+class 70  vs  class 62£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 73  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 74  vs  class 8£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 77  vs  class 92£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 79  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 80  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 86  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 96  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 96  vs  class 61£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 96  vs  class 62£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 97  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 97  vs  class 61£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 98  vs  class 97£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 99  vs  class 103£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 100  vs  class 99£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 101  vs  class 52£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 102  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:13  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 102  vs  class 106£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:6  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 105  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 105  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 105  vs  class 52£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  7   2 :  3   3 :  3   4 :  0   5 :  4   6 :  0   7 :  0   8 :  31   9 :  0   10 :  32   11 :  64   12 :  0   13 :  59   14 :  34   15 :  0   16 :  34   17 :  0   

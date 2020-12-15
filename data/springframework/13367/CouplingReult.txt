@@ -1,0 +1,85 @@
+Compared Result of  two versions
+Number of New Class: 61
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.springframework.batch.sample.AbstractCustomerCreditIncreaseTests: 
+new Added class 1 : org.springframework.batch.sample.domain.order.AddressFieldSetMapper: 
+new Added class 2 : org.springframework.batch.sample.domain.order.AddressFieldSetMapperTests: 
+new Added class 3 : org.springframework.batch.sample.domain.order.BillingFieldSetMapper: 
+new Added class 4 : org.springframework.batch.sample.domain.order.BillingFieldSetMapperTests: 
+new Added class 5 : org.springframework.batch.sample.domain.trade.CustomerCreditIncreaseProcessorTests: 
+new Added class 6 : org.springframework.batch.sample.domain.trade.CustomerCreditIncreaseWriter: 
+new Added class 7 : org.springframework.batch.sample.domain.trade.CustomerCreditRowMapper: 
+new Added class 8 : org.springframework.batch.sample.domain.trade.CustomerCreditRowMapperTests: 
+new Added class 9 : org.springframework.batch.sample.domain.trade.CustomerCreditUpdatePreparedStatementSetter: 
+new Added class 10 : org.springframework.batch.sample.domain.trade.CustomerCreditUpdatePreparedStatementSetterTests: 
+new Added class 11 : org.springframework.batch.sample.domain.trade.CustomerCreditUpdateProcessorTests: 
+new Added class 12 : org.springframework.batch.sample.domain.trade.CustomerCreditUpdateWriter: 
+new Added class 13 : org.springframework.batch.sample.domain.trade.CustomerDebitRowMapper: 
+new Added class 14 : org.springframework.batch.sample.domain.order.CustomerFieldSetMapper: 
+new Added class 15 : org.springframework.batch.sample.domain.order.CustomerFieldSetMapperTests: 
+new Added class 16 : org.springframework.batch.sample.domain.trade.CustomerUpdateProcessorTests: 
+new Added class 17 : org.springframework.batch.sample.domain.trade.CustomerUpdateWriter: 
+new Added class 18 : org.springframework.batch.sample.FixedLengthImportJobFunctionalTests: 
+new Added class 19 : org.springframework.batch.sample.domain.trade.FlatFileCustomerCreditDao: 
+new Added class 20 : org.springframework.batch.sample.domain.trade.FlatFileCustomerCreditDaoTests: 
+new Added class 21 : org.springframework.batch.sample.domain.order.FlatFileOrderWriterTests: 
+new Added class 22 : org.springframework.batch.sample.domain.football.FootballExceptionHandler: 
+new Added class 23 : org.springframework.batch.sample.domain.football.GameFieldSetMapper: 
+new Added class 24 : org.springframework.batch.sample.domain.trade.GeneratingItemReaderTests: 
+new Added class 25 : org.springframework.batch.sample.domain.trade.GeneratingTradeItemReader: 
+new Added class 26 : org.springframework.batch.sample.domain.order.HeaderFieldSetMapper: 
+new Added class 27 : org.springframework.batch.sample.domain.order.HeaderFieldSetMapperTests: 
+new Added class 28 : org.springframework.batch.sample.domain.trade.HibernateCreditDao: 
+new Added class 29 : org.springframework.batch.sample.HibernateFailureJobFunctionalTests: 
+new Added class 30 : org.springframework.batch.sample.domain.trade.IbatisCustomerCreditDao: 
+new Added class 31 : org.springframework.batch.sample.domain.trade.JdbcCustomerDebitDao: 
+new Added class 32 : org.springframework.batch.sample.domain.trade.JdbcCustomerDebitDaoTests: 
+new Added class 33 : org.springframework.batch.sample.domain.football.JdbcGameDao: 
+new Added class 34 : org.springframework.batch.sample.domain.football.JdbcGameDaoIntegrationTests: 
+new Added class 35 : org.springframework.batch.sample.domain.football.JdbcPlayerDao: 
+new Added class 36 : org.springframework.batch.sample.domain.football.JdbcPlayerDaoIntegrationTests: 
+new Added class 37 : org.springframework.batch.sample.domain.football.JdbcPlayerSummaryDao: 
+new Added class 38 : org.springframework.batch.sample.domain.football.JdbcPlayerSummaryDaoIntegrationTests: 
+new Added class 39 : org.springframework.batch.sample.domain.trade.JdbcTradeDao: 
+new Added class 40 : org.springframework.batch.sample.domain.trade.JdbcTradeWriterTests: 
+new Added class 41 : org.springframework.batch.sample.domain.order.OrderItemFieldSetMapper: 
+new Added class 42 : org.springframework.batch.sample.domain.order.OrderItemFieldSetMapperTests: 
+new Added class 43 : org.springframework.batch.sample.domain.order.OrderItemReader: 
+new Added class 44 : org.springframework.batch.sample.domain.order.OrderItemReaderTests: 
+new Added class 45 : org.springframework.batch.sample.domain.order.OrderTransformer: 
+new Added class 46 : org.springframework.batch.sample.domain.order.OrderTransformerTests: 
+new Added class 47 : org.springframework.batch.sample.domain.person.PersonWriter: 
+new Added class 48 : org.springframework.batch.sample.domain.football.PlayerFieldSetMapper: 
+new Added class 49 : org.springframework.batch.sample.domain.football.PlayerItemWriter: 
+new Added class 50 : org.springframework.batch.sample.domain.football.PlayerSummaryMapper: 
+new Added class 51 : org.springframework.batch.sample.domain.football.PlayerSummaryRowMapper: 
+new Added class 52 : org.springframework.batch.sample.RetrySampleFunctionalTests: 
+new Added class 53 : org.springframework.batch.sample.domain.order.ShippingFieldSetMapper: 
+new Added class 54 : org.springframework.batch.sample.domain.order.ShippingFieldSetMapperTests: 
+new Added class 55 : org.springframework.batch.sample.domain.trade.TradeFieldSetMapper: 
+new Added class 56 : org.springframework.batch.sample.domain.trade.TradeFieldSetMapperTests: 
+new Added class 57 : org.springframework.batch.sample.domain.trade.TradeProcessorTests: 
+new Added class 58 : org.springframework.batch.sample.domain.trade.TradeRowMapper: 
+new Added class 59 : org.springframework.batch.sample.domain.trade.TradeRowMapperTests: 
+new Added class 60 : org.springframework.batch.sample.domain.trade.TradeWriter: 
+testing relationship 
+class 5  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 45£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 28£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 32  vs  class 31£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 39£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 44  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:9  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 46  vs  class 45£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 60£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  14   9 :  0   10 :  33   11 :  4   12 :  0   13 :  6   14 :  1   15 :  0   16 :  0   17 :  0   

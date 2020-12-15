@@ -1,0 +1,17 @@
+Config:0.61
+ConfigXmlGenerator:0.3433333333333333
+EmptyConfigurationService:0.32666666666666666
+TestFullApplicationContext:0.31333333333333335
+SpringXmlConfigBuilder:0.29333333333333333
+ConfigurationService:0.2500396825396825
+XmlConfigBuilder:0.23
+XMLConfigBuilderTest:0.18
+AtomicReferenceContainer:0.17
+ClusterWideConfigurationService:0.16666666666666666
+AtomicLongContainer:0.16333333333333333
+ConfigXmlGeneratorTest:0.12333333333333334
+AtomicLongConfigChecker:0.11666666666666667
+AtomicReferenceConfigChecker:0.11666666666666667
+DynamicConfigurationAwareConfig:0.10666666666666667
+ConfigCompatibilityChecker:0.09666666666666666
+ConfigDataSerializerHook:0.06

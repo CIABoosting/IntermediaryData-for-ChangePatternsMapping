@@ -1,0 +1,265 @@
+Compared Result of  two versions
+Number of New Class: 172
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : fedora.client.console.access.AccessConsole: 
+new Added class 1 : fedora.client.Administrator: 
+new Added class 2 : fedora.client.console.ArrayInputPanel: 
+new Added class 3 : fedora.server.errors.authorization.AuthzDeniedException: 
+new Added class 4 : fedora.server.errors.authorization.AuthzOperationalException: 
+new Added class 5 : fedora.server.errors.authorization.AuthzPermittedException: 
+new Added class 6 : fedora.server.errors.BackendSecurityParserException: 
+new Added class 7 : fedora.oai.BadArgumentException: 
+new Added class 8 : fedora.server.errors.servletExceptionExtensions.BadRequest400Exception: 
+new Added class 9 : fedora.oai.BadResumptionTokenException: 
+new Added class 10 : fedora.oai.BadVerbException: 
+new Added class 11 : fedora.client.BatchBuildGUI: 
+new Added class 12 : fedora.client.BatchBuildIngestGUI: 
+new Added class 13 : fedora.client.BatchIngestGUI: 
+new Added class 14 : fedora.client.BatchOutput: 
+new Added class 15 : fedora.client.bmech.BDefBuilder: 
+new Added class 16 : fedora.client.objecteditor.BehaviorDescriptionPanel: 
+new Added class 17 : fedora.server.management.BESecurityServlet: 
+new Added class 18 : fedora.client.bmech.BMechBuilder: 
+new Added class 19 : fedora.client.bmech.BMechBuilderException: 
+new Added class 20 : fedora.client.console.BooleanInputPanel: 
+new Added class 21 : fedora.client.console.ByteArrayInputPanel: 
+new Added class 22 : fedora.oai.CannotDisseminateFormatException: 
+new Added class 23 : fedora.client.actions.ChangeObjectState: 
+new Added class 24 : fedora.client.bmech.ComboBoxRenderer: 
+new Added class 25 : fedora.client.bmech.ComboBoxTableCellEditor: 
+new Added class 26 : fedora.server.errors.ConnectionPoolNotFoundException: 
+new Added class 27 : fedora.client.console.ConsoleCommandInvoker: 
+new Added class 28 : fedora.server.errors.servletExceptionExtensions.Continue100Exception: 
+new Added class 29 : fedora.client.objecteditor.DatastreamBindingPane: 
+new Added class 30 : fedora.client.bmech.DatastreamInputPane: 
+new Added class 31 : fedora.server.errors.DatastreamNotFoundException: 
+new Added class 32 : fedora.client.objecteditor.DatastreamPane: 
+new Added class 33 : fedora.server.access.dissemination.DatastreamResolverServlet: 
+new Added class 34 : fedora.client.objecteditor.DatastreamsPane: 
+new Added class 35 : fedora.client.console.DateTimeInputPanel: 
+new Added class 36 : fedora.client.bmech.DCElementDialog: 
+new Added class 37 : fedora.swing.jtable.DefaultSortTableModel: 
+new Added class 38 : fedora.server.access.DescribeRepositoryServlet: 
+new Added class 39 : fedora.server.errors.DisallowedHostException: 
+new Added class 40 : fedora.server.errors.DisseminationBindingInfoNotFoundException: 
+new Added class 41 : fedora.server.errors.DisseminationException: 
+new Added class 42 : fedora.server.errors.DisseminatorNotFoundException: 
+new Added class 43 : fedora.client.objecteditor.DisseminatorPane: 
+new Added class 44 : fedora.client.objecteditor.DisseminatorsPane: 
+new Added class 45 : fedora.client.bmech.DocumentsPane: 
+new Added class 46 : fedora.client.objecteditor.EditingPane: 
+new Added class 47 : fedora.utilities.policyEditor.EditUserClassDialog: 
+new Added class 48 : fedora.client.actions.ExportObject: 
+new Added class 49 : fedora.client.export.ExportOptionsDialog: 
+new Added class 50 : fedora.server.access.FedoraAccessServlet: 
+new Added class 51 : fedora.soapclient.FedoraAccessSoapServlet: 
+new Added class 52 : fedora.soapclient.ProfileSerializerThread: 
+new Added class 53 : fedora.soapclient.ReposInfoSerializerThread: 
+new Added class 54 : fedora.soapclient.ObjectHistorySerializerThread: 
+new Added class 55 : fedora.server.access.FedoraAPIAServiceLocator: 
+new Added class 56 : fedora.server.management.FedoraAPIMServiceLocator: 
+new Added class 57 : fedora.server.oai.FedoraOAIProviderServlet: 
+new Added class 58 : fedora.server.access.FieldSearchServlet: 
+new Added class 59 : fedora.localservices.fop.FOPServlet: 
+new Added class 60 : fedora.server.errors.servletExceptionExtensions.Forbidden403Exception: 
+new Added class 61 : fedora.client.FTypeDialog: 
+new Added class 62 : fedora.server.errors.GeneralException: 
+new Added class 63 : fedora.client.bmech.GeneralPane: 
+new Added class 64 : fedora.server.management.GetNextPIDServlet: 
+new Added class 65 : fedora.server.access.GetObjectHistoryServlet: 
+new Added class 66 : fedora.utilities.policyEditor.GroupRuleTableModel: 
+new Added class 67 : fedora.server.errors.HttpServiceNotFoundException: 
+new Added class 68 : fedora.oai.IDDoesNotExistException: 
+new Added class 69 : fedora.localservices.imagemanip.ImageManipulation: 
+new Added class 70 : fedora.client.objecteditor.ImportDialog: 
+new Added class 71 : fedora.server.errors.InconsistentTableSpecException: 
+new Added class 72 : fedora.server.errors.InitializationException: 
+new Added class 73 : fedora.utilities.install.InstallationCancelledException: 
+new Added class 74 : fedora.utilities.install.InstallationFailedException: 
+new Added class 75 : fedora.server.errors.servletExceptionExtensions.InternalError500Exception: 
+new Added class 76 : fedora.server.errors.InvalidContextException: 
+new Added class 77 : fedora.server.errors.InvalidIPSpecException: 
+new Added class 78 : fedora.server.errors.InvalidOperatorException: 
+new Added class 79 : fedora.server.errors.InvalidStateException: 
+new Added class 80 : fedora.server.errors.InvalidUserParmException: 
+new Added class 81 : fedora.server.errors.InvalidXMLNameException: 
+new Added class 82 : fedora.server.config.ItemListModel: 
+new Added class 83 : fedora.server.journal.JournalException: 
+new Added class 84 : fedora.swing.jtable.JSortTable: 
+new Added class 85 : fedora.swing.jtable.JSortTableTest: 
+new Added class 86 : fedora.utilities.policyEditor.JTreeTable: 
+new Added class 87 : fedora.server.access.ListDatastreamsServlet: 
+new Added class 88 : fedora.server.access.ListMethodsServlet: 
+new Added class 89 : fedora.client.actions.Login: 
+new Added class 90 : fedora.client.LoginDialog: 
+new Added class 91 : fedora.server.errors.LowlevelStorageException: 
+new Added class 92 : fedora.server.errors.LowlevelStorageInconsistencyException: 
+new Added class 93 : fedora.server.errors.MalformedPidException: 
+new Added class 94 : fedora.client.console.management.ManagementConsole: 
+new Added class 95 : fedora.swing.mdi.MDIDesktopPane: 
+new Added class 96 : fedora.swing.mdi.MDIDesktopManager: 
+new Added class 97 : fedora.client.objecteditor.MechanismInputPanel: 
+new Added class 98 : fedora.client.bmech.MethodDialog: 
+new Added class 99 : fedora.server.errors.MethodNotFoundException: 
+new Added class 100 : fedora.server.access.MethodParameterResolverServlet: 
+new Added class 101 : fedora.server.errors.MethodParmNotFoundException: 
+new Added class 102 : fedora.client.bmech.MethodPropertiesDialog: 
+new Added class 103 : fedora.client.bmech.MethodsPane: 
+new Added class 104 : fedora.server.errors.ModuleInitializationException: 
+new Added class 105 : fedora.server.errors.ModuleShutdownException: 
+new Added class 106 : fedora.client.NewObjectDialog: 
+new Added class 107 : fedora.client.CreateListener: 
+new Added class 108 : fedora.utilities.policyEditor.NewUserClassDialog: 
+new Added class 109 : fedora.oai.NoMetadataFormatsException: 
+new Added class 110 : fedora.client.console.NonNegativeIntegerInputPanel: 
+new Added class 111 : fedora.oai.NoRecordsMatchException: 
+new Added class 112 : fedora.oai.NoSetHierarchyException: 
+new Added class 113 : fedora.client.console.NullInputPanel: 
+new Added class 114 : fedora.server.errors.ObjectAlreadyInLowlevelStorageException: 
+new Added class 115 : fedora.server.errors.ObjectDependencyException: 
+new Added class 116 : fedora.client.objecteditor.ObjectEditorFrame: 
+new Added class 117 : fedora.server.errors.ObjectExistsException: 
+new Added class 118 : fedora.client.ObjectFormatDialog: 
+new Added class 119 : fedora.server.errors.ObjectIntegrityException: 
+new Added class 120 : fedora.server.errors.ObjectLockedException: 
+new Added class 121 : fedora.server.errors.ObjectNotFoundException: 
+new Added class 122 : fedora.server.errors.ObjectNotInLowlevelStorageException: 
+new Added class 123 : fedora.client.objecteditor.ObjectPane: 
+new Added class 124 : fedora.server.errors.ObjectValidityException: 
+new Added class 125 : fedora.server.errors.servletExceptionExtensions.Ok200Exception: 
+new Added class 126 : fedora.utilities.install.OptionValidationException: 
+new Added class 127 : fedora.server.config.ParameterPanel: 
+new Added class 128 : fedora.utilities.policyEditor.PolicyEditor: 
+new Added class 129 : fedora.client.actions.PurgeObject: 
+new Added class 130 : fedora.server.errors.QueryParseException: 
+new Added class 131 : fedora.common.rdf.RDFName: 
+new Added class 132 : fedora.server.errors.ReplicationException: 
+new Added class 133 : fedora.server.access.ReportServlet: 
+new Added class 134 : fedora.server.errors.RepositoryConfigurationException: 
+new Added class 135 : fedora.oai.RepositoryException: 
+new Added class 136 : fedora.server.errors.ResourceIndexException: 
+new Added class 137 : fedora.client.search.ResultFrame: 
+new Added class 138 : fedora.server.access.RISearchServlet: 
+new Added class 139 : fedora.oai.sample.SampleOAIProviderServlet: 
+new Added class 140 : fedora.localservices.saxon.SaxonServlet: 
+new Added class 141 : fedora.client.search.Search: 
+new Added class 142 : fedora.server.ServerController: 
+new Added class 143 : fedora.server.errors.ServerInitializationException: 
+new Added class 144 : fedora.server.errors.ServerShutdownException: 
+new Added class 145 : fedora.client.bmech.ServiceProfilePane: 
+new Added class 146 : fedora.server.errors.ShutdownException: 
+new Added class 147 : fedora.swing.jhelp.SimpleContentViewerUI: 
+new Added class 148 : fedora.swing.jtable.SortHeaderRenderer: 
+new Added class 149 : fedora.client.ingest.SourceRepoDialog: 
+new Added class 150 : fedora.utilities.policyEditor.StatusDialog: 
+new Added class 151 : fedora.server.errors.StorageDeviceException: 
+new Added class 152 : fedora.server.errors.StreamIOException: 
+new Added class 153 : fedora.server.errors.StreamReadException: 
+new Added class 154 : fedora.server.errors.StreamWriteException: 
+new Added class 155 : fedora.client.console.StringInputPanel: 
+new Added class 156 : fedora.utilities.policyEditor.TreeTableModelAdapter: 
+new Added class 157 : fedora.server.errors.servletExceptionExtensions.Unauthorized401Exception: 
+new Added class 158 : fedora.server.errors.servletExceptionExtensions.Unavailable503Exception: 
+new Added class 159 : fedora.server.errors.UnknownSessionTokenException: 
+new Added class 160 : fedora.server.errors.UnrecognizedFieldException: 
+new Added class 161 : fedora.server.errors.UnsupportedQueryLanguageException: 
+new Added class 162 : fedora.server.errors.UnsupportedTranslationException: 
+new Added class 163 : fedora.server.management.UploadServlet: 
+new Added class 164 : fedora.utilities.policyEditor.Utility: 
+new Added class 165 : fedora.server.errors.ValidationException: 
+new Added class 166 : fedora.client.actions.ViewObject: 
+new Added class 167 : fedora.client.actions.ViewObjectXML: 
+new Added class 168 : fedora.swing.mdi.WindowMenu: 
+new Added class 169 : fedora.server.access.WSDLServlet: 
+new Added class 170 : fedora.common.policy.XacmlName: 
+new Added class 171 : .XmlPullParserException: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 0  vs  class 55£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 95£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 95£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 95£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 15  vs  class 45£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:3  r15:0  r16:1  r17:0  
+class 15  vs  class 63£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:4  r14:4  r15:0  r16:4  r17:0  
+class 15  vs  class 103£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:1  r15:0  r16:1  r17:0  
+class 16  vs  class 127£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 30£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:2  r14:7  r15:0  r16:1  r17:0  
+class 18  vs  class 45£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:3  r15:0  r16:1  r17:0  
+class 18  vs  class 63£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:5  r14:5  r15:0  r16:5  r17:0  
+class 18  vs  class 103£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:5  r14:4  r15:0  r16:3  r17:0  
+class 18  vs  class 145£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:3  r15:0  r16:3  r17:0  
+class 29  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 29  vs  class 116£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:4  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 30  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 32  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:3  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 32  vs  class 46£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 116£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 34  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 116£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 36  vs  class 63£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:4  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 43  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:3  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 43  vs  class 46£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 116£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 44  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 44  vs  class 116£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 46  vs  class 116£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 48  vs  class 49£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 135£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 63  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 63  vs  class 18£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 63  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 63  vs  class 103£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 80  vs  class 41£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 89  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 92  vs  class 91£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 94  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 94  vs  class 56£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 95  vs  class 96£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 96  vs  class 95£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 97  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 97  vs  class 116£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 98  vs  class 103£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:4  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 102  vs  class 103£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:11  r11:0  r12:0  r13:0  r14:2  r15:0  r16:2  r17:0  
+class 103  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 103  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 103  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 103  vs  class 98£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 103  vs  class 102£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 104  vs  class 72£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 105  vs  class 146£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 106  vs  class 107£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 108  vs  class 66£º  r0:0  r1:0  r2:0  r3:5  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 114  vs  class 91£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 116  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 116  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 116  vs  class 123£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 122  vs  class 91£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 123  vs  class 46£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 123  vs  class 116£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 127  vs  class 82£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:9  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 128  vs  class 47£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 128  vs  class 66£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 128  vs  class 86£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 128  vs  class 108£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 128  vs  class 150£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 129  vs  class 116£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 137  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 137  vs  class 84£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:7  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 139  vs  class 135£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 143  vs  class 72£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 144  vs  class 146£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 145  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 148  vs  class 84£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 153  vs  class 152£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 154  vs  class 152£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 161  vs  class 136£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 164  vs  class 171£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 165  vs  class 119£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 166  vs  class 116£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 168  vs  class 95£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:6  r9:0  r10:2  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  16   2 :  0   3 :  31   4 :  1   5 :  0   6 :  0   7 :  5   8 :  93   9 :  0   10 :  59   11 :  85   12 :  0   13 :  38   14 :  80   15 :  0   16 :  21   17 :  0   

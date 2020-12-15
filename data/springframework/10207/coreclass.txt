@@ -1,0 +1,17 @@
+JobExecution:0.5266666666666666
+SimpleJob:0.36666666666666664
+JobInterruptedException:0.27666666666666667
+JobExecutionTests:0.25666666666666665
+AbstractStepDaoTests:0.22
+SimpleStepExecutor:0.21666666666666667
+SimpleStepExecutorTests:0.20666666666666667
+StubStep:0.15
+SimpleJobTests:0.14
+CommandLineJobRunner:0.11333333333333333
+StepExecutorInterruptionTests:0.1
+ThreadStepInterruptionPolicy:0.08333333333333333
+ThreadStepInterruptionPolicyTests:0.08333333333333333
+ExitStatusExceptionClassifier:0.07690476190476189
+SimpleExitStatusExceptionClassifierTests:0.07333333333333333
+JobInterruptedExceptionTests:0.006666666666666667
+SimpleExitStatusExceptionClassifier:0.0

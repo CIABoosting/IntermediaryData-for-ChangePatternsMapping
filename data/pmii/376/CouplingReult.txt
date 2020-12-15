@@ -1,0 +1,46 @@
+Compared Result of  two versions
+Number of New Class: 33
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.qedeq.kernel.base.module.Author: 
+new Added class 1 : org.qedeq.kernel.base.module.AuthorList: 
+new Added class 2 : org.qedeq.kernel.base.module.Axiom: 
+new Added class 3 : org.qedeq.kernel.base.module.Chapter: 
+new Added class 4 : org.qedeq.kernel.base.module.ChapterList: 
+new Added class 5 : org.qedeq.kernel.base.module.FormulaOrTerm: 
+new Added class 6 : org.qedeq.kernel.base.module.FunctionDefinition: 
+new Added class 7 : org.qedeq.kernel.base.module.Header: 
+new Added class 8 : org.qedeq.kernel.base.module.Import: 
+new Added class 9 : org.qedeq.kernel.base.module.ImportList: 
+new Added class 10 : org.qedeq.kernel.base.module.Latex: 
+new Added class 11 : org.qedeq.kernel.base.module.LatexList: 
+new Added class 12 : org.qedeq.kernel.base.module.LinkList: 
+new Added class 13 : org.qedeq.kernel.base.module.LiteratureItem: 
+new Added class 14 : org.qedeq.kernel.base.module.LiteratureItemList: 
+new Added class 15 : org.qedeq.kernel.base.module.Location: 
+new Added class 16 : org.qedeq.kernel.base.module.LocationList: 
+new Added class 17 : org.qedeq.kernel.base.module.Node: 
+new Added class 18 : org.qedeq.kernel.base.module.NodeType: 
+new Added class 19 : org.qedeq.kernel.base.module.PredicateDefinition: 
+new Added class 20 : org.qedeq.kernel.base.module.Proof: 
+new Added class 21 : org.qedeq.kernel.base.module.ProofList: 
+new Added class 22 : org.qedeq.kernel.base.module.Proposition: 
+new Added class 23 : org.qedeq.kernel.base.module.Qedeq: 
+new Added class 24 : org.qedeq.kernel.base.module.Rule: 
+new Added class 25 : org.qedeq.kernel.base.module.Section: 
+new Added class 26 : org.qedeq.kernel.base.module.SectionList: 
+new Added class 27 : org.qedeq.kernel.base.module.Specification: 
+new Added class 28 : org.qedeq.kernel.base.module.Subsection: 
+new Added class 29 : org.qedeq.kernel.base.module.SubsectionList: 
+new Added class 30 : org.qedeq.kernel.base.module.SubsectionType: 
+new Added class 31 : org.qedeq.kernel.base.module.UsedByList: 
+new Added class 32 : org.qedeq.kernel.base.module.VariableList: 
+testing relationship 
+class 2  vs  class 18£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 18£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 30£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 18£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 18£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 18£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 30£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  7   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,10 @@
+OrcWriterOptions:0.43333333333333335
+StringStatisticsBuilder:0.3933333333333333
+ColumnWriters:0.37290476190476185
+SliceDictionaryColumnWriter:0.31
+HiveSessionProperties:0.23666666666666666
+OrcFileWriterConfig:0.19333333333333333
+OrcMetadataWriter:0.18333333333333332
+DwrfMetadataWriter:0.18333333333333332
+TestOrcFileWriterConfig:0.14
+TestStringStatisticsBuilder:0.07

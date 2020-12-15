@@ -1,0 +1,13 @@
+DefaultSearchContext:0.37666666666666665
+TestSearchContext:0.3433333333333333
+PercolateContext:0.3433333333333333
+FetchPhase:0.3333333333333333
+SearchSourceBuilder:0.29
+ShardGetService:0.2833333333333333
+ExplainActionTests:0.26666666666666666
+SearchFieldsTests:0.20666666666666667
+SearchContext:0.20083333333333334
+DocumentActionsTests:0.2
+SearchRequestBuilder:0.18666666666666668
+SearchModule:0.14555555555555558
+FieldsParseElement:0.11

@@ -1,0 +1,11 @@
+TreeConverter:0.35
+SuperMethodInvocation:0.2866666666666667
+ClassInstanceCreation:0.27666666666666667
+SuperConstructorInvocation:0.2633333333333333
+ConstructorInvocation:0.24666666666666667
+MethodInvocation:0.24
+VarargsRewriter:0.23333333333333334
+MethodReference:0.22666666666666666
+EnumConstantDeclaration:0.20333333333333334
+RewriteContext:0.18666666666666668
+VarargsRewriterTest:0.17

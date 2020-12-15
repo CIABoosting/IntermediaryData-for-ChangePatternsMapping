@@ -1,0 +1,15 @@
+CMap:0.43
+MapMigrator:0.37
+ConcurrentMapManager:0.3566666666666667
+Node:0.3333333333333333
+ExecutorManager:0.2833333333333333
+ResponseQueueCall:0.26
+BlocksOperationHandler:0.25666666666666665
+BaseManager:0.25333333333333335
+ClusterTest:0.23333333333333334
+BlockInfoOperationHandler:0.2
+FactoryImpl:0.19083333333333333
+MasterMigratorTask:0.13333333333333333
+ResponsiveOperationHandler:0.03333333333333333
+MBlockMigrationCheck:0.023333333333333334
+BlockMigrationCheckHandler:0.017388888888888888

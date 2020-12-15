@@ -1,0 +1,224 @@
+Compared Result of  two versions
+Number of New Class: 102
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.torweg.pulse.component.core.accesscontrol.admin.AbstractAccessControlEditor: 
+new Added class 1 : org.torweg.pulse.accesscontrol.AbstractAccessControlObject: 
+new Added class 2 : org.torweg.pulse.accesscontrol.attributes.AbstractAttribute: 
+new Added class 3 : org.torweg.pulse.component.util.model.AbstractExtendedAddress: 
+new Added class 4 : org.torweg.pulse.util.AbstractImageGroup: 
+new Added class 5 : org.torweg.pulse.site.content.AbstractRegistryNode: 
+new Added class 6 : org.torweg.pulse.component.core.site.search.AdvancedSearchResult: 
+new Added class 7 : org.torweg.pulse.site.content.Attachment: 
+new Added class 8 : org.torweg.pulse.accesscontrol.AuthenticationAdapter: 
+new Added class 9 : org.torweg.pulse.webdav.util.BasicDAVResponse: 
+new Added class 10 : org.torweg.pulse.accesscontrol.attributes.BooleanAttribute: 
+new Added class 11 : org.torweg.pulse.accesscontrol.attributes.BundleAttribute: 
+new Added class 12 : org.torweg.pulse.component.shop.BusinessCase: 
+new Added class 13 : org.torweg.pulse.component.shop.CheckoutMailCase: 
+new Added class 14 : org.torweg.pulse.component.cms.CMSFormMailerConfig: 
+new Added class 15 : org.torweg.pulse.component.cms.CMSFormProcessorConfiguration: 
+new Added class 16 : org.torweg.pulse.component.cms.admin.CMSPageEditor: 
+new Added class 17 : org.torweg.pulse.component.core.accesscontrol.admin.CommandMatcherEditor: 
+new Added class 18 : org.torweg.pulse.site.content.Content: 
+new Added class 19 : org.torweg.pulse.site.content.ContentNode: 
+new Added class 20 : org.torweg.pulse.bundle.ControllerMethodConfiguration: 
+new Added class 21 : org.torweg.pulse.service.request.Cookie: 
+new Added class 22 : org.torweg.pulse.vfs.filebrowser.DirectoryDescriptor: 
+new Added class 23 : org.torweg.pulse.email.Email: 
+new Added class 24 : org.torweg.pulse.component.core.adminui.FCKEditorBrowser: 
+new Added class 25 : org.torweg.pulse.site.content.filter.Filter: 
+new Added class 26 : org.torweg.pulse.component.core.site.content.filter.admin.FilterEditor: 
+new Added class 27 : org.torweg.pulse.component.core.site.content.filter.admin.FilterMatchesEditor: 
+new Added class 28 : org.torweg.pulse.component.core.site.content.filter.admin.FilterRulesEditor: 
+new Added class 29 : org.torweg.pulse.service.event.ForbiddenEvent: 
+new Added class 30 : org.torweg.pulse.configuration.FormConfiguration: 
+new Added class 31 : org.torweg.pulse.result.FormResult: 
+new Added class 32 : org.torweg.pulse.util.ip2country.GeoIPLocatorProvider: 
+new Added class 33 : org.torweg.pulse.component.core.site.map.GetFullSitemap: 
+new Added class 34 : org.torweg.pulse.accesscontrol.Group: 
+new Added class 35 : org.torweg.pulse.configuration.JNDILookupConfiguration: 
+new Added class 36 : org.torweg.pulse.invocation.lifecycle.LifecycleBundleTasks: 
+new Added class 37 : org.torweg.pulse.util.LocaleUtils: 
+new Added class 38 : org.torweg.pulse.component.core.LocalizationLocator: 
+new Added class 39 : org.torweg.pulse.site.content.Localized: 
+new Added class 40 : org.torweg.pulse.accesscontrol.attributes.types.Option: 
+new Added class 41 : org.torweg.pulse.component.shop.OrderAmountLimit: 
+new Added class 42 : org.torweg.pulse.service.request.Parameter: 
+new Added class 43 : org.torweg.pulse.accesscontrol.Permission: 
+new Added class 44 : org.torweg.pulse.accesscontrol.PreliminaryUser: 
+new Added class 45 : org.torweg.pulse.util.captcha.ReCaptchaResponse: 
+new Added class 46 : org.torweg.pulse.site.RedirectConfigCase: 
+new Added class 47 : org.torweg.pulse.util.adminui.RegistryEditorResult: 
+new Added class 48 : org.torweg.pulse.component.util.representative.admin.RepresentativeEditorConfiguration: 
+new Added class 49 : org.torweg.pulse.component.util.representative.admin.RepresentativeEditorResult: 
+new Added class 50 : org.torweg.pulse.component.util.retailer.imports.RetailerImporterException: 
+new Added class 51 : org.torweg.pulse.accesscontrol.Role: 
+new Added class 52 : org.torweg.pulse.component.core.RuleBasedRedirector: 
+new Added class 53 : org.torweg.pulse.component.core.RuleBasedRedirectorConfig: 
+new Added class 54 : org.torweg.pulse.component.core.qc.SearchEngineQualityControl: 
+new Added class 55 : org.torweg.pulse.accesscontrol.attributes.SectionAttribute: 
+new Added class 56 : org.torweg.pulse.accesscontrol.attributes.SelectionAttribute: 
+new Added class 57 : org.torweg.pulse.util.SerializableDataSource: 
+new Added class 58 : org.torweg.pulse.service.request.ServiceRequest: 
+new Added class 59 : org.torweg.pulse.component.shop.model.ShoppingCart: 
+new Added class 60 : org.torweg.pulse.component.shop.ShoppingCartController: 
+new Added class 61 : org.torweg.pulse.vfs.providers.SingleFileSystemProvider: 
+new Added class 62 : org.torweg.pulse.site.map.SitemapNode: 
+new Added class 63 : org.torweg.pulse.util.search.SitemapNodeDurationFilterFactory: 
+new Added class 64 : org.torweg.pulse.site.map.SitemapSectionTag: 
+new Added class 65 : org.torweg.pulse.component.store.StoreContentDisplayer: 
+new Added class 66 : org.torweg.pulse.component.store.admin.StoreEditorConfig: 
+new Added class 67 : org.torweg.pulse.component.store.model.StoreItem: 
+new Added class 68 : org.torweg.pulse.accesscontrol.attributes.StringAttribute: 
+new Added class 69 : org.torweg.pulse.util.StringUtils: 
+new Added class 70 : org.torweg.pulse.component.core.site.view.StyleEditor: 
+new Added class 71 : org.torweg.pulse.component.core.accesscontrol.attributes.admin.SubEditorSelectionAttribute: 
+new Added class 72 : org.torweg.pulse.component.survey.model.Survey: 
+new Added class 73 : org.torweg.pulse.component.survey.SurveyController: 
+new Added class 74 : org.torweg.pulse.component.shop.model.TaxGroup: 
+new Added class 75 : org.torweg.pulse.component.core.TestCommandGenerator: 
+new Added class 76 : org.torweg.pulse.util.time.TestDuration: 
+new Added class 77 : org.torweg.pulse.configuration.TestEmailAddressConfiguration: 
+new Added class 78 : org.torweg.pulse.TestingHttpServletRequest: 
+new Added class 79 : org.torweg.pulse.TestingHttpServletResponse: 
+new Added class 80 : org.torweg.pulse.TestingServiceRequest: 
+new Added class 81 : org.torweg.pulse.service.request.TestLocaleManager: 
+new Added class 82 : org.torweg.pulse.configuration.TestMappedConfiguration: 
+new Added class 83 : org.torweg.pulse.util.time.TestTimeSpan: 
+new Added class 84 : org.torweg.pulse.accesscontrol.TestUser: 
+new Added class 85 : org.torweg.pulse.accesscontrol.TestUserAdminBuildDB: 
+new Added class 86 : org.torweg.pulse.util.xml.TestXMLConverter: 
+new Added class 87 : org.torweg.pulse.component.core.site.view.ThemesEditor: 
+new Added class 88 : org.torweg.pulse.component.core.site.view.ThemesEditorResult: 
+new Added class 89 : org.torweg.pulse.component.core.UploadProgressCheck: 
+new Added class 90 : org.torweg.pulse.accesscontrol.User: 
+new Added class 91 : org.torweg.pulse.accesscontrol.UserAttribute: 
+new Added class 92 : org.torweg.pulse.component.core.accesscontrol.UserSelfEditController: 
+new Added class 93 : org.torweg.pulse.site.content.Variant: 
+new Added class 94 : org.torweg.pulse.vfs.VFInputStream: 
+new Added class 95 : org.torweg.pulse.vfs.VFOutputStream: 
+new Added class 96 : org.torweg.pulse.vfs.VFSHelpers: 
+new Added class 97 : org.torweg.pulse.site.View: 
+new Added class 98 : org.torweg.pulse.component.core.site.view.ViewEditor: 
+new Added class 99 : org.torweg.pulse.vfs.VirtualFile: 
+new Added class 100 : org.torweg.pulse.component.shop.payment.WirecardPaymentModuleConfiguration: 
+new Added class 101 : org.torweg.pulse.util.xml.transform.XSLTOutputter: 
+testing relationship 
+class 0  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:7  r15:0  r16:17  r17:0  
+class 0  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:2  r17:0  
+class 4  vs  class 99£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 7  vs  class 99£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 8  vs  class 90£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:3  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 10  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:3  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:7  r15:0  r16:12  r17:0  
+class 17  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 43£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:16  r15:0  r16:15  r17:0  
+class 18  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:7  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 18  vs  class 99£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 19  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:2  r12:0  r13:1  r14:3  r15:0  r16:3  r17:0  
+class 19  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 19  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 21  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 23  vs  class 57£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 24  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:7  r17:0  
+class 26  vs  class 25£º  r0:0  r1:0  r2:0  r3:7  r4:0  r5:0  r6:6  r7:0  r8:0  r9:0  r10:0  r11:23  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 26  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:7  r15:0  r16:15  r17:0  
+class 27  vs  class 18£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 25£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:13  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:7  r15:0  r16:14  r17:0  
+class 28  vs  class 25£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:13  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:13  r15:0  r16:25  r17:0  
+class 29  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 33  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:2  r17:0  
+class 33  vs  class 62£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:4  r15:0  r16:2  r17:0  
+class 34  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 34  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 38  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:10  r17:0  
+class 38  vs  class 62£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:2  r6:1  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:2  r14:1  r15:0  r16:0  r17:0  
+class 40  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 51  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 51  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 53£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 55  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 56  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 99£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:6  r9:0  r10:0  r11:0  r12:0  r13:0  r14:6  r15:0  r16:0  r17:0  
+class 59  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:-1  r15:0  r16:3  r17:0  
+class 59  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 60  vs  class 42£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 60  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:29  r15:0  r16:17  r17:0  
+class 60  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:16  r12:0  r13:13  r14:1  r15:0  r16:0  r17:0  
+class 61  vs  class 99£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:17  r15:0  r16:0  r17:0  
+class 62  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 62  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 62  vs  class 64£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 62  vs  class 97£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:13  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 63  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 65  vs  class 18£º  r0:0  r1:0  r2:0  r3:1  r4:2  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 65  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:2  r17:0  
+class 65  vs  class 62£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 68  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 70  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:3  r17:0  
+class 70  vs  class 62£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 71  vs  class 2£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 71  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:2  r17:0  
+class 73  vs  class 42£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 73  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:10  r15:0  r16:9  r17:0  
+class 73  vs  class 72£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:4  r14:6  r15:0  r16:6  r17:0  
+class 73  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:2  r15:0  r16:1  r17:0  
+class 75  vs  class 80£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 80  vs  class 58£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 81  vs  class 80£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 84  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:16  r12:0  r13:16  r14:0  r15:0  r16:0  r17:0  
+class 84  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:46  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 84  vs  class 90£º  r0:0  r1:0  r2:0  r3:4  r4:0  r5:0  r6:4  r7:0  r8:0  r9:0  r10:0  r11:24  r12:0  r13:48  r14:0  r15:0  r16:0  r17:0  
+class 85  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:24  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 85  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:36  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 85  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:24  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 87  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:7  r15:0  r16:6  r17:0  
+class 87  vs  class 62£º  r0:0  r1:0  r2:0  r3:4  r4:0  r5:0  r6:4  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 87  vs  class 88£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:12  r14:0  r15:0  r16:0  r17:0  
+class 88  vs  class 62£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 89  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:4  r17:0  
+class 90  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 90  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 90  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 90  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 90  vs  class 62£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 91  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 92  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:6  r14:0  r15:0  r16:2  r17:0  
+class 92  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:9  r15:0  r16:11  r17:0  
+class 92  vs  class 90£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:3  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:2  r14:2  r15:0  r16:0  r17:0  
+class 93  vs  class 99£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 95  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 95  vs  class 99£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 97  vs  class 18£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:2  r6:0  r7:0  r8:6  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 97  vs  class 42£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 97  vs  class 62£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 98  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 98  vs  class 19£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 98  vs  class 42£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:16  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 98  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:3  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 98  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:34  r15:0  r16:33  r17:0  
+class 98  vs  class 62£º  r0:0  r1:0  r2:0  r3:8  r4:0  r5:0  r6:8  r7:0  r8:0  r9:0  r10:0  r11:30  r12:0  r13:12  r14:5  r15:0  r16:4  r17:0  
+class 98  vs  class 64£º  r0:0  r1:0  r2:0  r3:5  r4:0  r5:0  r6:3  r7:0  r8:0  r9:0  r10:0  r11:10  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 98  vs  class 97£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:11  r14:0  r15:0  r16:0  r17:0  
+class 99  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 101  vs  class 58£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:5  r17:0  
+record  0 :  0   1 :  9   2 :  1   3 :  48   4 :  4   5 :  29   6 :  70   7 :  0   8 :  57   9 :  0   10 :  0   11 :  381   12 :  0   13 :  176   14 :  269   15 :  0   16 :  240   17 :  0   

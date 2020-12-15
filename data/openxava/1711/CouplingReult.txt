@@ -1,0 +1,29 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openxava.actions.AddElementsToCollectionAction: 
+new Added class 1 : org.openxava.annotations.parse.AnnotatedClassParser: 
+new Added class 2 : org.openxava.test.tests.CarrierTest: 
+new Added class 3 : org.openxava.util.Classes: 
+new Added class 4 : org.openxava.test.tests.CustomerWithSectionTest: 
+new Added class 5 : org.openxava.test.tests.DeliveryTest: 
+new Added class 6 : org.openxava.actions.EditElementInCollectionAction: 
+new Added class 7 : org.openxava.test.model.Human: 
+new Added class 8 : org.openxava.test.tests.InvoiceFromDeliveriesTest: 
+new Added class 9 : org.openxava.model.MapFacade: 
+new Added class 10 : org.openxava.model.impl.MapFacadeBean: 
+new Added class 11 : org.openxava.controller.ModuleManager: 
+new Added class 12 : org.openxava.model.impl.POJOPersistenceProviderBase: 
+new Added class 13 : org.openxava.util.PropertiesManager: 
+new Added class 14 : org.openxava.actions.SearchByViewKeyAction: 
+new Added class 15 : org.openxava.view.View: 
+testing relationship 
+class 1  vs  class 15£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:10  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 10  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:10  r12:0  r13:10  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 15£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:1  r17:0  
+class 12  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 11£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  4   4 :  0   5 :  2   6 :  10   7 :  2   8 :  0   9 :  0   10 :  0   11 :  22   12 :  0   13 :  20   14 :  4   15 :  0   16 :  1   17 :  0   

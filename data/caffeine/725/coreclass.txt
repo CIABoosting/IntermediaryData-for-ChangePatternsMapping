@@ -1,0 +1,12 @@
+UnboundedLocalCache:0.3466666666666667
+BoundedLocalCache:0.29333333333333333
+Caffeine:0.29333333333333333
+LocalManualCache:0.2733333333333333
+CacheGenerator:0.27
+CacheProvider:0.16666666666666666
+CacheContext:0.16666666666666666
+LocalAsyncLoadingCache:0.1211111111111111
+CacheFromContext:0.12
+AsyncLoadingCacheTest:0.016666666666666666
+AsyncWeigher:0.0
+AsyncRemovalListener:0.0

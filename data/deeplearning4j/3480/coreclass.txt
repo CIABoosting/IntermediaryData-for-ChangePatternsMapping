@@ -1,0 +1,5 @@
+BatchNormalizationTest:0.30666666666666664
+TestEarlyStopping:0.2833333333333333
+GradientCheckTests:0.2633333333333333
+TestEarlyStoppingCompGraph:0.17
+LossFunctionGradientCheck:0.14666666666666667

@@ -1,0 +1,16 @@
+MongoReadableStream:0.605
+MongoWritableStream:0.4572222222222222
+DBCollection:0.42333333333333334
+DBCursor:0.36666666666666664
+MongoCollectionStream:0.3466666666666667
+MongoCollectionImpl:0.3433333333333333
+MongoSaveTest:0.27666666666666667
+Concrete:0.23333333333333334
+MongoCollectionTest:0.2
+MongoCursorTest:0.15
+InsertMongoDocumentAcceptanceTest:0.14
+ConcreteSerializer:0.13666666666666666
+MongoGetMoreTest:0.12
+MongoFindTest:0.12
+MongoIterableCollection:0.11666666666666667
+MongoStreamTest:0.03777777777777778

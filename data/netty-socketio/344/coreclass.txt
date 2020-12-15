@@ -1,0 +1,14 @@
+Packet:0.5966666666666667
+Decoder:0.44
+XHRPollingTransport:0.30333333333333334
+NamespaceClient:0.25
+BroadcastOperations:0.24333333333333335
+EncoderHandler:0.20333333333333334
+PacketListener:0.19666666666666666
+AuthorizeHandler:0.16333333333333333
+HeartbeatHandler:0.16
+WebSocketTransport:0.15666666666666668
+Encoder:0.15333333333333332
+SocketIOChannelInitializer:0.14333333333333334
+WrongUrlHandler:0.1075
+AuthorizeMessage:0.03833333333333333

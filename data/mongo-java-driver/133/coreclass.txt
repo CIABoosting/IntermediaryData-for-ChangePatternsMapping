@@ -1,0 +1,16 @@
+InternalStreamConnection:0.42
+ResponseBuffers:0.33
+RequestMessage:0.29333333333333333
+QueryProtocol:0.25666666666666665
+KillCursorProtocol:0.25333333333333335
+JsonWriter:0.24666666666666667
+StrictJsonWriter:0.24333333333333335
+ProtocolHelper:0.24
+WriteProtocol:0.22666666666666666
+CommandMessage:0.22
+StrictCharacterStreamJsonWriter:0.19
+GetMoreResultCallback:0.18833333333333332
+QueryResultCallback:0.18833333333333332
+GetMoreProtocol:0.17
+CommandProtocolImpl:0.165
+SendMessageCallback:0.16

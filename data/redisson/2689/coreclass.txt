@@ -1,0 +1,16 @@
+RedisConnection:0.56
+LoadBalancer:0.51
+ConnectionPool:0.32
+ConnectionEntry:0.32
+MasterSlaveEntry:0.28
+FutureConnectionListener:0.27666666666666667
+SentinelConnectionManager:0.2
+ClusterConnectionManager:0.2
+ConnectionManager:0.19583333333333333
+CommandExecutorService:0.18666666666666668
+MasterSlaveConnectionManager:0.14
+BaseLoadBalancer:0.13333333333333333
+SingleEntry:0.12666666666666668
+BaseMasterSlaveServersConfig:0.12
+NodeSource:0.11833333333333333
+PubSubConnectionPoll:0.06666666666666667

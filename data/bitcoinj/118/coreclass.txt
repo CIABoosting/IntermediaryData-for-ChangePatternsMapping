@@ -1,0 +1,12 @@
+Utils:0.8266666666666667
+Script:0.48333333333333334
+PeerAddress:0.31333333333333335
+DatabaseFullPrunedBlockStore:0.31
+UTXO:0.27666666666666667
+VarInt:0.245
+LevelDBFullPrunedBlockStore:0.21666666666666667
+ScriptChunk:0.2
+FullBlockTestGenerator:0.14
+SeedPeers:0.13666666666666666
+PostgresFullPrunedBlockStore:0.13666666666666666
+TransactionOutputChanges:0.10666666666666667

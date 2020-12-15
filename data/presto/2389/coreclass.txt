@@ -1,0 +1,11 @@
+AccessControl:0.48
+FileBasedSystemAccessControl:0.3233333333333333
+AllowAllAccessControl:0.2833333333333333
+AllowAllSystemAccessControl:0.26666666666666666
+DenyAllAccessControl:0.26
+AccessControlManager:0.24666666666666667
+ReadOnlySystemAccessControl:0.24333333333333335
+AccessDeniedException:0.23333333333333334
+SystemAccessControl:0.21333333333333335
+TestSystemAccessControlFactory:0.19666666666666666
+InitializingSystemAccessControl:0.043333333333333335

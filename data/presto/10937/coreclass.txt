@@ -1,0 +1,9 @@
+Rewriter:0.36333333333333334
+NodePrinter:0.31
+PlanVisitor:0.25
+PlanNodeRewriter:0.16333333333333333
+RewritingVisitor:0.15666666666666668
+Visitor:0.14666666666666667
+DistributedExecutionPlanner:0.11
+LogicalPlanner:0.07333333333333333
+TableAliasSelector:0.06

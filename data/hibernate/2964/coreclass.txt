@@ -1,0 +1,10 @@
+Cascade:0.59
+AbstractSaveEventListener:0.23
+AbstractFlushingEventListener:0.19666666666666666
+DefaultMergeEventListener:0.19666666666666666
+DefaultSaveOrUpdateEventListener:0.19666666666666666
+DefaultDeleteEventListener:0.15333333333333332
+DefaultReplicateEventListener:0.13
+DefaultRefreshEventListener:0.11333333333333333
+DefaultEvictEventListener:0.10666666666666667
+DefaultLockEventListener:0.10666666666666667

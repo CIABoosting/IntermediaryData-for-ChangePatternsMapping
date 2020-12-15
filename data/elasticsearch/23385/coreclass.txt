@@ -1,0 +1,11 @@
+MetaData:0.8266666666666667
+TermVectorRequest:0.39666666666666667
+SimpleRoutingTests:0.26
+SimpleMgetTests:0.22666666666666666
+RoutingMissingException:0.19666666666666666
+TransportUpdateAction:0.16
+TransportExplainAction:0.16
+TransportSingleShardTermVectorAction:0.14333333333333334
+TransportGetAction:0.08333333333333333
+TransportMultiGetAction:0.08333333333333333
+TransportMultiTermVectorsAction:0.07333333333333333

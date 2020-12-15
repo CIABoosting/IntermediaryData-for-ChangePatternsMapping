@@ -1,0 +1,10 @@
+TransformCorrelatedInPredicateToJoin:0.28
+RemoveUnreferencedScalarApplyNodes:0.17
+MergeLimitWithDistinct:0.16333333333333333
+RemoveEmptyDelete:0.16333333333333333
+ImplementFilteredAggregations:0.16
+TransformUncorrelatedLateralToJoin:0.15666666666666668
+PruneCrossJoinColumns:0.15666666666666668
+PruneJoinColumns:0.15666666666666668
+RemoveRedundantIdentityProjections:0.06333333333333334
+SingleMarkDistinctToGroupBy:0.011666666666666667

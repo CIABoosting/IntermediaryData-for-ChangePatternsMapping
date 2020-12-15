@@ -1,0 +1,14 @@
+NeuralNetConfiguration:0.52
+MultiLayerNetwork:0.4
+MultiLayerConfiguration:0.39
+Builder:0.31
+BarnesHutTsne:0.29
+Model:0.24666666666666667
+BaseOptimizer:0.23666666666666666
+SVMLightDataFetcher:0.23166666666666666
+BaseLayer:0.15666666666666668
+WorkerNode:0.15642857142857144
+WeightInitUtil:0.105
+ListBuilder:0.08166666666666667
+ConvolutionParamInitializer:0.06333333333333334
+ConvolutionDownSampleLayerTest:0.06

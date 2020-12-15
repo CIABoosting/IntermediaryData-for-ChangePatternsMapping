@@ -1,0 +1,12 @@
+XContentParser:0.61
+AbstractQueryBuilder:0.46
+BaseTermQueryBuilder:0.27666666666666667
+JsonXContentParser:0.23
+FuzzyQueryBuilder:0.21666666666666667
+RangeQueryBuilder:0.21
+AbstractXContentParser:0.20333333333333334
+TermsQueryBuilder:0.20333333333333334
+TermQueryBuilder:0.18333333333333332
+TypeQueryBuilder:0.17
+SpanTermQueryBuilder:0.15666666666666668
+CborXContentParserTests:0.07333333333333333

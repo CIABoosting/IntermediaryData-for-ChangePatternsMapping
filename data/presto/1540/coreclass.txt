@@ -1,0 +1,14 @@
+LookupJoinOperator:0.46
+LocalQueryRunner:0.35333333333333333
+TestHashJoinOperator:0.32
+DummySpillerFactory:0.27051984126984113
+SingleStreamSpillerFactory:0.27
+HashBuilderOperator:0.26666666666666666
+LocalExecutionPlanner:0.23666666666666666
+Visitor:0.19333333333333333
+LookupJoinOperators:0.19333333333333333
+JoinProbeCompiler:0.19166666666666668
+LookupJoinOperatorFactory:0.18
+HashBuilderOperatorFactory:0.14666666666666667
+HashJoinOperatorFactoryFactory:0.11666666666666667
+InterpretedHashGenerator:0.11

@@ -1,0 +1,12 @@
+MapContainer:0.71
+AbstractRecordStore:0.6166666666666667
+IndexTest:0.31333333333333335
+QueryOperation:0.31333333333333335
+DefaultRecordStore:0.18666666666666668
+RecordStoreTest:0.17333333333333334
+PostJoinMapOperation:0.17
+AddIndexOperation:0.13333333333333333
+MapMigrationAwareService:0.13
+MapSplitBrainHandlerService:0.11
+QueryContext:0.08
+QueryOperationTestSupport:0.019444444444444445

@@ -1,0 +1,16 @@
+HiveColumnHandle:0.5833333333333334
+HiveUtil:0.4166666666666667
+AbstractTestHiveClient:0.27
+HiveClient:0.24333333333333335
+DwrfHiveRecordCursor:0.22666666666666666
+ColumnarTextHiveRecordCursor:0.21666666666666667
+ColumnarBinaryHiveRecordCursor:0.21666666666666667
+OrcHiveRecordCursor:0.21333333333333335
+ParquetHiveRecordCursor:0.21333333333333335
+GenericHiveRecordCursor:0.21
+RcFilePageSource:0.18
+BenchmarkHiveFileFormats:0.17666666666666667
+TestJsonHiveHandles:0.14
+AbstractTestHiveFileFormats:0.11666666666666667
+HiveTestUtils:0.08666666666666667
+TestHiveColumnHandle:0.08333333333333333

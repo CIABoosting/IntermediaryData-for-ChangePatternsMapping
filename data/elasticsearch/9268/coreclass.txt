@@ -1,0 +1,15 @@
+AggregatorBuilder:0.37333333333333335
+ValuesSourceAggregatorBuilder:0.3566666666666667
+SearchModule:0.3275
+Parser:0.27
+QueryStringQueryBuilderTests:0.26
+AbstractQueryTestCase:0.24666666666666667
+Balancer:0.24333333333333335
+MapperQueryParser:0.22666666666666666
+ChildrenAggregatorBuilder:0.21166666666666667
+SnapshotUtils:0.20666666666666667
+HotspotBug:0.18666666666666668
+BaseAggregationTestCase:0.15333333333333332
+QueryParser:0.14666666666666667
+FilterRoutingTests:0.10333333333333333
+SnapshotUtilsTests:0.03666666666666667

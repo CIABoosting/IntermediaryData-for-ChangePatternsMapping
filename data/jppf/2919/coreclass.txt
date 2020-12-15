@@ -1,0 +1,12 @@
+AbstractNodeContext:0.44
+JPPFNode:0.4166666666666667
+AbstractClientConnectionHandler:0.28
+AbstractJPPFClientConnection:0.23416666666666666
+NodeContextFuture:0.20333333333333334
+BaseJPPFClientConnection:0.18
+TaskServerConnectionHandler:0.16005555555555556
+RemoteClassLoaderConnection:0.13666666666666666
+WaitingNodeRequestState:0.13
+AbstractClassLoaderConnection:0.07
+ClassLoaderRequestHandler:0.06666666666666667
+WaitingJobState:0.023333333333333334

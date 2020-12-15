@@ -1,0 +1,9 @@
+BaseMultiLayerNetwork:0.55
+MultiLayerGradient:0.39
+LogisticTest:0.35555555555555557
+NeuralNetConfiguration:0.26
+MultiLayerNetworkOptimizer:0.2248888888888889
+ConvolutionalDBN:0.21
+Sigmoid:0.18333333333333332
+Linear:0.13666666666666666
+MnistExampleMultiThreaded:0.12

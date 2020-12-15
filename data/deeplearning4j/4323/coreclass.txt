@@ -1,0 +1,9 @@
+Layer:0.44666666666666666
+LocalResponseNormalization:0.25
+ComputationGraphConfiguration:0.23666666666666666
+SubsamplingLayer:0.19
+ConvolutionLayer:0.19
+RnnOutputLayer:0.11666666666666667
+InputTypeUtil:0.1
+FeedForwardLayer:0.04
+BaseRecurrentLayer:0.04

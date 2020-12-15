@@ -1,0 +1,16 @@
+Block:0.53
+VariableWidthType:0.5116666666666667
+VariableWidthBlock:0.45
+VariableWidthBlockBuilder:0.30666666666666664
+AbstractVariableWidthBlock:0.25666666666666665
+GroupByIdBlock:0.25333333333333335
+AbstractFixedWidthBlock:0.23333333333333334
+SnappyBlock:0.20666666666666667
+DictionaryEncodedBlock:0.20666666666666667
+RunLengthEncodedBlock:0.19666666666666666
+VarcharType:0.13
+VarbinaryType:0.13
+HyperLogLogType:0.12333333333333334
+ModelType:0.12333333333333334
+TestPagesSerde:0.12
+TestVariableWidthBlockBuilder:0.023333333333333334

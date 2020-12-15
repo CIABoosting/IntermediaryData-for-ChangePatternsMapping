@@ -1,0 +1,13 @@
+StaxEventItemWriter:0.38333333333333336
+AbstractDataSourceItemReaderIntegrationTests:0.36666666666666664
+HibernateCursorItemReader:0.32976190476190476
+StaxEventItemReader:0.32976190476190476
+FooItemReader:0.24666666666666667
+ResourceLineReader:0.24666666666666667
+DrivingQueryItemReader:0.24666666666666667
+StagingItemReader:0.24666666666666667
+FlatFileItemWriter:0.24666666666666667
+JdbcCursorItemReader:0.23333333333333334
+StaxEventItemReaderTests:0.2
+StaxEventWriterItemWriterTests:0.12
+HibernateCursorItemReaderIntegrationTests:0.08666666666666667

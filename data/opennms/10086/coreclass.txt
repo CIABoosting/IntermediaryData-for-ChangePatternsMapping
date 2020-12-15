@@ -1,0 +1,10 @@
+NullNotificationStrategy:0.63
+XmlRpcNotifier:0.48
+EventQueueProcessor:0.31
+ImportAssetsServlet:0.2866666666666667
+ModifyAssetServlet:0.285
+TimeoutSecureXmlRpcTransport:0.24666666666666667
+TimeoutSecureXmlRpcClient:0.20666666666666667
+ExportAssetsServlet:0.15666666666666668
+AssetException:0.11416666666666667
+TimeoutSecureXmlRpcTransportFactory:0.08333333333333333

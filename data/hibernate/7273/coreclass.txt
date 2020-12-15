@@ -1,0 +1,16 @@
+EntityPersister:0.6866666666666666
+AbstractEntityPersister:0.4033333333333333
+EntityType:0.3466666666666667
+SessionImpl:0.29
+ClassMetadata:0.2833333333333333
+EntityTuplizer:0.2500396825396825
+StatelessSessionImpl:0.23
+DefaultSaveOrUpdateEventListener:0.22333333333333333
+CustomPersister:0.21
+EntityIdentityInsertAction:0.19666666666666666
+DefaultMergeEventListener:0.16333333333333333
+AbstractSaveEventListener:0.16333333333333333
+DefaultLoadEventListener:0.15333333333333332
+AbstractEntityTuplizer:0.13666666666666666
+DefaultDeleteEventListener:0.13
+DefaultUpdateEventListener:0.02666666666666667

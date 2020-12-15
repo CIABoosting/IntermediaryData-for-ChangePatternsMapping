@@ -1,0 +1,10 @@
+JdbcTemplate:0.63
+H2DbSupport:0.2
+OracleDbSupport:0.2
+SQLServerDbSupport:0.2
+DB2DbSupport:0.2
+HsqlDbSupport:0.2
+DerbyDbSupport:0.2
+MySQLDbSupport:0.2
+PostgreSQLDbSupport:0.2
+DbMigrate:0.11

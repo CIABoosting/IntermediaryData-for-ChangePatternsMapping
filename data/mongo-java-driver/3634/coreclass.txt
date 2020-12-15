@@ -1,0 +1,13 @@
+ServerDescription:0.7133333333333334
+ClusterDescription:0.36333333333333334
+IsMasterServerStateNotifier:0.25
+ServerDescriptionTest:0.23666666666666666
+Builder:0.19666666666666666
+DefaultServer:0.18666666666666668
+ReadPreferenceTest:0.14
+DefaultCluster:0.12666666666666668
+ReadPreferenceServerSelectorTest:0.12
+LatencyMinimizingServerSelectorTest:0.11666666666666667
+PrimaryServerSelectorTest:0.08333333333333333
+ServerAddressSelectorTest:0.08333333333333333
+ClusterDescriptionTest:0.03

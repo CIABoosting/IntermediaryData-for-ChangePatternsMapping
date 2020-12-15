@@ -1,0 +1,15 @@
+ActionConfig:0.6333333333333333
+BaseScopeInjector:0.38333333333333336
+RequestScopeInjector:0.31333333333333335
+ApplicationScopeInjector:0.29333333333333333
+ServletContextScopeInjector:0.29333333333333333
+ScopeDataResolver:0.27666666666666667
+SessionScopeInjector:0.24666666666666667
+ActionMethodParser:0.20333333333333334
+ActionRequestRecursionTest:0.13666666666666666
+ScopeDataResolverTest:0.11666666666666667
+ServletConfigInterceptor:0.10333333333333333
+ServletDispatcherResultTest:0.09333333333333334
+MadvocContextScopeInjector:0.08333333333333333
+MadvocContextInjector:0.03666666666666667
+MyWebApplication:0.023333333333333334

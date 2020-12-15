@@ -1,0 +1,16 @@
+Encoder:0.35
+HighLevelEncoder:0.28488888888888897
+Decoder:0.2575
+BitArray:0.2575
+FormatInformation:0.2519444444444444
+DefaultPlacement:0.24666666666666667
+DecodedBitStreamParser:0.22416666666666665
+MaskUtil:0.21666666666666667
+PDF417HighLevelEncoder:0.21
+PDF417ScanningDecoder:0.2
+AddressBookResultHandler:0.19666666666666666
+BenchmarkItem:0.19666666666666666
+AlignmentPatternFinder:0.19666666666666666
+MonochromeRectangleDetector:0.14333333333333334
+CommandLineEncoder:0.13
+SAComparator:0.11666666666666667

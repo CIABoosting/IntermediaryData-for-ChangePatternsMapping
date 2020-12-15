@@ -1,0 +1,11 @@
+StorageManagerConfig:0.55
+ShardOrganizationManager:0.4266666666666667
+RaptorPageSinkProvider:0.30333333333333334
+ShardCompactionManager:0.2833333333333333
+ShardOrganizerUtil:0.26666666666666666
+StorageModule:0.26
+TestShardOrganizationManager:0.23
+RaptorPageSink:0.16833333333333333
+PartitionedPageWriter:0.16166666666666665
+CompactionSetCreator:0.15
+TestRaptorConnector:0.03333333333333333

@@ -1,0 +1,17 @@
+Compared Result of  two versions
+Number of New Class: 11
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.jquantlib.math.interpolations.factories.BackwardFlat: 
+new Added class 1 : org.jquantlib.math.interpolations.BackwardFlatInterpolation: 
+new Added class 2 : org.jquantlib.math.interpolations.factories.BicubicSpline: 
+new Added class 3 : org.jquantlib.math.interpolations.factories.Bilinear: 
+new Added class 4 : org.jquantlib.math.interpolations.factories.Cubic: 
+new Added class 5 : org.jquantlib.math.interpolations.CubicSpline: 
+new Added class 6 : org.jquantlib.math.interpolations.FlatExtrapolator2D: 
+new Added class 7 : org.jquantlib.math.interpolations.factories.ForwardFlat: 
+new Added class 8 : org.jquantlib.math.interpolations.ForwardFlatInterpolation: 
+new Added class 9 : org.jquantlib.math.interpolations.factories.Linear: 
+new Added class 10 : org.jquantlib.math.interpolations.factories.LogLinear: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,11 @@
+TestBinaryCipherExecutor:0.29333333333333333
+BaseStringCipherExecutor:0.22
+ProtocolTicketCipherExecutor:0.15
+PasswordResetTokenCipherExecutor:0.15
+BaseBinaryCipherExecutor:0.14666666666666667
+BinaryCipherExecutorTests:0.14
+WebflowConversationStateCipherExecutor:0.04666666666666667
+DefaultTicketCipherExecutor:0.04666666666666667
+CacheCredentialsCipherExecutor:0.04666666666666667
+MultifactorAuthenticationTrustCipherExecutor:0.04666666666666667
+TicketGrantingCookieCipherExecutor:0.04666666666666667

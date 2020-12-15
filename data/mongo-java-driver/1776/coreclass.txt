@@ -1,0 +1,17 @@
+FindModel:0.6033333333333334
+DBCursor:0.5866666666666667
+NewMongoCollection:0.4325
+NewMongoCollectionImpl:0.31
+MongoCollectionView:0.30666666666666664
+FindOneAndReplaceModel:0.22666666666666666
+FindOneAndUpdateModel:0.22666666666666666
+DistinctModel:0.18
+FindOneAndDeleteModel:0.14666666666666667
+CountModel:0.14
+AggregateModel:0.09777777777777777
+ReplaceOneModel:0.08444444444444445
+UpdateOneModel:0.08444444444444445
+UpdateManyModel:0.08444444444444445
+BulkWriteModel:0.06
+DeleteOneModel:0.02
+DeleteManyModel:0.02

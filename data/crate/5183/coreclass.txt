@@ -1,0 +1,15 @@
+TablePropertiesAnalysis:0.5666666666666667
+TableProperties:0.48333333333333334
+CreateTableAnalysis:0.2833333333333333
+DDLIntegrationTest:0.2
+RowCountResult:0.19666666666666666
+AbstractTableInfo:0.18333333333333332
+RefreshIntervalSettingApplier:0.14666666666666667
+CreateTableStatementAnalyzer:0.12333333333333334
+CreateBlobTablePropertiesAnalysis:0.11
+AlterBlobTablePropertiesAnalysis:0.11
+ESBulkIndexTask:0.10666666666666667
+AsyncChainedTask:0.1
+AlterTableAnalyzer:0.1
+AlterBlobTableAnalyzer:0.09
+CreateBlobTableStatementAnalyzer:0.08333333333333333

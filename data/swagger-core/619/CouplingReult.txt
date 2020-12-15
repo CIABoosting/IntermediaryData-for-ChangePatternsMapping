@@ -1,0 +1,32 @@
+Compared Result of  two versions
+Number of New Class: 15
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.swagger.models.parameters.AbstractSerializableParameter: 
+new Added class 1 : io.swagger.models.properties.ArrayProperty: 
+new Added class 2 : io.swagger.ArrayPropertyTest: 
+new Added class 3 : io.swagger.models.BeanValidationsModel: 
+new Added class 4 : io.swagger.BeanValidatorTest: 
+new Added class 5 : io.swagger.jackson.ModelResolver: 
+new Added class 6 : io.swagger.ModelSerializerTest: 
+new Added class 7 : io.swagger.models.properties.ObjectProperty: 
+new Added class 8 : io.swagger.util.ParameterProcessor: 
+new Added class 9 : io.swagger.ParameterProcessorTest: 
+new Added class 10 : io.swagger.util.DateStub: 
+new Added class 11 : io.swagger.models.properties.PropertyBuilder: 
+new Added class 12 : io.swagger.util.PropertyDeserializer: 
+new Added class 13 : io.swagger.jaxrs.Reader: 
+new Added class 14 : io.swagger.models.Swagger: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 0£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:1  r13:13  r14:0  r15:0  r16:5  r17:0  
+class 11  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:5  r6:0  r7:0  r8:10  r9:0  r10:6  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  3   4 :  3   5 :  7   6 :  1   7 :  0   8 :  10   9 :  0   10 :  6   11 :  24   12 :  1   13 :  17   14 :  2   15 :  0   16 :  5   17 :  0   

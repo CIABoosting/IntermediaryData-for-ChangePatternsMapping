@@ -1,0 +1,6 @@
+ClassLevelMethodsOnlyRunWhenNecessaryTest:0.42333333333333334
+HasBeforeClassButTestIsIgnored:0.22666666666666666
+BeforeClassAndTestFailButClassIsIgnored:0.15
+HasAfterClassButTestIsIgnored:0.15
+BrokenRule:0.09694444444444444
+FilteredTests:0.043055555555555555

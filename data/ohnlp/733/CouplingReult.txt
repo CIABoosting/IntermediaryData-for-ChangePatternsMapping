@@ -1,0 +1,34 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : edu.mayo.bmi.uima.lookup.ae.BaseLookupConsumerImpl: 
+new Added class 1 : edu.mayo.bmi.dictionarytools.CreateLuceneIndexFromDelimitedFile: 
+new Added class 2 : edu.mayo.bmi.uima.lookup.ae.DebugConsumerImpl: 
+new Added class 3 : edu.mayo.bmi.uima.lookup.ae.DictionaryLookupAnnotator: 
+new Added class 4 : edu.mayo.bmi.uima.lookup.ae.DirectLookupInitializerImpl: 
+new Added class 5 : edu.mayo.bmi.uima.lookup.ae.FirstTokenPermLookupInitializerImpl: 
+new Added class 6 : edu.mayo.bmi.uima.lookup.ae.LookupConsumer: 
+new Added class 7 : edu.mayo.bmi.uima.lookup.ae.LookupParseUtilities: 
+new Added class 8 : edu.mayo.bmi.uima.lookup.ae.NamedEntityLookupConsumerImpl: 
+new Added class 9 : edu.mayo.bmi.uima.lookup.ae.OrangeBookFilterConsumerImpl: 
+new Added class 10 : edu.mayo.bmi.uima.lookup.ae.UmlsDictionaryLookupAnnotator: 
+new Added class 11 : edu.mayo.bmi.uima.lookup.ae.UmlsToSnomedConsumerImpl: 
+new Added class 12 : edu.mayo.bmi.uima.lookup.ae.UmlsToSnomedDbConsumerImpl: 
+new Added class 13 : edu.mayo.bmi.uima.lookup.ae.UmlsToSnomedLuceneConsumerImpl: 
+testing relationship 
+class 0  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 11£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  6   2 :  7   3 :  1   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  2   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

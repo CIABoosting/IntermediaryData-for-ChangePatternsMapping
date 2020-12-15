@@ -1,0 +1,9 @@
+WhereClause:0.47
+FilterProjection:0.37
+SelectStatementAnalyzerTest:0.32666666666666666
+QuerySpec:0.25333333333333335
+PlannerTest:0.25
+RelationAnalyzer:0.16666666666666666
+NonDistributedGroupByConsumer:0.15
+Visitor:0.14444444444444446
+GlobalAggregateConsumer:0.13

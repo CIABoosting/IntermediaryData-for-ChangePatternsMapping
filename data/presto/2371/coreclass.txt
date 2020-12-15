@@ -1,0 +1,16 @@
+ScalarFunctionImplementation:0.6066666666666667
+ScalarImplementation:0.29
+Parser:0.21
+MapFilterFunction:0.17333333333333334
+MapTransformValueFunction:0.17333333333333334
+MapTransformKeyFunction:0.17333333333333334
+ArrayTransformFunction:0.17333333333333334
+InvokeFunction:0.14
+ZipWithFunction:0.14
+ApplyFunction:0.14
+MapConstructor:0.14
+MapConcatFunction:0.14
+ArrayReduceFunction:0.14
+TestVarArgsSum:0.14
+ArrayConcatFunction:0.14
+ParametricScalar:0.13

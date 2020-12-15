@@ -1,0 +1,11 @@
+CmpAuthenticationException:0.5133333333333333
+CrmfRequestMessage:0.37
+RegTokenPasswordExtractor:0.35111111111111115
+EndEntityCertificateAuthenticationModule:0.33
+HMACAuthenticationModule:0.25
+AuthenticationModulesTest:0.24
+DnPartPasswordExtractor:0.20833333333333334
+CrmfMessageHandler:0.15666666666666668
+CrmfKeyUpdateHandler:0.10666666666666667
+VerifyPKIMessage:0.09333333333333334
+RevocationMessageHandler:0.07666666666666666

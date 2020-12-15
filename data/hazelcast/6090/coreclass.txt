@@ -1,0 +1,10 @@
+InvocationFuture_CancelTest:0.26
+Invocation_TimeoutTest:0.25666666666666665
+Invocation_BlockingTest:0.24
+Invocation_DetectHeartbeatTimeoutTest:0.23666666666666666
+InvocationFuture_GetNewInstanceTest:0.21
+Invocation_NestedRemoteTest:0.2
+Invocation_CallTimeoutTestMillis:0.19666666666666666
+Invocation_NestedLocalTest:0.19333333333333333
+Invocation_RetryTest:0.19333333333333333
+InvocationFuture_AndThenTest:0.14

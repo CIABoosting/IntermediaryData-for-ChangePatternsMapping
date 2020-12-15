@@ -1,0 +1,13 @@
+Decimals:0.6566666666666666
+HiveType:0.4766666666666667
+HiveUtil:0.25
+ColumnarBinaryHiveRecordCursor:0.22666666666666666
+SerDeUtils:0.21333333333333335
+ColumnarTextHiveRecordCursor:0.20666666666666667
+ParquetHiveRecordCursor:0.19666666666666666
+GenericHiveRecordCursor:0.18
+AbstractTestHiveFileFormats:0.15
+PrestoReadSupport:0.10333333333333333
+ParquetDecimalColumnConverter:0.08
+StructuralTestUtil:0.07333333333333333
+ParquetDecimalConverter:0.043333333333333335

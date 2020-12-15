@@ -1,0 +1,11 @@
+StaleReadPreventerNearCacheWrapper:0.42333333333333334
+CallbackAwareClientDelegatingFuture:0.37
+AbstractClientInternalCacheProxy:0.30333333333333334
+NearCacheProvider:0.2833333333333333
+AbstractNearCacheRecordStore:0.28
+ClientReplicatedMapProxy:0.23333333333333334
+BaseHeapNearCacheRecordStore:0.19666666666666666
+NearCacheObjectRecordStore:0.19666666666666666
+MaxSizeEvictionChecker:0.16833333333333333
+EvictionPolicyEvaluatorProvider:0.15
+EvictionStrategyTest:0.13

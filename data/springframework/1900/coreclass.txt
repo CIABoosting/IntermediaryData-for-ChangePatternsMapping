@@ -1,0 +1,16 @@
+TargetStateResolver:0.9333333333333333
+Transition:0.4666666666666667
+StaticTargetStateResolver:0.41
+XmlFlowBuilder:0.34
+AbstractFlowBuilder:0.3333333333333333
+TransitionExecutingStateExceptionHandler:0.23666666666666666
+LocalFlowArtifactFactory:0.22
+FlowTests:0.19
+FlowArtifactFactoryAdapter:0.18333333333333332
+FlowRegistryFlowArtifactFactory:0.18333333333333332
+TextToTransitionTargetStateResolver:0.17
+StateTests:0.16666666666666666
+XmlFlowBuilderTests:0.1577777777777778
+FlowExecutionTests:0.14666666666666667
+TransitionExecutingStateExceptionHandlerTests:0.13
+SimpleFlow:0.07

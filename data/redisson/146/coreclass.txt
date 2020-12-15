@@ -1,0 +1,10 @@
+RedisRunner:0.41333333333333333
+ClusterConnectionManager:0.36333333333333334
+SentinelConnectionManager:0.21
+ReplicatedConnectionManager:0.2
+LoadBalancerManager:0.19333333333333333
+RedissonTopicTest:0.16333333333333333
+CountableListener:0.16
+SentinelServersConfig:0.14333333333333334
+MasterSlaveConnectionManager:0.12
+RedisCommands:0.10666666666666667

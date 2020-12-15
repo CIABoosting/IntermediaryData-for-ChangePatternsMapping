@@ -1,0 +1,17 @@
+Layer:0.5466666666666666
+MultiLayerNetwork:0.45
+ConvolutionLayer:0.38
+OutputLayer:0.37
+GravesLSTM:0.3566666666666667
+SimpleOptimizableModel:0.32666666666666666
+BaseLayer:0.31
+RNTN:0.25
+TestOptimizers:0.21666666666666667
+SubsamplingLayer:0.21333333333333335
+DefaultLayerFactory:0.17
+ConvolutionLayerTest:0.16
+RastriginFunctionModel:0.125
+RosenbrockFunctionModel:0.125
+SubsamplingLayerTest:0.12
+SphereFunctionModel:0.11
+GravesLSTMTest:0.04666666666666667

@@ -1,0 +1,8 @@
+GradientCheckUtil:0.44
+BatchNormalization:0.3933333333333333
+GradientCheckTests:0.2833333333333333
+GradientCheckTestsComputationGraph:0.19
+BatchNormalizationTest:0.15333333333333332
+CNNGradientCheckTest:0.15
+BNGradientCheckTest:0.12333333333333334
+GradientCheckTestsMasking:0.11333333333333333

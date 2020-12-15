@@ -1,0 +1,17 @@
+DefaultInitialDirContextFactory:0.5533333333333333
+LdapUtils:0.27666666666666667
+AbstractLdapAuthenticator:0.27
+PasswordComparisonAuthenticatorTests:0.23333333333333334
+FilterBasedLdapUserSearch:0.2227777777777778
+MockAuthenticator:0.20666666666666667
+DefaultLdapAuthoritiesPopulator:0.19
+InitialDirContextFactoryTests:0.18333333333333332
+FilterBasedLdapUserSearchTests:0.16
+PasswordComparisonAuthenticator:0.16
+LdapAuthenticationProvider:0.12333333333333334
+BindAuthenticatorTests:0.12
+LdapAuthenticationProviderTests:0.09333333333333334
+DefaultLdapAuthoritiesPopulatorTests:0.08666666666666667
+PasswordComparisonAuthenticatorMockTests:0.08333333333333333
+BindAuthenticator:0.07666666666666666
+MockUserSearch:0.03

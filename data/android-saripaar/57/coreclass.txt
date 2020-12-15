@@ -1,0 +1,17 @@
+DomainValidator:0.5733333333333334
+AbstractNumberValidator:0.3433333333333333
+ModulusCheckDigit:0.33
+ISBN10CheckDigit:0.3
+IntegerValidator:0.2833333333333333
+DoubleValidator:0.2833333333333333
+RegexValidator:0.2816666666666667
+UrlValidator:0.27666666666666667
+IDNHolder:0.2677552910052911
+InetAddressValidator:0.25
+ISBNValidator:0.24666666666666667
+AbstractFormatValidator:0.24666666666666667
+CodeValidator:0.20383333333333334
+EmailValidator:0.17666666666666667
+LuhnCheckDigit:0.14
+CreditCardValidator:0.125
+EAN13CheckDigit:0.11333333333333333

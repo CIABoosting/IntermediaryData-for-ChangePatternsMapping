@@ -1,0 +1,17 @@
+Builder:0.5733333333333334
+MultiLayerNetwork:0.49
+OutputPreProcessor:0.37
+MultiLayerConfiguration:0.36666666666666664
+InputPreProcessor:0.2345
+ConvolutionInputPreProcessor:0.16333333333333333
+MultiLayerNeuralNetConfigurationTest:0.16333333333333333
+ZeroMeanPrePreProcessor:0.11
+ZeroMeanAndUnitVariancePrePreProcessor:0.11
+ListBuilder:0.09666666666666666
+ReshapePreProcessor:0.06333333333333334
+BaseInputPreProcessor:0.056666666666666664
+BaseOutputPreProcessor:0.056666666666666664
+ConvolutionPostProcessor:0.04
+ComposableOutputPostProcessor:0.03
+UnitVariancePrePreProcessor:0.02666666666666667
+ComposableInputPreProcessor:0.02

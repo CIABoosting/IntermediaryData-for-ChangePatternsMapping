@@ -1,0 +1,8 @@
+DaoAuthenticationProvider:0.37666666666666665
+JdbcDaoImpl:0.37
+UsersByUsernameMapping:0.33
+AuthoritiesByUsernameMapping:0.31
+PlaintextPasswordEncoder:0.05333333333333334
+MD5PasswordEncoder:0.05333333333333334
+SHAPasswordEncoder:0.05333333333333334
+PasswordEncoder:0.03

@@ -1,0 +1,16 @@
+SimpleQueryStringBuilder:0.5
+MultiMatchQueryBuilder:0.4766666666666667
+MatchQueryBuilder:0.3466666666666667
+QueryRescorerTests:0.3333333333333333
+SimpleQueryStringTests:0.29
+SearchQueryTests:0.28
+PercolatorTests:0.21333333333333335
+RestActions:0.21
+MultiPercolatorTests:0.19666666666666666
+SimpleQueryStringParser:0.19333333333333333
+MultiMatchQueryTests:0.18666666666666668
+QueryStringQueryBuilder:0.18666666666666668
+RestExplainAction:0.09
+SimpleQueryStringBuilderTest:0.09
+MultiMatchQueryParser:0.07333333333333333
+MatchQueryParser:0.06333333333333334

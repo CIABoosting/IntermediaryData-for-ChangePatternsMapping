@@ -1,0 +1,66 @@
+Compared Result of  two versions
+Number of New Class: 51
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opengis.go.display.primitive.AggregateGraphic: 
+new Added class 1 : org.opengis.metadata.ApplicationSchemaInformation: 
+new Added class 2 : org.opengis.spatialschema.geometry.geometry.Arc: 
+new Added class 3 : org.opengis.spatialschema.geometry.primitive.Bearing: 
+new Added class 4 : org.opengis.spatialschema.geometry.geometry.Bezier: 
+new Added class 5 : org.opengis.spatialschema.geometry.complex.Complex: 
+new Added class 6 : org.opengis.spatialschema.geometry.complex.CompositeCurve: 
+new Added class 7 : org.opengis.spatialschema.geometry.complex.CompositeSurface: 
+new Added class 8 : org.opengis.referencing.operation.CoordinateOperationFactory: 
+new Added class 9 : org.opengis.metadata.content.CoverageDescription: 
+new Added class 10 : org.opengis.go.display.style.DashArray: 
+new Added class 11 : org.opengis.go.display.event.EventHandler: 
+new Added class 12 : org.opengis.feature.display.FeatureDisplayFactory: 
+new Added class 13 : org.opengis.feature.FeatureEvent: 
+new Added class 14 : org.opengis.feature.display.canvas.FeatureLayerEvent: 
+new Added class 15 : org.opengis.feature.FeatureStoreEvent: 
+new Added class 16 : org.opengis.feature.FeatureStoreException: 
+new Added class 17 : org.opengis.feature.FeatureStoreFactory: 
+new Added class 18 : org.opengis.feature.FeatureType: 
+new Added class 19 : org.opengis.metadata.spatial.Georeferenceable: 
+new Added class 20 : org.opengis.go.display.primitive.Graphic: 
+new Added class 21 : org.opengis.go.display.primitive.GraphicIcon: 
+new Added class 22 : org.opengis.go.display.event.GraphicKeyEvent: 
+new Added class 23 : org.opengis.go.display.event.GraphicMouseEvent: 
+new Added class 24 : org.opengis.go.display.primitive.store.GraphicStore: 
+new Added class 25 : org.opengis.go.display.primitive.store.GraphicStoreFactory: 
+new Added class 26 : org.opengis.go.display.style.GraphicStyle: 
+new Added class 27 : org.opengis.coverage.processing.GridAnalysis: 
+new Added class 28 : org.opengis.coverage.grid.GridCoverage: 
+new Added class 29 : org.opengis.coverage.processing.GridCoverageProcessor: 
+new Added class 30 : org.opengis.coverage.grid.GridCoverageReader: 
+new Added class 31 : org.opengis.coverage.grid.GridCoverageWriter: 
+new Added class 32 : org.opengis.layer.source.LayerSourceFactory: 
+new Added class 33 : org.opengis.go.display.style.LineJoin: 
+new Added class 34 : org.opengis.feature.LockResponse: 
+new Added class 35 : org.opengis.metadata.MetaData: 
+new Added class 36 : org.opengis.util.NoSuchEnumerationException: 
+new Added class 37 : org.opengis.spatialschema.geometry.primitive.OrientableCurve: 
+new Added class 38 : org.opengis.spatialschema.geometry.primitive.OrientableSurface: 
+new Added class 39 : org.opengis.spatialschema.geometry.primitive.Point: 
+new Added class 40 : org.opengis.spatialschema.geometry.geometry.PointArray: 
+new Added class 41 : org.opengis.spatialschema.geometry.primitive.Primitive: 
+new Added class 42 : org.opengis.feature.Query: 
+new Added class 43 : org.opengis.tools.RevisitTaglet: 
+new Added class 44 : org.opengis.metadata.quality.Scope: 
+new Added class 45 : org.opengis.metadata.maintenance.ScopeCode: 
+new Added class 46 : org.opengis.metadata.maintenance.ScopeDescription: 
+new Added class 47 : org.opengis.util.SimpleEnumerationType: 
+new Added class 48 : org.opengis.spatialschema.geometry.primitive.Solid: 
+new Added class 49 : org.opengis.metadata.extent.TemporalExtent: 
+new Added class 50 : org.opengis.go.display.style.XAnchor: 
+testing relationship 
+class 0  vs  class 20£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 37£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 38£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 20£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 28£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 47£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 39  vs  class 41£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 41£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 50  vs  class 47£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  7   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

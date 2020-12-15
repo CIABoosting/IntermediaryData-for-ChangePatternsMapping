@@ -1,0 +1,9 @@
+Failure:0.4166666666666667
+SearchSourceBuilder:0.3566666666666667
+RestSearchAction:0.33
+IndexRequest:0.32666666666666666
+RestActions:0.31333333333333335
+BulkItemResponse:0.25
+BulkShardRequest:0.225
+RestToXContentListener:0.09
+TransportAction:0.08

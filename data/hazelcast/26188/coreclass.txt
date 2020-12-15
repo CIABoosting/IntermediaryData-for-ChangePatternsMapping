@@ -1,0 +1,16 @@
+CMap:0.44333333333333336
+ConcurrentMapManager:0.4066666666666667
+MLock:0.36
+TransactionImpl:0.30666666666666664
+RequestBasedCall:0.24
+FactoryImpl:0.22194444444444447
+LoadStoreFork:0.21666666666666667
+TransactionRecord:0.20666666666666667
+MRemove:0.17666666666666667
+MPut:0.17333333333333334
+AbstractOperationHandler:0.14333333333333334
+StoreAwareOperationHandler:0.10666666666666667
+LockOperationHandler:0.02666666666666667
+UnlockOperationHandler:0.01
+SchedulableOperationHandler:0.0033333333333333335
+TargetAwareOperationHandler:0.0

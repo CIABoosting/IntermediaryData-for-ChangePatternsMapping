@@ -1,0 +1,10 @@
+JdbcCoordinator:0.5236111111111111
+TableGenerator:0.3233333333333333
+SQLStatementLogger:0.31
+JdbcCoordinatorImpl:0.31
+IsolationDelegate:0.26166666666666666
+MultipleHiLoPerTableGenerator:0.25
+TableStructure:0.23333333333333334
+JtaIsolationDelegate:0.22
+JdbcIsolationDelegate:0.06666666666666667
+PersistentIdentifierGenerator:0.013333333333333334

@@ -1,0 +1,10 @@
+MigrationTestCase:0.38
+ConcurrentMigrationTestCase:0.36333333333333334
+DriverDataSource:0.25666666666666665
+DbSupportFactory:0.25133333333333335
+MySQLSqlStatementBuilder:0.15333333333333332
+SapHana:0.11
+DerbySqlStatementBuilder:0.08333333333333333
+DB2zosSqlStatementBuilder:0.04777777777777777
+DB2SqlStatementBuilder:0.04777777777777777
+SQLServerSqlStatementBuilder:0.03777777777777778

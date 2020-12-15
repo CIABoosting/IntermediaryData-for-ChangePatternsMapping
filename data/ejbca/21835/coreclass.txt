@@ -1,0 +1,10 @@
+CertificateStoreSessionRemote:0.8133333333333334
+CertificateStoreSessionBean:0.59
+GetEndEntityCertificateCommand:0.17333333333333334
+CaImportCertDirCommand:0.14888888888888888
+CaImportCertCommand:0.14333333333333334
+CaImportCRLCommand:0.13666666666666666
+UnRevokeEndEntityCommand:0.13666666666666666
+SetDefaultOcspResponderCommand:0.13666666666666666
+RevokeCertificateCommand:0.12666666666666668
+InternalKeyBindingExportCertificateCommand:0.12666666666666668

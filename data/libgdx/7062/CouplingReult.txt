@@ -1,0 +1,19 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.badlogic.gdx.tests.FilesTest: 
+new Added class 1 : com.badlogic.gdx.tests.utils.GdxTests: 
+new Added class 2 : com.badlogic.gdx.graphics.glutils.ImmediateModeRenderer20: 
+new Added class 3 : com.badlogic.gdx.tests.lwjgl.LwjglDebugStarter: 
+new Added class 4 : com.badlogic.gdx.backends.lwjgl.LwjglGL20: 
+new Added class 5 : com.badlogic.gdx.graphics.g2d.SpriteBatch: 
+new Added class 6 : com.badlogic.gdx.tools.imagepacker.TexturePacker2: 
+new Added class 7 : com.badlogic.gdx.maps.tiled.TideMapLoader: 
+new Added class 8 : com.badlogic.gdx.maps.tiled.TiledMap: 
+new Added class 9 : com.badlogic.gdx.maps.tiled.TmxMapLoader: 
+testing relationship 
+class 0  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:1  r14:1  r15:0  r16:2  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:12  r9:0  r10:3  r11:7  r12:0  r13:1  r14:2  r15:0  r16:2  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  7   6 :  0   7 :  0   8 :  14   9 :  0   10 :  6   11 :  12   12 :  0   13 :  2   14 :  3   15 :  0   16 :  4   17 :  0   

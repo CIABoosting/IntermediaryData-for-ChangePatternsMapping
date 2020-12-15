@@ -1,0 +1,16 @@
+AccessControl:0.7333333333333333
+SystemAccessControl:0.31
+StatementAnalyzer:0.29333333333333333
+SqlStandardAccessControl:0.25333333333333335
+ConnectorAccessControl:0.23
+NoAccessControl:0.23
+ReadOnlyAccessControl:0.23
+AllowAllAccessControl:0.23
+ViewAccessControl:0.22333333333333333
+LegacyConnectorAccessControl:0.22
+DenyConnectorAccessControl:0.22
+AccessDeniedException:0.21666666666666667
+DenyAllAccessControl:0.21333333333333335
+AccessControlManager:0.17
+AllowAllSystemAccessControl:0.16166666666666665
+TestingAccessControlManager:0.11666666666666667

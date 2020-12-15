@@ -1,0 +1,14 @@
+ImplementationSymbolVisitor:0.44
+Context:0.35
+GroupingProjector:0.18333333333333332
+ManyKeyGrouper:0.17666666666666667
+ProjectionToProjectorVisitor:0.16
+ImplementationSymbolVisitorTest:0.15333333333333332
+LocalDataCollectOperation:0.12
+LuceneDocCollector:0.08333333333333333
+SimpleOneRowCollector:0.06
+SingleKeyGrouper:0.04666666666666667
+EvaluatingNormalizer:0.03666666666666667
+ShardCollectService:0.03666666666666667
+GroupingProjectorTest:0.0033333333333333335
+SimpleOneRowCollectorTest:0.0

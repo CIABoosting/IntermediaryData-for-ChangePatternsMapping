@@ -1,0 +1,13 @@
+Utils:0.31
+AopClassLoaderFactory:0.2733333333333333
+InternalAopClassLoaderFactory:0.27051984126984113
+BundleClassLoaderFactory:0.27051984126984113
+ExtenderConfiguration:0.21666666666666667
+AbstractOsgiServiceImportFactoryBean:0.21
+ContextLoaderListener:0.21
+AbstractOsgiBundleApplicationContext:0.21
+ServiceProviderTCCLInterceptor:0.20333333333333334
+ChainedClassLoader:0.16
+StaticServiceProxyCreator:0.11666666666666667
+CachingBundleClassLoaderFactory:0.10666666666666667
+CachingClassLoaderFactory:0.04888888888888889

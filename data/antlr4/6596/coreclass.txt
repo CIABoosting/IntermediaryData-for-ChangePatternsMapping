@@ -1,0 +1,16 @@
+OutputModelFactory:0.6977777777777778
+OutputModelObject:0.3233333333333333
+OutputModelController:0.27
+BlankOutputModelFactory:0.26
+ParserFactory:0.23666666666666666
+SrcOp:0.22
+CodeGenerator:0.18333333333333332
+ParserASTExtension:0.17333333333333334
+Choice:0.17
+CodeGeneratorExtension:0.13666666666666666
+CodeBlockForAlt:0.10666666666666667
+LL1Loop:0.10666666666666667
+CaptureNextTokenType:0.07
+CaptureNextToken:0.07
+RewriteTreeStructure:0.056666666666666664
+CodeBlock:0.05333333333333334

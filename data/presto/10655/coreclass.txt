@@ -1,0 +1,15 @@
+QueryInfo:0.5633333333333334
+NotFoundException:0.33666666666666667
+QueryStateMachine:0.3
+QueryCompletionEvent:0.3
+FunctionRegistry:0.24666666666666667
+SimpleHttpResponseHandler:0.235
+OperatorContext:0.23194444444444443
+HashAggregationOperator:0.21333333333333335
+HttpRemoteTask:0.20333333333333334
+SqlQueryManager:0.18333333333333332
+AbandonedException:0.13833333333333334
+QueryMonitor:0.13666666666666666
+DropTableExecution:0.12333333333333334
+SqlQueryManagerStats:0.12333333333333334
+SimpleQuery:0.09333333333333334

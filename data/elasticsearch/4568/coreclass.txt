@@ -1,0 +1,13 @@
+TransportService:0.63
+ESIntegTestCase:0.4033333333333333
+SearchTransportService:0.27666666666666667
+AbstractSearchAsyncAction:0.26666666666666666
+SimpleSearchIT:0.25333333333333335
+SearchDfsQueryThenFetchAsyncAction:0.18666666666666668
+MockTransportService:0.17888888888888888
+AliasFilter:0.15166666666666667
+TransportSearchAction:0.13333333333333333
+SearchDfsQueryAndFetchAsyncAction:0.11
+SearchQueryThenFetchAsyncAction:0.10666666666666667
+SearchQueryAndFetchAsyncAction:0.06333333333333334
+MockConnection:0.023333333333333334

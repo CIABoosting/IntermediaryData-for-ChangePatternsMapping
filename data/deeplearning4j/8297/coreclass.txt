@@ -1,0 +1,12 @@
+StateTracker:0.7533333333333333
+BaseHazelCastStateTracker:0.31666666666666665
+WorkerActor:0.3
+LocalFileUpdateSaver:0.26666666666666666
+HazelCastStateTracker:0.25333333333333335
+BatchActor:0.24333333333333335
+TestPerformer:0.21333333333333335
+MasterActor:0.18666666666666668
+DeepLearning4jDistributed:0.15666666666666668
+CollectionJobIterator:0.08
+TestDistributed:0.08
+CollectionJobIteratorFactory:0.02

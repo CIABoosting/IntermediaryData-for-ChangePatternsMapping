@@ -1,0 +1,14 @@
+ClusterFixture:0.43666666666666665
+DBTest:0.36
+MapReduceTest:0.32666666666666666
+DBCollectionAggregationTest:0.32
+CrudTest:0.31
+JsonPoweredCrudTestHelper:0.29833333333333334
+QueryBuilderTest:0.27666666666666667
+DBCursorOldTest:0.27666666666666667
+DBCollectionTest:0.2733333333333333
+UpdatePrimer:0.2733333333333333
+DBCursorTest:0.25666666666666665
+OperationHelper:0.24833333333333332
+MongoCollectionTest:0.19
+CommandMonitoringTest:0.19

@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 20
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : se.anatom.ejbca.keyrecovery.IKeyRecoverySessionHome: 
+new Added class 1 : se.anatom.ejbca.keyrecovery.IKeyRecoverySessionLocal: 
+new Added class 2 : se.anatom.ejbca.keyrecovery.IKeyRecoverySessionLocalHome: 
+new Added class 3 : se.anatom.ejbca.keyrecovery.IKeyRecoverySessionRemote: 
+new Added class 4 : se.anatom.ejbca.ra.raadmin.IRaAdminSessionHome: 
+new Added class 5 : se.anatom.ejbca.ra.raadmin.IRaAdminSessionLocal: 
+new Added class 6 : se.anatom.ejbca.ra.raadmin.IRaAdminSessionLocalHome: 
+new Added class 7 : se.anatom.ejbca.ra.raadmin.IRaAdminSessionRemote: 
+new Added class 8 : se.anatom.ejbca.ra.IUserAdminSessionHome: 
+new Added class 9 : se.anatom.ejbca.ra.IUserAdminSessionLocal: 
+new Added class 10 : se.anatom.ejbca.ra.IUserAdminSessionLocalHome: 
+new Added class 11 : se.anatom.ejbca.ra.IUserAdminSessionRemote: 
+new Added class 12 : se.anatom.ejbca.keyrecovery.KeyRecoveryDataLocal: 
+new Added class 13 : se.anatom.ejbca.keyrecovery.KeyRecoveryDataLocalHome: 
+new Added class 14 : se.anatom.ejbca.keyrecovery.KeyRecoveryDataPK: 
+new Added class 15 : se.anatom.ejbca.ra.UserDataHome: 
+new Added class 16 : se.anatom.ejbca.ra.UserDataLocal: 
+new Added class 17 : se.anatom.ejbca.ra.UserDataLocalHome: 
+new Added class 18 : se.anatom.ejbca.ra.UserDataPK: 
+new Added class 19 : se.anatom.ejbca.ra.UserDataRemote: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

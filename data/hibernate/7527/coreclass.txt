@@ -1,0 +1,7 @@
+Dialect:0.7633333333333333
+PessimisticLockException:0.46
+DerbyDialect:0.24666666666666667
+PessimisticWriteSelectLockingStrategy:0.18000000000000002
+PessimisticReadSelectLockingStrategy:0.18000000000000002
+PessimisticWriteUpdateLockingStrategy:0.13
+PessimisticReadUpdateLockingStrategy:0.13

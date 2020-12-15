@@ -1,0 +1,16 @@
+Os:0.68
+Socket:0.4595555555555556
+File:0.44333333333333336
+InetAddress:0.4266666666666667
+IoBridge:0.36
+PlainSocketImpl:0.32
+Posix:0.25333333333333335
+ErrnoException:0.23
+DatagramSocket:0.23
+ServerSocket:0.21333333333333335
+SocketChannelImpl:0.2
+NetworkInterface:0.19666666666666666
+PlainDatagramSocketImpl:0.18333333333333332
+DatagramChannelImpl:0.18333333333333332
+SocketOptionImpl:0.18
+GaiException:0.175

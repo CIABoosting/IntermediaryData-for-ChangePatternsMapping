@@ -1,0 +1,35 @@
+Compared Result of  two versions
+Number of New Class: 21
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.gargoylesoftware.htmlunit.BrowserVersion: 
+new Added class 1 : com.gargoylesoftware.htmlunit.javascript.configuration.ClassConfiguration: 
+new Added class 2 : com.gargoylesoftware.htmlunit.javascript.configuration.ClassConfigurationTest: 
+new Added class 3 : com.gargoylesoftware.htmlunit.javascript.host.EventListenersContainer: 
+new Added class 4 : com.gargoylesoftware.htmlunit.javascript.host.EventTest: 
+new Added class 5 : com.gargoylesoftware.htmlunit.html.HtmlButtonTest: 
+new Added class 6 : com.gargoylesoftware.htmlunit.javascript.host.HTMLElement: 
+new Added class 7 : com.gargoylesoftware.htmlunit.javascript.host.HTMLElementTest: 
+new Added class 8 : com.gargoylesoftware.htmlunit.javascript.host.HTMLFrameElementTest: 
+new Added class 9 : com.gargoylesoftware.htmlunit.html.HtmlTextAreaTest: 
+new Added class 10 : com.gargoylesoftware.htmlunit.javascript.host.InputTest: 
+new Added class 11 : com.gargoylesoftware.htmlunit.javascript.host.JavaScriptBackgroundJob: 
+new Added class 12 : com.gargoylesoftware.htmlunit.javascript.configuration.JavaScriptConfiguration: 
+new Added class 13 : com.gargoylesoftware.htmlunit.ThreadManagerTest: 
+new Added class 14 : com.gargoylesoftware.htmlunit.javascript.ThreadTest: 
+new Added class 15 : com.gargoylesoftware.htmlunit.html.Util: 
+new Added class 16 : com.gargoylesoftware.htmlunit.html.NodeIterator: 
+new Added class 17 : com.gargoylesoftware.htmlunit.Version: 
+new Added class 18 : com.gargoylesoftware.htmlunit.WebRequestSettings: 
+new Added class 19 : com.gargoylesoftware.htmlunit.javascript.host.Window: 
+new Added class 20 : com.gargoylesoftware.htmlunit.javascript.host.WindowTest: 
+testing relationship 
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:26  r12:0  r13:16  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 11  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:6  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 12  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:7  r15:0  r16:4  r17:0  
+class 12  vs  class 1£º  r0:0  r1:0  r2:0  r3:7  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:23  r12:0  r13:11  r14:0  r15:0  r16:3  r17:0  
+class 19  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  7   4 :  0   5 :  4   6 :  0   7 :  0   8 :  11   9 :  0   10 :  0   11 :  50   12 :  0   13 :  28   14 :  11   15 :  0   16 :  7   17 :  0   

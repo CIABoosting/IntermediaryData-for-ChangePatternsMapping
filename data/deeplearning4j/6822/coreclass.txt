@@ -1,0 +1,11 @@
+MultiLayerNetwork:0.4166666666666667
+NeuralNetConfiguration:0.3466666666666667
+OutputLayer:0.31666666666666665
+TestOptimizers:0.23333333333333334
+StochasticGradientDescent:0.22666666666666666
+BaseLayer:0.22333333333333333
+SimpleOptimizableModel:0.21333333333333335
+BaseOptimizer:0.20333333333333334
+BackPropMLPTest:0.17
+StepFunctions:0.016666666666666666
+MultiLayerUpdater:0.01

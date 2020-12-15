@@ -1,0 +1,10 @@
+MultiLayerNetwork:0.5
+SameDiffLayer:0.42
+SameDiffConv:0.24800000000000003
+Builder:0.23333333333333334
+SameDiffDense:0.22
+SameDiffParamInitializer:0.21777777777777782
+AbstractSameDiffLayer:0.1867063492063492
+TestSameDiffDense:0.13666666666666666
+TestSameDiffConv:0.13333333333333333
+BaseSameDiffLayer:0.08333333333333333

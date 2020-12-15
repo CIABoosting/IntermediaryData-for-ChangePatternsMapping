@@ -1,0 +1,15 @@
+ForLoadedMethod:0.33
+ForLoadedConstructor:0.33
+Latent:0.33
+AbstractInstrumentedTypeTest:0.24333333333333335
+ConflictingInterfaceMethod:0.24083333333333334
+OverriddenClassMethod:0.24083333333333334
+MethodToken:0.15666666666666668
+ImplementationContextDefaultTest:0.15666666666666668
+LazyMethodDescription:0.15
+AbstractMethodDescription:0.14
+MethodRebaseResolverResolutionForRebasedMethodTest:0.12
+MethodRebaseResolverEnabledTest:0.12
+MethodRebaseResolverMethodsOnlyTest:0.12
+MethodRebaseResolverResolutionForRebasedConstructorTest:0.12
+AbstractSpecialMethodInvocationTest:0.05

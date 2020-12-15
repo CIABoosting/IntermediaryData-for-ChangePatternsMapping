@@ -1,0 +1,14 @@
+InternalTestCluster:0.4166666666666667
+DiscoveryNode:0.37333333333333335
+Node:0.36666666666666664
+ExternalTestCluster:0.21
+ESSingleNodeTestCase:0.18666666666666668
+ESBackcompatTestCase:0.16333333333333333
+DiscoveryModuleTests:0.14666666666666667
+ESSmokeClientTestCase:0.12
+TransportClientFactory:0.11
+AbstractAzureComputeServiceTestCase:0.10333333333333333
+TribeUnitTests:0.10333333333333333
+NettyTransportIT:0.10333333333333333
+NettyTransportMultiPortIntegrationIT:0.10333333333333333
+NettyTransportPublishAddressIT:0.08

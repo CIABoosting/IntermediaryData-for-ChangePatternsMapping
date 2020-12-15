@@ -1,0 +1,14 @@
+BlobContainer:0.7866666666666666
+BlobStoreRepository:0.4666666666666667
+ChecksumBlobStoreFormat:0.38666666666666666
+S3BlobContainer:0.23666666666666666
+AzureBlobContainer:0.22
+LegacyEmulationBlobStoreFormat:0.20833333333333334
+BlobContainerWrapper:0.18333333333333332
+URLBlobContainer:0.18333333333333332
+GoogleCloudStorageBlobContainer:0.18333333333333332
+BlobStoreFormatIT:0.15333333333333332
+ESBlobStoreTestCase:0.14666666666666667
+ESBlobStoreContainerTestCase:0.14333333333333334
+BlobStoreRepositoryTests:0.11
+AbstractBlobContainer:0.09

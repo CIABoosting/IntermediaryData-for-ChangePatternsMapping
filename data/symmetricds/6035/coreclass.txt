@@ -1,0 +1,11 @@
+Table:0.69
+AbstractDdlBuilder:0.30666666666666664
+OracleDdlBuilder:0.23
+PostgreSqlDdlBuilder:0.22
+FirebirdDdlBuilder:0.2
+MsSqlDdlBuilder:0.19666666666666666
+DatabasePlatformTest:0.18
+FirebirdDdlReader:0.15666666666666668
+Db2DdlBuilder:0.14666666666666667
+HsqlDb2DdlBuilder:0.08666666666666667
+H2DdlBuilder:0.03

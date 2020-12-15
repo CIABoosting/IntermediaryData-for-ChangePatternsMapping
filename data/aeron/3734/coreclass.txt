@@ -1,0 +1,8 @@
+Context:0.45666666666666667
+ReceiveChannelEndpoint:0.44666666666666666
+SendChannelEndpoint:0.32666666666666666
+UdpChannelTransport:0.29
+ControlTransportPoller:0.21666666666666667
+DataTransportPoller:0.18
+DebugSendChannelEndpoint:0.11666666666666667
+DebugReceiveChannelEndpoint:0.07666666666666666

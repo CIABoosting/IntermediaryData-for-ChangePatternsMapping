@@ -1,0 +1,21 @@
+Compared Result of  two versions
+Number of New Class: 15
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : de.mogwai.common.web.component.renderkit.html.BaseRenderer: 
+new Added class 1 : de.powerstaff.business.dao.generic.ClientHttpRequest: 
+new Added class 2 : de.powerstaff.mobile.Datenuebernahme: 
+new Added class 3 : de.mogwai.common.web.component.renderkit.html.input.DatepickerRenderer: 
+new Added class 4 : de.mogwai.common.web.backingbean.EnumItemBackingBean: 
+new Added class 5 : de.mogwai.common.business.entity.EnumItemLabelComparator: 
+new Added class 6 : de.mogwai.common.business.entity.EnumItemListIndexComparator: 
+new Added class 7 : de.powerstaff.business.dao.hibernate.FreelancerDAOHibernateImpl: 
+new Added class 8 : de.powerstaff.business.service.impl.LuceneServiceImpl: 
+new Added class 9 : de.powerstaff.business.dao.hibernate.NavigatingDAOHibernateImpl: 
+new Added class 10 : de.mogwai.common.web.component.input.NumberInputfieldComponent: 
+new Added class 11 : de.powerstaff.business.service.impl.ProfileIndexerServiceImpl: 
+new Added class 12 : de.powerstaff.business.service.impl.ProfileSearchServiceImpl: 
+new Added class 13 : de.mogwai.common.dao.hibernate.SystemParameterDaoHibernateImpl: 
+new Added class 14 : de.mogwai.common.web.actionlistener.ValidatingActionListener: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

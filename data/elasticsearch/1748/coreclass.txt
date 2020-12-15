@@ -1,0 +1,10 @@
+Transport:0.69
+AbstractSimpleTransportTestCase:0.25666666666666665
+CapturingTransport:0.24666666666666667
+TcpTransport:0.24666666666666667
+TransportService:0.24
+FailAndRetryMockTransport:0.22333333333333333
+DirectResponseChannel:0.22
+DelegateTransport:0.21583333333333332
+MockTransportService:0.17333333333333334
+MockTransport:0.16642857142857143

@@ -1,0 +1,14 @@
+MapAggregationFunction:0.36
+Histogram:0.27666666666666667
+AggregationUtils:0.24333333333333335
+AggregationCompiler:0.23333333333333334
+ArbitraryAggregationFunction:0.20666666666666667
+ArrayAggregationFunction:0.19333333333333333
+AbstractMinMaxAggregationFunction:0.19333333333333333
+MultimapAggregationFunction:0.17
+CountColumn:0.17
+AbstractMinMaxBy:0.17
+AbstractMinMaxByNAggregationFunction:0.16666666666666666
+ChecksumAggregationFunction:0.16666666666666666
+AbstractMinMaxNAggregationFunction:0.16666666666666666
+MapUnionAggregation:0.13

@@ -1,0 +1,13 @@
+DocWriteResponse:0.63
+UpdateResponse:0.44
+DeleteResponse:0.2866666666666667
+BulkItemResponse:0.22
+IndexResponse:0.20666666666666667
+DocWriteResponseBuilder:0.16333333333333333
+IndexResponseTests:0.10666666666666667
+DeleteResponseTests:0.09666666666666666
+UpdateResponseTests:0.09
+BulkItemResponseTests:0.03333333333333333
+IndexResponseBuilder:0.015833333333333335
+DeleteResponseBuilder:0.015833333333333335
+UpdateResponseBuilder:0.007222222222222222

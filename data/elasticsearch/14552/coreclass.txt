@@ -1,0 +1,12 @@
+Async:0.9466666666666667
+InternalTestCluster:0.51
+ThreadPool:0.31
+DiscoveryWithServiceDisruptionsIT:0.23666666666666666
+OldIndexBackwardsCompatibilityIT:0.21666666666666667
+IndicesStoreIntegrationIT:0.21333333333333335
+ClusterServiceIT:0.18666666666666668
+IndexRecoveryIT:0.18666666666666668
+IndexWithShadowReplicasIT:0.18666666666666668
+DedicatedClusterSnapshotRestoreIT:0.17333333333333334
+MetaDataWriteDataNodesIT:0.14
+UpdateThreadPoolSettingsTests:0.13666666666666666

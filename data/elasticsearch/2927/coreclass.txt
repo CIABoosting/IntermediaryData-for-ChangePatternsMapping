@@ -1,0 +1,12 @@
+AggregatorTestCase:0.33
+MinAggregatorTests:0.2866666666666667
+TermsAggregatorTests:0.22666666666666666
+AvgAggregatorTests:0.21333333333333335
+MaxAggregatorTests:0.21333333333333335
+CardinalityAggregatorTests:0.21333333333333335
+SumAggregatorTests:0.19666666666666666
+HDRPercentilesAggregatorTests:0.19666666666666666
+TDigestPercentilesAggregatorTests:0.19666666666666666
+GeoHashGridAggregatorTests:0.18333333333333332
+ValueCountAggregatorTests:0.16333333333333333
+GlobalAggregatorTests:0.14666666666666667

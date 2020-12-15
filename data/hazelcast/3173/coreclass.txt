@@ -1,0 +1,14 @@
+MembershipManager:0.44666666666666666
+PartitionedCluster:0.3466666666666667
+ClusterServiceImpl:0.3333333333333333
+HazelcastTestSupport:0.2783333333333333
+MockConnectionManager:0.27666666666666667
+ClusterHeartbeatManager:0.26
+ClusterJoinManager:0.25666666666666665
+NodeIOService:0.24333333333333335
+NodeMulticastListener:0.20666666666666667
+SplitBrainHandlerTest:0.20333333333333334
+MembershipFailureTest:0.19666666666666666
+SplitBrainMergeValidationOp:0.13333333333333333
+FullSplitAction:0.11333333333333333
+PartialSplitAction:0.09333333333333334

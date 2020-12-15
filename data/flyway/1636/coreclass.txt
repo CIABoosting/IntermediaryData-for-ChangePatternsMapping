@@ -1,0 +1,9 @@
+MigrationTestCase:0.36
+H2MigrationMediumTest:0.23
+FlywaySmallTest:0.23
+PostgreSQLMigrationMediumTest:0.19666666666666666
+MySQLMigrationTestCase:0.19666666666666666
+SQLServerMigrationTestCase:0.19666666666666666
+OracleMigrationMediumTest:0.18333333333333332
+PostgreSQLSuperUserMigrationMediumTest:0.15333333333333332
+HsqlMigrationMediumTest:0.15

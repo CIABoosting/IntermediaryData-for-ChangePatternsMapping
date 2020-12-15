@@ -1,0 +1,16 @@
+Builder:0.67
+Default:0.42333333333333334
+Simple:0.30833333333333335
+AgentBuilderDefaultApplicationTest:0.26
+ClassLoading:0.21333333333333335
+WithTypePoolCache:0.18666666666666668
+RebaseDynamicTypeBuilder:0.18333333333333332
+RedefinitionDynamicTypeBuilder:0.14
+TypeWriterDefaultFrameComputingClassWriterTest:0.12666666666666668
+TypeLocator:0.12666666666666668
+ForInlining:0.12
+SubclassDynamicTypeBuilder:0.11333333333333333
+ForCreation:0.10666666666666667
+FrameComputingClassWriter:0.07666666666666666
+AgentBuilderTypeLocatorTest:0.06666666666666667
+Explicit:0.02

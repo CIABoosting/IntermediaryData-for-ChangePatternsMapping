@@ -1,0 +1,16 @@
+ProjectionToProjectorVisitor:0.5166666666666667
+BulkShardProcessor:0.44333333333333336
+AbstractIndexWriterProjector:0.26
+ColumnIndexWriterProjector:0.22333333333333333
+ShardCollectService:0.17333333333333334
+MergeOperation:0.17
+MergeOperationTest:0.13333333333333333
+IndexWriterProjectorUnitTest:0.1
+IndexWriterProjectorTest:0.09333333333333334
+IndexWriterProjector:0.08666666666666667
+ProjectionToProjectorVisitorTest:0.07333333333333333
+LocalMergeTask:0.056666666666666664
+MapSideDataCollectOperation:0.043333333333333335
+TransportMergeNodeAction:0.04
+HandlerSideDataCollectOperation:0.03777777777777777
+BulkShardProcessorTest:0.0

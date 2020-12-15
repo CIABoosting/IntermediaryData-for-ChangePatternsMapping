@@ -1,0 +1,12 @@
+SplitBrainTestSupport:0.33
+CacheSplitBrainTest:0.18666666666666668
+ProxySplitBrainTest:0.18
+SemaphoreSplitBrainTest:0.15333333333333332
+ListSplitBrainTest:0.13
+DynamicConfigSplitBrain_whenConfigExistsInSmallerBrainOnlyTest:0.11333333333333333
+DynamicConfigSplitBrain_whenDifferentConfigExistsInBothBrainsTest:0.09666666666666666
+LockSplitBrainTest:0.09333333333333334
+QueueSplitBrainTest:0.09333333333333334
+IgnoreMergingEntriesMapSplitBrainTest:0.06666666666666667
+ReplicatedMapSplitBrainTest:0.04
+MapSplitBrainTest:0.03333333333333333

@@ -1,0 +1,11 @@
+ClientConfig:0.75
+ProxyHelper:0.4266666666666667
+ConnectionPool:0.3433333333333333
+ClientConfigBuilder:0.2966666666666667
+RoundRobinRouter:0.21666666666666667
+TestUtility:0.17666666666666667
+HazelcastClientLoader:0.13
+HazelcastInstanceLoader:0.09666666666666666
+ClientConfigTest:0.09
+RandomBlockJUnit4ClassRunner:0.08
+GetMembersHandler:0.016666666666666666

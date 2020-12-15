@@ -1,0 +1,10 @@
+TestDistributedTicketRegistry:0.21
+DefaultTicketRegistry:0.21
+MemCacheTicketRegistry:0.21
+InfinispanTicketRegistry:0.21
+CouchbaseTicketRegistry:0.19666666666666666
+EhCacheTicketRegistry:0.19666666666666666
+HazelcastTicketRegistry:0.19666666666666666
+JpaTicketRegistry:0.19666666666666666
+IgniteTicketRegistry:0.19666666666666666
+AbstractTicketRegistry:0.12583333333333332

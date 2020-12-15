@@ -1,0 +1,17 @@
+Compared Result of  two versions
+Number of New Class: 11
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.deeplearning4j.nn.modelimport.keras.layers.KerasBatchNormalization: 
+new Added class 1 : org.deeplearning4j.nn.modelimport.keras.layers.KerasConvolution: 
+new Added class 2 : org.deeplearning4j.nn.modelimport.keras.layers.KerasDense: 
+new Added class 3 : org.deeplearning4j.nn.modelimport.keras.layers.KerasEmbedding: 
+new Added class 4 : org.deeplearning4j.nn.modelimport.keras.layers.KerasGlobalPooling: 
+new Added class 5 : org.deeplearning4j.nn.modelimport.keras.layers.KerasInput: 
+new Added class 6 : org.deeplearning4j.nn.modelimport.keras.KerasLayerTest: 
+new Added class 7 : org.deeplearning4j.nn.modelimport.keras.layers.KerasLoss: 
+new Added class 8 : org.deeplearning4j.nn.modelimport.keras.layers.KerasLstm: 
+new Added class 9 : org.deeplearning4j.nn.modelimport.keras.layers.KerasMerge: 
+new Added class 10 : org.deeplearning4j.nn.modelimport.keras.layers.KerasZeroPadding: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,15 @@
+MetaDataTable:0.62
+Flyway:0.5966666666666667
+Table:0.41
+MetaDataTableImpl:0.32666666666666666
+MigrationInfoServiceImpl:0.2733333333333333
+MigrationTestCase:0.18
+MigrationInfoServiceImplSmallTest:0.17
+MavenLargeTest:0.13666666666666666
+OpenConnectionCountDriverDataSource:0.13666666666666666
+JarFileLocationScanner:0.13666666666666666
+TransactionTemplate:0.12
+ConcurrentMigrationTestCase:0.1
+DerbyConcurrentMigrationMediumTest:0.09333333333333334
+MigrationInfoDumperSmallTest:0.0575
+PostgreSQLSuperUserMigrationMediumTest:0.04

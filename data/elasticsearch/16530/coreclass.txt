@@ -1,0 +1,17 @@
+RangeQueryBuilder:0.23666666666666666
+QueryFilterBuilder:0.23666666666666666
+BoolQueryBuilder:0.23666666666666666
+BaseTermQueryBuilder:0.23
+FQueryFilterBuilder:0.22
+AndQueryBuilder:0.2
+IdsQueryBuilder:0.2
+ExistsQueryBuilder:0.2
+FieldMaskingSpanQueryBuilder:0.2
+BoostingQueryBuilder:0.2
+ConstantScoreQueryBuilder:0.2
+OrQueryBuilder:0.2
+DisMaxQueryBuilder:0.2
+NotQueryBuilder:0.2
+LimitQueryBuilder:0.16
+MatchAllQueryBuilder:0.16
+AbstractQueryBuilder:0.15333333333333332

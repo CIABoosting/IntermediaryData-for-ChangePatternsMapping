@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.benchmark.search.child.ChildSearchAndIndexingBenchmark: 
+new Added class 1 : org.elasticsearch.benchmark.search.child.ChildSearchBenchmark: 
+new Added class 2 : org.elasticsearch.benchmark.search.child.ChildSearchShortCircuitBenchmark: 
+new Added class 3 : org.elasticsearch.search.internal.ContextIndexSearcher: 
+new Added class 4 : org.elasticsearch.test.ElasticsearchTestCase: 
+new Added class 5 : org.elasticsearch.benchmark.search.aggregations.HistogramAggregationSearchBenchmark: 
+new Added class 6 : org.elasticsearch.index.settings.IndexDynamicSettingsModule: 
+new Added class 7 : org.elasticsearch.index.engine.IndexEngineModule: 
+new Added class 8 : org.elasticsearch.index.snapshots.IndexShardRepository: 
+new Added class 9 : org.elasticsearch.test.engine.MockEngineModule: 
+new Added class 10 : org.elasticsearch.benchmark.search.nested.NestedSearchBenchMark: 
+new Added class 11 : org.elasticsearch.benchmark.stress.NodesStressTest: 
+new Added class 12 : org.elasticsearch.indices.fielddata.breaker.RandomExceptionCircuitBreakerTests: 
+new Added class 13 : org.elasticsearch.action.admin.indices.refresh.RefreshRequest: 
+new Added class 14 : org.elasticsearch.action.admin.indices.refresh.RefreshRequestBuilder: 
+new Added class 15 : org.elasticsearch.search.basic.SearchWithRandomExceptionsTests: 
+new Added class 16 : org.elasticsearch.index.deletionpolicy.SnapshotDeletionPolicy: 
+new Added class 17 : org.elasticsearch.indices.settings.UpdateSettingsTests: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

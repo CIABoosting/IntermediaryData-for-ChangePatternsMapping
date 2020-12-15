@@ -1,0 +1,11 @@
+AbstractQueryBuilder:0.7433333333333333
+MatchQueryBuilder:0.22666666666666666
+PrefixQueryBuilder:0.205
+MatchPhrasePrefixQueryBuilder:0.19666666666666666
+MatchPhraseQueryBuilder:0.19666666666666666
+WildcardQueryBuilder:0.18333333333333332
+FuzzyQueryBuilder:0.18333333333333332
+GeoDistanceQueryBuilder:0.18333333333333332
+RangeQueryBuilder:0.18333333333333332
+CommonTermsQueryBuilder:0.18333333333333332
+RegexpQueryBuilder:0.18333333333333332

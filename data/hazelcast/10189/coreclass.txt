@@ -1,0 +1,12 @@
+OperationExecutor:0.61
+ClassicOperationExecutor:0.47333333333333333
+WanReplicationService:0.355
+InternalOperationService:0.335
+EventServiceImpl:0.3
+OperationServiceImpl:0.2833333333333333
+NodeIOService:0.25333333333333335
+NodeEngineImpl:0.24666666666666667
+ResponsePacketHandlerImpl:0.11666666666666667
+WanReplicationServiceImpl:0.11666666666666667
+AbstractClassicOperationExecutorTest:0.059166666666666666
+InternalEventService:0.0

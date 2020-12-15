@@ -1,0 +1,13 @@
+Updater:0.7433333333333333
+MultiLayerUpdater:0.31
+TestUpdaters:0.2866666666666667
+BaseUpdater:0.21666666666666667
+NoOpGradientUpdater:0.18
+NoOpUpdater:0.15
+UpdaterAggregatorImpl:0.14
+AdaDeltaUpdater:0.043333333333333335
+AdaGradUpdater:0.04
+RmsPropUpdater:0.04
+SgdUpdater:0.04
+AdamUpdater:0.04
+NesterovsUpdater:0.04

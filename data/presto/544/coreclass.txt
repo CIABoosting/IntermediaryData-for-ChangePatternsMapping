@@ -1,0 +1,16 @@
+Backoff:0.39
+ExchangeClient:0.34
+HttpPageBufferClient:0.33
+HttpRemoteTask:0.305
+ExchangeClientConfig:0.29583333333333334
+QueryManagerConfig:0.26166666666666666
+TestBackoff:0.23333333333333334
+TestHttpPageBufferClient:0.19666666666666666
+ContinuousTaskStatusFetcher:0.19333333333333333
+TaskInfoFetcher:0.18666666666666668
+TestExchangeClient:0.18
+HttpRemoteTaskFactory:0.14666666666666667
+RequestErrorTracker:0.14333333333333334
+TestExchangeClientConfig:0.11666666666666667
+TestQueryManagerConfig:0.09333333333333334
+ExchangeClientFactory:0.07

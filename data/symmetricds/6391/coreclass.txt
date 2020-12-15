@@ -1,0 +1,11 @@
+ParameterConstants:0.58
+AbstractSymmetricEngine:0.4166666666666667
+PurgeService:0.30333333333333334
+OutgoingBatchService:0.27666666666666667
+IncomingBatchService:0.24333333333333335
+IPurgeService:0.24166666666666667
+StatisticManager:0.23
+NodeCommunicationService:0.22
+ClusterService:0.19666666666666666
+AppUtils:0.185
+StatisticFlushJob:0.10666666666666667

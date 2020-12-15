@@ -1,0 +1,16 @@
+ProjectingBatchConsumer:0.44333333333333336
+SortingProjector:0.21333333333333335
+Projector:0.15444444444444444
+MergeCountProjector:0.11
+FetchProjector:0.08
+FilterProjector:0.043333333333333335
+InputRowProjector:0.043333333333333335
+ColumnIndexWriterProjector:0.043333333333333335
+SimpleTopNProjector:0.043333333333333335
+IndexWriterProjector:0.043333333333333335
+SortingTopNProjector:0.043333333333333335
+FileWriterProjector:0.043333333333333335
+SysUpdateProjector:0.043333333333333335
+DMLProjector:0.043333333333333335
+AggregationPipe:0.043333333333333335
+GroupingProjector:0.04

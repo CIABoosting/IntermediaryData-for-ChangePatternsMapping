@@ -1,0 +1,21 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.ejbca.core.ejb.approval.ApprovalSession: 
+new Added class 1 : org.ejbca.core.ejb.ca.store.CertificateStoreSession: 
+new Added class 2 : org.ejbca.core.ejb.ca.crl.CreateCRLSession: 
+new Added class 3 : org.cesecore.core.ejb.ra.raadmin.EndEntityProfileSession: 
+new Added class 4 : org.ejbca.core.ejb.hardtoken.HardTokenData: 
+new Added class 5 : org.ejbca.core.ejb.hardtoken.HardTokenSession: 
+new Added class 6 : org.ejbca.core.ejb.ca.publisher.PublisherSession: 
+new Added class 7 : org.ejbca.core.ejb.ra.raadmin.RaAdminSession: 
+new Added class 8 : org.ejbca.core.protocol.ws.client.RevokeCertCommand: 
+new Added class 9 : org.ejbca.core.ejb.services.ServiceDataSession: 
+new Added class 10 : org.ejbca.core.ejb.services.ServiceDataSessionLocal: 
+new Added class 11 : org.ejbca.core.ejb.services.ServiceDataSessionRemote: 
+new Added class 12 : org.ejbca.core.ejb.ra.UserAdminSession: 
+testing relationship 
+class 10  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

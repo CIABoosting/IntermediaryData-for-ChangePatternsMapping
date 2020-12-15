@@ -1,0 +1,9 @@
+BasicRegionAdapter:0.48333333333333334
+TransactionalAccessDelegate:0.32
+OptimisticTransactionalAccessDelegate:0.2633333333333333
+ClusteredConcurrentTimestampsRegionImpl:0.26
+AbstractCollectionRegionAccessStrategyTestCase:0.24333333333333335
+AbstractEntityRegionAccessStrategyTestCase:0.24333333333333335
+TimestampsRegionImpl:0.22333333333333333
+AbstractGeneralDataRegionTestCase:0.21666666666666667
+QueryResultsRegionImpl:0.20666666666666667

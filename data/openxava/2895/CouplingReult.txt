@@ -1,0 +1,33 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openxava.actions.AddColumnsAction: 
+new Added class 1 : org.openxava.test.tests.CarrierTest: 
+new Added class 2 : org.openxava.actions.ChooseReferenceAction: 
+new Added class 3 : org.openxava.test.model.Customer: 
+new Added class 4 : org.openxava.actions.GoAddColumnsAction: 
+new Added class 5 : org.openxava.actions.GoAddColumnsPageAction: 
+new Added class 6 : org.openxava.test.tests.InvoiceTest: 
+new Added class 7 : org.openxava.util.Labels: 
+new Added class 8 : org.openxava.tab.meta.MetaTab: 
+new Added class 9 : org.openxava.tests.ModuleTestBase: 
+new Added class 10 : org.openxava.test.tests.ProductTest: 
+new Added class 11 : org.openxava.actions.RestoreDefaultColumnsAction: 
+new Added class 12 : org.openxava.test.actions.SetAddColumnsPageRowCountTo10Action: 
+new Added class 13 : org.openxava.actions.SortColumnsAction: 
+new Added class 14 : org.openxava.tab.Tab: 
+new Added class 15 : org.openxava.util.XavaPreferences: 
+testing relationship 
+class 0  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 2  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 14£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:1  r9:0  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 14  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:6  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  2   2 :  0   3 :  1   4 :  0   5 :  9   6 :  0   7 :  0   8 :  23   9 :  0   10 :  5   11 :  0   12 :  0   13 :  0   14 :  7   15 :  0   16 :  0   17 :  0   

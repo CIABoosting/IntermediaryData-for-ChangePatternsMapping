@@ -1,0 +1,14 @@
+Compared Result of  two versions
+Number of New Class: 8
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.atmosphere.container.BlockingIOCometSupport: 
+new Added class 1 : org.atmosphere.container.GrizzlyCometSupport: 
+new Added class 2 : org.atmosphere.container.JBossWebCometSupport: 
+new Added class 3 : org.atmosphere.container.Jetty7CometSupport: 
+new Added class 4 : org.atmosphere.container.JettyCometSupport: 
+new Added class 5 : org.atmosphere.container.Servlet30Support: 
+new Added class 6 : org.atmosphere.container.TomcatCometSupport: 
+new Added class 7 : org.atmosphere.container.WebLogicCometSupport: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

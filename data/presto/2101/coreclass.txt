@@ -1,0 +1,15 @@
+Metadata:0.63
+MetadataManager:0.31
+AstBuilder:0.2833333333333333
+AstVisitor:0.2833333333333333
+Visitor:0.26
+DummyMetadata:0.26
+TestCassandraDistributed:0.24666666666666667
+TestAccumuloDistributedQueries:0.24666666666666667
+ConnectorMetadata:0.22333333333333333
+ClassLoaderSafeConnectorMetadata:0.22
+TestSqlParser:0.21666666666666667
+PrestoVerifier:0.20666666666666667
+AbstractTestDistributedQueries:0.18333333333333332
+TestStatementBuilder:0.16666666666666666
+Formatter:0.15571428571428572

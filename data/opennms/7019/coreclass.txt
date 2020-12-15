@@ -1,0 +1,15 @@
+SyslogdConfig:0.5766666666666667
+SyslogDefs:0.35111111111111115
+SyslogTimeStamp:0.35111111111111115
+SyslogdIPMgr:0.3233333333333333
+ConvertToEvent:0.30666666666666664
+Syslogd:0.2839444444444444
+SyslogHandler:0.2833333333333333
+SyslogdConfigFactory:0.28
+TemporaryDatabase:0.25666666666666665
+SyslogdTest:0.23
+SyslogProcessor:0.22333333333333333
+SyslogReceiver:0.09
+SyslogdConfigFactoryTest:0.07111111111111111
+SyslogConnection:0.04666666666666667
+SyslogClient:0.03

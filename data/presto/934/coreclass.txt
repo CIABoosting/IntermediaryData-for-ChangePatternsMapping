@@ -1,0 +1,5 @@
+Rewriter:0.45666666666666667
+PushProjectionThroughUnion:0.24397619047619046
+ExpressionSymbolInliner:0.14
+PushProjectionThroughExchange:0.09888888888888889
+ProjectionPushDown:0.0813095238095238

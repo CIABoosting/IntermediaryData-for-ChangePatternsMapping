@@ -1,0 +1,13 @@
+OkBuffer:0.58
+BufferedSource:0.32866666666666666
+MockSpdyPeer:0.25666666666666665
+HpackDraft05Test:0.19
+OkBufferTest:0.19
+DeflaterSinkTest:0.18666666666666668
+InflaterSourceTest:0.18666666666666668
+SpdyConnectionTest:0.17333333333333334
+GzipSourceTest:0.17333333333333334
+RealBufferedSource:0.16333333333333333
+RequestTest:0.16
+MainTest:0.13
+OkioTest:0.12

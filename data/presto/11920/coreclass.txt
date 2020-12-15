@@ -1,0 +1,14 @@
+Metadata:0.7233333333333334
+SqlQueryExecution:0.35333333333333333
+LogicalPlanner:0.33666666666666667
+MetadataManager:0.30333333333333334
+AbstractMetadata:0.26
+ImportMetadata:0.25
+MetadataDao:0.22337301587301586
+NativeMetadata:0.19
+CreateOrReplaceMaterializedViewExecution:0.18666666666666668
+LocalQueryRunner:0.17666666666666667
+ColumnMetadata:0.15
+AbstractSqlBenchmark:0.11
+SqlQueryExecutionFactory:0.08333333333333333
+ServerMainModule:0.06

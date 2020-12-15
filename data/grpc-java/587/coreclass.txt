@@ -1,0 +1,12 @@
+ManagedChannelImpl:0.53
+ClientTransportFactory:0.44578571428571434
+ManagedChannelImplTest:0.3
+AbstractManagedChannelImplBuilder:0.26
+LbHelperImpl:0.23333333333333334
+SubchannelImpl:0.19305555555555554
+ManagedChannelImplIdlenessTest:0.14333333333333334
+RealChannel:0.12
+OkHttpTransportFactory:0.05333333333333334
+InProcessClientTransportFactory:0.05
+NettyTransportFactory:0.04
+CallCredentialsApplyingTransportFactory:0.03

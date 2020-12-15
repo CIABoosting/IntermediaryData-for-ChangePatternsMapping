@@ -1,0 +1,10 @@
+BoundedLocalCache:0.5266666666666666
+Expiry:0.49
+ExpireAfterWriteTest:0.31
+Caffeine:0.27
+StatsCounterTest:0.2633333333333333
+IsCacheReserializable:0.22944444444444448
+CacheContext:0.20666666666666667
+Registration:0.20583333333333334
+GuardedStatsCounter:0.2
+ExpireAfterVarTest:0.1

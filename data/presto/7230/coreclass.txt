@@ -1,0 +1,16 @@
+FunctionRegistry:0.6133333333333333
+Metadata:0.41083333333333333
+MetadataManager:0.29333333333333333
+Visitor:0.19
+Rewriter:0.19
+TestMinMaxByAggregation:0.17333333333333334
+TestArbitraryAggregation:0.16666666666666666
+TestMinMaxByNAggregation:0.15
+TestMapAggAggregation:0.15
+TestArrayAggregation:0.15
+TestChecksumAggregation:0.14333333333333334
+TestHistogram:0.13666666666666666
+TestNumericHistogramAggregation:0.13666666666666666
+TestMultimapAggAggregation:0.13666666666666666
+TestAggregationOperator:0.11333333333333333
+TestEvaluateClassifierPredictions:0.08333333333333333

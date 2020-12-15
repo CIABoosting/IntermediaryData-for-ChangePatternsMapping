@@ -1,0 +1,17 @@
+MockServiceTicket:0.4033333333333333
+AbstractThrottledSubmissionHandlerInterceptorAdapter:0.29
+HttpMessage:0.28
+MockTicketGrantingTicket:0.21666666666666667
+MockX509CRL:0.2
+SamlAttributeQueryTicketImpl:0.2
+TicketGrantingTicketImpl:0.2
+ExpiredCRLException:0.19
+AuditTrailEntity:0.14666666666666667
+U2FDeviceRegistration:0.14666666666666667
+ConsentDecision:0.12
+GeoLocationResponse:0.07666666666666666
+CasSurrogateAuthenticationSuccessfulEvent:0.056666666666666664
+CasSurrogateAuthenticationFailureEvent:0.056666666666666664
+SamlMetadataDocument:0.056666666666666664
+YubiKeyAccount:0.056666666666666664
+CasUserAccount:0.016666666666666666

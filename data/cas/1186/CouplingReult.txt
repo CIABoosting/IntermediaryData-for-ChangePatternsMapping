@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.apereo.cas.authentication.principal.cache.CachingPrincipalAttributesRepository: 
+new Added class 1 : org.apereo.cas.audit.spi.config.CasCoreAuditConfiguration: 
+new Added class 2 : org.apereo.cas.util.CollectionUtils: 
+new Added class 3 : org.apereo.cas.consent.DefaultConsentDecisionBuilder: 
+new Added class 4 : org.apereo.cas.services.DenyAllAttributeReleasePolicy: 
+new Added class 5 : org.apereo.cas.support.saml.services.GroovySamlRegisteredServiceAttributeReleasePolicy: 
+new Added class 6 : org.apereo.cas.services.GroovyScriptAttributeReleasePolicy: 
+new Added class 7 : org.apereo.cas.authentication.principal.resolvers.InternalGroovyScriptDao: 
+new Added class 8 : org.apereo.cas.pm.impl.JsonResourcePasswordManagementService: 
+new Added class 9 : org.apereo.cas.adaptors.yubikey.registry.JsonYubiKeyAccountRegistry: 
+new Added class 10 : org.apereo.cas.web.report.LoggingConfigController: 
+new Added class 11 : org.apereo.cas.support.saml.services.PatternMatchingEntityIdAttributeReleasePolicy: 
+new Added class 12 : org.apereo.cas.services.support.RegisteredServiceScriptedAttributeFilter: 
+new Added class 13 : org.apereo.cas.adaptors.trusted.authentication.principal.RemoteRequestPrincipalAttributesExtractor: 
+new Added class 14 : org.apereo.cas.services.ReturnRestfulAttributeReleasePolicy: 
+new Added class 15 : org.apereo.cas.services.ScriptedRegisteredServiceAttributeReleasePolicy: 
+new Added class 16 : org.apereo.cas.adaptors.u2f.storage.U2FJsonResourceDeviceRepository: 
+new Added class 17 : org.apereo.cas.adaptors.u2f.storage.U2FRestResourceDeviceRepository: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

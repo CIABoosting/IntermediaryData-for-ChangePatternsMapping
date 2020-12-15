@@ -1,0 +1,33 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.springframework.osgi.extender.internal.activator.ContextLoaderListener: 
+new Added class 1 : org.springframework.osgi.service.importer.support.internal.aop.DefaultServiceDependency: 
+new Added class 2 : org.springframework.osgi.extender.internal.dependencies.startup.DependencyServiceManager: 
+new Added class 3 : org.springframework.osgi.extender.internal.dependencies.startup.DependencyWaiterApplicationContextExecutor: 
+new Added class 4 : org.springframework.osgi.extender.internal.support.ExtenderConfiguration: 
+new Added class 5 : org.springframework.osgi.service.importer.support.internal.collection.OsgiServiceCollection: 
+new Added class 6 : org.springframework.osgi.service.importer.OsgiServiceDependency: 
+new Added class 7 : org.springframework.osgi.service.importer.OsgiServiceImportDependencyDefinition: 
+new Added class 8 : org.springframework.osgi.service.importer.OsgiServiceImportDependencyFactory: 
+new Added class 9 : org.springframework.osgi.service.importer.support.OsgiServiceProxyFactoryBean: 
+new Added class 10 : org.springframework.osgi.extender.internal.dependencies.startup.ServiceDependency: 
+new Added class 11 : org.springframework.osgi.service.importer.support.internal.aop.ServiceDynamicInterceptor: 
+new Added class 12 : org.springframework.osgi.extensions.annotation.ServiceReferenceDependencyBeanFactoryPostProcessor: 
+testing relationship 
+class 0  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:9  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 7£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 10£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:5  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 10£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:9  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  3   3 :  5   4 :  0   5 :  2   6 :  1   7 :  0   8 :  11   9 :  0   10 :  14   11 :  21   12 :  0   13 :  19   14 :  2   15 :  0   16 :  0   17 :  0   

@@ -1,0 +1,9 @@
+ClientMapNearCacheTest:0.6733333333333333
+OperationOutOfOrderBackupTest:0.26
+SlowOperationDetectorBasicTest:0.22666666666666666
+SlowOperation:0.20222222222222222
+NestedSlowOperationOnSamePartition:0.19799999999999998
+OperationFailureTest:0.17666666666666667
+SystemOperationPrecedenseTest:0.14666666666666667
+NestedSlowOperationOnPartitionAndGenericOperationThreads:0.13166666666666665
+InternalPartitionServiceStackOverflowTest:0.10333333333333333

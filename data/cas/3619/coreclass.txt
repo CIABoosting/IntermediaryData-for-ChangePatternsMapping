@@ -1,0 +1,8 @@
+WSFederationClaimsReleasePolicy:0.4266666666666667
+DefaultRelyingPartyTokenProducer:0.24
+WSFederationValidateRequestCallbackController:0.24
+CoreWsSecuritySecurityTokenServiceConfiguration:0.14
+WrappingSecurityTokenServiceClaimsHandler:0.106
+WSWSFederationValidateRequestController:0.10333333333333333
+CoreWsSecurityIdentityProviderConfiguration:0.1
+BaseWSFederationRequestController:0.05

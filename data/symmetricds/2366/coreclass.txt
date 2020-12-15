@@ -1,0 +1,15 @@
+OutgoingBatches:0.44
+Node:0.43333333333333335
+OutgoingBatchService:0.4166666666666667
+IOutgoingBatchService:0.38333333333333336
+DataService:0.25666666666666665
+MockOutgoingBatchService:0.23
+SimpleIntegrationTest:0.21
+RouterServiceTest:0.20333333333333334
+OutgoingBatchServiceTest:0.19333333333333333
+DataExtractorService:0.18666666666666668
+PurgeServiceTest:0.18
+HeadersHolder:0.09333333333333334
+OutgoingBatchesUnitTest:0.08
+UserSettings:0.08
+TestConstants:0.016666666666666666

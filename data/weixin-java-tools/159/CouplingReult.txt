@@ -1,0 +1,33 @@
+Compared Result of  two versions
+Number of New Class: 16
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : me.chanjar.weixin.common.util.LogExceptionHandler: 
+new Added class 1 : me.chanjar.weixin.cp.api.WxCpConfigStorage: 
+new Added class 2 : me.chanjar.weixin.cp.api.WxCpInMemoryConfigStorage: 
+new Added class 3 : me.chanjar.weixin.cp.api.WxCpMessageRouter: 
+new Added class 4 : me.chanjar.weixin.cp.api.WxCpMessageRouterRule: 
+new Added class 5 : me.chanjar.weixin.cp.api.WxCpService: 
+new Added class 6 : me.chanjar.weixin.cp.api.WxCpServiceImpl: 
+new Added class 7 : me.chanjar.weixin.common.util.WxMessageInMemoryDuplicateCheckerTest: 
+new Added class 8 : me.chanjar.weixin.mp.util.json.WxMpGsonBuilder: 
+new Added class 9 : me.chanjar.weixin.mp.api.WxMpInMemoryConfigStorage: 
+new Added class 10 : me.chanjar.weixin.mp.api.WxMpMessageRouter: 
+new Added class 11 : me.chanjar.weixin.mp.api.WxMpMessageRouterRule: 
+new Added class 12 : me.chanjar.weixin.mp.api.WxMpService: 
+new Added class 13 : me.chanjar.weixin.mp.api.WxMpServiceImpl: 
+new Added class 14 : me.chanjar.weixin.mp.bean.result.WxMpUser: 
+new Added class 15 : me.chanjar.weixin.mp.util.json.WxUserListGsonAdapter: 
+testing relationship 
+class 2  vs  class 1£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:6  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 11  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  3   3 :  0   4 :  0   5 :  8   6 :  0   7 :  0   8 :  10   9 :  0   10 :  6   11 :  0   12 :  0   13 :  0   14 :  5   15 :  0   16 :  0   17 :  0   

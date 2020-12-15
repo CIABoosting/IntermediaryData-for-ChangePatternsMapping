@@ -1,0 +1,81 @@
+Compared Result of  two versions
+Number of New Class: 42
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : ru.runa.gpd.lang.model.Action: 
+new Added class 1 : ru.runa.gpd.Activator: 
+new Added class 2 : ru.runa.gpd.lang.action.ActiveActionsDelegate: 
+new Added class 3 : ru.runa.gpd.editor.gef.command.AddActionCommand: 
+new Added class 4 : ru.runa.gpd.lang.BpmnSerializer: 
+new Added class 5 : ru.runa.gpd.ui.dialog.ChooseHandlerClassDialog: 
+new Added class 6 : ru.runa.gpd.handler.ClassLoaderUtil: 
+new Added class 7 : ru.runa.gpd.editor.gef.command.CopyGraphCommand: 
+new Added class 8 : ru.runa.gpd.ui.dialog.CreateVariableDialog: 
+new Added class 9 : ru.runa.gpd.handler.CustomizationRegistry: 
+new Added class 10 : ru.runa.gpd.lang.model.Decision: 
+new Added class 11 : ru.runa.gpd.editor.gef.part.graph.DecisionGraphicalEditPart: 
+new Added class 12 : ru.runa.gpd.lang.model.Delegable: 
+new Added class 13 : ru.runa.gpd.property.DelegableClassPropertyDescriptor: 
+new Added class 14 : ru.runa.gpd.property.DelegableConfPropertyDescriptor: 
+new Added class 15 : ru.runa.gpd.ui.dialog.EscalationActionEditDialog: 
+new Added class 16 : ru.runa.gpd.handler.action.EscalationActionHandlerProvider: 
+new Added class 17 : ru.runa.gpd.settings.EscalationGlobalPreferencePage: 
+new Added class 18 : ru.runa.gpd.property.FormatClassPropertyDescriptor: 
+new Added class 19 : ru.runa.gpd.search.GPDSearchPage: 
+new Added class 20 : ru.runa.gpd.lang.model.GraphElement: 
+new Added class 21 : ru.runa.gpd.settings.LocalizationPreferencePage: 
+new Added class 22 : ru.runa.gpd.util.LocalizationRegistry: 
+new Added class 23 : ru.runa.gpd.util.LocalizationsProvider: 
+new Added class 24 : ru.runa.gpd.ui.action.MappingAction: 
+new Added class 25 : ru.runa.gpd.ui.dialog.MappingDialog: 
+new Added class 26 : ru.runa.gpd.property.MappingLabelProvider: 
+new Added class 27 : ru.runa.gpd.office.resource.Messages: 
+new Added class 28 : ru.runa.gpd.ui.wizard.NewProcessProjectWizard: 
+new Added class 29 : ru.runa.gpd.lang.action.OpenDelegableConfigurationDelegate: 
+new Added class 30 : ru.runa.gpd.orgfunction.OrgFunctionDefinition: 
+new Added class 31 : ru.runa.gpd.orgfunction.OrgFunctionsRegistry: 
+new Added class 32 : ru.runa.gpd.handler.action.ParamBasedProvider: 
+new Added class 33 : ru.runa.gpd.lang.model.Swimlane: 
+new Added class 34 : ru.runa.gpd.orgfunction.SwimlaneADElement: 
+new Added class 35 : ru.runa.gpd.orgfunction.SwimlaneElement: 
+new Added class 36 : ru.runa.gpd.orgfunction.SwimlaneManualElement: 
+new Added class 37 : ru.runa.gpd.orgfunction.SwimlaneRelationsElement: 
+new Added class 38 : ru.runa.gpd.orgfunction.SwimlaneWFElement: 
+new Added class 39 : ru.runa.gpd.ui.dialog.TimerActionEditDialog: 
+new Added class 40 : ru.runa.gpd.editor.gef.part.graph.TransitionGraphicalEditPart: 
+new Added class 41 : ru.runa.gpd.editor.VariableEditorPage: 
+testing relationship 
+class 0  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 20£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:1  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 4  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:8  r15:0  r16:3  r17:0  
+class 4  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 10  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 10£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 16  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:2  r17:0  
+class 19  vs  class 12£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 20  vs  class 12£º  r0:0  r1:0  r2:0  r3:3  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 25£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 12£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:4  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 32  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:2  r17:0  
+class 32  vs  class 20£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:1  r15:0  r16:0  r17:0  
+class 34  vs  class 35£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 36  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:2  r17:0  
+class 37  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 37  vs  class 35£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:1  r15:0  r16:0  r17:0  
+class 38  vs  class 35£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 39  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 10£º  r0:0  r1:0  r2:0  r3:2  r4:3  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  4   2 :  3   3 :  9   4 :  6   5 :  7   6 :  3   7 :  0   8 :  7   9 :  0   10 :  1   11 :  36   12 :  0   13 :  15   14 :  26   15 :  0   16 :  10   17 :  0   

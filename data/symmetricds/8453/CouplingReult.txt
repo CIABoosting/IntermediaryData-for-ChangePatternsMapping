@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.jumpmind.db.platform.ase.AseDdlBuilder: 
+new Added class 1 : org.jumpmind.db.platform.db2.Db2DdlBuilder: 
+new Added class 2 : org.jumpmind.db.platform.derby.DerbyDdlBuilder: 
+new Added class 3 : org.jumpmind.db.platform.firebird.FirebirdDdlBuilder: 
+new Added class 4 : org.jumpmind.db.platform.h2.H2DdlBuilder: 
+new Added class 5 : org.jumpmind.db.platform.hsqldb2.HsqlDb2DdlBuilder: 
+new Added class 6 : org.jumpmind.db.platform.hsqldb.HsqlDbDdlBuilder: 
+new Added class 7 : org.jumpmind.db.platform.informix.InformixDdlBuilder: 
+new Added class 8 : org.jumpmind.db.platform.interbase.InterbaseDdlBuilder: 
+new Added class 9 : org.jumpmind.db.platform.mssql.MsSql2000DdlBuilder: 
+new Added class 10 : org.jumpmind.db.platform.mysql.MySqlDdlBuilder: 
+new Added class 11 : org.jumpmind.db.platform.oracle.OracleDdlBuilder: 
+new Added class 12 : org.jumpmind.db.platform.sqlanywhere.SqlAnywhereDdlBuilder: 
+new Added class 13 : org.jumpmind.db.platform.sqlite.SqliteDdlBuilder: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

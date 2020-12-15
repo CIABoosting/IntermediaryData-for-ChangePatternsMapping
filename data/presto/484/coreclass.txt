@@ -1,0 +1,9 @@
+AbstractTestQueries:0.5266666666666666
+TestAccumuloDistributedQueries:0.3352222222222222
+QueryAssertions:0.2633333333333333
+Analysis:0.2633333333333333
+JoinUsingAnalysis:0.23666666666666666
+TestAnalyzer:0.21333333333333335
+Visitor:0.19
+SqlHashJoinBenchmark:0.15188888888888888
+RelationPlanner:0.13333333333333333

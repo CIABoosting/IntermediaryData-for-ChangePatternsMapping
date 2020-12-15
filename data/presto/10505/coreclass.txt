@@ -1,0 +1,11 @@
+Visitor:0.3
+TestDomainTranslator:0.2966666666666667
+LiteralVisitor:0.26666666666666666
+Formatter:0.26
+TestSqlParser:0.25333333333333335
+AstVisitor:0.25333333333333335
+ByteCodeExpressionVisitor:0.25333333333333335
+Rewriter:0.22666666666666666
+LiteralInterpreter:0.19333333333333333
+ExpressionInterpreter:0.17
+DomainTranslator:0.1138888888888889

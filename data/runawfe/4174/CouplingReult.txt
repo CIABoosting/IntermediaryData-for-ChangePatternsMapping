@@ -1,0 +1,31 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : ru.runa.wfe.commons.ApplicationContextFactory: 
+new Added class 1 : ru.runa.wfe.commons.logic.CommonLogic: 
+new Added class 2 : ru.runa.wfe.commons.dao.ConstantDAO: 
+new Added class 3 : ru.runa.wfe.definition.IFileDataProvider: 
+new Added class 4 : ru.runa.wfe.commons.logic.InitializerLogic: 
+new Added class 5 : ru.runa.wfe.definition.jpdl.JpdlArchiveParser: 
+new Added class 6 : ru.runa.wfe.definition.jpdl.JpdlProcessArchive: 
+new Added class 7 : ru.runa.wfe.definition.jpdl.JpdlXmlReader: 
+new Added class 8 : ru.runa.wfe.definition.par.MappingsParser: 
+new Added class 9 : ru.runa.wfe.lang.ProcessDefinition: 
+new Added class 10 : ru.runa.service.af.SystemService: 
+new Added class 11 : ru.runa.service.af.impl.SystemServiceBean: 
+new Added class 12 : ru.runa.service.delegate.SystemServiceDelegate: 
+new Added class 13 : ru.runa.wfe.definition.par.VariableDefinitionParser: 
+testing relationship 
+class 4  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:6  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:21  r15:0  r16:6  r17:0  
+class 8  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 8  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 9  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  0   4 :  0   5 :  3   6 :  1   7 :  0   8 :  0   9 :  0   10 :  6   11 :  3   12 :  0   13 :  1   14 :  25   15 :  0   16 :  7   17 :  0   

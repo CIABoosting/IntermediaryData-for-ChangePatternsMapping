@@ -1,0 +1,14 @@
+PrestoResultSet:0.5
+StatementClient:0.32666666666666666
+Query:0.30666666666666664
+StatusPrinter:0.22
+OutputHandler:0.21
+AbstractTestingPrestoClient:0.18
+PrestoStatement:0.17333333333333334
+BenchmarkQueryRunner:0.13
+TableNameCompleter:0.12666666666666668
+MaterializedResultSession:0.08
+ResultsSession:0.065
+ResultsPageIterator:0.05
+RedisLoadingSession:0.04
+KafkaLoadingSession:0.04

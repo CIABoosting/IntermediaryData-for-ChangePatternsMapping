@@ -1,0 +1,16 @@
+OutageSuppress:0.6766666666666666
+Outage:0.6733333333333333
+OutageService:0.5616666666666666
+OutageModel:0.46
+OutageDao:0.22337301587301586
+OutageFactory:0.21
+DefaultOutageService:0.2
+OutageType:0.18888888888888888
+OutageDaoJdbc:0.18
+FindAllOutages:0.16666666666666666
+DefaultOutageServiceTest:0.12
+OutageFilterServlet:0.10427777777777777
+FindOpenAndResolvedOutages:0.03333333333333333
+FindCurrentOutages:0.0033333333333333335
+FindSuppressedOutages:0.0033333333333333335
+DefaultOutageServiceIntegrationTest:0.0

@@ -1,0 +1,17 @@
+Utils:0.4
+HttpTransportConnector:0.31
+DirectoryChangeTracker:0.24
+SyncJob:0.24
+SyncStatus:0.22
+SyncConfig:0.20333333333333334
+SyncClientEngine:0.19
+DirectorySpecSnasphotUpdater:0.16666666666666666
+DirectoryChangeTrackerTest:0.16333333333333333
+AbstractTransportConnector:0.11
+FileChange:0.10666666666666667
+ITransportConnector:0.09753968253968254
+FileSystemSyncStatusPersisterTest:0.09333333333333334
+TransportConnectorFactory:0.07666666666666666
+UtilsTest:0.04777777777777778
+LocalTransportConnector:0.03666666666666667
+PathResolutionException:0.02

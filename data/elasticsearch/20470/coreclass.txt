@@ -1,0 +1,15 @@
+AbstractAggregationBuilder:0.3566666666666667
+AggregationBuilder:0.27666666666666667
+IPv4RangeBuilder:0.26
+DateHistogramBuilder:0.26
+TopHitsBuilder:0.23333333333333334
+GeoDistanceBuilder:0.22
+HistogramBuilder:0.21333333333333335
+DateHistogramTests:0.21
+ChildrenBuilder:0.19666666666666666
+FilterAggregationBuilder:0.19666666666666666
+NestedBuilder:0.19666666666666666
+MetricsAggregationBuilder:0.19666666666666666
+PercentilesBuilder:0.19
+FiltersAggregationBuilder:0.19
+AbstractRangeBuilder:0.18333333333333332

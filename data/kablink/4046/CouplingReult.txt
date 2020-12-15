@@ -1,0 +1,31 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.sitescape.team.portlet.forum.AjaxController: 
+new Added class 1 : com.sitescape.team.web.util.BinderHelper: 
+new Added class 2 : com.sitescape.team.web.tree.DomTreeBuilder: 
+new Added class 3 : com.sitescape.team.web.tree.DomTreeHelper: 
+new Added class 4 : com.sitescape.team.web.util.Favorites: 
+new Added class 5 : com.sitescape.team.web.tree.FolderConfigHelper: 
+new Added class 6 : com.sitescape.team.search.local.LocalLuceneSession: 
+new Added class 7 : com.sitescape.team.web.tree.MailTreeHelper: 
+new Added class 8 : com.sitescape.team.search.QueryBuilder: 
+new Added class 9 : com.sitescape.team.web.tree.SearchTreeHelper: 
+new Added class 10 : com.sitescape.team.taglib.TreeTag: 
+new Added class 11 : com.sitescape.team.web.tree.WorkspaceConfigHelper: 
+new Added class 12 : com.sitescape.team.module.workspace.impl.WorkspaceModuleImpl: 
+new Added class 13 : com.sitescape.team.web.tree.WsDomTreeBuilder: 
+testing relationship 
+class 0  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:10  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 5  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:6  r15:0  r16:5  r17:0  
+class 12  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 3£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:9  r9:0  r10:3  r11:0  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+record  0 :  0   1 :  0   2 :  5   3 :  1   4 :  0   5 :  0   6 :  0   7 :  0   8 :  9   9 :  0   10 :  3   11 :  6   12 :  0   13 :  5   14 :  19   15 :  0   16 :  7   17 :  0   

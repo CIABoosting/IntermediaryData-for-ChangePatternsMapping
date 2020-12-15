@@ -1,0 +1,12 @@
+AbstractCache:0.5666666666666667
+WordVectorSerializer:0.34
+LegacyGlove:0.28488888888888897
+SequenceElement:0.27
+VocabConstructor:0.2519444444444444
+BagOfWordsVectorizer:0.2277777777777778
+DistributedWord2VecTest:0.19666666666666666
+DistributedGloveTest:0.19666666666666666
+CoOccurrencesTest:0.13666666666666666
+TfIdfVectorizerTest:0.13666666666666666
+ReutersNewsGroupsLoader:0.1
+BaseTextVectorizer:0.05333333333333334

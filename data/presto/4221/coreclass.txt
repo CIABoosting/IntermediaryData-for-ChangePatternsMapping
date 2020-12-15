@@ -1,0 +1,12 @@
+FunctionCall:0.4766666666666667
+TestAnalyzer:0.29
+Visitor:0.2633333333333333
+AstBuilder:0.26
+TestSqlParser:0.25
+Formatter:0.20238095238095238
+Optimizer:0.20111111111111113
+AbstractTestQueries:0.18
+Rewriter:0.15788888888888886
+RewritingVisitor:0.13666666666666666
+PlanOptimizers:0.11
+TestStatementBuilder:0.05333333333333334

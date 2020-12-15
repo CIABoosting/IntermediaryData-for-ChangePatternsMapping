@@ -1,0 +1,12 @@
+Conf:0.4066666666666667
+BaseMultiLayerNetwork:0.4033333333333333
+HiddenLayer:0.36666666666666664
+LogisticRegression:0.36
+MultiLayerNetworkOptimizer:0.26
+NeuralNetworkOptimizer:0.24666666666666667
+DBNTest:0.23333333333333334
+ActorNetworkRunner:0.23333333333333334
+MasterActor:0.19833333333333333
+GradientTesting:0.07666666666666666
+HiddenLayerTest:0.07333333333333333
+Classify2sAnd4s:0.01

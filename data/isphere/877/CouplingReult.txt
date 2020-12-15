@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : biz.isphere.core.sourcefilesearch.FNDSTR_clear: 
+new Added class 1 : biz.isphere.core.sourcefilesearch.FNDSTR_getHandle: 
+new Added class 2 : biz.isphere.core.sourcefilesearch.FNDSTR_getNumberOfSearchElements: 
+new Added class 3 : biz.isphere.core.sourcefilesearch.FNDSTR_resolveGenericSearchElements: 
+new Added class 4 : biz.isphere.core.sourcefilesearch.FNDSTR_search: 
+new Added class 5 : biz.isphere.core.spooledfiles.SPLF_build: 
+new Added class 6 : biz.isphere.core.spooledfiles.SPLF_clear: 
+new Added class 7 : biz.isphere.core.spooledfiles.SPLF_prepare: 
+new Added class 8 : biz.isphere.core.spooledfiles.SPLF_setDateTime: 
+new Added class 9 : biz.isphere.core.spooledfiles.SPLF_setFormType: 
+new Added class 10 : biz.isphere.core.spooledfiles.SPLF_setJob: 
+new Added class 11 : biz.isphere.core.spooledfiles.SPLF_setOutputQueue: 
+new Added class 12 : biz.isphere.core.spooledfiles.SPLF_setUser: 
+new Added class 13 : biz.isphere.core.spooledfiles.SPLF_setUserData: 
+new Added class 14 : biz.isphere.core.messagefilesearch.XFNDSTR_clear: 
+new Added class 15 : biz.isphere.core.messagefilesearch.XFNDSTR_getHandle: 
+new Added class 16 : biz.isphere.core.messagefilesearch.XFNDSTR_getNumberOfSearchElements: 
+new Added class 17 : biz.isphere.core.messagefilesearch.XFNDSTR_search: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

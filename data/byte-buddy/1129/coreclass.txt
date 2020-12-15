@@ -1,0 +1,17 @@
+AdviceTest:0.51
+Resolved:0.4166666666666667
+ForParameter:0.3933333333333333
+InstanceOfIllegalPrimitiveInstanceOfSkip:0.3272804232804233
+InstanceOfIllegalPrimitiveSkip:0.3272804232804233
+DefaultValueIllegalPrimitiveSkip:0.3272804232804233
+Advice:0.32666666666666666
+ForOrigin:0.22587301587301586
+ForReturnValue:0.21587301587301586
+ForField:0.21198412698412697
+ForThisReference:0.21198412698412697
+ForMethodEnter:0.17
+ForType:0.16333333333333333
+AdviceNoRegularReturnWithinAdviceTest:0.12333333333333334
+InstanceOfSkip:0.0175
+DefaultValueOrTrue:0.0025
+InstanceOfNoSkip:0.0

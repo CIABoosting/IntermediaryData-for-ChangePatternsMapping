@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opengis.crs.AuthorityFactory: 
+new Added class 1 : org.opengis.crs.operation.CoordinateOperation: 
+new Added class 2 : org.opengis.crs.operation.CoordinateTransformation: 
+new Added class 3 : org.opengis.crs.crs.CRSAuthorityFactory: 
+new Added class 4 : org.opengis.crs.crs.CRSFactory: 
+new Added class 5 : org.opengis.cs.CS_CoordinateSystemFactory: 
+new Added class 6 : org.opengis.crs.datum.DatumAuthorityFactory: 
+new Added class 7 : org.opengis.crs.datum.DatumFactory: 
+new Added class 8 : org.opengis.crs.Factory: 
+new Added class 9 : org.opengis.spatialschema.geometry.Geometry: 
+new Added class 10 : org.opengis.coverage.grid.GridCoverageExchange: 
+new Added class 11 : org.opengis.coverage.grid.GridGeometry: 
+new Added class 12 : org.opengis.crs.operation.MathTransform: 
+new Added class 13 : org.opengis.coverage.grid.ParameterType: 
+testing relationship 
+class 0  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 8£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  4   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

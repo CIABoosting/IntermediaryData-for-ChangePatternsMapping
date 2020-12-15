@@ -1,0 +1,16 @@
+MultifactorAuthenticationProperties:0.32
+AbstractCasWebflowConfigurer:0.3
+DefaultWebflowConfigurer:0.2866666666666667
+AuthyConfiguration:0.26666666666666666
+YubiKeyMultifactorWebflowConfigurer:0.23
+CasWebflowConstants:0.19944444444444445
+Trusted:0.19333333333333333
+YubiKey:0.17333333333333334
+EncodingUtils:0.17
+AbstractCipherExecutor:0.15
+YubiKeyConfiguration:0.08
+DuoMultifactorTrustConfiguration:0.02
+RadiusMultifactorTrustConfiguration:0.02
+GoogleAuthenticatorMultifactorTrustConfiguration:0.02
+AuthyMultifactorTrustConfiguration:0.02
+YubiKeyMultifactorTrustConfiguration:0.016666666666666666

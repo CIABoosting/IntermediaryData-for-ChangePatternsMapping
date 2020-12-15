@@ -1,0 +1,14 @@
+Builder:0.6566666666666666
+FineTuneConfiguration:0.27
+Upsampling1D:0.23833333333333334
+Keras1ModelConfigurationTest:0.23
+Keras2ModelConfigurationTest:0.22333333333333333
+KerasLayerUtils:0.19333333333333333
+KerasConvolutionUtils:0.18666666666666668
+KerasConvolution2D:0.145
+KerasAtrousConvolution1DTest:0.14
+KerasPooling1DTest:0.14
+KerasConvolution1D:0.10444444444444445
+KerasConvolution1DTest:0.09666666666666666
+TransferLearningCompGraphTest:0.06444444444444446
+TransferLearningMLNTest:0.06444444444444446

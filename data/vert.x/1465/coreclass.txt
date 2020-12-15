@@ -1,0 +1,17 @@
+HttpClientRequest:0.7666666666666667
+ClientConnection:0.42
+HttpClientRequestImpl:0.38
+HttpUtils:0.32666666666666666
+Http1xTest:0.3233333333333333
+HttpServerResponseImpl:0.31666666666666665
+Http2ClientStream:0.2916666666666667
+HttpServerRequest:0.2833333333333333
+HttpServerResponse:0.2833333333333333
+Http2ServerResponseImpl:0.2323809523809524
+HttpServerRequestImpl:0.22333333333333333
+Http2ServerConnection:0.215
+Http2ServerTest:0.20083333333333334
+Http2ServerRequestImpl:0.17666666666666667
+HttpClientRequestPushPromise:0.16666666666666666
+HttpTest:0.165
+HttpClientStream:0.145

@@ -1,0 +1,43 @@
+Compared Result of  two versions
+Number of New Class: 15
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.sitescape.ef.module.workflow.AbstractActionHandler: 
+new Added class 1 : com.sitescape.ef.dao.impl.CoreDaoImpl: 
+new Added class 2 : com.sitescape.ef.domain.CustomAttribute: 
+new Added class 3 : com.sitescape.ef.domain.Entry: 
+new Added class 4 : com.sitescape.ef.module.shared.EntryIndexUtils: 
+new Added class 5 : com.sitescape.ef.domain.Event: 
+new Added class 6 : com.sitescape.ef.module.definition.index.FieldBuilderEvent: 
+new Added class 7 : com.sitescape.ef.dao.impl.FolderDaoImpl: 
+new Added class 8 : com.sitescape.ef.domain.FolderEntry: 
+new Added class 9 : com.sitescape.ef.domain.Principal: 
+new Added class 10 : com.sitescape.ef.module.workflow.RecordEvent: 
+new Added class 11 : com.sitescape.ef.domain.URLAttachment: 
+new Added class 12 : com.sitescape.ef.module.workflow.impl.WorkflowModuleImpl: 
+new Added class 13 : com.sitescape.ef.domain.WorkflowState: 
+new Added class 14 : com.sitescape.ef.module.shared.WorkflowUtils: 
+testing relationship 
+class 0  vs  class 3£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:1  r6:1  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 9£º  r0:0  r1:0  r2:0  r3:6  r4:0  r5:2  r6:2  r7:0  r8:0  r9:0  r10:0  r11:14  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 2  vs  class 5£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:1  r6:0  r7:0  r8:5  r9:0  r10:0  r11:-1  r12:0  r13:3  r14:1  r15:0  r16:0  r17:0  
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:3  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:5  r14:1  r15:0  r16:2  r17:0  
+class 3  vs  class 13£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:4  r15:0  r16:2  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:15  r15:0  r16:5  r17:0  
+class 4  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 4  vs  class 13£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 9£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:6  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 8£º  r0:0  r1:0  r2:0  r3:4  r4:0  r5:2  r6:6  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:2  r14:12  r15:0  r16:7  r17:0  
+class 9  vs  class 5£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:0  r15:0  r16:1  r17:0  
+class 10  vs  class 13£º  r0:0  r1:0  r2:0  r3:4  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  29   4 :  2   5 :  10   6 :  18   7 :  0   8 :  5   9 :  0   10 :  0   11 :  53   12 :  0   13 :  25   14 :  38   15 :  0   16 :  18   17 :  0   

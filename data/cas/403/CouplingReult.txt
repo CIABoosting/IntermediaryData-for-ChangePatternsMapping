@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.apereo.cas.adaptors.u2f.storage.AbstractU2FDeviceRepositoryTests: 
+new Added class 1 : org.apereo.cas.adaptors.u2f.storage.BaseResourceU2FDeviceRepository: 
+new Added class 2 : org.apereo.cas.config.CasCoreTicketsConfiguration: 
+new Added class 3 : org.apereo.cas.services.CosmosDbServiceRegistryDao: 
+new Added class 4 : org.apereo.cas.util.HttpUtils: 
+new Added class 5 : org.apereo.cas.configuration.support.RestEndpointProperties: 
+new Added class 6 : org.apereo.cas.configuration.model.support.saml.idp.metadata.SamlIdPMetadataProperties: 
+new Added class 7 : org.apereo.cas.support.saml.services.idp.metadata.cache.SamlRegisteredServiceMetadataResolverCacheLoader: 
+new Added class 8 : org.apereo.cas.adaptors.u2f.web.flow.U2FAccountSaveRegistrationAction: 
+new Added class 9 : org.apereo.cas.adaptors.u2f.U2FAuthenticationHandler: 
+new Added class 10 : org.apereo.cas.adaptors.u2f.storage.U2FInMemoryDeviceRepository: 
+new Added class 11 : org.apereo.cas.adaptors.u2f.storage.U2FJpaDeviceRepository: 
+new Added class 12 : org.apereo.cas.adaptors.u2f.storage.U2FMongoDbDeviceRepository: 
+new Added class 13 : org.apereo.cas.adaptors.u2f.web.flow.U2FStartRegistrationAction: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

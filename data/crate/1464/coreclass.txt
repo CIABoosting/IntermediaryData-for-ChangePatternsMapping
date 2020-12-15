@@ -1,0 +1,13 @@
+RowsBatchIterator:0.49666666666666665
+RowsCollector:0.31
+JoinIntegrationTest:0.24666666666666667
+SimpleTopNProjectorTest:0.21333333333333335
+NestedLoopBatchIteratorTest:0.19666666666666666
+InputCollectExpression:0.15633333333333332
+ProjectingBatchConsumerTest:0.13
+SingleGetJobContext:0.12666666666666668
+NodeStatsCollectSource:0.12
+NoopTask:0.10666666666666667
+JobContext:0.10666666666666667
+SetSessionTask:0.08666666666666667
+VoidCollectSource:0.08

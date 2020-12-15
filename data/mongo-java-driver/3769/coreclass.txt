@@ -1,0 +1,14 @@
+DelegatingMongoConnector:0.5
+MongoKillCursorsMessage:0.30666666666666664
+MongoServerBinding:0.29503968253968255
+MongoMultiServerBinding:0.2833333333333333
+MongoConnectorsImpl:0.18666666666666668
+MongoKillCursor:0.16666666666666666
+MonotonicallyConsistentMongoServerBinding:0.1361111111111111
+WriteOperation:0.11666666666666667
+MongoClientsImpl:0.10333333333333333
+MongoSingleServerBinding:0.09
+CommandOperation:0.06
+GetMoreOperation:0.06
+QueryOperation:0.06
+KillCursorOperation:0.05

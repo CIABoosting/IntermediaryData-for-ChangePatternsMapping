@@ -1,0 +1,20 @@
+Compared Result of  two versions
+Number of New Class: 14
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.nutz.mvc.adaptor.injector.AllInjector: 
+new Added class 1 : org.nutz.ioc.loader.annotation.AnnotationIocLoader: 
+new Added class 2 : org.nutz.mvc.adaptor.injector.ArrayInjector: 
+new Added class 3 : org.nutz.ioc.aop.impl.DefaultMirrorFactory: 
+new Added class 4 : org.nutz.mvc.impl.Loadings: 
+new Added class 5 : org.nutz.mapl.MaplTest: 
+new Added class 6 : org.nutz.mvc.Mvcs: 
+new Added class 7 : org.nutz.lang.Nums: 
+new Added class 8 : org.nutz.mvc.adaptor.injector.ObjectPairInjectorTest: 
+new Added class 9 : org.nutz.mvc.adaptor.PairAdaptor: 
+new Added class 10 : org.nutz.dao.util.Pojos: 
+new Added class 11 : org.nutz.http.Sender: 
+new Added class 12 : org.nutz.aop.javassist.meta.Vegetarians: 
+new Added class 13 : org.nutz.lang.util.XmlsTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

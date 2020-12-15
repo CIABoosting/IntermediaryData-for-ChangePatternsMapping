@@ -1,0 +1,9 @@
+AggregationNode:0.6033333333333334
+AbstractTestQueries:0.4066666666666667
+Optimizer:0.28
+ChildReplacer:0.24666666666666667
+TestEffectivePredicateExtractor:0.23666666666666666
+QueryPlanner:0.21333333333333335
+RelationPlanner:0.17
+Rewriter:0.12
+TestCountConstantOptimizer:0.08666666666666667

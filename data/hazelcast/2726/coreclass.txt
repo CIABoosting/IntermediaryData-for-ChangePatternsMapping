@@ -1,0 +1,10 @@
+AbstractClientCacheProxy:0.38
+AbstractClientInternalCacheProxy:0.37
+ClientCacheProxy:0.3333333333333333
+GetAsyncCallback:0.26
+CacheOrInvalidateCallback:0.25666666666666665
+NearCachedClientCacheProxy:0.25666666666666665
+PutAsyncOneShotCallback:0.25666666666666665
+ClientCacheNearCacheBasicTest:0.25
+ClientCacheNearCacheSerializationCountTest:0.25
+Pre38NearCacheEventHandler:0.24666666666666667

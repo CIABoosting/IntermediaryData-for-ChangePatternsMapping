@@ -1,0 +1,16 @@
+Context:0.6833333333333333
+Peer:0.45
+PeerGroup:0.38
+TransactionBroadcast:0.3566666666666667
+AbstractBlockChain:0.3094444444444444
+PeerTest:0.24333333333333335
+NioClientManager:0.21
+PeerGroupTest:0.19333333333333333
+BlockingClient:0.19
+TorDiscovery:0.18666666666666668
+TestWithPeerGroup:0.18333333333333332
+TestWithNetworkConnections:0.18
+EnoughAvailablePeers:0.12333333333333334
+MultiplexingDiscovery:0.11666666666666667
+DnsDiscovery:0.11666666666666667
+TransactionBroadcastTest:0.11

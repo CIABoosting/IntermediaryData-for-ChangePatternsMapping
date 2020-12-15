@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.apereo.cas.web.flow.resolver.impl.AbstractCasWebflowEventResolver: 
+new Added class 1 : org.apereo.cas.services.convert.BaseConverters: 
+new Added class 2 : org.apereo.cas.configuration.support.Beans: 
+new Added class 3 : org.apereo.cas.web.flow.CasDefaultFlowUrlHandler: 
+new Added class 4 : org.apereo.cas.web.report.config.CasReportsConfiguration: 
+new Added class 5 : org.apereo.cas.ticket.accesstoken.DefaultAccessTokenFactory: 
+new Added class 6 : org.apereo.cas.support.events.listener.DefaultCasEventListener: 
+new Added class 7 : org.apereo.cas.ticket.code.DefaultOAuthCodeFactory: 
+new Added class 8 : org.apereo.cas.authentication.principal.DefaultPrincipalAttributesRepository: 
+new Added class 9 : org.apereo.cas.ticket.DefaultProxyGrantingTicketFactory: 
+new Added class 10 : org.apereo.cas.ticket.refreshtoken.DefaultRefreshTokenFactory: 
+new Added class 11 : org.apereo.cas.ticket.DefaultTicketFactory: 
+new Added class 12 : org.apereo.cas.ticket.DefaultTicketGrantingTicketFactory: 
+new Added class 13 : org.apereo.cas.monitor.MemcachedMonitorTests: 
+new Added class 14 : org.apereo.cas.config.OidcConfiguration: 
+new Added class 15 : org.apereo.cas.authentication.support.PasswordPolicyConfiguration: 
+new Added class 16 : org.apereo.cas.support.saml.services.SamlIdPEntityIdValidationServiceSelectionStrategy: 
+new Added class 17 : org.apereo.cas.util.TrustedProxyAuthenticationTrustStoreSslSocketFactoryTests: 
+new Added class 18 : org.apereo.cas.configuration.model.support.x509.X509Properties: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

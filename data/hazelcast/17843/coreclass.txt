@@ -1,0 +1,16 @@
+ClientConfig:0.6566666666666666
+ClientConnection:0.47333333333333333
+ClientConnectionManagerImpl:0.43333333333333335
+ClientEndpoint:0.33
+XmlClientConfigBuilder:0.29
+ClientCallFuture:0.23
+HazelcastClient:0.21
+BaseClientRemoveListenerRequest:0.17333333333333334
+AbstractMapAddEntryListenerRequest:0.13
+SpringXmlBuilder:0.12333333333333334
+ConnectionProcessor:0.11333333333333333
+RemoveDistributedObjectListenerRequest:0.11166666666666666
+HeartBeat:0.09333333333333334
+ReSendTask:0.05
+TestClientApplicationContext:0.04
+XmlClientConfigBuilderTest:0.03333333333333333

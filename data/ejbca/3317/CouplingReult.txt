@@ -1,0 +1,28 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.ejbca.ui.web.admin.approval.ApprovalDataVOView: 
+new Added class 1 : org.ejbca.core.model.approval.ApprovalRequest: 
+new Added class 2 : org.ejbca.ui.cli.batch.BatchMakeP12: 
+new Added class 3 : org.ejbca.ui.cli.CaImportCertCommand: 
+new Added class 4 : org.ejbca.core.model.approval.approvalrequests.ChangeStatusEndEntityApprovalRequest: 
+new Added class 5 : org.ejbca.core.ejb.approval.LocalApprovalSessionBean: 
+new Added class 6 : org.ejbca.core.ejb.ra.LocalUserAdminSessionBean: 
+new Added class 7 : se.anatom.ejbca.protocol.ProtocolScepHttpTest: 
+new Added class 8 : org.ejbca.ui.web.admin.rainterface.RAInterfaceBean: 
+new Added class 9 : org.ejbca.ui.cli.RaKeyRecoverCommand: 
+new Added class 10 : org.ejbca.ui.cli.RaKeyRecoverNewestCommand: 
+new Added class 11 : org.ejbca.ui.cli.RaRevokeUserCommand: 
+new Added class 12 : org.ejbca.ui.cli.RaSetUserStatusCommand: 
+new Added class 13 : org.ejbca.ui.cli.RaUnRevokeUserCommand: 
+new Added class 14 : se.anatom.ejbca.ca.auth.TestAuthenticationSession: 
+new Added class 15 : se.anatom.ejbca.ca.crl.TestCreateCRLSession: 
+new Added class 16 : se.anatom.ejbca.ca.sign.TestSignLotsOfCerts: 
+new Added class 17 : se.anatom.ejbca.ca.sign.TestSignSession: 
+new Added class 18 : se.anatom.ejbca.ra.TestUserData: 
+testing relationship 
+class 4  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:1  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:4  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:1  r17:0  
+class 6  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  5   8 :  0   9 :  0   10 :  0   11 :  2   12 :  0   13 :  0   14 :  4   15 :  0   16 :  1   17 :  0   

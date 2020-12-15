@@ -1,0 +1,14 @@
+HeaderFlyweight:0.5333333333333333
+DataHeaderFlyweight:0.4266666666666667
+NakFlyweight:0.35
+SetupFlyweight:0.34
+StatusMessageFlyweight:0.33
+EventDissector:0.21666666666666667
+SenderTest:0.19333333333333333
+ReceiveChannelEndpoint:0.19333333333333333
+ReceiverTest:0.18666666666666668
+SendChannelEndpoint:0.18666666666666668
+LossDetectorTest:0.17
+RetransmitHandlerTest:0.17
+ImageTest:0.17
+FlyweightTest:0.14333333333333334

@@ -1,0 +1,46 @@
+Compared Result of  two versions
+Number of New Class: 21
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.blogspot.mydailyjava.bytebuddy.instrumentation.attribute.annotation.AnnotationAppender: 
+new Added class 1 : com.blogspot.mydailyjava.bytebuddy.instrumentation.attribute.annotation.Target: 
+new Added class 2 : com.blogspot.mydailyjava.bytebuddy.instrumentation.attribute.annotation.Default: 
+new Added class 3 : com.blogspot.mydailyjava.bytebuddy.ClassFormatVersion: 
+new Added class 4 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.bytecode.stack.member.Defined: 
+new Added class 5 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.bytecode.stack.member.AccessDispatcher: 
+new Added class 6 : com.blogspot.mydailyjava.bytebuddy.instrumentation.attribute.FieldAttributeAppender: 
+new Added class 7 : com.blogspot.mydailyjava.bytebuddy.instrumentation.attribute.ForAnnotation: 
+new Added class 8 : com.blogspot.mydailyjava.bytebuddy.instrumentation.attribute.ForLoadedField: 
+new Added class 9 : com.blogspot.mydailyjava.bytebuddy.instrumentation.attribute.Compound: 
+new Added class 10 : com.blogspot.mydailyjava.bytebuddy.dynamic.scaffold.FieldRegistry: 
+new Added class 11 : com.blogspot.mydailyjava.bytebuddy.instrumentation.attribute.MethodAttributeAppender: 
+new Added class 12 : com.blogspot.mydailyjava.bytebuddy.instrumentation.attribute.ForAnnotation: 
+new Added class 13 : com.blogspot.mydailyjava.bytebuddy.instrumentation.attribute.ForLoadedMethod: 
+new Added class 14 : com.blogspot.mydailyjava.bytebuddy.instrumentation.attribute.Compound: 
+new Added class 15 : com.blogspot.mydailyjava.bytebuddy.instrumentation.type.auxiliary.MethodCallProxy: 
+new Added class 16 : com.blogspot.mydailyjava.bytebuddy.dynamic.scaffold.SubclassTypeInstrumentationTest: 
+new Added class 17 : com.blogspot.mydailyjava.bytebuddy.instrumentation.attribute.TypeAttributeAppender: 
+new Added class 18 : com.blogspot.mydailyjava.bytebuddy.instrumentation.attribute.ForAnnotation: 
+new Added class 19 : com.blogspot.mydailyjava.bytebuddy.instrumentation.attribute.ForLoadedType: 
+new Added class 20 : com.blogspot.mydailyjava.bytebuddy.instrumentation.attribute.Compound: 
+testing relationship 
+class 2  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 12  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 11£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 11£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 11£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 18  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 17£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 17£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 17£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  11   3 :  0   4 :  0   5 :  9   6 :  0   7 :  3   8 :  4   9 :  0   10 :  1   11 :  9   12 :  0   13 :  0   14 :  4   15 :  0   16 :  0   17 :  0   

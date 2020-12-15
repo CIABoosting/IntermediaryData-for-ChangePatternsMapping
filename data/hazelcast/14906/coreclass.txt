@@ -1,0 +1,17 @@
+CacheProxy:0.48
+CacheRemoveOperation:0.34
+CacheRecordStore:0.3
+CacheService:0.2966666666666667
+ClientCacheProxy:0.29333333333333333
+CacheReplaceOperation:0.28
+ICache:0.26666666666666666
+HazelcastCacheManager:0.26
+ClusterWideIterator:0.23333333333333334
+CacheContainsKeyOperation:0.205
+CacheGetOperation:0.19666666666666666
+CachePutOperation:0.17333333333333334
+AbstractMutatingCacheOperation:0.17
+ClientClusterWideIterator:0.16
+CacheGetAndReplaceOperation:0.14666666666666667
+CachePutIfAbsentOperation:0.14666666666666667
+CacheGetAndRemoveOperation:0.14

@@ -1,0 +1,10 @@
+RecordStore:0.89
+ExpirationManager:0.43
+ExpirationManagerTest:0.26666666666666666
+DefaultRecordStore:0.2633333333333333
+BatchInvalidator:0.25
+MapDataSerializerHook:0.21
+BounceMemberRule:0.20333333333333334
+ClearExpiredOperation:0.17666666666666667
+AbstractEvictableRecordStore:0.16333333333333333
+ClearExpiredRecordsTask:0.08

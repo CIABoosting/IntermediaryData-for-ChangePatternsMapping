@@ -1,0 +1,13 @@
+MongoQueryCursor:0.5266666666666666
+QueryProtocol:0.36
+GetMoreDiscardProtocol:0.17666666666666667
+MongoAsyncQueryCursor:0.17666666666666667
+QueryResultSingleResultCallback:0.15333333333333332
+MongoAsyncQueryCursorTest:0.13666666666666666
+QueryMessage:0.13
+UserExistsOperation:0.10666666666666667
+QueryOperation:0.07666666666666666
+MongoQueryCursorExhaustTest:0.06666666666666667
+GetIndexesOperation:0.043333333333333335
+DiscardCallback:0.043333333333333335
+BaseQueryMessage:0.013333333333333334

@@ -1,0 +1,16 @@
+RoutingAllocation:0.5766666666666667
+RoutingNodes:0.5433333333333333
+AllocationService:0.30333333333333334
+Balancer:0.24333333333333335
+FilterAllocationDecider:0.24333333333333335
+ShardsLimitAllocationDecider:0.24333333333333335
+PrimaryShardAllocatorTests:0.21333333333333335
+ReplicaShardAllocatorTests:0.2
+SnapshotInProgressAllocationDecider:0.19666666666666666
+EnableAllocationDecider:0.19666666666666666
+DiskThresholdDeciderUnitTests:0.13333333333333333
+DiskThresholdDeciderTests:0.13333333333333333
+TransportClusterAllocationExplainAction:0.12666666666666668
+RareClusterStateIT:0.12666666666666668
+FailedRerouteAllocation:0.03333333333333333
+StartedRerouteAllocation:0.02

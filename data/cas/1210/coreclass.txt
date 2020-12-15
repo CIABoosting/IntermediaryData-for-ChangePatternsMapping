@@ -1,0 +1,11 @@
+AbstractCasWebflowConfigurer:0.36
+ReturnRestfulAttributeReleasePolicy:0.31666666666666665
+MessageBundleProperties:0.25
+WebApplicationServiceResponseBuilder:0.18
+DefaultConsentEngine:0.17666666666666667
+X509SerialNumberPrincipalResolver:0.17666666666666667
+CoreWsSecuritySecurityTokenServiceConfiguration:0.17
+RedisObjectFactory:0.12666666666666668
+IdPInitiatedProfileHandlerController:0.12
+FinalizeInterruptFlowAction:0.1
+PrepareInterruptViewAction:0.08333333333333333

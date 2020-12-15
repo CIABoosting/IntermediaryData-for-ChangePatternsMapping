@@ -1,0 +1,11 @@
+DefaultJwtBuilder:0.32
+EllipticCurveSignatureValidator:0.27
+JwtMap:0.22333333333333333
+SignatureProvider:0.22
+RsaProvider:0.21666666666666667
+EllipticCurveProvider:0.18333333333333332
+Jwts:0.14994444444444444
+DefaultSignatureValidatorFactory:0.09666666666666666
+DefaultSignerFactory:0.09
+RuntimeEnvironment:0.03333333333333333
+MacProvider:0.0033333333333333335

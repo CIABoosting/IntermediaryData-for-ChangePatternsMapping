@@ -1,0 +1,15 @@
+InternalPartition:0.6533333333333333
+MapService:0.37
+InternalPartitionServiceImpl:0.36666666666666664
+InternalPartitionImpl:0.2966666666666667
+MultiMapService:0.23
+QueueService:0.20333333333333334
+SemaphoreService:0.2
+MigrationRequestOperation:0.19666666666666666
+ReplicaSyncRequest:0.18333333333333332
+Merger:0.16333333333333333
+MigrateTask:0.15666666666666668
+DummyInternalPartition:0.15333333333333332
+SyncReplicaVersionTask:0.13
+GetPartitionsRequest:0.12333333333333334
+RepartitioningTask:0.10666666666666667

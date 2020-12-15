@@ -1,0 +1,15 @@
+ClientMapProxy:0.5233333333333333
+ClientConnectionManagerImpl:0.41
+HazelcastInstanceFactory:0.39
+QueueContainer:0.38666666666666666
+Predicates:0.2833333333333333
+ClientPacketProcessor:0.22333333333333333
+InstanceOfPredicate:0.18666666666666668
+GreaterLessPredicate:0.18666666666666668
+OrPredicate:0.18666666666666668
+ConnectionProcessor:0.1718232323232323
+PredicatesTest:0.15833333333333333
+AndPredicate:0.14777777777777779
+InPredicate:0.12333333333333334
+ClusterAuthenticator:0.11
+ManagerAuthenticator:0.11

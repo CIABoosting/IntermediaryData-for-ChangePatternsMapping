@@ -1,0 +1,57 @@
+Compared Result of  two versions
+Number of New Class: 34
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.springframework.osgi.service.exporter.support.AbstractListenerAwareExporterTest: 
+new Added class 1 : org.springframework.osgi.service.exporter.support.AbstractOsgiServiceExporter: 
+new Added class 2 : org.springframework.osgi.config.AbstractReferenceDefinitionParser: 
+new Added class 3 : org.springframework.osgi.config.BundleBeanDefinitionParser: 
+new Added class 4 : org.springframework.osgi.config.CollectionBeanDefinitionParser: 
+new Added class 5 : org.springframework.osgi.compendium.config.CompendiumNamespaceHandler: 
+new Added class 6 : org.springframework.osgi.compendium.config.ConfigPropertiesDefinitionParser: 
+new Added class 7 : org.springframework.osgi.config.CustomListenerAdapterUtils: 
+new Added class 8 : org.springframework.osgi.compendium.internal.cm.DefaultManagedServiceBeanManager: 
+new Added class 9 : org.springframework.osgi.compendium.config.ManagedServiceDefinitionParser: 
+new Added class 10 : org.springframework.osgi.compendium.config.ManagedServiceFactoryListener: 
+new Added class 11 : org.springframework.osgi.compendium.config.ManagedServiceListener: 
+new Added class 12 : org.springframework.osgi.compendium.config.ManagedServiceTest: 
+new Added class 13 : org.springframework.osgi.config.internal.MethodUtils: 
+new Added class 14 : org.springframework.osgi.context.support.internal.OsgiBundleScope: 
+new Added class 15 : org.springframework.osgi.context.OsgiBundleScopeTest: 
+new Added class 16 : org.springframework.osgi.compendium.internal.OsgiConfig: 
+new Added class 17 : org.springframework.osgi.compendium.config.OsgiConfigDefinitionParser: 
+new Added class 18 : org.springframework.osgi.compendium.config.OsgiConfigNamespaceHandlerTest: 
+new Added class 19 : org.springframework.osgi.compendium.internal.OsgiPropertyPlaceholder: 
+new Added class 20 : org.springframework.osgi.compendium.config.OsgiPropertyPlaceholderDefinitionParser: 
+new Added class 21 : org.springframework.osgi.compendium.config.OsgiPropertyPlaceholderNamespaceHandlerTest: 
+new Added class 22 : org.springframework.osgi.service.exporter.support.OsgiServiceFactoryBean: 
+new Added class 23 : org.springframework.osgi.config.OsgiServiceLifecycleListenerAdapter: 
+new Added class 24 : org.springframework.osgi.config.OsgiServiceLifecycleListenerAdapterTest: 
+new Added class 25 : org.springframework.osgi.config.OsgiServiceNamespaceHandlerTest: 
+new Added class 26 : org.springframework.osgi.config.OsgiServiceRegistrationListenerAdapter: 
+new Added class 27 : org.springframework.osgi.config.OsgiServiceRegistrationListenerAdapterTest: 
+new Added class 28 : org.springframework.osgi.config.internal.ParserUtils: 
+new Added class 29 : org.springframework.osgi.config.ReferenceBeanDefinitionParser: 
+new Added class 30 : org.springframework.osgi.config.ServiceBeanDefinitionParser: 
+new Added class 31 : org.springframework.osgi.service.exporter.support.ServiceRegistrationDecorator: 
+new Added class 32 : org.springframework.osgi.service.exporter.support.ServiceRegistrationWrapperTest: 
+new Added class 33 : org.springframework.osgi.compendium.internal.cm.UpdateMethodAdapter: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 31£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:8  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 10£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 11£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 19£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:3  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:18  r9:0  r10:107  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 22£º  r0:0  r1:0  r2:0  r3:6  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:20  r12:0  r13:1  r14:4  r15:0  r16:0  r17:0  
+class 27  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:14  r9:0  r10:78  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 22£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  3   2 :  0   3 :  13   4 :  1   5 :  0   6 :  9   7 :  0   8 :  38   9 :  0   10 :  196   11 :  42   12 :  0   13 :  1   14 :  4   15 :  0   16 :  0   17 :  0   

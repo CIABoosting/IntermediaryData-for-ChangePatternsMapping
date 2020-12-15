@@ -1,0 +1,16 @@
+MetaData:0.5266666666666666
+Builder:0.36
+IndicesAdminClient:0.3591666666666667
+GetIndexResponse:0.32
+IndicesOptionsIntegrationIT:0.29
+GetIndexIT:0.28
+IndicesAdmin:0.27666666666666667
+ClusterStateDiffIT:0.27
+AckIT:0.215
+OldIndexBackwardsCompatibilityIT:0.21333333333333335
+ExceptionSerializationTests:0.2
+TransportGetIndexAction:0.19333333333333333
+HeadersAndContextCopyClientTests:0.19
+ActionModule:0.12666666666666668
+GetIndexBackwardsCompatibilityIT:0.10333333333333333
+RestGetIndicesAction:0.1

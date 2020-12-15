@@ -1,0 +1,11 @@
+MultiLayerNetwork:0.7
+ComputationGraph:0.6
+DefaultGradient:0.39
+ModelSerializer:0.27666666666666667
+InMemoryLookupTable:0.25
+TsneModule:0.21333333333333335
+BaseMultiLayerUpdater:0.2
+MultiLayerTest:0.11
+DataSetLossCalculator:0.10333333333333333
+TestComputationGraphNetwork:0.08
+TestInstantiation:0.0033333333333333335

@@ -1,0 +1,15 @@
+Builder:0.3466666666666667
+EarlyStoppingResult:0.3433333333333333
+LocalFileGraphSaver:0.24
+ScoreCalculator:0.24
+EarlyStoppingModelSaver:0.23333333333333334
+SparkDataSetLossCalculator:0.19333333333333333
+InMemoryModelSaver:0.18111111111111108
+SparkEarlyStoppingTrainer:0.15333333333333332
+EarlyStoppingTrainer:0.15
+EarlyStoppingListener:0.12666666666666668
+EarlyStoppingGraphTrainer:0.10333333333333333
+EarlyStoppingConfiguration:0.023333333333333334
+BaseEarlyStoppingTrainer:0.02
+BaseSparkEarlyStoppingTrainer:0.013333333333333334
+SparkLossCalculatorComputationGraph:0.009166666666666667

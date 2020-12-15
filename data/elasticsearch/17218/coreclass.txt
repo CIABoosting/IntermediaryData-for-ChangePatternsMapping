@@ -1,0 +1,14 @@
+ElasticsearchIntegrationTest:0.49666666666666665
+Node:0.41
+ClusterHealthResponse:0.32666666666666666
+GatewayAllocator:0.25666666666666665
+RoutingAllocation:0.22333333333333333
+MinimumMasterNodesTests:0.20666666666666667
+NodesOperationResponse:0.20333333333333334
+Names:0.19666666666666666
+ClusterHealthResponsesTests:0.14333333333333334
+TransportNodesListShardStoreMetaData:0.09333333333333334
+TransportNodesListGatewayStartedShards:0.09333333333333334
+Fields:0.07
+TransportClusterHealthAction:0.06666666666666667
+InternalAsyncFetch:0.034444444444444444

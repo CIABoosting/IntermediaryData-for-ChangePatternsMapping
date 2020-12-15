@@ -1,0 +1,17 @@
+LookupSource:0.7966666666666666
+IndexSnapshot:0.7633333333333333
+AbstractTestIndexedQueries:0.32666666666666666
+IndexLookupSource:0.3
+Visitor:0.26
+DistributedQueryRunner:0.24666666666666667
+EmptyLookupSource:0.24416666666666667
+InMemoryJoinHash:0.22166666666666668
+LookupJoinOperator:0.21666666666666667
+IndexJoinLookupStats:0.20666666666666667
+IndexLoader:0.20333333333333334
+PagesIndexBuilderOperatorFactory:0.2
+PagesIndexBuilderOperator:0.18
+IndexSnapshotLoader:0.14333333333333334
+IndexSnapshotBuilder:0.1288888888888889
+ExceededMemoryLimitException:0.12666666666666668
+IndexLookupSourceSupplier:0.05

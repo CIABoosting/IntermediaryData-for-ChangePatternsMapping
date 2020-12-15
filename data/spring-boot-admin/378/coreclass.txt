@@ -1,0 +1,7 @@
+MailNotifierTest:0.39
+MailNotifier:0.31333333333333335
+SlackNotifier:0.28
+AbstractStatusChangeNotifier:0.27
+HipchatNotifier:0.20666666666666667
+PagerdutyNotifier:0.16
+LoggingNotifier:0.0

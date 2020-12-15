@@ -1,0 +1,14 @@
+Node:0.5133333333333333
+PartitionServiceImpl:0.42333333333333334
+AbstractAccessDelegate:0.33
+ServiceManager:0.31333333333333335
+ClusterServiceImpl:0.29
+CallableProcessor:0.29
+ConnectionFactoryImpl:0.2733333333333333
+TcpIpJoinerOverAWS:0.25666666666666665
+ConfigXmlGenerator:0.24666666666666667
+Migrator:0.24
+ManagedConnectionFactoryImpl:0.23
+ReplicaSyncEntryProcessor:0.20666666666666667
+DistributedExecutorService:0.2
+MigrationThread:0.18166666666666667

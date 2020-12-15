@@ -1,0 +1,11 @@
+RaptorMetadata:0.63
+RaptorConnector:0.5533333333333333
+TestRaptorMetadata:0.3566666666666667
+RaptorHandleResolver:0.17333333333333334
+TestRaptorSplitManager:0.17166666666666666
+RaptorPageSourceProvider:0.15
+TestShardMetadataRecordCursor:0.15
+RaptorBenchmarkQueryRunner:0.10666666666666667
+RaptorModule:0.1
+RaptorSplitManager:0.08
+RaptorPageSinkProvider:0.07

@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.redisson.liveobject.core.AccessorInterceptor: 
+new Added class 1 : org.redisson.liveobject.CodecProvider: 
+new Added class 2 : org.redisson.liveobject.DefaultCodecProvider: 
+new Added class 3 : org.redisson.liveobject.core.ExpirableInterceptor: 
+new Added class 4 : org.redisson.liveobject.resolver.FieldValueAsIdGenerator: 
+new Added class 5 : org.redisson.liveobject.misc.Introspectior: 
+new Added class 6 : org.redisson.liveobject.core.LiveObjectInterceptor: 
+new Added class 7 : org.redisson.liveobject.LiveObjectTemplate: 
+new Added class 8 : org.redisson.liveobject.RAttachedLiveObjectService: 
+new Added class 9 : org.redisson.liveobject.RDetachedLiveObjectService: 
+new Added class 10 : org.redisson.liveobject.resolver.Resolver: 
+new Added class 11 : org.redisson.liveobject.RLiveObject: 
+new Added class 12 : org.redisson.liveobject.RLiveObjectService: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 0  vs  class 11£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 8  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 12£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  4   3 :  3   4 :  0   5 :  0   6 :  0   7 :  0   8 :  2   9 :  0   10 :  3   11 :  0   12 :  0   13 :  0   14 :  2   15 :  0   16 :  0   17 :  0   

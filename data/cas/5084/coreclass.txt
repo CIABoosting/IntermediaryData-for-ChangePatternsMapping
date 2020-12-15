@@ -1,0 +1,10 @@
+ThrottledUseAndTimeoutExpirationPolicy:0.38666666666666666
+TicketGrantingTicketExpirationPolicy:0.3466666666666667
+CouchbaseTicketRegistry:0.33666666666666667
+CasCoreTicketsConfiguration:0.33
+TimeoutExpirationPolicy:0.28
+HardTimeoutExpirationPolicy:0.26
+GenericSuccessViewAction:0.19333333333333333
+MockTicketGrantingTicket:0.17666666666666667
+TicketGrantingTicketExpirationPolicyTests:0.17
+ThrottledUseAndTimeoutExpirationPolicyTests:0.14333333333333334

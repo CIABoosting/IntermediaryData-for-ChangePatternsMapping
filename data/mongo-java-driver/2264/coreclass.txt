@@ -1,0 +1,9 @@
+ServerDescription:0.88
+ServerStateNotifier:0.27666666666666667
+LatencyMinimizingServerSelector:0.26
+MongosHAServerSelector:0.22666666666666666
+ServerDescriptionTest:0.15333333333333332
+LatencyMinimizingServerSelectorTest:0.12200000000000003
+CompositeServerSelectorTest:0.057777777777777775
+MongosHAServerSelectorTest:0.04777777777777777
+ReadPreferenceTest:0.043333333333333335

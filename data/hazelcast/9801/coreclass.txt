@@ -1,0 +1,16 @@
+CacheSimpleConfig:0.5133333333333333
+CacheConfig:0.4166666666666667
+AbstractCacheService:0.3566666666666667
+XmlConfigBuilder:0.27
+ConfigXmlGenerator:0.26666666666666666
+CacheLoadAllOperation:0.19666666666666666
+CacheRemoveAllOperation:0.19666666666666666
+CachePutBackupOperation:0.19666666666666666
+PartitionedCluster:0.19333333333333333
+CacheRemoveAllBackupOperation:0.19305555555555554
+CachePutAllBackupOperation:0.19305555555555554
+CacheClearBackupOperation:0.19305555555555554
+CacheSimpleConfigReadOnly:0.18
+CacheConfigReadOnly:0.17
+CacheClearOperation:0.13666666666666666
+ConfigXmlGeneratorTest:0.07333333333333333

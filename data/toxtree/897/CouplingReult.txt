@@ -1,0 +1,102 @@
+Compared Result of  two versions
+Number of New Class: 56
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : toxTree.tree.AbstractTreePrinter: 
+new Added class 1 : toxTree.data.ActionList: 
+new Added class 2 : toxTree.io.batch.ChemObjectBatchProcessing: 
+new Added class 3 : toxTree.qsar.CommandShell: 
+new Added class 4 : toxTree.test.qsar.CommandShellTest: 
+new Added class 5 : toxTree.ui.wizard.DecisionNodeWizard: 
+new Added class 6 : toxTree.io.DelimitedFileFormat: 
+new Added class 7 : toxTree.io.DelimitedFileReader: 
+new Added class 8 : toxTree.io.DelimitedFileWriter: 
+new Added class 9 : toxTree.qsar.DescriptorMopacShell: 
+new Added class 10 : toxTree.io.FilesWithHeaderWriter: 
+new Added class 11 : toxTree.test.query.FuncGroupsTest: 
+new Added class 12 : toxTree.query.FunctionalGroups: 
+new Added class 13 : toxTree.query.ChargeConsumed: 
+new Added class 14 : toxTree.ui.actions.InfoAction: 
+new Added class 15 : toxTree.core.Introspection: 
+new Added class 16 : toxTree.core.TypeSafeEnumPersistenceDelegate: 
+new Added class 17 : toxTree.test.IntrospectionTest: 
+new Added class 18 : toxTree.io.IRandomAccessChemObjectReader: 
+new Added class 19 : toxTree.io.IteratingDelimitedFileReader: 
+new Added class 20 : toxTree.io.IteratingFilesWithHeaderReader: 
+new Added class 21 : toxTree.tree.rules.LookupFile: 
+new Added class 22 : toxTree.test.io.MengineCrashTest: 
+new Added class 23 : toxTree.query.MolAnalyser: 
+new Added class 24 : toxTree.data.MoleculesFile: 
+new Added class 25 : toxTree.data.MoleculesIterator: 
+new Added class 26 : toxTree.qsar.Mopac7Reader: 
+new Added class 27 : toxTree.qsar.Mopac7Writer: 
+new Added class 28 : toxTree.io.MyIteratingMDLReader: 
+new Added class 29 : toxTree.qsar.OpenBabelShell: 
+new Added class 30 : toxTree.io.PDFWriter: 
+new Added class 31 : toxTree.ui.Preferences: 
+new Added class 32 : toxTree.ui.PreferencesPanel: 
+new Added class 33 : toxTree.ui.TextPropertyChangeListener: 
+new Added class 34 : toxTree.ui.CheckBoxAction: 
+new Added class 35 : toxTree.ui.actions.QuitAction: 
+new Added class 36 : toxTree.io.RandomAccessReader: 
+new Added class 37 : toxTree.io.RecordReaderEvent: 
+new Added class 38 : toxTree.io.RandomAccessSDFReader: 
+new Added class 39 : toxTree.test.tree.rules.RuleStructuresListTest: 
+new Added class 40 : toxTree.exceptions.ShellException: 
+new Added class 41 : toxTree.qsar.ShellMengine: 
+new Added class 42 : toxTree.qsar.ShellSDFoutput: 
+new Added class 43 : toxTree.qsar.ShellSmi2SDF: 
+new Added class 44 : toxTree.query.SimpleReactions: 
+new Added class 45 : toxTree.ui.tree.rules.SmartsPanelEditor: 
+new Added class 46 : toxTree.core.SmilesParserWrapper: 
+new Added class 47 : toxTree.test.query.TestCasesFactory: 
+new Added class 48 : toxTree.test.io.batch.ToxTreeBatchProcessingTest: 
+new Added class 49 : toxTree.test.toxTreeEventTest: 
+new Added class 50 : toxTree.ui.tree.TreeOptions: 
+new Added class 51 : toxTree.ui.tree.StructureAction: 
+new Added class 52 : toxTree.ui.tree.RuleAction: 
+new Added class 53 : toxTree.ui.tree.PropertiesAction: 
+new Added class 54 : toxTree.test.io.xml.TreeSerializerTest: 
+new Added class 55 : toxTree.test.tree.UserDefinedTreeTest: 
+testing relationship 
+class 3  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:9  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:5  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 41£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 7  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:5  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 8  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 41£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 13£º  r0:0  r1:0  r2:0  r3:6  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:5  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 19  vs  class 20£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 41£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:27  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 43£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:30  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:9  r9:0  r10:10  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 28£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 42£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 18£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 36£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 41  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 42£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 42  vs  class 3£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 42  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 42£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 45  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 46  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 53£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 53£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  10   2 :  1   3 :  6   4 :  0   5 :  2   6 :  0   7 :  23   8 :  71   9 :  0   10 :  55   11 :  24   12 :  0   13 :  17   14 :  10   15 :  0   16 :  0   17 :  0   

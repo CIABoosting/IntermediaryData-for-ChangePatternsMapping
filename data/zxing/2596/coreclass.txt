@@ -1,0 +1,12 @@
+BitMatrix:0.6733333333333333
+FinderPatternFinder:0.28
+Detector:0.25666666666666665
+MonochromeRectangleDetector:0.19
+AlignmentPatternFinder:0.18
+GridSampler:0.09333333333333334
+DataMatrixReader:0.07666666666666666
+QRCodeMultiReader:0.07333333333333333
+QRCodeReader:0.07
+MultiFinderPatternFinder:0.04
+DefaultGridSampler:0.03
+MultiDetector:0.03

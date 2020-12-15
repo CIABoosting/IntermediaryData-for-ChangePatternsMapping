@@ -1,0 +1,15 @@
+Builder:0.7633333333333333
+Environment:0.49666666666666665
+Analysis:0.39
+EnvironmentTests:0.15666666666666668
+InternalSettingsPreparerTests:0.15
+KuromojiAnalysisTests:0.13
+HyphenationCompoundWordTokenFilterFactory:0.12666666666666668
+IcuCollationTokenFilterFactory:0.11333333333333333
+KeepFilterFactoryTests:0.11
+LogConfigurator:0.10333333333333333
+AbstractAwsTest:0.10333333333333333
+InternalSettingsPreparer:0.08666666666666667
+AbstractAzureTest:0.08333333333333333
+CommonGramsTokenFilterFactoryTests:0.07666666666666666
+SynonymsAnalysisTest:0.02

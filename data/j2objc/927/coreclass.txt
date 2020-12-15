@@ -1,0 +1,10 @@
+Types:0.5566666666666666
+FunctionBinding:0.39666666666666667
+OperatorRewriter:0.24666666666666667
+Autoboxer:0.24666666666666667
+CastResolver:0.21
+NilCheckResolver:0.2
+ImplementationImportCollector:0.2
+ArrayRewriter:0.18333333333333332
+TypeFixer:0.17333333333333334
+JavaCloneWriter:0.11666666666666667

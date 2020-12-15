@@ -1,0 +1,29 @@
+Compared Result of  two versions
+Number of New Class: 23
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.lwjgl.opengl.AMDDebugOutputCallback: 
+new Added class 1 : org.lwjgl.opengl.AMD_multi_draw_indirect: 
+new Added class 2 : org.lwjgl.opengl.ARBDebugOutputCallback: 
+new Added class 3 : org.lwjgl.opengl.ARB_draw_indirect: 
+new Added class 4 : org.lwjgl.opengl.ARB_ES2_compatibility: 
+new Added class 5 : org.lwjgl.opengl.ARB_multi_draw_indirect: 
+new Added class 6 : org.lwjgl.opengl.ARB_texture_compression_rgtc: 
+new Added class 7 : org.lwjgl.opengl.ARB_texture_storage: 
+new Added class 8 : org.lwjgl.opengl.ARB_vertex_attrib_64bit: 
+new Added class 9 : org.lwjgl.opencl.CL10: 
+new Added class 10 : org.lwjgl.opencl.CL12: 
+new Added class 11 : org.lwjgl.opengl.EXT_direct_state_access: 
+new Added class 12 : org.lwjgl.opengl.EXT_vertex_attrib_64bit: 
+new Added class 13 : org.lwjgl.opengl.GL30: 
+new Added class 14 : org.lwjgl.opengl.GL40: 
+new Added class 15 : org.lwjgl.opengl.GL41: 
+new Added class 16 : org.lwjgl.opengl.GL43: 
+new Added class 17 : org.lwjgl.opengl.KHRDebugCallback: 
+new Added class 18 : org.lwjgl.opengl.NV_gpu_shader5: 
+new Added class 19 : org.lwjgl.opengl.NV_vertex_attrib_integer_64bit: 
+new Added class 20 : org.lwjgl.util.generator.Utils: 
+new Added class 21 : org.lwjgl.test.opengl.VersionTest: 
+new Added class 22 : org.lwjgl.opengl.WindowsKeyboard: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

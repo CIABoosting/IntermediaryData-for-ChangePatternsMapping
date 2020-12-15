@@ -1,0 +1,12 @@
+QueryShardContext:0.7333333333333333
+QueryStringQueryBuilder:0.4866666666666667
+QueryParserSettings:0.43
+IndexQueryParserService:0.38
+MapperQueryParser:0.37
+HighlighterSearchIT:0.27666666666666667
+BaseQueryTestCase:0.26666666666666666
+SimpleQueryStringBuilderTests:0.19333333333333333
+RangeQueryBuilderTests:0.12666666666666668
+BoolQueryBuilderTests:0.1
+QueryStringQueryParser:0.1
+CommonTermsQueryBuilderTests:0.02

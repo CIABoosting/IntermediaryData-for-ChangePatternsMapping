@@ -1,0 +1,11 @@
+LdapUtils:0.49333333333333335
+LdapTemplate:0.4766666666666667
+DefaultInitialDirContextFactory:0.2633333333333333
+BindAuthenticator:0.18
+DefaultInitialDirContextFactoryTests:0.18
+LdapTemplateTests:0.14666666666666667
+MockInitialDirContextFactory:0.11277777777777777
+FilterBasedLdapUserSearch:0.10833333333333334
+PasswordComparisonAuthenticatorMockTests:0.08666666666666667
+BindWithSpecificDnContextSource:0.07
+LdapUtilsTests:0.06333333333333334

@@ -1,0 +1,230 @@
+Compared Result of  two versions
+Number of New Class: 119
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : mango.module.definition.msg.AddConjectureRequestMsg: 
+new Added class 1 : mango.module.definition.msg.AddEquivalenceAutoRequestMsg: 
+new Added class 2 : mango.module.definition.msg.AddEquivalenceRequestMsg: 
+new Added class 3 : mango.module.definition.msg.AddHypothesisAutoRequestMsg: 
+new Added class 4 : mango.module.definition.msg.AddHypothesisRequestMsg: 
+new Added class 5 : mango.ruleAction.conditionalTechniques.linear.ApplyLinearArithmetic: 
+new Added class 6 : mango.module.msg.ApplyLinearRequestMsg: 
+new Added class 7 : mango.ruleAction.conditionalTechniques.conditional.AssumptionMatch: 
+new Added class 8 : mango.ruleAction.conditionalTechniques.backflow.Backflow: 
+new Added class 9 : mango.ruleAction.conditionalTechniques.backflow.BackflowLeft: 
+new Added class 10 : mango.ruleAction.conditionalTechniques.backflow.BackflowRight: 
+new Added class 11 : mango.ruleAction.form.binder.BindConjunctionSym: 
+new Added class 12 : mango.ruleAction.form.binder.BindEquationSym: 
+new Added class 13 : mango.ruleAction.form.binder.BindFoundationSym: 
+new Added class 14 : mango.ruleAction.form.binder.BindInequationSym: 
+new Added class 15 : mango.debugger.action.BreakPointTypeAction: 
+new Added class 16 : mango.ruleAction.conditionalTechniques.linear.BuildEquation: 
+new Added class 17 : mango.ruleAction.module.instance.BuildLoopInstanceManager: 
+new Added class 18 : mango.ruleAction.module.instance.BuildMethodInstanceManager: 
+new Added class 19 : mango.module.instance.loop.msg.CloseLoopInstanceMsg: 
+new Added class 20 : mango.module.instance.method.msg.CloseMethodInstanceMsg: 
+new Added class 21 : mango.ruleAction.function.engine.CommuteFunctionExp: 
+new Added class 22 : mango.ruleAction.conditionalTechniques.conditional.CompareToExtract: 
+new Added class 23 : mango.ruleAction.function.engine.ComposeFunctionSym: 
+new Added class 24 : mango.ruleAction.function.engine.ConditionalCommuteFunctionExp: 
+new Added class 25 : mango.ruleAction.invariant.ConditionalEquivalence: 
+new Added class 26 : mango.ruleAction.invariant.ConditionalInvariantTest: 
+new Added class 27 : mango.ruleAction.invariant.ConditionalMethodInvariant: 
+new Added class 28 : mango.ruleAction.invariant.ConditionalMethodTest: 
+new Added class 29 : mango.module.definition.trap.ConsistentHypoConnector: 
+new Added class 30 : mango.module.definition.trap.ConsistentHypoTrap: 
+new Added class 31 : mango.ruleAction.conditionalTechniques.conditional.Contains: 
+new Added class 32 : mango.module.msg.ContainsTestMsg: 
+new Added class 33 : mango.module.trap.ContainsTestTrap: 
+new Added class 34 : mango.ruleAction.coreRewriter.string.ConvertCharArrayToString: 
+new Added class 35 : mango.module.definition.model.DefinitionManager: 
+new Added class 36 : mango.ruleAction.translate.automatic.DoesNotThrow: 
+new Added class 37 : mango.ruleAction.conditionalTechniques.linear.EliminateDuplication: 
+new Added class 38 : mango.module.definition.msg.EliminateHypothesisRequestMsg: 
+new Added class 39 : mango.module.definition.trap.EliminateHypoTrap: 
+new Added class 40 : mango.ruleAction.coreRewriter.comparison.Equals: 
+new Added class 41 : mango.ruleAction.function.engine.EvalConditional: 
+new Added class 42 : mango.ruleAction.function.engine.EvaluatePredicate: 
+new Added class 43 : mango.ruleAction.conditionalTechniques.conditional.FireBackchain: 
+new Added class 44 : mango.ruleAction.conditionalTechniques.conditional.Free: 
+new Added class 45 : mango.ruleAction.conditionalTechniques.conditional.FreeVars: 
+new Added class 46 : mango.ruleAction.coreRewriter.garbageCollection.GarbageCollect: 
+new Added class 47 : mango.module.msg.GarbageCollectRequestMsg: 
+new Added class 48 : mango.ruleAction.conditionalTechniques.conditional.Generalize: 
+new Added class 49 : mango.module.trap.GeneralizeCaseRewriteTrap: 
+new Added class 50 : mango.module.msg.GeneralizeRequestMsg: 
+new Added class 51 : mango.module.trap.GeneralizeTrap: 
+new Added class 52 : mango.ruleAction.function.engine.GenericListCommute: 
+new Added class 53 : mango.ruleAction.conditionalTechniques.conditional.GetFreeVariableName: 
+new Added class 54 : mango.ruleAction.module.definition.HarvestParameters: 
+new Added class 55 : mango.module.definition.trap.HarvestParametersTrap: 
+new Added class 56 : mango.ruleAction.conditionalTechniques.conditional.HYPO: 
+new Added class 57 : mango.ruleAction.conditionalTechniques.conditional.ImmutableEquals: 
+new Added class 58 : mango.ruleAction.coreRewriter.comparison.InequivalentRef: 
+new Added class 59 : mango.module.instance.model.InstanceManager: 
+new Added class 60 : mango.ruleAction.conditionalTechniques.interpretation.InterpretAssoc: 
+new Added class 61 : mango.ruleAction.conditionalTechniques.interpretation.InterpretBlockedUcon: 
+new Added class 62 : mango.ruleAction.conditionalTechniques.interpretation.InterpretComposition: 
+new Added class 63 : mango.ruleAction.invariant.Invariant: 
+new Added class 64 : mango.ruleAction.invariant.InvariantTest: 
+new Added class 65 : mango.ruleAction.function.engine.InvertConditional: 
+new Added class 66 : mango.ruleAction.translate.automatic.IsLoadable: 
+new Added class 67 : mango.ruleAction.translate.automatic.IsLoadableArrayClass: 
+new Added class 68 : mango.ruleAction.translate.automatic.IsLoadableClass: 
+new Added class 69 : mango.ruleAction.conditionalTechniques.conditional.IsPastRefNormalizeBinder: 
+new Added class 70 : mango.ruleAction.conditionalTechniques.conditional.IsPresentRefNormalizeBinder: 
+new Added class 71 : mango.enterprise.locator.LocatableFolderViewer: 
+new Added class 72 : mango.module.definition.loop.LoopDefinitionManager: 
+new Added class 73 : mango.module.instance.loop.agent.LoopInstanceAgent: 
+new Added class 74 : mango.ruleAction.conditionalTechniques.conditional.Match: 
+new Added class 75 : mango.ruleAction.conditionalTechniques.conditional.MatchAssumptionList: 
+new Added class 76 : mango.ruleAction.conditionalTechniques.conditional.MatchAssumptions: 
+new Added class 77 : mango.module.msg.MatchMakerRequestMsg: 
+new Added class 78 : mango.module.instance.msg.MergeRequestMsg: 
+new Added class 79 : mango.module.trap.MergeTrap: 
+new Added class 80 : mango.ruleAction.translate.automatic.MethodCallAssumption: 
+new Added class 81 : mango.module.definition.method.MethodDefinitionManager: 
+new Added class 82 : mango.module.instance.method.agent.MethodInstanceAgent: 
+new Added class 83 : mango.ruleAction.invariant.MethodInvariant: 
+new Added class 84 : mango.ruleAction.invariant.MethodInvariantTest: 
+new Added class 85 : mango.module.sym.ModuleLevelSym: 
+new Added class 86 : mango.module.model.ModuleManager: 
+new Added class 87 : mango.module.sym.ModuleReadOnlySym: 
+new Added class 88 : mango.ruleAction.invariant.OpVarAsLocalVar: 
+new Added class 89 : mango.ruleAction.conditionalTechniques.conditional.OverDisambiguation: 
+new Added class 90 : mango.module.definition.agent.ParameterExpAgent: 
+new Added class 91 : mango.module.definition.sym.ParamSym: 
+new Added class 92 : mango.ruleAction.form.binder.PushRefH: 
+new Added class 93 : mango.module.trap.ReadOnlyCacheTrap: 
+new Added class 94 : mango.module.instance.method.trap.RebindTargetConnector: 
+new Added class 95 : mango.module.model.RuleModel: 
+new Added class 96 : mango.ruleAction.conditionalTechniques.conditional.SimplifyAnd: 
+new Added class 97 : mango.ruleAction.conditionalTechniques.conditional.SimplifyOr: 
+new Added class 98 : mango.ruleAction.conditionalTechniques.conditional.StabilizeArguments: 
+new Added class 99 : mango.module.instance.msg.SubmitStandingHypothesisMsg: 
+new Added class 100 : mango.ruleAction.conditionalTechniques.conditional.SubType: 
+new Added class 101 : mango.ruleAction.translate.automatic.ThisIsNotNull: 
+new Added class 102 : mango.ruleAction.translate.engine.TranslateArguments: 
+new Added class 103 : mango.ruleAction.translate.engine.TranslateArraySubaddress: 
+new Added class 104 : mango.ruleAction.translate.engine.TranslateFreeVariableSym: 
+new Added class 105 : mango.ruleAction.translate.engine.TranslateHeapObject: 
+new Added class 106 : mango.ruleAction.translate.engine.TranslateModuleInvocationSym: 
+new Added class 107 : mango.ruleAction.translate.engine.TranslateNotModuleInvocationSym: 
+new Added class 108 : mango.ruleAction.translate.engine.TranslateNotUserInvocationSym: 
+new Added class 109 : mango.ruleAction.translate.engine.TranslateOver: 
+new Added class 110 : mango.ruleAction.translate.engine.TranslateSubaddress: 
+new Added class 111 : mango.ruleAction.translate.engine.TranslateUserInvocationSym: 
+new Added class 112 : mango.ruleAction.conditionalTechniques.conditional.Union: 
+new Added class 113 : mango.ruleAction.conditionalTechniques.conditional.With: 
+new Added class 114 : mango.ruleAction.conditionalTechniques.conditional.WithChange: 
+new Added class 115 : mango.ruleAction.conditionalTechniques.conditional.WithDiveCommutes: 
+new Added class 116 : mango.ruleAction.conditionalTechniques.conditional.WithDiveCommutesForceRewrite: 
+new Added class 117 : mango.ruleAction.conditionalTechniques.conditional.WithEval: 
+new Added class 118 : mango.ruleAction.conditionalTechniques.conditional.WithTruth: 
+testing relationship 
+class 0  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 0  vs  class 87£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 1  vs  class 87£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 2  vs  class 87£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 3  vs  class 87£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 29£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 4  vs  class 87£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 85£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 73£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 82£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 94£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 30£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 29  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 29  vs  class 87£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 30  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 30  vs  class 87£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 32  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 38£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 71£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:16  r9:0  r10:15  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 86£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 35  vs  class 87£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:16  r15:0  r16:9  r17:0  
+class 35  vs  class 91£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:2  r17:0  
+class 35  vs  class 95£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:34  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 38  vs  class 39£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 87£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:2  r15:0  r16:2  r17:0  
+class 39  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 39  vs  class 87£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 47  vs  class 85£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 49  vs  class 85£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 50  vs  class 49£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 50  vs  class 51£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 50  vs  class 59£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 50  vs  class 85£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:1  r15:0  r16:0  r17:0  
+class 50  vs  class 86£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 85£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 54  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 54  vs  class 91£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:1  r14:1  r15:0  r16:0  r17:0  
+class 55  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:7  r9:0  r10:1  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 55  vs  class 91£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:12  r9:0  r10:4  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 55  vs  class 95£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 59  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 59  vs  class 71£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:5  r6:0  r7:0  r8:18  r9:0  r10:0  r11:7  r12:0  r13:27  r14:0  r15:0  r16:3  r17:0  
+class 59  vs  class 85£º  r0:0  r1:0  r2:0  r3:9  r4:9  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:30  r12:0  r13:6  r14:1  r15:0  r16:2  r17:0  
+class 59  vs  class 86£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 59  vs  class 87£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:9  r14:0  r15:0  r16:0  r17:0  
+class 59  vs  class 99£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 71  vs  class 85£º  r0:0  r1:0  r2:0  r3:2  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 71  vs  class 86£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 71  vs  class 87£º  r0:0  r1:0  r2:0  r3:3  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:2  r15:0  r16:0  r17:0  
+class 71  vs  class 91£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 72  vs  class 35£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 72  vs  class 71£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:2  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 72  vs  class 85£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 73  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 75  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 78  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:5  r14:0  r15:0  r16:0  r17:0  
+class 78  vs  class 79£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 78  vs  class 85£º  r0:0  r1:0  r2:0  r3:5  r4:3  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 79  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 79  vs  class 71£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 79  vs  class 85£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 81  vs  class 35£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 81  vs  class 71£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 81  vs  class 85£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 82  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 85  vs  class 91£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 85  vs  class 95£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:13  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 86  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 86  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 86  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 86  vs  class 47£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 86  vs  class 50£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 86  vs  class 71£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:3  r6:0  r7:0  r8:5  r9:0  r10:3  r11:0  r12:0  r13:0  r14:2  r15:0  r16:5  r17:0  
+class 86  vs  class 85£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 86  vs  class 87£º  r0:0  r1:0  r2:0  r3:5  r4:5  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:14  r14:2  r15:0  r16:0  r17:0  
+class 86  vs  class 91£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 87  vs  class 91£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 87  vs  class 95£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:28  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 90  vs  class 91£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 91  vs  class 95£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 93  vs  class 71£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 93  vs  class 87£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:8  r14:3  r15:0  r16:2  r17:0  
+class 93  vs  class 95£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 94  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 95  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 95  vs  class 91£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:2  r17:0  
+class 99  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 99  vs  class 85£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 99  vs  class 95£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 100  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 100  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 110  vs  class 44£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  4   2 :  0   3 :  35   4 :  32   5 :  17   6 :  0   7 :  0   8 :  106   9 :  0   10 :  77   11 :  232   12 :  0   13 :  170   14 :  66   15 :  0   16 :  28   17 :  0   

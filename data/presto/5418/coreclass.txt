@@ -1,0 +1,11 @@
+QualifiedName:0.53
+AstBuilder:0.32
+DereferenceExpression:0.25
+TestSqlParser:0.22333333333333333
+QueryUtil:0.20666666666666667
+TestDomainTranslator:0.20333333333333334
+LiteralInterpreter:0.13666666666666666
+CanonicalizeExpressionRewriter:0.13666666666666666
+TestDeterminismEvaluator:0.11333333333333333
+TestSetSessionTask:0.11333333333333333
+Visitor:0.105

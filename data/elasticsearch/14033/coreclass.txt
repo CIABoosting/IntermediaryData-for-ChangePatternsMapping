@@ -1,0 +1,16 @@
+AwarenessAllocationTests:0.27666666666666667
+InnerHitsFetchSubPhase:0.25333333333333335
+RoutingIteratorTests:0.21666666666666667
+TransformOnIndexMapperTests:0.19666666666666666
+TermVectorsFetchSubPhase:0.19666666666666666
+HighlightPhase:0.19666666666666666
+AllocationCommandsTests:0.19
+ExplainFetchSubPhase:0.19
+VersionFetchSubPhase:0.19
+XContentMapValuesTests:0.18333333333333332
+LeafFieldsLookup:0.18333333333333332
+ExistsMissingIT:0.18333333333333332
+DiscoveryNodeFiltersTests:0.18333333333333332
+FilterRoutingTests:0.18
+PreferLocalPrimariesToRelocatingPrimariesTests:0.12
+ClusterAllocationRerouteBenchmark:0.09333333333333334

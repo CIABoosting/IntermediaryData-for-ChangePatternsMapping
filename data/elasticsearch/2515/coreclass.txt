@@ -1,0 +1,7 @@
+TranslogDeletionPolicy:0.54
+InternalEngine:0.35
+BaseTranslogReader:0.30666666666666664
+TranslogTests:0.3
+TranslogWriter:0.3
+IndexSettings:0.24333333333333335
+CombinedDeletionPolicyTests:0.12333333333333334

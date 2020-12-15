@@ -1,0 +1,9 @@
+TableTemplate:0.4633333333333333
+StatementBuilder:0.4033333333333333
+AbstractDbDialect:0.3566666666666667
+CsvLoader:0.35
+IDbDialect:0.27166666666666667
+DuplicateTableDataLoaderFilter:0.19333333333333333
+PostgreSqlDbDialect:0.18666666666666668
+TransformDataLoader:0.14
+PostgresSqlStatementBuilder:0.12

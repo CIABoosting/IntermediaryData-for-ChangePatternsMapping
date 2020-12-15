@@ -1,0 +1,14 @@
+Constants:0.66
+OutgoingBatch:0.5633333333333334
+IDataService:0.5433333333333333
+DataService:0.41333333333333333
+MockDataService:0.35
+OutgoingBatchService:0.31333333333333335
+NodeManagementService:0.25333333333333335
+DataExtractorService:0.23
+SimpleIntegrationTest:0.20333333333333334
+PurgeServiceTest:0.2
+AbstractSymmetricEngine:0.18666666666666668
+DataExtractorServiceTest:0.14
+OutgoingBatchServiceTest:0.13666666666666666
+OutgoingBatchMapper:0.02

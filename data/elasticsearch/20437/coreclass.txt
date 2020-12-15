@@ -1,0 +1,13 @@
+DocumentMapper:0.5833333333333334
+MapperService:0.48333333333333334
+TimestampFieldMapper:0.43
+IndexFieldMapper:0.43
+SizeFieldMapper:0.14333333333333334
+TimestampMappingTests:0.10666666666666667
+UpdateMappingTests:0.09666666666666666
+UpdateMappingOnCusterTests:0.07666666666666666
+DefaultSourceMappingTests:0.06
+SimpleTimestampTests:0.056666666666666664
+MetaDataMappingService:0.034444444444444444
+SizeMappingIntegrationTests:0.02666666666666667
+IndexTypeMapperTests:0.02

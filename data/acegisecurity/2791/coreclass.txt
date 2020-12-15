@@ -1,0 +1,17 @@
+FilterChainOrder:0.51
+PreAuthenticatedGrantedAuthoritiesWebAuthenticationDetails:0.2866666666666667
+SecurityConfigTests:0.27
+FilterBasedLdapUserSearch:0.27
+BeanIds:0.24666666666666667
+DefaultLoginPageGeneratingFilter:0.23
+SecurityConfig:0.22333333333333333
+HttpSecurityBeanDefinitionParser:0.21666666666666667
+OpenIDAuthenticationProcessingFilter:0.20527777777777778
+HttpSecurityConfigPostProcessor:0.19333333333333333
+FormLoginBeanDefinitionParser:0.17
+HttpSecurityBeanDefinitionParserTests:0.17
+AuthenticationProviderBeanDefinitionParserTests:0.14333333333333334
+PasswordEncoderParser:0.13
+MockGrantedAuthorityImpl:0.09333333333333334
+Elements:0.06
+GrantedAuthoritiesContainerImpl:0.0

@@ -1,0 +1,9 @@
+InstallPluginCommand:0.5
+Bootstrap:0.3433333333333333
+PluginCli:0.2633333333333333
+RemovePluginCommand:0.26
+InstallPluginCommandTests:0.25
+BootstrapCliParserTests:0.22666666666666666
+ListPluginsCommandTests:0.14333333333333334
+RemovePluginCommandTests:0.13666666666666666
+ListPluginsCommand:0.11666666666666667

@@ -1,0 +1,9 @@
+JobSupervisor:0.39666666666666667
+ReducerTask:0.26
+PartitionProcessor:0.14777777777777776
+KeyValueSourceMappingPhase:0.14
+MapCombineTask:0.10666666666666667
+MappingPhase:0.09
+TimeConsumingMapper:0.08711111111111113
+MapReduceTest:0.043333333333333335
+ClientMapReduceTest:0.043333333333333335

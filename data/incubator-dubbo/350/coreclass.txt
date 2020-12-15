@@ -1,0 +1,16 @@
+HeaderExchangeChannel:0.34
+HeaderExchangeServer:0.32666666666666666
+HeaderExchangeClient:0.32666666666666666
+LazyConnectExchangeClient:0.30666666666666664
+ClientDelegate:0.26
+AbstractServer:0.25666666666666665
+MockedChannel:0.24666666666666667
+ReferenceCountExchangeClient:0.22333333333333333
+Endpoint:0.22166666666666668
+MockChannel:0.22
+ChannelDelegate:0.22
+ServerDelegate:0.22
+AbstractMockChannel:0.22
+ExchangeServerDelegate:0.22
+MockedClient:0.20083333333333334
+AbstractPeer:0.17

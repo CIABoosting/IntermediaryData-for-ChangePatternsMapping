@@ -1,0 +1,11 @@
+FeaturesConfig:0.5566666666666666
+SystemSessionProperties:0.34
+HashAggregationOperator:0.2875
+MergingHashAggregationBuilder:0.26
+HashAggregationOperatorFactory:0.25
+SpillableHashAggregationBuilder:0.24833333333333332
+Visitor:0.22333333333333333
+TestHashAggregationOperator:0.15
+TestQuerySpillLimits:0.13
+TestFeaturesConfig:0.12333333333333334
+TestLocalBinarySpilledQueries:0.09

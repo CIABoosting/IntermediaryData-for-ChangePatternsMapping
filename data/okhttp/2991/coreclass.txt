@@ -1,0 +1,13 @@
+SpdyStream:0.5066666666666667
+SpdyConnection:0.39666666666666667
+SpdyReader:0.26
+SpdyConnectionTest:0.24333333333333335
+Reader:0.22
+RawHeaders:0.2111111111111111
+Handler:0.2105952380952381
+ConnectionPool:0.19
+SpdyDataInputStream:0.14
+SpdyDataOutputStream:0.12333333333333334
+MockSpdyPeer:0.09
+SpdyWriter:0.0661111111111111
+InFrame:0.061111111111111116

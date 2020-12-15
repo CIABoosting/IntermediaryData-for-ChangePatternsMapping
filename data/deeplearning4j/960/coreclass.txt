@@ -1,0 +1,10 @@
+Dropout:0.30333333333333334
+AlphaDropout:0.19855555555555554
+GaussianDropout:0.1752222222222222
+PolySchedule:0.14333333333333334
+GaussianNoise:0.14166666666666666
+StepSchedule:0.12
+InverseSchedule:0.12
+ExponentialSchedule:0.12
+ISchedule:0.08738888888888888
+MapSchedule:0.08333333333333333

@@ -1,0 +1,13 @@
+Context:0.6
+ClientConductor:0.3566666666666667
+DriverConductor:0.35333333333333333
+EventDissector:0.25333333333333335
+Aeron:0.24333333333333335
+CounterMessageFlyweight:0.23833333333333334
+ClientProxy:0.22333333333333333
+DriverEventsListener:0.22166666666666668
+DriverEventsAdapter:0.21833333333333332
+DriverConductorTest:0.1
+CounterLink:0.09821428571428571
+CmdInterceptor:0.08666666666666667
+ControlProtocolEvents:0.0

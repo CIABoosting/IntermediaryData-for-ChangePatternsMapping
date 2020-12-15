@@ -1,0 +1,27 @@
+Compared Result of  two versions
+Number of New Class: 21
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.blogspot.mydailyjava.bytebuddy.instrumentation.type.auxiliary.AuxiliaryType: 
+new Added class 1 : com.blogspot.mydailyjava.bytebuddy.ByteBuddyTest: 
+new Added class 2 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.MethodMatchers: 
+new Added class 3 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.MethodNameMethodMatcher: 
+new Added class 4 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.ModifierMethodMatcher: 
+new Added class 5 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.ParameterTypeMatcher: 
+new Added class 6 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.ParameterCountMatcher: 
+new Added class 7 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.ReturnTypeMatcher: 
+new Added class 8 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.ExceptionMethodMatcher: 
+new Added class 9 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.MethodDescriptionMatcher: 
+new Added class 10 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.MethodEqualityMethodMatcher: 
+new Added class 11 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.ConstructorEqualityMethodMatcher: 
+new Added class 12 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.MethodSignatureMethodMatcher: 
+new Added class 13 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.IsMethodMethodMatcher: 
+new Added class 14 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.OverridableMethodMatcher: 
+new Added class 15 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.DefaultFinalizeMethodMatcher: 
+new Added class 16 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.PackageNameMethodMatcher: 
+new Added class 17 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.DeclaringTypeMethodMatcher: 
+new Added class 18 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.BooleanMethodMatcher: 
+new Added class 19 : com.blogspot.mydailyjava.bytebuddy.instrumentation.method.matcher.NegatingMethodMatcher: 
+new Added class 20 : com.blogspot.mydailyjava.bytebuddy.dynamic.scaffold.subclass.SubclassInstrumentationContextDelegate: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

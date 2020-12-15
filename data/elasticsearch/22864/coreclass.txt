@@ -1,0 +1,14 @@
+CopyTo:0.3333333333333333
+ParseContext:0.27666666666666667
+ShortFieldMapper:0.27
+IntegerFieldMapper:0.27
+ByteFieldMapper:0.27
+LongFieldMapper:0.26
+IpFieldMapper:0.26
+FloatFieldMapper:0.26
+DoubleFieldMapper:0.26
+GeoShapeFieldMapper:0.24666666666666667
+TypeParsers:0.22333333333333333
+StringFieldMapper:0.21333333333333335
+TokenCountFieldMapper:0.20333333333333334
+CopyToMapperTests:0.17666666666666667

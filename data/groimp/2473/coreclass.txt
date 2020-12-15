@@ -1,0 +1,14 @@
+FluxSettings:0.65
+FluxScene:0.31
+FluxLightModel:0.30666666666666664
+FluxTracer:0.2966666666666667
+SpectralLightMapNode:0.19
+ChannelSPD:0.19
+FluxVolumeBuilder:0.18666666666666668
+FluxRenderer:0.185
+JOCLSingleDeviceFilter:0.17833333333333334
+JOCLMultiDeviceFilter:0.17833333333333334
+GPUFlux:0.17333333333333334
+FluxWhittedTracer:0.08
+FluxPathTracer:0.08
+FluxLightTracer:0.07666666666666666

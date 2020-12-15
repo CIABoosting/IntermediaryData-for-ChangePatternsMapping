@@ -1,0 +1,16 @@
+MultiLayerNetwork:0.48
+ParamInitializer:0.4533333333333333
+DefaultParamInitializer:0.38666666666666666
+WeightInitUtil:0.37333333333333335
+DefaultLayerFactory:0.2733333333333333
+Model:0.26666666666666666
+BaseLayer:0.16333333333333333
+LayerFactory:0.125
+BatchNormalizationParamInitializer:0.12333333333333334
+ConvolutionParamInitializer:0.1
+GravesBidirectionalLSTMParamInitializer:0.08666666666666667
+GravesLSTMParamInitializer:0.07333333333333333
+ImageLSTMParamInitializer:0.07
+GRUParamInitializer:0.056666666666666664
+PretrainParamInitializer:0.04666666666666667
+EmptyParamInitializer:0.03

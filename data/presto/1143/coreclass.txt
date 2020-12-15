@@ -1,0 +1,9 @@
+RetryDriver:0.51
+DefaultPrestoThriftServiceProvider:0.2377777777777778
+RetryingPrestoThriftServiceProvider:0.2372222222222222
+StaticLocationProvider:0.1927777777777778
+ThriftModule:0.18666666666666668
+RetryingService:0.16
+DefaultThriftService:0.12333333333333334
+TestStaticLocationProvider:0.09666666666666666
+RetryStatus:0.08

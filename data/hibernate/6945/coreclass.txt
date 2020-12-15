@@ -1,0 +1,11 @@
+Loader:0.7266666666666667
+OuterJoinableAssociation:0.36666666666666664
+JoinWalker:0.36
+CriteriaJoinWalker:0.27
+EntityJoinWalker:0.17333333333333334
+AbstractEntityJoinWalker:0.13
+AssociationInitCallback:0.11666666666666667
+EntityLoader:0.115
+OneToManyJoinWalker:0.10333333333333333
+AssociationInitCallbackImpl:0.06833333333333333
+BasicCollectionJoinWalker:0.06333333333333334

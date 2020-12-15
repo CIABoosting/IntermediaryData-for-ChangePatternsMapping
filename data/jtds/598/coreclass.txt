@@ -1,0 +1,10 @@
+ConnectionJDBC2:0.39
+JtdsPreparedStatement:0.32416666666666666
+JtdsDataSource:0.2733333333333333
+AbstractStatementCache:0.22333333333333333
+DefaultProperties:0.18
+DefaultStatementCache:0.16333333333333333
+ConnectionJDBC3:0.16333333333333333
+NonCachingStatementCache:0.15
+StatementCache:0.12583333333333332
+FastStatementCache:0.02

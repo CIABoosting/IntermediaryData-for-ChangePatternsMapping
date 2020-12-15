@@ -1,0 +1,10 @@
+TestSpatialFunctions:0.37
+SDOGeometryValueBinder:0.27666666666666667
+AbstractExpectationsFactory:0.27166666666666667
+TestSpatialRestrictions:0.2
+DataSourceUtils:0.2
+PostgisExpectationsFactory:0.19416666666666665
+TestStoreRetrieveUsingGeolatte:0.15833333333333333
+TestStoreRetrieveUsingJTS:0.15833333333333333
+GeoDbWkb:0.09166666666666666
+HibernateSpatialConfiguration:0.013333333333333334

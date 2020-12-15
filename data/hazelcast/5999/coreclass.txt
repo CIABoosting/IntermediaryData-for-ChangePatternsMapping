@@ -1,0 +1,14 @@
+OperationService:0.7366666666666667
+OperationServiceImpl:0.41333333333333333
+MapProxySupport:0.3566666666666667
+NearCachedMapProxyImpl:0.3333333333333333
+DefaultMapOperationProvider:0.3233333333333333
+MapOperationProviderDelegator:0.3233333333333333
+WANAwareOperationProvider:0.2966666666666667
+MapOperationProvider:0.2625
+InvokeOnPartitions:0.24666666666666667
+MapPutAllWithBatchingTest:0.07666666666666666
+MapPutAllWithCustomInitialSizeTest:0.07666666666666666
+MapExecutionCallbackAdapter:0.06333333333333334
+MapPutAllWrongTargetForPartitionTest:0.05
+MapDataSerializerHook:0.04666666666666667

@@ -1,0 +1,16 @@
+DateFieldMapper:0.39
+DateMathParser:0.36666666666666664
+Builder:0.31666666666666665
+SimpleQueryTests:0.2966666666666667
+DateMathParserTests:0.22333333333333333
+SimpleSearchTests:0.21333333333333335
+SimpleDateMappingTests:0.20333333333333334
+DateHistogramTests:0.20333333333333334
+TimestampFieldMapper:0.18
+QueryStringQueryParser:0.13666666666666666
+SimpleExistsTests:0.13
+DateHistogramParser:0.12333333333333334
+SimpleCountTests:0.10666666666666667
+RangeQueryParser:0.1
+RangeFilterParser:0.1
+Defaults:0.056666666666666664

@@ -1,0 +1,11 @@
+Cascade:0.5066666666666667
+ForeignKeyDirection:0.2922222222222222
+DefaultSaveOrUpdateEventListener:0.20333333333333334
+AbstractSaveEventListener:0.2
+DefaultMergeEventListener:0.19333333333333333
+DefaultDeleteEventListener:0.18666666666666668
+AbstractFlushingEventListener:0.18
+DefaultReplicateEventListener:0.14
+DefaultRefreshEventListener:0.11333333333333333
+DefaultEvictEventListener:0.09333333333333334
+DefaultLockEventListener:0.09333333333333334

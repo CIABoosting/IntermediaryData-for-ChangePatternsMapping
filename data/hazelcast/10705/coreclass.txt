@@ -1,0 +1,10 @@
+XAService:0.4066666666666667
+XAResourceImpl:0.24333333333333335
+XAResourceProxy:0.24
+ClearRemoteTransactionOperation:0.2
+ClearRemoteTransactionBackupOperation:0.2
+FinalizeRemoteTransactionOperation:0.2
+FinalizeRemoteTransactionBackupOperation:0.2
+HazelcastXACompatibilityTest:0.18666666666666668
+CollectRemoteTransactionsOperation:0.175
+ClientXACompatibilityTest:0.16333333333333333

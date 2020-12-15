@@ -1,0 +1,15 @@
+Connection:0.6866666666666666
+ClientMessageTemplate:0.4116666666666667
+MockConnection:0.33666666666666667
+ReadHandler:0.2966666666666667
+ClientConnection:0.22359523809523807
+AuthenticationBaseMessageTask:0.22
+AuthenticationCustomCredentialsMessageTask:0.20333333333333334
+SocketClientMessageReader:0.19
+MockConnectionManager:0.18166666666666667
+RawProtocolTest:0.15666666666666668
+DroppingConnection:0.15333333333333332
+MockSimpleClient:0.15
+ClusterAuthenticator:0.11333333333333333
+ManagerAuthenticator:0.09333333333333334
+AuthenticationMessageTask:0.07666666666666666

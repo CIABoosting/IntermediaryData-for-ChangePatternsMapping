@@ -1,0 +1,10 @@
+LoadBalancer:0.42333333333333334
+LocalExecutionRunner:0.27
+AbstractClientConnectionHandler:0.26666666666666666
+AbstractGenericClient:0.26
+RemoteExecutionThread:0.25666666666666665
+LocalExecutionThread:0.25666666666666665
+SubmissionManager:0.20666666666666667
+JPPFSubmissionManager:0.1852777777777778
+JobSubmission:0.16666666666666666
+JcaResultProcessor:0.12666666666666668

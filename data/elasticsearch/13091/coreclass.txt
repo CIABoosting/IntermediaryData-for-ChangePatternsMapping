@@ -1,0 +1,17 @@
+Processor:0.46
+ConfigurationUtils:0.4066666666666667
+Pipeline:0.31666666666666665
+MutateProcessor:0.25666666666666665
+SimulatePipelineRequest:0.24333333333333335
+SimulatePipelineResponse:0.23666666666666666
+Data:0.22
+PipelineExecutionService:0.2
+GeoIpProcessor:0.1577777777777778
+Factory:0.14333333333333334
+IngestModule:0.14
+DateProcessor:0.13555555555555554
+ConfigurationUtilsTests:0.11666666666666667
+GrokProcessor:0.11
+RestSimulatePipelineAction:0.10666666666666667
+SimulatePipelineTransportAction:0.10333333333333333
+SimulatePipelineRequestBuilder:0.0525

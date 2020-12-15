@@ -1,0 +1,12 @@
+MethodDelegationByteCodeAppender:0.38333333333333336
+ByteBuddy:0.27666666666666667
+Empty:0.25333333333333335
+MethodCall:0.21333333333333335
+InvocationHandlerAdapter:0.21
+AssignableSignatureCall:0.19333333333333333
+ForLoadedType:0.18
+ForLoadedField:0.18
+Explicit:0.165
+SilentConstruction:0.14666666666666667
+MockitoRule:0.11
+ConstructorCall:0.09333333333333334

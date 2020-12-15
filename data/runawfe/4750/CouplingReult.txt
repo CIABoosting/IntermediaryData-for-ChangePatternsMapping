@@ -1,0 +1,41 @@
+Compared Result of  two versions
+Number of New Class: 35
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : ru.runa.wfe.webservice.AuthenticationException: 
+new Added class 1 : ru.runa.wfe.webservice.CancelPeriodicBotsInvocation: 
+new Added class 2 : ru.runa.wfe.webservice.CancelPeriodicBotsInvocationResponse: 
+new Added class 3 : .CompleteTasks: 
+new Added class 4 : ru.runa.wfe.webservice.CompleteTaskWS: 
+new Added class 5 : ru.runa.wfe.webservice.CreateBatchPresentationResponse: 
+new Added class 6 : ru.runa.wfe.webservice.DeleteBatchPresentationResponse: 
+new Added class 7 : ru.runa.wfe.webservice.Fields: 
+new Added class 8 : ru.runa.wfe.webservice.FilterCriteria: 
+new Added class 9 : ru.runa.wfe.webservice.GetActiveTasks: 
+new Added class 10 : ru.runa.wfe.webservice.GetActiveTasksResponse: 
+new Added class 11 : ru.runa.wfe.webservice.GetOutputTransitionNames: 
+new Added class 12 : ru.runa.wfe.webservice.GetProcessDefinitionByProcessId: 
+new Added class 13 : ru.runa.wfe.webservice.GetProcessDefinitionByProcessIdResponse: 
+new Added class 14 : ru.runa.wfe.webservice.GetProcessLogValueResponse: 
+new Added class 15 : ru.runa.wfe.webservice.ImportExecutorsFromLDAP: 
+new Added class 16 : ru.runa.wfe.webservice.ImportExecutorsFromLDAPResponse: 
+new Added class 17 : ru.runa.wfe.webservice.InvokeBots: 
+new Added class 18 : ru.runa.wfe.webservice.InvokeBotsResponse: 
+new Added class 19 : ru.runa.wfe.webservice.IsRunning: 
+new Added class 20 : ru.runa.wfe.webservice.IsRunningResponse: 
+new Added class 21 : ru.runa.wfe.webservice.Logout: 
+new Added class 22 : ru.runa.wfe.webservice.LogoutResponse: 
+new Added class 23 : ru.runa.wfe.webservice.ObjectFactory: 
+new Added class 24 : ru.runa.wfe.webservice.ProcessDoesNotExistException: 
+new Added class 25 : ru.runa.wfe.webservice.ProcessLogFilter: 
+new Added class 26 : ru.runa.wfe.webservice.ProcessLogs: 
+new Added class 27 : ru.runa.wfe.webservice.RelationAlreadyExistException: 
+new Added class 28 : ru.runa.wfe.webservice.SaveBatchPresentationResponse: 
+new Added class 29 : ru.runa.wfe.webservice.SetActiveBatchPresentationResponse: 
+new Added class 30 : ru.runa.wfe.webservice.StartPeriodicBotsInvocation: 
+new Added class 31 : ru.runa.wfe.webservice.StartPeriodicBotsInvocationResponse: 
+new Added class 32 : ru.runa.wfe.webservice.TaskAlreadyCompletedException: 
+new Added class 33 : ru.runa.wfe.webservice.TaskDoesNotExistException: 
+new Added class 34 : ru.runa.wfe.webservice.WfTask: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

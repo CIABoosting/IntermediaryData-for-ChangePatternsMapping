@@ -1,0 +1,12 @@
+QueryBuilders:0.6366666666666667
+GeoShapeQueryBuilder:0.37333333333333335
+GeoShapeFieldType:0.31666666666666665
+GeoShapeQueryParser:0.20666666666666667
+GeoShapeIntegrationIT:0.18833333333333332
+AbstractQueryTestCase:0.18333333333333332
+QueryShardContext:0.16333333333333333
+GeoShapeQueryBuilderTests:0.16
+ExternalValuesMapperIntegrationIT:0.10333333333333333
+GeohashCellQueryBuilderTests:0.07666666666666666
+GeoDistanceRangeQueryTests:0.07
+GeoPolygonQueryBuilderTests:0.06333333333333334

@@ -1,0 +1,14 @@
+StatsStorageRouter:0.49611111111111106
+ParameterAveragingTrainingMaster:0.39
+SbeStatsReport:0.3433333333333333
+MapDBStatsStorage:0.27666666666666667
+VanillaStatsStorageRouter:0.2633333333333333
+ParameterAveragingTrainingWorker:0.25
+TrainingMaster:0.24003968253968253
+StatsListener:0.23333333333333334
+SparkDl4jMultiLayer:0.19
+TestStatsSBE:0.15333333333333332
+LossFunctionGradientCheck:0.13
+ParameterAveragingAggregationTuple:0.09992063492063492
+ParameterAveragingElementAddFunction:0.03333333333333333
+ParameterAveragingElementCombineFunction:0.02

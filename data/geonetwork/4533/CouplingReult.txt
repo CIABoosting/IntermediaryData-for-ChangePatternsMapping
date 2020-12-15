@@ -1,0 +1,53 @@
+Compared Result of  two versions
+Number of New Class: 33
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.fao.geonet.kernel.harvest.harvester.AbstractHarvester: 
+new Added class 1 : org.fao.geonet.kernel.AccessManager: 
+new Added class 2 : org.fao.geonet.csw.common.exceptions.CatalogException: 
+new Added class 3 : org.fao.geonet.kernel.harvest.Common: 
+new Added class 4 : org.fao.geonet.csw.common.Csw: 
+new Added class 5 : org.fao.geonet.kernel.DataManager: 
+new Added class 6 : org.fao.geonet.kernel.csw.services.DescribeRecord: 
+new Added class 7 : org.fao.gast.lib.EmbeddedSCLib: 
+new Added class 8 : org.fao.gast.Gast: 
+new Added class 9 : org.fao.geonet.services.user.Get: 
+new Added class 10 : org.fao.geonet.kernel.csw.services.GetRecords: 
+new Added class 11 : org.fao.geonet.kernel.harvest.harvester.ogcwxs.Harvester: 
+new Added class 12 : org.fao.geonet.kernel.harvest.HarvestManager: 
+new Added class 13 : org.fao.geonet.kernel.mef.Importer: 
+new Added class 14 : org.fao.gast.gui.MainFrame: 
+new Added class 15 : org.fao.geonet.services.metadata.MassiveXslProcessing: 
+new Added class 16 : org.fao.geonet.constants.Params: 
+new Added class 17 : org.fao.geonet.services.user.PwUpdate: 
+new Added class 18 : org.fao.geonet.services.user.Remove: 
+new Added class 19 : org.fao.gast.gui.dialogs.ServerPanel: 
+new Added class 20 : org.fao.geonet.services.metadata.Show: 
+new Added class 21 : org.fao.geonet.services.user.Update: 
+new Added class 22 : org.fao.gast.boot.Util: 
+new Added class 23 : org.wfp.vam.intermap.kernel.map.mapServices.wmc.schema.impl.WMCBoundingBoxImpl: 
+new Added class 24 : org.wfp.vam.intermap.kernel.map.mapServices.wmc.schema.impl.WMCExtensionImpl: 
+new Added class 25 : org.wfp.vam.intermap.kernel.map.mapServices.wmc.schema.impl.WMCGeneralImpl: 
+new Added class 26 : org.wfp.vam.intermap.kernel.map.mapServices.wmc.schema.impl.WMCLayerImpl: 
+new Added class 27 : org.wfp.vam.intermap.kernel.map.mapServices.wmc.schema.impl.WMCLayerListImpl: 
+new Added class 28 : org.wfp.vam.intermap.kernel.map.mapServices.wmc.schema.impl.WMCOnlineResourceImpl: 
+new Added class 29 : org.wfp.vam.intermap.kernel.map.mapServices.wmc.schema.impl.WMCServerImpl: 
+new Added class 30 : org.wfp.vam.intermap.kernel.map.mapServices.wmc.schema.impl.WMCViewContextImpl: 
+new Added class 31 : org.wfp.vam.intermap.kernel.map.mapServices.wmc.schema.impl.WMCWindowImpl: 
+new Added class 32 : org.fao.gast.gui.panels.manag.mefexport.Worker: 
+testing relationship 
+class 0  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 0  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:9  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:1  r9:0  r10:5  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 5  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:3  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:4  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:12  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 13  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:9  r14:0  r15:0  r16:3  r17:0  
+class 15  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-1  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  2   6 :  9   7 :  7   8 :  7   9 :  0   10 :  7   11 :  19   12 :  0   13 :  32   14 :  4   15 :  0   16 :  3   17 :  0   

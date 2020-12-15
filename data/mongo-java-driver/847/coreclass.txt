@@ -1,0 +1,11 @@
+AsyncQueryBatchCursor:0.55
+OperationHelper:0.35333333333333333
+FindOperation:0.30333333333333334
+ParallelCollectionScanOperation:0.20333333333333334
+AggregateOperation:0.19
+ListCollectionsOperation:0.18666666666666668
+QueryResultSingleResultCallback:0.16333333333333333
+DistinctOperation:0.14
+ListIndexesOperation:0.14
+ListDatabasesOperation:0.12666666666666668
+ServerHelper:0.05333333333333334

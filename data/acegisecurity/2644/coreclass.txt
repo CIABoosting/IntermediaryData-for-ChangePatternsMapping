@@ -1,0 +1,11 @@
+PrincipalSid:0.32416666666666666
+BasePermission:0.27666666666666667
+AclFormattingUtils:0.22
+AclEntryAfterInvocationCollectionFilteringProvider:0.19
+AclEntryAfterInvocationProvider:0.16833333333333333
+JdbcAclService:0.15
+AfterInvocationProviderManager:0.14666666666666667
+AbstractAclProvider:0.14666666666666667
+AclEntryVoter:0.14666666666666667
+SidRetrievalStrategyImpl:0.14
+SidRetrievalStrategyTests:0.09333333333333334

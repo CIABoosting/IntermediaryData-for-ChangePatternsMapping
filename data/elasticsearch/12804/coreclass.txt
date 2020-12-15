@@ -1,0 +1,8 @@
+PrimaryPhase:0.3433333333333333
+ReplicationPhase:0.33666666666666667
+BackgroundIndexer:0.3233333333333333
+TransportReplicationAction:0.27
+AsyncReplicaAction:0.20400000000000001
+RecoveryWhileUnderLoadIT:0.14333333333333334
+WriteResult:0.13666666666666666
+IndexShardReference:0.13333333333333333

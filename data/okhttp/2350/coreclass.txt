@@ -1,0 +1,10 @@
+Transport:0.56
+HttpConnection:0.45
+HttpEngine:0.30333333333333334
+Connection:0.26166666666666666
+SpdyTransport:0.18253968253968256
+HttpTransport:0.11
+ChunkedOutputStream:0.10333333333333333
+UnknownLengthHttpInputStream:0.08
+FixedLengthOutputStream:0.06666666666666667
+AbstractHttpInputStream:0.023333333333333334

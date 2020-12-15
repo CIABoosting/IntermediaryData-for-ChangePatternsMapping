@@ -1,0 +1,14 @@
+NeuralNetwork:0.7133333333333334
+BaseMultiLayerNetwork:0.36
+LogisticRegression:0.3
+BaseNeuralNetwork:0.25
+LFWLoader:0.24666666666666667
+NeuralNetworkOptimizer:0.24333333333333335
+DenoisingAutoEncoder:0.22
+RBM:0.22
+Builder:0.13666666666666666
+GaussianRectifiedLinearRBM:0.13
+RBMOptimizer:0.12333333333333334
+DenoisingAutoEncoderMnistExample:0.08333333333333333
+MnistFetcher:0.03333333333333333
+DenoisingAutoEncoderOptimizer:0.03

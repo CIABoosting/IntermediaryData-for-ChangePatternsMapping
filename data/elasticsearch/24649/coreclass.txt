@@ -1,0 +1,13 @@
+IndexShard:0.717
+CommonStats:0.44
+IndicesStatsRequest:0.42333333333333334
+CommonStatsFlags:0.4
+CompletionSuggestSearchTests:0.3
+IndicesStatsRequestBuilder:0.28
+InternalIndexShard:0.21
+TransportIndicesStatsAction:0.16
+InternalIndicesService:0.12666666666666668
+AnalyzingCompletionLookupProvider:0.09
+RestIndicesStatsAction:0.035
+Completion090PostingsFormat:0.023333333333333334
+SimpleIndexStatsTests:0.023333333333333334

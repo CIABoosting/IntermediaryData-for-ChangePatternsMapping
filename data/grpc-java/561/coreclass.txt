@@ -1,0 +1,13 @@
+LoadBalancerProto:0.41
+Builder:0.39
+ClientStats:0.37333333333333335
+RoundRobinPicker:0.3333333333333333
+RoundRobinEntry:0.31666666666666665
+GrpclbLoadBalancerTest:0.30666666666666664
+Server:0.3
+ClientStatsOrBuilder:0.2633333333333333
+ServerOrBuilder:0.245
+GrpclbLoadBalancer:0.1780952380952381
+LbStream:0.14777777777777776
+GrpclbClientLoadRecorder:0.13333333333333333
+ServerEntry:0.05333333333333334

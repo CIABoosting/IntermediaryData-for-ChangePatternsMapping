@@ -1,0 +1,15 @@
+GraphState:0.67
+GTS:0.5
+AbstractGraphState:0.4166666666666667
+StateCache:0.30666666666666664
+LTSJEdge:0.23666666666666666
+AnyStateAcceptor:0.22333333333333333
+LTSJVertex:0.21333333333333335
+ExplorationDialog:0.18
+AbstractStrategy:0.16333333333333333
+ExploreStateStrategy:0.14
+LinearStrategy:0.13666666666666666
+BFSStrategy:0.13666666666666666
+ApplyMatchAction:0.10333333333333333
+ClosingStrategy:0.03
+ExploreListener:0.0025

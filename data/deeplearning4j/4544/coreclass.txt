@@ -1,0 +1,12 @@
+MultiLayerNetwork:0.5166666666666667
+ComputationGraph:0.4266666666666667
+ModelSerializer:0.33
+AsyncDataSetIterator:0.23666666666666666
+SparkComputationGraph:0.15666666666666668
+SparkDl4jMultiLayer:0.14333333333333334
+TfidfVectorizerTest:0.12
+ModelSerializerTest:0.12
+BagOfWordsVectorizerTest:0.12
+AsyncMultiDataSetIterator:0.10666666666666667
+SparkUtils:0.10333333333333333
+IteratorRunnable:0.07333333333333333

@@ -1,0 +1,8 @@
+ConnectionManager:0.84
+CommandExecutorService:0.4066666666666667
+MasterSlaveConnectionManager:0.2633333333333333
+RedisCommands:0.24444444444444444
+CommandDecoder:0.21666666666666667
+CommandBatchExecutorService:0.19
+RedissonTopic:0.14333333333333334
+RedissonPatternTopic:0.12333333333333334

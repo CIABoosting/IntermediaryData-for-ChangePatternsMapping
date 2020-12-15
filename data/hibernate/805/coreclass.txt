@@ -1,0 +1,14 @@
+Table:0.5866666666666667
+Dialect:0.5333333333333333
+Constraint:0.36666666666666664
+ForeignKey:0.24166666666666667
+DefaultUniqueDelegate:0.19
+AlterTableStatement:0.14833333333333334
+UniqueConstraintDropTest:0.11666666666666667
+StandardForeignKeyExporter:0.11666666666666667
+ForeignKeyGenerationTest:0.11333333333333333
+UniqueConstraintGenerationTest:0.11
+JoinedInheritanceForeignKeyTest:0.10333333333333333
+SchemaCreationTest:0.10333333333333333
+PostgreSQL92Dialect:0.07666666666666666
+InformixUniqueDelegate:0.07666666666666666

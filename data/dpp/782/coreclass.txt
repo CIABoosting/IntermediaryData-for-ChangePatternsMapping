@@ -1,0 +1,15 @@
+Saros:0.5
+XMPPChatTransmitter:0.49333333333333335
+DataTransferManager:0.44333333333333336
+ITransmitter:0.25916666666666666
+JingleFileTransferSession:0.23
+JingleFileTransferManager:0.19333333333333333
+RosterView:0.17666666666666667
+ITransferModeListener:0.15
+ViewLabelProvider:0.14666666666666667
+NetworkView:0.13333333333333333
+ConsistencyAction:0.12333333333333334
+GodPacketListener:0.11333333333333333
+ReceiverThread:0.08333333333333333
+SocketCreator:0.07666666666666666
+IJingleFileTransferListener:0.02

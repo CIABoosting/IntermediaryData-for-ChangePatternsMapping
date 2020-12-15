@@ -1,0 +1,23 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.crate.analyze.AnalyzedStatementVisitor: 
+new Added class 1 : io.crate.analyze.Analyzer: 
+new Added class 2 : io.crate.sql.parser.AstBuilder: 
+new Added class 3 : io.crate.sql.tree.AstVisitor: 
+new Added class 4 : io.crate.action.sql.DCLStatementDispatcher: 
+new Added class 5 : io.crate.sql.ExpressionFormatter: 
+new Added class 6 : io.crate.metadata.information.InformationSchemaInfo: 
+new Added class 7 : io.crate.operation.collect.sources.InformationSchemaIterables: 
+new Added class 8 : io.crate.metadata.information.InformationSchemaTableDefinitions: 
+new Added class 9 : io.crate.integrationtests.InformationSchemaTest: 
+new Added class 10 : io.crate.metadata.RoutineInfos: 
+new Added class 11 : io.crate.sql.SqlFormatter: 
+new Added class 12 : io.crate.plugin.SQLModule: 
+new Added class 13 : io.crate.plugin.SQLPlugin: 
+new Added class 14 : io.crate.operation.user.StatementPrivilegeValidator: 
+new Added class 15 : io.crate.integrationtests.TableSettingsTest: 
+new Added class 16 : io.crate.sql.parser.TestStatementBuilder: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

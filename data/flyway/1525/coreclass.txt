@@ -1,0 +1,12 @@
+MigrationTestCase:0.27
+SQLServerMigrationTestCase:0.25333333333333335
+PostgreSQLMigrationMediumTest:0.24333333333333335
+H2MigrationMediumTest:0.21666666666666667
+OracleMigrationMediumTest:0.21666666666666667
+MySQLMigrationTestCase:0.21666666666666667
+DB2MigrationMediumTest:0.21666666666666667
+SqlMigrationResolver:0.17333333333333334
+PostgreSQLSuperUserMigrationMediumTest:0.11333333333333333
+SQLServerCaseSensitiveMigrationTestCase:0.11333333333333333
+HsqlMigrationMediumTest:0.09333333333333334
+DerbyMigrationMediumTest:0.006666666666666667

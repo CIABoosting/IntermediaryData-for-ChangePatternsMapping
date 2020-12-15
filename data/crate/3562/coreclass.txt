@@ -1,0 +1,9 @@
+AstVisitor:0.44
+InnerVisitor:0.33666666666666667
+AnalyzedStatementVisitor:0.32
+RestoreSnapshot:0.27666666666666667
+AnalyzerDispatcher:0.2
+TransportActionProvider:0.17666666666666667
+CreateSnapshotStatementAnalyzer:0.16666666666666666
+PartitionPropertiesAnalyzer:0.09
+DDLStatementDispatcher:0.04

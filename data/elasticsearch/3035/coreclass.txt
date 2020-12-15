@@ -1,0 +1,10 @@
+InternalAggregationTestCase:0.5666666666666667
+Aggregations:0.48333333333333334
+InternalTermsTestCase:0.18
+ParsedHistogram:0.12333333333333334
+ParsedDateHistogram:0.12333333333333334
+ParsedMultiBucketAggregation:0.11
+LongTermsTests:0.06333333333333334
+DoubleTermsTests:0.06333333333333334
+StringTermsTests:0.06333333333333334
+ParsedPercentiles:0.05

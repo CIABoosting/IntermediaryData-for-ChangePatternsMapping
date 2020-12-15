@@ -1,0 +1,14 @@
+TypeMap:0.47333333333333333
+DmlStatement:0.43666666666666665
+H2DataCaptureBuilder:0.32666666666666666
+ConfigurationService:0.32
+AbstractDataCaptureBuilder:0.26
+PostgresJdbcTableReader:0.23688888888888887
+OracleDataCaptureBuilder:0.2323809523809524
+OracleJdbcTableReader:0.23166666666666666
+StatementCreatorUtil:0.18666666666666668
+PostgresDataCaptureBuilder:0.1486111111111111
+OracleDmlStatement:0.11333333333333333
+PostgresDmlStatement:0.11333333333333333
+PostgresDbDialect:0.11
+OracleDbDialect:0.056666666666666664

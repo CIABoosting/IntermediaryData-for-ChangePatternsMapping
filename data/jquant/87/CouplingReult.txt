@@ -1,0 +1,40 @@
+Compared Result of  two versions
+Number of New Class: 23
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.jquantlib.testsuite.AllJQuantlibTests: 
+new Added class 1 : org.jquantlib.testsuite.Dates: 
+new Added class 2 : org.jquantlib.testsuite.daycounters.DayCountersSuite: 
+new Added class 3 : org.jquantlib.testsuite.instruments.EuropeanOptionSuite: 
+new Added class 4 : org.jquantlib.testsuite.InterestRates: 
+new Added class 5 : org.jquantlib.math.interpolation.Interpolation2D: 
+new Added class 6 : org.jquantlib.testsuite.TestAllSuites: 
+new Added class 7 : org.jquantlib.testsuite.math.distributions.TestBivariateNormalDistribution: 
+new Added class 8 : org.jquantlib.testsuite.math.TestBrentSolver1D: 
+new Added class 9 : org.jquantlib.testsuite.math.distributions.TestCumulativeNormalDistribution: 
+new Added class 10 : org.jquantlib.testsuite.math.distributions.TestDistributionsSuite: 
+new Added class 11 : org.jquantlib.testsuite.math.TestErrorFunction: 
+new Added class 12 : org.jquantlib.testsuite.math.TestFactorial: 
+new Added class 13 : org.jquantlib.testsuite.math.integrals.TestGammaFunction: 
+new Added class 14 : org.jquantlib.testsuite.math.integrals.TestGaussKonrodPattersonIntegrator: 
+new Added class 15 : org.jquantlib.testsuite.math.integrals.TestIntegralsSuite: 
+new Added class 16 : org.jquantlib.testsuite.math.TestMathSuite: 
+new Added class 17 : org.jquantlib.testsuite.math.distributions.TestNonCentralChiSquaredDistribution: 
+new Added class 18 : org.jquantlib.testsuite.math.distributions.TestNormalDistribution: 
+new Added class 19 : org.jquantlib.testsuite.math.distributions.TestRegularisedIncompleteBeta: 
+new Added class 20 : org.jquantlib.testsuite.termstructures.volatilities.TestSabr: 
+new Added class 21 : org.jquantlib.testsuite.math.integrals.TestTabulatedGaussLegendre: 
+new Added class 22 : org.jquantlib.testsuite.termstructures.volatilities.TestVolatilitiesSuite: 
+testing relationship 
+class 10  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 21£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  11   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

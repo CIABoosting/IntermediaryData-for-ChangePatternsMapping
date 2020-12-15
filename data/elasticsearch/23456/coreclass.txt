@@ -1,0 +1,13 @@
+DateRangeBuilder:0.15
+DateHistogramParser:0.12333333333333334
+TermsParser:0.043333333333333335
+IpRangeParser:0.02666666666666667
+RangeParser:0.023333333333333334
+HistogramParser:0.013333333333333334
+DateRangeParser:0.01
+GeoDistanceParser:0.01
+AggregatorParsers:0.006666666666666667
+NestedParser:0.0025
+MissingParser:0.0
+ValueCountParser:0.0
+ValuesSourceMetricsAggregatorParser:0.0

@@ -1,0 +1,10 @@
+BaseMultiLayerNetwork:0.39
+Word2Vec:0.2866666666666667
+ViterbiUtil:0.27666666666666667
+SentenceIterator:0.2426111111111111
+DataSet:0.24
+CollectionSentenceIterator:0.23666666666666666
+LogisticRegression:0.23333333333333334
+FileSentenceIterator:0.20333333333333334
+Viterbi:0.15666666666666668
+MultiLayerNetworkOptimizer:0.155

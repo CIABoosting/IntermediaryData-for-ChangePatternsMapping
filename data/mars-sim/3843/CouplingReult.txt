@@ -1,0 +1,33 @@
+Compared Result of  two versions
+Number of New Class: 22
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.mars_sim.msp.core.interplanetary.transport.settlement.ArrivingSettlementimplements: 
+new Added class 1 : org.mars_sim.msp.ui.javafx.BrowserJFX: 
+new Added class 2 : org.mars_sim.msp.ui.javafx.TicketSubmission: 
+new Added class 3 : org.mars_sim.msp.ui.swing.tool.science.FinishedStudyListPanelextends: 
+new Added class 4 : org.mars_sim.msp.ui.swing.tool.guide.GuideWindowextends: 
+new Added class 5 : org.mars_sim.msp.core.person.ai.task.LoadVehicleTestextends: 
+new Added class 6 : org.mars_sim.msp.core.reportingAuthority.MarsSocietyMissionControl: 
+new Added class 7 : org.mars_sim.msp.ui.swing.tool.science.OngoingStudyListPanelextends: 
+new Added class 8 : org.mars_sim.msp.core.person.Personextends: 
+new Added class 9 : org.mars_sim.msp.core.person.PersonConfigimplements: 
+new Added class 10 : org.mars_sim.msp.core.interplanetary.transport.resupply.Resupplyimplements: 
+new Added class 11 : org.mars_sim.msp.ui.javafx.config.ScenarioConfigEditorFX: 
+new Added class 12 : org.mars_sim.msp.core.structure.SettlementConfigimplements: 
+new Added class 13 : org.mars_sim.msp.ui.swing.configeditor.SimulationConfigEditor: 
+new Added class 14 : org.mars_sim.msp.ui.swing.unit_window.person.TabPanelGeneralextends: 
+new Added class 15 : org.mars_sim.msp.ui.swing.tool.time.TimeWindow: 
+new Added class 16 : org.mars_sim.msp.core.UnitManager: 
+new Added class 17 : org.mars_sim.msp.core.person.ai.task.UnloadVehicleTestextends: 
+new Added class 18 : org.mars_sim.msp.core.person.ai.task.WalkingStepsimplements: 
+new Added class 19 : org.mars_sim.msp.core.person.ai.task.WalkingStepsTest: 
+new Added class 20 : org.mars_sim.msp.core.person.ai.task.WalkInteriorTest: 
+new Added class 21 : org.mars_sim.msp.core.person.ai.task.WalkOutsideTestextends: 
+testing relationship 
+class 0  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:13  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:15  r12:0  r13:30  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:12  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  1   11 :  25   12 :  0   13 :  62   14 :  0   15 :  0   16 :  0   17 :  0   

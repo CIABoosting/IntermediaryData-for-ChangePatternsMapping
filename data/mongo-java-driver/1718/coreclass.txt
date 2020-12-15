@@ -1,0 +1,11 @@
+MongoCollection:0.3917063492063492
+MapReduceWithInlineResultsOperation:0.34
+MapReduceToCollectionOperation:0.34
+MongoCollectionImpl:0.3333333333333333
+DBCollection:0.33
+CountOperation:0.3233333333333333
+AggregateToCollectionOperation:0.2833333333333333
+MapReduceCommand:0.2633333333333333
+ParallelScanOperation:0.24
+AggregateExplainOperation:0.17333333333333334
+MongoCollectionTest:0.016666666666666666

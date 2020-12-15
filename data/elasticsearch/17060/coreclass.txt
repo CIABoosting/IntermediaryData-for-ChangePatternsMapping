@@ -1,0 +1,17 @@
+XContent:0.6866666666666666
+XContentBuilder:0.6666666666666666
+JsonXContentGenerator:0.26666666666666666
+BytesRestResponse:0.25333333333333335
+JsonXContent:0.17
+YamlXContent:0.17
+CborXContent:0.17
+SmileXContent:0.17
+RestController:0.16666666666666666
+FakeRestChannel:0.16666666666666666
+YamlXContentGenerator:0.15666666666666668
+SmileXContentGenerator:0.15666666666666668
+CborXContentGenerator:0.15666666666666668
+RestChannel:0.14
+RestPutIndexedScriptAction:0.09666666666666666
+RestIndexAction:0.07333333333333333
+RestGetSourceAction:0.07333333333333333

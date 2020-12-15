@@ -1,0 +1,14 @@
+HazelcastTestSupport:0.5
+MapStoreTest:0.48333333333333334
+ClientExecutorServiceExecuteTest:0.2633333333333333
+ClientIssueTest:0.24666666666666667
+MapReduceTest:0.23333333333333334
+EvictionTest:0.23
+ClientExecutorServiceSubmitTest:0.21666666666666667
+BasicOperationServiceTest:0.21333333333333335
+ClientExecutionPoolSizeLowTest:0.21333333333333335
+ListSetMapReduceTest:0.11333333333333333
+CustomDataSourceMapReduceTest:0.09333333333333334
+MapReduceManagedContextTest:0.09333333333333334
+MultiMapMapReduceTest:0.09333333333333334
+TestWriteBehindException:0.07666666666666666

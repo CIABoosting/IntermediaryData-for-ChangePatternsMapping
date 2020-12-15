@@ -1,0 +1,16 @@
+Stream:0.5466666666666666
+AsyncCompletionHandler:0.4553333333333333
+NettyStream:0.31
+AsynchronousSocketChannelStream:0.27666666666666667
+InternalStreamConnection:0.25333333333333335
+BasicCompletionHandler:0.24333333333333335
+SocketStream:0.23
+ResponseHeaderCallback:0.19666666666666666
+SocketChannelStream:0.18333333333333332
+SocketStreamFactory:0.09666666666666666
+AsynchronousSocketChannelStreamFactory:0.09333333333333334
+NettyStreamFactory:0.0725
+FutureAsyncCompletionHandler:0.05333333333333334
+PendingReader:0.03
+AsyncWritableByteChannel:0.025833333333333333
+AsyncWritableByteChannelAdapter:0.006666666666666667

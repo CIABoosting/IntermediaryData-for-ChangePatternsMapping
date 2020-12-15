@@ -1,0 +1,28 @@
+Compared Result of  two versions
+Number of New Class: 12
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.ejbca.core.ejb.approval.ApprovalDataBean: 
+new Added class 1 : org.ejbca.core.model.approval.ApprovalRequest: 
+new Added class 2 : org.ejbca.ui.web.admin.approval.ApproveActionSessionBean: 
+new Added class 3 : org.ejbca.core.protocol.cmp.CrmfMessageHandler: 
+new Added class 4 : org.ejbca.core.protocol.ws.EjbcaWS: 
+new Added class 5 : org.ejbca.core.model.ra.raadmin.EndEntityProfile: 
+new Added class 6 : org.ejbca.core.protocol.cmp.ICmpMessageHandler: 
+new Added class 7 : org.ejbca.core.protocol.ws.common.IEjbcaWS: 
+new Added class 8 : org.ejbca.core.ejb.approval.LocalApprovalSessionBean: 
+new Added class 9 : org.ejbca.core.ejb.ra.LocalCertificateRequestSessionBean: 
+new Added class 10 : org.ejbca.core.ejb.ra.LocalUserAdminSessionBean: 
+new Added class 11 : org.ejbca.ui.web.admin.rainterface.RAInterfaceBean: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:5  r8:0  r9:0  r10:0  r11:5  r12:0  r13:5  r14:2  r15:0  r16:9  r17:0  
+class 3  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 6£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:6  r8:0  r9:0  r10:0  r11:17  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:5  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:6  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:10  r15:0  r16:2  r17:0  
+class 9  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:10  r8:0  r9:0  r10:0  r11:8  r12:0  r13:18  r14:0  r15:0  r16:2  r17:0  
+class 11  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:2  r9:0  r10:0  r11:-1  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  0   4 :  0   5 :  4   6 :  0   7 :  34   8 :  2   9 :  0   10 :  0   11 :  33   12 :  0   13 :  39   14 :  12   15 :  0   16 :  13   17 :  0   

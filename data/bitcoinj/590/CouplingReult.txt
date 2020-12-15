@@ -1,0 +1,43 @@
+Compared Result of  two versions
+Number of New Class: 26
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.bitcoinj.protocols.channels.ClientState: 
+new Added class 1 : org.bitcoin.crawler.PeerSeedProtos: 
+new Added class 2 : org.bitcoinj.wallet.Protos: 
+new Added class 3 : org.bitcoinj.wallet.ScriptOrBuilder: 
+new Added class 4 : org.bitcoinj.wallet.Script: 
+new Added class 5 : org.bitcoinj.wallet.TransactionInputOrBuilder: 
+new Added class 6 : org.bitcoinj.wallet.TransactionInput: 
+new Added class 7 : org.bitcoinj.wallet.TransactionOutputOrBuilder: 
+new Added class 8 : org.bitcoinj.wallet.TransactionOutput: 
+new Added class 9 : org.bitcoinj.wallet.TransactionConfidenceOrBuilder: 
+new Added class 10 : org.bitcoinj.wallet.TransactionConfidence: 
+new Added class 11 : org.bitcoinj.wallet.TransactionOrBuilder: 
+new Added class 12 : org.bitcoinj.wallet.Transaction: 
+new Added class 13 : org.bitcoinj.wallet.ScryptParametersOrBuilder: 
+new Added class 14 : org.bitcoinj.wallet.ScryptParameters: 
+new Added class 15 : org.bitcoinj.wallet.ExtensionOrBuilder: 
+new Added class 16 : org.bitcoinj.wallet.Extension: 
+new Added class 17 : org.bitcoinj.wallet.TagOrBuilder: 
+new Added class 18 : org.bitcoinj.wallet.Tag: 
+new Added class 19 : org.bitcoinj.wallet.TransactionSignerOrBuilder: 
+new Added class 20 : org.bitcoinj.wallet.TransactionSigner: 
+new Added class 21 : org.bitcoinj.wallet.WalletOrBuilder: 
+new Added class 22 : org.bitcoinj.wallet.Wallet: 
+new Added class 23 : org.bitcoinj.wallet.ExchangeRateOrBuilder: 
+new Added class 24 : org.bitcoinj.wallet.ExchangeRate: 
+new Added class 25 : org.bitcoinj.protocols.channels.ServerState: 
+testing relationship 
+class 4  vs  class 3£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 7£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 9£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 12  vs  class 11£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 15£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 17£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 19£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 21£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 23£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  11   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

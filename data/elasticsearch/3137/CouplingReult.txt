@@ -1,0 +1,19 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.client.AbstractClientHeadersTestCase: 
+new Added class 1 : org.elasticsearch.action.ActionRequestBuilder: 
+new Added class 2 : org.elasticsearch.action.support.ActiveShardsObserverIT: 
+new Added class 3 : org.elasticsearch.index.reindex.CancelTests: 
+new Added class 4 : org.elasticsearch.snapshots.DedicatedClusterSnapshotRestoreIT: 
+new Added class 5 : org.elasticsearch.action.admin.indices.stats.IndicesStatsTests: 
+new Added class 6 : org.elasticsearch.snapshots.MinThreadsSnapshotRestoreIT: 
+new Added class 7 : org.elasticsearch.index.reindex.RethrottleTests: 
+new Added class 8 : org.elasticsearch.index.reindex.RetryTests: 
+new Added class 9 : org.elasticsearch.search.SearchCancellationIT: 
+new Added class 10 : org.elasticsearch.snapshots.SharedClusterSnapshotRestoreIT: 
+new Added class 11 : org.elasticsearch.action.admin.cluster.node.tasks.TasksIT: 
+new Added class 12 : org.elasticsearch.index.WaitUntilRefreshIT: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

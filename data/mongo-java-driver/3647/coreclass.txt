@@ -1,0 +1,11 @@
+ServerDescription:0.6133333333333333
+ClusterDescription:0.4666666666666667
+Mongo:0.33666666666666667
+DefaultMultiServerCluster:0.2633333333333333
+ReadPreferenceTest:0.15333333333333332
+DefaultServer:0.15
+ReadPreferenceServerSelectorTest:0.08
+PrimaryServerSelectorTest:0.08
+ServerAddressSelectorTest:0.08
+DefaultSingleServerCluster:0.06333333333333334
+ServerDescriptionTest:0.04

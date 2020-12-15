@@ -1,0 +1,12 @@
+Engine:0.6458333333333334
+Segment:0.64
+InternalEngine:0.45
+InternalEngineTests:0.24666666666666667
+IndexShardSegmentRequest:0.24
+InternalEngineHolder:0.23333333333333334
+TransportIndicesSegmentsAction:0.19333333333333333
+Fields:0.16
+RestIndicesSegmentsAction:0.13333333333333333
+IndicesSegmentResponse:0.11
+IndicesSegmentsRequest:0.10666666666666667
+IndicesSegmentsRequestBuilder:0.0125

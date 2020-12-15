@@ -1,0 +1,13 @@
+Layer:0.6866666666666666
+MultiLayerNetwork:0.37
+Evaluation:0.3
+BaseOutputLayer:0.2833333333333333
+BaseLayer:0.2633333333333333
+SequenceRecordReaderDataSetIterator:0.24
+RNTN:0.23
+RnnOutputLayer:0.20333333333333334
+SimpleOptimizableModel:0.20083333333333334
+GravesLSTMTest:0.04833333333333334
+EvalTest:0.045000000000000005
+RecordReaderDataSetiteratorTest:0.043333333333333335
+TimeSeriesUtils:0.016666666666666666

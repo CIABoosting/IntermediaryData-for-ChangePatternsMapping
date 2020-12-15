@@ -1,0 +1,14 @@
+ExchangeClient:0.5333333333333333
+MockRemoteTask:0.32666666666666666
+SqlTask:0.30666666666666664
+ArbitraryOutputBuffer:0.28
+OutputBufferMemoryManager:0.28
+BroadcastOutputBuffer:0.27
+ExchangeOperatorFactory:0.24
+PartitionedOutputBuffer:0.22333333333333333
+LazyOutputBuffer:0.22333333333333333
+TestExchangeClient:0.2
+StatementResource:0.11333333333333333
+ExchangeClientFactory:0.07666666666666666
+ExchangeClientSupplier:0.006944444444444445
+MockExchangeClientSupplier:0.0

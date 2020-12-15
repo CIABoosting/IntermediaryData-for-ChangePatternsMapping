@@ -1,0 +1,13 @@
+RetryTemplate:0.5833333333333334
+RetryState:0.3233333333333333
+StatefulRetryOperationsInterceptor:0.18
+ExternalRetryTests:0.17833333333333334
+SynchronousTests:0.17333333333333334
+ExternalRetryInBatchTests:0.17333333333333334
+StatefulRetryIntegrationTests:0.16166666666666665
+SkipLimitStepFactoryBean:0.15
+BatchMessageListenerContainerIntegrationTests:0.13333333333333333
+StatefulRetryStepHandler:0.12666666666666668
+RetryOperations:0.11
+StatefulRecoveryRetryTests:0.08333333333333333
+FatalExceptionRetryPolicyTests:0.06738888888888889

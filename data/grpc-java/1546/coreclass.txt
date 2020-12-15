@@ -1,0 +1,15 @@
+OkHttpClientTransportTest:0.38333333333333336
+ServerImplTest:0.26
+MockFrameReader:0.25666666666666665
+RoundRobinServerList:0.255
+Marshaller:0.24083333333333334
+ManagedChannelImpl:0.22666666666666666
+Http2ClientStream:0.21333333333333335
+ReadableBufferTestBase:0.21333333333333335
+BlockingResponseStream:0.21333333333333335
+HeaderServerInterceptor:0.2
+HeaderClientInterceptor:0.2
+ByteWritableBufferTest:0.19666666666666666
+AsciiKey:0.19666666666666666
+GrpclbLoadBalancerTest:0.18333333333333332
+LbResponseObserver:0.1775

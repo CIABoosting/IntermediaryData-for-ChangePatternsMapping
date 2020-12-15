@@ -1,0 +1,17 @@
+Discovery:0.7333333333333333
+NodeStats:0.44666666666666666
+NodeService:0.3566666666666667
+NodesStatsRequest:0.3466666666666667
+InternalTestCluster:0.32
+DummyDisco:0.25333333333333335
+NodesStatsRequestBuilder:0.21
+ZenDiscovery:0.20333333333333334
+LocalDiscovery:0.17666666666666667
+TransportClusterStatsAction:0.13666666666666666
+TransportNodesStatsAction:0.12666666666666668
+MockInternalClusterInfoService:0.12666666666666668
+PendingClusterStatesQueue:0.115
+DiskUsageTests:0.10666666666666667
+PendingClusterStatesQueueTests:0.08666666666666667
+RestNodesStatsAction:0.08
+ZenDiscoveryIT:0.05333333333333334

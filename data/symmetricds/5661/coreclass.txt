@@ -1,0 +1,14 @@
+Batch:0.65
+OutgoingBatch:0.45
+RouterService:0.38333333333333336
+AbstractWriterTest:0.23666666666666666
+ChannelRouterContext:0.23333333333333334
+ProtocolDataReader:0.22666666666666666
+DataExtractorService:0.21
+OutgoingBatchService:0.20333333333333334
+StagingDataWriter:0.18833333333333332
+SelectFromSymDataSource:0.18666666666666668
+OutgoingBatchMapper:0.16
+TableExtractDataReaderSource:0.15333333333333332
+OutgoingBatchServiceSqlMap:0.13666666666666666
+XmlPublisherFilterTest:0.11

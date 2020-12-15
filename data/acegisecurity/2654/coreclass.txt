@@ -1,0 +1,11 @@
+BadCredentialsException:0.25333333333333335
+DaoAuthenticationProvider:0.22333333333333333
+AccountStatusUserDetailsChecker:0.15666666666666668
+LockedException:0.15333333333333332
+CredentialsExpiredException:0.15333333333333332
+AccountExpiredException:0.15333333333333332
+DisabledException:0.15333333333333332
+DefaultPreAuthenticationChecks:0.12666666666666668
+DefaultPostAuthenticationChecks:0.10333333333333333
+AuthenticationException:0.09333333333333334
+AbstractAuthenticationManager:0.06

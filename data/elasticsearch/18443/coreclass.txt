@@ -1,0 +1,13 @@
+BytesRestResponse:0.37333333333333335
+NettyHttpServerTransport:0.27
+RestController:0.23666666666666666
+NettyHttpChannel:0.22333333333333333
+FakeRestChannel:0.20666666666666667
+HttpRequestHandler:0.15666666666666668
+BytesRestResponseTests:0.15666666666666668
+CustomHttpChannelPipelineFactory:0.12
+HttpChannelPipelineFactory:0.11333333333333333
+DetailedExceptionRestChannel:0.10889285714285717
+HttpChannel:0.08333333333333333
+RestChannel:0.08
+SimpleExceptionRestChannel:0.0770595238095238

@@ -1,0 +1,11 @@
+HiveType:0.42833333333333334
+HiveUtil:0.2966666666666667
+HiveWriteUtils:0.23333333333333334
+ColumnarBinaryHiveRecordCursor:0.22666666666666666
+ColumnarTextHiveRecordCursor:0.22666666666666666
+ParquetPrimitiveConverter:0.22
+GenericHiveRecordCursor:0.19333333333333333
+HiveBucketing:0.18
+SerDeUtils:0.18
+IntFieldSetter:0.17
+ParquetPageSourceFactory:0.16166666666666665

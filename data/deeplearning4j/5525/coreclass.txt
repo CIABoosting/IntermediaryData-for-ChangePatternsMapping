@@ -1,0 +1,11 @@
+TestEarlyStopping:0.37
+EarlyStoppingModelSaver:0.2816666666666667
+LoggingEarlyStoppingListener:0.2633333333333333
+EarlyStoppingTrainer:0.23
+Builder:0.22666666666666666
+InMemoryModelSaver:0.21
+EarlyStoppingResult:0.20333333333333334
+EarlyStoppingListener:0.16666666666666666
+IEarlyStoppingTrainer:0.16333333333333333
+EarlyStoppingConfiguration:0.13333333333333333
+ScoreCalculator:0.0

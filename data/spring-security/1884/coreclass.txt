@@ -1,0 +1,11 @@
+ExpressionUrlAuthorizationConfigurer:0.4
+HttpSecurity:0.38666666666666666
+UrlAuthorizationConfigurer:0.36666666666666664
+ChannelSecurityConfigurer:0.18333333333333332
+AbstractInterceptUrlConfigurer:0.17666666666666667
+AuthorizedUrl:0.175
+PermitAllSupport:0.10333333333333333
+StandardInterceptUrlRegistry:0.02
+AbstractInterceptUrlRegistry:0.01
+ExpressionInterceptUrlRegistry:0.006666666666666667
+ChannelRequestMatcherRegistry:0.006666666666666667

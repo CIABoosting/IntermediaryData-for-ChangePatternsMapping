@@ -1,0 +1,17 @@
+NodeExtension:0.5966666666666667
+CacheService:0.46
+ICacheRecordStore:0.39699999999999996
+CacheProxy:0.32666666666666666
+CachePartitionSegment:0.2733333333333333
+AbstractCacheProxyBase:0.25333333333333335
+CacheRecordStore:0.24333333333333335
+TimedMemberStateFactory:0.23833333333333334
+AbstractCacheProxyInternal:0.22833333333333333
+AbstractCacheProxyExtension:0.21
+NodeEngineImpl:0.20666666666666667
+CacheClearOperation:0.185
+DefaultNodeExtension:0.15
+ServiceManager:0.14333333333333334
+HazelcastServerCacheManager:0.11277777777777777
+CacheDistributedObject:0.1
+HazelcastTest:0.05333333333333334

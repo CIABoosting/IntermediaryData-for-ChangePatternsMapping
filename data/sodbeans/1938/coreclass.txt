@@ -1,0 +1,17 @@
+DataEnvironment:0.6766666666666666
+ErrorTypeDescriptor:0.66
+StepFactory:0.34
+RuntimeError:0.27
+HopSymbolTableWalker:0.26
+CallStep:0.20333333333333334
+AbstractVirtualMachine:0.18333333333333332
+AssignmentStep:0.18
+DetectParameter:0.16
+AlertStep:0.14444444444444443
+DFA51:0.12
+DFA68:0.12
+DetectInfo:0.07666666666666666
+UnaryIntegerTextCastStep:0.07
+alert_statement_scope:0.07
+detect_parameter_scope:0.07
+detect_parameter_return:0.07

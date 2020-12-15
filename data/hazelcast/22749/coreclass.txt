@@ -1,0 +1,15 @@
+PartitionServiceImpl:0.6333333333333333
+PartitionInfo:0.45
+PartitionReplicaVersions:0.36333333333333334
+PartitionStateGeneratorImpl:0.23333333333333334
+ReplicaSyncRequest:0.23333333333333334
+FinalizeMigrationOperation:0.23166666666666666
+Backup:0.22666666666666666
+CheckReplicaVersion:0.22333333333333333
+OperationServiceImpl:0.19666666666666666
+SyncReplicaVersion:0.19
+ReplicaSyncResponse:0.17666666666666667
+PrepareRepartitioningTask:0.16333333333333333
+MigrationRequestOperation:0.15583333333333332
+MigrationOperation:0.15
+SyncReplicaVersionTask:0.13

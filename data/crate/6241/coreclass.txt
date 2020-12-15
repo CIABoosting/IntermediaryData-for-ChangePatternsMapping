@@ -1,0 +1,14 @@
+TransportSQLActionTest:0.2966666666666667
+PartitionName:0.29333333333333333
+Visitor:0.2833333333333333
+CreateTableAnalysis:0.2833333333333333
+PlanVisitor:0.25333333333333335
+Constants:0.23777777777777775
+ShortLiteral:0.23666666666666666
+TestStatementBuilder:0.21666666666666667
+TransportExecutor:0.21
+CreateTableStatementAnalyzer:0.2
+Planner:0.2
+PartitionNameTest:0.17
+CreateAlterTableStatementAnalyzerTest:0.11333333333333333
+TransportExecutorDDLTest:0.016666666666666666

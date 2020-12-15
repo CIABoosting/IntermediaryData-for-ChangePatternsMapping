@@ -1,0 +1,12 @@
+DmlStatement:0.4666666666666667
+AbstractSqlTemplate:0.38666666666666666
+CsvData:0.36
+DatabaseWriter:0.33666666666666667
+ISqlTemplate:0.2575396825396825
+AbstractDatabasePlatform:0.21
+IDatabasePlatform:0.19583333333333333
+PostgreSqlDatabasePlatform:0.13777777777777778
+OracleDatabasePlatform:0.12444444444444445
+PostgreSqlDmlStatement:0.12
+DatabaseWriterTest:0.08666666666666667
+OracleDmlStatement:0.05333333333333334

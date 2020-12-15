@@ -1,0 +1,16 @@
+XmlrpcdMBean:0.5533333333333333
+PollerConfigFactory:0.35
+ConfigFileConstants:0.3466666666666667
+EventConstants:0.33222222222222225
+OutageWriter:0.33
+OutageManagerConfigFactory:0.2711111111111111
+CollectdConfigFactory:0.26666666666666666
+XmlRpcNotifier:0.25
+CapsdConfigFactory:0.23333333333333334
+XmlrpcdConfigFactory:0.23
+Xmlrpcd:0.20666666666666667
+ThreshdConfigFactory:0.19333333333333333
+EventQueueProcessor:0.15666666666666668
+BroadcastEventProcessor:0.12333333333333334
+HttpMonitor:0.11
+HttpsMonitor:0.09333333333333334

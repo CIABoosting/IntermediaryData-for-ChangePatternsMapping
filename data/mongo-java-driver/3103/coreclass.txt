@@ -1,0 +1,13 @@
+CommandResult:0.5066666666666667
+DBCollection:0.47333333333333333
+MapReduceOutput:0.26666666666666666
+WriteCommandProtocol:0.23
+AsyncWriteOperation:0.16333333333333333
+WriteProtocol:0.13666666666666666
+CommandProtocol:0.13666666666666666
+CommandResultCallback:0.11333333333333333
+CommandHelper:0.08666666666666667
+OperationHelpers:0.08
+WriteResultTest:0.07666666666666666
+CommandResultBaseCallback:0.05333333333333334
+WriteResultCallback:0.025555555555555557

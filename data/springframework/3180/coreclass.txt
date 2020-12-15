@@ -1,0 +1,10 @@
+MessageContext:0.8566666666666667
+SoapMessageContext:0.43333333333333335
+PayloadValidatingInterceptorTest:0.25583333333333336
+SoapEnvelopeLoggingInterceptorTest:0.2525
+AbstractMessageContext:0.24333333333333335
+AbstractSoapMessageContext:0.18166666666666667
+PayloadLoggingInterceptorTest:0.17666666666666667
+MessageDispatcherTest:0.15666666666666668
+AbstractWsSecurityInterceptor:0.13666666666666666
+AbstractStaxPayloadEndpoint:0.013333333333333334

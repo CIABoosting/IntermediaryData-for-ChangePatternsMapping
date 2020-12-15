@@ -1,0 +1,12 @@
+ResponseTemplate:0.4125
+NearCacheInvalidationHandler:0.36666666666666664
+CacheEventHandler:0.3566666666666667
+CacheCodecTemplate:0.25916666666666666
+CacheManagementConfigMessageTask:0.23
+AbstractClientInternalCacheProxy:0.21333333333333335
+CacheIterateMessageTask:0.19333333333333333
+AbstractClientCacheProxy:0.17
+AtomicLongAlterMessageTask:0.16333333333333333
+CacheRemoveAllKeysMessageTask:0.16333333333333333
+ClientClusterWideIterator:0.13
+ResponseMessageConst:0.0

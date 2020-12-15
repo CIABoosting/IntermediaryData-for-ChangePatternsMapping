@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.crate.executor.transport.task.elasticsearch.CreateAnalyzerTask: 
+new Added class 1 : io.crate.executor.transport.task.elasticsearch.DeleteAllPartitionsTask: 
+new Added class 2 : io.crate.executor.transport.task.DeleteByIdTask: 
+new Added class 3 : io.crate.executor.transport.task.elasticsearch.DeletePartitionTask: 
+new Added class 4 : io.crate.executor.transport.task.DropTableTask: 
+new Added class 5 : io.crate.executor.transport.task.elasticsearch.ESClusterUpdateSettingsTask: 
+new Added class 6 : io.crate.executor.transport.task.elasticsearch.ESGetTask: 
+new Added class 7 : io.crate.executor.transport.executionphases.ExecutionPhasesTask: 
+new Added class 8 : io.crate.executor.task.FunctionDispatchTask: 
+new Added class 9 : io.crate.executor.transport.task.KillJobTask: 
+new Added class 10 : io.crate.executor.transport.task.KillTask: 
+new Added class 11 : io.crate.executor.transport.task.KillTaskTest: 
+new Added class 12 : io.crate.executor.transport.task.LegacyUpsertByIdTask: 
+new Added class 13 : io.crate.executor.task.SetSessionTask: 
+new Added class 14 : io.crate.executor.Task: 
+new Added class 15 : io.crate.executor.transport.TransportExecutor: 
+new Added class 16 : io.crate.executor.transport.task.UpdateByIdTask: 
+testing relationship 
+class 11  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  1   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  2   12 :  0   13 :  2   14 :  0   15 :  0   16 :  0   17 :  0   

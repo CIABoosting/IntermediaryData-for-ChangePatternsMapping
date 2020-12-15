@@ -1,0 +1,6 @@
+TestEliminateCrossJoins:0.2633333333333333
+TestMergeAdjacentWindows:0.25333333333333335
+TestPushProjectionThroughExchange:0.15
+TestSwapAdjacentWindowsBySpecifications:0.15
+TestRemoveEmptyDelete:0.043333333333333335
+TestPushProjectionThroughUnion:0.043333333333333335

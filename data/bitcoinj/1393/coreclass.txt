@@ -1,0 +1,17 @@
+Coin:0.5533333333333333
+TransactionOutput:0.4633333333333333
+WalletProtobufSerializer:0.31
+PaymentProtocol:0.3
+DefaultCoinSelector:0.25333333333333335
+PaymentChannelClient:0.20833333333333334
+H2FullPrunedBlockStore:0.20666666666666667
+PostgresFullPrunedBlockStore:0.20666666666666667
+ChannelConnectionTest:0.2
+PaymentChannelServer:0.19333333333333333
+WalletTest:0.19
+StoredPaymentChannelServerStates:0.18333333333333332
+StoredPaymentChannelClientStates:0.16833333333333333
+StoredTransactionOutput:0.16833333333333333
+WalletProtobufSerializerTest:0.16333333333333333
+PaymentSessionTest:0.14
+CoinTest:0.11

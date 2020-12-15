@@ -1,0 +1,14 @@
+SelectAnalyzerTest:0.46
+ESCountNode:0.45666666666666667
+TransportActionProvider:0.2966666666666667
+SQLPlugin:0.28
+PrimaryKeyVisitor:0.25666666666666665
+DocTableInfo:0.25166666666666665
+Planner:0.22666666666666666
+TransportExecutorTest:0.22
+PartitionedTableIntegrationTest:0.21
+PlannerTest:0.20666666666666667
+ESCountTask:0.11944444444444445
+ESDeleteByQueryTask:0.05333333333333334
+WherePKIntegrationTest:0.023333333333333334
+CountStarIntegrationTest:0.02

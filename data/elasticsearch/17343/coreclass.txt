@@ -1,0 +1,12 @@
+ValuesSourceConfig:0.4644444444444444
+GeoPoint:0.36333333333333334
+TermsAggregatorFactory:0.25
+GeoUtils:0.2
+ValuesSourceAggregatorFactory:0.17666666666666667
+GlobalOrdinalsStringTermsAggregator:0.15666666666666668
+LowCardinality:0.1527777777777778
+AggregationContext:0.13
+ValuesSourceParser:0.12
+ValuesSourceMetricsAggregationBuilder:0.09666666666666666
+ValuesSourceAggregationBuilder:0.09666666666666666
+Input:0.0

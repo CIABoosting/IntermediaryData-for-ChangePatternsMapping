@@ -1,0 +1,12 @@
+AbstractCasWebflowEventResolver:0.35
+AbstractCasWebflowConfigurer:0.29333333333333333
+AuthenticationSystemSupport:0.22166666666666668
+MultifactorAuthenticationTests:0.20666666666666667
+InitialFlowSetupAction:0.19
+DefaultAuthenticationSystemSupport:0.15333333333333332
+DuoAuthenticationHandler:0.146984126984127
+SuccessfulHandlerMetaDataPopulator:0.12
+CasWebflowConstants:0.11666666666666667
+InitialAuthenticationAttemptWebflowEventResolver:0.11
+YubiKeyMultifactorAuthenticationProvider:0.043333333333333335
+DuoMultifactorAuthenticationProvider:0.043333333333333335

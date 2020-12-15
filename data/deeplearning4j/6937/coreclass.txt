@@ -1,0 +1,11 @@
+InMemoryLookupTable:0.35
+InMemoryLookupCache:0.3233333333333333
+LSTM:0.28
+Word2Vec:0.25
+SentenceBatch:0.17333333333333334
+VocabCacheFunction:0.16
+TextPipeline:0.15333333333333332
+VocabActor:0.13666666666666666
+BaseSparkTest:0.10333333333333333
+TextPipelineTest:0.08
+TokentoVocabWord:0.03666666666666667

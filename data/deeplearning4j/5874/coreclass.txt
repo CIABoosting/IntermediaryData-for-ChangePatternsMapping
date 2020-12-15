@@ -1,0 +1,17 @@
+LFWDataSetIterator:0.38333333333333336
+SequenceRecordReaderDataSetIterator:0.32666666666666666
+DataSets:0.30833333333333335
+MnistDataFetcher:0.2914285714285714
+ListDataSetIterator:0.25333333333333335
+MultipleEpochsIterator:0.25333333333333335
+ReconstructionDataSetIterator:0.25333333333333335
+SamplingDataSetIterator:0.25333333333333335
+TestIterator:0.25333333333333335
+TestDataSetIterator:0.23333333333333334
+BaseDatasetIterator:0.23333333333333334
+RBMTests:0.22
+Word2VecDataSetIterator:0.18833333333333332
+AsyncDataSetIterator:0.18833333333333332
+MnistFetcher:0.14
+RecordReaderDataSetIterator:0.1175
+DataSetIteratorTest:0.06

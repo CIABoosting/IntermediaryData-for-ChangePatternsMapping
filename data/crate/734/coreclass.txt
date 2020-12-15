@@ -1,0 +1,14 @@
+LogicalPlan:0.37666666666666665
+Order:0.3
+SelectPlannerTest:0.26666666666666666
+Routing:0.25666666666666665
+InsertPlannerTest:0.22333333333333333
+Filter:0.22
+Collect:0.21666666666666667
+GroupByPlannerTest:0.21333333333333335
+HashAggregate:0.19333333333333333
+SubQueryPlannerTest:0.18666666666666668
+Limit:0.17
+ResultDescription:0.125
+ConsumingPlanner:0.1225
+GroupHashAggregate:0.07

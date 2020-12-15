@@ -1,0 +1,36 @@
+Compared Result of  two versions
+Number of New Class: 20
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.archive.io.arc.ARCConstants: 
+new Added class 1 : org.archive.io.arc.ARCRecord: 
+new Added class 2 : org.archive.io.arc.ARCSocketFactory: 
+new Added class 3 : org.archive.io.arc.ARCSocketFactoryTest: 
+new Added class 4 : org.archive.io.arc.ARCWriter: 
+new Added class 5 : org.archive.httpclient.ConfigurableTrustManagerProtocolSocketFactory: 
+new Added class 6 : org.archive.util.ConfigurableX509TrustManager: 
+new Added class 7 : org.archive.util.ConfigurableX509TrustManagerTest: 
+new Added class 8 : org.archive.crawler.extractor.ExtractorHTTP: 
+new Added class 9 : org.archive.crawler.fetcher.FetchHTTP: 
+new Added class 10 : org.archive.crawler.Heritrix: 
+new Added class 11 : org.apache.commons.httpclient.HttpConnection: 
+new Added class 12 : org.apache.commons.httpclient.HttpParser: 
+new Added class 13 : org.archive.httpclient.HttpRecorderGetMethod: 
+new Added class 14 : org.archive.httpclient.HttpRecorderPostMethod: 
+new Added class 15 : org.archive.httpclient.PatchedHttpClient: 
+new Added class 16 : org.archive.crawler.datamodel.credential.Rfc2617Credential: 
+new Added class 17 : org.archive.httpclient.SingleHttpConnectionManager: 
+new Added class 18 : org.archive.crawler.datamodel.UURI: 
+new Added class 19 : org.archive.crawler.datamodel.UURIFactory: 
+testing relationship 
+class 1  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 0£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:11  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 14  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:5  r15:0  r16:0  r17:0  
+class 15  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:7  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:1  r15:0  r16:3  r17:0  
+class 19  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:6  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:2  r14:5  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  0   4 :  0   5 :  7   6 :  2   7 :  0   8 :  11   9 :  0   10 :  0   11 :  17   12 :  0   13 :  10   14 :  16   15 :  0   16 :  3   17 :  0   

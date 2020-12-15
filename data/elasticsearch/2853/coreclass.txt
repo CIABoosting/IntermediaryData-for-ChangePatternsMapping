@@ -1,0 +1,17 @@
+Atomic:0.38333333333333336
+IndexOrdinalsFieldData:0.35833333333333334
+LateParsingQuery:0.33666666666666667
+HasChildQueryBuilder:0.27666666666666667
+ParentFieldType:0.2227777777777778
+HasParentQueryBuilder:0.22
+ValuesSourceConfig:0.19166666666666668
+AbstractStringFieldDataTestCase:0.19
+SortedSetDVOrdinalsIndexFieldData:0.19
+ChildQuerySearchIT:0.18333333333333332
+ParentToChildrenAggregator:0.16333333333333333
+ChildrenAggregationBuilder:0.15666666666666668
+ChildrenAggregatorFactory:0.14333333333333334
+UidIndexFieldData:0.14333333333333334
+ParentToChildrenAggregatorTests:0.13666666666666666
+GlobalOrdinalsIndexFieldData:0.13333333333333333
+AbstractIndexOrdinalsFieldData:0.07666666666666666

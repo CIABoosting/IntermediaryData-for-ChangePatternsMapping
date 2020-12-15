@@ -1,0 +1,12 @@
+PlanOptimizer:0.4061111111111111
+AbstractTestQueries:0.39
+LimitNode:0.23666666666666666
+PlanOptimizersFactory:0.21333333333333335
+LogicalPlanner:0.17333333333333334
+TableAliasSelector:0.08666666666666667
+SimplifyExpressions:0.06333333333333334
+PruneRedundantProjections:0.03
+PruneUnreferencedOutputs:0.03
+SetFlatteningOptimizer:0.03
+MergeProjections:0.03
+UnaliasSymbolReferences:0.03

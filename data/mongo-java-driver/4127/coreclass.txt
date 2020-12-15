@@ -1,0 +1,10 @@
+ReplicaSetMongoClient:0.39666666666666667
+SingleChannelMongoOperations:0.30666666666666664
+ReplicaSetMonitor:0.2833333333333333
+SingleChannelSyncMongoClient:0.22
+MongoDatabaseImpl:0.22
+SingleChannelAsyncMongoClient:0.19
+MongoClientIsMasterExecutor:0.17333333333333334
+MongoClientIsMasterExecutorFactory:0.1486111111111111
+ReplicaSetHolder:0.14
+AbstractConnectionSetMonitor:0.10333333333333333

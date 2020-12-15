@@ -1,0 +1,15 @@
+MapDataStore:0.45366666666666666
+MapStoreConfig:0.39
+DefaultWriteBehindProcessor:0.30333333333333334
+TestMapUsingMapStoreBuilder:0.25333333333333335
+EmptyMapDataStore:0.23
+DefaultRecordStore:0.21666666666666667
+XmlConfigBuilder:0.2111111111111111
+TestFullApplicationContext:0.20333333333333334
+WriteBehindStore:0.2
+WriteBehindItemCounterTest:0.13333333333333333
+WriteThroughStore:0.1308730158730159
+XMLConfigBuilderTest:0.13
+MapDataStores:0.08666666666666667
+RetryTask:0.02
+WriteBehindFailAndRetryTest:0.0033333333333333335

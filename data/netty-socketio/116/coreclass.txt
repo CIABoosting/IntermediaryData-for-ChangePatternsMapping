@@ -1,0 +1,16 @@
+Namespace:0.5066666666666667
+ClientHead:0.49666666666666665
+EncoderHandler:0.32
+HandshakeData:0.22333333333333333
+ByteArraySerializer:0.22166666666666668
+ClientListeners:0.215
+SocketIOServer:0.19333333333333333
+OnEventScanner:0.19
+WebSocketTransport:0.17333333333333334
+PollingTransport:0.16333333333333333
+AuthorizeHandler:0.15
+AckManager:0.10666666666666667
+WrongUrlHandler:0.09333333333333334
+AnnotationScanner:0.05
+OnConnectScanner:0.006666666666666667
+OnDisconnectScanner:0.006666666666666667

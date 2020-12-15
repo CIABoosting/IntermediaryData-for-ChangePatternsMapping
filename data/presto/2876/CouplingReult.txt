@@ -1,0 +1,21 @@
+Compared Result of  two versions
+Number of New Class: 15
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.facebook.presto.operator.scalar.BenchmarkArrayDistinct: 
+new Added class 1 : com.facebook.presto.operator.scalar.BenchmarkArrayFilter: 
+new Added class 2 : com.facebook.presto.operator.scalar.BenchmarkArrayHashCodeOperator: 
+new Added class 3 : com.facebook.presto.operator.scalar.BenchmarkArrayJoin: 
+new Added class 4 : com.facebook.presto.operator.scalar.BenchmarkArraySort: 
+new Added class 5 : com.facebook.presto.operator.scalar.BenchmarkArraySubscript: 
+new Added class 6 : com.facebook.presto.operator.scalar.BenchmarkMapConcat: 
+new Added class 7 : com.facebook.presto.operator.scalar.BenchmarkMapSubscript: 
+new Added class 8 : com.facebook.presto.operator.scalar.BenchmarkTransformKey: 
+new Added class 9 : com.facebook.presto.operator.scalar.BenchmarkTransformValue: 
+new Added class 10 : com.facebook.presto.sql.relational.SqlToRowExpressionTranslator: 
+new Added class 11 : com.facebook.presto.sql.relational.TestDeterminismEvaluator: 
+new Added class 12 : com.facebook.presto.sql.TestExpressionOptimizer: 
+new Added class 13 : com.facebook.presto.sql.gen.TestInCodeGenerator: 
+new Added class 14 : com.facebook.presto.operator.scalar.TestPageProcessorCompiler: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

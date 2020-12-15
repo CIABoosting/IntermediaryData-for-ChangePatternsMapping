@@ -1,0 +1,19 @@
+Compared Result of  two versions
+Number of New Class: 8
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : cn.edu.hfut.dmic.webcollector.extract.Extractor: 
+new Added class 1 : cn.edu.hfut.dmic.webcollector.extract.ExtractorFactory: 
+new Added class 2 : cn.edu.hfut.dmic.webcollector.extract.Extractors: 
+new Added class 3 : cn.edu.hfut.dmic.webcollector.extract.ExtractorTest: 
+new Added class 4 : cn.edu.hfut.dmic.webcollector.util.FileSystemOutput: 
+new Added class 5 : cn.edu.hfut.dmic.webcollector.crawler.MultiExtractorCrawler: 
+new Added class 6 : cn.edu.hfut.dmic.webcollector.extract.RegexExtractorFactory: 
+new Added class 7 : cn.edu.hfut.dmic.webcollector.example.TutorialExtractor: 
+testing relationship 
+class 3  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 6  vs  class 1£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  1   3 :  0   4 :  0   5 :  3   6 :  0   7 :  0   8 :  2   9 :  0   10 :  2   11 :  4   12 :  0   13 :  1   14 :  1   15 :  0   16 :  0   17 :  0   

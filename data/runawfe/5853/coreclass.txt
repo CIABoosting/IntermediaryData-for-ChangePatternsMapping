@@ -1,0 +1,14 @@
+SystemProperties:0.2866666666666667
+AuthenticationService:0.26066666666666666
+TrustedLoginModuleCallbackHandler:0.25
+ActionExceptionHelper:0.24683333333333327
+SubjectPrincipalsHelper:0.22083333333333333
+InternalDBPasswordLoginModule:0.21333333333333335
+TrustedLoginModule:0.2
+LoginModuleBase:0.14333333333333334
+KerberosLoginModule:0.125
+DefaultExceptionHandler:0.09666666666666666
+AuthenticationLogic:0.09
+AuthenticationServiceDelegate:0.08666666666666667
+AuthenticationServiceBean:0.08
+AuthenticationExpiredException:0.03166666666666667

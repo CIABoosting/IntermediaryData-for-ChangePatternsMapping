@@ -1,0 +1,9 @@
+LogicalPlanner:0.48333333333333334
+LocalQueryRunner:0.42
+SqlQueryExecution:0.24
+QueryExplainer:0.2333333333333334
+PlanSanityChecker:0.14555555555555555
+Checker:0.1388888888888889
+ValidateDependenciesChecker:0.06333333333333334
+NoApplyNodeLeftChecker:0.0
+NoSubqueryExpressionLeftChecker:0.0

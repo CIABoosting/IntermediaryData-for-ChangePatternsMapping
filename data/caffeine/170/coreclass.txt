@@ -1,0 +1,5 @@
+BoundedLocalCache:0.56
+WriteBuffer:0.48
+SingleConsumerQueue:0.325
+AdaptiveWindowTinyLfuPolicy:0.27
+CountMin4:0.23

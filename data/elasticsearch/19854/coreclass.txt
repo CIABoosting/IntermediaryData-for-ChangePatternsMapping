@@ -1,0 +1,11 @@
+ElasticsearchIntegrationTest:0.43
+EnableAllocationDecider:0.41
+UpgradeTest:0.235
+CorruptedFileTest:0.21
+BasicBackwardsCompatibilityTest:0.2
+ElasticsearchAllocationTestCase:0.15333333333333332
+SimpleRecoveryLocalGatewayTests:0.14666666666666667
+RecoveryBackwardsCompatibilityTests:0.14
+ClusterDynamicSettingsModule:0.07666666666666666
+IndexDynamicSettingsModule:0.07666666666666666
+EnableAllocationTests:0.03

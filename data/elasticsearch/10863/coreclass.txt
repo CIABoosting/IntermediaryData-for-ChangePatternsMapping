@@ -1,0 +1,14 @@
+StreamOutput:0.37666666666666665
+PhraseSuggestionBuilder:0.31666666666666665
+SuggestRequest:0.2733333333333333
+CompletionSuggestionBuilder:0.2633333333333333
+CustomSuggestionBuilder:0.23333333333333334
+TermSuggestionBuilder:0.22333333333333333
+CompletionSuggestSearchIT:0.22
+StreamInput:0.20333333333333334
+ContextCompletionSuggestSearchIT:0.17666666666666667
+SuggestRequestBuilder:0.10666666666666667
+CustomSuggesterSearchIT:0.09333333333333334
+LaplaceModelTests:0.06333333333333334
+StupidBackoffModelTests:0.06333333333333334
+LinearInterpolationModelTests:0.05

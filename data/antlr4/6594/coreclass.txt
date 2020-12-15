@@ -1,0 +1,16 @@
+OutputModelController:0.4066666666666667
+ParserFactory:0.3466666666666667
+DefaultOutputModelFactory:0.32666666666666666
+BaseTreeAdaptor:0.21333333333333335
+UseDefAnalyzer:0.18666666666666668
+TreeRewrite:0.175
+RewriteTreeStructure:0.14
+ParserASTExtension:0.13
+RewriteTreeOptional:0.09666666666666666
+RootDecl:0.05333333333333334
+RewriteTokenRef:0.05
+RewriteIteratorDecl:0.04
+RewriteRuleRef:0.04
+RewriteTokenRefIsRoot:0.03
+RewriteRuleRefIsRoot:0.03
+TestT:0.0

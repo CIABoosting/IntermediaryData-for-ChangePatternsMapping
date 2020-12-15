@@ -1,0 +1,23 @@
+Compared Result of  two versions
+Number of New Class: 17
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : de.fu_berlin.inf.dpp.ui.actions.ConnectDisconnectAction: 
+new Added class 1 : de.fu_berlin.inf.dpp.ui.actions.ConsistencyAction: 
+new Added class 2 : de.fu_berlin.inf.dpp.ui.actions.DeleteContactAction: 
+new Added class 3 : de.fu_berlin.inf.dpp.ui.actions.FollowModeAction: 
+new Added class 4 : de.fu_berlin.inf.dpp.ui.actions.GiveDriverRoleAction: 
+new Added class 5 : de.fu_berlin.inf.dpp.ui.actions.GiveExclusiveDriverRoleAction: 
+new Added class 6 : de.fu_berlin.inf.dpp.ui.actions.InviteAction: 
+new Added class 7 : de.fu_berlin.inf.dpp.ui.actions.JumpToDriverPositionAction: 
+new Added class 8 : de.fu_berlin.inf.dpp.ui.actions.LeaveSessionAction: 
+new Added class 9 : de.fu_berlin.inf.dpp.ui.actions.NewAccountAction: 
+new Added class 10 : de.fu_berlin.inf.dpp.ui.actions.NewContactAction: 
+new Added class 11 : de.fu_berlin.inf.dpp.ui.actions.NewSessionAction: 
+new Added class 12 : de.fu_berlin.inf.dpp.ui.actions.OpenInviteInterface: 
+new Added class 13 : de.fu_berlin.inf.dpp.ui.actions.RemoveAllDriverRoleAction: 
+new Added class 14 : de.fu_berlin.inf.dpp.ui.actions.RemoveDriverRoleAction: 
+new Added class 15 : de.fu_berlin.inf.dpp.ui.actions.RenameContactAction: 
+new Added class 16 : de.fu_berlin.inf.dpp.ui.actions.SkypeAction: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

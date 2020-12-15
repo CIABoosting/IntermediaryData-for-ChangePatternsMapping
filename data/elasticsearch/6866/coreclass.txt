@@ -1,0 +1,13 @@
+Store:0.4866666666666667
+IndexShard:0.4666666666666667
+Engine:0.45
+StoreTests:0.2733333333333333
+LocalShardSnapshot:0.26666666666666666
+InternalEngine:0.24333333333333335
+ShadowEngine:0.2
+ShadowIndexShard:0.17333333333333334
+RecoverySourceHandler:0.17333333333333334
+SnapshotShardsService:0.16666666666666666
+RestoreContext:0.13
+ReplicationGroup:0.13
+IndexShardTests:0.06666666666666667

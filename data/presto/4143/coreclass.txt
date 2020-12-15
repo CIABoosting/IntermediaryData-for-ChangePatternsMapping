@@ -1,0 +1,17 @@
+HiveSplit:0.6
+AbstractTestHiveClient:0.45
+HivePageSourceProvider:0.44666666666666666
+HivePageSource:0.2866666666666667
+BackgroundHiveSplitLoader:0.25333333333333335
+HiveFileIterator:0.17
+HiveClientModule:0.16333333333333333
+TestPreparer:0.13
+HiveSplitManager:0.13
+ColumnMapping:0.11333333333333333
+FloatToDoubleCoercer:0.07333333333333333
+TestHiveSplit:0.03666666666666667
+HivePartitionMetadata:0.02666666666666667
+IntegerNumberToVarcharCoercer:0.006666666666666667
+IntegerNumberUpscaleCoercer:0.006666666666666667
+CoercionLazyBlockLoader:0.0
+VarcharToIntegerNumberCoercer:0.0

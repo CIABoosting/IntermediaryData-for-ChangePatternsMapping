@@ -1,0 +1,11 @@
+IndexShardRoutingTable:0.38
+PlainOperationRouting:0.21666666666666667
+AsyncAction:0.21566666666666667
+TransportBroadcastOperationAction:0.19166666666666668
+SimpleQueryTests:0.19
+BaseAsyncAction:0.18666666666666668
+ShardSearchFailure:0.18666666666666668
+AsyncBroadcastAction:0.15666666666666668
+RoutingIteratorTests:0.15
+NoShardAvailableActionException:0.10333333333333333
+SearchPhaseExecutionException:0.1

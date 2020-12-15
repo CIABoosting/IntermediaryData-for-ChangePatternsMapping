@@ -1,0 +1,12 @@
+MapReduceService:0.35
+MapKeyValueSource:0.2752777777777778
+JobSupervisor:0.25666666666666665
+AbstractJobTracker:0.22666666666666666
+MapCombineTask:0.22666666666666666
+KeyValueJob:0.16333333333333333
+JobTaskConfiguration:0.15666666666666668
+KeyValueJobOperation:0.13333333333333333
+MapReduceDataSerializerHook:0.11
+ClientJob:0.05333333333333334
+PartitionProcessor:0.05
+ClientCompletableFuture:0.03

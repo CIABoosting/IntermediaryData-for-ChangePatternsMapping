@@ -1,0 +1,14 @@
+SignificantStringTerms:0.2833333333333333
+SignificantLongTerms:0.26
+SignificanceHeuristicTests:0.26
+InternalSignificantTerms:0.24666666666666667
+UnmappedSignificantTerms:0.24
+Bucket:0.20333333333333334
+SignificantTermsAggregationBuilder:0.19666666666666666
+SignificantTermsIT:0.17666666666666667
+TestAggFactory:0.16333333333333333
+SignificantStringTermsAggregator:0.12666666666666668
+GlobalOrdinalsSignificantTermsAggregator:0.12666666666666668
+SignificantLongTermsAggregator:0.12666666666666668
+LongTestAggFactory:0.01611111111111111
+StringTestAggFactory:0.01611111111111111

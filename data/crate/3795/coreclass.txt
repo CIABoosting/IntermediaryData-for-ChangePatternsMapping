@@ -1,0 +1,10 @@
+CollectorContext:0.34
+LuceneDocCollectorBenchmark:0.31
+CollectingRowReceiver:0.30666666666666664
+IterableRowEmitter:0.26
+LuceneDocCollectorTest:0.23666666666666666
+ShardCollectService:0.23188888888888887
+LuceneDocFetcher:0.11666666666666667
+DocCollectorExpression:0.013333333333333334
+IdCollectorExpression:0.013333333333333334
+RawCollectorExpression:0.013333333333333334

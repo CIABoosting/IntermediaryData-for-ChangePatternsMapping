@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 15
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : net.ucanaccess.jdbc.AbstractExecute: 
+new Added class 1 : net.ucanaccess.commands.AutoNumberAction: 
+new Added class 2 : net.ucanaccess.test.ComplexTest: 
+new Added class 3 : net.ucanaccess.commands.InsertCommand: 
+new Added class 4 : net.ucanaccess.jdbc.JackcessOpenerInterface: 
+new Added class 5 : net.ucanaccess.converters.LoadJet: 
+new Added class 6 : net.ucanaccess.converters.Metadata: 
+new Added class 7 : net.ucanaccess.test.MetaDataTest: 
+new Added class 8 : net.ucanaccess.converters.Persist2Jet: 
+new Added class 9 : net.ucanaccess.converters.SQLConverter: 
+new Added class 10 : net.ucanaccess.triggers.TriggerAutoNumber: 
+new Added class 11 : net.ucanaccess.jdbc.UcanaccessDatabaseMetadata: 
+new Added class 12 : net.ucanaccess.jdbc.UcanaccessSQLException: 
+new Added class 13 : net.ucanaccess.jdbc.UcanaccessStatement: 
+new Added class 14 : net.ucanaccess.converters.UcanaccessTable: 
+testing relationship 
+class 0  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:8  r9:0  r10:3  r11:0  r12:0  r13:0  r14:6  r15:0  r16:0  r17:0  
+class 3  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  9   9 :  0   10 :  3   11 :  5   12 :  0   13 :  3   14 :  6   15 :  0   16 :  0   17 :  0   

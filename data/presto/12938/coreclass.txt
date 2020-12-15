@@ -1,0 +1,17 @@
+TupleStreamWriter:0.68
+TupleStreamSerde:0.39
+DictionaryEncodedTupleStream:0.22833333333333333
+Footer:0.21
+DictionaryEncodedCursor:0.17666666666666667
+DictionaryEncodedBlockCursor:0.17
+RunLengthEncodedSerde:0.15888888888888889
+UncompressedSerde:0.15333333333333332
+DictionaryEncodedBlock:0.12
+ConvertCsv:0.11333333333333333
+TestDictionarySerde:0.11
+TestRunLengthEncodedSerde:0.10666666666666667
+DictionarySerde:0.1
+TestUncompressedBlockReader:0.08
+UncompressedTupleStreamWriter:0.06666666666666667
+RunLengthEncodedTupleStreamWriter:0.06666666666666667
+DictionaryTupleStreamWriter:0.04666666666666667

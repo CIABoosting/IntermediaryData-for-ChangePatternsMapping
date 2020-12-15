@@ -1,0 +1,10 @@
+Beans:0.7133333333333334
+CheckConsentRequiredAction:0.2627777777777778
+ConsentDecision:0.21947222222222224
+AbstractTicketRegistry:0.15666666666666668
+ConsentWebflowConfigurer:0.15333333333333332
+JpaConsentRepository:0.14944444444444446
+CasConsentJdbcConfiguration:0.14
+JpaEventsConfiguration:0.13666666666666666
+GoogleAuthenticatorJpaConfiguration:0.13666666666666666
+JdbcMultifactorAuthnTrustConfiguration:0.13666666666666666

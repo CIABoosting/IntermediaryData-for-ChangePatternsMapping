@@ -1,0 +1,17 @@
+Config:0.68
+HazelcastInstance:0.65
+TopicService:0.41
+HazelcastTestSupport:0.28
+XmlConfigBuilder:0.23
+HazelcastClientInstanceImpl:0.2188888888888889
+ServiceManager:0.21333333333333335
+TopicProxy:0.19833333333333333
+ConfigXmlGenerator:0.19666666666666666
+ClientTopicProxy:0.19
+HazelcastInstanceImpl:0.18666666666666668
+HazelcastConnectionImpl:0.18
+HazelcastInstanceProxy:0.17111111111111113
+HazelcastClientProxy:0.17111111111111113
+TestThread:0.16333333333333333
+XMLConfigBuilderTest:0.11
+PartitionControlledIdTest:0.09

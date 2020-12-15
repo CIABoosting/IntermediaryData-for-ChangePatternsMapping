@@ -1,0 +1,11 @@
+SimplePool:0.5633333333333334
+MongoAsyncConnection:0.25666666666666665
+DefaultMongoSyncConnection:0.21
+MongoConnection:0.2
+PowerOfTwoByteBufferPool:0.19666666666666666
+DefaultMongoAsyncConnection:0.17
+MongoServerBindings:0.16666666666666666
+MongoConnectionManagerImpl:0.16333333333333333
+DefaultMongoSocketConnection:0.13333333333333333
+MongoBatchInsertTest:0.08333333333333333
+DefaultMongoSocketChannelConnection:0.06333333333333334

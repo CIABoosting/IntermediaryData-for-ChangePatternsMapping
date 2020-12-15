@@ -1,0 +1,10 @@
+ClientConnection:0.6166666666666667
+ClientConnectionManager:0.4603333333333334
+ClientConnectionManagerImpl:0.3233333333333333
+Heartbeat:0.2608333333333333
+ClientInvocationServiceSupport:0.22166666666666668
+ReconnectionHandler:0.21166666666666667
+AuthenticationFuture:0.1811111111111111
+ClientNonSmartListenerService:0.12333333333333334
+InitConnectionTask:0.06666666666666667
+CleanResourcesTask:0.056666666666666664

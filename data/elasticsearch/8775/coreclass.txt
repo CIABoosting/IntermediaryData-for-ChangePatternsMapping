@@ -1,0 +1,11 @@
+FetchPhase:0.43666666666666665
+FetchSubPhase:0.36666666666666664
+QueryPhase:0.25333333333333335
+SearchPhase:0.22666666666666666
+AggregationPhase:0.19666666666666666
+ScriptFieldsFetchSubPhase:0.13
+VersionFetchSubPhase:0.13
+FetchSourceSubPhase:0.13
+FieldDataFieldsFetchSubPhase:0.1
+DfsPhase:0.09666666666666666
+ExplainFetchSubPhase:0.08666666666666667

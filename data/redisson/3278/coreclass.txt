@@ -1,0 +1,4 @@
+LoadBalancer:0.72
+MasterSlaveConnectionManager:0.5
+BaseLoadBalancer:0.35
+SentinelConnectionManager:0.17666666666666667

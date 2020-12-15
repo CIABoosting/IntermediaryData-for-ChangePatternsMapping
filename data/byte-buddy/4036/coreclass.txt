@@ -1,0 +1,15 @@
+NegatingMethodMatcher:0.36333333333333334
+SuperMethodCallAppender:0.2227777777777778
+ByteBuddy:0.22166666666666668
+MethodCallProxy:0.21666666666666667
+MethodDelegationByteCodeAppender:0.21216666666666667
+AssignableSignatureCall:0.20111111111111113
+MethodMatchersTest:0.20027777777777778
+SameSignatureMethodCall:0.19666666666666666
+ParameterCountMatcher:0.19333333333333333
+MethodArgumentDescriptionTest:0.19333333333333333
+DefaultValueTest:0.19
+VoidAwareAssigner:0.17777777777777776
+ConstructorStrategy:0.17111111111111113
+ParameterTypeMatcher:0.13
+ConstructorStrategyDefaultTest:0.12333333333333334

@@ -1,0 +1,17 @@
+SearchRequestBuilder:0.5233333333333333
+SearchSourceBuilder:0.4666666666666667
+SearchRequest:0.36
+SearchSource:0.31666666666666665
+IndexWarmersMetaData:0.2966666666666667
+ShardSearchLocalRequest:0.24666666666666667
+IndicesOptionsIntegrationIT:0.235
+DummyQueryBuilder:0.23166666666666666
+ScriptField:0.23111111111111116
+IndicesRequestCache:0.19666666666666666
+SearchSourceBuilderTests:0.18666666666666668
+SearchService:0.18333333333333332
+Entry:0.17333333333333334
+RestActions:0.16444444444444442
+SearchWarmer:0.13333333333333333
+RestCountAction:0.1
+RestMultiSearchAction:0.07666666666666666

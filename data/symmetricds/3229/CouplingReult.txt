@@ -1,0 +1,24 @@
+Compared Result of  two versions
+Number of New Class: 18
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.jumpmind.symmetric.web.AckServlet: 
+new Added class 1 : org.jumpmind.symmetric.web.AlertServlet: 
+new Added class 2 : org.jumpmind.symmetric.web.AuthenticationFilter: 
+new Added class 3 : org.jumpmind.symmetric.web.BandwidthSamplerServlet: 
+new Added class 4 : org.jumpmind.symmetric.web.BatchServlet: 
+new Added class 5 : org.jumpmind.symmetric.web.CompressionFilter: 
+new Added class 6 : org.jumpmind.symmetric.load.ConfigurationChangedFilter: 
+new Added class 7 : org.jumpmind.symmetric.io.DefaultOfflineClientListener: 
+new Added class 8 : org.jumpmind.symmetric.job.DefaultOfflineServerListener: 
+new Added class 9 : org.jumpmind.symmetric.ext.ExtensionPointManager: 
+new Added class 10 : org.jumpmind.symmetric.transport.http.HttpBandwidthUrlSelector: 
+new Added class 11 : org.jumpmind.symmetric.web.InetAddressFilter: 
+new Added class 12 : org.jumpmind.symmetric.web.NodeConcurrencyFilter: 
+new Added class 13 : org.jumpmind.symmetric.web.PullServlet: 
+new Added class 14 : org.jumpmind.symmetric.job.PushHeartbeatListener: 
+new Added class 15 : org.jumpmind.symmetric.web.PushServlet: 
+new Added class 16 : org.jumpmind.symmetric.web.RegistrationServlet: 
+new Added class 17 : org.jumpmind.symmetric.web.ThrottleFilter: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

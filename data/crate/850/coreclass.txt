@@ -1,0 +1,11 @@
+MultiSourceSelect:0.4533333333333333
+SelectStatementAnalyzerTest:0.41
+ManyTableConsumer:0.29333333333333333
+NestedLoopConsumerTest:0.27666666666666667
+JoinPair:0.26666666666666666
+RelationSplitter:0.20333333333333334
+SubSelectAnalyzerTest:0.19666666666666666
+TwoTableJoin:0.19666666666666666
+RelationSplitterTest:0.19
+ManyTableConsumerTest:0.19
+MultiSourceFetchPushDownTest:0.13666666666666666

@@ -1,0 +1,13 @@
+WriteBehindQueue:0.7233333333333334
+WriteBehindStore:0.43666666666666665
+ArrayWriteBehindQueue:0.2866666666666667
+CoalescedWriteBehindQueue:0.25333333333333335
+WriteBehindMapStoreWithEvictionsTest:0.24666666666666667
+StoreWorker:0.24333333333333335
+SynchronizedWriteBehindQueue:0.21222222222222223
+ClearExpiredOperation:0.20333333333333334
+EmptyWriteBehindQueue:0.20333333333333334
+WriteBehindQueueTest:0.14666666666666667
+WriteBehindManager:0.10666666666666667
+MapDataStores:0.095
+InternalStoreListener:0.03333333333333333

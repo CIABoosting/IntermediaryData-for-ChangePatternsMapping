@@ -1,0 +1,6 @@
+IpFieldType:0.42933333333333334
+BinaryRangeAggregator:0.34
+SortedBinaryRangeLeafCollector:0.16
+SortedSetRangeLeafCollector:0.14333333333333334
+BinaryRangeAggregatorTests:0.09333333333333334
+FakeSortedBinaryDocValues:0.03333333333333333

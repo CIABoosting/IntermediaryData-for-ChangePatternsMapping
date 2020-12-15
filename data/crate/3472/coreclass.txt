@@ -1,0 +1,15 @@
+ExpressionAnalyzer:0.5833333333333334
+AbstractTableRelation:0.31333333333333335
+CopyAnalyzerTest:0.31
+DeleteAnalyzerTest:0.2833333333333333
+InsertFromValuesAnalyzerTest:0.26666666666666666
+WhereClauseAnalyzer:0.19666666666666666
+CompoundLiteralTest:0.19333333333333333
+ExpressionAnalyzerNormalizeTest:0.19333333333333333
+CopyStatementAnalyzer:0.18
+ExpressionAnalyzerTest:0.16333333333333333
+ValuesAwareExpressionAnalyzer:0.14666666666666667
+RelationAnalysisContext:0.13666666666666666
+InsertFromValuesAnalyzer:0.12333333333333334
+SqlExpressions:0.11666666666666667
+UpdateStatementAnalyzer:0.1

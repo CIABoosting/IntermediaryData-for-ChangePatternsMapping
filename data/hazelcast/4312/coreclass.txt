@@ -1,0 +1,11 @@
+SemaphoreContainer:0.5733333333333334
+LockServiceImpl:0.32
+SemaphoreDataSerializerHook:0.26666666666666666
+SemaphoreService:0.21333333333333335
+AcquireBackupOperation:0.16966666666666666
+ReleaseBackupOperation:0.16966666666666666
+AcquireOperation:0.16333333333333333
+ReleaseOperation:0.16333333333333333
+SemaphoreSplitBrainTest:0.16
+CountDownLatchSplitBrainTest:0.12
+LockSplitBrainTest:0.08666666666666667

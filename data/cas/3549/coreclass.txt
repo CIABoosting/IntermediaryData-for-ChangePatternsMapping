@@ -1,0 +1,8 @@
+JaasAuthenticationProperties:0.34
+CasCoreAuthenticationHandlersConfiguration:0.31666666666666665
+X509CredentialsAuthenticationHandler:0.26666666666666666
+DuoSecurityAuthenticationEventExecutionPlanConfiguration:0.2
+YubiKeyAuthenticationHandler:0.2
+CasJdbcAuthenticationConfiguration:0.19
+CasCoreAuditConfiguration:0.18333333333333332
+HealthCheckController:0.14

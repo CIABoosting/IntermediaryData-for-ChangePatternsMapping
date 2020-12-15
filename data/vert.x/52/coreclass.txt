@@ -1,0 +1,16 @@
+Pool:0.5
+HttpClientOptions:0.39666666666666667
+Http1xTest:0.3333333333333333
+StreamImpl:0.25666666666666665
+ConnectionPoolTest:0.24666666666666667
+Http2ClientStream:0.24166666666666667
+Http2Test:0.20516666666666666
+Http2ClientConnection:0.19333333333333333
+FakeConnection:0.19
+Http1xClientConnection:0.18333333333333332
+ConnectionManager:0.15
+ConnectionListener:0.14277777777777775
+FakeWaiter:0.14
+HttpUtils:0.13
+FakeConnectionManager:0.08666666666666667
+Holder:0.02722222222222222

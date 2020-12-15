@@ -1,0 +1,14 @@
+AtomicReferenceBasicTest:0.30333333333333334
+ResponseTemplate:0.27055555555555555
+ClientAtomicLongTest:0.25333333333333335
+AbstractMessageTask:0.24666666666666667
+ClientEngineImpl:0.24
+ResponseThread:0.20666666666666667
+FailingFunction:0.18333333333333332
+MemberLeftException:0.17333333333333334
+ClientInvocationServiceSupport:0.14416666666666667
+CallerNotMemberException:0.11
+PartitionMigratingException:0.11
+ConfigurationException:0.11
+TargetDisconnectedException:0.07361111111111111
+WrongTargetException:0.04

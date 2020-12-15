@@ -1,0 +1,15 @@
+SimpleEntryView:0.63
+MapService:0.39
+RecordStatistics:0.36
+ClusterServiceImpl:0.29
+EntryOperation:0.24666666666666667
+MultipleEntryOperation:0.21666666666666667
+PartitionWideEntryOperation:0.21666666666666667
+PutAllOperation:0.20333333333333334
+AbstractTxnMapRequest:0.19666666666666666
+SizeEstimatorTest:0.19
+DefaultRecordStore:0.18666666666666668
+CacheRecord:0.18166666666666667
+GetEntryViewOperation:0.16666666666666666
+BasePutOperation:0.15666666666666668
+Merger:0.12

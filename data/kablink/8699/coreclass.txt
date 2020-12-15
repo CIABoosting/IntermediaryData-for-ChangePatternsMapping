@@ -1,0 +1,14 @@
+LuceneReadSession:0.66
+LuceneSessionFactory:0.5833333333333334
+LuceneWriteSession:0.5533333333333333
+IndexSynchronizationManager:0.38666666666666666
+EntityIndexUtils:0.38
+BinderModuleImpl:0.25
+AbstractBinderProcessor:0.24
+AbstractEntryProcessor:0.18666666666666668
+FileModuleImpl:0.18
+AbstractFolderModule:0.17666666666666667
+AbstractLuceneSessionFactory:0.14
+LocalLuceneWriteSession:0.10333333333333333
+LocalLuceneSessionFactory:0.0811111111111111
+LocalLuceneReadSession:0.06666666666666667

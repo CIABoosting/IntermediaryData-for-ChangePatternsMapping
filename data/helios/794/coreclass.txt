@@ -1,0 +1,13 @@
+Paths:0.54
+MasterConfig:0.28
+SystemTestBase:0.25
+ServiceParser:0.23666666666666666
+MockCuratorClientFactory:0.23
+AgentConfig:0.22333333333333333
+CuratorClientFactoryImpl:0.13666666666666666
+CuratorClientFactory:0.1225
+MasterParser:0.09666666666666666
+AgentParser:0.09666666666666666
+MasterRespondsWithNoZKTest:0.08
+MasterService:0.07666666666666666
+AgentService:0.07

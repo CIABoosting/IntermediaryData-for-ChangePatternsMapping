@@ -1,0 +1,8 @@
+SubsamplingLayer:0.35
+ConvolutionLayer:0.29333333333333333
+RnnOutputLayer:0.29
+GravesLSTM:0.2866666666666667
+DenseLayer:0.23333333333333334
+OutputLayer:0.15333333333333332
+TestInvalidConfigurations:0.10666666666666667
+TestInvalidInput:0.09333333333333334

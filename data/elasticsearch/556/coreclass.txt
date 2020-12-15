@@ -1,0 +1,14 @@
+IndexShard:0.58
+ReplicationGroup:0.37666666666666665
+RecoveryTarget:0.3
+EngineTestCase:0.27666666666666667
+RecoveryTargetHandler:0.215
+IndexShardTests:0.21333333333333335
+IndexShardTestCase:0.19333333333333333
+InternalEngineTests:0.16333333333333333
+RecoveryHandoffPrimaryContextRequest:0.16
+TestPrimary:0.14666666666666667
+PrimaryRef:0.14
+ReplicationOperationTests:0.09333333333333334
+RemoteRecoveryTargetHandler:0.07333333333333333
+ReplicationOperation:0.043333333333333335

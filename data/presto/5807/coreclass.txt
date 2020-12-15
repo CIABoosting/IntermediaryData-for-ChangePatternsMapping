@@ -1,0 +1,12 @@
+TestingDatabase:0.45666666666666667
+BaseJdbcClient:0.42
+AbstractTestDistributedQueries:0.27305555555555555
+JdbcRecordCursor:0.24666666666666667
+AbstractTestQueryFramework:0.20833333333333334
+TestJdbcMetadata:0.19666666666666666
+MySqlClient:0.16666666666666666
+TestJdbcRecordSet:0.14666666666666667
+TestJdbcRecordSetProvider:0.10333333333333333
+TestPostgreSqlDistributedQueries:0.1
+TestJdbcClient:0.09666666666666666
+TestMySqlDistributedQueries:0.03333333333333333

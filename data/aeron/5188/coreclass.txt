@@ -1,0 +1,15 @@
+Publication:0.4533333333333333
+Receiver:0.38
+DriverConnection:0.32666666666666666
+LogAppender:0.2966666666666667
+DataPacketDispatcher:0.22894444444444445
+ReceiverTest:0.22166666666666668
+ClientConductor:0.21
+ClientProxy:0.19666666666666666
+EventCodec:0.19333333333333333
+PublicationBuffersReadyFlyweight:0.16
+ReceiveChannelEndpoint:0.13666666666666666
+DriverListenerAdapter:0.11
+NakMessageSender:0.006944444444444445
+DriverConnectionConductorFields:0.0
+DriverConnectionHotFields:0.0

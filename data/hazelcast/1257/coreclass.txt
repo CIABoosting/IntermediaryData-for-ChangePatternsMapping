@@ -1,0 +1,17 @@
+MapServiceContext:0.6933333333333334
+QueryCacheContext:0.5933333333333334
+QueryCacheEventService:0.5233333333333333
+QueryCacheEndToEndProvider:0.36333333333333334
+EventServiceSegment:0.29
+NodeQueryCacheEventService:0.28
+DefaultQueryCache:0.27
+ClientQueryCacheContext:0.24333333333333335
+DestroyQueryCacheOperation:0.24333333333333335
+NodeQueryCacheContext:0.22
+ClientQueryCacheEventService:0.21333333333333335
+AbstractQueryCacheEndToEndConstructor:0.20666666666666667
+MapServiceContextImpl:0.2
+QueryCacheToListenerMapper:0.18333333333333332
+AbstractSubscriberContext:0.12666666666666668
+ClientQueryCacheMemoryLeakTest:0.12
+QueryCacheMemoryLeakTest:0.1

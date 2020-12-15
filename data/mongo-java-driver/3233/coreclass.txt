@@ -1,0 +1,15 @@
+Mongo:0.6
+ItemFactory:0.39
+MongoClientOptions:0.26
+DefaultConnectionProvider:0.22666666666666666
+ConcurrentPool:0.22333333333333333
+DefaultConnectionProviderSettings:0.21666666666666667
+Builder:0.20333333333333334
+MongoClientURI:0.2
+PowerOfTwoBufferPool:0.18666666666666668
+PooledConnection:0.18166666666666667
+MongoClients:0.15666666666666668
+DefaultAsyncConnectionProvider:0.15666666666666668
+MongoClientOptionsTest:0.14666666666666667
+ConcurrentPoolTest:0.08
+TestCloseable:0.03888888888888889

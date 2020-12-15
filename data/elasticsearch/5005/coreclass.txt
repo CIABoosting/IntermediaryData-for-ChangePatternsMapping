@@ -1,0 +1,10 @@
+SearchTemplateRequest:0.5297777777777778
+BulkRequest:0.4266666666666667
+ReindexRequest:0.39142857142857146
+MultiGetRequest:0.26
+MultiTermVectorsRequest:0.25666666666666665
+MultiSearchRequest:0.23333333333333334
+MultiPercolateRequest:0.22333333333333333
+TransportNoopBulkAction:0.20666666666666667
+MultiSearchTemplateRequest:0.15333333333333332
+CompositeIndicesRequest:0.0

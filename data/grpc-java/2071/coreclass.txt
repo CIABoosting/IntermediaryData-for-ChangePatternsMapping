@@ -1,0 +1,12 @@
+HttpUtil:0.33
+Headers:0.32666666666666666
+Utils:0.28
+OkHttpClientTransportTest:0.2733333333333333
+CallImpl:0.20833333333333334
+ChannelImpl:0.18
+Http2ClientStream:0.16333333333333333
+ChannelImplTest:0.12666666666666668
+EchoServerListener:0.07666666666666666
+EchoServerStreamListener:0.043333333333333335
+NettyClientTransportTest:0.03666666666666667
+AbstractChannelBuilder:0.03666666666666667

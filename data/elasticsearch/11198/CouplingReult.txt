@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.elasticsearch.ingest.core.AbstractProcessorFactory: 
+new Added class 1 : org.elasticsearch.ingest.processor.AppendProcessorFactoryTests: 
+new Added class 2 : org.elasticsearch.ingest.processor.ConvertProcessorFactoryTests: 
+new Added class 3 : org.elasticsearch.ingest.processor.DateProcessorFactoryTests: 
+new Added class 4 : org.elasticsearch.ingest.processor.DeDotProcessorFactoryTests: 
+new Added class 5 : org.elasticsearch.ingest.processor.FailProcessorFactoryTests: 
+new Added class 6 : org.elasticsearch.ingest.geoip.GeoIpProcessorFactoryTests: 
+new Added class 7 : org.elasticsearch.ingest.grok.GrokProcessorFactoryTests: 
+new Added class 8 : org.elasticsearch.ingest.processor.GsubProcessorFactoryTests: 
+new Added class 9 : org.elasticsearch.ingest.processor.JoinProcessorFactoryTests: 
+new Added class 10 : org.elasticsearch.ingest.processor.LowercaseProcessorFactoryTests: 
+new Added class 11 : org.elasticsearch.ingest.core.PipelineFactoryTests: 
+new Added class 12 : org.elasticsearch.ingest.processor.RemoveProcessorFactoryTests: 
+new Added class 13 : org.elasticsearch.ingest.processor.RenameProcessorFactoryTests: 
+new Added class 14 : org.elasticsearch.ingest.processor.SetProcessorFactoryTests: 
+new Added class 15 : org.elasticsearch.action.ingest.SimulateProcessorResult: 
+new Added class 16 : org.elasticsearch.ingest.processor.SplitProcessorFactoryTests: 
+new Added class 17 : org.elasticsearch.ingest.processor.TrimProcessorFactoryTests: 
+new Added class 18 : org.elasticsearch.ingest.processor.UppercaseProcessorFactoryTests: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

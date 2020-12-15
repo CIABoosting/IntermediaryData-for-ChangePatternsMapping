@@ -1,0 +1,12 @@
+StoredQuery:0.5333333333333333
+UpdateStatusCommand:0.4666666666666667
+GetDocuments:0.24031746031746035
+UpdateStatusCommandValidator:0.23
+GetRelatedDocuments:0.22166666666666668
+DeleteDocumentSetRequest:0.15883333333333333
+GetSubmissionSets:0.129
+GetFolders:0.129
+GetFolderAndContents:0.04
+GetFoldersForDocument:0.04
+GetSubmissionSetAndContents:0.04
+GetDocumentsAndAssociations:0.02666666666666667

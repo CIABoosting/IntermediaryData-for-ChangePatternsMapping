@@ -1,0 +1,30 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.makagiga.commons.AbstractMarkupBuilder: 
+new Added class 1 : org.makagiga.chart.ChartModel: 
+new Added class 2 : org.makagiga.commons.ConfigFileimplements: 
+new Added class 3 : org.makagiga.commons.ElementList: 
+new Added class 4 : org.makagiga.fs.feeds.FeedsFS: 
+new Added class 5 : org.makagiga.fs.feeds.ExportAction: 
+new Added class 6 : org.makagiga.fs.feeds.FetchFeedsAction: 
+new Added class 7 : org.makagiga.fs.feeds.ImportAction: 
+new Added class 8 : org.makagiga.fs.feeds.ImportFromLifereaAction: 
+new Added class 9 : org.makagiga.fs.feeds.MarkFeedsAsReadAction: 
+new Added class 10 : org.makagiga.fs.feeds.MarkFeedsAsUnreadAction: 
+new Added class 11 : org.makagiga.commons.FS: 
+new Added class 12 : org.makagiga.commons.MFlipPanel: 
+new Added class 13 : org.makagiga.commons.MProperties: 
+new Added class 14 : org.makagiga.commons.MSlider: 
+new Added class 15 : org.makagiga.commons.MText: 
+new Added class 16 : org.makagiga.commons.MTogglePanel: 
+new Added class 17 : org.makagiga.commons.SimpleXMLReader: 
+new Added class 18 : org.makagiga.todo.TaskModel: 
+testing relationship 
+class 1  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 11£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:5  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:6  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  2   6 :  0   7 :  5   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  16   14 :  0   15 :  0   16 :  0   17 :  0   

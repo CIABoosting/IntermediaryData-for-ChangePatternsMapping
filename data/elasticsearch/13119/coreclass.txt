@@ -1,0 +1,11 @@
+Balancer:0.32666666666666666
+BalancedShardsAllocator:0.25666666666666665
+S3BlobContainer:0.24666666666666667
+AzureBlobContainer:0.23666666666666666
+ESAllocationTestCase:0.23333333333333334
+RoutingAllocation:0.21666666666666667
+PrimaryShardAllocator:0.21
+TransportRecoveryAction:0.20666666666666667
+ShardsAllocators:0.20666666666666667
+ClusterRebalanceRoutingTests:0.03666666666666667
+FullRollingRestartIT:0.013333333333333334

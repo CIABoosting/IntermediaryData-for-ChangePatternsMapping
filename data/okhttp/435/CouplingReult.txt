@@ -1,0 +1,19 @@
+Compared Result of  two versions
+Number of New Class: 13
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : okhttp3.CacheTest: 
+new Added class 1 : okhttp3.CallTest: 
+new Added class 2 : okhttp3.internal.tls.CertificatePinnerChainValidationTest: 
+new Added class 3 : okhttp3.internal.tls.ClientAuthTest: 
+new Added class 4 : okhttp3.ConnectionReuseTest: 
+new Added class 5 : okhttp3.internal.http.DisconnectTest: 
+new Added class 6 : okhttp3.DispatcherTest: 
+new Added class 7 : okhttp3.internal.http2.HttpOverHttp2Test: 
+new Added class 8 : okhttp3.SocksProxyTest: 
+new Added class 9 : okhttp3.internal.http.ThreadInterruptTest: 
+new Added class 10 : okhttp3.URLConnectionTest: 
+new Added class 11 : okhttp3.RecordingTrustManager: 
+new Added class 12 : okhttp3.WebSocketCallTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

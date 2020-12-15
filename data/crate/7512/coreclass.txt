@@ -1,0 +1,13 @@
+ParsedStatement:0.43
+GroupByRow:0.39666666666666667
+BenchmarkBase:0.2833333333333333
+QueryVisitor:0.24666666666666667
+SQLGroupingCollector:0.12
+CountDistinctAggFunction:0.07083333333333333
+AnyAggFunction:0.06416666666666666
+CountStarAggFunction:0.06416666666666666
+CountColumnAggFunction:0.06416666666666666
+MaxAggFunction:0.05
+SumAggFunction:0.05
+AvgAggFunction:0.05
+MinAggFunction:0.05

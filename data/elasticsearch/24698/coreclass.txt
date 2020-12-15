@@ -1,0 +1,10 @@
+DirectCandidateGenerator:0.41
+WordScorer:0.32
+NoisyChannelSpellCheckerTests:0.2744444444444445
+WordScorerFactory:0.25666666666666665
+PhraseSuggestParser:0.21666666666666667
+SuggestSearchTests:0.18333333333333332
+StupidBackoffScorer:0.08333333333333333
+LaplaceScorer:0.08333333333333333
+LinearInterpoatingScorer:0.08
+PhraseSuggester:0.04

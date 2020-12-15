@@ -1,0 +1,65 @@
+Compared Result of  two versions
+Number of New Class: 51
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.springframework.batch.sample.domain.order.AddressFieldSetMapperTests: 
+new Added class 1 : org.springframework.batch.sample.domain.order.BillingFieldSetMapperTests: 
+new Added class 2 : org.springframework.batch.sample.common.ConfigurableSystemProcessExitCodeMapper: 
+new Added class 3 : org.springframework.batch.sample.common.ConfigurableSystemProcessExitCodeMapperTests: 
+new Added class 4 : org.springframework.batch.sample.domain.trade.internal.CustomerCreditIncreaseProcessorTests: 
+new Added class 5 : org.springframework.batch.sample.domain.trade.internal.CustomerCreditUpdatePreparedStatementSetterTests: 
+new Added class 6 : org.springframework.batch.sample.domain.order.CustomerFieldSetMapperTests: 
+new Added class 7 : org.springframework.batch.sample.domain.trade.internal.CustomerUpdateProcessorTests: 
+new Added class 8 : org.springframework.batch.sample.launch.DefaultJobLoader: 
+new Added class 9 : org.springframework.batch.sample.common.FieldSetResultSetExtractor: 
+new Added class 10 : org.springframework.batch.sample.tasklet.FileDeletingTasklet: 
+new Added class 11 : org.springframework.batch.sample.domain.order.FlatFileOrderWriterTests: 
+new Added class 12 : org.springframework.batch.sample.domain.order.internal.valang.FutureDateFunction: 
+new Added class 13 : org.springframework.batch.sample.domain.order.internal.valang.FutureDateFunctionTests: 
+new Added class 14 : org.springframework.batch.sample.domain.trade.internal.GeneratingItemReaderTests: 
+new Added class 15 : org.springframework.batch.sample.domain.order.HeaderFieldSetMapperTests: 
+new Added class 16 : org.springframework.batch.sample.domain.trade.internal.JdbcCustomerDebitDaoTests: 
+new Added class 17 : org.springframework.batch.sample.domain.football.internal.JdbcGameDaoIntegrationTests: 
+new Added class 18 : org.springframework.batch.sample.jmx.JobExecutionNotificationPublisher: 
+new Added class 19 : org.springframework.batch.sample.jmx.JobExecutionNotificationPublisherTests: 
+new Added class 20 : org.springframework.batch.sample.quartz.JobLauncherDetails: 
+new Added class 21 : org.springframework.batch.sample.support.JobSupport: 
+new Added class 22 : org.springframework.batch.sample.common.LogAdvice: 
+new Added class 23 : org.springframework.batch.sample.domain.order.OrderItemFieldSetMapperTests: 
+new Added class 24 : org.springframework.batch.sample.domain.order.internal.OrderItemReader: 
+new Added class 25 : org.springframework.batch.sample.domain.order.OrderItemReaderTests: 
+new Added class 26 : org.springframework.batch.sample.domain.order.internal.OrderTransformer: 
+new Added class 27 : org.springframework.batch.sample.domain.order.OrderTransformerTests: 
+new Added class 28 : org.springframework.batch.sample.domain.person.PersonService: 
+new Added class 29 : org.springframework.batch.sample.domain.person.internal.PersonWriter: 
+new Added class 30 : org.springframework.batch.sample.launch.RemoteLauncherTests: 
+new Added class 31 : org.springframework.batch.sample.support.RetrySampleItemWriterTests: 
+new Added class 32 : org.springframework.batch.sample.domain.order.ShippingFieldSetMapperTests: 
+new Added class 33 : org.springframework.batch.sample.jmx.SimpleMessageApplicationEvent: 
+new Added class 34 : org.springframework.batch.sample.common.SimpleSystemProcessExitCodeMapperTests: 
+new Added class 35 : org.springframework.batch.sample.common.StagingItemWriter: 
+new Added class 36 : org.springframework.batch.sample.jmx.StepExecutionApplicationEventAdvice: 
+new Added class 37 : org.springframework.batch.sample.support.StepSupport: 
+new Added class 38 : org.springframework.batch.sample.common.SystemCommandTaskletIntegrationTests: 
+new Added class 39 : org.springframework.batch.sample.TaskletJobFunctionalTests: 
+new Added class 40 : org.springframework.batch.sample.domain.order.internal.valang.TotalOrderItemsFunction: 
+new Added class 41 : org.springframework.batch.sample.domain.order.internal.valang.TotalOrderItemsFunctionTests: 
+new Added class 42 : org.springframework.batch.sample.domain.trade.TradeDao: 
+new Added class 43 : org.springframework.batch.sample.domain.trade.internal.TradeFieldSetMapperTests: 
+new Added class 44 : org.springframework.batch.sample.domain.order.internal.valang.ValidateDiscountsFunctionTests: 
+new Added class 45 : org.springframework.batch.sample.domain.order.internal.valang.ValidateHandlingPricesFunctionTests: 
+new Added class 46 : org.springframework.batch.sample.domain.order.internal.valang.ValidateIdsFunctionTests: 
+new Added class 47 : org.springframework.batch.sample.domain.order.internal.valang.ValidatePricesFunctionTests: 
+new Added class 48 : org.springframework.batch.sample.domain.order.internal.valang.ValidateQuantitiesFunctionTests: 
+new Added class 49 : org.springframework.batch.sample.domain.order.internal.valang.ValidateShippingPricesFunctionTests: 
+new Added class 50 : org.springframework.batch.sample.domain.order.internal.valang.ValidateTotalPricesFunctionTests: 
+testing relationship 
+class 3  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 24£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:9  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 27  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  1   5 :  0   6 :  0   7 :  0   8 :  4   9 :  0   10 :  22   11 :  2   12 :  0   13 :  1   14 :  0   15 :  0   16 :  0   17 :  0   

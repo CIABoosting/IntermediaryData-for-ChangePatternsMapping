@@ -1,0 +1,14 @@
+EntryBackupOperation:0.4633333333333333
+EntryOperation:0.42333333333333334
+EntryOffloadableSetUnlockOperation:0.4033333333333333
+AbstractMultipleEntryBackupOperation:0.38
+MutatingKeyBasedMapOperation:0.3
+PartitionWideEntryBackupOperation:0.27666666666666667
+LazyMapEntry:0.26666666666666666
+MultipleEntryOperation:0.26
+MapEventPublisherImpl:0.24333333333333335
+MultipleEntryBackupOperation:0.22777777777777777
+PartitionWideEntryWithPredicateOperation:0.19666666666666666
+PartitionWideEntryOperation:0.19
+MultipleEntryWithPredicateBackupOperation:0.09777777777777777
+MultipleEntryWithPredicateOperation:0.09

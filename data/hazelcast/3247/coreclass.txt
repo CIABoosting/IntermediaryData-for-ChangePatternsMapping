@@ -1,0 +1,13 @@
+Cluster:0.5433333333333333
+Node:0.4066666666666667
+MembershipManager:0.38
+ClusterServiceImpl:0.3433333333333333
+ClientClusterProxy:0.25666666666666665
+ClusterJoinManager:0.22666666666666666
+MembersUpdateOp:0.22333333333333333
+MulticastJoiner:0.22333333333333333
+ClusterHeartbeatManager:0.21
+NodeEngineImpl:0.20111111111111113
+InternalPartitionServiceImpl:0.19
+ClusterMergeTask:0.18166666666666667
+ClusterDataSerializerHook:0.1

@@ -1,0 +1,14 @@
+ShardRouting:0.5566666666666666
+RoutingNodes:0.4866666666666667
+AllocationId:0.32
+PrimaryShardAllocatorTests:0.25333333333333335
+ShardRoutingHelper:0.25333333333333335
+AllocationIdTests:0.23166666666666666
+PrimaryShardAllocator:0.19666666666666666
+Balancer:0.17333333333333334
+UnassignedInfoTests:0.16666666666666666
+NodeGatewayStartedShards:0.15333333333333332
+RandomShardRoutingMutator:0.14
+ShardRoutingTests:0.12666666666666668
+NodesToAllocate:0.023333333333333334
+NodeShardsResult:0.0

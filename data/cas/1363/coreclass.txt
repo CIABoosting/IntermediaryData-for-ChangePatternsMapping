@@ -1,0 +1,16 @@
+ConsentDecision:0.6966666666666667
+ConsentEngine:0.34722222222222227
+LdapConsentRepositoryTests:0.27
+CasSecurityContextConfiguration:0.22666666666666666
+CasAdminStatusInterceptor:0.22666666666666666
+BaseConsentRepository:0.22166666666666668
+DefaultConsentEngine:0.18
+ConsentRepository:0.17
+LdapConsentRepository:0.15666666666666668
+RestConsentRepository:0.14
+JpaConsentRepository:0.09
+MongoDbConsentRepository:0.08
+ConfirmConsentAction:0.08
+JsonConsentRepository:0.07333333333333333
+GroovyConsentRepository:0.07
+RestConsentRepositoryTests:0.01

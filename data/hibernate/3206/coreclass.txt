@@ -1,0 +1,10 @@
+SessionImpl:0.5733333333333334
+TransactionCompletionProcesses:0.4033333333333333
+AfterTransactionCompletionProcessQueue:0.265
+BeforeTransactionCompletionProcessQueue:0.265
+ActionQueue:0.2633333333333333
+SharedSessionBuilderImpl:0.2088888888888889
+ValidityAuditStrategy:0.20333333333333334
+SessionBuilderImpl:0.17666666666666667
+SessionCacheCleaner:0.12777777777777777
+AbstractTransactionCompletionProcessQueue:0.07

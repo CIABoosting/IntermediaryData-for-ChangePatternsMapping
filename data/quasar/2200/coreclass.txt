@@ -1,0 +1,9 @@
+Fiber:0.38
+AbstractQueuedSynchronizer:0.3433333333333333
+AbstractQueuedLongSynchronizer:0.3433333333333333
+Node:0.2833333333333333
+Strand:0.27
+LocalActor:0.22
+ConditionObject:0.16666666666666666
+FiberOwnedSynchronizer:0.12
+AbstractOwnableSynchronizer:0.05

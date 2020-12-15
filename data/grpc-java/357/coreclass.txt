@@ -1,0 +1,15 @@
+TransportTracer:0.49333333333333335
+NettyServer:0.4
+AbstractTransportTest:0.27666666666666667
+TimeProvider:0.27051984126984113
+NettyChannelBuilder:0.23333333333333334
+NettyClientTransportTest:0.23
+NettyClientTransport:0.21
+NettyServerBuilder:0.19
+AbstractServerImplBuilder:0.17333333333333334
+Factory:0.15666666666666668
+AbstractManagedChannelImplBuilder:0.1475
+NettyServerTransport:0.14
+NettyTransportTest:0.12666666666666668
+NettyServerTest:0.11666666666666667
+NettyTransportFactory:0.08

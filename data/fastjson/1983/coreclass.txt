@@ -1,0 +1,16 @@
+Context:0.5
+SerialContext:0.49666666666666665
+JSONSerializer:0.4033333333333333
+FieldInfo:0.3566666666666667
+TypeUtils:0.25
+ASMSerializerFactory:0.24666666666666667
+DeserializeBeanInfo:0.19666666666666666
+JavaBeanSerializer:0.17666666666666667
+ArraySerializer:0.16
+ListSerializer:0.13
+EnumerationSeriliazer:0.12
+MapSerializer:0.12
+CollectionSerializer:0.12
+MyPropertyPreFilter:0.11
+SerialContextTest:0.09333333333333334
+ObjectArraySerializer:0.09

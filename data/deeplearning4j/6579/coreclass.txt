@@ -1,0 +1,17 @@
+MultiLayerNetwork:0.6866666666666666
+RnnToFeedForwardPreProcessor:0.33
+CnnToFeedForwardPreProcessor:0.12333333333333334
+GradientCheckTests:0.12333333333333334
+ReshapePreProcessorTest:0.12333333333333334
+CNNProcessorTest:0.11333333333333333
+FeedForwardToCnnPreProcessor:0.11333333333333333
+InputPreProcessor:0.10333333333333333
+ReshapePreProcessor:0.1
+TestPreProcessors:0.1
+GRUTest:0.09666666666666666
+FeedForwardToRnnPreProcessor:0.08333333333333333
+ComposableInputPreProcessor:0.06333333333333334
+ZeroMeanAndUnitVariancePreProcessor:0.02666666666666667
+ZeroMeanPrePreProcessor:0.02
+BinomialSamplingPreProcessor:0.02
+UnitVarianceProcessor:0.013333333333333334

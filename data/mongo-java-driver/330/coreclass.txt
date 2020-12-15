@@ -1,0 +1,16 @@
+AsyncQueryBatchCursor:0.42333333333333334
+DBCollection:0.41333333333333333
+AggregateOperation:0.36333333333333334
+MongoCollectionImpl:0.25666666666666665
+RawBsonDocument:0.24305555555555552
+QueryBatchCursor:0.24166666666666667
+AsyncBatchCursor:0.23777777777777775
+AggregateIterable:0.23777777777777775
+MongoCollection:0.20127777777777778
+CollectionHelper:0.18666666666666668
+ProjectingAsyncBatchCursor:0.17333333333333334
+AsyncSingleBatchQueryCursor:0.17333333333333334
+AggregateIterableImpl:0.16666666666666666
+MappingAsyncBatchCursor:0.16333333333333333
+QueryResultSingleResultCallback:0.09333333333333334
+CommandResultSingleResultCallback:0.08333333333333333

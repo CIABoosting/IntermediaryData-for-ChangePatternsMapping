@@ -1,0 +1,17 @@
+Jedis:0.52
+Client:0.38
+BinaryJedis:0.31666666666666665
+BinaryRedisPipeline:0.2833333333333333
+JedisCommands:0.2833333333333333
+JedisClusterCommands:0.2833333333333333
+BinaryJedisCommands:0.2833333333333333
+RedisPipeline:0.2833333333333333
+BinaryJedisClusterCommands:0.2833333333333333
+Commands:0.2833333333333333
+BinaryClient:0.25333333333333335
+JedisCluster:0.23333333333333334
+PipelineBase:0.22666666666666666
+ShardedJedis:0.20666666666666667
+SortedSetCommandsTest:0.15
+BinaryJedisCluster:0.15
+BinaryShardedJedis:0.145

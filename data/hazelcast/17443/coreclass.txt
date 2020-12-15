@@ -1,0 +1,12 @@
+ClientProxy:0.48
+ClientConditionProxy:0.42142857142857143
+ClientExecutorServiceProxy:0.3
+ClientAtomicReferenceProxy:0.23
+ClientSemaphoreProxy:0.23
+AbstractClientCollectionProxy:0.23
+ClientAtomicLongProxy:0.23
+ClientTopicProxy:0.215
+ClientCountDownLatchProxy:0.215
+ClientMultiMapProxy:0.19583333333333333
+ClientQueueProxy:0.19583333333333333
+ClientLockProxy:0.16

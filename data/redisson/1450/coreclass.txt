@@ -1,0 +1,16 @@
+RedisConnection:0.37
+RedissonRemoteService:0.33666666666666667
+RemoteInterface:0.29503968253968255
+RemoteInterfaceAsync:0.29503968253968255
+RemoteServiceRequest:0.255
+RemoteServiceResponse:0.255
+RemoteInvocationOptions:0.25333333333333335
+CommandAsyncService:0.24666666666666667
+RedissonExecutorServiceTest:0.22666666666666666
+RRemoteService:0.18365079365079365
+RedissonExecutorService:0.15333333333333332
+ConnectionWatchdog:0.14333333333333334
+RExecutorService:0.125
+RedissonRemoteServiceTest:0.10333333333333333
+RemoteImpl:0.10277777777777777
+RemotePromise:0.043333333333333335

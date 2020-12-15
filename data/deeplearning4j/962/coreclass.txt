@@ -1,0 +1,14 @@
+Layer:0.6866666666666666
+MultiLayerNetwork:0.4166666666666667
+ComputationGraph:0.32666666666666666
+BaseLayer:0.2866666666666667
+SimpleOptimizableModel:0.27
+FrozenLayer:0.27
+DropoutLayer:0.24666666666666667
+RBM:0.23
+BaseOutputLayer:0.20666666666666667
+ActivationLayer:0.20333333333333334
+ConvolutionLayer:0.2
+VariationalAutoencoder:0.1980952380952381
+RnnOutputLayer:0.19666666666666666
+AbstractLayer:0.15666666666666668

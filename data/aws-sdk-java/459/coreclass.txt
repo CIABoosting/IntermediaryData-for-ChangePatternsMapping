@@ -1,0 +1,8 @@
+AmazonS3:0.8475
+BatchListObjectAttributes:0.29
+AbstractAmazonS3:0.26
+ListObjectAttributesRequest:0.23666666666666666
+TransferManager:0.19666666666666666
+BatchListObjectAttributesMarshaller:0.19111111111111112
+BatchListObjectAttributesJsonUnmarshaller:0.16111111111111112
+ListObjectAttributesRequestMarshaller:0.15333333333333332

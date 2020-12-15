@@ -1,0 +1,14 @@
+OutOfMemoryErrorDispatcher:0.42333333333333334
+EmptyOutOfMemoryHandler:0.3
+Hazelcast:0.28611111111111115
+OperationThread:0.25333333333333335
+OutOfMemoryHandler:0.24666666666666667
+HazelcastInstanceFactory:0.24333333333333335
+ResponseThread:0.23
+BackupTimeoutHandlerThread:0.19666666666666666
+HazelcastClient:0.18666666666666668
+OutOfMemoryErrorDispatcherTest:0.18
+MigrationThread:0.16333333333333333
+HealthMonitor:0.14666666666666667
+Worker:0.10666666666666667
+ClientOutOfMemoryHandler:0.01

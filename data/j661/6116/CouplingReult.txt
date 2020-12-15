@@ -1,0 +1,84 @@
+Compared Result of  two versions
+Number of New Class: 75
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : arinc661.common.model.AbstractWidgetFactoryTest: 
+new Added class 1 : arinc661.common.parser.AbstractWidgetRefHandler2Test: 
+new Added class 2 : arinc661.common.parser.AbstractWidgetRefHandler3Test: 
+new Added class 3 : arinc661.common.parser.AbstractWidgetRefHandler4Test: 
+new Added class 4 : arinc661.common.parser.AbstractWidgetRefHandler5Test: 
+new Added class 5 : arinc661.common.parser.AbstractWidgetRefHandler6Test: 
+new Added class 6 : arinc661.common.parser.AbstractWidgetRefHandlerTest: 
+new Added class 7 : arinc661.common.parser.CheckARINCDefinitionTest: 
+new Added class 8 : arinc661.common.utils.Converter2Test: 
+new Added class 9 : arinc661.common.utils.Converter3Test: 
+new Added class 10 : arinc661.common.utils.ConverterTest: 
+new Added class 11 : arinc661.common.model.DefaultApplicationsTest: 
+new Added class 12 : arinc661.common.ext.DefaultStringConverterTest: 
+new Added class 13 : arinc661.common.parser.GraphicsConfigHandlerTest: 
+new Added class 14 : arinc661.common.utils.HexaDecoderTest: 
+new Added class 15 : arinc661.common.parser.HexConverterTest: 
+new Added class 16 : arinc661.common.conf.LimitedSecurityManager: 
+new Added class 17 : arinc661.common.conf.LoggerProvider: 
+new Added class 18 : arinc661.common.conf.LoggerProvider2: 
+new Added class 19 : arinc661.common.conf.Logging2Test: 
+new Added class 20 : arinc661.common.conf.Logging3Test: 
+new Added class 21 : arinc661.common.conf.Logging4Test: 
+new Added class 22 : arinc661.common.conf.Logging5Test: 
+new Added class 23 : arinc661.common.conf.LoggingTest: 
+new Added class 24 : arinc661.common.parser.LooseSchemaXMLDFParserTest: 
+new Added class 25 : arinc661.common.com.MultiLayersMessagesTest: 
+new Added class 26 : arinc661.common.com.NetworkBlockingTest: 
+new Added class 27 : arinc661.common.com.NetworkConfigBasicTest: 
+new Added class 28 : arinc661.common.com.NetworkDisableTest: 
+new Added class 29 : arinc661.common.parser.NetworkHandler2Test: 
+new Added class 30 : arinc661.common.parser.NetworkHandlerKOTest: 
+new Added class 31 : arinc661.common.parser.NetworkHandlerTest: 
+new Added class 32 : arinc661.common.com.NetworkRedirect2Test: 
+new Added class 33 : arinc661.common.com.NetworkRedirect3Test: 
+new Added class 34 : arinc661.common.com.NetworkRedirectTest: 
+new Added class 35 : arinc661.common.com.NetworkTCP2Test: 
+new Added class 36 : arinc661.common.com.NetworkTCP3Test: 
+new Added class 37 : arinc661.common.com.NetworkTCP4Test: 
+new Added class 38 : arinc661.common.com.NetworkTCP5Test: 
+new Added class 39 : arinc661.common.com.NetworkTCP6Test: 
+new Added class 40 : arinc661.common.com.NetworkTCPTest: 
+new Added class 41 : arinc661.common.com.NetworkTCPUniquePortTest: 
+new Added class 42 : arinc661.common.com.NetworkTest: 
+new Added class 43 : arinc661.common.com.NetworkUDPMultiOutputPort2Test: 
+new Added class 44 : arinc661.common.com.NetworkUDPMultiOutputPortTest: 
+new Added class 45 : arinc661.common.com.NetworkWebProtocolConfig2Test: 
+new Added class 46 : arinc661.common.com.NetworkWebProtocolConfigTest: 
+new Added class 47 : arinc661.common.com.NetworkWebProtocolTest: 
+new Added class 48 : arinc661.common.com.NetworkWithConfiguration2Test: 
+new Added class 49 : arinc661.common.com.NetworkWithConfiguration3Test: 
+new Added class 50 : arinc661.common.com.NetworkWithConfiguration4Test: 
+new Added class 51 : arinc661.common.com.NetworkWithConfigurationTest: 
+new Added class 52 : arinc661.common.parser.PicturesHandlerTest: 
+new Added class 53 : arinc661.common.a661.ProtocolInputDecoderClientTest: 
+new Added class 54 : arinc661.common.a661.ProtocolInputDecoderClient_4Test: 
+new Added class 55 : arinc661.common.a661.ProtocolInputDecoderClient_5Test: 
+new Added class 56 : arinc661.common.a661.ProtocolInputDecoderClient_6Test: 
+new Added class 57 : arinc661.common.a661.ProtocolInputDecoderServerTest: 
+new Added class 58 : arinc661.common.a661.ProtocolInputDecoderServer_10Test: 
+new Added class 59 : arinc661.common.a661.ProtocolInputDecoderServer_2Test: 
+new Added class 60 : arinc661.common.a661.ProtocolInputDecoderServer_3Test: 
+new Added class 61 : arinc661.common.a661.ProtocolInputDecoderServer_7Test: 
+new Added class 62 : arinc661.common.a661.ProtocolInputDecoderServer_8Test: 
+new Added class 63 : arinc661.common.a661.ProtocolInputDecoderServer_9Supp3Test: 
+new Added class 64 : arinc661.common.a661.ProtocolInputDecoderServer_9Supp5Test: 
+new Added class 65 : arinc661.common.a661.ProtocolInputDecoderServer_KOTest: 
+new Added class 66 : arinc661.common.parser.StrictSchemaXMLDFParserTest: 
+new Added class 67 : arinc661.common.model.StringWrapperTest: 
+new Added class 68 : arinc661.common.parser.StyleSetsHandlerTest: 
+new Added class 69 : arinc661.common.utils.UtilitiesTest: 
+new Added class 70 : arinc661.common.model.xml.XMLMessageTest: 
+new Added class 71 : arinc661.common.model.xml.XMLTypeTest: 
+new Added class 72 : arinc661.common.model.xml.XMLWidget2Test: 
+new Added class 73 : arinc661.common.model.xml.XMLWidgetServerTest: 
+new Added class 74 : arinc661.common.model.xml.XMLWidgetTest: 
+testing relationship 
+class 19  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  7   12 :  0   13 :  7   14 :  0   15 :  0   16 :  0   17 :  0   

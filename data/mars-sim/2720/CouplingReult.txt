@@ -1,0 +1,25 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.mars_sim.msp.ui.swing.unit_window.structure.building.AstronomicalObservationBuildingPanel: 
+new Added class 1 : org.mars_sim.msp.ui.swing.unit_window.structure.building.BuildingPanel: 
+new Added class 2 : org.mars_sim.msp.ui.swing.unit_window.structure.building.CookingBuildingPanel: 
+new Added class 3 : org.mars_sim.msp.ui.swing.unit_window.structure.building.FarmingBuildingPanel: 
+new Added class 4 : org.mars_sim.msp.ui.swing.unit_window.person.HealthTabPanel: 
+new Added class 5 : org.mars_sim.msp.ui.swing.unit_window.structure.building.InhabitableBuildingPanel: 
+new Added class 6 : org.mars_sim.msp.ui.swing.unit_window.structure.building.MaintenanceBuildingPanel: 
+new Added class 7 : org.mars_sim.msp.ui.swing.unit_window.structure.building.MalfunctionableBuildingPanel: 
+new Added class 8 : org.mars_sim.msp.ui.swing.unit_window.structure.building.ManufactureBuildingPanel: 
+new Added class 9 : org.mars_sim.msp.ui.swing.unit_window.structure.building.MedicalCareBuildingPanel: 
+new Added class 10 : org.mars_sim.msp.ui.swing.unit_window.person.PersonWindow: 
+new Added class 11 : org.mars_sim.msp.ui.swing.unit_window.structure.building.PowerBuildingPanelextends: 
+new Added class 12 : org.mars_sim.msp.ui.swing.unit_window.structure.building.PowerStorageBuildingPanel: 
+new Added class 13 : org.mars_sim.msp.ui.swing.unit_window.structure.building.ResearchBuildingPanelextends: 
+new Added class 14 : org.mars_sim.msp.ui.swing.unit_window.structure.building.ResourceProcessingBuildingPanel: 
+new Added class 15 : org.mars_sim.msp.ui.swing.unit_window.person.ScienceTabPanelextends: 
+new Added class 16 : org.mars_sim.msp.ui.swing.unit_window.person.SkillTabPanelextends: 
+new Added class 17 : org.mars_sim.msp.ui.swing.unit_window.structure.building.StorageBuildingPanel: 
+new Added class 18 : org.mars_sim.msp.ui.swing.unit_window.structure.building.VehicleMaintenanceBuildingPanel: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

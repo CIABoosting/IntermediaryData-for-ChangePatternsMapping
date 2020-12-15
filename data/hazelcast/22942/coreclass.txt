@@ -1,0 +1,9 @@
+TxPutIfAbsentOperation:0.35
+MapClientProxy:0.27166666666666667
+DataMapProxy:0.24333333333333335
+ObjectMapProxy:0.24333333333333335
+TxRemoveIfSameOperation:0.23611111111111113
+TxReplaceIfSameOperation:0.23333333333333334
+TransactionalMapProxySupport:0.23333333333333334
+TransactionImpl:0.22
+TxReplaceOperation:0.19

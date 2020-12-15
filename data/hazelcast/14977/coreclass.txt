@@ -1,0 +1,14 @@
+MultiMapConfig:0.51
+MultiMapResponse:0.47333333333333333
+MultiMapContainer:0.4166666666666667
+ClientMultiMapProxy:0.2633333333333333
+ClientMultiMapTest:0.24
+MultiMapOperation:0.21333333333333335
+ClientTxnMultiMapTest:0.18
+GetAllRequest:0.16333333333333333
+RemoveAllRequest:0.15666666666666668
+RemoveAllOperation:0.13166666666666665
+TxnLockAndGetOperation:0.12666666666666668
+KeySetOperation:0.10333333333333333
+ValuesOperation:0.10333333333333333
+GetAllOperation:0.03666666666666667

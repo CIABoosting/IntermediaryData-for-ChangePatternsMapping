@@ -1,0 +1,10 @@
+InternalTypeDeserializer:0.39
+InternalTypeSerializer:0.39
+AbstractTypedJacksonModule:0.21666666666666667
+ColumnHandleJacksonModule:0.1
+SplitJacksonModule:0.1
+OutputTableHandleJacksonModule:0.1
+TableHandleJacksonModule:0.1
+IndexHandleJacksonModule:0.1
+TableLayoutHandleJacksonModule:0.1
+InsertTableHandleJacksonModule:0.1

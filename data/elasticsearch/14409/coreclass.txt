@@ -1,0 +1,11 @@
+ElasticsearchException:0.52
+TestCluster:0.39
+ESIntegTestCase:0.3566666666666667
+Version:0.3
+DeleteByQueryTests:0.24666666666666667
+DiscoveryWithServiceDisruptionsIT:0.235
+ExceptionSerializationTests:0.2125
+StreamOutput:0.21216666666666667
+VersionTests:0.19666666666666666
+TribeIT:0.17
+LongGCDisruption:0.13333333333333333

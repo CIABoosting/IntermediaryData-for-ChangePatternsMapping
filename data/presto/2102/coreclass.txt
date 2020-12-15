@@ -1,0 +1,17 @@
+AccessControl:0.8033333333333333
+AllowAllSystemAccessControl:0.35666666666666663
+LegacyAccessControl:0.31666666666666665
+AllowAllAccessControl:0.2833333333333333
+SqlStandardAccessControl:0.26
+ReadOnlyAccessControl:0.26
+DenyAllAccessControl:0.26
+DenyConnectorAccessControl:0.22
+FileBasedSystemAccessControl:0.2185
+AccessDeniedException:0.21333333333333335
+SystemAccessControl:0.2
+TestLegacySecurityConfig:0.19666666666666666
+AccessControlManager:0.19333333333333333
+ConnectorAccessControl:0.16710317460317461
+FileBasedAccessControl:0.16666666666666666
+LegacySecurityConfig:0.14333333333333334
+TestingAccessControlManager:0.10666666666666667

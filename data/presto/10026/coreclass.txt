@@ -1,0 +1,9 @@
+AbstractAggregationFunction:0.5
+GenericGroupedAccumulator:0.45
+GenericAccumulator:0.37333333333333335
+VarianceAggregations:0.17
+ApproximateAverageAggregation:0.17
+ApproximateCountColumnAggregation:0.15333333333333332
+ApproximateDoubleSumAggregation:0.15333333333333332
+ApproximateLongSumAggregation:0.15333333333333332
+AggregationUtils:0.14

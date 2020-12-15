@@ -1,0 +1,17 @@
+InternalTerms:0.37666666666666665
+Bucket:0.37333333333333335
+TermsAggregatorFactory:0.3233333333333333
+StringTerms:0.25333333333333335
+UnmappedTerms:0.23666666666666666
+SignificantTermsAggregatorFactory:0.2
+LongTermsAggregator:0.19
+DoubleTerms:0.16333333333333333
+LongTerms:0.15444444444444444
+LowCardinality:0.13142857142857142
+SignificantStringTermsAggregator:0.11666666666666667
+GlobalOrdinalsSignificantTermsAggregator:0.11666666666666667
+GlobalOrdinalsStringTermsAggregator:0.11
+StringTermsAggregator:0.07333333333333333
+TermsAggregator:0.03666666666666667
+WithHash:0.03333333333333333
+AbstractStringTermsAggregator:0.023333333333333334

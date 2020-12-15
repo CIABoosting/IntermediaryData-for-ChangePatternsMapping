@@ -1,0 +1,10 @@
+CreateIndexRequest:0.51
+CreateIndexResponse:0.31
+MetaDataCreateIndexService:0.2966666666666667
+ElasticsearchAssertions:0.27
+AckTests:0.2633333333333333
+IndicesClusterStateService:0.25666666666666665
+CreateIndexRequestBuilder:0.22
+ClusterModule:0.18333333333333332
+RestCreateIndexAction:0.16
+TransportCreateIndexAction:0.15

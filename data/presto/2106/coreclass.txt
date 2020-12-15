@@ -1,0 +1,17 @@
+HiveSplit:0.49
+BackgroundHiveSplitLoader:0.39
+ParquetTester:0.25333333333333335
+ParquetHiveRecordCursor:0.24666666666666667
+HivePageSourceProvider:0.2
+HdfsParquetDataSource:0.17
+TestPreparer:0.13333333333333333
+OrcPageSourceFactory:0.12333333333333334
+ParquetPageSourceFactory:0.1
+ParquetMetadataReader:0.09666666666666666
+GenericHiveRecordCursorProvider:0.05
+TestHiveSplit:0.04
+ParquetRecordCursorProvider:0.03
+RcFilePageSourceFactory:0.016666666666666666
+DwrfPageSourceFactory:0.013333333333333334
+HiveRecordCursorProvider:0.0
+HivePageSourceFactory:0.0

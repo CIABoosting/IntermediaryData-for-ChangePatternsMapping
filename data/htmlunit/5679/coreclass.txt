@@ -1,0 +1,12 @@
+WebResponse:0.7333333333333333
+WebClient:0.42333333333333334
+DummyWebResponse:0.25666666666666665
+MockWebConnection:0.25
+NetworkErrorWebResponse:0.23666666666666666
+HttpWebConnection:0.23666666666666666
+XMLDocument:0.22
+WebResponseWrapper:0.21666666666666667
+DebuggingWebConnection:0.19666666666666666
+FalsifyingWebConnection:0.16
+FailingHttpStatusCodeExceptionTest:0.12333333333333334
+WebConnectionWrapperTest:0.07666666666666666

@@ -1,0 +1,33 @@
+Compared Result of  two versions
+Number of New Class: 19
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : de.erdesignerng.visual.editor.BaseEditor: 
+new Added class 1 : de.erdesignerng.visual.editor.convertmodel.ConvertModelEditorView: 
+new Added class 2 : de.erdesignerng.dialect.DataType: 
+new Added class 3 : de.erdesignerng.dialect.db2.DB2DataType: 
+new Added class 4 : de.erdesignerng.dialect.db2.DB2Dialect: 
+new Added class 5 : de.erdesignerng.dialect.Dialect: 
+new Added class 6 : de.erdesignerng.model.Domain: 
+new Added class 7 : de.erdesignerng.dialect.GenericDataTypeImpl: 
+new Added class 8 : de.erdesignerng.visual.MessagesHelper: 
+new Added class 9 : de.erdesignerng.dialect.mssql.MSSQLDataType: 
+new Added class 10 : de.erdesignerng.dialect.mssql.MSSQLDialect: 
+new Added class 11 : de.erdesignerng.dialect.mysql.MySQLDataType: 
+new Added class 12 : de.erdesignerng.dialect.mysql.MySQLDialect: 
+new Added class 13 : de.erdesignerng.dialect.oracle.OracleDataType: 
+new Added class 14 : de.erdesignerng.dialect.oracle.OracleDialect: 
+new Added class 15 : de.erdesignerng.dialect.postgres.PostgresDataType: 
+new Added class 16 : de.erdesignerng.dialect.postgres.PostgresDialect: 
+new Added class 17 : de.erdesignerng.plugins.sqleonardo.SQLUtils: 
+new Added class 18 : de.erdesignerng.visual.cells.views.TableCellView: 
+testing relationship 
+class 3  vs  class 7£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 2£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:7  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 7  vs  class 2£º  r0:0  r1:0  r2:1  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:1  r17:0  
+class 9  vs  class 7£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 7£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 7£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 7£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  5   2 :  2   3 :  1   4 :  0   5 :  2   6 :  0   7 :  0   8 :  4   9 :  0   10 :  7   11 :  1   12 :  0   13 :  2   14 :  0   15 :  0   16 :  2   17 :  0   

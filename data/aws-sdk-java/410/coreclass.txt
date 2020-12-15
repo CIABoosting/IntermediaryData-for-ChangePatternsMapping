@@ -1,0 +1,13 @@
+Endpoint:0.52
+AWSDatabaseMigrationService:0.4737857142857143
+AbstractAWSDatabaseMigrationServiceAsync:0.36
+ModifyEndpointRequest:0.29333333333333333
+CreateEndpointRequest:0.29333333333333333
+AbstractAWSDatabaseMigrationService:0.28
+AWSDatabaseMigrationServiceAsync:0.2535396825396825
+AWSDatabaseMigrationServiceClient:0.20333333333333334
+AWSDatabaseMigrationServiceAsyncClient:0.16
+EndpointMarshaller:0.12333333333333334
+EndpointJsonUnmarshaller:0.11666666666666667
+CreateEndpointRequestMarshaller:0.08333333333333333
+ModifyEndpointRequestMarshaller:0.08333333333333333

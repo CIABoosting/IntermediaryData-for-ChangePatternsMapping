@@ -1,0 +1,21 @@
+Compared Result of  two versions
+Number of New Class: 7
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : net.bioclipse.cdk.business.test.AbstractCDKManagerPluginTest: 
+new Added class 1 : net.bioclipse.cdk.business.CDKManager: 
+new Added class 2 : net.bioclipse.cdk.business.test.CDKManagerTest: 
+new Added class 3 : net.bioclipse.cdk.domain.CDKMolecule: 
+new Added class 4 : net.bioclipse.structuredb.domain.DBMolecule: 
+new Added class 5 : net.bioclipse.cdk.domain.ICDKMolecule: 
+new Added class 6 : net.bioclipse.cdk.domain.tests.TestCDKMolecule: 
+testing relationship 
+class 0  vs  class 5£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:204  r12:0  r13:25  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 5£º  r0:0  r1:0  r2:0  r3:10  r4:8  r5:12  r6:0  r7:0  r8:0  r9:0  r10:0  r11:25  r12:0  r13:10  r14:3  r15:0  r16:11  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-63  r9:0  r10:192  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 5£º  r0:0  r1:0  r2:0  r3:31  r4:2  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:106  r12:0  r13:11  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 5£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:2  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  2   3 :  42   4 :  10   5 :  12   6 :  0   7 :  0   8 :  -63   9 :  0   10 :  192   11 :  351   12 :  0   13 :  50   14 :  4   15 :  0   16 :  13   17 :  0   

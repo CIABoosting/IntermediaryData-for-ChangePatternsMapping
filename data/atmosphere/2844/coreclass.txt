@@ -1,0 +1,17 @@
+AtmosphereConfig:0.46
+AtmosphereResourceImpl:0.41333333333333333
+DefaultBroadcaster:0.34
+BroadcasterConfig:0.32666666666666666
+AtmosphereFramework:0.3233333333333333
+Filter:0.31
+Meteor:0.22333333333333333
+AsynchronousProcessor:0.21
+AtmosphereResourceFactory:0.18666666666666668
+EventCacheBroadcasterCache:0.17666666666666667
+MeteorServlet:0.17
+AtmosphereHandlerWrapper:0.13666666666666666
+AtmosphereResourceFactoryTest:0.12333333333333334
+BroadcasterTest:0.10333333333333333
+EventCacheBroadcasterCacheTest:0.10333333333333333
+BroadcastFilterTest:0.10333333333333333
+ExcludeSessionBroadcasterTest:0.043333333333333335

@@ -1,0 +1,9 @@
+HttpRemoteTask:0.42333333333333334
+Backoff:0.37666666666666665
+RequestErrorTracker:0.2633333333333333
+TaskInfoFetcher:0.23666666666666666
+ContinuousTaskStatusFetcher:0.21
+TestQueryManagerConfig:0.20333333333333334
+TestBackoff:0.19
+QueryManagerConfig:0.13
+HttpRemoteTaskFactory:0.08666666666666667

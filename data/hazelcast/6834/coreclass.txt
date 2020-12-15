@@ -1,0 +1,15 @@
+Node:0.49666666666666665
+InternalPartitionServiceImpl:0.48
+MigrationThread:0.26777777777777784
+InternalPartitionImpl:0.2328333333333333
+SingleNodeGroup:0.23
+PartitionReplicaVersions:0.23
+InternalPartitionListener:0.21166666666666667
+MigrationOperation:0.19666666666666666
+MigrateTask:0.19
+MigrationCallback:0.16333333333333333
+MigrationListenerAdapter:0.16333333333333333
+MigrationRequestOperation:0.15333333333333332
+BaseMigrationOperation:0.14166666666666666
+PartitionTable:0.125
+FinalizeMigrationOperation:0.08666666666666667

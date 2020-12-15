@@ -1,0 +1,42 @@
+Compared Result of  two versions
+Number of New Class: 31
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.opengis.metadata.quality.AbsoluteExternalPositionalAccuracy: 
+new Added class 1 : org.opengis.referencing.AuthorityFactory: 
+new Added class 2 : org.opengis.metadata.content.Band: 
+new Added class 3 : org.opengis.referencing.operation.CoordinateOperationAuthorityFactory: 
+new Added class 4 : org.opengis.referencing.cs.CoordinateSystem: 
+new Added class 5 : org.opengis.referencing.cs.CoordinateSystemAxis: 
+new Added class 6 : org.opengis.referencing.crs.CRSAuthorityFactory: 
+new Added class 7 : org.opengis.referencing.crs.CRSFactory: 
+new Added class 8 : org.opengis.referencing.cs.CSAuthorityFactory: 
+new Added class 9 : org.opengis.referencing.cs.CSFactory: 
+new Added class 10 : org.opengis.referencing.datum.DatumAuthorityFactory: 
+new Added class 11 : org.opengis.referencing.datum.DatumFactory: 
+new Added class 12 : org.opengis.referencing.datum.Ellipsoid: 
+new Added class 13 : org.opengis.parameter.GeneralParameterValue: 
+new Added class 14 : org.opengis.go.display.primitive.GraphicArc: 
+new Added class 15 : org.opengis.go.display.primitive.GraphicIcon: 
+new Added class 16 : org.opengis.go.display.primitive.GraphicLabel: 
+new Added class 17 : org.opengis.temporal.IntervalLength: 
+new Added class 18 : org.opengis.go.display.canvas.map2d.Map2DController: 
+new Added class 19 : org.opengis.go.display.canvas.map2d.Map2DState: 
+new Added class 20 : org.opengis.referencing.operation.MathTransformFactory: 
+new Added class 21 : org.opengis.metadata.distribution.Medium: 
+new Added class 22 : org.opengis.referencing.NoSuchAuthorityCodeException: 
+new Added class 23 : org.opengis.referencing.NoSuchIdentifierException: 
+new Added class 24 : org.opengis.parameter.ParameterDescriptor: 
+new Added class 25 : org.opengis.parameter.ParameterValue: 
+new Added class 26 : org.opengis.referencing.datum.PrimeMeridian: 
+new Added class 27 : org.opengis.metadata.quality.QuantitativeResult: 
+new Added class 28 : org.opengis.metadata.quality.RelativeInternalPositionalAccuracy: 
+new Added class 29 : org.opengis.coverage.SampleDimension: 
+new Added class 30 : org.opengis.metadata.extent.VerticalExtent: 
+testing relationship 
+class 3  vs  class 1£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 1£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 1£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 1£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 13£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  5   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

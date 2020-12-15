@@ -1,0 +1,14 @@
+Mongo:0.58
+MongoServerStateListener:0.47333333333333333
+ReplicaSetMonitorTest:0.37333333333333335
+ReplicaSetServerBinding:0.31666666666666665
+ReplicaSetServerStateListener:0.2633333333333333
+MongoClientImpl:0.24666666666666667
+MongoSingleServerBinding:0.22666666666666666
+MongoClient:0.215
+MongoServerBindings:0.15666666666666668
+MongoIsMasterServerStateNotifier:0.14
+MongosHighAvailabilityServerBinding:0.12666666666666668
+MongoMultiServerBinding:0.12
+DefaultMongoServer:0.1
+DefaultMongoServerStateListener:0.09833333333333333

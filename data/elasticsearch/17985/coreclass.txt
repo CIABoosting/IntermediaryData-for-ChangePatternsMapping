@@ -1,0 +1,16 @@
+DocumentMapper:0.44333333333333336
+FieldMappersLookup:0.4166666666666667
+MappersLookup:0.29
+DocumentFieldMappers:0.2733333333333333
+AbstractFieldMapper:0.2733333333333333
+UidFieldMapper:0.23199999999999998
+MapperService:0.22222222222222218
+GeohashMappingGeoPointTests:0.18333333333333332
+IndicesClusterStateService:0.17666666666666667
+TransportMoreLikeThisAction:0.13666666666666666
+TransportGetFieldMappingsIndexAction:0.13666666666666666
+DoubleIndexingDocTest:0.12666666666666668
+ShardGetService:0.12333333333333334
+SimpleDynamicTemplatesTests:0.12
+TestMergeMapperTests:0.12
+TokenCountFieldMapperTests:0.09666666666666666

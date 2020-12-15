@@ -1,0 +1,15 @@
+NetworkConnection:0.46
+RateController:0.37333333333333335
+DriverConductor:0.3233333333333333
+NetworkPublication:0.295
+ClientConductor:0.25666666666666665
+LossDetectorTest:0.22
+RetransmitHandlerTest:0.22
+DriverConductorTest:0.20333333333333334
+IntervalInternal:0.2
+Receiver:0.2
+SecondsAtBitsPerSecondInternal:0.15333333333333332
+SecondsAtMessagesPerSecondInternal:0.15333333333333332
+MessagesAtBitsPerSecondInternal:0.13666666666666666
+MessagesAtMessagesPerSecondInternal:0.13666666666666666
+RateReporter:0.09666666666666666

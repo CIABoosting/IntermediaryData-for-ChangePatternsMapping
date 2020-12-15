@@ -1,0 +1,14 @@
+Primary:0.6233333333333333
+Replicas:0.57
+TransportReplicationActionTests:0.29333333333333333
+RecoveryFromGatewayIT:0.22666666666666666
+TransportReplicationAction:0.19777777777777777
+BroadcastResponse:0.16
+TestReplicaProxy:0.15666666666666668
+TransportWriteAction:0.11333333333333333
+ReplicasProxy:0.11
+TestAction:0.09777777777777777
+TransportWriteActionTests:0.09
+WriteActionReplicasProxy:0.03666666666666667
+NoopReplicationOperation:0.03666666666666667
+TestResponse:0.016666666666666666

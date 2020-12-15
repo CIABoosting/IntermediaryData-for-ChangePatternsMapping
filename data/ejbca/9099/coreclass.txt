@@ -1,0 +1,12 @@
+BasePublisher:0.47
+PublisherTest:0.38333333333333336
+LdapPublisher:0.37
+CreateCRLSessionBean:0.3233333333333333
+LocalPublisherSessionBean:0.2966666666666667
+CustomPublisherContainer:0.21666666666666667
+PublishQueueProcessWorker:0.21
+CARepublishCommand:0.2
+DummyCustomPublisher:0.16
+ExternalOCSPPublisher:0.15666666666666668
+GeneralPurposeCustomPublisher:0.12666666666666668
+ICustomPublisher:0.125

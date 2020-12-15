@@ -1,0 +1,14 @@
+Document:0.6266666666666667
+ResponseType:0.44333333333333336
+ContentParser:0.30666666666666664
+SubmitDocumentResponse:0.30333333333333334
+CDAToXDSMapper:0.2377777777777778
+SubmitDocumentRequestHandlerTest:0.21
+XDSDocumentRepositoryClient:0.16333333333333333
+XDSDocumentRegistryClient:0.16333333333333333
+SubmitDocumentRequestHandler:0.16
+AddPatientIdActivity:0.15
+SubmitPnRActivity:0.13
+CDAToXDSMapperActivity:0.13
+JUnitHelper:0.12333333333333334
+CDAToXDSMapperTest:0.09

@@ -1,0 +1,14 @@
+ComputationGraph:0.7533333333333333
+ComputationGraphUpdater:0.30333333333333334
+Adder:0.3
+SparkDl4jMultiLayer:0.22
+GradientAccum:0.22
+SparkComputationGraph:0.21
+IterativeReduce:0.18333333333333332
+SparkDl4jLayer:0.16333333333333333
+GradientAccumFlatMap:0.15333333333333332
+TestEarlyStoppingSparkCompGraph:0.15333333333333332
+IterativeReduceFlatMap:0.13666666666666666
+GradientAccumFlatMapCG:0.12333333333333334
+IterativeReduceFlatMapCG:0.07333333333333333
+ParamAccumulator:0.05

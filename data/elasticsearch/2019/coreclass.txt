@@ -1,0 +1,15 @@
+Translog:0.4633333333333333
+NoOp:0.43333333333333335
+IndexShard:0.37333333333333335
+TranslogDeletionPolicy:0.33
+TranslogTests:0.32
+InternalEngineTests:0.2633333333333333
+TranslogSnapshot:0.2277777777777778
+InternalEngine:0.21
+InternalTestCluster:0.2
+IndexShardTests:0.18666666666666668
+RecoverySourceHandler:0.18142857142857144
+RecoverySourceHandlerTests:0.18
+IndexLevelReplicationTests:0.12666666666666668
+RecoveryOutputStream:0.06666666666666667
+MultiSnapshot:0.05583333333333333

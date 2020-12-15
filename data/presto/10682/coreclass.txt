@@ -1,0 +1,16 @@
+AnalyzerConfig:0.41
+AbstractTestQueries:0.39
+Analyzer:0.3233333333333333
+PlanOptimizersFactory:0.2866666666666667
+ExpressionAnalyzer:0.27
+QueryExplainer:0.26
+StatementAnalyzer:0.26
+SqlQueryExecution:0.26
+TupleAnalyzer:0.25333333333333335
+Rewriter:0.23333333333333334
+Visitor:0.20666666666666667
+TestingPrestoServer:0.19666666666666666
+PredicatePushDown:0.19666666666666666
+LocalQueryRunner:0.18666666666666668
+SqlQueryExecutionFactory:0.13
+TestAnalyzerConfig:0.10333333333333333

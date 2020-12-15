@@ -1,0 +1,15 @@
+AbstractRememberMeServices:0.2866666666666667
+PersistentTokenBasedRememberMeServices:0.24666666666666667
+KeyBasedPersistenceTokenService:0.23
+SCryptPasswordEncoder:0.22
+LdapShaPasswordEncoder:0.22
+DigestData:0.20666666666666667
+DigestAuthenticationEntryPoint:0.18
+MessageDigestPasswordEncoder:0.16333333333333333
+DigestRequestPostProcessor:0.16333333333333333
+BasicAuthenticationFilter:0.16
+NamespaceHttpBasicTests:0.13
+Md4PasswordEncoder:0.13
+DefaultStateGenerator:0.13
+AuthenticationSimpleHttpInvokerRequestExecutor:0.11
+HttpBasicRequestPostProcessor:0.11

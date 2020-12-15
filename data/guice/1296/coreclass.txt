@@ -1,0 +1,10 @@
+CommandProcessor:0.37333333333333335
+ConvertToTypesCommandProcessor:0.33
+BindCommandProcessor:0.30333333333333334
+InjectorBuilder:0.26666666666666666
+AllTests:0.19
+ErrorsCommandProcessor:0.17333333333333334
+BindInterceptorCommandProcessor:0.12333333333333334
+GetProviderProcessor:0.11333333333333333
+ScopesCommandProcessor:0.1
+RequestStaticInjectionCommandProcessor:0.07666666666666666

@@ -1,0 +1,17 @@
+Compared Result of  two versions
+Number of New Class: 8
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : jodd.madvoc.meta.ActionAnnotation: 
+new Added class 1 : jodd.madvoc.meta.ActionAnnotationData: 
+new Added class 2 : jodd.madvoc.component.ActionMethodParser: 
+new Added class 3 : jodd.proxetta.BigClassTest: 
+new Added class 4 : jodd.proxetta.data.BigFatJoe: 
+new Added class 5 : jodd.madvoc.test.BooAction: 
+new Added class 6 : madvoc.rest.ReAction: 
+new Added class 7 : madvoc.SearchAction: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:3  r15:0  r16:5  r17:0  
+class 3  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  1   4 :  0   5 :  2   6 :  2   7 :  0   8 :  0   9 :  0   10 :  0   11 :  17   12 :  0   13 :  4   14 :  3   15 :  0   16 :  5   17 :  0   

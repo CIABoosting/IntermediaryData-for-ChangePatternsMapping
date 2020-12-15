@@ -1,0 +1,14 @@
+TransportService:0.61
+ESIntegTestCase:0.43333333333333335
+AbstractSearchAsyncAction:0.27666666666666667
+SimpleSearchIT:0.25333333333333335
+SearchDfsQueryThenFetchAsyncAction:0.22666666666666666
+RemoteClusterConnection:0.22333333333333333
+SearchTransportService:0.21
+SearchDfsQueryAndFetchAsyncAction:0.18333333333333332
+SearchQueryThenFetchAsyncAction:0.18
+SearchQueryAndFetchAsyncAction:0.14666666666666667
+TransportSearchAction:0.12333333333333334
+MultiClusterSearchYamlTestSuiteIT:0.07333333333333333
+MockConnection:0.023333333333333334
+RemoteClusterConnectionTests:0.006666666666666667

@@ -1,0 +1,12 @@
+ContextIndexSearcher:0.39
+DefaultSearchContext:0.37666666666666665
+SearchContext:0.35888888888888887
+ScanContext:0.2966666666666667
+QueryPhase:0.29333333333333333
+SubSearchContext:0.2833333333333333
+TestSearchContext:0.24666666666666667
+FilteredSearchContext:0.24666666666666667
+PercolateContext:0.22333333333333333
+AggregationPhase:0.16666666666666666
+TransportValidateQueryAction:0.11333333333333333
+ScanContextTests:0.11

@@ -1,0 +1,11 @@
+Cluster:0.8833333333333333
+ReferenceConfig:0.36333333333333334
+RegistryProtocol:0.32
+DubboRegistryFactory:0.20333333333333334
+MergeableCluster:0.07
+AvailableCluster:0.016666666666666666
+ForkingCluster:0.01
+FailfastCluster:0.01
+FailbackCluster:0.01
+FailsafeCluster:0.01
+FailoverCluster:0.01

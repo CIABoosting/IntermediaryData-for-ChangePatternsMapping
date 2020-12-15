@@ -1,0 +1,15 @@
+TransferSelectorTest:0.21
+SupervisorTest:0.21
+ActorTest:0.21
+ProxyServerTest:0.21
+FiberTest:0.20083333333333334
+ServerTest:0.2
+ChannelTest:0.2
+TransformingChannelTest:0.2
+FiberAsyncTest:0.19666666666666666
+FiberAsyncIOTest:0.16333333333333333
+GeneralSelectorTest:0.15
+AsyncListenableFutureTest:0.13666666666666666
+PipelineTest:0.13666666666666666
+TickerChannelTest:0.06666666666666667
+AsyncCompletionStageTest:0.06333333333333334

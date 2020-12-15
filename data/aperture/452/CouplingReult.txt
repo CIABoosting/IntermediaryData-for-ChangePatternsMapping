@@ -1,0 +1,59 @@
+Compared Result of  two versions
+Number of New Class: 49
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.semanticdesktop.aperture.accessor.AccessVocabulary: 
+new Added class 1 : org.semanticdesktop.aperture.examples.filecrawler.CrawlerPanel: 
+new Added class 2 : org.semanticdesktop.aperture.accessor.base.DataObjectBase: 
+new Added class 3 : org.semanticdesktop.aperture.crawler.imap.DataObjectFactory: 
+new Added class 4 : org.semanticdesktop.aperture.examples.ExampleFileCrawler: 
+new Added class 5 : org.semanticdesktop.aperture.examples.ExampleImapCrawler: 
+new Added class 6 : org.semanticdesktop.aperture.examples.ExampleWebCrawler: 
+new Added class 7 : org.semanticdesktop.aperture.extractor.excel.ExcelExtractorTest: 
+new Added class 8 : org.semanticdesktop.aperture.accessor.file.FileAccessor: 
+new Added class 9 : org.semanticdesktop.aperture.examples.FileInspector: 
+new Added class 10 : org.semanticdesktop.aperture.accessor.base.FolderDataObjectBase: 
+new Added class 11 : org.semanticdesktop.aperture.extractor.html.HtmlExtractor: 
+new Added class 12 : org.semanticdesktop.aperture.extractor.html.HtmlExtractorTest: 
+new Added class 13 : org.semanticdesktop.aperture.accessor.http.HttpAccessor: 
+new Added class 14 : org.semanticdesktop.aperture.crawler.imap.ImapCrawler: 
+new Added class 15 : org.semanticdesktop.aperture.util.MailUtil: 
+new Added class 16 : org.semanticdesktop.aperture.examples.fileinspector.MetadataModel: 
+new Added class 17 : org.semanticdesktop.aperture.extractor.mime.MimeExtractor: 
+new Added class 18 : org.semanticdesktop.aperture.extractor.mime.MimeExtractorTest: 
+new Added class 19 : org.semanticdesktop.aperture.extractor.office.OfficeExtractorTest: 
+new Added class 20 : org.semanticdesktop.aperture.extractor.opendocument.OpenDocumentExtractor: 
+new Added class 21 : org.semanticdesktop.aperture.extractor.opendocument.OpenDocumentExtractorTest: 
+new Added class 22 : org.semanticdesktop.aperture.outlook.OutlookAccessor: 
+new Added class 23 : org.semanticdesktop.aperture.extractor.pdf.PdfExtractor: 
+new Added class 24 : org.semanticdesktop.aperture.extractor.pdf.PdfExtractorTest: 
+new Added class 25 : org.semanticdesktop.aperture.extractor.plaintext.PlainTextExtractor: 
+new Added class 26 : org.semanticdesktop.aperture.extractor.plaintext.PlainTextExtractorTest: 
+new Added class 27 : org.semanticdesktop.aperture.extractor.util.PoiUtil: 
+new Added class 28 : org.semanticdesktop.aperture.extractor.powerpoint.PowerPointExtractorTest: 
+new Added class 29 : org.semanticdesktop.aperture.extractor.presentations.PresentationsExtractor: 
+new Added class 30 : org.semanticdesktop.aperture.extractor.presentations.PresentationsExtractorTest: 
+new Added class 31 : org.semanticdesktop.aperture.extractor.publisher.PublisherExtractor: 
+new Added class 32 : org.semanticdesktop.aperture.extractor.publisher.PublisherExtractorTest: 
+new Added class 33 : org.semanticdesktop.aperture.extractor.quattro.QuattroExtractorTest: 
+new Added class 34 : org.semanticdesktop.aperture.extractor.rtf.RtfExtractor: 
+new Added class 35 : org.semanticdesktop.aperture.extractor.rtf.RtfExtractorTest: 
+new Added class 36 : org.semanticdesktop.aperture.accessor.file.TestFileAccessor: 
+new Added class 37 : org.semanticdesktop.aperture.crawler.filesystem.TestFileSystemCrawler: 
+new Added class 38 : org.semanticdesktop.aperture.outlook.TestOutlookCrawlAll: 
+new Added class 39 : org.semanticdesktop.aperture.extractor.visio.VisioExtractorTest: 
+new Added class 40 : org.semanticdesktop.aperture.util.VocabularyWriter: 
+new Added class 41 : org.semanticdesktop.aperture.crawler.web.WebCrawler: 
+new Added class 42 : org.semanticdesktop.aperture.extractor.word.WordExtractorTest: 
+new Added class 43 : org.semanticdesktop.aperture.extractor.wordperfect.WordPerfectExtractor: 
+new Added class 44 : org.semanticdesktop.aperture.extractor.wordperfect.WordPerfectExtractorTest: 
+new Added class 45 : org.semanticdesktop.aperture.extractor.works.WorksExtractor: 
+new Added class 46 : org.semanticdesktop.aperture.extractor.works.WorksExtractorTest: 
+new Added class 47 : org.semanticdesktop.aperture.extractor.xml.XmlExtractor: 
+new Added class 48 : org.semanticdesktop.aperture.extractor.xml.XmlExtractorTest: 
+testing relationship 
+class 5  vs  class 14£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:19  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 41£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 8£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  1   4 :  0   5 :  0   6 :  2   7 :  0   8 :  20   9 :  0   10 :  4   11 :  10   12 :  0   13 :  2   14 :  0   15 :  0   16 :  0   17 :  0   

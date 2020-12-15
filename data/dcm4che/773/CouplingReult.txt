@@ -1,0 +1,14 @@
+Compared Result of  two versions
+Number of New Class: 4
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.dcm4che2.data.BasicDicomObject: 
+new Added class 1 : org.dcm4che2.data.DicomObject: 
+new Added class 2 : org.dcm4che2.data.ElementSerializer: 
+new Added class 3 : org.dcm4che2.data.SequenceDicomElement: 
+testing relationship 
+class 0  vs  class 1£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:3  r6:0  r7:0  r8:5  r9:0  r10:5  r11:0  r12:0  r13:1  r14:5  r15:0  r16:0  r17:0  
+class 2  vs  class 0£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:3  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 3  vs  class 1£º  r0:0  r1:0  r2:0  r3:4  r4:1  r5:6  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:8  r15:0  r16:2  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  7   4 :  2   5 :  9   6 :  0   7 :  0   8 :  10   9 :  0   10 :  8   11 :  1   12 :  0   13 :  1   14 :  14   15 :  0   16 :  2   17 :  0   

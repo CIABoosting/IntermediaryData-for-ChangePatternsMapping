@@ -1,0 +1,7 @@
+ConvolutionUtils:0.44666666666666666
+SubsamplingLayer:0.36
+BatchNormalization:0.31333333333333335
+CudnnConvolutionHelper:0.2677777777777778
+ConvolutionLayer:0.24
+LocalResponseNormalization:0.22416666666666665
+TestConvolution:0.13666666666666666

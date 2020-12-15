@@ -1,0 +1,15 @@
+Compared Result of  two versions
+Number of New Class: 9
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : io.grpc.internal.CallCredentialsApplyingTest: 
+new Added class 1 : io.grpc.internal.DelayedClientTransportTest: 
+new Added class 2 : io.grpc.internal.ManagedChannelImplIdlenessTest: 
+new Added class 3 : io.grpc.internal.ManagedChannelImplTest: 
+new Added class 4 : io.grpc.MethodDescriptorTest: 
+new Added class 5 : io.grpc.netty.NettyClientStreamTest: 
+new Added class 6 : io.grpc.netty.NettyClientTransportTest: 
+new Added class 7 : io.grpc.okhttp.OkHttpClientStreamTest: 
+new Added class 8 : io.grpc.internal.ServerCallImplTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

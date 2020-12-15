@@ -1,0 +1,49 @@
+Compared Result of  two versions
+Number of New Class: 27
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.mars_sim.msp.simulation.structure.building.BuildingManager: 
+new Added class 1 : org.mars_sim.msp.simulation.structure.building.function.Communication: 
+new Added class 2 : org.mars_sim.msp.simulation.structure.construction.ConstructionConfig: 
+new Added class 3 : org.mars_sim.msp.simulation.structure.construction.ConstructionSite: 
+new Added class 4 : org.mars_sim.msp.simulation.structure.construction.ConstructionSiteTest: 
+new Added class 5 : org.mars_sim.msp.simulation.structure.construction.ConstructionStageInfo: 
+new Added class 6 : org.mars_sim.msp.simulation.structure.construction.ConstructionStageInfoTest: 
+new Added class 7 : org.mars_sim.msp.simulation.structure.construction.ConstructionStageTest: 
+new Added class 8 : org.mars_sim.msp.simulation.structure.construction.ConstructionValues: 
+new Added class 9 : org.mars_sim.msp.simulation.structure.construction.ConstructionValuesTest: 
+new Added class 10 : org.mars_sim.msp.simulation.structure.building.function.Cooking: 
+new Added class 11 : org.mars_sim.msp.simulation.structure.building.function.Dining: 
+new Added class 12 : org.mars_sim.msp.simulation.structure.building.function.EVA: 
+new Added class 13 : org.mars_sim.msp.simulation.structure.building.function.Exercise: 
+new Added class 14 : org.mars_sim.msp.simulation.structure.building.function.Farming: 
+new Added class 15 : org.mars_sim.msp.simulation.structure.building.function.GroundVehicleMaintenance: 
+new Added class 16 : org.mars_sim.msp.simulation.structure.construction.JUnitTests: 
+new Added class 17 : org.mars_sim.msp.simulation.structure.building.function.LifeSupport: 
+new Added class 18 : org.mars_sim.msp.simulation.structure.building.function.LivingAccommodations: 
+new Added class 19 : org.mars_sim.msp.simulation.structure.building.function.Manufacture: 
+new Added class 20 : org.mars_sim.msp.simulation.structure.building.function.MedicalCare: 
+new Added class 21 : org.mars_sim.msp.simulation.structure.building.function.PowerGeneration: 
+new Added class 22 : org.mars_sim.msp.simulation.structure.building.function.Recreation: 
+new Added class 23 : org.mars_sim.msp.simulation.structure.building.function.Research: 
+new Added class 24 : org.mars_sim.msp.simulation.structure.building.function.ResourceProcessing: 
+new Added class 25 : org.mars_sim.msp.simulation.structure.building.function.Storage: 
+new Added class 26 : org.mars_sim.msp.simulation.structure.building.function.VehicleMaintenance: 
+testing relationship 
+class 0  vs  class 17£º  r0:0  r1:0  r2:0  r3:7  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:9  r14:0  r15:0  r16:0  r17:0  
+class 0  vs  class 26£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 4  vs  class 3£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:10  r9:0  r10:20  r11:1  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:7  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 17£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 17£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 26£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 17£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  0   3 :  15   4 :  0   5 :  0   6 :  4   7 :  0   8 :  22   9 :  0   10 :  24   11 :  22   12 :  0   13 :  22   14 :  1   15 :  0   16 :  1   17 :  0   

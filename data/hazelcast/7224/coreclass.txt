@@ -1,0 +1,14 @@
+ClientInvocation:0.5833333333333334
+ClientConnectionManagerImpl:0.23666666666666666
+ClientPartitionServiceImpl:0.22
+ResponseThread:0.215
+ClientMembershipListener:0.21
+ClientInvocationServiceSupport:0.21
+CleanResourcesTask:0.19666666666666666
+ClusterListenerSupport:0.19666666666666666
+AbstractClientSelectionHandler:0.19333333333333333
+InitConnectionTask:0.16333333333333333
+HeartBeat:0.16333333333333333
+RefreshTask:0.12
+MockClientConnectionManagerFactory:0.11333333333333333
+RefreshTaskCallback:0.11333333333333333

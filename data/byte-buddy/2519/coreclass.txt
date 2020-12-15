@@ -1,0 +1,15 @@
+TypeDescription:0.7233333333333334
+Default:0.44166666666666665
+GenericTypeDescription:0.43
+ByteBuddy:0.3233333333333333
+InvocationHandlerAdapter:0.29333333333333333
+Latent:0.25
+ForWildcardType:0.22666666666666666
+ForPackageDescription:0.22
+MethodCallProxy:0.20666666666666667
+AbstractBase:0.2
+ForLoadedConstructor:0.2
+ArrayProjection:0.19666666666666666
+ForGenericArray:0.19666666666666666
+FieldSetter:0.14
+TypeInitializerDelegate:0.14

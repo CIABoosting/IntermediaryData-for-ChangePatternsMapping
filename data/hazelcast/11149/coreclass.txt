@@ -1,0 +1,17 @@
+HazelcastInstance:0.65
+Config:0.47
+ConfigXmlGenerator:0.34
+HazelcastTestSupport:0.2833333333333333
+HazelcastClientInstanceImpl:0.26
+HazelcastInstanceImpl:0.21333333333333335
+XmlConfigBuilder:0.21333333333333335
+ServiceManager:0.19833333333333333
+RingbufferContainer:0.18666666666666668
+RingbufferService:0.17333333333333334
+HazelcastConnectionImpl:0.16666666666666666
+HazelcastInstanceProxy:0.16111111111111112
+HazelcastClientProxy:0.16111111111111112
+XMLConfigBuilderTest:0.14
+RingbufferProxy:0.12666666666666668
+TopicDataSerializerHook:0.11333333333333333
+AbstractHazelcastClassRunner:0.08

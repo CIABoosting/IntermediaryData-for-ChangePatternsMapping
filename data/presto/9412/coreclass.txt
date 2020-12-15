@@ -1,0 +1,14 @@
+QuerySpecification:0.48
+Join:0.43333333333333335
+QueryUtil:0.31
+AbstractTestQueries:0.27666666666666667
+TestAnalyzer:0.27666666666666667
+JoinNode:0.2733333333333333
+Formatter:0.25666666666666665
+DefaultTraversalVisitor:0.25
+RelationPlanner:0.23
+TupleAnalyzer:0.23
+TestSqlParser:0.21333333333333335
+StatementAnalyzer:0.20333333333333334
+QueryPlanner:0.20333333333333334
+TreePrinter:0.10333333333333333

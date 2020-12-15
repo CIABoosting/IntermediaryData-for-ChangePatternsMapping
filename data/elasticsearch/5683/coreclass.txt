@@ -1,0 +1,11 @@
+EvalQueryQuality:0.57
+RatedRequest:0.34
+ReciprocalRank:0.25666666666666665
+DiscountedCumulativeGainAt:0.25
+PrecisionAtN:0.21333333333333335
+RankEvalRequestTests:0.15
+RatedRequestsTests:0.12666666666666668
+RankEvalTestHelper:0.1
+EvalQueryQualityTests:0.09666666666666666
+DiscountedCumulativeGainAtTests:0.07666666666666666
+TransportRankEvalAction:0.07666666666666666

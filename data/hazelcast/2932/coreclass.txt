@@ -1,0 +1,12 @@
+NioEventLoopGroup:0.43333333333333335
+SpinningEventLoopGroup:0.3566666666666667
+NioChannelWriter:0.29
+SpinningChannelWriter:0.23666666666666666
+ClientConnectionManagerImpl:0.19333333333333333
+NioChannelReader:0.17
+DefaultNodeContext:0.12
+SpinningChannelReader:0.10666666666666667
+SelectWithSelectorFix_NioEventLoopGroupFactory:0.07666666666666666
+SelectNow_NioEventLoopGroupFactory:0.07666666666666666
+Spinning_EventLoopGroupFactory:0.07666666666666666
+Select_NioEventLoopGroupFactory:0.07666666666666666

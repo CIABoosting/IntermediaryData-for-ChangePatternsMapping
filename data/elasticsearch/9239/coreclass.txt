@@ -1,0 +1,13 @@
+Builder:0.5633333333333334
+GeohashCellQuery:0.32022222222222224
+GeoDistanceRangeQueryBuilder:0.30333333333333334
+GeoBoundingBoxQueryBuilder:0.2866666666666667
+GeoShapeQueryBuilder:0.27
+GeoPolygonQueryBuilder:0.25666666666666665
+GeoBoundingBoxQueryBuilderTests:0.24666666666666667
+GeoDistanceQueryBuilderTests:0.17
+GeoDistanceRangeQueryTests:0.16
+GeoDistanceQueryBuilder:0.15666666666666668
+GeoPolygonQueryBuilderTests:0.15333333333333332
+GeoShapeQueryBuilderTests:0.14333333333333334
+GeohashCellQueryBuilderTests:0.09

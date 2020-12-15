@@ -1,0 +1,11 @@
+AbstractTestHiveClient:0.48333333333333334
+HivePageSink:0.42
+HiveMetadata:0.36
+HiveRecordWriter:0.23666666666666666
+HivePageSinkProvider:0.2
+HiveWriteUtils:0.19666666666666666
+AbstractTestHiveClientS3:0.15
+HiveWritableTableHandle:0.14666666666666667
+HiveClientModule:0.07
+HiveInsertTableHandle:0.06333333333333334
+HiveOutputTableHandle:0.05333333333333334

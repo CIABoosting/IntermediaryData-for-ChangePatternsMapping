@@ -1,0 +1,11 @@
+ForwardingClientCall:0.5266666666666666
+ManagedChannelImplTest:0.37666666666666665
+AbstractManagedChannelImplBuilder:0.37333333333333335
+ClientInterceptors:0.36
+ManagedChannelImpl:0.2966666666666667
+BinaryLogProvider:0.25
+BinaryLogProviderTest:0.25
+ForwardingClientCallListener:0.23
+TestBinaryLogClientInterceptor:0.005
+BinaryLogShim:0.0
+IdentityMarshaller:0.0

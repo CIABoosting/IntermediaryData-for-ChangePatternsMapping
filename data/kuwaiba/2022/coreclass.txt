@@ -1,0 +1,17 @@
+InterfaceFrame:0.32
+VFRsFrame:0.29333333333333333
+SubnetNode:0.29333333333333333
+RelateSubnetToVlanAction:0.17666666666666667
+BtnConnectActionListener:0.17
+RelateSubnetToVFRAction:0.14666666666666667
+ReleaseSubnetFromVlanAction:0.14
+ReleaseSubnetFromVFRAction:0.14
+RelateEndPointToInterfaceAction:0.006666666666666667
+RelateGenericNetworkElementToInterface:0.006666666666666667
+ReleaseVFRFromVlanAction:0.0033333333333333335
+ReleaseIPFromBDIInterfaceAction:0.0033333333333333335
+ReleaseEndPointFromInterface:0.0033333333333333335
+RelateVFRToVlanAction:0.0033333333333333335
+ReleaseGenericPortFromInterfaceAction:0.0033333333333333335
+RelateEndPointToIPAddressAction:0.0033333333333333335
+ReleaseEndPointFromIPAddresAction:0.0033333333333333335

@@ -1,0 +1,15 @@
+QueryExecution:0.51
+QueryManager:0.51
+Plan:0.4766666666666667
+LogicalPlanner:0.38
+StandaloneQueryRunner:0.3333333333333333
+DataDefinitionExecution:0.29
+MockQueryExecution:0.29
+DistributedQueryRunner:0.2833333333333333
+AbstractTestingPrestoClient:0.24666666666666667
+FailedQueryExecution:0.2188888888888889
+LocalQueryRunner:0.21666666666666667
+SqlQueryExecution:0.16666666666666666
+QueryExplainer:0.16333333333333333
+SqlQueryManager:0.14444444444444446
+SqlQueryExecutionFactory:0.1

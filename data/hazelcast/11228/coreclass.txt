@@ -1,0 +1,16 @@
+EvictionConfig:0.53
+CacheConfig:0.44666666666666666
+CacheSimpleConfig:0.31333333333333335
+CacheConfigTest:0.22
+XmlClientConfigBuilder:0.21333333333333335
+ConfigXmlGenerator:0.20333333333333334
+CacheConfigReadOnly:0.2
+XmlConfigBuilder:0.19333333333333333
+NearCacheRecordStoreTest:0.18666666666666668
+AbstractCacheRecordStore:0.18
+SpringXmlConfigBuilder:0.17666666666666667
+XmlClientConfigBuilderTest:0.17333333333333334
+NearCacheRecordStoreTestSupport:0.13
+BaseHeapNearCacheRecordStore:0.12666666666666668
+TestJCache:0.11
+EvictionConfigReadOnly:0.06333333333333334

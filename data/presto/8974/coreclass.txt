@@ -1,0 +1,12 @@
+HivePartition:0.38666666666666666
+HiveClient:0.3651666666666667
+AbstractTestHiveClient:0.31333333333333335
+HiveBucketing:0.25333333333333335
+ColumnarBinaryHiveRecordCursorProvider:0.235
+ColumnarTextHiveRecordCursorProvider:0.235
+HiveSplitSourceProvider:0.21333333333333335
+DwrfRecordCursorProvider:0.21277777777777776
+OrcRecordCursorProvider:0.16666666666666666
+OrcPageSourceFactory:0.13
+ParquetRecordCursorProvider:0.11333333333333333
+DwrfPageSourceFactory:0.06

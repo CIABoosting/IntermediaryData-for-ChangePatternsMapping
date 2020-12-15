@@ -1,0 +1,106 @@
+Compared Result of  two versions
+Number of New Class: 64
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.fcrepo.common.policy.ActionNamespace: 
+new Added class 1 : org.fcrepo.client.APIMStubWrapper: 
+new Added class 2 : org.fcrepo.server.storage.translation.AtomDODeserializer: 
+new Added class 3 : org.fcrepo.server.security.jaas.AuthFilterJAAS: 
+new Added class 4 : org.fcrepo.server.security.Authorization: 
+new Added class 5 : org.fcrepo.client.utility.AutoPurger: 
+new Added class 6 : org.fcrepo.client.batch.BatchModifyParser: 
+new Added class 7 : org.fcrepo.test.integration.cma.ConflictingDeploymentTests: 
+new Added class 8 : org.fcrepo.client.datastream.DatastreamConduit: 
+new Added class 9 : org.fcrepo.server.rest.DatastreamFilenameHelper: 
+new Added class 10 : org.fcrepo.server.storage.types.DatastreamManagedContent: 
+new Added class 11 : org.fcrepo.client.objecteditor.DatastreamPane: 
+new Added class 12 : org.fcrepo.server.rest.DatastreamResource: 
+new Added class 13 : org.fcrepo.server.storage.types.DatastreamXMLMetadata: 
+new Added class 14 : org.fcrepo.server.security.DefaultAuthorization: 
+new Added class 15 : org.fcrepo.server.access.defaultdisseminator.DefaultDisseminatorImpl: 
+new Added class 16 : org.fcrepo.server.storage.DefaultDOManager: 
+new Added class 17 : org.fcrepo.server.management.DefaultManagement: 
+new Added class 18 : org.fcrepo.server.rest.DefaultSerializer: 
+new Added class 19 : org.fcrepo.server.utilities.DerbyDDLConverterIntegrationTest: 
+new Added class 20 : org.fcrepo.server.storage.translation.DOTranslationUtility: 
+new Added class 21 : org.fcrepo.server.management.FedoraAPIMBindingSOAPHTTPImpl: 
+new Added class 22 : org.fcrepo.server.rest.FedoraObjectResource: 
+new Added class 23 : org.fcrepo.server.resourceIndex.FedoraObjectTripleGenerator_3_0: 
+new Added class 24 : org.fcrepo.test.FedoraServerTestCase: 
+new Added class 25 : org.fcrepo.common.FedoraTestConstants: 
+new Added class 26 : org.fcrepo.utilities.install.container.FedoraWebXML: 
+new Added class 27 : org.fcrepo.server.search.FieldSearchResultSQLImpl: 
+new Added class 28 : org.fcrepo.server.search.FieldSearchSQLImpl: 
+new Added class 29 : org.fcrepo.server.journal.JournalConsumer: 
+new Added class 30 : org.fcrepo.server.journal.JournalCreator: 
+new Added class 31 : org.fcrepo.server.journal.Journaler: 
+new Added class 32 : org.fcrepo.server.management.Management: 
+new Added class 33 : org.fcrepo.server.security.xacml.pdp.decorator.ManagementMethodInvocation: 
+new Added class 34 : org.fcrepo.server.management.ManagementModule: 
+new Added class 35 : org.fcrepo.server.MockContext: 
+new Added class 36 : org.fcrepo.server.management.MockManagementDelegate: 
+new Added class 37 : org.fcrepo.server.storage.types.ObjectBuilder: 
+new Added class 38 : org.fcrepo.server.access.defaultdisseminator.ObjectInfoAsXML: 
+new Added class 39 : org.fcrepo.test.OneEmptyObjectTestSetup: 
+new Added class 40 : org.fcrepo.client.test.PerformanceTests: 
+new Added class 41 : org.fcrepo.client.test.MethodRunner: 
+new Added class 42 : org.fcrepo.server.rest.RelationshipResource: 
+new Added class 43 : org.fcrepo.server.resourceIndex.ResourceIndexRebuilderTest: 
+new Added class 44 : org.fcrepo.server.storage.SimpleDOWriter: 
+new Added class 45 : org.fcrepo.test.api.TestAPIM: 
+new Added class 46 : org.fcrepo.test.api.TestAuthentication: 
+new Added class 47 : org.fcrepo.test.integration.TestCommandLineFormats: 
+new Added class 48 : org.fcrepo.test.integration.TestCommandLineUtilities: 
+new Added class 49 : org.fcrepo.test.integration.TestLargeDatastreams: 
+new Added class 50 : org.fcrepo.test.api.TestManagedDatastreams: 
+new Added class 51 : org.fcrepo.test.api.TestManagementNotifications: 
+new Added class 52 : org.fcrepo.test.api.TestManyDisseminations: 
+new Added class 53 : org.fcrepo.test.integration.TestMisplacedNamespace: 
+new Added class 54 : org.fcrepo.test.integration.TestOAIService: 
+new Added class 55 : org.fcrepo.test.api.TestRelationships: 
+new Added class 56 : org.fcrepo.test.api.TestRESTAPIextends: 
+new Added class 57 : org.fcrepo.test.api.TestRESTAPIConfigQ: 
+new Added class 58 : org.fcrepo.test.api.TestRISearch: 
+new Added class 59 : org.fcrepo.test.api.TestXACMLPolicies: 
+new Added class 60 : org.fcrepo.server.storage.types.TupleArrayTripleIterator: 
+new Added class 61 : org.fcrepo.server.utilities.TypeUtility: 
+new Added class 62 : org.fcrepo.server.validation.ValidationUtility: 
+new Added class 63 : org.fcrepo.server.validation.ValidationUtilityTest: 
+testing relationship 
+class 2  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:11  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 14  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 13£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 13£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:16  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 32£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:19  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 17  vs  class 13£º  r0:0  r1:0  r2:0  r3:3  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:23  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 32£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:19  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:-1  r15:0  r16:1  r17:0  
+class 27  vs  class 13£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 13£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 28  vs  class 27£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:1  r15:0  r16:3  r17:0  
+class 31  vs  class 32£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 32£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 4£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 32£º  r0:0  r1:0  r2:1  r3:1  r4:0  r5:1  r6:0  r7:0  r8:1  r9:0  r10:21  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 37  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 13£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:1  r17:0  
+class 41  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 44  vs  class 13£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:60  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 44  vs  class 16£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:1  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 45  vs  class 24£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 46  vs  class 24£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 24£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 50  vs  class 24£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 24£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 24£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 54  vs  class 24£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 55  vs  class 24£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 57  vs  class 24£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 58  vs  class 24£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 59  vs  class 24£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  11   2 :  5   3 :  12   4 :  0   5 :  1   6 :  1   7 :  0   8 :  9   9 :  0   10 :  60   11 :  147   12 :  0   13 :  7   14 :  5   15 :  0   16 :  5   17 :  0   

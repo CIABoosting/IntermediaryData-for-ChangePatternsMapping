@@ -1,0 +1,16 @@
+WindowFunction:0.7261111111111112
+AggregateWindowFunction:0.29333333333333333
+WindowOperator:0.25
+SimpleWindowFunction:0.22666666666666666
+LagFunction:0.12
+LeadFunction:0.11333333333333333
+NTileFunction:0.1
+NthValueFunction:0.04666666666666667
+FirstValueFunction:0.043333333333333335
+LastValueFunction:0.043333333333333335
+DenseRankFunction:0.03666666666666667
+RankFunction:0.03333333333333333
+CumulativeDistributionFunction:0.03333333333333333
+CustomRank:0.03333333333333333
+PercentRankFunction:0.03
+RowNumberFunction:0.02

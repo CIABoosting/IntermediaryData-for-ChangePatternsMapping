@@ -1,0 +1,13 @@
+Assignments:0.6033333333333334
+ShouldFilterOutNullSingleDataPoints:0.569555315055315
+ShouldFilterOutNullElementsFromDataPointArrays:0.569555315055315
+AllMembersSupplier:0.39
+AllMembersSupplierTest:0.2633333333333333
+TheoryAnchor:0.21
+HasFailingDataPointArrayMethod:0.1868214285714286
+HasFailingSingleDataPointMethod:0.1868214285714286
+HasFailingDataPointsArrayMethod:0.1868214285714286
+WithDataPointMethod:0.15666666666666668
+WithExtendedParameterSources:0.13666666666666666
+HasDataPoints:0.045
+ShouldRejectTheoriesWithOnlyDisallowedNullData:0.045

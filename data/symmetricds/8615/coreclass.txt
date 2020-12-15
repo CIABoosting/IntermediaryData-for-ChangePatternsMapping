@@ -1,0 +1,14 @@
+DatabaseNamesConstants:0.6766666666666666
+TriggerRouterService:0.3521666666666667
+AbstractJdbcDdlReader:0.2633333333333333
+AbstractDdlBuilder:0.25666666666666665
+RedshiftDatabasePlatform:0.23333333333333334
+ModelComparator:0.23166666666666666
+JdbcDatabasePlatformFactory:0.20666666666666667
+RedshiftDdlBuilder:0.2038888888888889
+RedshiftDmlStatement:0.19
+RedshiftSymmetricDialect:0.12666666666666668
+DmlStatementFactory:0.11
+JdbcSymmetricDialectFactory:0.08333333333333333
+RedshiftDdlReader:0.06
+RedshiftJdbcSqlTemplate:0.018888888888888886

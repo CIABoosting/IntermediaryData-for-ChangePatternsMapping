@@ -1,0 +1,26 @@
+Compared Result of  two versions
+Number of New Class: 20
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.bson.io.BasicOutputBufferTest: 
+new Added class 1 : org.bson.BSONTest: 
+new Added class 2 : com.mongodb.ClassA: 
+new Added class 3 : com.mongodb.ClassB: 
+new Added class 4 : com.mongodb.connection.ClusterDescriptionTest: 
+new Added class 5 : com.mongodb.client.ConcreteCodecProvider: 
+new Added class 6 : com.mongodb.DBCollectionTest: 
+new Added class 7 : com.mongodb.acceptancetest.atomicoperations.FindAndDeleteAcceptanceTest: 
+new Added class 8 : com.mongodb.gridfs.GridFSTest: 
+new Added class 9 : com.mongodb.util.JSONSerializersTest: 
+new Added class 10 : com.mongodb.connection.MessageHelper: 
+new Added class 11 : com.mongodb.client.NameCodecProvider: 
+new Added class 12 : com.mongodb.connection.NativeAuthenticatorUnitTest: 
+new Added class 13 : tour.QuickTour: 
+new Added class 14 : com.mongodb.ReadPreferenceChooseServersTest: 
+new Added class 15 : com.mongodb.selector.ServerAddressSelectorTest: 
+new Added class 16 : com.mongodb.binding.SingleConnectionBindingTest: 
+new Added class 17 : com.mongodb.async.client.TestOperationExecutor: 
+new Added class 18 : com.mongodb.client.test.WorkerCodecProvider: 
+new Added class 19 : com.mongodb.connection.X509AuthenticatorUnitTest: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

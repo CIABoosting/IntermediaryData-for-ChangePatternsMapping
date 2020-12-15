@@ -1,0 +1,16 @@
+Packet:0.55
+Socks5Transport:0.43666666666666665
+ByteStreamConnection:0.39666666666666667
+DataTransferManager:0.36
+ITransport:0.22333333333333333
+ByteStreamTransport:0.19
+XMPPTunnelPacketExtension:0.1580952380952381
+PacketListenerHolder:0.14666666666666667
+BinaryChannelTransferObject:0.13666666666666666
+IByteStreamConnection:0.09753968253968254
+VersionRequestPacket:0.09333333333333334
+VersionResponsePacket:0.09333333333333334
+ByteStreamConnectionTest:0.08333333333333333
+NOPPacket:0.07333333333333333
+TestPacket:0.07
+IBBTransport:0.016666666666666666

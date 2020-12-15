@@ -1,0 +1,16 @@
+IncludeExclude:0.49
+StringTermsTests:0.3566666666666667
+Parser:0.28
+SignificantTermsAggregatorFactory:0.25666666666666665
+TermsAggregatorFactory:0.25333333333333335
+TermsBuilder:0.21333333333333335
+OrdinalsFilter:0.13333333333333333
+StringFilter:0.13333333333333333
+TermsParser:0.09666666666666666
+SignificantTermsParser:0.09
+SignificantStringTermsAggregator:0.08111111111111112
+GlobalOrdinalsSignificantTermsAggregator:0.08111111111111112
+GlobalOrdinalsStringTermsAggregator:0.07666666666666666
+StringTermsAggregator:0.07333333333333333
+DocValuesTerms:0.051666666666666666
+WithHash:0.05

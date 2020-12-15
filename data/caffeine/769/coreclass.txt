@@ -1,0 +1,14 @@
+Caffeine:0.6266666666666667
+CacheTesting:0.49
+CacheBuilderTest:0.3333333333333333
+CacheLoadingTest:0.31666666666666665
+IncrementingLoader:0.24333333333333335
+TestingCacheLoaders:0.23833333333333334
+LocalLoadingCacheTest:0.23333333333333334
+CacheEvictionTest:0.20166666666666666
+CaffeinatedGuavaLoadingCache:0.19666666666666666
+CacheExpirationTest:0.185
+DelayingIdentityLoader:0.16333333333333333
+NullCacheTest:0.12
+CaffeinatedGuavaCacheLoader:0.11333333333333333
+CacheRefreshTest:0.08333333333333333

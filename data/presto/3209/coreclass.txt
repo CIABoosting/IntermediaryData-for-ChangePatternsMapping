@@ -1,0 +1,8 @@
+LookupSource:0.6533333333333333
+TestHashJoinOperator:0.3333333333333333
+LookupJoinOperator:0.29333333333333333
+OuterLookupSource:0.26555555555555554
+EmptyLookupSource:0.21
+IndexLookupSource:0.21
+JoinHash:0.21
+PartitionedLookupSource:0.11583333333333333

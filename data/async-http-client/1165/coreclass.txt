@@ -1,0 +1,14 @@
+EventCollectingHandler:0.5133333333333333
+AsyncHandlerExtensions:0.426
+AsyncCompletionHandler:0.4066666666666667
+NettyRequestSender:0.2866666666666667
+NettyConnectListener:0.23688888888888887
+ProgressListener:0.20977777777777776
+TransferCompletionHandler:0.17666666666666667
+AsyncProvidersBasicTest:0.17333333333333334
+NettyConnectionPoolTest:0.14
+ZeroCopyFileTest:0.12333333333333334
+ResumableBodyConsumerAsyncHandler:0.11
+ProgressAsyncHandler:0.10333333333333333
+BasicHttpsTest:0.08666666666666667
+ConnectionPoolTest:0.07583333333333334

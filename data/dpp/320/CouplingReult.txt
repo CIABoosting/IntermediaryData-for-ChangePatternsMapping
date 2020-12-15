@@ -1,0 +1,164 @@
+Compared Result of  two versions
+Number of New Class: 75
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : de.fu_berlin.inf.dpp.test.ActivitiesExtensionProviderTest: 
+new Added class 1 : de.fu_berlin.inf.dpp.test.ActivitySequencerTest: 
+new Added class 2 : de.fu_berlin.inf.dpp.test.AllTests: 
+new Added class 3 : de.fu_berlin.inf.dpp.test.jupiter.client.ClientAddedToServerTest: 
+new Added class 4 : de.fu_berlin.inf.dpp.test.jupiter.text.ClientSynchronizedDocument: 
+new Added class 5 : de.fu_berlin.inf.dpp.test.jupiter.server.impl.ConcurrentManager: 
+new Added class 6 : de.fu_berlin.inf.dpp.test.ContributionAnnotationTest: 
+new Added class 7 : de.fu_berlin.inf.dpp.test.jupiter.puzzles.ConvergenceProblemTest: 
+new Added class 8 : de.fu_berlin.inf.dpp.test.jupiter.puzzles.CounterExampleTest: 
+new Added class 9 : de.fu_berlin.inf.dpp.test.jupiter.text.Document: 
+new Added class 10 : de.fu_berlin.inf.dpp.test.jupiter.text.DocumentTestChecker: 
+new Added class 11 : de.fu_berlin.inf.dpp.test.jupiter.puzzles.DOptPuzzleTest: 
+new Added class 12 : de.fu_berlin.inf.dpp.test.stubs.EditorAPIStub: 
+new Added class 13 : de.fu_berlin.inf.dpp.test.EditorAPITest: 
+new Added class 14 : de.fu_berlin.inf.dpp.test.EditorManagerTest: 
+new Added class 15 : de.fu_berlin.inf.dpp.test.EditorManagerTest2: 
+new Added class 16 : de.fu_berlin.inf.dpp.test.stubs.EditorPartStub: 
+new Added class 17 : de.fu_berlin.inf.dpp.test.util.FileListHelper: 
+new Added class 18 : de.fu_berlin.inf.dpp.test.FileListTest: 
+new Added class 19 : de.fu_berlin.inf.dpp.test.stubs.FileStub: 
+new Added class 20 : de.fu_berlin.inf.dpp.test.net.learning.FileTransferProcessMonitor: 
+new Added class 21 : de.fu_berlin.inf.dpp.test.net.IBBFileTransferTest: 
+new Added class 22 : de.fu_berlin.inf.dpp.test.jupiter.puzzles.InclusionTransformationTest: 
+new Added class 23 : de.fu_berlin.inf.dpp.test.invitation.internal.mock.IncomingInvitationProcessStub: 
+new Added class 24 : de.fu_berlin.inf.dpp.test.invitation.internal.IncommingInvitationTest: 
+new Added class 25 : de.fu_berlin.inf.dpp.test.invitation.internal.InvitationProcessTest: 
+new Added class 26 : de.fu_berlin.inf.dpp.test.JIDTest: 
+new Added class 27 : de.fu_berlin.inf.dpp.test.net.JingleFileTransferTest: 
+new Added class 28 : de.fu_berlin.inf.dpp.test.jupiter.text.JupiterDocumentListener: 
+new Added class 29 : de.fu_berlin.inf.dpp.test.jupiter.text.JupiterServer: 
+new Added class 30 : de.fu_berlin.inf.dpp.test.jupiter.text.JupiterTestCase: 
+new Added class 31 : de.fu_berlin.inf.dpp.test.jupiter.ui.JupiterTestUI: 
+new Added class 32 : de.fu_berlin.inf.dpp.test.jupiter.ui.Messages: 
+new Added class 33 : de.fu_berlin.inf.dpp.test.net.mock.MockInvitationProcess: 
+new Added class 34 : de.fu_berlin.inf.dpp.test.invitation.internal.mock.MockOutgoingInvitationProcess: 
+new Added class 35 : de.fu_berlin.inf.dpp.test.net.MultiUserChatManagerTest: 
+new Added class 36 : de.fu_berlin.inf.dpp.test.jupiter.text.network.NetworkConnection: 
+new Added class 37 : de.fu_berlin.inf.dpp.test.jupiter.text.network.NetworkEventHandler: 
+new Added class 38 : de.fu_berlin.inf.dpp.test.jupiter.text.NetworkRequest: 
+new Added class 39 : de.fu_berlin.inf.dpp.test.invitation.internal.OutgoingInvitationTest: 
+new Added class 40 : de.fu_berlin.inf.dpp.test.jupiter.text.ProxySynchronizedQueue: 
+new Added class 41 : de.fu_berlin.inf.dpp.test.net.ReceivedSingleFileListener: 
+new Added class 42 : de.fu_berlin.inf.dpp.test.net.ReceiveFileListFileTransferListener: 
+new Added class 43 : de.fu_berlin.inf.dpp.test.RequestExtensionProviderTest: 
+new Added class 44 : de.fu_berlin.inf.dpp.test.net.RequestTransmitterTest: 
+new Added class 45 : de.fu_berlin.inf.dpp.test.util.ResourceHelper: 
+new Added class 46 : de.fu_berlin.inf.dpp.test.net.RosterListenerImpl: 
+new Added class 47 : de.fu_berlin.inf.dpp.test.SarosTest: 
+new Added class 48 : de.fu_berlin.inf.dpp.test.jupiter.text.ServerSynchronizedDocument: 
+new Added class 49 : de.fu_berlin.inf.dpp.test.jupiter.puzzles.SimpleClientServerTest: 
+new Added class 50 : de.fu_berlin.inf.dpp.test.jupiter.puzzles.SimpleJupiterDocumentTest: 
+new Added class 51 : de.fu_berlin.inf.dpp.test.jupiter.puzzles.SimpleServerProxyTest: 
+new Added class 52 : de.fu_berlin.inf.dpp.test.jupiter.text.network.SimulatedNetworkTest: 
+new Added class 53 : de.fu_berlin.inf.dpp.test.jupiter.text.network.SimulateNetzwork: 
+new Added class 54 : de.fu_berlin.inf.dpp.test.SmackFileTransferTest: 
+new Added class 55 : de.fu_berlin.inf.dpp.test.net.mock.StubXMPPTransmitter: 
+new Added class 56 : de.fu_berlin.inf.dpp.test.project.svn.SVNProjectTest: 
+new Added class 57 : de.fu_berlin.inf.dpp.test.jupiter.SynchronizedQueue: 
+new Added class 58 : de.fu_berlin.inf.dpp.test.zip.TarFileZipperTest: 
+new Added class 59 : de.fu_berlin.inf.dpp.test.net.Test: 
+new Added class 60 : de.fu_berlin.inf.dpp.test.actions.TestActions: 
+new Added class 61 : de.fu_berlin.inf.dpp.test.jupiter.server.TestClientManaging: 
+new Added class 62 : de.fu_berlin.inf.dpp.test.jupiter.TestDifferentProxyScenarios: 
+new Added class 63 : de.fu_berlin.inf.dpp.test.TestHelper: 
+new Added class 64 : de.fu_berlin.inf.dpp.test.actions.TestJoinWizardAction: 
+new Added class 65 : de.fu_berlin.inf.dpp.test.net.learning.TestXMPPFileTranserReceiver: 
+new Added class 66 : de.fu_berlin.inf.dpp.test.net.learning.TestXMPPFileTransferSender: 
+new Added class 67 : de.fu_berlin.inf.dpp.test.stubs.TextSelectionStub: 
+new Added class 68 : de.fu_berlin.inf.dpp.test.jupiter.text.TwoWayJupiterClientDocument: 
+new Added class 69 : de.fu_berlin.inf.dpp.test.jupiter.text.TwoWayJupiterServerDocument: 
+new Added class 70 : de.fu_berlin.inf.dpp.test.jupiter.ui.UITest: 
+new Added class 71 : de.fu_berlin.inf.dpp.test.net.UserListExtensionTest: 
+new Added class 72 : de.fu_berlin.inf.dpp.test.invitation.internal.XMPPChatTransmitterFileTransferTest: 
+new Added class 73 : de.fu_berlin.inf.dpp.test.XMPPTestCase: 
+new Added class 74 : de.fu_berlin.inf.dpp.test.net.XMPPTransmitterTest: 
+testing relationship 
+class 2  vs  class 0£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 26£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:4  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:-2  r12:0  r13:18  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 3  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 28£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 4  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 37£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 38£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:2  r17:0  
+class 4  vs  class 57£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 37£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 38£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:4  r17:0  
+class 6  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:10  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:12  r12:0  r13:27  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:31  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:54  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:6  r12:0  r13:9  r14:0  r15:0  r16:0  r17:0  
+class 11  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 68£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:47  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 69£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-30  r9:0  r10:64  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 73£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 30  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 31  vs  class 32£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:29  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:-1  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 40  vs  class 57£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 47  vs  class 46£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:16  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 29£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 48  vs  class 37£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 38£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 48  vs  class 40£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 57£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 49  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:21  r14:0  r15:0  r16:0  r17:0  
+class 49  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 49  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 49  vs  class 69£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:15  r14:0  r15:0  r16:0  r17:0  
+class 50  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 50  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:41  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 51  vs  class 59£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:11  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 48£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:8  r14:0  r15:0  r16:0  r17:0  
+class 52  vs  class 53£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:5  r9:0  r10:4  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 36£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 53  vs  class 37£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:3  r17:0  
+class 53  vs  class 38£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:4  r17:0  
+class 60  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:11  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 61  vs  class 30£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 64  vs  class 23£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 65  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:1  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 66  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:1  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 68  vs  class 4£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 69  vs  class 9£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 69  vs  class 10£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 69  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 69  vs  class 37£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 69  vs  class 38£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:1  r17:0  
+class 69  vs  class 57£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 70  vs  class 31£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 72  vs  class 34£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  11   2 :  13   3 :  0   4 :  0   5 :  7   6 :  9   7 :  0   8 :  39   9 :  0   10 :  119   11 :  117   12 :  2   13 :  287   14 :  2   15 :  0   16 :  16   17 :  0   

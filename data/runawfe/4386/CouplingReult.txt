@@ -1,0 +1,49 @@
+Compared Result of  two versions
+Number of New Class: 26
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : ru.runa.gpd.ui.action.BaseActionDelegate: 
+new Added class 1 : ru.runa.gpd.office.excel.BaseExcelHandlerCellEditorProvider: 
+new Added class 2 : ru.runa.gpd.formeditor.BaseHtmlFormType: 
+new Added class 3 : ru.runa.gpd.lang.par.BotsXmlContentProvider: 
+new Added class 4 : ru.runa.gpd.editor.BotTaskEditor: 
+new Added class 5 : ru.runa.gpd.ltk.BotTaskParamRenameProvider: 
+new Added class 6 : ru.runa.gpd.handler.DelegableProvider: 
+new Added class 7 : ru.runa.gpd.ui.action.DeleteAction: 
+new Added class 8 : ru.runa.gpd.office.word.DocxColumnModel: 
+new Added class 9 : ru.runa.gpd.office.word.DocxHandlerCellEditorProvider: 
+new Added class 10 : ru.runa.gpd.office.word.DocxModel: 
+new Added class 11 : ru.runa.gpd.office.word.DocxTableModel: 
+new Added class 12 : ru.runa.gpd.office.excel.ExcelModel: 
+new Added class 13 : ru.runa.gpd.ui.action.ExportAction: 
+new Added class 14 : ru.runa.gpd.ui.action.ExportBotElementAction: 
+new Added class 15 : ru.runa.gpd.handler.HandlerArtifact: 
+new Added class 16 : ru.runa.gpd.ui.action.ImportAction: 
+new Added class 17 : ru.runa.gpd.ui.action.ImportBotElementAction: 
+new Added class 18 : ru.runa.gpd.office.InputOutputComposite: 
+new Added class 19 : ru.runa.gpd.ui.action.NewBotAction: 
+new Added class 20 : ru.runa.gpd.ui.action.NewBotStationAction: 
+new Added class 21 : ru.runa.gpd.ui.action.NewBotTaskAction: 
+new Added class 22 : ru.runa.gpd.ui.action.NewBotTaskWithFormalAction: 
+new Added class 23 : ru.runa.gpd.ui.action.NewProcessAction: 
+new Added class 24 : ru.runa.gpd.handler.action.SQLHandlerCellEditorProvider: 
+new Added class 25 : ru.runa.gpd.handler.action.XmlBasedConstructorProvider: 
+testing relationship 
+class 1  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 25£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:4  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 10£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 25£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 16  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 20  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 22  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 23  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 24  vs  class 25£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 25  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  14   2 :  0   3 :  0   4 :  0   5 :  4   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  5   12 :  0   13 :  4   14 :  0   15 :  0   16 :  0   17 :  0   

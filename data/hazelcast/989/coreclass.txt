@@ -1,0 +1,7 @@
+CardinalityEstimatorConfig:0.5233333333333333
+CardinalityEstimatorService:0.32666666666666666
+AbstractSemaphoreQuorumTest:0.25
+ClientSemaphoreQuorumReadTest:0.24333333333333335
+ClientSemaphoreQuorumWriteTest:0.24333333333333335
+AbstractCardinalityEstimatorOperation:0.16
+CardinalityEstimatorConfigReadOnly:0.139468253968254

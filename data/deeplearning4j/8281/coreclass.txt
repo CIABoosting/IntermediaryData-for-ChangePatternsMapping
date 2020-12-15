@@ -1,0 +1,16 @@
+StateTracker:0.711111111111111
+LuceneInvertedIndex:0.30666666666666664
+BaseHazelCastStateTracker:0.30333333333333334
+StateTrackerDropWizardResource:0.2725
+LocalFileUpdateSaver:0.26666666666666666
+BaseTextVectorizer:0.23333333333333334
+Word2VecJobIterator:0.22611111111111115
+WorkerActor:0.20833333333333334
+Word2VecPerformer:0.2
+MasterActor:0.16
+Builder:0.15
+Word2VecWork:0.14666666666666667
+TfidfVectorizer:0.11666666666666667
+DistributedWord2VecTest:0.11666666666666667
+BagOfWordsVectorizer:0.09111111111111111
+HogWildWorkRouter:0.03

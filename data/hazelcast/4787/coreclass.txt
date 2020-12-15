@@ -1,0 +1,14 @@
+RecordStore:0.5372777777777777
+Operation:0.49666666666666665
+LoadAllOperation:0.3933333333333333
+MapProxySupport:0.31333333333333335
+DefaultRecordStore:0.23333333333333334
+MapKeyLoader:0.20333333333333334
+MapOperationProviderDelegator:0.17
+MapOperationProvider:0.1608730158730159
+DefaultMapOperationProvider:0.15333333333333332
+MapLoadAllOperationFactory:0.15
+MapLoaderTest:0.13333333333333333
+DummyMapLoader:0.08666666666666667
+ClientMapLoadAllTest:0.07666666666666666
+TestCollectionUtils:0.043333333333333335

@@ -1,0 +1,15 @@
+Compared Result of  two versions
+Number of New Class: 9
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.hibernate.dialect.AbstractHANADialect: 
+new Added class 1 : org.hibernate.event.spi.AbstractPreDatabaseOperationEvent: 
+new Added class 2 : org.hibernate.hql.internal.ast.util.ASTUtil: 
+new Added class 3 : org.hibernate.internal.util.collections.CollectionHelper: 
+new Added class 4 : org.hibernate.hql.internal.ast.util.ColumnHelper: 
+new Added class 5 : org.hibernate.id.factory.IdentifierGeneratorFactory: 
+new Added class 6 : org.hibernate.engine.spi.Mapping: 
+new Added class 7 : org.hibernate.hql.internal.ast.tree.ParameterContainer: 
+new Added class 8 : org.hibernate.engine.spi.TypedValue: 
+testing relationship 
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

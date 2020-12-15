@@ -1,0 +1,15 @@
+CoordinatorModule:0.32
+ServerMainModule:0.2
+FailureDetectorModule:0.18333333333333332
+TestingH2JdbcModule:0.13666666666666666
+HiveClientModule:0.12
+CassandraClientModule:0.12
+MySqlClientModule:0.11666666666666667
+KafkaConnectorModule:0.11333333333333333
+StorageModule:0.11333333333333333
+PrestoVerifierModule:0.11333333333333333
+JdbcModule:0.11333333333333333
+ExampleModule:0.11333333333333333
+EmbeddedDiscoveryModule:0.09333333333333334
+PostgreSqlClientModule:0.09333333333333334
+TestHeartbeatFailureDetector:0.08

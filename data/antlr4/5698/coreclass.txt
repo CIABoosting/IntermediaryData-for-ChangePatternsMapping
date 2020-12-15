@@ -1,0 +1,12 @@
+TestCompositeGrammars:0.34
+TestParseErrors:0.32666666666666666
+TestTokenTypeAssignment:0.30333333333333334
+TestSets:0.30333333333333334
+TestActionTranslation:0.2833333333333333
+TestLexerErrors:0.28
+TestTokenStreamRewriter:0.26666666666666666
+TestListeners:0.24666666666666667
+TestATNInterpreter:0.24666666666666667
+TestATNSerialization:0.24333333333333335
+TestLexerExec:0.22
+TestSemPredEvalLexer:0.19

@@ -1,0 +1,9 @@
+HivePartitionKey:0.3414285714285714
+ColumnarBinaryHiveRecordCursor:0.2733333333333333
+DwrfHiveRecordCursor:0.2733333333333333
+ColumnarTextHiveRecordCursor:0.2733333333333333
+ParquetHiveRecordCursor:0.2633333333333333
+OrcHiveRecordCursor:0.24
+GenericHiveRecordCursor:0.21666666666666667
+RcFilePageSource:0.20666666666666667
+OrcPageSource:0.20666666666666667

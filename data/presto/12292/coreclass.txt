@@ -1,0 +1,11 @@
+RetryDriver:0.48
+SplitManager:0.27
+ImportMetadata:0.20333333333333334
+ImportPartition:0.19
+PartitionChunkSupplier:0.19
+DropJob:0.19
+ImportTableExecution:0.16333333333333333
+ShardDropJob:0.13666666666666666
+ChunkImportJob:0.13666666666666666
+ImportJob:0.1363888888888889
+ImportManager:0.12

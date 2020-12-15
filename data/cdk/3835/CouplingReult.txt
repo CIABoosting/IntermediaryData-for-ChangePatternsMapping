@@ -1,0 +1,158 @@
+Compared Result of  two versions
+Number of New Class: 141
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.openscience.cdk.test.ringsearch.AllRingsFinderTest: 
+new Added class 1 : org.openscience.cdk.test.applications.APIVersionTesterTest: 
+new Added class 2 : org.openscience.cdk.test.qsar.APolDescriptorTest: 
+new Added class 3 : org.openscience.cdk.test.qsar.AromaticAtomsCountDescriptorTest: 
+new Added class 4 : org.openscience.cdk.test.qsar.AromaticBondsCountDescriptorTest: 
+new Added class 5 : org.openscience.cdk.test.AssociationTest: 
+new Added class 6 : org.openscience.cdk.test.tools.manipulator.AtomContainerManipulatorTest: 
+new Added class 7 : org.openscience.cdk.test.AtomContainerTest: 
+new Added class 8 : org.openscience.cdk.test.qsar.AtomCountDescriptorTest: 
+new Added class 9 : org.openscience.cdk.test.qsar.AtomDegreeDescriptorTest: 
+new Added class 10 : org.openscience.cdk.test.AtomEnumerationTest: 
+new Added class 11 : org.openscience.cdk.test.AtomParityTest: 
+new Added class 12 : org.openscience.cdk.test.AtomTest: 
+new Added class 13 : org.openscience.cdk.test.config.AtomTypeFactoryTest: 
+new Added class 14 : org.openscience.cdk.test.AtomTypeTest: 
+new Added class 15 : org.openscience.cdk.test.qsar.AtomValenceDescriptorTest: 
+new Added class 16 : org.openscience.cdk.test.qsar.BCUTDescriptorTest: 
+new Added class 17 : org.openscience.cdk.test.graph.BiconnectivityInspectorTest: 
+new Added class 18 : org.openscience.cdk.test.BioPolymerTest: 
+new Added class 19 : org.openscience.cdk.test.qsar.BondCountDescriptorTest: 
+new Added class 20 : org.openscience.cdk.test.qsar.BondsToAtomDescriptorTest: 
+new Added class 21 : org.openscience.cdk.test.BondTest: 
+new Added class 22 : org.openscience.cdk.test.qsar.BPolDescriptorTest: 
+new Added class 23 : org.openscience.cdk.test.tools.BremserPredictorTest: 
+new Added class 24 : org.openscience.cdk.test.index.CASNumberTest: 
+new Added class 25 : org.openscience.cdk.test.CDKConstantsTest: 
+new Added class 26 : org.openscience.cdk.test.exception.CDKExceptionTest: 
+new Added class 27 : org.openscience.cdk.test.CDKTestCase: 
+new Added class 28 : org.openscience.cdk.test.ChangeEventPropagationTest: 
+new Added class 29 : org.openscience.cdk.test.ChemFileTest: 
+new Added class 30 : org.openscience.cdk.test.ChemModelTest: 
+new Added class 31 : org.openscience.cdk.test.event.ChemObjectChangeEventTest: 
+new Added class 32 : org.openscience.cdk.test.ChemObjectTest: 
+new Added class 33 : org.openscience.cdk.test.ChemSequenceTest: 
+new Added class 34 : org.openscience.cdk.test.CloneAtomContainerTest: 
+new Added class 35 : org.openscience.cdk.test.io.cml.CMLFragmentsTest: 
+new Added class 36 : org.openscience.cdk.test.qsar.model.CNNRegressionModelTest: 
+new Added class 37 : org.openscience.cdk.test.graph.ConnectivityCheckerTest: 
+new Added class 38 : org.openscience.cdk.test.qsar.ConnectivityOrderOneDescriptorTest: 
+new Added class 39 : org.openscience.cdk.test.qsar.ConnectivityOrderZeroDescriptorTest: 
+new Added class 40 : org.openscience.cdk.test.CoverageTest: 
+new Added class 41 : org.openscience.cdk.test.geometry.CrystalGeometryToolsTest: 
+new Added class 42 : org.openscience.cdk.test.CrystalTest: 
+new Added class 43 : org.openscience.cdk.test.ringsearch.cyclebasis.CycleBasisTest: 
+new Added class 44 : org.openscience.cdk.test.qsar.DescriptorEngineTest: 
+new Added class 45 : org.openscience.cdk.test.qsar.DistanceToAtomDescriptorTest: 
+new Added class 46 : org.openscience.cdk.test.qsar.EffectivePolarizabilityDescriptorTest: 
+new Added class 47 : org.openscience.cdk.test.ElectronContainerTest: 
+new Added class 48 : org.openscience.cdk.test.ElementTest: 
+new Added class 49 : org.openscience.cdk.test.structgen.deterministic.EquivalentClassesDeterministicGeneratorTest: 
+new Added class 50 : org.openscience.cdk.test.graph.invariant.EquivalentClassPartitionerTest: 
+new Added class 51 : org.openscience.cdk.test.fingerprint.FingerprinterTest: 
+new Added class 52 : org.openscience.cdk.test.modeling.forcefield.ForceFieldTests: 
+new Added class 53 : org.openscience.cdk.test.io.GamessReaderTest: 
+new Added class 54 : org.openscience.cdk.test.charges.GasteigerMarsiliPartialChargesTest: 
+new Added class 55 : org.openscience.cdk.test.io.Gaussian98ReaderTest: 
+new Added class 56 : org.openscience.cdk.test.structgen.deterministic.GENMDeterministicGeneratorTest: 
+new Added class 57 : org.openscience.cdk.test.geometry.GeometryToolsTest: 
+new Added class 58 : org.openscience.cdk.test.qsar.GravitationalIndexDescriptorTest: 
+new Added class 59 : org.openscience.cdk.test.qsar.HBondAcceptorCountDescriptorTest: 
+new Added class 60 : org.openscience.cdk.test.qsar.HBondDonorCountDescriptorTest: 
+new Added class 61 : org.openscience.cdk.test.tools.HOSECodeTest: 
+new Added class 62 : org.openscience.cdk.test.aromaticity.HueckelAromaticityDetectorTest: 
+new Added class 63 : org.openscience.cdk.test.tools.HydrogenAdderTest: 
+new Added class 64 : org.openscience.cdk.test.tools.IDCreatorTest: 
+new Added class 65 : org.openscience.cdk.test.isomorphism.IsomorphismTesterTest: 
+new Added class 66 : org.openscience.cdk.test.config.IsotopeFactoryTest: 
+new Added class 67 : org.openscience.cdk.test.config.isotopes.IsotopeHandlerTest: 
+new Added class 68 : org.openscience.cdk.test.config.isotopes.IsotopeReaderTest: 
+new Added class 69 : org.openscience.cdk.test.IsotopeTest: 
+new Added class 70 : org.openscience.cdk.test.qsar.IsProtonInAromaticSystemDescriptorTest: 
+new Added class 71 : org.openscience.cdk.test.qsar.IsProtonInConjugatedPiSystemDescriptorTest: 
+new Added class 72 : org.openscience.cdk.test.libio.joelib.JOELibIOTest: 
+new Added class 73 : org.openscience.cdk.test.geometry.alignment.KabschAlignmentTest: 
+new Added class 74 : org.openscience.cdk.test.qsar.KappaShapeIndicesDescriptorTest: 
+new Added class 75 : org.openscience.cdk.test.qsar.model.LinearRegressionModelTest: 
+new Added class 76 : org.openscience.cdk.tools.LoggingTool: 
+new Added class 77 : org.openscience.cdk.test.LonePairTest: 
+new Added class 78 : org.openscience.cdk.test.MappingTest: 
+new Added class 79 : org.openscience.cdk.test.math.MathToolsTest: 
+new Added class 80 : org.openscience.cdk.test.tools.MFAnalyserTest: 
+new Added class 81 : org.openscience.cdk.test.graph.MinimalPathIteratorTest: 
+new Added class 82 : org.openscience.cdk.test.charges.MMFF94PartialChargesTest: 
+new Added class 83 : org.openscience.cdk.test.modeling.builder3d.ModelBuilder3dTest: 
+new Added class 84 : org.openscience.cdk.test.MoleculeTest: 
+new Added class 85 : org.openscience.cdk.test.qsar.MomentOfInertiaDescriptorTest: 
+new Added class 86 : org.openscience.cdk.test.MonomerTest: 
+new Added class 87 : org.openscience.cdk.test.graph.invariant.MorganNumberToolsTest: 
+new Added class 88 : org.openscience.cdk.test.tools.NormalizerTest: 
+new Added class 89 : org.openscience.cdk.test.exception.NoSuchAtomExceptionTest: 
+new Added class 90 : org.openscience.cdk.test.smiles.smarts.ParserTest: 
+new Added class 91 : org.openscience.cdk.test.graph.PathToolsTest: 
+new Added class 92 : org.openscience.cdk.test.io.PDBReaderTest: 
+new Added class 93 : org.openscience.cdk.test.applications.swing.PeriodicTablePanelTest: 
+new Added class 94 : org.openscience.cdk.test.qsar.PeriodicTablePositionDescriptorTest: 
+new Added class 95 : org.openscience.cdk.test.qsar.PetitjeanNumberDescriptorTest: 
+new Added class 96 : org.openscience.cdk.test.qsar.PiContactDetectionDescriptorTest: 
+new Added class 97 : org.openscience.cdk.test.charges.PolarizabilityTest: 
+new Added class 98 : org.openscience.cdk.test.PolymerTest: 
+new Added class 99 : org.openscience.cdk.test.qsar.ProtonTotalPartialChargeDescriptorTest: 
+new Added class 100 : org.openscience.cdk.test.PseudoAtomTest: 
+new Added class 101 : org.openscience.cdk.test.qsar.QSARDescriptorTests: 
+new Added class 102 : org.openscience.cdk.test.structgen.RandomStructureGeneratorTest: 
+new Added class 103 : org.openscience.cdk.test.geometry.RDFCalculatorTest: 
+new Added class 104 : org.openscience.cdk.test.qsar.RDFProtonDescriptorTest: 
+new Added class 105 : org.openscience.cdk.test.reaction.ReactionBalancerTest: 
+new Added class 106 : org.openscience.cdk.test.tools.manipulator.ReactionManipulatorTest: 
+new Added class 107 : org.openscience.cdk.test.ReactionTest: 
+new Added class 108 : org.openscience.cdk.test.io.ReaderFactoryTest: 
+new Added class 109 : org.openscience.cdk.test.graph.rebond.RebondToolTest: 
+new Added class 110 : org.openscience.cdk.test.RingSetTest: 
+new Added class 111 : org.openscience.cdk.test.RingTest: 
+new Added class 112 : org.openscience.cdk.test.qsar.RotatableBondsCountDescriptorTest: 
+new Added class 113 : org.openscience.cdk.test.qsar.RuleOfFiveDescriptorTest: 
+new Added class 114 : org.openscience.cdk.test.limitations.tools.SaturationCheckerTest: 
+new Added class 115 : org.openscience.cdk.test.SetOfAtomContainersTest: 
+new Added class 116 : org.openscience.cdk.test.tools.manipulator.SetOfMoleculesManipulatorTest: 
+new Added class 117 : org.openscience.cdk.test.SetOfMoleculesTest: 
+new Added class 118 : org.openscience.cdk.test.SetOfReactionsTest: 
+new Added class 119 : org.openscience.cdk.test.qsar.SigmaElectronegativityDescriptorTest: 
+new Added class 120 : org.openscience.cdk.test.ringsearch.cyclebasis.SimpleCycleBasisTest: 
+new Added class 121 : org.openscience.cdk.test.SingleElectronTest: 
+new Added class 122 : org.openscience.cdk.test.qsar.model.SJavaEnvironmentTest: 
+new Added class 123 : org.openscience.cdk.test.isomorphism.SMARTSTest: 
+new Added class 124 : org.openscience.cdk.test.smiles.SmilesGeneratorTest: 
+new Added class 125 : org.openscience.cdk.test.smiles.SmilesParserTest: 
+new Added class 126 : org.openscience.cdk.test.layout.StructureDiagramGeneratorTest: 
+new Added class 127 : org.openscience.cdk.test.isomorphism.matchers.SymbolSetQueryAtomTest: 
+new Added class 128 : org.openscience.cdk.test.qsar.TPSADescriptorTest: 
+new Added class 129 : org.openscience.cdk.test.isomorphism.UniversalIsomorphismTesterTest: 
+new Added class 130 : org.openscience.cdk.test.qsar.ValenceConnectivityOrderOneDescriptorTest: 
+new Added class 131 : org.openscience.cdk.test.qsar.ValenceConnectivityOrderZeroDescriptorTest: 
+new Added class 132 : org.openscience.cdk.test.tools.ValencyCheckerTest: 
+new Added class 133 : org.openscience.cdk.test.tools.ValencyHybridCheckerTest: 
+new Added class 134 : org.openscience.cdk.test.qsar.VdWRadiusDescriptorTest: 
+new Added class 135 : org.openscience.cdk.test.structgen.VicinitySamplerTest: 
+new Added class 136 : org.openscience.cdk.test.qsar.WHIMDescriptorTest: 
+new Added class 137 : org.openscience.cdk.test.qsar.WienerNumbersDescriptorTest: 
+new Added class 138 : org.openscience.cdk.test.qsar.XLogPDescriptorTest: 
+new Added class 139 : org.openscience.cdk.test.qsar.ZagrebIndexDescriptorTest: 
+new Added class 140 : org.openscience.cdk.test.io.ZMatrixReaderTest: 
+testing relationship 
+class 18  vs  class 98£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 19  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 34  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 57£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 100  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 125  vs  class 76£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 125  vs  class 90£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:2  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 127  vs  class 12£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 129  vs  class 65£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 130  vs  class 38£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 131  vs  class 39£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  12   7 :  0   8 :  0   9 :  0   10 :  0   11 :  1   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

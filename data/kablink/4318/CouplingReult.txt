@@ -1,0 +1,32 @@
+Compared Result of  two versions
+Number of New Class: 12
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : com.sitescape.team.module.binder.impl.AbstractBinderProcessor: 
+new Added class 1 : com.sitescape.team.module.binder.impl.AbstractEntryProcessor: 
+new Added class 2 : com.sitescape.team.domain.Binder: 
+new Added class 3 : com.sitescape.team.mail.impl.DefaultFolderEmailFormatter: 
+new Added class 4 : com.sitescape.team.module.profile.impl.DefaultProfileCoreProcessor: 
+new Added class 5 : com.sitescape.team.jobs.DefaultUserTitleChange: 
+new Added class 6 : com.sitescape.team.domain.Folder: 
+new Added class 7 : com.sitescape.team.util.NLT: 
+new Added class 8 : com.sitescape.team.ObjectKeys: 
+new Added class 9 : com.sitescape.team.module.profile.impl.ProfileModuleImpl: 
+new Added class 10 : com.sitescape.team.domain.Workspace: 
+new Added class 11 : com.sitescape.team.module.zone.impl.ZoneModuleImpl: 
+testing relationship 
+class 0  vs  class 2£º  r0:0  r1:0  r2:0  r3:4  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:22  r12:0  r13:6  r14:114  r15:0  r16:21  r17:0  
+class 1  vs  class 0£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 1  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:69  r15:0  r16:9  r17:0  
+class 3  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:7  r12:0  r13:0  r14:24  r15:0  r16:3  r17:0  
+class 4  vs  class 1£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 4  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:15  r15:0  r16:2  r17:0  
+class 4  vs  class 10£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 6  vs  class 2£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 9  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 10£º  r0:0  r1:0  r2:0  r3:4  r4:0  r5:1  r6:2  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 2£º  r0:0  r1:1  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 11  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:2  r17:0  
+class 11  vs  class 10£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:82  r12:0  r13:0  r14:19  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  4   2 :  0   3 :  13   4 :  3   5 :  5   6 :  3   7 :  0   8 :  0   9 :  0   10 :  0   11 :  131   12 :  0   13 :  10   14 :  249   15 :  0   16 :  37   17 :  0   

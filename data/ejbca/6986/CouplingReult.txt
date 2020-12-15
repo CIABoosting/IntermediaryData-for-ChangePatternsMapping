@@ -1,0 +1,33 @@
+Compared Result of  two versions
+Number of New Class: 20
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.ejbca.ui.cli.BaseCommand: 
+new Added class 1 : org.ejbca.ui.cli.CaExportCACommand: 
+new Added class 2 : org.ejbca.ui.cli.CaGetCrlCommand: 
+new Added class 3 : org.ejbca.ui.cli.CaImportCVCCACommand: 
+new Added class 4 : org.ejbca.ui.cli.CaInfoCommand: 
+new Added class 5 : org.ejbca.ui.cli.CaListExpiredCommand: 
+new Added class 6 : org.ejbca.ui.cli.ClientToolBox: 
+new Added class 7 : org.ejbca.ui.cli.CMPTest: 
+new Added class 8 : org.ejbca.ui.cli.EjbcaWsRaCli: 
+new Added class 9 : org.ejbca.ui.cli.HealthCheckTest: 
+new Added class 10 : org.ejbca.ui.cli.HSMKeyTool: 
+new Added class 11 : org.ejbca.ui.cli.InitializeHardTokenIssuing: 
+new Added class 12 : org.ejbca.ui.cli.KeyStoreContainerTest: 
+new Added class 13 : org.ejbca.ui.cli.NCipherHSMKeyTool: 
+new Added class 14 : org.ejbca.ui.cli.Ocsp: 
+new Added class 15 : org.ejbca.ui.cli.PKCS11HSMKeyTool: 
+new Added class 16 : org.ejbca.ui.cli.RaAddUserCommand: 
+new Added class 17 : org.ejbca.ui.cli.RaGetUserCertCommand: 
+new Added class 18 : org.ejbca.ui.cli.RaKeyRecoverNewestCommand: 
+new Added class 19 : org.ejbca.ui.cli.SetupSetBaseURLCommand: 
+testing relationship 
+class 7  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 8  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 10  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 14  vs  class 6£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 10£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  7   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  0   12 :  0   13 :  0   14 :  0   15 :  0   16 :  0   17 :  0   

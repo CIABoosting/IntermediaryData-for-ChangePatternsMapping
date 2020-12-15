@@ -1,0 +1,16 @@
+WanReplicationTest:0.36666666666666664
+PartitionControlledIdTest:0.22
+BackupTest:0.22
+PartitionStateGeneratorTest:0.22
+SplitBrainReplicatedMapTest:0.20333333333333334
+ClusterJoinTest:0.19666666666666666
+SplitBrainHandlerTest:0.15333333333333332
+MemberListTest:0.14
+PartitionDistributionTest:0.13
+MemcacheTest:0.12
+SSLConnectionTest:0.04666666666666667
+MemoryLeakTest:0.04666666666666667
+RepartitioningStressTest:0.03
+SocketInterceptorTest:0.016666666666666666
+EncryptionTest:0.0033333333333333335
+RestTest:0.0033333333333333335

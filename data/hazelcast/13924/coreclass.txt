@@ -1,0 +1,14 @@
+Config:0.6433333333333333
+CacheConfig:0.5
+AbstractHazelcastCacheManager:0.2733333333333333
+XmlConfigBuilder:0.21
+HazelcastServerCacheManager:0.19333333333333333
+HazelcastClientCacheManager:0.17333333333333334
+HazelcastClientCachingProvider:0.16333333333333333
+AbstractCacheConfig:0.15333333333333332
+AbstractHazelcastCachingProvider:0.15333333333333332
+HazelcastClient:0.13777777777777778
+AbstractCacheService:0.13666666666666666
+CacheGetConfigOperation:0.13666666666666666
+HazelcastServerCachingProvider:0.13666666666666666
+CacheGetConfigRequest:0.06666666666666667

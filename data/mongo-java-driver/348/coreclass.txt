@@ -1,0 +1,17 @@
+Mongo:0.48
+InternalStreamConnection:0.41
+Builder:0.37
+ConnectionString:0.32
+MongoClientOptions:0.27666666666666667
+ZlibCompressor:0.24
+InternalStreamConnectionInitializer:0.21
+ClusterFixture:0.2
+MongoClientSettings:0.19
+MongoClientURI:0.18333333333333332
+DefaultClusterFactory:0.17
+MongoClients:0.16
+AuthenticatingConnectionTest:0.15666666666666668
+SingleServerClusterTest:0.13
+DefaultClusterableServerFactory:0.11666666666666667
+PlainAuthenticatorTest:0.10333333333333333
+InternalStreamConnectionFactory:0.06

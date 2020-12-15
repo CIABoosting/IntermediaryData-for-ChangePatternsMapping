@@ -1,0 +1,15 @@
+DriverConductor:0.37666666666666665
+SendChannelEndpoint:0.3566666666666667
+Receiver:0.33666666666666667
+DataPacketDispatcher:0.2833333333333333
+Sender:0.28
+DriverConductorTest:0.25333333333333335
+SenderTest:0.24666666666666667
+ReceiverProxy:0.11666666666666667
+SenderProxy:0.09916666666666667
+DriverSubscription:0.07333333333333333
+NewPublicationCmd:0.05333333333333334
+PublicationAssembly:0.05
+NewConnectionCmd:0.05
+PublicationRegistration:0.04
+ClosePublicationCmd:0.023333333333333334

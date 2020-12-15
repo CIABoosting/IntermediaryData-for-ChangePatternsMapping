@@ -1,0 +1,17 @@
+Compared Result of  two versions
+Number of New Class: 10
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.nutz.dao.test.meta.issue338.Ask: 
+new Added class 1 : org.nutz.dao.Chain: 
+new Added class 2 : org.nutz.dao.util.Daos: 
+new Added class 3 : org.nutz.lang.Files: 
+new Added class 4 : org.nutz.lang.hardware.Networks: 
+new Added class 5 : org.nutz.resource.Scans: 
+new Added class 6 : org.nutz.lang.Times: 
+new Added class 7 : org.nutz.dao.impl.sql.pojo.UpdateFieldsPItem: 
+new Added class 8 : org.nutz.dao.test.normal.UpdateTest: 
+new Added class 9 : org.nutz.mvc.impl.processor.ViewProcessor: 
+testing relationship 
+class 2  vs  class 1£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:8  r14:0  r15:0  r16:1  r17:0  
+record  0 :  0   1 :  0   2 :  0   3 :  0   4 :  0   5 :  0   6 :  0   7 :  0   8 :  0   9 :  0   10 :  0   11 :  3   12 :  0   13 :  8   14 :  0   15 :  0   16 :  1   17 :  0   
