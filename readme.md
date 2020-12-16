@@ -13,6 +13,7 @@ In each commit of projects, there are two files:
 - **CouplingReult.txt**: show the coupling dependencies between two classes. Change-pattern between two classes is an 18-dimension vector and each dimension represents a kind of coupling dependencies as indicated at section 4.3 in our article
 
 <br/>
+
 The file named **experiment_data** stores the datasets that we use to conduct experiments.
 In each commit of projects, there are up to five files:
 
