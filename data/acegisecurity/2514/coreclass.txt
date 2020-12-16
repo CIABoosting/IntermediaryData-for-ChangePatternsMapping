@@ -1,9 +1,0 @@
-FilterChainOrder:0.6266666666666667
-OrderedFilterDecorator:0.35333333333333333
-SpringSecurityFilter:0.2633333333333333
-HttpSecurityBeanDefinitionParserTests:0.26
-SecurityContextHolderAwareRequestFilter:0.24333333333333335
-AnonymousProcessingFilter:0.21083333333333334
-AuthenticationProcessingFilter:0.19416666666666668
-ChannelProcessingFilter:0.18250000000000002
-OrderedFilterBeanDefinitionDecorator:0.17333333333333334

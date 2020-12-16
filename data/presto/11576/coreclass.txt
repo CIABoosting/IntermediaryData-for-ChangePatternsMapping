@@ -1,8 +1,0 @@
-BlockBuilder:0.6866666666666666
-PageBuilder:0.4266666666666667
-TopNIterator:0.26
-InMemoryOrderByOperatorIterator:0.16
-HashJoinIterator:0.15333333333333332
-InMemoryWindowOperatorIterator:0.11
-FilterAndProjectIterator:0.11
-RecordProjectionOperator:0.11

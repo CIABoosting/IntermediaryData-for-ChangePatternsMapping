@@ -1,9 +1,0 @@
-SQLReduceJobStatus:0.58
-AsyncBroadcastAction:0.33666666666666667
-StartReduceJobHandler:0.2438888888888889
-ReceivePartialResultHandler:0.21
-TransportSQLReduceHandler:0.14
-SQLMapperResultRequest:0.09
-SQLGroupByResultTest:0.08333333333333333
-SQLReduceJobStatusTest:0.08333333333333333
-Constants:0.016666666666666666
