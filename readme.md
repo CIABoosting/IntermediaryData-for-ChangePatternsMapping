@@ -27,4 +27,11 @@ In each commit of projects, there are up to five files:
 
 <br/>
 
-**Notice**: Not every file has 'ImpactminerResult', 'JripplesResult' and 'RoseResult', due to lack of commit message, dependencies with other files and appearance in previous commits respectively.
+**Notice**: Not every commit has 'ImpactminerResult', 'JripplesResult' and 'RoseResult'. 
+
+For Impactminer, it is because the commit lacks commit message or the tool can't find results according to the commit message given.
+
+For Jripples, it is because the coreclass in a particular commit has no dependencies with other classes in the project.
+
+For Rose, it is because the coreclass hasn't appeared in previous commits.
+

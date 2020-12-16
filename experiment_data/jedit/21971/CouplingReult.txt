@@ -1,0 +1,123 @@
+Compared Result of  two versions
+Number of New Class: 78
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.gjt.sp.jedit.options.BrowserContextOptionPane: 
+new Added class 1 : org.gjt.sp.jedit.buffer.BufferSegment: 
+new Added class 2 : org.gjt.sp.jedit.bufferset.BufferSet: 
+new Added class 3 : org.gjt.sp.jedit.bufferset.BufferSetAdapter: 
+new Added class 4 : org.gjt.sp.jedit.bufferset.BufferSetListener: 
+new Added class 5 : org.gjt.sp.jedit.bufferset.BufferSetManager: 
+new Added class 6 : org.gjt.sp.jedit.textarea.CircleFoldPainter: 
+new Added class 7 : org.gjt.sp.jedit.textarea.ColumnBlock: 
+new Added class 8 : org.gjt.sp.jedit.textarea.ColumnBlockLine: 
+new Added class 9 : org.jedit.options.CombinedOptions: 
+new Added class 10 : org.gjt.sp.jedit.gui.ContextAddDialog: 
+new Added class 11 : org.gjt.sp.jedit.browser.DeleteBrowserTask: 
+new Added class 12 : org.gjt.sp.jedit.gui.DockableWindowManagerImpl: 
+new Added class 13 : org.gjt.sp.jedit.gui.DockableWindowManagerProvider: 
+new Added class 14 : org.gjt.sp.jedit.gui.DockingFrameworkProvider: 
+new Added class 15 : org.gjt.sp.jedit.gui.DockingLayoutManager: 
+new Added class 16 : org.gjt.sp.jedit.gui.DynamicContextMenuService: 
+new Added class 17 : org.gjt.sp.jedit.textarea.ElasticTabStopBufferListener: 
+new Added class 18 : org.gjt.sp.jedit.textarea.ElasticTabstopsTabExpander: 
+new Added class 19 : org.gjt.sp.util.EnhancedTreeCellRenderer: 
+new Added class 20 : org.gjt.sp.jedit.gui.statusbar.ErrorsWidgetFactory: 
+new Added class 21 : org.jedit.core.FileOpenerService: 
+new Added class 22 : org.gjt.sp.jedit.gui.FilePropertiesDialog: 
+new Added class 23 : org.gjt.sp.jedit.textarea.FoldPainter: 
+new Added class 24 : org.gjt.sp.jedit.gui.FontSelectorDialog: 
+new Added class 25 : org.jedit.options.GlobalOptionGroup: 
+new Added class 26 : org.gjt.sp.jedit.textarea.GutterPopupHandler: 
+new Added class 27 : org.gjt.sp.util.HtmlUtilities: 
+new Added class 28 : org.gjt.sp.jedit.gui.statusbar.IndentWidgetFactory: 
+new Added class 29 : org.gjt.sp.jedit.options.IntegerInputVerifier: 
+new Added class 30 : org.gjt.sp.jedit.datatransfer.JEditDataFlavor: 
+new Added class 31 : org.gjt.sp.jedit.textarea.JEditEmbeddedTextArea: 
+new Added class 32 : org.gjt.sp.jedit.datatransfer.JEditRichText: 
+new Added class 33 : org.gjt.sp.jedit.gui.tray.JEditSwingTrayIcon: 
+new Added class 34 : org.gjt.sp.jedit.datatransfer.JEditTransferable: 
+new Added class 35 : org.gjt.sp.jedit.datatransfer.JEditTransferableService: 
+new Added class 36 : org.gjt.sp.jedit.gui.tray.JEditTrayIcon: 
+new Added class 37 : org.gjt.sp.jedit.gui.tray.JTrayIcon: 
+new Added class 38 : org.gjt.sp.jedit.gui.tray.JTrayIconManager: 
+new Added class 39 : org.jedit.keymap.Keymap: 
+new Added class 40 : org.jedit.keymap.KeymapFileFilter: 
+new Added class 41 : org.jedit.keymap.KeymapImpl: 
+new Added class 42 : org.jedit.keymap.KeymapManager: 
+new Added class 43 : org.jedit.keymap.KeymapManagerImpl: 
+new Added class 44 : org.jedit.migration.KeymapMigration: 
+new Added class 45 : org.gjt.sp.jedit.gui.statusbar.LastModifiedWidgetFactory: 
+new Added class 46 : org.gjt.sp.jedit.gui.ListModelEditor: 
+new Added class 47 : org.gjt.sp.jedit.datatransfer.ListVFSFileTransferable: 
+new Added class 48 : org.gjt.sp.jedit.io.LocalFileSaveTask: 
+new Added class 49 : org.gjt.sp.jedit.menu.MenuItemTextComparator: 
+new Added class 50 : org.jedit.core.MigrationService: 
+new Added class 51 : org.gjt.sp.jedit.browser.MkDirBrowserTask: 
+new Added class 52 : org.gjt.sp.jedit.textarea.Node: 
+new Added class 53 : org.gjt.sp.jedit.gui.NumericTextField: 
+new Added class 54 : org.jedit.options.OptionGroupPane: 
+new Added class 55 : org.gjt.sp.jedit.gui.PasteSpecialDialog: 
+new Added class 56 : org.gjt.sp.jedit.gui.PingPongList: 
+new Added class 57 : org.jedit.options.PluginOptionGroup: 
+new Added class 58 : org.gjt.sp.jedit.browser.RenameBrowserTask: 
+new Added class 59 : org.gjt.sp.jedit.datatransfer.RichJEditTextTransferableService: 
+new Added class 60 : org.gjt.sp.jedit.datatransfer.RichTextTransferable: 
+new Added class 61 : org.gjt.sp.jedit.gui.statusbar.SelectionLengthWidgetFactory: 
+new Added class 62 : org.gjt.sp.jedit.textarea.ShapedFoldPainter: 
+new Added class 63 : org.gjt.sp.jedit.SplitConfigParser: 
+new Added class 64 : org.gjt.sp.jedit.textarea.SquareFoldPainter: 
+new Added class 65 : org.gjt.sp.jedit.textarea.StandaloneTextArea: 
+new Added class 66 : org.gjt.sp.util.StringModel: 
+new Added class 67 : org.gjt.sp.jedit.datatransfer.StringTransferableService: 
+new Added class 68 : org.jedit.options.TabbedOptionDialog: 
+new Added class 69 : org.gjt.sp.util.Task: 
+new Added class 70 : org.gjt.sp.util.TaskAdapter: 
+new Added class 71 : org.gjt.sp.util.TaskListener: 
+new Added class 72 : org.gjt.sp.util.TaskManager: 
+new Added class 73 : org.gjt.sp.jedit.gui.TaskMonitor: 
+new Added class 74 : org.gjt.sp.jedit.gui.statusbar.TaskMonitorWidgetFactory: 
+new Added class 75 : org.gjt.sp.util.ThreadUtilities: 
+new Added class 76 : org.gjt.sp.jedit.datatransfer.TransferHandler: 
+new Added class 77 : org.gjt.sp.jedit.textarea.TriangleFoldPainter: 
+testing relationship 
+class 2  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:6  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 3  vs  class 4£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 5  vs  class 2£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:8  r12:0  r13:4  r14:6  r15:0  r16:2  r17:0  
+class 6  vs  class 62£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:4  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 7  vs  class 52£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:1  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 9  vs  class 54£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 68£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 14£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 7£º  r0:0  r1:0  r2:0  r3:9  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:59  r12:0  r13:47  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 8£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 7£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:3  r17:0  
+class 18  vs  class 8£º  r0:0  r1:0  r2:0  r3:2  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:3  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 33  vs  class 36£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 36  vs  class 37£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 33£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 38  vs  class 36£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:5  r7:0  r8:14  r9:0  r10:1  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 41  vs  class 39£º  r0:0  r1:0  r2:1  r3:1  r4:1  r5:0  r6:1  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 42  vs  class 39£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 39£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:2  r6:0  r7:0  r8:3  r9:0  r10:0  r11:2  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 43  vs  class 42£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 44  vs  class 39£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 44  vs  class 42£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:1  r12:0  r13:3  r14:0  r15:0  r16:0  r17:0  
+class 44  vs  class 50£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 48  vs  class 69£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 54  vs  class 66£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:1  r9:0  r10:3  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 59  vs  class 35£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 62  vs  class 23£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 63  vs  class 2£º  r0:0  r1:0  r2:0  r3:1  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:9  r12:0  r13:2  r14:0  r15:0  r16:0  r17:0  
+class 64  vs  class 62£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 67  vs  class 35£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 68  vs  class 54£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:2  r12:0  r13:1  r14:0  r15:0  r16:0  r17:0  
+class 70  vs  class 71£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 72  vs  class 69£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 73  vs  class 69£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 73  vs  class 71£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 75  vs  class 69£º  r0:0  r1:0  r2:0  r3:1  r4:1  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:5  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 76  vs  class 35£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 77  vs  class 23£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  6   2 :  12   3 :  15   4 :  2   5 :  6   6 :  13   7 :  0   8 :  20   9 :  0   10 :  4   11 :  98   12 :  0   13 :  65   14 :  20   15 :  0   16 :  6   17 :  0   

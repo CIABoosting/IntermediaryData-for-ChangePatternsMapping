@@ -1,0 +1,45 @@
+Compared Result of  two versions
+Number of New Class: 22
+Number of Changed Class: 0
+Number of Deleted Class: 0
+new Added class 0 : org.gjt.sp.jedit.gui.AbstractContextOptionPane: 
+new Added class 1 : org.gjt.sp.jedit.gui.ContextAddDialog: 
+new Added class 2 : org.gjt.sp.jedit.BeanShellFacade: 
+new Added class 3 : org.gjt.sp.jedit.bsh.classpath.BshClassLoader: 
+new Added class 4 : org.gjt.sp.jedit.bsh.BshClassManager: 
+new Added class 5 : org.gjt.sp.jedit.bsh.BshIterator: 
+new Added class 6 : org.gjt.sp.jedit.Buffer: 
+new Added class 7 : org.gjt.sp.jedit.bsh.org.objectweb.asm.ClassWriter: 
+new Added class 8 : org.gjt.sp.jedit.bsh.collection.CollectionIterator: 
+new Added class 9 : org.gjt.sp.jedit.bsh.CollectionManager: 
+new Added class 10 : org.gjt.sp.jedit.bsh.ConsoleInterface: 
+new Added class 11 : org.gjt.sp.jedit.gui.FilteredListModel: 
+new Added class 12 : org.gjt.sp.jedit.GUIUtilities: 
+new Added class 13 : org.gjt.sp.jedit.bufferio.MarkersSaveRequest: 
+new Added class 14 : org.gjt.sp.jedit.bsh.NameSource: 
+new Added class 15 : org.gjt.sp.jedit.bsh.NameSpace: 
+new Added class 16 : org.gjt.sp.jedit.gui.ShortcutPrefixActiveEvent: 
+new Added class 17 : org.gjt.sp.jedit.textarea.TextArea: 
+new Added class 18 : org.gjt.sp.jedit.textarea.TextAreaPainter: 
+new Added class 19 : org.gjt.sp.jedit.bsh.This: 
+new Added class 20 : org.gjt.sp.jedit.bsh.UtilEvalError: 
+new Added class 21 : org.gjt.sp.jedit.bsh.XThis: 
+testing relationship 
+class 2  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:2  r9:0  r10:2  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 2  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:1  r7:0  r8:8  r9:0  r10:7  r11:0  r12:0  r13:0  r14:10  r15:0  r16:0  r17:0  
+class 2  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:2  r15:0  r16:1  r17:0  
+class 3  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:4  r9:0  r10:0  r11:0  r12:0  r13:0  r14:3  r15:0  r16:0  r17:0  
+class 4  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:6  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 9  vs  class 5£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 13  vs  class 6£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:3  r9:0  r10:2  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 15  vs  class 4£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:7  r9:0  r10:1  r11:2  r12:0  r13:2  r14:3  r15:0  r16:1  r17:0  
+class 15  vs  class 14£º  r0:0  r1:0  r2:1  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 19£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:3  r6:0  r7:0  r8:2  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 15  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:23  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 17  vs  class 18£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:27  r9:0  r10:21  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 18  vs  class 17£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:8  r9:0  r10:22  r11:0  r12:0  r13:0  r14:2  r15:0  r16:0  r17:0  
+class 19  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:1  r6:0  r7:0  r8:5  r9:0  r10:5  r11:0  r12:0  r13:0  r14:4  r15:0  r16:0  r17:0  
+class 19  vs  class 20£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:2  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+class 21  vs  class 15£º  r0:0  r1:0  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:1  r15:0  r16:0  r17:0  
+class 21  vs  class 19£º  r0:0  r1:1  r2:0  r3:0  r4:0  r5:0  r6:0  r7:0  r8:0  r9:0  r10:0  r11:0  r12:0  r13:0  r14:0  r15:0  r16:0  r17:0  
+record  0 :  0   1 :  1   2 :  1   3 :  0   4 :  0   5 :  10   6 :  1   7 :  31   8 :  66   9 :  0   10 :  60   11 :  2   12 :  0   13 :  2   14 :  26   15 :  0   16 :  2   17 :  0   
