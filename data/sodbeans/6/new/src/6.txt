@@ -1,0 +1,22 @@
+---------------------------------------------
+修订版本号: 6
+提交者: stefika
+日期: Wed Apr 01 03:01:33 CST 2009
+注释信息: Added more test cases and made modifications of the grammar.
+受影响的文件、目录:
+A /sodbeans/trunk/Compiler/test/hop/class.hop
+M /sodbeans/trunk/Compiler/test/hop/simple.hop
+A /sodbeans/trunk/Compiler/test/hop/if_else.hop
+A /sodbeans/trunk/Compiler/test/hop/expressions.hop
+A /sodbeans/trunk/Compiler/test/hop/UseFileNameForClass.hop
+M /sodbeans/trunk/Compiler/test/unit/src/org/sonify/vm/hop/parser/HopParserAPITest.java
+A /sodbeans/trunk/Compiler/test/hop/if.hop
+M /sodbeans/trunk/Compiler/src/org/sonify/vm/hop/parser/HopParserAPI.java
+D /sodbeans/trunk/Compiler/src/org/sapi
+M /sodbeans/trunk/Compiler/src/org/sonify/vm/hop/parser/Hop.tokens
+A /sodbeans/trunk/Compiler/test/hop/gcd.hop
+M /sodbeans/trunk/Compiler/src/org/sonify/vm/hop/parser/Hop.g
+A /sodbeans/trunk/Compiler/test/hop/loops.hop
+M /sodbeans/trunk/Compiler/src/org/sonify/vm/hop/parser/HopParser.java
+A /sodbeans/trunk/Compiler/test/hop/methods.hop
+M /sodbeans/trunk/Compiler/src/org/sonify/vm/hop/parser/HopLexer.java

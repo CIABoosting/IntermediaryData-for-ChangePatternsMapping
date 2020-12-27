@@ -1,0 +1,11 @@
+---------------------------------------------
+修订版本号: 9
+提交者: kdonald
+日期: Mon Jun 20 00:53:03 CST 2005
+注释信息: generic converter aliases
+
+受影响的文件、目录:
+A /spring-projects/trunk/spring-binding/src/java/org/springframework/binding/convert/support/TextToBean.java
+M /spring-projects/trunk/spring-binding/src/java/org/springframework/binding/convert/support/BeanFactoryAwareConversionService.java
+M /spring-projects/trunk/spring-binding/src/java/org/springframework/binding/convert/support/DefaultConversionService.java
+M /spring-projects/trunk/spring-binding/src/java/org/springframework/binding/convert/support/ConverterPropertyEditorAdapter.java

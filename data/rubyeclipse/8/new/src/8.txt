@@ -1,0 +1,59 @@
+---------------------------------------------
+修订版本号: 8
+提交者: awilliams
+日期: Mon Apr 29 03:10:50 CST 2002
+注释信息: *** empty log message ***
+
+受影响的文件、目录:
+A /trunk/org.rubypeople.rdt.ui/src/org/rubyeclipse/rdt/internal
+A /trunk/org.rubypeople.rdt.ui/src/org/rubyeclipse/rdt/internal/ui
+M /trunk/org.rubypeople.rdt.launching/.project
+M /trunk/org.rubypeople.rdt.ui/.project
+A /trunk/org.rubypeople.rdt.ui/src/org/rubyeclipse/rdt/internal/ui/viewsupport/ContainerCheckedTreeViewer.java
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/utils
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/utils/DirectorySelector.java
+M /trunk/org.rubypeople.rdt.launching/.classpath
+M /trunk/org.rubypeople.rdt.ui/.classpath
+D /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/dialog/StatusLabel.java
+M /trunk/org.rubypeople.rdt.core/plugin.xml
+A /trunk/org.rubypeople.rdt.ui/icons/full/obj16
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/dialog/StatusInfo.java
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/utils/RubyFileSelector.java
+M /trunk/org.rubypeople.rdt.debug.ui/src/org/rubypeople/rdt/internal/debug/ui/preferences/EditInterpreterDialog.java
+A /trunk/org.rubypeople.rdt.ui/icons/full/obj16/error_obj.gif
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/utils/RubyProjectSelector.java
+D /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/dialog/RubyProjectListSelectionDialog.java
+M /trunk/org.rubypeople.rdt.debug.ui/src/org/rubypeople/rdt/internal/debug/ui/launcher/RubyEntryPointTab.java
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/utils/RubyElementVisitor.java
+M /trunk/org.rubypeople.rdt.core/.project
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/JDTOriginally.java
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/dialog/ISelectionValidator.java
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/dialog/CheckedTreeSelectionDialog.java
+M /trunk/org.rubypeople.rdt.core/.classpath
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/RubyPluginImages.java
+M /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/RubyViewerFilter.java
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/dialog/SelectionStatusDialog.java
+A /trunk/org.rubypeople.rdt.ui/icons/full/obj16/warning_obj.gif
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/utils/TwoArrayQuickSorter.java
+M /trunk/org.rubypeople.rdt.debug.ui/plugin.properties
+A /trunk/org.rubypeople.rdt.ui/src/org/rubyeclipse/rdt
+M /trunk/org.rubypeople.rdt.debug.ui/src/org/rubypeople/rdt/internal/debug/ui/launcher/RubyEnvironmentTab.java
+M /trunk/org.rubypeople.rdt.debug.ui/.project
+M /trunk/org.rubypeople.rdt.debug.ui/src/org/rubypeople/rdt/internal/debug/ui/launcher/RubyArgumentsTab.java
+M /trunk/org.rubypeople.rdt.launching/src/org/rubypeople/rdt/launching/RdtLaunchingPlugin.java
+M /trunk/org.rubypeople.rdt.debug.ui/src/org/rubypeople/rdt/internal/debug/ui/RdtDebugUiPlugin.java
+M /trunk/org.rubypeople.rdt.debug.ui/.classpath
+D /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/ui
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/dialog/MessageLine.java
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/utils/FilteredList.java
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/dialog/AbstractElementListSelectionDialog.java
+A /trunk/org.rubypeople.rdt.debug.ui/src/org/rubypeople/rdt/internal/debug/ui/launcher/RubyLaunchConfigurationAttribute.java
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/utils/StringMatcher.java
+M /trunk/org.rubypeople.rdt.debug.ui/build.properties
+M /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/dialog/StatusDialog.java
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/dialog/ElementListSelectionDialog.java
+A /trunk/org.rubypeople.rdt.ui/src/org/rubyeclipse
+M /trunk/org.rubypeople.rdt.ui/plugin.xml
+A /trunk/org.rubypeople.rdt.ui/icons/full/obj16/info_obj.gif
+A /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/utils/ResourceSelector.java
+A /trunk/org.rubypeople.rdt.ui/src/org/rubyeclipse/rdt/internal/ui/viewsupport

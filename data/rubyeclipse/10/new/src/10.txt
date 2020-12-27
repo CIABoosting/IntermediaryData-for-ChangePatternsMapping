@@ -1,0 +1,44 @@
+---------------------------------------------
+修订版本号: 10
+提交者: awilliams
+日期: Sun May 12 07:08:35 CST 2002
+注释信息: *** empty log message ***
+
+受影响的文件、目录:
+D /trunk/org.rubypeople.rdt.core/build.xml
+M /trunk/org.rubypeople.rdt.launching/.project
+M /trunk/org.rubypeople.rdt.ui/.project
+A /trunk/org.rubypeople.rdt.launching/scripts
+M /trunk/org.rubypeople.rdt.launching/.classpath
+M /trunk/org.rubypeople.rdt.ui/.classpath
+M /trunk/org.rubypeople.rdt.core/plugin.xml
+M /trunk/org.rubypeople.rdt.debug.ui/.vcm_meta
+M /trunk/org.rubypeople.rdt.launching/src/org/rubypeople/rdt/launching/RubyRuntime.java
+M /trunk/org.rubypeople.rdt.ui/.vcm_meta
+A /trunk/org.rubypeople.rdt.launching/scripts/exportplugin.xml
+A /trunk/org.rubypeople.rdt.ui/scripts/exportplugin.xml
+M /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/utils/RubyFileSelector.java
+D /trunk/org.rubypeople.rdt.core/src/org/rubypeople/rdt/internal/core/LibraryPathEntry.java
+M /trunk/org.rubypeople.rdt.debug.ui/src/org/rubypeople/rdt/internal/debug/ui/preferences/EditInterpreterDialog.java
+M /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/RubyProjectLibraryPage.java
+M /trunk/org.rubypeople.rdt.core/.project
+M /trunk/org.rubypeople.rdt.core/.vcm_meta
+M /trunk/org.rubypeople.rdt.core/.classpath
+M /trunk/org.rubypeople.rdt.ui/src/org/rubypeople/rdt/internal/ui/RubyPluginImages.java
+M /trunk/org.rubypeople.rdt.debug.ui/src/org/rubypeople/rdt/internal/debug/ui/preferences/RubyInterpreterPreferencePage.java
+A /trunk/org.rubypeople.rdt.debug.ui/scripts
+M /trunk/org.rubypeople.rdt.launching/src/org/rubypeople/rdt/launching/InterpreterRunner.java
+A /trunk/org.rubypeople.rdt.ui/scripts
+A /trunk/org.rubypeople.rdt.core/scripts/exportplugin.xml
+M /trunk/org.rubypeople.rdt.launching/src/org/rubypeople/rdt/internal/launching/RubyApplicationLaunchConfigurationDelegate.java
+M /trunk/org.rubypeople.rdt.debug.ui/src/org/rubypeople/rdt/internal/debug/ui/launcher/RubyEnvironmentTab.java
+M /trunk/org.rubypeople.rdt.debug.ui/.project
+M /trunk/org.rubypeople.rdt.debug.ui/.classpath
+D /trunk/org.rubypeople.rdt.debug.ui/build.xml
+A /trunk/org.rubypeople.rdt.core/scripts
+M /trunk/org.rubypeople.rdt.launching/.vcm_meta
+M /trunk/org.rubypeople.rdt.debug.ui/src/org/rubypeople/rdt/internal/debug/ui/launcher/RubyLaunchConfigurationAttribute.java
+M /trunk/org.rubypeople.rdt.core/src/org/rubypeople/rdt/internal/core/RubyProject.java
+M /trunk/org.rubypeople.rdt.core/src/org/rubypeople/rdt/internal/core/TC_RubyProject.java
+M /trunk/org.rubypeople.rdt.launching/plugin.xml
+A /trunk/org.rubypeople.rdt.debug.ui/scripts/exportplugin.xml

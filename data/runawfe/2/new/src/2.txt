@@ -1,0 +1,13 @@
+---------------------------------------------
+修订版本号: 2
+提交者: Gritsenko_S
+日期: Wed Apr 11 21:49:28 CST 2007
+注释信息: added 
+	profile reloading after saving
+	method to return actor ids by codes which exists (ExecutorOutOfDate exception not thrown)
+受影响的文件、目录:
+M /RunaWFE-2.x/trunk/wfe/src/wf/web/ru/runa/common/web/action/TableViewSetupFormAction.java
+M /RunaWFE-2.x/trunk/wfe/src/af/logic/ru/runa/af/dao/impl/ExecutorDAOHibernateImpl.java
+M /RunaWFE-2.x/trunk/wfe/src/wf/jbpmdelegation/ru/runa/af/organizationfunction/SubordinateRecursiveFunction.java
+M /RunaWFE-2.x/trunk/wfe/src/wf/jbpmdelegation/ru/runa/af/organizationfunction/BaseOrganizationHierarchyFunction.java
+M /RunaWFE-2.x/trunk/wfe/src/af/logic/ru/runa/af/dao/ExecutorDAO.java
